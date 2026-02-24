@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,506) (-y) [-aAbBcefkmMoprv] (2026-02-22 02-33-02) (Retool)</description>
-		<version>2026-02-22 02-33-02</version>
-		<date>2026-02-22 04-28-58</date>
+		<description>IBM - PC compatible (24,526) (-y) [-aAbBcefkmMoprv] (2026-02-24 00-56-33) (Retool)</description>
+		<version>2026-02-24 00-56-33</version>
+		<date>2026-02-24 03-13-06</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -216,6 +216,12 @@
 		<description>100+ Great Games (USA)</description>
 		<rom name="100+ Great Games (USA).bin" size="443043888" crc="e0ef0a50" md5="13e0d93d5e2bc57ac59b7c144a429847" sha1="a4c4c082c236a90b3190f877f82f8592565a2db2"/>
 		<rom name="100+ Great Games (USA).cue" size="88" crc="db428840" md5="9722ac2e99d95efefb14e36c9d4e746d" sha1="070a34c0316f837f8c2099cc6decaede9e30559f"/>
+	</game>
+	<game name="100+ Great Games Volume II (Germany)">
+		<category>Demos</category>
+		<description>100+ Great Games Volume II (Germany)</description>
+		<rom name="100+ Great Games Volume II (Germany).bin" size="250694976" crc="4cb31a45" md5="addeda4ed1ee296a2408cc340d910061" sha1="6cdfcb877b3329c0451f93721082ab2b49baa0ef"/>
+		<rom name="100+ Great Games Volume II (Germany).cue" size="102" crc="86c37f5e" md5="86dd5b8a2c2c6613cb576cdabb255db8" sha1="1ab2e8152400dfb54996ff30a567750ae28ccb8a"/>
 	</game>
 	<game name="100,000 Games (USA) (Disc 1)">
 		<category>Games</category>
@@ -14289,6 +14295,12 @@
 		<description>Baphomets Fluch Trilogie (Germany)</description>
 		<rom name="Baphomets Fluch Trilogie (Germany).iso" size="4039737344" crc="5ccbda81" md5="dec59cad320810489d923d1253dbf043" sha1="25c731dbd663731d8510f62c8d09f8cc5b800413"/>
 	</game>
+	<game name="Bar Room Pinball, Darts &amp; Pool (USA)">
+		<category>Games</category>
+		<description>Bar Room Pinball, Darts &amp; Pool (USA)</description>
+		<rom name="Bar Room Pinball, Darts &amp; Pool (USA).bin" size="172681488" crc="66fc7bd6" md5="1348aced3f193cfc82384fd3b5db03f2" sha1="c0d1874330700d38a62db21bf074fc9701ac9eaa"/>
+		<rom name="Bar Room Pinball, Darts &amp; Pool (USA).cue" size="102" crc="3223b40d" md5="508fc53b66f2190ab8dd6d1a48c53397" sha1="24e67da90770c345831e803d36e91dd80a50a048"/>
+	</game>
 	<game name="Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1)">
 		<category>Games</category>
 		<description>Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1)</description>
@@ -18012,8 +18024,8 @@
 	<game name="Biohazard (Japan)">
 		<category>Games</category>
 		<description>Biohazard (Japan)</description>
-		<rom name="Biohazard (Japan).bin" size="739746336" crc="d55330a7" md5="962cef38983064f8414a5306d946e29f" sha1="12dcdc5325e6eba552c50e6cb84a7cc15b267568"/>
-		<rom name="Biohazard (Japan).cue" size="106" crc="373e39db" md5="80829ab84472b4faf539f6dc93c0dd94" sha1="17735c5d081a430811e35dbf606c0c89af423a5f"/>
+		<rom name="Biohazard (Japan).bin" size="745767456" crc="c27fa704" md5="0d6f9505501ab0992b2ff56c47cd1aac" sha1="bb119b39dab21d45cffb26160fb9015fcd45944b"/>
+		<rom name="Biohazard (Japan).cue" size="83" crc="8d2190c4" md5="0723add8e723fdaa05de06b52c950fa1" sha1="ac30cba84535683e5f66da49547f5ceef5c28702"/>
 	</game>
 	<game name="Biohazard - Gun Survivor (Taiwan)">
 		<category>Games</category>
@@ -20532,6 +20544,12 @@
 		<category>Games</category>
 		<description>Brian Lara International Cricket 2005 (UK)</description>
 		<rom name="Brian Lara International Cricket 2005 (UK).iso" size="4509204480" crc="6499fa7c" md5="44b245d2241ce638b68fbb3f5f083a4f" sha1="924329ba6514981527fc05039e891a8acd9bc4d9"/>
+	</game>
+	<game name="Brick Blaster 3D (UK)">
+		<category>Games</category>
+		<description>Brick Blaster 3D (UK)</description>
+		<rom name="Brick Blaster 3D (UK).bin" size="89561808" crc="49343d1e" md5="2949066022df0433a55bc5d6365a8463" sha1="e4b548c4b54695606ea8cf532a9f819f26b618a6"/>
+		<rom name="Brick Blaster 3D (UK).cue" size="87" crc="b997a1d2" md5="540d5e14a87c287be3d792c9da9302ce" sha1="2162d3a1a5583ccc439281fd26184be349950a71"/>
 	</game>
 	<game name="Bricks - The Ultimate Construction Toy! (USA)">
 		<category>Games</category>
@@ -30487,6 +30505,12 @@
 		<description>Creatures Trilogy, The (USA)</description>
 		<rom name="Creatures Trilogy, The (USA).bin" size="750683136" crc="7cf260cc" md5="551baeb8fe65dc53aa811fb450b005a7" sha1="9dc9cd93d7727c895fd79138222b5dc9f83e9fe5"/>
 		<rom name="Creatures Trilogy, The (USA).cue" size="94" crc="17e1019f" md5="ecbe9038660177749e71474f333da7aa" sha1="6a91b54e470f7080c0faf9ed952a5f70e13ed82f"/>
+	</game>
+	<game name="Creatures Village (Europe) (En,Fr,De)">
+		<category>Games</category>
+		<description>Creatures Village (Europe) (En,Fr,De)</description>
+		<rom name="Creatures Village (Europe) (En,Fr,De).bin" size="342818112" crc="397e8ad9" md5="90463f9bd63b7f2017991fe9a47d7b9e" sha1="f793ba6e26f08d27db4d15498cf6f9f71acdbf08"/>
+		<rom name="Creatures Village (Europe) (En,Fr,De).cue" size="103" crc="33d03efd" md5="600adb171d0e85e1fba48a9b1a4ccfc4" sha1="3e3584dd4867855f48ded4143901ba239a7d8d4c"/>
 	</game>
 	<game name="Crescendo (Russia)">
 		<category>Games</category>
@@ -47210,11 +47234,11 @@
 		<rom name="Europa Universalis III (Russia) (Disc 2) (Igrovoj).bin" size="546214368" crc="b1f0bf73" md5="c7efdd474e099c61de9415d1f3c01f69" sha1="5e0fd827ea810d9736d3ddaaffb66d083567e0a0"/>
 		<rom name="Europa Universalis III (Russia) (Disc 2) (Igrovoj).cue" size="116" crc="a9b80bbb" md5="b0c2103668ebd0baa42c9e33015f260b" sha1="63b690bb8c4352c0e741371680764ae6b237b70f"/>
 	</game>
-	<game name="Europa Universalis III (USA) (En,Fr,De)">
+	<game name="Europa Universalis III (USA, Europe) (En,Fr,De)">
 		<category>Games</category>
-		<description>Europa Universalis III (USA) (En,Fr,De)</description>
-		<rom name="Europa Universalis III (USA) (En,Fr,De).bin" size="389629968" crc="9dde941d" md5="25b6de6be2ac5e064cff77063113f4dd" sha1="d76d3a33bbd7b4e48f5c764260bb15822b31d8b1"/>
-		<rom name="Europa Universalis III (USA) (En,Fr,De).cue" size="105" crc="ff717266" md5="03cd29e8af13153fd5f86fcca934d144" sha1="923236c8d2fd1d22b78ed55d70442e743dfe83ae"/>
+		<description>Europa Universalis III (USA, Europe) (En,Fr,De)</description>
+		<rom name="Europa Universalis III (USA, Europe) (En,Fr,De).bin" size="389629968" crc="9dde941d" md5="25b6de6be2ac5e064cff77063113f4dd" sha1="d76d3a33bbd7b4e48f5c764260bb15822b31d8b1"/>
+		<rom name="Europa Universalis III (USA, Europe) (En,Fr,De).cue" size="113" crc="883dee73" md5="10be82cb59c34ea611d4d5d933e5c80c" sha1="928f5d52d8aea6a0f37e173788691d3c4c5f731b"/>
 	</game>
 	<game name="Europa Universalis III - Chronicles (Europe) (En,Fr,De,It,Nl,Pt,Fi,Pl,Ru,Cs,Hu)">
 		<category>Games</category>
@@ -56683,6 +56707,12 @@
 		<rom name="Galaxy of Games - Card Classics &amp; Solitaire Gold (USA).bin" size="39784080" crc="f9d32840" md5="01275328c85f1436a60ee87fcae77f36" sha1="4eee63a2bd62f1de6f1d4b66f1f94d8bd621c2d6"/>
 		<rom name="Galaxy of Games - Card Classics &amp; Solitaire Gold (USA).cue" size="120" crc="4e9b59a9" md5="ff9c46bd5f55b6f5b35137d3d4542ea1" sha1="833d73e5b5d388196c3c6227567e55a69d86a970"/>
 	</game>
+	<game name="Galaxy of Games - Card Games (USA)">
+		<category>Games</category>
+		<description>Galaxy of Games - Card Games (USA)</description>
+		<rom name="Galaxy of Games - Card Games (USA).bin" size="80073840" crc="f70c769b" md5="8e23a419bcf37d02cdc78fdc075ed11e" sha1="90f2ae3f251ab256a02159e9593835c4e0077ca6"/>
+		<rom name="Galaxy of Games - Card Games (USA).cue" size="100" crc="35dffecd" md5="d123f242b639dacdafaf51611ea3f2a3" sha1="ee9ff8d52d33ca45b37a88c7a432535489709016"/>
+	</game>
 	<game name="Galaxy of Games - Games for Girls (USA)">
 		<category>Games</category>
 		<description>Galaxy of Games - Games for Girls (USA)</description>
@@ -59214,6 +59244,12 @@
 		<rom name="Giochi di Leo, I - Gioca con il Castello (Italy).bin" size="352193184" crc="405c5d8b" md5="16e9720a2a3c205bc93e20e43b231b41" sha1="3ca488aff9d19c8d7cd06f689ee230173873d739"/>
 		<rom name="Giochi di Leo, I - Gioca con il Castello (Italy).cue" size="114" crc="d7cebd9c" md5="77c0279acb46dddba3fc1cf67494be81" sha1="d12b1a90c22b64ff8482878a6bafc2726f273ec9"/>
 	</game>
+	<game name="Giochi di Leo, I - Gioca con la Luna (Italy)">
+		<category>Games</category>
+		<description>Giochi di Leo, I - Gioca con la Luna (Italy)</description>
+		<rom name="Giochi di Leo, I - Gioca con la Luna (Italy).bin" size="235903248" crc="1d9f6726" md5="986e297e8bbf9971a39712dd3aebdb75" sha1="a26010ce3f57d60d3c21c7a2e7a64b6b10d3cb1f"/>
+		<rom name="Giochi di Leo, I - Gioca con la Luna (Italy).cue" size="110" crc="51a69510" md5="2ea840c1618ac595cbd51c5e1195d0b9" sha1="71e7aee88927fd40f5285ec0c479e48ebd6c85e6"/>
+	</game>
 	<game name="Gioco del Mondo, Il (Italy) (Covermount)">
 		<category>Games</category>
 		<description>Gioco del Mondo, Il (Italy) (Covermount)</description>
@@ -60581,6 +60617,11 @@
 		<rom name="Gothic II - Noc Kruka (Poland).bin" size="838920768" crc="14663005" md5="c2499a3c4d1d1c993951e9eb631510c2" sha1="42f33dc5da4fcde1e646192845140b90cb8ba3c5"/>
 		<rom name="Gothic II - Noc Kruka (Poland).cue" size="96" crc="6478ecfc" md5="a3505c06457906ec3cdb3a540e42486c" sha1="cb9baa321cf3836dfcfcaf1b673389f08f3e7e6f"/>
 	</game>
+	<game name="Gothic II - Zlota Edycja (Poland) (DVD-ROM)">
+		<category>Games</category>
+		<description>Gothic II - Zlota Edycja (Poland) (DVD-ROM)</description>
+		<rom name="Gothic II - Zlota Edycja (Poland) (DVD-ROM).iso" size="2518515712" crc="2de706f2" md5="ad87541148f8d81897e4e8f1cd0e8a7d" sha1="f949606128b21ec80ed72122c2f139a76abc7e2a"/>
+	</game>
 	<game name="Gothic II Gold (Russia)">
 		<category>Games</category>
 		<description>Gothic II Gold (Russia)</description>
@@ -61425,6 +61466,12 @@
 		<rom name="Great Green Mouse Disaster, The (Sweden) (En,Sv,No,Da,Fi).bin" size="380847600" crc="73ccb81d" md5="b9399fe538bddc5f218376d2657ac104" sha1="c30545ce2fc42619200628c9e63e3a13359fbded"/>
 		<rom name="Great Green Mouse Disaster, The (Sweden) (En,Sv,No,Da,Fi).cue" size="123" crc="8f772e1c" md5="56ad83747b90d4ee8f78db5ac5f19163" sha1="ff8b7fc57b2e322a426f1a0712b53bfebce35636"/>
 	</game>
+	<game name="Great Journey - Mr. Penguin's Letter (USA)">
+		<category>Games</category>
+		<description>Great Journey - Mr. Penguin's Letter (USA)</description>
+		<rom name="Great Journey - Mr. Penguin's Letter (USA).bin" size="416184048" crc="4380ffc2" md5="4a479d95141ffc8cb4c4ae229b536a4c" sha1="d622cf0bcd60e9ba14c3dbc72b1313a8ca72ac89"/>
+		<rom name="Great Journey - Mr. Penguin's Letter (USA).cue" size="108" crc="2a73a97e" md5="d5bbcb4b6320183d606b491cb1236476" sha1="bfbd2e474c65bfae382bbd21c4ec56ce24b46d0e"/>
+	</game>
 	<game name="Great Moomin Party, The (UK)">
 		<category>Games</category>
 		<description>Great Moomin Party, The (UK)</description>
@@ -61688,6 +61735,18 @@
 		<description>Grom - ...Terror in Tibet! (USA, Europe) (Disc 2) (Game-CD)</description>
 		<rom name="Grom - ...Terror in Tibet! (USA, Europe) (Disc 2) (Game-CD).bin" size="689178336" crc="255e2786" md5="13106dd53b95e93ed5466e588e3474f6" sha1="c09f3f1a5db447d59e1a5cf38783d63a6009551d"/>
 		<rom name="Grom - ...Terror in Tibet! (USA, Europe) (Disc 2) (Game-CD).cue" size="125" crc="a4225a85" md5="fa1e4a36e31c459664c59125a1dedb53" sha1="9f21496d66766dfbe495183eb957d5404110cf3b"/>
+	</game>
+	<game name="Grom - ...Terror w Tybecie! (Poland) (Disc 1) (Dysk Instalacyjny) (Rerelease)">
+		<category>Games</category>
+		<description>Grom - ...Terror w Tybecie! (Poland) (Disc 1) (Dysk Instalacyjny) (Rerelease)</description>
+		<rom name="Grom - ...Terror w Tybecie! (Poland) (Disc 1) (Dysk Instalacyjny) (Rerelease).bin" size="826970256" crc="b70e5237" md5="d493619413118483bfc650224631f39f" sha1="3bf664817e65e31e9aec71d2bea51d4f2f0e5cc2"/>
+		<rom name="Grom - ...Terror w Tybecie! (Poland) (Disc 1) (Dysk Instalacyjny) (Rerelease).cue" size="143" crc="1f1cb6f8" md5="511b11b5a39772b7eb79793d46ad8e50" sha1="dbc7b678e63f405d92d38893c6960f071dd0e52d"/>
+	</game>
+	<game name="Grom - ...Terror w Tybecie! (Poland) (Disc 2) (Dysk z gra) (Rerelease)">
+		<category>Games</category>
+		<description>Grom - ...Terror w Tybecie! (Poland) (Disc 2) (Dysk z gra) (Rerelease)</description>
+		<rom name="Grom - ...Terror w Tybecie! (Poland) (Disc 2) (Dysk z gra) (Rerelease).bin" size="295171296" crc="507e7c33" md5="645f9f1ae479a469a1de04f225835aac" sha1="9af0b0499bec4911126e30165a7c5076411489b0"/>
+		<rom name="Grom - ...Terror w Tybecie! (Poland) (Disc 2) (Dysk z gra) (Rerelease).cue" size="136" crc="e739b82e" md5="678fd960683ebcb389c04c1ccdb8afa8" sha1="5ad92228b9f31a53e0d48d78dd5b22bdb057f83d"/>
 	</game>
 	<game name="Gromada (USA)">
 		<category>Games</category>
@@ -79537,6 +79596,28 @@
 		<rom name="Konami Magazine - Cata-Rom Connection Vol. 1 - Tokimeki Memorial-hen (Japan).bin" size="122861424" crc="d1bb318a" md5="fd1851d5e049c0db09f45bb25c15d494" sha1="1e7539c9db40b5c8a71c41cfeef43fba28582aed"/>
 		<rom name="Konami Magazine - Cata-Rom Connection Vol. 1 - Tokimeki Memorial-hen (Japan).cue" size="165" crc="97e6a1d4" md5="6f871d4bec576cf7b3a6826f3eefa796" sha1="aaf8a14733ec4e3f5f44cd31dac6e5a3af6f2770"/>
 	</game>
+	<game name="Konpeki no Kantai Advance (Japan)">
+		<category>Games</category>
+		<description>Konpeki no Kantai Advance (Japan)</description>
+		<rom name="Konpeki no Kantai Advance (Japan) (Track 01).bin" size="250243392" crc="c760a0ca" md5="f55b14b080e77165ecf9ba64631b698d" sha1="878a40673ef1871c1058a9fc6009d4481d98b0c6"/>
+		<rom name="Konpeki no Kantai Advance (Japan) (Track 02).bin" size="16939104" crc="fcddc817" md5="b997cb35bb41205018888204517e3525" sha1="61f4c05f9e10adf14e14533fa633ddaf3311c8af"/>
+		<rom name="Konpeki no Kantai Advance (Japan) (Track 03).bin" size="45381840" crc="e15437a3" md5="d0be2152b852deef659158000292692b" sha1="1681f0507145bc2ec37feab4ee2aeb4f7c363330"/>
+		<rom name="Konpeki no Kantai Advance (Japan) (Track 04).bin" size="38041248" crc="108d03c4" md5="638f100f0100b52a017b1ae8960a9199" sha1="3b8c73502e598457db94b5984df7673599f9ba2d"/>
+		<rom name="Konpeki no Kantai Advance (Japan) (Track 05).bin" size="41383440" crc="3ade42c7" md5="c661ab4b5367383576b9cb4a61303612" sha1="4fa3df8dbbc2d58273f9bc38d1001330375a68ea"/>
+		<rom name="Konpeki no Kantai Advance (Japan) (Track 06).bin" size="26013120" crc="fd8540ff" md5="c988911dfbf39d8f4b27e2c37fa140c2" sha1="efc804f7387e825a22c1538fca8dffebc51322bf"/>
+		<rom name="Konpeki no Kantai Advance (Japan) (Track 07).bin" size="36432480" crc="dc5448e8" md5="1602448dc2300a0f7d25608e3b7ab53b" sha1="be8e0930f5b05fe98fd3947b84fa6abbd7e28f8f"/>
+		<rom name="Konpeki no Kantai Advance (Japan) (Track 08).bin" size="39344256" crc="00b9ad5e" md5="a8b309360881f7e654e2b24bda76ca0d" sha1="57c6e8aa2de26b163edad94fd17e754dcc58d481"/>
+		<rom name="Konpeki no Kantai Advance (Japan) (Track 09).bin" size="35190624" crc="0e60af2a" md5="c1956a0be08c06d6910af3aa90947b8c" sha1="bd8dce2a8a7d82e2f55fce7667836ddff601937c"/>
+		<rom name="Konpeki no Kantai Advance (Japan) (Track 10).bin" size="45972192" crc="c9a380e9" md5="96de1ca5ef3b035e02ecfad6b7be751d" sha1="666af53d00959ee054ba9cbffe9b3e9895aeefb1"/>
+		<rom name="Konpeki no Kantai Advance (Japan) (Track 11).bin" size="34581456" crc="a109fa2f" md5="024ba5ef82db545233d8d9b59224c5fd" sha1="e63f355fc6a442d8a17610386283daa6a413e158"/>
+		<rom name="Konpeki no Kantai Advance (Japan) (Track 12).bin" size="34266288" crc="b1cdc0a4" md5="c1a9f83846df08b5dcd4ce3b665dba63" sha1="cc8b972a78ddada35ef16a3136f55fb2105ab267"/>
+		<rom name="Konpeki no Kantai Advance (Japan) (Track 13).bin" size="29261232" crc="9ba08acf" md5="59b008a80b0b663e398f00df88c18812" sha1="02890a8bb4147bb70665a50efd6476ae9368686d"/>
+		<rom name="Konpeki no Kantai Advance (Japan) (Track 14).bin" size="13956768" crc="da18a55f" md5="19039c860308634975d207047af64810" sha1="3d8ac4ade41a6003987d392cd455c71464303ca0"/>
+		<rom name="Konpeki no Kantai Advance (Japan) (Track 15).bin" size="26015472" crc="e0ed702c" md5="7570e124908070c44402e2ee55b97125" sha1="07a03c1e27f2187d38f0bc6bc33df7881665b593"/>
+		<rom name="Konpeki no Kantai Advance (Japan) (Track 16).bin" size="6961920" crc="b0263e24" md5="1b34257be3c605391e46e68e8618a24e" sha1="7a110e429162005e1df2a3ca5b3a45c4ac9cb10a"/>
+		<rom name="Konpeki no Kantai Advance (Japan) (Track 17).bin" size="1060752" crc="ff3d7b87" md5="b69a00966ab682bdc93fe742d2f163dc" sha1="fe59ace1f06f64fcb6834e64a9c7835342b06909"/>
+		<rom name="Konpeki no Kantai Advance (Japan).cue" size="2158" crc="b560e011" md5="0516db7457f4fe07394c919d45f5ed2f" sha1="feb2ce5e2f4f8196ec9b3d6652fb3bbdf281a4a7"/>
+	</game>
 	<game name="Konrad &amp; Nobelmysteriet (Sweden)">
 		<category>Games</category>
 		<description>Konrad &amp; Nobelmysteriet (Sweden)</description>
@@ -84405,6 +84486,12 @@
 		<description>Loco-Commotion (Italy) (Covermount)</description>
 		<rom name="Loco-Commotion (Italy) (Covermount).bin" size="143599008" crc="d4b74218" md5="e5ba6ac504c3e140cf97cb3648012b83" sha1="0b9ee029e3446b9fc2909944b2bb9d90a90e9dcc"/>
 		<rom name="Loco-Commotion (Italy) (Covermount).cue" size="101" crc="7b74b867" md5="11bb7830fc87155e27ea14f47bde6f6e" sha1="caeca71f688643bebe1547996a9871af53bd6086"/>
+	</game>
+	<game name="Locoland (Poland)">
+		<category>Games</category>
+		<description>Locoland (Poland)</description>
+		<rom name="Locoland (Poland).bin" size="323978592" crc="050aeb2c" md5="3ff864aeeaef04e24a589a9a74dae361" sha1="82191973df126b55576c3fe4c2e172a31d719abb"/>
+		<rom name="Locoland (Poland).cue" size="83" crc="06087fa4" md5="0e249cef87b6491d3fd886515c7c2b47" sha1="5e1f3e2f5c6be428847986cd147fbd6437c9623d"/>
 	</game>
 	<game name="Locomotive in Guerra (Italy)">
 		<category>Games</category>
@@ -89333,6 +89420,12 @@
 		<rom name="Mankind (Germany).bin" size="141691536" crc="ba6e3d29" md5="dba3564c347b4b8bdc3ab23c486f8b4e" sha1="9face7e1c2b726424cff4cbf6acab019d652f2e5"/>
 		<rom name="Mankind (Germany).cue" size="106" crc="044ff8f9" md5="9517ef2043e34c8685fcec5dca02699c" sha1="b57e163d0c1403252b54c0c692bef4912b350a9d"/>
 	</game>
+	<game name="Manu &amp; Matti - Lomalataus (Finland)">
+		<category>Games</category>
+		<description>Manu &amp; Matti - Lomalataus (Finland)</description>
+		<rom name="Manu &amp; Matti - Lomalataus (Finland).bin" size="118827744" crc="5671fdca" md5="101d86d5c6b5c6a612ffc478014fa5f1" sha1="b41619299a3bdbd78498da6b826f54cfee5034f0"/>
+		<rom name="Manu &amp; Matti - Lomalataus (Finland).cue" size="101" crc="8eadd9f2" md5="e6b6738bae9317ce45a09d9793c39d78" sha1="1b7754db430c9400fb22018a08000ee9945ce7d1"/>
+	</game>
 	<game name="Manx TT SuperBike (USA) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Manx TT SuperBike (USA) (En,Fr,De,Es,It)</description>
@@ -89853,11 +89946,11 @@
 		<rom name="Masque Slots (USA) (Rev 1).bin" size="86908752" crc="50d0e814" md5="0bd54c46a3b551f34871c259d6e4e473" sha1="cdc9d761c812397f1f83ce5608314fa629a0789a"/>
 		<rom name="Masque Slots (USA) (Rev 1).cue" size="92" crc="88d7c682" md5="3f91117bcf118a2066270c03155bfb72" sha1="1fde963fed9facc758f132ffb0c0c2eeffa27f9e"/>
 	</game>
-	<game name="Masque Slots II (USA)">
+	<game name="Masque Slots II (USA) (v1.0.4)">
 		<category>Games</category>
-		<description>Masque Slots II (USA)</description>
-		<rom name="Masque Slots II (USA).bin" size="557979072" crc="cc01339b" md5="ce3a2f4baa89359b3190e14fb938cd74" sha1="0048b5eef639f78678d331923dc7b48533e8e9f6"/>
-		<rom name="Masque Slots II (USA).cue" size="87" crc="e1f13903" md5="bbaca07e7ed90a8163786e3507de4c06" sha1="ef7b284e6e1238b903ff9a50b6fd3286fffa3db5"/>
+		<description>Masque Slots II (USA) (v1.0.4)</description>
+		<rom name="Masque Slots II (USA) (v1.0.4).bin" size="558028464" crc="532e4ef4" md5="ae3f47c74fbb21ed5cf08c09cc9075f5" sha1="43e42120f7bb52dc57651b22ddcc1913d9d295ea"/>
+		<rom name="Masque Slots II (USA) (v1.0.4).cue" size="96" crc="8e9db76c" md5="00e3abb0052e06d9887f76c1bacbb67c" sha1="4890af074290a0ce866c04e39f353a4e249a9bef"/>
 	</game>
 	<game name="Masque Video Slots (USA)">
 		<category>Games</category>
@@ -94457,6 +94550,11 @@
 		<description>Midway Hits List (USA)</description>
 		<rom name="Midway Hits List (USA).bin" size="483926352" crc="4fbfc377" md5="82b4537a7d1eee1414edc23a7cb5828a" sha1="05dec4b8da444deeb52c16db923f24b3b0f91d5f"/>
 		<rom name="Midway Hits List (USA).cue" size="88" crc="059ac6c6" md5="1158414e236a176f31b95d126b339631" sha1="04644bb16fca049592155910e56c49cea6a90bd4"/>
+	</game>
+	<game name="Might &amp; Magic - Clash of Heroes (Poland)">
+		<category>Games</category>
+		<description>Might &amp; Magic - Clash of Heroes (Poland)</description>
+		<rom name="Might &amp; Magic - Clash of Heroes (Poland).iso" size="1728643072" crc="3e986633" md5="d012b6c0fef2cf51e94d75e12fcf9f90" sha1="943891a9f3812e0ab221413850bd99ebc5eb1bbe"/>
 	</game>
 	<game name="Might &amp; Magic Heroes VI (USA, Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -99301,23 +99399,23 @@
 		<description>Mutant (Russia)</description>
 		<rom name="Mutant (Russia).iso" size="1025835008" crc="50a6c9d1" md5="5b9da4892eaae7c92ba8ad1085384f08" sha1="66e37d56d905a849b371b6f8f0ff9820a202bdb0"/>
 	</game>
-	<game name="Mutant Penguins (Germany) (En,Fr,De) (Rerelease)">
+	<game name="Mutant Penguins (Europe) (En,Fr,De)">
 		<category>Games</category>
-		<description>Mutant Penguins (Germany) (En,Fr,De) (Rerelease)</description>
-		<rom name="Mutant Penguins (Germany) (En,Fr,De) (Rerelease) (Track 01).bin" size="80301984" crc="13eb4ab4" md5="182d2a33c6710888bb1e3d5ac84a5544" sha1="fb56092ac87d8416b3717c5788214461ec0aac6d"/>
-		<rom name="Mutant Penguins (Germany) (En,Fr,De) (Rerelease) (Track 02).bin" size="35037744" crc="54d19a5e" md5="d8d5a4da2577ebda440786733c9c3e5b" sha1="1ef0f7d726c505cc9bf893b7989cc0f2f4988adc"/>
-		<rom name="Mutant Penguins (Germany) (En,Fr,De) (Rerelease) (Track 03).bin" size="33245520" crc="b2c4af13" md5="2d36bcec689209626824c66fb9a70561" sha1="384461eac8a24b83f0aa12f58ae01019d507547d"/>
-		<rom name="Mutant Penguins (Germany) (En,Fr,De) (Rerelease) (Track 04).bin" size="34858992" crc="6bad3381" md5="9e35789f7b407056c75f1c9a009de876" sha1="9aa3cf010585fbcd81d3aec178684c0301a99334"/>
-		<rom name="Mutant Penguins (Germany) (En,Fr,De) (Rerelease) (Track 05).bin" size="37286256" crc="d6930447" md5="9ae33c078e6106ad1e2909d59cd531c7" sha1="ad2fb9c86b36a935451e7c66d62fbccf8d929ebc"/>
-		<rom name="Mutant Penguins (Germany) (En,Fr,De) (Rerelease) (Track 06).bin" size="34950720" crc="ea95967a" md5="86cf873a3caaa9ceb80809826ad49362" sha1="4839b5e139c08233ed0faae2d3b99d3b4c7e97c6"/>
-		<rom name="Mutant Penguins (Germany) (En,Fr,De) (Rerelease) (Track 07).bin" size="36044400" crc="736505a5" md5="77385b94175965161f75288e2a040695" sha1="e3cdc5790aa98f1a86b2971b6426a4f4f8619cac"/>
-		<rom name="Mutant Penguins (Germany) (En,Fr,De) (Rerelease) (Track 08).bin" size="34358016" crc="8be9ae70" md5="364ce532497c2b787d9773da0f83fa74" sha1="2b106605bdafa8f463ef6ddebefc920cea53e055"/>
-		<rom name="Mutant Penguins (Germany) (En,Fr,De) (Rerelease) (Track 09).bin" size="34120464" crc="a2f8e892" md5="f7c84f80a008d737182a4b3029782980" sha1="5ccd592705636aa5a9d25cfe52b864a18161e023"/>
-		<rom name="Mutant Penguins (Germany) (En,Fr,De) (Rerelease) (Track 10).bin" size="34416816" crc="4cb98100" md5="83f985df4200ce6be60f6feb1643aa76" sha1="f17747e2b317578b1b9b4df2f57cd34a6c5aacaf"/>
-		<rom name="Mutant Penguins (Germany) (En,Fr,De) (Rerelease) (Track 11).bin" size="33280800" crc="d9d7a858" md5="e0a1dd68ae23d0319848f8fd32c6a685" sha1="4f54eed51cb6aaf46289e95ae25d3fcdcd99b186"/>
-		<rom name="Mutant Penguins (Germany) (En,Fr,De) (Rerelease) (Track 12).bin" size="34480320" crc="b8e26c61" md5="904165173f61b0ffd5fd3d00c5de1d9b" sha1="8eff473d9981dc9d5d8a61f07d13024f7b2dd037"/>
-		<rom name="Mutant Penguins (Germany) (En,Fr,De) (Rerelease) (Track 13).bin" size="34327440" crc="883274ea" md5="a81da7eab213bb1d546af81c7fa0a3be" sha1="c736e2dd67bbdffbe0546caf3e4bfd2c24d0f3d2"/>
-		<rom name="Mutant Penguins (Germany) (En,Fr,De) (Rerelease).cue" size="1841" crc="0b016b5f" md5="cbd03f593e8c5838d036658201abc929" sha1="ac42abc517a17e2e2313f27b9df908a160a447dd"/>
+		<description>Mutant Penguins (Europe) (En,Fr,De)</description>
+		<rom name="Mutant Penguins (Europe) (En,Fr,De) (Track 01).bin" size="39459504" crc="0fa9d269" md5="855f8c20ae90a655fd2a2505c25c031e" sha1="219be57482f894e9b72bd38a0bdfc170e3514586"/>
+		<rom name="Mutant Penguins (Europe) (En,Fr,De) (Track 02).bin" size="34680240" crc="264bb9a0" md5="bad6a253ddf0c5d4b80a7d4a8ddf47ae" sha1="e91222337fee0acbbff9bd68ae8fa401e743bd90"/>
+		<rom name="Mutant Penguins (Europe) (En,Fr,De) (Track 03).bin" size="32888016" crc="779cdf42" md5="3dcd3aa40fdeb479f5efcf75c5668dbc" sha1="2fcb172f0638f8c99a56c2745232abc798bb3a22"/>
+		<rom name="Mutant Penguins (Europe) (En,Fr,De) (Track 04).bin" size="34501488" crc="1e8593e1" md5="86bf915a8f5089756b0913cdfbc1a26c" sha1="0c26cacdeef261a16c015b6ec65ddc88df04b896"/>
+		<rom name="Mutant Penguins (Europe) (En,Fr,De) (Track 05).bin" size="36928752" crc="86a87385" md5="7b9e9b8edfe20f704e5dd1dcdcd05971" sha1="f91ccdbb49cd5e04361699d85c732d5b3edd323e"/>
+		<rom name="Mutant Penguins (Europe) (En,Fr,De) (Track 06).bin" size="34593216" crc="6a4c79dd" md5="0acfc7dfa877b6fa21cd81485b993b85" sha1="b1a2f01aecb9609d18ca21f5ed7011dbce3d666b"/>
+		<rom name="Mutant Penguins (Europe) (En,Fr,De) (Track 07).bin" size="35684544" crc="0064b1a2" md5="efd059b6a8bb025a2895144b441cef8d" sha1="bc0013ed62b2790357ef58e30f4e291ef3ad74b9"/>
+		<rom name="Mutant Penguins (Europe) (En,Fr,De) (Track 08).bin" size="34002864" crc="54a6d28e" md5="1223e12685411f8ce8d8ff01adce0ef6" sha1="5a77b6b2562a908e571663df359afbbf54c9ad7f"/>
+		<rom name="Mutant Penguins (Europe) (En,Fr,De) (Track 09).bin" size="33760608" crc="39d7c183" md5="e97e3a6a365efb29b79e3282d552fe36" sha1="bf6ac621f7210eac95abbf353f8c1af850f13fd1"/>
+		<rom name="Mutant Penguins (Europe) (En,Fr,De) (Track 10).bin" size="34061664" crc="dd28f9a2" md5="27866d99fed16e4a8de46d31f0b9e06c" sha1="6b66abd6aa6f20c036df099d387e5e10d6b5fdff"/>
+		<rom name="Mutant Penguins (Europe) (En,Fr,De) (Track 11).bin" size="32923296" crc="9dd9218f" md5="59b157556b82e7026c6798180130cfb6" sha1="ad5e77ab1adf66cafddb874c96cdf85668cc3db7"/>
+		<rom name="Mutant Penguins (Europe) (En,Fr,De) (Track 12).bin" size="34122816" crc="70c020d5" md5="002e9754726d94c51af8648ae40a0718" sha1="0fc809dff58f209cfade477e1ab61d661d77bfc5"/>
+		<rom name="Mutant Penguins (Europe) (En,Fr,De) (Track 13).bin" size="34322736" crc="51ac21d1" md5="81fe3b2f7d34968ab92085d97f22f3d7" sha1="5929c8c7af6956fb86a256efcbeefb1999a6e289"/>
+		<rom name="Mutant Penguins (Europe) (En,Fr,De).cue" size="1695" crc="9fe843cc" md5="b3e91ed97a1f716adf23f8bce07af4ca" sha1="b17fdc4cb563ac3ac61931e0857a68b3e4c3c3ce"/>
 	</game>
 	<game name="Mutation of J.B., The (Germany)">
 		<category>Games</category>
@@ -123310,16 +123408,16 @@
 		<description>Ridge Racer Unbounded (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Ridge Racer Unbounded (Europe) (En,Fr,De,Es,It).iso" size="1561657344" crc="bfd0fd31" md5="ca801a32eb081bdbf061211ff6bd464f" sha1="bf1b6ba5adfd0e5b6e5657e1ecd194a0e11861f6"/>
 	</game>
-	<game name="Riding Star - Die Simulation rund um den Reitsport (Germany)">
+	<game name="Riding Star (Germany)">
 		<category>Games</category>
-		<description>Riding Star - Die Simulation rund um den Reitsport (Germany)</description>
-		<rom name="Riding Star - Die Simulation rund um den Reitsport (Germany) (Track 1).bin" size="210755664" crc="0a23ed72" md5="57ed965fcb2aa7080ab4fe0f0f3c0a38" sha1="27cecead3afdf3fce46e5f6c456d26a577475d0e"/>
-		<rom name="Riding Star - Die Simulation rund um den Reitsport (Germany) (Track 2).bin" size="20711712" crc="6b6d29ff" md5="944c82873e97406f8e966a2ea91e4314" sha1="7ae31a36c1ffdd4557311ff86eed00028bf53c5c"/>
-		<rom name="Riding Star - Die Simulation rund um den Reitsport (Germany) (Track 3).bin" size="21447888" crc="24b20e32" md5="02f6fbc50fe024730e5da6051efa4ce6" sha1="3c72b7cf2a7d3cf74dcc2761263ef05e0a7e6814"/>
-		<rom name="Riding Star - Die Simulation rund um den Reitsport (Germany) (Track 4).bin" size="20154288" crc="2ddf2611" md5="ea0941d5d6f0b4bb65271b5dac80b14b" sha1="6a56921ec0cb8f06520737a79002babec357f1ff"/>
-		<rom name="Riding Star - Die Simulation rund um den Reitsport (Germany) (Track 5).bin" size="12978336" crc="5be651cf" md5="17d65c995c4cf737ce09c770ea686d82" sha1="e503d423adc5331bd9770cc4aec9722287e939ed"/>
-		<rom name="Riding Star - Die Simulation rund um den Reitsport (Germany) (Track 6).bin" size="4219488" crc="3732bd10" md5="644c450b0efb1e0b602ba216085bf1bb" sha1="3de7b3fdda2dbe8305a76e47e9aad376cf40b411"/>
-		<rom name="Riding Star - Die Simulation rund um den Reitsport (Germany).cue" size="906" crc="bc475f7c" md5="a54c1997952c4cdccf9d1ac2bd34dfa0" sha1="9c3b95e85bcdadc1dc27c01f45eab7bd42aa8c42"/>
+		<description>Riding Star (Germany)</description>
+		<rom name="Riding Star (Germany) (Track 1).bin" size="210755664" crc="0a23ed72" md5="57ed965fcb2aa7080ab4fe0f0f3c0a38" sha1="27cecead3afdf3fce46e5f6c456d26a577475d0e"/>
+		<rom name="Riding Star (Germany) (Track 2).bin" size="20711712" crc="6b6d29ff" md5="944c82873e97406f8e966a2ea91e4314" sha1="7ae31a36c1ffdd4557311ff86eed00028bf53c5c"/>
+		<rom name="Riding Star (Germany) (Track 3).bin" size="21447888" crc="24b20e32" md5="02f6fbc50fe024730e5da6051efa4ce6" sha1="3c72b7cf2a7d3cf74dcc2761263ef05e0a7e6814"/>
+		<rom name="Riding Star (Germany) (Track 4).bin" size="20154288" crc="2ddf2611" md5="ea0941d5d6f0b4bb65271b5dac80b14b" sha1="6a56921ec0cb8f06520737a79002babec357f1ff"/>
+		<rom name="Riding Star (Germany) (Track 5).bin" size="12978336" crc="5be651cf" md5="17d65c995c4cf737ce09c770ea686d82" sha1="e503d423adc5331bd9770cc4aec9722287e939ed"/>
+		<rom name="Riding Star (Germany) (Track 6).bin" size="4219488" crc="3732bd10" md5="644c450b0efb1e0b602ba216085bf1bb" sha1="3de7b3fdda2dbe8305a76e47e9aad376cf40b411"/>
+		<rom name="Riding Star (Germany).cue" size="672" crc="716c3812" md5="e47dcd08fd7e0986d3910b9a1d50eaed" sha1="cce2b9054bb2767f5fe467051b130e2a3849778c"/>
 	</game>
 	<game name="Rift (Australia) (En,Fr,De)">
 		<category>Games</category>
@@ -155639,6 +155737,12 @@
 		<rom name="Train Driver (Russia) (Disc 2).bin" size="457332288" crc="286f2687" md5="424bea4afeea002e079f7734f88dd99d" sha1="5ff0352f8c72aa7074f93ca3de9b82170da3470a"/>
 		<rom name="Train Driver (Russia) (Disc 2).cue" size="96" crc="a8f97a68" md5="e7ed017f104e562e7deb901c358a1eea" sha1="1457221c4293b8a98502fdf626a4a1f19b92bda0"/>
 	</game>
+	<game name="Train Sim - The Activities (USA)">
+		<category>Add-Ons</category>
+		<description>Train Sim - The Activities (USA)</description>
+		<rom name="Train Sim - The Activities (USA).bin" size="19745040" crc="ddd8c9b8" md5="8e9690511c5f8b61b5ffd9e19cf60101" sha1="08d433a8cb98e63afcf39bb4bad76100f54e93f1"/>
+		<rom name="Train Sim - The Activities (USA).cue" size="98" crc="6d36c3e0" md5="54ab91e16c917eb1ee0aa5a8df60f9c6" sha1="dee291135aa0f183935c93013f386af1d6e1c9ed"/>
+	</game>
 	<game name="Train Sim RoundHouse (USA)">
 		<category>Add-Ons</category>
 		<description>Train Sim RoundHouse (USA)</description>
@@ -156462,6 +156566,12 @@
 		<description>Troe iz prostokvashino - Sharik uchit azbuku (Russia)</description>
 		<rom name="Troe iz prostokvashino - Sharik uchit azbuku (Russia).bin" size="767481120" crc="b520e0cd" md5="05dd5fe6fce7ff89e6210871a22119c4" sha1="4bf3af3c46bb5b8ecbb54eb49c19c4363b89d13d"/>
 		<rom name="Troe iz prostokvashino - Sharik uchit azbuku (Russia).cue" size="119" crc="928511d8" md5="d1e5f59375244942f0496b29fc3eb93e" sha1="bc737de5a5d8e6d9634208d8162c4bc8bd4be712"/>
+	</game>
+	<game name="Troedelschaetze (Germany)">
+		<category>Games</category>
+		<description>Troedelschaetze (Germany)</description>
+		<rom name="Troedelschaetze (Germany).bin" size="178201632" crc="6dc16fb8" md5="7acc2033b7a737f4bf4171fc93181aab" sha1="d3c3ede6b5e2a1ca15c4e7988f59e2c795019344"/>
+		<rom name="Troedelschaetze (Germany).cue" size="91" crc="2cd950ae" md5="afbac79b0e5c394e2920ee8336b0fdfe" sha1="fa87aa924c9b61ba58ee050e78473cc495d05112"/>
 	</game>
 	<game name="Trois Royaumes, Les - Le Destin du Dragon (Canada) (Fr,Zh)">
 		<category>Games</category>
@@ -158481,6 +158591,12 @@
 		<description>Ultimate Game Pack (USA)</description>
 		<rom name="Ultimate Game Pack (USA).bin" size="188917344" crc="1427deff" md5="97ec288a1abc97e0e3ed0c7451931228" sha1="2bb9d94ec5060a32935a7aa9dba10e97619686af"/>
 		<rom name="Ultimate Game Pack (USA).cue" size="113" crc="713f2855" md5="4afdfd90eac45504aa51032383be750e" sha1="8c9f6d44a0cf61548522b95c13bd85c7965c9a98"/>
+	</game>
+	<game name="Ultimate Game Pak (USA)">
+		<category>Games</category>
+		<description>Ultimate Game Pak (USA)</description>
+		<rom name="Ultimate Game Pak (USA).bin" size="215563152" crc="19035844" md5="3ad820b9a1645da08a5a6c179058387b" sha1="8e056d068b66a2c1b850692b997f994623a56ff7"/>
+		<rom name="Ultimate Game Pak (USA).cue" size="89" crc="b0ca6e09" md5="4304f2c1213a78e757e389c2a849211f" sha1="143ca85e271d9c3b4b81eec9651e110530ee94d3"/>
 	</game>
 	<game name="Ultimate Games CD, The (UK) (Covermount)">
 		<category>Games</category>
@@ -160784,6 +160900,12 @@
 		<description>Vegas Jackpot Gold (USA)</description>
 		<rom name="Vegas Jackpot Gold (USA).bin" size="732918480" crc="d557788a" md5="b53f5187024c3852be1bea5472e816ed" sha1="719deaff2739267afc61a4ee3f1f9a45e39c9d8a"/>
 		<rom name="Vegas Jackpot Gold (USA).cue" size="90" crc="85c8e256" md5="816ca26c2f4e198d23ac7d9ad8b6a519" sha1="8f681a79b154b3cde0381160aabf99cbd226f2bd"/>
+	</game>
+	<game name="Vegas Jackpot Gold - 325 Casino Games (USA)">
+		<category>Games</category>
+		<description>Vegas Jackpot Gold - 325 Casino Games (USA)</description>
+		<rom name="Vegas Jackpot Gold - 325 Casino Games (USA).bin" size="806623104" crc="6ee5863c" md5="1c092d61c05232aff9d2d3df31d0b6da" sha1="f2e5467eb498203a841e0c876e7ef89d77c636aa"/>
+		<rom name="Vegas Jackpot Gold - 325 Casino Games (USA).cue" size="132" crc="b96bedae" md5="737c9aec1b9476834ed6113fbe6a90b3" sha1="8d4c40d70d5f540c4b99a1aaf17ad29f0d313946"/>
 	</game>
 	<game name="Vegas Jackpot Gold - 500 Plus Slots (USA)">
 		<category>Games</category>
@@ -163639,6 +163761,11 @@
 		<rom name="War of Genesis III, The - Part 2 - Arena Multiplayer (Korea) (Covermount).bin" size="540146208" crc="e6387e6b" md5="cd0e1dacc8d7497caa43d97842618247" sha1="0a7d19e9ae2da8dd023c1773319e23571cf776ff"/>
 		<rom name="War of Genesis III, The - Part 2 - Arena Multiplayer (Korea) (Covermount).cue" size="139" crc="30c086b4" md5="cca076b9107cae0d40573e2cf48c7ffd" sha1="1598d32b5aaf3f88c599174ff214f55464134fc7"/>
 	</game>
+	<game name="WarBirds (USA) (DVD-Video Bundle)">
+		<category>Games</category>
+		<description>WarBirds (USA) (DVD-Video Bundle)</description>
+		<rom name="WarBirds (USA) (DVD-Video Bundle).iso" size="2452520960" crc="72bfdbe2" md5="2c8f77e80efdf56230bc2a9c3635abe1" sha1="9fab88c077c262a0b5fb44696b4ec35048b64f7d"/>
+	</game>
 	<game name="WarBirds (USA) (Rerelease)">
 		<category>Games</category>
 		<description>WarBirds (USA) (Rerelease)</description>
@@ -166433,11 +166560,11 @@
 		<rom name="Wings over Europe - Cold War - Soviet Invasion (Europe) (En,Fr,De,Es,It) (Xplosiv).bin" size="591920784" crc="04e78722" md5="1e68a5f05cc10a0d21dd8f854f2e3378" sha1="b824ef60a8cf13ca2ee762055a8fa754ea49c740"/>
 		<rom name="Wings over Europe - Cold War - Soviet Invasion (Europe) (En,Fr,De,Es,It) (Xplosiv).cue" size="148" crc="6b837731" md5="df2856f8e40c68a72ee8466f6c55a66b" sha1="4ab288ac2c9e89210b15fcd641c02086dadbb247"/>
 	</game>
-	<game name="Wings over Vietnam (Italy)">
+	<game name="Wings over Vietnam (UK)">
 		<category>Games</category>
-		<description>Wings over Vietnam (Italy)</description>
-		<rom name="Wings over Vietnam (Italy).bin" size="252515424" crc="4b9bbbba" md5="8f5ffb1979f093ee79613339efd21b64" sha1="ce1d3aa7e026affeb35eaff1b3f9e55f24043920"/>
-		<rom name="Wings over Vietnam (Italy).cue" size="92" crc="ca315440" md5="6198f346db07c809e68fd3a749e4401f" sha1="daf407c8fe99c15700729dee25e26966aa340c5f"/>
+		<description>Wings over Vietnam (UK)</description>
+		<rom name="Wings over Vietnam (UK).bin" size="397059936" crc="53f50934" md5="5ee03093802cb5b4c1109adf7343b996" sha1="3254c35f23a8ad2d1297032741fa3a736f76e11d"/>
+		<rom name="Wings over Vietnam (UK).cue" size="89" crc="bd5c8729" md5="068212e858d16fc09742ee8f0e823793" sha1="a6e4f8b6c9e29dec52ee1983af81c806ee1d206e"/>
 	</game>
 	<game name="Wingstar (Europe)">
 		<category>Games</category>
@@ -167897,6 +168024,13 @@
 		<description>World Racing (Europe) (En,Es,It) (Disc 2)</description>
 		<rom name="World Racing (Europe) (En,Es,It) (Disc 2).bin" size="751837968" crc="a234120f" md5="98db9e6a8518538d158b66a50cfc35b6" sha1="23db4f7ff11b77917840373994b9063c7fc5b8e6"/>
 		<rom name="World Racing (Europe) (En,Es,It) (Disc 2).cue" size="107" crc="3e0444cb" md5="2dc57ecf07a7fc42cb39029d5ca1df5e" sha1="68fd394aa8637dd70f50543aa285ce479c402801"/>
+	</game>
+	<game name="World Racing (Europe) (Fr,De) (Install-Play-Disc)">
+		<category>Games</category>
+		<description>World Racing (Europe) (Fr,De) (Install-Play-Disc)</description>
+		<rom name="World Racing (Europe) (Fr,De) (Install-Play-Disc) (Track 1).bin" size="545725152" crc="f8e4ce07" md5="cfaaa168e5b6c48b8f4127caa2ca1d67" sha1="3d572c752897b6014c50803d94bb2afd4ef25efd"/>
+		<rom name="World Racing (Europe) (Fr,De) (Install-Play-Disc) (Track 2).bin" size="1411200" crc="e6dc4a1e" md5="61e020a3cea1a052062a63fbf662aa80" sha1="f7ceb3697d6740d0464b8288ff2f9ef979a13580"/>
+		<rom name="World Racing (Europe) (Fr,De) (Install-Play-Disc).cue" size="273" crc="4a815136" md5="c74f061e01b4bad6e6fc5541e348aa8c" sha1="0261dcb4387eb52aa8fa585872bce9d0d6295b7d"/>
 	</game>
 	<game name="World Racing 2 (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
