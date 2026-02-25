@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,053) (-y) [-aAbBcdkmMpPuv] (2026-02-24 00-56-33) (Retool)</description>
-		<version>2026-02-24 00-56-33</version>
-		<date>2026-02-24 03-24-57</date>
+		<description>IBM - PC compatible (25,059) (-y) [-aAbBcdkmMpPuv] (2026-02-24 20-45-49) (Retool)</description>
+		<version>2026-02-24 20-45-49</version>
+		<date>2026-02-25 03-24-59</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -25838,10 +25838,10 @@
 		<rom name="Chitty Chitty Bang Bang's Adventure in Tinker Town (USA).bin" size="654723888" crc="dc5fc832" md5="a6a4ca705dfdad5bb25b70149c3efa9d" sha1="8e99699e70082c025a30dbd0e6d5d81edf7dd5f5"/>
 		<rom name="Chitty Chitty Bang Bang's Adventure in Tinker Town (USA).cue" size="122" crc="fab98d47" md5="b960fac3adf7c6c67dd65e0c1851f792" sha1="9950358fa7d2366488e337c1c75156f2c0a541dc"/>
 	</game>
-	<game name="Chivalry - Medieval Warfare (Poland)">
+	<game name="Chivalry - Medieval Warfare (Australia)">
 		<category>Games</category>
-		<description>Chivalry - Medieval Warfare (Poland)</description>
-		<rom name="Chivalry - Medieval Warfare (Poland).iso" size="2375188480" crc="3cfb2958" md5="a144f63a76cc68e983dc46551bb2aa5a" sha1="32c21b3007877a4571aa547bf33f514ba79acd68"/>
+		<description>Chivalry - Medieval Warfare (Australia)</description>
+		<rom name="Chivalry - Medieval Warfare (Australia).iso" size="2396717056" crc="a93ea64e" md5="bbe201beb48f8ed8986b9d189d6a58fe" sha1="9b935926467fd805bb23cd6f252cf88ed7be3de0"/>
 	</game>
 	<game name="Chix (Russia)">
 		<category>Games</category>
@@ -62415,6 +62415,11 @@
 		<rom name="Grim Fandango (USA, Europe) (Disc B) (Rev 1).bin" size="761457648" crc="596c8e92" md5="c3f7e3a80fd18b2551435ea3f5b4938b" sha1="ca6ae610a4aa383738dcaef2b27c85235f4c0b3c"/>
 		<rom name="Grim Fandango (USA, Europe) (Disc B) (Rev 1).cue" size="110" crc="706ccc85" md5="50b8ac658445418720ee6a1d3592a2ab" sha1="2d36eefdc2995d6b61b1fa05015b75a941b451ac"/>
 	</game>
+	<game name="Grim Legends 2 - Song of the Dark Swan (Australia)">
+		<category>Games</category>
+		<description>Grim Legends 2 - Song of the Dark Swan (Australia)</description>
+		<rom name="Grim Legends 2 - Song of the Dark Swan (Australia).iso" size="994017280" crc="11bd17a1" md5="8f23a5887ff865f8f1c79c45eca7b2e8" sha1="c2068a3b9ce3762be55b8d972dd0c817dd0d4109"/>
+	</game>
 	<game name="Grim Tales - Das Vermaechtnis (Germany)">
 		<category>Games</category>
 		<description>Grim Tales - Das Vermaechtnis (Germany)</description>
@@ -62978,10 +62983,10 @@
 		<description>Guild 2, The (France)</description>
 		<rom name="Guild 2, The (France).iso" size="1472299008" crc="1771be8a" md5="2b748c68f39f9bd70edaac7be9586764" sha1="18ef8a39086a66d162fccc407851a28d96172c9c"/>
 	</game>
-	<game name="Guild 2, The - Pirates of the European Seas (France)">
+	<game name="Guild 2, The - Pirates of the European Seas (Australia)">
 		<category>Add-Ons</category>
-		<description>Guild 2, The - Pirates of the European Seas (France)</description>
-		<rom name="Guild 2, The - Pirates of the European Seas (France).iso" size="1891172352" crc="98486f3a" md5="5cf110b4e390ac687a2fff7e097e29e8" sha1="ae54ef4d7313903cd3a7cc28b14b0737c019bf1b"/>
+		<description>Guild 2, The - Pirates of the European Seas (Australia)</description>
+		<rom name="Guild 2, The - Pirates of the European Seas (Australia).iso" size="1940357120" crc="90bf7b99" md5="ee26ffe7f8dc8fcdb8fd3f9ebac8b28c" sha1="a4d55d7a2ec63559bf8219aa70650435aaa5a039"/>
 	</game>
 	<game name="Guild Wars (Russia) (En,Ru) (Rerelease)">
 		<category>Games</category>
@@ -73763,6 +73768,15 @@
 		<rom name="Interplay's Select Family Entertainment Pack (USA) (Virtual Pool) (Track 8).bin" size="27337296" crc="38b8b4bd" md5="5c58a6e27ad1184af7ad43f93b0b81ab" sha1="880608d3b9d66da20e5e67415bbdddeaa6b11938"/>
 		<rom name="Interplay's Select Family Entertainment Pack (USA) (Virtual Pool).cue" size="1116" crc="9e54d7e1" md5="e79e63c2651e7f9170213cb5ee75f5be" sha1="b4e93135c40991ed9b1c0afe80ae8b71848c1fcb"/>
 	</game>
+	<game name="Interpose (Norway)">
+		<category>Games</category>
+		<description>Interpose (Norway)</description>
+		<rom name="Interpose (Norway) (Track 1).bin" size="264616464" crc="1b165f5a" md5="496a09785dea65bd8db52c8c06b21fb7" sha1="c1a56b39e15c00cc7d67acb6c37e933adf46c027"/>
+		<rom name="Interpose (Norway) (Track 2).bin" size="42902832" crc="cfb01c68" md5="c9c2f0ab5278fe0ffafabf8659d80a63" sha1="c542889bcb6cd7940cdf1c9b263b34faf47bd8c4"/>
+		<rom name="Interpose (Norway) (Track 3).bin" size="23329488" crc="fe3e48b4" md5="c8f40ab58a86bc563bb4c7fcd6700543" sha1="4a24c9d006e8e9418a4339b2d7af653889998469"/>
+		<rom name="Interpose (Norway) (Track 4).bin" size="6023472" crc="04f8a8f7" md5="14974e824df6227ac806a5580bc154d2" sha1="3fa46f42898b716f103e448a86c056035e7f1167"/>
+		<rom name="Interpose (Norway).cue" size="453" crc="ee7cc2a6" md5="385b55a6ab2500ab0e3852e3dd000f09" sha1="4c35157cb8c69a8b43d097114d50ae05f879b74d"/>
+	</game>
 	<game name="Interstate '76 (Brazil) (Disc 2) (CD do Jogo)">
 		<category>Games</category>
 		<description>Interstate '76 (Brazil) (Disc 2) (CD do Jogo)</description>
@@ -83244,6 +83258,11 @@
 		<description>Lara Croft Tomb Raider - Utsukushiki Toubousha (Japan) (Disc 3)</description>
 		<rom name="Lara Croft Tomb Raider - Utsukushiki Toubousha (Japan) (Disc 3).bin" size="444518592" crc="12727be7" md5="1f215848231ac7b43e42e1fc3e98b33f" sha1="c9eb3a1c0813a7a99b0f39c1c3ba9716715bfa8d"/>
 		<rom name="Lara Croft Tomb Raider - Utsukushiki Toubousha (Japan) (Disc 3).cue" size="129" crc="4f3b47ac" md5="a8aa1890cfb87019885ce122ca5f51cf" sha1="ab8e3088fdb9297ae3f013a6036a3ae1d490254d"/>
+	</game>
+	<game name="Lara Croft and the Temple of Osiris (Europe) (En,Ja,Fr,De,Es,It,Pt,Ru)">
+		<category>Games</category>
+		<description>Lara Croft and the Temple of Osiris (Europe) (En,Ja,Fr,De,Es,It,Pt,Ru)</description>
+		<rom name="Lara Croft and the Temple of Osiris (Europe) (En,Ja,Fr,De,Es,It,Pt,Ru).iso" size="2743263232" crc="93d2f271" md5="4683ab0a2a843cb4ea94a68df8464401" sha1="baee12002876e0c9556ff6c693b067db03924f80"/>
 	</game>
 	<game name="Larentia - Netsujou no Miyako (Japan)">
 		<category>Games</category>
@@ -139267,6 +139286,11 @@
 		<description>Sid Meier's Civilization V - Gold Edition (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru)</description>
 		<rom name="Sid Meier's Civilization V - Gold Edition (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru).iso" size="4881711104" crc="b9debd74" md5="c91a2f1c5e99b43bdd209ccf11cd0c7f" sha1="1aeb33c9d7deac1488a23347ec92e6d7d2b46c99"/>
 	</game>
+	<game name="Sid Meier's Civilization V - The Complete Edition (Europe)">
+		<category>Games</category>
+		<description>Sid Meier's Civilization V - The Complete Edition (Europe)</description>
+		<rom name="Sid Meier's Civilization V - The Complete Edition (Europe).iso" size="6095110144" crc="7d363cb4" md5="94b5bd01fbe93b3ee8c032ac2f9fa4e7" sha1="3fb2f4e0bcce31ca3bd519d818dedc7a3b08da80"/>
+	</game>
 	<game name="Sid Meier's Civilization V - Zolotoe Izdanie (Russia)">
 		<category>Games</category>
 		<description>Sid Meier's Civilization V - Zolotoe Izdanie (Russia)</description>
@@ -154075,6 +154099,11 @@
 		<description>Terrorist Takedown 2 (Russia)</description>
 		<rom name="Terrorist Takedown 2 (Russia).iso" size="3548413952" crc="c18a5388" md5="f290e4e3038e43f780b5d8fc604aec08" sha1="0457fedb4315a4dea2f7ed4665a481e464d2ba21"/>
 	</game>
+	<game name="Terrorist Takedown 2 - US Navy Seals (Australia)">
+		<category>Games</category>
+		<description>Terrorist Takedown 2 - US Navy Seals (Australia)</description>
+		<rom name="Terrorist Takedown 2 - US Navy Seals (Australia).iso" size="1737785344" crc="98945eb1" md5="aa1a419336f4e3ac1f3bc31520bf9ee5" sha1="15f6b03af78515ff9be150ce513f62b2346df27e"/>
+	</game>
 	<game name="Terry Pratchett's Discworld (USA)">
 		<category>Games</category>
 		<description>Terry Pratchett's Discworld (USA)</description>
@@ -167072,10 +167101,10 @@
 		<rom name="Wakeboarding Unleashed featuring Shaun Murray (USA, Europe) (Disc 2) (Play Disc).bin" size="792515808" crc="e99a9b08" md5="ec852bea64bdf4bc1dfec29d9b0b3b2a" sha1="66e13c958629e736feb60a61febcbbafd72aa569"/>
 		<rom name="Wakeboarding Unleashed featuring Shaun Murray (USA, Europe) (Disc 2) (Play Disc).cue" size="146" crc="e908dd57" md5="46bd9a1a78c78398f5dac61706ee30b7" sha1="1caa9183ddc468e8c2c138a5645b7a5f827e2e4a"/>
 	</game>
-	<game name="Walking Dead, The - A Telltale Games Series (Japan) (En,Ja)">
+	<game name="Walking Dead, The - A Telltale Games Series (Australia)">
 		<category>Games</category>
-		<description>Walking Dead, The - A Telltale Games Series (Japan) (En,Ja)</description>
-		<rom name="Walking Dead, The - A Telltale Games Series (Japan) (En,Ja).iso" size="3891134464" crc="4750d0d3" md5="2fb70276dd0630ce49d9b153c6259f7d" sha1="9b9c808ab508fbd7ed8dccaa32b757620fd71ab0"/>
+		<description>Walking Dead, The - A Telltale Games Series (Australia)</description>
+		<rom name="Walking Dead, The - A Telltale Games Series (Australia).iso" size="3813933056" crc="d1b7db68" md5="14fdb23ceefd4214271eac11c438b260" sha1="bae52b5e5f35949b1bf98c7e2af97bed05645599"/>
 	</game>
 	<game name="Wall $treet Trader 98 - Boersenfieber (Germany)">
 		<category>Games</category>
@@ -169196,6 +169225,12 @@
 		<rom name="Whiplash + VR Soccer '96 (USA) (Track 8).bin" size="51205392" crc="0a6e5eb4" md5="2c2fc04012d520b577f5770270fedfbf" sha1="dc9758fc17de8ceabba603d605f5cc13f424eed8"/>
 		<rom name="Whiplash + VR Soccer '96 (USA) (Track 9).bin" size="50949024" crc="e6032546" md5="eaa5e666fa336ab16146b87783422b0e" sha1="584e1e60f48bf386a4657fcd90f1a0d691c4bd73"/>
 		<rom name="Whiplash + VR Soccer '96 (USA).cue" size="937" crc="f569e60f" md5="5481e8be5a5c6ce030a195432fe2c522" sha1="b96084961fb9eaf518ec7a70adafacfafaa7022d"/>
+	</game>
+	<game name="Whirlwind Of Vietnam - Operacja w dolinie Ia Drang (Poland)">
+		<category>Games</category>
+		<description>Whirlwind Of Vietnam - Operacja w dolinie Ia Drang (Poland)</description>
+		<rom name="Whirlwind Of Vietnam - Operacja w dolinie Ia Drang (Poland).bin" size="788886672" crc="dfad9f6e" md5="0141bc76d70e41ae332d5623d63b4b85" sha1="c7b49e487e8432d8d77c67e654a1977105d22ebc"/>
+		<rom name="Whirlwind Of Vietnam - Operacja w dolinie Ia Drang (Poland).cue" size="125" crc="21144455" md5="daf9d078b8c5ee0f149ea3062438ceaa" sha1="dabec8046ab15983d3886c33c0a161d9393dc86b"/>
 	</game>
 	<game name="Whispered World, The (Europe) (En,De,Es,It,Pl,Ru)">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (12,819) (-ly) [-aAbBcdDefkmMopPruv] (2026-02-24 00-56-33) (Retool)</description>
-		<version>2026-02-24 00-56-33</version>
-		<date>2026-02-24 03-19-16</date>
+		<description>IBM - PC compatible (12,827) (-ly) [-aAbBcdDefkmMopPruv] (2026-02-24 20-45-49) (Retool)</description>
+		<version>2026-02-24 20-45-49</version>
+		<date>2026-02-25 03-19-21</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -6319,6 +6319,12 @@
 		<rom name="Axelerator (Europe) (Track 4).bin" size="40750752" crc="74fd21af" md5="885287848511d3f10908f75113d36589" sha1="3cc6a53f3d609f8ecb1cdf980e6753be601c5144"/>
 		<rom name="Axelerator (Europe) (Track 5).bin" size="37575552" crc="633dac05" md5="5f8900ab5424e0f46b81e153f756dae5" sha1="50d090a481b2b63ea456d857ecdd027a4f06cc0b"/>
 		<rom name="Axelerator (Europe).cue" size="547" crc="44323334" md5="5c0e81051a6c8adf2e7f4e3321cce421" sha1="bef507d40332d0975ae5aa91e078ac4ea369edea"/>
+	</game>
+	<game name="Axelerator - Have a N.I.C.E. Day! (Argentina)">
+		<category>Games</category>
+		<description>Axelerator - Have a N.I.C.E. Day! (Argentina)</description>
+		<rom name="Axelerator - Have a N.I.C.E. Day! (Argentina).bin" size="399343728" crc="58b587cd" md5="49b563762af193356815b5a6ba1f254a" sha1="f4b91cc49e5f3dc6f8a7b392c51c72d2ab4f80a5"/>
+		<rom name="Axelerator - Have a N.I.C.E. Day! (Argentina).cue" size="111" crc="a2edb613" md5="bd54e0332345ca1bfb7d3fce75598baf" sha1="4e2fa6585a401f058a8794778c383c4237462232"/>
 	</game>
 	<game name="Axiom Verge (USA) (En,Ja,Fr,De,Es,It,Pt,Ru)">
 		<category>Games</category>
@@ -13948,6 +13954,11 @@
 		<description>Chinese Vocabulary Flashcards (Taiwan) (En,Zh)</description>
 		<rom name="Chinese Vocabulary Flashcards (Taiwan) (En,Zh).bin" size="462085680" crc="111faed6" md5="cf56928049cfd6f2d5ed1fb6d6f961d2" sha1="8b5ec03bff19fd66ddae6c6e30c92c06a964fb2a"/>
 		<rom name="Chinese Vocabulary Flashcards (Taiwan) (En,Zh).cue" size="112" crc="fce2f1c5" md5="db08a0e39ffc40231cecd3663d570e35" sha1="ad4b9532909991407dcc34f03032dfbd57c90c05"/>
+	</game>
+	<game name="Chivalry - Medieval Warfare (Australia)">
+		<category>Games</category>
+		<description>Chivalry - Medieval Warfare (Australia)</description>
+		<rom name="Chivalry - Medieval Warfare (Australia).iso" size="2396717056" crc="a93ea64e" md5="bbe201beb48f8ed8986b9d189d6a58fe" sha1="9b935926467fd805bb23cd6f252cf88ed7be3de0"/>
 	</game>
 	<game name="Chocolatier (USA) (Rev 1)">
 		<category>Games</category>
@@ -26510,6 +26521,12 @@
 		<rom name="F-14 Tomcat (USA).bin" size="4798080" crc="76e5d073" md5="b2c96b813b61f85b35e9a871c87f1c24" sha1="781e9699f85b80acc48705bbac1effa706130a8a"/>
 		<rom name="F-14 Tomcat (USA).cue" size="83" crc="f159207f" md5="62ba5af6d48c502b5450390ad2529ecd" sha1="d83c3e85dbfe409235ba6dee70a4e98c36f0ed43"/>
 	</game>
+	<game name="F-15 Strike Eagle III (Germany)">
+		<category>Games</category>
+		<description>F-15 Strike Eagle III (Germany)</description>
+		<rom name="F-15 Strike Eagle III (Germany).bin" size="184309776" crc="a1309da3" md5="2e2dbd2c01468e14ba5514af0020bf62" sha1="18740e12fdfbb97974342452f22227d9af322924"/>
+		<rom name="F-15 Strike Eagle III (Germany).cue" size="97" crc="a5224732" md5="269d184c5a70c63b0bffa58dc5d3a456" sha1="ab94c52f307a71326ed7eb597c8b2607ee6f54ce"/>
+	</game>
 	<game name="F-16 Aggressor (Europe) (En,Fr,De)">
 		<category>Games</category>
 		<description>F-16 Aggressor (Europe) (En,Fr,De)</description>
@@ -33150,6 +33167,11 @@
 		<description>Grim Fandango (USA, Europe) (Disc B) (Rev 1)</description>
 		<rom name="Grim Fandango (USA, Europe) (Disc B) (Rev 1).bin" size="761457648" crc="596c8e92" md5="c3f7e3a80fd18b2551435ea3f5b4938b" sha1="ca6ae610a4aa383738dcaef2b27c85235f4c0b3c"/>
 		<rom name="Grim Fandango (USA, Europe) (Disc B) (Rev 1).cue" size="110" crc="706ccc85" md5="50b8ac658445418720ee6a1d3592a2ab" sha1="2d36eefdc2995d6b61b1fa05015b75a941b451ac"/>
+	</game>
+	<game name="Grim Legends 2 - Song of the Dark Swan (Australia)">
+		<category>Games</category>
+		<description>Grim Legends 2 - Song of the Dark Swan (Australia)</description>
+		<rom name="Grim Legends 2 - Song of the Dark Swan (Australia).iso" size="994017280" crc="11bd17a1" md5="8f23a5887ff865f8f1c79c45eca7b2e8" sha1="c2068a3b9ce3762be55b8d972dd0c817dd0d4109"/>
 	</game>
 	<game name="Grim Tales - The Bride (USA) (Collector's Edition)">
 		<category>Games</category>
@@ -43039,6 +43061,11 @@
 		<description>Lara Croft Tomb Raider - The Angel of Darkness (USA, Europe) (Disc 2)</description>
 		<rom name="Lara Croft Tomb Raider - The Angel of Darkness (USA, Europe) (Disc 2).bin" size="812695968" crc="783c2c77" md5="e635b104148a3a4d8c3fc7b67c5b7d6c" sha1="3add605c340b1131162024f417e43ebf33b68dea"/>
 		<rom name="Lara Croft Tomb Raider - The Angel of Darkness (USA, Europe) (Disc 2).cue" size="135" crc="472b8254" md5="d83c3d82ff4132ff6afdadd8809d8459" sha1="6ecf1fb758ee0461ad0b1cb817857b94201e9ccf"/>
+	</game>
+	<game name="Lara Croft and the Temple of Osiris (Europe) (En,Ja,Fr,De,Es,It,Pt,Ru)">
+		<category>Games</category>
+		<description>Lara Croft and the Temple of Osiris (Europe) (En,Ja,Fr,De,Es,It,Pt,Ru)</description>
+		<rom name="Lara Croft and the Temple of Osiris (Europe) (En,Ja,Fr,De,Es,It,Pt,Ru).iso" size="2743263232" crc="93d2f271" md5="4683ab0a2a843cb4ea94a68df8464401" sha1="baee12002876e0c9556ff6c693b067db03924f80"/>
 	</game>
 	<game name="Largo Winch - Empire Under Threat (Europe) (En,De,Es,It)">
 		<category>Games</category>
@@ -70164,6 +70191,11 @@
 		<description>Sid Meier's Civilization V - Gold Edition (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru)</description>
 		<rom name="Sid Meier's Civilization V - Gold Edition (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru).iso" size="4881711104" crc="b9debd74" md5="c91a2f1c5e99b43bdd209ccf11cd0c7f" sha1="1aeb33c9d7deac1488a23347ec92e6d7d2b46c99"/>
 	</game>
+	<game name="Sid Meier's Civilization V - The Complete Edition (Europe)">
+		<category>Games</category>
+		<description>Sid Meier's Civilization V - The Complete Edition (Europe)</description>
+		<rom name="Sid Meier's Civilization V - The Complete Edition (Europe).iso" size="6095110144" crc="7d363cb4" md5="94b5bd01fbe93b3ee8c032ac2f9fa4e7" sha1="3fb2f4e0bcce31ca3bd519d818dedc7a3b08da80"/>
+	</game>
 	<game name="Sid Meier's Civilization VI (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)">
 		<category>Games</category>
 		<description>Sid Meier's Civilization VI (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)</description>
@@ -78298,6 +78330,11 @@
 		<rom name="Terrorist Takedown (USA).bin" size="389573520" crc="899f2453" md5="c324c4c182d0f8b3847dea59ace165cf" sha1="3f4e9754ebdbcaf70356a7bcc8393a1a6f30e485"/>
 		<rom name="Terrorist Takedown (USA).cue" size="90" crc="fc366845" md5="5c4c3ad0539c467e30d4be93b9ea1d71" sha1="e206a02fbc43bca08d4fbbbc10e95efbef6ca720"/>
 	</game>
+	<game name="Terrorist Takedown 2 - US Navy Seals (Australia)">
+		<category>Games</category>
+		<description>Terrorist Takedown 2 - US Navy Seals (Australia)</description>
+		<rom name="Terrorist Takedown 2 - US Navy Seals (Australia).iso" size="1737785344" crc="98945eb1" md5="aa1a419336f4e3ac1f3bc31520bf9ee5" sha1="15f6b03af78515ff9be150ce513f62b2346df27e"/>
+	</game>
 	<game name="Terry Pratchett's Discworld (USA)">
 		<category>Games</category>
 		<description>Terry Pratchett's Discworld (USA)</description>
@@ -85809,10 +85846,10 @@
 		<rom name="Wakeboarding Unleashed featuring Shaun Murray (USA, Europe) (Disc 2) (Play Disc).bin" size="792515808" crc="e99a9b08" md5="ec852bea64bdf4bc1dfec29d9b0b3b2a" sha1="66e13c958629e736feb60a61febcbbafd72aa569"/>
 		<rom name="Wakeboarding Unleashed featuring Shaun Murray (USA, Europe) (Disc 2) (Play Disc).cue" size="146" crc="e908dd57" md5="46bd9a1a78c78398f5dac61706ee30b7" sha1="1caa9183ddc468e8c2c138a5645b7a5f827e2e4a"/>
 	</game>
-	<game name="Walking Dead, The - A Telltale Games Series (Japan) (En,Ja)">
+	<game name="Walking Dead, The - A Telltale Games Series (Australia)">
 		<category>Games</category>
-		<description>Walking Dead, The - A Telltale Games Series (Japan) (En,Ja)</description>
-		<rom name="Walking Dead, The - A Telltale Games Series (Japan) (En,Ja).iso" size="3891134464" crc="4750d0d3" md5="2fb70276dd0630ce49d9b153c6259f7d" sha1="9b9c808ab508fbd7ed8dccaa32b757620fd71ab0"/>
+		<description>Walking Dead, The - A Telltale Games Series (Australia)</description>
+		<rom name="Walking Dead, The - A Telltale Games Series (Australia).iso" size="3813933056" crc="d1b7db68" md5="14fdb23ceefd4214271eac11c438b260" sha1="bae52b5e5f35949b1bf98c7e2af97bed05645599"/>
 	</game>
 	<game name="Wall Street Trader 2000 (USA)">
 		<category>Games</category>
@@ -88603,6 +88640,12 @@
 		<rom name="Worlds of Billy, The (Canada) (Rerelease) (Track 13).bin" size="25048800" crc="7385e9ed" md5="7ddafa88cb85ef9eb15a15b82313ece7" sha1="47fc5f10e8dd8353b8329f106954477dd6825134"/>
 		<rom name="Worlds of Billy, The (Canada) (Rerelease) (Track 14).bin" size="25660320" crc="94bd346d" md5="6b0e0c1100b91ce8d216faeb3c575163" sha1="c9ed320a72573521fb22a22557247456fc0ea32b"/>
 		<rom name="Worlds of Billy, The (Canada) (Rerelease).cue" size="1886" crc="c828a651" md5="61c14778c18cba0f4f86bc995533a360" sha1="7fc3159fa54175775d3a63a121f50a0e9bd78650"/>
+	</game>
+	<game name="Worlds of Legend - Son of the Empire (Italy)">
+		<category>Games</category>
+		<description>Worlds of Legend - Son of the Empire (Italy)</description>
+		<rom name="Worlds of Legend - Son of the Empire (Italy).bin" size="2410800" crc="5669f785" md5="99c6b60498d48d5359425066e7641c4b" sha1="19f42d032f490637054a206e7297eb48886ecfd9"/>
+		<rom name="Worlds of Legend - Son of the Empire (Italy).cue" size="133" crc="868eeb4a" md5="6df947da683c463ac240bd6158988e71" sha1="7246ef4ccd75079910415f2bb0dd14421452b0a3"/>
 	</game>
 	<game name="Worldwide Soccer (USA)">
 		<category>Games</category>
