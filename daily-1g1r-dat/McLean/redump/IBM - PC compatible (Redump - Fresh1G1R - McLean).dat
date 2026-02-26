@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (12,827) (-ly) [-aAbBcdDefkmMopPruv] (2026-02-24 20-45-49) (Retool)</description>
-		<version>2026-02-24 20-45-49</version>
-		<date>2026-02-25 03-19-21</date>
+		<description>IBM - PC compatible (12,839) (-ly) [-aAbBcdDefkmMopPruv] (2026-02-25 23-29-05) (Retool)</description>
+		<version>2026-02-25 23-29-05</version>
+		<date>2026-02-26 03-23-31</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -4775,6 +4775,11 @@
 		<rom name="Anvil of Dawn (USA).bin" size="616614432" crc="814f76a0" md5="73c7cb4d4f477bab89a60538270e75de" sha1="3fd61c14906dadf7bfd75a778d0e51eaa5e142d0"/>
 		<rom name="Anvil of Dawn (USA).cue" size="108" crc="37eb54a1" md5="0855c489fc4ef1a8b18021bf7ae8a888" sha1="709822563da62e8510270b6314db7a6215286022"/>
 	</game>
+	<game name="Aokana - Four Rhythms Across the Blue (USA) (En,Ja,Zh)">
+		<category>Games</category>
+		<description>Aokana - Four Rhythms Across the Blue (USA) (En,Ja,Zh)</description>
+		<rom name="Aokana - Four Rhythms Across the Blue (USA) (En,Ja,Zh).iso" size="8215396352" crc="d1b6b11b" md5="a5ff5a1c9ded575d3d6f6fffaea28bd3" sha1="1e4da6cc54adfc8c223bab834b6a33a2b16354b6"/>
+	</game>
 	<game name="Apache - Air Assault (Europe) (En,Fr,De,Es)">
 		<category>Games</category>
 		<description>Apache - Air Assault (Europe) (En,Fr,De,Es)</description>
@@ -6885,6 +6890,12 @@
 		<description>Balls of Steel (USA)</description>
 		<rom name="Balls of Steel (USA).bin" size="579346992" crc="f9aac103" md5="0a9d742e78f035ef65193b63383d6e28" sha1="c21d680a51d514c26d98dfe56021499c1dc4ca77"/>
 		<rom name="Balls of Steel (USA).cue" size="86" crc="90844894" md5="c950f74ba0e05a6e6f418c585afda5d0" sha1="c9207151a83bab179af32d23dcb1cd542e8331c6"/>
+	</game>
+	<game name="Bally Pinball Deluxe (USA)">
+		<category>Games</category>
+		<description>Bally Pinball Deluxe (USA)</description>
+		<rom name="Bally Pinball Deluxe (USA).bin" size="19756800" crc="09816576" md5="18314754a4f53146e7068946e4a8ef1c" sha1="41cbdf057fd69559939b2c063873671049756123"/>
+		<rom name="Bally Pinball Deluxe (USA).cue" size="92" crc="fad557c6" md5="b4435a7944d9a4d567ed4f5e49566e65" sha1="760f484fcfcc765ce9a4c2e5de07099cfee280a2"/>
 	</game>
 	<game name="Ban Tiao Ming 2 (China) (En,Zh) (Disc 1)">
 		<category>Games</category>
@@ -11528,6 +11539,12 @@
 		<rom name="Bust-A-Move Online (Europe).bin" size="45073728" crc="cee6c849" md5="ba3937bb544ecd8cd966134a9957dda3" sha1="fbd70166e5da553f002495a5c9a53ff42599c2a8"/>
 		<rom name="Bust-A-Move Online (Europe).cue" size="93" crc="1ed20553" md5="d2bdd9e4766896fd377ff080016abfa0" sha1="cdb6c705c778175a4a30791b5225f73f29490f59"/>
 	</game>
+	<game name="Butch Harmon's Golf Manager - Gold Edition (USA)">
+		<category>Games</category>
+		<description>Butch Harmon's Golf Manager - Gold Edition (USA)</description>
+		<rom name="Butch Harmon's Golf Manager - Gold Edition (USA).bin" size="13547520" crc="afafcb85" md5="db42332d4afa0093aac54ecfa60738b3" sha1="fa71f66448e1bef262c1184076be8be7b020c3f3"/>
+		<rom name="Butch Harmon's Golf Manager - Gold Edition (USA).cue" size="114" crc="a558bc7b" md5="7fe1ceb07760e435987032070af3e867" sha1="e662e6245e462bd51da841a9ffcfda37c2d0c323"/>
+	</game>
 	<game name="Butt-Ugly Martians - Martian Boot Camp (USA) (En,Es)">
 		<category>Games</category>
 		<description>Butt-Ugly Martians - Martian Boot Camp (USA) (En,Es)</description>
@@ -14443,6 +14460,17 @@
 		<rom name="Civil Disturbance (Europe).bin" size="166535712" crc="b4d631ad" md5="7caaf83ffc18eef4877f3d27c6349760" sha1="e603157b82f2f676d648116643c142bab6c56e38"/>
 		<rom name="Civil Disturbance (Europe).cue" size="92" crc="b7c1f993" md5="df775da2f773e3a65abef65e6ae4aa68" sha1="e7eaa25267aefcfb49f40b24494020cf2267d69c"/>
 	</game>
+	<game name="Civil War - The Game - Great Battles (USA)">
+		<category>Games</category>
+		<description>Civil War - The Game - Great Battles (USA)</description>
+		<rom name="Civil War - The Game - Great Battles (USA) (Track 1).bin" size="775129824" crc="abfb0ec2" md5="0f0d78c3727c17eae410dcb670e9233c" sha1="c512629e4781c00ebe16bf75d48e31c8f45efbde"/>
+		<rom name="Civil War - The Game - Great Battles (USA) (Track 2).bin" size="21506688" crc="8f1f03b0" md5="9f5c3b391d1b166378bf513521e23188" sha1="82084505d0f662858934397320a8c6cf312b0b88"/>
+		<rom name="Civil War - The Game - Great Battles (USA) (Track 3).bin" size="867888" crc="2221bcab" md5="20ae82fcb017f38daaf05d0eb8a01d1c" sha1="9c3da24d7fd14794028b725f7539f08ea03ff34c"/>
+		<rom name="Civil War - The Game - Great Battles (USA) (Track 4).bin" size="867888" crc="2221bcab" md5="20ae82fcb017f38daaf05d0eb8a01d1c" sha1="9c3da24d7fd14794028b725f7539f08ea03ff34c"/>
+		<rom name="Civil War - The Game - Great Battles (USA) (Track 5).bin" size="867888" crc="2221bcab" md5="20ae82fcb017f38daaf05d0eb8a01d1c" sha1="9c3da24d7fd14794028b725f7539f08ea03ff34c"/>
+		<rom name="Civil War - The Game - Great Battles (USA) (Track 6).bin" size="867888" crc="2221bcab" md5="20ae82fcb017f38daaf05d0eb8a01d1c" sha1="9c3da24d7fd14794028b725f7539f08ea03ff34c"/>
+		<rom name="Civil War - The Game - Great Battles (USA).cue" size="706" crc="0d02476b" md5="948b42a2af940ec234b49e1db1d3a342" sha1="c74b85243fccc05e8f77152a4b5346fe5ba7d1f5"/>
+	</game>
 	<game name="Civil War Generals II (USA) (v1.0.4)">
 		<category>Games</category>
 		<description>Civil War Generals II (USA) (v1.0.4)</description>
@@ -14598,6 +14626,12 @@
 		<description>Classic 17 - Das ultimative Spielepaket (Germany)</description>
 		<rom name="Classic 17 - Das ultimative Spielepaket (Germany).bin" size="729268176" crc="60c9f9b5" md5="5507fa5165362fa0cd07b3e6ba005f9b" sha1="02350e71eb84c85fe2ad5737619847196b7823e2"/>
 		<rom name="Classic 17 - Das ultimative Spielepaket (Germany).cue" size="115" crc="d2490a9d" md5="21878af8ddacff9acdf543dfb53e7046" sha1="d23c855e48a7cbd3880f7e5443d2839c3fb2796c"/>
+	</game>
+	<game name="Classic 5, The (USA)">
+		<category>Games</category>
+		<description>Classic 5, The (USA)</description>
+		<rom name="Classic 5, The (USA).bin" size="101959200" crc="b6a4d2a1" md5="4fb8348ae4a129d0ae92947717f6117c" sha1="7cfd3584fc13ba39f8f99f7a66542be765d10a92"/>
+		<rom name="Classic 5, The (USA).cue" size="86" crc="4a00b87f" md5="0e71ce49c7e9a89c79aee9a9c38b5e17" sha1="eca24af731bc32622ba12a25c0ac1995c36f831b"/>
 	</game>
 	<game name="Classic CD-ROM Vol. 6 (Europe)">
 		<category>Games</category>
@@ -26622,11 +26656,11 @@
 		<rom name="F-A-18 Korea (Europe).bin" size="415810080" crc="d60b0fb9" md5="cf90457cc6b7f77911a2bd750fc60a38" sha1="234233a14cb64bbc585b4df61531933a14095b42"/>
 		<rom name="F-A-18 Korea (Europe).cue" size="87" crc="fb5407fe" md5="a5fcc372b89e4c8cb77588983ded7614" sha1="f167894b906d657abdebd0e36045161c7e109fa1"/>
 	</game>
-	<game name="F-A-18E Super Hornet (Europe)">
+	<game name="F-A-18E Super Hornet (USA)">
 		<category>Games</category>
-		<description>F-A-18E Super Hornet (Europe)</description>
-		<rom name="F-A-18E Super Hornet (Europe).bin" size="443674224" crc="556f9e83" md5="9aa02d330082e1ccda4828d42b068690" sha1="8b19998ff4225d027500438c8fcb76b2c253edbc"/>
-		<rom name="F-A-18E Super Hornet (Europe).cue" size="95" crc="6f8c5259" md5="de48a8391e07b76a1a9a8d5831102298" sha1="926060f0ad901a1caeea22bb12e3bf838a3ae6f9"/>
+		<description>F-A-18E Super Hornet (USA)</description>
+		<rom name="F-A-18E Super Hornet (USA).bin" size="497332752" crc="bc40657b" md5="4a0c7383cd07f3b7ae01abfd2bc96d4b" sha1="44b2012a52e02fd49c2634773e3486de4c46f2cb"/>
+		<rom name="F-A-18E Super Hornet (USA).cue" size="92" crc="dfafe365" md5="3795ed8c2f58e25858b5a4ff92136ad4" sha1="368d6d63c5ddb618df46a0d323ec18ac577075a1"/>
 	</game>
 	<game name="F.A. Premier League Football Manager 2000, The (Europe) (En,Fr,De,Es,It,Nl)">
 		<category>Games</category>
@@ -56306,6 +56340,12 @@
 		<rom name="On the Ball - World Cup Edition (Europe) (Track 10).bin" size="4859232" crc="46d49d91" md5="50f48abf035b9ff3154038497828da5d" sha1="6afa09689b9a3b0cc0e5742fb6cc7490077e3a26"/>
 		<rom name="On the Ball - World Cup Edition (Europe).cue" size="1355" crc="a6216ece" md5="fc47c6b1e02ac1f31a71a0548eca879c" sha1="7c605a3156018929a2c2a0e5e6163c527131eebf"/>
 	</game>
+	<game name="Once Upon a Forest (USA)">
+		<category>Games</category>
+		<description>Once Upon a Forest (USA)</description>
+		<rom name="Once Upon a Forest (USA).bin" size="25872000" crc="a5b048b1" md5="ffdc2e0280662bd2b8abc797d390fcf6" sha1="c083c1a3f7bc9c1b868fe37a4bb377ac6196edcb"/>
+		<rom name="Once Upon a Forest (USA).cue" size="113" crc="d19b87d7" md5="fc6326d4def6fecc3eb7ad6c94864e3b" sha1="850f78b612f1ca4c84e872c358169c8f746a4f8f"/>
+	</game>
 	<game name="Once Upon a Knight (USA) (Disc 1)">
 		<category>Games</category>
 		<description>Once Upon a Knight (USA) (Disc 1)</description>
@@ -58545,6 +58585,18 @@
 		<description>Phlinx to Go (USA)</description>
 		<rom name="Phlinx to Go (USA).bin" size="49366128" crc="7025735b" md5="bf4c2bb597acba4b939b0b4062a283b9" sha1="5d0b547cc7ba085594e04e998af48847f7ed0016"/>
 		<rom name="Phlinx to Go (USA).cue" size="84" crc="4d1c017e" md5="b76c41bb0a100a646c126c50f96fc611" sha1="250b058b5a698fc462c952346b948f5be350cba2"/>
+	</game>
+	<game name="Phoenix - Deep Space Resurrection (Europe) (Disc 1)">
+		<category>Games</category>
+		<description>Phoenix - Deep Space Resurrection (Europe) (Disc 1)</description>
+		<rom name="Phoenix - Deep Space Resurrection (Europe) (Disc 1).bin" size="220765776" crc="8ec68f4b" md5="924edff43b5f9265adfa8733e08aaa4d" sha1="33b99847d8785b68348456c9693f657475d54c3a"/>
+		<rom name="Phoenix - Deep Space Resurrection (Europe) (Disc 1).cue" size="117" crc="570fc596" md5="b9eeec3691f9edcf2ec5fb81c9fedeed" sha1="f281d439a3ebe0d9d0d7830b4039f6ba5fd90d25"/>
+	</game>
+	<game name="Phoenix - Deep Space Resurrection (Europe) (Disc 2)">
+		<category>Games</category>
+		<description>Phoenix - Deep Space Resurrection (Europe) (Disc 2)</description>
+		<rom name="Phoenix - Deep Space Resurrection (Europe) (Disc 2).bin" size="733673472" crc="3f132af5" md5="514dd27242fab22a5bddf79d64d581bd" sha1="c12a72b62aa6193b1b893a0c0fc34709b30237be"/>
+		<rom name="Phoenix - Deep Space Resurrection (Europe) (Disc 2).cue" size="117" crc="5652e347" md5="4206da5c69a0f6b04c4b4356d8b56e4a" sha1="1df6538585f68d5f1363945b3edb941ce892ea4d"/>
 	</game>
 	<game name="Phonics 1b - Consonants Sounds (USA)">
 		<category>Games</category>
@@ -65585,6 +65637,12 @@
 		<description>Road &amp; Track Presents - The Need for Speed SE (USA) (En,De)</description>
 		<rom name="Road &amp; Track Presents - The Need for Speed SE (USA) (En,De).bin" size="622242768" crc="fb3b5d71" md5="0658e8154be8102e07e1ab8d9a68ade9" sha1="2ebfe0de4f881fa61b2d2cc195138df617433c89"/>
 		<rom name="Road &amp; Track Presents - The Need for Speed SE (USA) (En,De).cue" size="148" crc="df57e69a" md5="007fd259c0beb944fe4a28e74f930be8" sha1="4038207cb3c891951daa68af5032236fdb23df84"/>
+	</game>
+	<game name="Road &amp; Track Presents Grand Prix Unlimited (USA)">
+		<category>Games</category>
+		<description>Road &amp; Track Presents Grand Prix Unlimited (USA)</description>
+		<rom name="Road &amp; Track Presents Grand Prix Unlimited (USA).bin" size="2535456" crc="2c0f20f4" md5="6024dc0390180548a2a0e71b42329f73" sha1="b8e98739c52416ba037f86f3b7947d368187dfff"/>
+		<rom name="Road &amp; Track Presents Grand Prix Unlimited (USA).cue" size="137" crc="050828aa" md5="b25f12c86e395af2ee4a4df9319eb607" sha1="07b20600f197c4436089cd056394270888aed747"/>
 	</game>
 	<game name="Road Adventures USA (USA) (Disc 2) (Rerelease)">
 		<category>Games</category>
@@ -81872,6 +81930,12 @@
 		<rom name="TriBond (USA).bin" size="712583088" crc="8de90e78" md5="9829f98c4874682454f8f23c46e6fdac" sha1="5c34770f9d23cc59e76fc112de675c099f2ba8fd"/>
 		<rom name="TriBond (USA).cue" size="102" crc="3e9690c4" md5="c944957cc502901aa7ac36dafa3f71f1" sha1="5d6dbea4a701920214d0de8d39f985c45bd5a9a6"/>
 	</game>
+	<game name="TriJinx - A Kristine Kross Mystery (USA)">
+		<category>Games</category>
+		<description>TriJinx - A Kristine Kross Mystery (USA)</description>
+		<rom name="TriJinx - A Kristine Kross Mystery (USA).bin" size="367029600" crc="ad89f824" md5="94de2ebe1efdd5c40c6a9dfa96e0c7c1" sha1="fbc6316ddb0cbabca01332e1c6e63e6d039a0bdc"/>
+		<rom name="TriJinx - A Kristine Kross Mystery (USA).cue" size="106" crc="6d4d1292" md5="13837ab240af9efc85a390c5be785531" sha1="81323d25787efeaf76b0d74fad6291374763945e"/>
+	</game>
 	<game name="TriTryst (USA)">
 		<category>Games</category>
 		<description>TriTryst (USA)</description>
@@ -88222,6 +88286,12 @@
 		<rom name="Word Mania (USA).bin" size="696798816" crc="649fa7ca" md5="ef87dea093c5e062931fd462995ab0ea" sha1="c656c480740f80c4b7cb32d5894eba605fc417d1"/>
 		<rom name="Word Mania (USA).cue" size="82" crc="d74540b4" md5="cfa982779f38a4c9bced5f418465d421" sha1="e7491a7c1328c141a567ea71d13e868e8401258a"/>
 	</game>
+	<game name="Word Wonders - The Tower of Babel (USA)">
+		<category>Games</category>
+		<description>Word Wonders - The Tower of Babel (USA)</description>
+		<rom name="Word Wonders - The Tower of Babel (USA).bin" size="196264992" crc="3495124b" md5="4679bec49799417f99b8c538d6fff808" sha1="eed2e8ccde68e84f995c7e037eb295ad751a2763"/>
+		<rom name="Word Wonders - The Tower of Babel (USA).cue" size="105" crc="74bfd7cb" md5="12eab638002c8b5920bfde9de617f6e0" sha1="6e1946594532083474bc502c39a3d787ba04a9e6"/>
+	</game>
 	<game name="Word Zen (Canada)">
 		<category>Games</category>
 		<description>Word Zen (Canada)</description>
@@ -88341,18 +88411,18 @@
 		<rom name="World Poker Championship 2 - Final Table Showdown (Europe).bin" size="615763008" crc="bd9d8d0e" md5="67761fd13d92ee54a0cc2807ceb05961" sha1="95d99ae2da5ad1a962ee3a965cbe83c437077e0e"/>
 		<rom name="World Poker Championship 2 - Final Table Showdown (Europe).cue" size="124" crc="8ad7e4c5" md5="69acf7f198637ff9d8a63653b9809f9f" sha1="7b36dddeb84d79385f9c3cb8856ef8bdaee7a982"/>
 	</game>
-	<game name="World Racing (Europe) (En,Es,It) (Disc 1)">
+	<game name="World Racing (Europe) (En,Es,It) (Disc 1) (Install-Play-Disc)">
 		<category>Games</category>
-		<description>World Racing (Europe) (En,Es,It) (Disc 1)</description>
-		<rom name="World Racing (Europe) (En,Es,It) (Disc 1) (Track 1).bin" size="545990928" crc="e5c8f5a5" md5="78ee2149ebbe1c378aea833de4936a31" sha1="1a82ac4cd55e3e83e31de06ecd65f48e6a0882ad"/>
-		<rom name="World Racing (Europe) (En,Es,It) (Disc 1) (Track 2).bin" size="1411200" crc="4c4abed6" md5="a2482c65dfb684702d2b2197c13cbfa7" sha1="f1860efeb92b1e408c41a23678bb7be15f28f88f"/>
-		<rom name="World Racing (Europe) (En,Es,It) (Disc 1).cue" size="257" crc="d4367c32" md5="b913098c7dc60e002b3a5533797a9c72" sha1="92f19c0cfb960cb734fd344224f77b2710cd2354"/>
+		<description>World Racing (Europe) (En,Es,It) (Disc 1) (Install-Play-Disc)</description>
+		<rom name="World Racing (Europe) (En,Es,It) (Disc 1) (Install-Play-Disc) (Track 1).bin" size="545990928" crc="e5c8f5a5" md5="78ee2149ebbe1c378aea833de4936a31" sha1="1a82ac4cd55e3e83e31de06ecd65f48e6a0882ad"/>
+		<rom name="World Racing (Europe) (En,Es,It) (Disc 1) (Install-Play-Disc) (Track 2).bin" size="1411200" crc="4c4abed6" md5="a2482c65dfb684702d2b2197c13cbfa7" sha1="f1860efeb92b1e408c41a23678bb7be15f28f88f"/>
+		<rom name="World Racing (Europe) (En,Es,It) (Disc 1) (Install-Play-Disc).cue" size="297" crc="d624fac5" md5="0b2b51992778b0d75515fc0a8e350e8c" sha1="cd22ccd2aef2bab20cd6157d0bb46b8c56a9e7f6"/>
 	</game>
-	<game name="World Racing (Europe) (En,Es,It) (Disc 2)">
+	<game name="World Racing (Europe) (En,Es,It) (Disc 2) (Data-Disc)">
 		<category>Games</category>
-		<description>World Racing (Europe) (En,Es,It) (Disc 2)</description>
-		<rom name="World Racing (Europe) (En,Es,It) (Disc 2).bin" size="751837968" crc="a234120f" md5="98db9e6a8518538d158b66a50cfc35b6" sha1="23db4f7ff11b77917840373994b9063c7fc5b8e6"/>
-		<rom name="World Racing (Europe) (En,Es,It) (Disc 2).cue" size="107" crc="3e0444cb" md5="2dc57ecf07a7fc42cb39029d5ca1df5e" sha1="68fd394aa8637dd70f50543aa285ce479c402801"/>
+		<description>World Racing (Europe) (En,Es,It) (Disc 2) (Data-Disc)</description>
+		<rom name="World Racing (Europe) (En,Es,It) (Disc 2) (Data-Disc).bin" size="751837968" crc="a234120f" md5="98db9e6a8518538d158b66a50cfc35b6" sha1="23db4f7ff11b77917840373994b9063c7fc5b8e6"/>
+		<rom name="World Racing (Europe) (En,Es,It) (Disc 2) (Data-Disc).cue" size="119" crc="8d20ec5d" md5="3db615ec639e4eb13abdfefc44a6624e" sha1="95cc5608d855ca42786d8e623948e32c044d8fd9"/>
 	</game>
 	<game name="World Racing 2 (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -89664,6 +89734,12 @@
 		<description>Xtreme Accuracy Shooting (USA)</description>
 		<rom name="Xtreme Accuracy Shooting (USA).bin" size="333781728" crc="2463b236" md5="58dec4798ad7b6fefc09b507726bf4f6" sha1="374ca0ecb901f3e473f18feeb56f939ed3d26b8f"/>
 		<rom name="Xtreme Accuracy Shooting (USA).cue" size="96" crc="4b20d0e6" md5="b4488a635761db7da8a19b4db694d4e6" sha1="92161d9b0ab4350d6717fcd5f887eccf1855a39b"/>
+	</game>
+	<game name="Xtreme Arcade Games (Europe)">
+		<category>Games</category>
+		<description>Xtreme Arcade Games (Europe)</description>
+		<rom name="Xtreme Arcade Games (Europe).bin" size="141698592" crc="c8802f28" md5="5106c296dc62f8de5e94c09a5a44b870" sha1="6a7ffea44896cd8be0c1e533d2538bf688605b8e"/>
+		<rom name="Xtreme Arcade Games (Europe).cue" size="109" crc="5f194608" md5="d89b416c75788712d72609cffcb20424" sha1="7f9342f39820a51840c1c03074cbbda77003ae74"/>
 	</game>
 	<game name="Xtreme Brain Games (Europe)">
 		<category>Games</category>
