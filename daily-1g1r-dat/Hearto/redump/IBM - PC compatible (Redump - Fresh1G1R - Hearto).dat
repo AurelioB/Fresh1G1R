@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,555) (-y) [-aAbBcefkmMoprv] (2026-02-25 23-29-05) (Retool)</description>
-		<version>2026-02-25 23-29-05</version>
-		<date>2026-02-26 03-17-14</date>
+		<description>IBM - PC compatible (24,574) (-y) [-aAbBcefkmMoprv] (2026-02-27 01-40-50) (Retool)</description>
+		<version>2026-02-27 01-40-50</version>
+		<date>2026-02-27 03-14-28</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -5553,10 +5553,10 @@
 		<rom name="Air Conflicts - Air Battles of World War II (USA).bin" size="491899632" crc="08fd2ad4" md5="e4303122b269b8c934fc475543eb500a" sha1="5888d71afd259e7eea2bf2c44dd9b4308a0203d9"/>
 		<rom name="Air Conflicts - Air Battles of World War II (USA).cue" size="115" crc="c6ba409a" md5="b6981da853bd9a58356cbdd504dbc265" sha1="dd8d2cb7c5c55873014831e0166d6cc65fa60c98"/>
 	</game>
-	<game name="Air Conflicts - Secret Wars (Poland)">
+	<game name="Air Conflicts - Secret Wars (USA) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Air Conflicts - Secret Wars (Poland)</description>
-		<rom name="Air Conflicts - Secret Wars (Poland).iso" size="1342668800" crc="2f49b7ea" md5="b2d33d575d95e9e300539bae52001379" sha1="a3464c4a56a1c82a86dd8cd9ccfa6a304fe4acc6"/>
+		<description>Air Conflicts - Secret Wars (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Air Conflicts - Secret Wars (USA) (En,Fr,De,Es,It).iso" size="1723858944" crc="a12e25af" md5="74dd5a0a10bec095cd44afe7f4a03d0f" sha1="e6a3464a8a29bc1395fc725295d878fd08572184"/>
 	</game>
 	<game name="Air Drop (Europe) (En,Fr,De,Es,It,Pt,Sv,No,Da,Fi,Zh,Pl,Ru,El,Hr,Cs,Hu,Sk,Sl,Th,Tr,He,Ro,Mk,Id,Lt,Sr,Et,Lv,Sq,Bg)">
 		<category>Games</category>
@@ -17948,10 +17948,10 @@
 		<rom name="Billy's Drumstel (Netherlands).bin" size="11075568" crc="76768055" md5="69b91b8d31e194cb57ec98d9609a178c" sha1="71457d0edfde8cfd8580de19530a6b3a64bcc815"/>
 		<rom name="Billy's Drumstel (Netherlands).cue" size="119" crc="bbac72b2" md5="6ce96b21bb72b6f92aaff74f3f670bbf" sha1="6ca56516ac3a3fce88234dd04d713b9918d7b820"/>
 	</game>
-	<game name="Binary Domain (Russia) (En,Fr,De,Es,It)">
+	<game name="Binary Domain (Australia)">
 		<category>Games</category>
-		<description>Binary Domain (Russia) (En,Fr,De,Es,It)</description>
-		<rom name="Binary Domain (Russia) (En,Fr,De,Es,It).iso" size="6508118016" crc="5d0b988f" md5="a51ba2092569a671befab19e5c47d181" sha1="5fdadcc046d9cf38873234102e48350cd9c2320d"/>
+		<description>Binary Domain (Australia)</description>
+		<rom name="Binary Domain (Australia).iso" size="6511951872" crc="64837a77" md5="ee3b168b7ed7b6ffe8bb64da34ce4a94" sha1="4bb21bacae2b3e79dc36221ad0133a2405e33fe9"/>
 	</game>
 	<game name="Bingfeng Zhi Gu (Taiwan) (Disc 1)">
 		<category>Games</category>
@@ -20318,6 +20318,15 @@
 		<description>Bram Stoker's Dracula (USA)</description>
 		<rom name="Bram Stoker's Dracula (USA).bin" size="2827104" crc="30548e7b" md5="1e4a4d09470754114d5b44638c875717" sha1="1e3bfa2505360bc0503a8b79965a34c6aceaf543"/>
 		<rom name="Bram Stoker's Dracula (USA).cue" size="116" crc="4fd5f49f" md5="1b9a6a2d816618bd1b78eb4088c7af92" sha1="ffaedfbcf3c2a1738bb319a693197ab874ec0b2e"/>
+	</game>
+	<game name="Brand im Hafen (Germany)">
+		<category>Games</category>
+		<description>Brand im Hafen (Germany)</description>
+		<rom name="Brand im Hafen (Germany) (Track 1).bin" size="454467552" crc="2c8016ce" md5="d8347e288e7c81352d1faf203fad14cf" sha1="092022eb37f46cc05ad08cf0229e169a16a67dc0"/>
+		<rom name="Brand im Hafen (Germany) (Track 2).bin" size="882000" crc="60410c73" md5="f93224e6a4968da599c851f2ea874e46" sha1="0e6bd045f11aeeecd92397218587dd4051f9cfdf"/>
+		<rom name="Brand im Hafen (Germany) (Track 3).bin" size="176400" crc="769282bb" md5="d2b120199019b639d5a7e2b3463e9c97" sha1="a729763f6ca2b4a559a1eddf61b92d28fb78edc4"/>
+		<rom name="Brand im Hafen (Germany) (Track 4).bin" size="7938000" crc="020597a6" md5="513aad15436298a61fec5767abbccc73" sha1="2237cb2a2ea993f44867890efab2f71d43b0c009"/>
+		<rom name="Brand im Hafen (Germany).cue" size="459" crc="1ccdacff" md5="53923ad7f871aa70130ef34f70ff68eb" sha1="3b2891932610ca3a136c8cad6008cc7a83ac4950"/>
 	</game>
 	<game name="Brandish 4 - Nemureru Kami no Tou (Japan)">
 		<category>Games</category>
@@ -40665,10 +40674,10 @@
 		<rom name="Djurskoetaren (Sweden).bin" size="775160400" crc="25b6aed8" md5="a44ea34343b8f8b048a7da66bc8c8c2a" sha1="017899a487cdb3b27a8f2223698cd105ef0b7d5b"/>
 		<rom name="Djurskoetaren (Sweden).cue" size="88" crc="cd747c4b" md5="6738a2d432c23b120422f7d77e045b1d" sha1="5ae287dab7e03d2528a61a424196ac8c2d652936"/>
 	</game>
-	<game name="DmC - Devil May Cry (France)">
+	<game name="DmC - Devil May Cry (Europe, Australia)">
 		<category>Games</category>
-		<description>DmC - Devil May Cry (France)</description>
-		<rom name="DmC - Devil May Cry (France).iso" size="8262844416" crc="b680af43" md5="c2b91ca573bc21f7a474dfd88ab36a82" sha1="48b4eac757b83c2f60780bc14c3b3c1b24cbae55"/>
+		<description>DmC - Devil May Cry (Europe, Australia)</description>
+		<rom name="DmC - Devil May Cry (Europe, Australia).iso" size="8262844416" crc="b680af43" md5="c2b91ca573bc21f7a474dfd88ab36a82" sha1="48b4eac757b83c2f60780bc14c3b3c1b24cbae55"/>
 	</game>
 	<game name="Dnevnoj Dozor (Russia) (Disc 1)">
 		<category>Games</category>
@@ -50483,6 +50492,12 @@
 		<rom name="Family Games Compendium 2 (Europe).bin" size="72100560" crc="2c3baa8d" md5="81955ceeb6dfcbd0ab95ccadb9017bd3" sha1="0113b3f2c52710b2e85a4e27f2dc20aa70651109"/>
 		<rom name="Family Games Compendium 2 (Europe).cue" size="100" crc="19fbf2ab" md5="9ad4ae11935eeb90f9952387dcd3baac" sha1="f3c83111b8d29468912f7d4cb1bee2a6376998d8"/>
 	</game>
+	<game name="Family Igo 3 - Deluxe &amp; Strong (Japan)">
+		<category>Games</category>
+		<description>Family Igo 3 - Deluxe &amp; Strong (Japan)</description>
+		<rom name="Family Igo 3 - Deluxe &amp; Strong (Japan).bin" size="7265328" crc="2d552684" md5="637665bd1083ce5772806f33aa3887a9" sha1="71a731257f47725f554da1e62fd10aaa21c6db1b"/>
+		<rom name="Family Igo 3 - Deluxe &amp; Strong (Japan).cue" size="104" crc="b945c46c" md5="74504714feaa13888c097e8da6c9062b" sha1="96b220362fcb5680f7beb42f833240b223c4a92a"/>
+	</game>
 	<game name="Family Mega Pack (USA)">
 		<category>Games</category>
 		<description>Family Mega Pack (USA)</description>
@@ -53341,12 +53356,6 @@
 		<rom name="Flight Unlimited (USA) (En,Fr,De) (Rerelease) (1997-10-13).bin" size="461474160" crc="1d8fb7a1" md5="4e8d0044e069f2f300f54e399419d13a" sha1="b7e388064537d4a024eb5f08f9675d69f3fa9337"/>
 		<rom name="Flight Unlimited (USA) (En,Fr,De) (Rerelease) (1997-10-13).cue" size="147" crc="09661855" md5="ae36d95a3c1a2efc259356631ed5ef7c" sha1="94ed17ed7efd494ab3be68f5b10729050bdd259d"/>
 	</game>
-	<game name="Flight Unlimited 3 (Europe) (Disc 1) (Install) (Sold Out Software)">
-		<category>Games</category>
-		<description>Flight Unlimited 3 (Europe) (Disc 1) (Install) (Sold Out Software)</description>
-		<rom name="Flight Unlimited 3 (Europe) (Disc 1) (Install) (Sold Out Software).bin" size="794750208" crc="59f8760a" md5="abe1a2735f03cb6a698b961bf574bf78" sha1="0ba58c0e30d4fcfeeff3194dfb906213b8c6e919"/>
-		<rom name="Flight Unlimited 3 (Europe) (Disc 1) (Install) (Sold Out Software).cue" size="132" crc="0c359e7d" md5="27622625906107f0a1abac7575adbef7" sha1="280f2435d4f7d26dbf26bcf0d26eb624c70c71af"/>
-	</game>
 	<game name="Flight Unlimited II (Europe) (Disc 1)">
 		<category>Games</category>
 		<description>Flight Unlimited II (Europe) (Disc 1)</description>
@@ -53377,17 +53386,35 @@
 		<rom name="Flight Unlimited III (Europe) (Disc 1).bin" size="708358896" crc="c32841fc" md5="5d881acc321a56a3dc9b7ba3d80e0f6f" sha1="f4d31c2c69707947580e5f90e80fb0f97e8cdf9d"/>
 		<rom name="Flight Unlimited III (Europe) (Disc 1).cue" size="104" crc="c1f0d7c1" md5="0c8deaa881ec28b2f7af6be49f7330e5" sha1="60ec42fee1046c61d43fb5ff08f53daaa88a58ff"/>
 	</game>
+	<game name="Flight Unlimited III (Europe) (Disc 1) (Install) (Sold Out Software)">
+		<category>Games</category>
+		<description>Flight Unlimited III (Europe) (Disc 1) (Install) (Sold Out Software)</description>
+		<rom name="Flight Unlimited III (Europe) (Disc 1) (Install) (Sold Out Software).bin" size="794750208" crc="59f8760a" md5="abe1a2735f03cb6a698b961bf574bf78" sha1="0ba58c0e30d4fcfeeff3194dfb906213b8c6e919"/>
+		<rom name="Flight Unlimited III (Europe) (Disc 1) (Install) (Sold Out Software).cue" size="134" crc="bf1d7ff2" md5="e12f885aefc847ee5b9e4a1bf492094d" sha1="04a1a31acc148d7dfc255de152c2fe00e401da76"/>
+	</game>
 	<game name="Flight Unlimited III (Europe) (Disc 2)">
 		<category>Games</category>
 		<description>Flight Unlimited III (Europe) (Disc 2)</description>
 		<rom name="Flight Unlimited III (Europe) (Disc 2).bin" size="774116112" crc="5c5648bd" md5="5e8b313a0b5dbe433309ffc87a227fd3" sha1="2b032195b955bcde8588e5cce3eeb652ce97aa32"/>
 		<rom name="Flight Unlimited III (Europe) (Disc 2).cue" size="104" crc="c0adf110" md5="0710a896c9facb0e3375fc109d117526" sha1="91b39e5cdb0f1e5740a60f1f8287197b3ce1c4af"/>
 	</game>
+	<game name="Flight Unlimited III (Europe) (Disc 2) (Scenery (1)) (Sold Out Software)">
+		<category>Games</category>
+		<description>Flight Unlimited III (Europe) (Disc 2) (Scenery (1)) (Sold Out Software)</description>
+		<rom name="Flight Unlimited III (Europe) (Disc 2) (Scenery (1)) (Sold Out Software).bin" size="774116112" crc="c8995e5d" md5="e039d4d88e1a18c2d818a177b197caa1" sha1="e826db7938d8e3a735620fad044d2f172037a4bc"/>
+		<rom name="Flight Unlimited III (Europe) (Disc 2) (Scenery (1)) (Sold Out Software).cue" size="138" crc="5c801f49" md5="4fd0c4dbf61d6003641f45e261794f3e" sha1="f8002eea139da2fab05ca69391839fcdabdc61b9"/>
+	</game>
 	<game name="Flight Unlimited III (Europe) (Disc 3)">
 		<category>Games</category>
 		<description>Flight Unlimited III (Europe) (Disc 3)</description>
 		<rom name="Flight Unlimited III (Europe) (Disc 3).bin" size="646386048" crc="c7cd1c89" md5="b4c6151d7a0ff1e7cd8e3a1f765de775" sha1="3889c76077eddbbee67fec789369ee9f803ed3cb"/>
 		<rom name="Flight Unlimited III (Europe) (Disc 3).cue" size="104" crc="659e2813" md5="231529055eb910d69530d347874c6f13" sha1="09bfc04b30dabc08f8b1a039d851c9f4bbc261d0"/>
+	</game>
+	<game name="Flight Unlimited III (Europe) (Disc 3) (Scenery (2)) (Sold Out Software)">
+		<category>Games</category>
+		<description>Flight Unlimited III (Europe) (Disc 3) (Scenery (2)) (Sold Out Software)</description>
+		<rom name="Flight Unlimited III (Europe) (Disc 3) (Scenery (2)) (Sold Out Software).bin" size="788533872" crc="8b790ca3" md5="240d003b80dc207b4acb87313051de27" sha1="c1bfb57793fc66b34bcb9d3e9731b6fc8d890de1"/>
+		<rom name="Flight Unlimited III (Europe) (Disc 3) (Scenery (2)) (Sold Out Software).cue" size="138" crc="9a2ed6fa" md5="c82ca2ccd3b70334040687de8d753199" sha1="de7a24182360a4cee761bdce68d9ae15ce358c60"/>
 	</game>
 	<game name="Flight Unlimited III (UK) (Disc 1) (Install Disc) (Sold Out Software)">
 		<category>Games</category>
@@ -67234,6 +67261,12 @@
 		<description>Hidden Object Premium Time Management (USA)</description>
 		<rom name="Hidden Object Premium Time Management (USA).iso" size="2324201472" crc="9744e25e" md5="1580c0a1877b878582120682f7f64224" sha1="e58b5a71655126ce6a7a779b18f81bc091da9e0a"/>
 	</game>
+	<game name="Hidden Objects Collection (Germany)">
+		<category>Games</category>
+		<description>Hidden Objects Collection (Germany)</description>
+		<rom name="Hidden Objects Collection (Germany).bin" size="247912560" crc="0350913f" md5="dc5ff02daf9caabcfd14b4c5b3568e3f" sha1="3415b1fb09965e3c3b83d07fde6ffa1466073a70"/>
+		<rom name="Hidden Objects Collection (Germany).cue" size="101" crc="02e4228f" md5="d111a0c8f4f772c9e5e4dd518f409f23" sha1="6bda335c922b3ebd9796cfe141b8746dca9ecd48"/>
+	</game>
 	<game name="Hidden Relics (USA)">
 		<category>Games</category>
 		<description>Hidden Relics (USA)</description>
@@ -71169,6 +71202,72 @@
 		<category>Games</category>
 		<description>Immortals of Terra, The (USA)</description>
 		<rom name="Immortals of Terra, The (USA).iso" size="4697497600" crc="1c26c066" md5="624bd51cf4badffc841d16e5dcb8b073" sha1="e2a253eb52e64fb27675a8bbed7db6002eea8f14"/>
+	</game>
+	<game name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Glasshard)">
+		<category>Games</category>
+		<description>Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Glasshard)</description>
+		<rom name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Glasshard).bin" size="75000576" crc="e9497531" md5="d5e3f9a681c70c7524ce4a415b09627c" sha1="57ea4af8047700a6f65e48519b9abcc4992eae72"/>
+		<rom name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Glasshard).cue" size="110" crc="a9f18d52" md5="3fdf767257449ace3b6e165fc7cb8a1b" sha1="771ab576324e41fe45d764ad1d799af2a186f7ee"/>
+	</game>
+	<game name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Iriador)">
+		<category>Games</category>
+		<description>Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Iriador)</description>
+		<rom name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Iriador).bin" size="74090352" crc="41b19f09" md5="a184e8811c39656e25a61d9425d31d20" sha1="66cdf2efb7fe6230e13f5c6312199584c638a275"/>
+		<rom name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Iriador).cue" size="108" crc="0c53ed25" md5="61958cd4db028cbc6be30612f590e9ec" sha1="52e611158188c1d603a67189aacd05186fa05edd"/>
+	</game>
+	<game name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Kosmoeus)">
+		<category>Games</category>
+		<description>Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Kosmoeus)</description>
+		<rom name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Kosmoeus).bin" size="74715984" crc="35df9c91" md5="948521f7732c9418cbfc8ca7754a94cd" sha1="435544d91a66bd7feaaaff8a1a6f22fe38a5a697"/>
+		<rom name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Kosmoeus).cue" size="109" crc="469b1634" md5="9bcc568e99d9b91b85077431b342187d" sha1="24d3433f95761138464e945977b4185ead144146"/>
+	</game>
+	<game name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Maelmorg)">
+		<category>Games</category>
+		<description>Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Maelmorg)</description>
+		<rom name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Maelmorg).bin" size="75438048" crc="4ae05819" md5="bde9b55bf4e391d3e6d9ced69ba28a0f" sha1="f8676a57e66629fe0cdfce2772aee88786571ffe"/>
+		<rom name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Maelmorg).cue" size="109" crc="7c8c2631" md5="ec07aeb57d558bf14ef2818d8223a05e" sha1="b2024c1bdb7a2cd66f94a071ed60b3a7552fb04b"/>
+	</game>
+	<game name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Megamammon)">
+		<category>Games</category>
+		<description>Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Megamammon)</description>
+		<rom name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Megamammon).bin" size="75558000" crc="17d71ea0" md5="cd9926c06e45affc23cc5ba34be53d6a" sha1="3cec2644d1ec7f8b69c38b5ee643c3a773c7e6e5"/>
+		<rom name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Megamammon).cue" size="111" crc="03a2f1a7" md5="995bad9df504d59e124167bb2ef9418e" sha1="11e5b50ba01b1508ce11e118ca90c74e8bcf9c21"/>
+	</game>
+	<game name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Salamandron)">
+		<category>Games</category>
+		<description>Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Salamandron)</description>
+		<rom name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Salamandron).bin" size="75663840" crc="16f9aad0" md5="2088b2d7c4a487a3d6af272a91a5a0db" sha1="79bfd62b87c5de8a35b31f152891531673b811d6"/>
+		<rom name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Salamandron).cue" size="112" crc="96ffdf00" md5="5d61e59461ce4ccc8b379cc519aec5ab" sha1="b9c7cf6e414e3f7494eeac5ecf6c18fb894db4f5"/>
+	</game>
+	<game name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Skeletuk)">
+		<category>Games</category>
+		<description>Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Skeletuk)</description>
+		<rom name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Skeletuk).bin" size="74925312" crc="6ab33604" md5="9a1cd6721b001499c6076f4378a76209" sha1="55fb9bf4fe8e53ef163576005e612ea4af28f0d2"/>
+		<rom name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Skeletuk).cue" size="109" crc="5e712ba9" md5="b55f2d23af18f35f13702df01278f335" sha1="6d36401e04a6f04cbc63ecaeb79bdbc9fb3d6ac4"/>
+	</game>
+	<game name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Sloglob)">
+		<category>Games</category>
+		<description>Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Sloglob)</description>
+		<rom name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Sloglob).bin" size="75572112" crc="82bc8924" md5="7f77dfd5d736a18d472faa6d3c05adf6" sha1="6fbbf186091284671f64fc9ff61359ebbfe2b089"/>
+		<rom name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Sloglob).cue" size="108" crc="ee53d27b" md5="f3576705f04f80c4998e92a870c36a7e" sha1="37d8f6c00adbc9c19f39dad171f94dc12812372a"/>
+	</game>
+	<game name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Tentaclos)">
+		<category>Games</category>
+		<description>Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Tentaclos)</description>
+		<rom name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Tentaclos).bin" size="75480384" crc="386233ee" md5="355d3a6fc5b225e9b248e4259d95f3d8" sha1="8a3ee9794f2280b357834550505a677c57398b14"/>
+		<rom name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Tentaclos).cue" size="110" crc="7c13c91b" md5="41930ebc869160f53d59b29c1c261842" sha1="613dc226ee1db59e531051ae815c54c440a7538a"/>
+	</game>
+	<game name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Vampydia)">
+		<category>Games</category>
+		<description>Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Vampydia)</description>
+		<rom name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Vampydia).bin" size="76087200" crc="219b25d2" md5="5b4a64b45018793ca1cb7d973b6e923a" sha1="f227d8125a63cfe6a89c6f93dbe3b3a753f5c643"/>
+		<rom name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Vampydia).cue" size="109" crc="24c8d969" md5="e14785448aa93c2818016e1b18fe4c5e" sha1="4f729b7309cd9617906206b00fd4ddac48a24ddd"/>
+	</game>
+	<game name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Vulkanicus)">
+		<category>Games</category>
+		<description>Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Vulkanicus)</description>
+		<rom name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Vulkanicus).bin" size="75327504" crc="6636ac3f" md5="3913393c5697721ccc9212029f9b6371" sha1="2ab32761ed0868cb55abfe46affb13532bcfabcb"/>
+		<rom name="Imp (Sweden) (En,Sv,No,Da,Fi,Pl) (Vulkanicus).cue" size="111" crc="98d2823c" md5="aacecb52c6ead7f0046e6a2abe56de67" sha1="235da3e2eac30fa7d7eef972cf4dbe2c2a8be669"/>
 	</game>
 	<game name="Impacto Alpha (Brazil)">
 		<category>Games</category>
@@ -122569,10 +122668,10 @@
 		<rom name="Resident Evil (USA).bin" size="748672176" crc="62d9d913" md5="52b851744624ff127776929c147cd810" sha1="ef74c71e193811fca3a383b40b8d0d6f20cec830"/>
 		<rom name="Resident Evil (USA).cue" size="85" crc="df1cf535" md5="69d396f96152a81587a17e711c6e01b5" sha1="0338453d8b7b28d06e9c3638feda21d55d47d690"/>
 	</game>
-	<game name="Resident Evil - Operation Raccoon City (Europe) (En,Fr,De,Es,It)">
+	<game name="Resident Evil - Operation Raccoon City (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Resident Evil - Operation Raccoon City (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Resident Evil - Operation Raccoon City (Europe) (En,Fr,De,Es,It).iso" size="7013859328" crc="257fb6f5" md5="b16a26a2e459cf40faacd786b489009b" sha1="f3e4e08a2b43be2b90a44c77c51822fcdf45d47f"/>
+		<description>Resident Evil - Operation Raccoon City (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="Resident Evil - Operation Raccoon City (Europe, Australia) (En,Fr,De,Es,It).iso" size="7013859328" crc="257fb6f5" md5="b16a26a2e459cf40faacd786b489009b" sha1="f3e4e08a2b43be2b90a44c77c51822fcdf45d47f"/>
 	</game>
 	<game name="Resident Evil - Revelations (Russia) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru)">
 		<category>Games</category>
@@ -126121,10 +126220,10 @@
 		<rom name="Rune Gold (USA) (Disc 2) (Track 7).bin" size="25321632" crc="496f6934" md5="b2f341975b0fa3d69015bfe90dc92b1b" sha1="f955b6f57848e9c4c48e56a0d1506170a3d444c9"/>
 		<rom name="Rune Gold (USA) (Disc 2).cue" size="808" crc="02a3fdcd" md5="d2eb240fef97dea599ffee40b17b669a" sha1="c8efb70eba0df54c200f83b515733d0b082f28df"/>
 	</game>
-	<game name="Runes of Magic - Chapter IV - Lands of Despair (Poland) (Covermount)">
+	<game name="Runes of Magic - Chapter IV - Lands of Despair (Australia)">
 		<category>Games</category>
-		<description>Runes of Magic - Chapter IV - Lands of Despair (Poland) (Covermount)</description>
-		<rom name="Runes of Magic - Chapter IV - Lands of Despair (Poland) (Covermount).iso" size="5047844864" crc="16e2c340" md5="48fab0ff645909424b7aef27d4aa06ed" sha1="a19947163353aaaf345618cc11d85b0a9f31cf11"/>
+		<description>Runes of Magic - Chapter IV - Lands of Despair (Australia)</description>
+		<rom name="Runes of Magic - Chapter IV - Lands of Despair (Australia).iso" size="4688445440" crc="5c012e15" md5="f1bbcc45764a2a0b8a277ee9a0ffafcb" sha1="ddd5e27b42ab0afa6d6bf799e06640f056d8c727"/>
 	</game>
 	<game name="Runes of Magic - Sonsuz Macera (Turkey) (Covermount)">
 		<category>Games</category>
@@ -126900,15 +126999,15 @@
 		<description>Sacred 2 (USA) (Disc 2)</description>
 		<rom name="Sacred 2 (USA) (Disc 2).iso" size="5118427136" crc="a5c487c8" md5="22527e2e8620c6cab20c14bccbe4db55" sha1="446c45c485d7c5f870d2f6ac852e5298bc91efce"/>
 	</game>
-	<game name="Sacred 2 - Fallen Angel (Europe) (Disc 1)">
+	<game name="Sacred 2 - Fallen Angel (Europe, Australia) (Disc 1)">
 		<category>Games</category>
-		<description>Sacred 2 - Fallen Angel (Europe) (Disc 1)</description>
-		<rom name="Sacred 2 - Fallen Angel (Europe) (Disc 1).iso" size="8450048000" crc="d3f1c0be" md5="195891ed50181ad8503f3eee0682f7ca" sha1="5c07d3f4ab04d73797367fa4b8979d0c76e0dcef"/>
+		<description>Sacred 2 - Fallen Angel (Europe, Australia) (Disc 1)</description>
+		<rom name="Sacred 2 - Fallen Angel (Europe, Australia) (Disc 1).iso" size="8450048000" crc="d3f1c0be" md5="195891ed50181ad8503f3eee0682f7ca" sha1="5c07d3f4ab04d73797367fa4b8979d0c76e0dcef"/>
 	</game>
-	<game name="Sacred 2 - Fallen Angel (Europe) (Disc 2)">
+	<game name="Sacred 2 - Fallen Angel (Europe, Australia) (Disc 2)">
 		<category>Games</category>
-		<description>Sacred 2 - Fallen Angel (Europe) (Disc 2)</description>
-		<rom name="Sacred 2 - Fallen Angel (Europe) (Disc 2).iso" size="4676354048" crc="72a40228" md5="f1dc79211a132a87a235e6cb24b964e0" sha1="02698a6ce886f21fd26f68325fe1607eb820f40a"/>
+		<description>Sacred 2 - Fallen Angel (Europe, Australia) (Disc 2)</description>
+		<rom name="Sacred 2 - Fallen Angel (Europe, Australia) (Disc 2).iso" size="4676354048" crc="72a40228" md5="f1dc79211a132a87a235e6cb24b964e0" sha1="02698a6ce886f21fd26f68325fe1607eb820f40a"/>
 	</game>
 	<game name="Sacred 2 - Fallen Angel (USA) (Disc 3) (Beta) (2008-10-10)">
 		<category>Preproduction</category>
@@ -134681,11 +134780,11 @@
 		<rom name="Shrek Game Land Activity Center (USA).bin" size="208328400" crc="e77b7294" md5="6e2fed12af36950589a72e946d03a839" sha1="70cc7ede3a906a23f7e200a21a4d4b216f7acd60"/>
 		<rom name="Shrek Game Land Activity Center (USA).cue" size="126" crc="38a1652e" md5="e2eda591afba2b6a6ef0a89c81bd221f" sha1="74cd8086e41b9c4325572bedfe34f007f786cc4f"/>
 	</game>
-	<game name="Shrine Circus Tycoon (USA)">
+	<game name="Shrine Circus Tycoon (USA, Australia)">
 		<category>Games</category>
-		<description>Shrine Circus Tycoon (USA)</description>
-		<rom name="Shrine Circus Tycoon (USA).bin" size="790413120" crc="1b841ea6" md5="6c6cb61b08ae92db0ec51fea3889b664" sha1="ee06e949f516ee1b77a27fb2f173bd1b4aa1a557"/>
-		<rom name="Shrine Circus Tycoon (USA).cue" size="92" crc="e46c9541" md5="a6e2d0385a6ce26af41d01a7d05477ea" sha1="5e9754c21d42ebfa36bcacdaa1ccfe37bb051479"/>
+		<description>Shrine Circus Tycoon (USA, Australia)</description>
+		<rom name="Shrine Circus Tycoon (USA, Australia).bin" size="790413120" crc="1b841ea6" md5="6c6cb61b08ae92db0ec51fea3889b664" sha1="ee06e949f516ee1b77a27fb2f173bd1b4aa1a557"/>
+		<rom name="Shrine Circus Tycoon (USA, Australia).cue" size="103" crc="eaeede8d" md5="0c693459fd2d252984bf629cfa1da883" sha1="8eab40d42947ce6925df5bf8cce036dad253d573"/>
 	</game>
 	<game name="Shtorm (Russia)">
 		<category>Games</category>
@@ -142283,6 +142382,12 @@
 		<rom name="Spycraft - The Great Game (USA, Europe) (Disc 2).bin" size="707665056" crc="fb66c304" md5="3eff26d40ed9e078aeaafedf59a42311" sha1="b35d86b0748269fe49b9ed4b92eda4b23b1053a9"/>
 		<rom name="Spycraft - The Great Game (USA, Europe) (Disc 2).cue" size="137" crc="f702472c" md5="4d31518217474f234366eb55ef0cf5a1" sha1="6e85ff628839221084164a336f9ce8fe184da935"/>
 	</game>
+	<game name="Sqiek (Germany) (En,De)">
+		<category>Games</category>
+		<description>Sqiek (Germany) (En,De)</description>
+		<rom name="Sqiek (Germany) (En,De).bin" size="300710256" crc="ce9caf34" md5="4bec7a29190217f7b7beebc9cecccbc3" sha1="3468c4bbf83c006327c4a50c86df8b8b328ce089"/>
+		<rom name="Sqiek (Germany) (En,De).cue" size="89" crc="8e7f3fb5" md5="9cd7104fc6250eceb62729d49058d533" sha1="1830758b70df127640b16a94dff79c634fec473b"/>
+	</game>
 	<game name="Squad Assault - Second Wave (USA)">
 		<category>Games</category>
 		<description>Squad Assault - Second Wave (USA)</description>
@@ -144546,6 +144651,12 @@
 		<description>Starshine Legacy - Episode 1 - Mystery of the Soulriders (USA) (En,De,Sv,No,Fi,Cs,Hu)</description>
 		<rom name="Starshine Legacy - Episode 1 - Mystery of the Soulriders (USA) (En,De,Sv,No,Fi,Cs,Hu).bin" size="184893072" crc="c9f8477d" md5="4234a6616501788d9c135135b22a55d9" sha1="f220334de1806815dfcaae798d39a6d3ba7eab8c"/>
 		<rom name="Starshine Legacy - Episode 1 - Mystery of the Soulriders (USA) (En,De,Sv,No,Fi,Cs,Hu).cue" size="151" crc="efeadd3f" md5="b9449b614d66ec1c19192342772982f4" sha1="375c1ad9cb932052c9879f75ec589fa644d510a0"/>
+	</game>
+	<game name="Starshine Legacy - Episode 1 - Starshine in Gefahr (Germany) (En,De,Sv,No,Fi,Cs,Hu)">
+		<category>Games</category>
+		<description>Starshine Legacy - Episode 1 - Starshine in Gefahr (Germany) (En,De,Sv,No,Fi,Cs,Hu)</description>
+		<rom name="Starshine Legacy - Episode 1 - Starshine in Gefahr (Germany) (En,De,Sv,No,Fi,Cs,Hu).bin" size="350273952" crc="ffd15792" md5="be32c8e759962c4ae5171940f19e19c0" sha1="e7add6a272a3600245e8b85dcee952b84acb1841"/>
+		<rom name="Starshine Legacy - Episode 1 - Starshine in Gefahr (Germany) (En,De,Sv,No,Fi,Cs,Hu).cue" size="149" crc="0277d490" md5="6bf28c562a62fcecb852c4e66e595d19" sha1="436fd8d3217406936f0e4f44f4c866d3e22c6069"/>
 	</game>
 	<game name="Starshine Legacy - Episode 2 - Secret of Pine Hill Mansion (USA) (En,De,Sv,No,Fi,Cs,Hu)">
 		<category>Games</category>
@@ -174461,6 +174572,12 @@
 		<description>eGames Galaxy of Games 201 (Europe)</description>
 		<rom name="eGames Galaxy of Games 201 (Europe).bin" size="433967520" crc="1699a6be" md5="2a44779c56a5f450466fc1525be08f5e" sha1="8c4f909286664e18e6f3e124bded72bfda09d738"/>
 		<rom name="eGames Galaxy of Games 201 (Europe).cue" size="101" crc="2eaa7253" md5="1724fba4000698fd34199eed0bc0525d" sha1="53aee5f6393dd3e278c0fdf4641c74987f48978b"/>
+	</game>
+	<game name="eGames Galaxy of Games Jubilaeumsausgabe 2003 (Germany)">
+		<category>Demos</category>
+		<description>eGames Galaxy of Games Jubilaeumsausgabe 2003 (Germany)</description>
+		<rom name="eGames Galaxy of Games Jubilaeumsausgabe 2003 (Germany).bin" size="470145984" crc="00cefaef" md5="9ff6687e7e03ff7e060a494a179e7aa2" sha1="8814419b763e9174156cfd0d44e245469e87c4f3"/>
+		<rom name="eGames Galaxy of Games Jubilaeumsausgabe 2003 (Germany).cue" size="144" crc="670fe236" md5="c628bfa129a37d376d9cb0f36dd47d41" sha1="a9efaec0cbf6f8ac2303bd040a3d5e16c483d84b"/>
 	</game>
 	<game name="eGames Kartenspiele (Germany)">
 		<category>Games</category>
