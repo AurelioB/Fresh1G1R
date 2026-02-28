@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,102) (-y) [-aAbBcdkmMpPuv] (2026-02-27 01-40-50) (Retool)</description>
-		<version>2026-02-27 01-40-50</version>
-		<date>2026-02-27 03-26-41</date>
+		<description>IBM - PC compatible (25,113) (-y) [-aAbBcdkmMpPuv] (2026-02-28 03-05-33) (Retool)</description>
+		<version>2026-02-28 03-05-33</version>
+		<date>2026-02-28 03-17-46</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -605,6 +605,12 @@
 		<rom name="18 stal'nyx kolyos - Pyl' dorog (Russia).bin" size="173772816" crc="0ad9f3ba" md5="0232f8405f712254de7a8ebb34e45236" sha1="474cd40d9607f56aa027350ed0daa878ea71c558"/>
 		<rom name="18 stal'nyx kolyos - Pyl' dorog (Russia).cue" size="106" crc="c7abcd16" md5="4d643cd45b8eb773b4bf656742cdc2f0" sha1="6132c3aba59d3e9e46a8d875090e54b9bd3b2479"/>
 	</game>
+	<game name="1830 - Railroads &amp; Robber Barons (USA)">
+		<category>Games</category>
+		<description>1830 - Railroads &amp; Robber Barons (USA)</description>
+		<rom name="1830 - Railroads &amp; Robber Barons (USA).bin" size="10522848" crc="a7df0b11" md5="6d61ad833f62bca17b38317d09eb10a8" sha1="2d5553f5965efee1d655131e587e09d7efb7cb60"/>
+		<rom name="1830 - Railroads &amp; Robber Barons (USA).cue" size="127" crc="5d90711e" md5="f1cac13ab6920c636441bc035db1c05b" sha1="16496bb2971d271ccd2f48f21a0b62340e0bd495"/>
+	</game>
 	<game name="1863 - Die Grosse Schlacht um Gettysburg (Germany)">
 		<category>Games</category>
 		<description>1863 - Die Grosse Schlacht um Gettysburg (Germany)</description>
@@ -640,11 +646,11 @@
 		<rom name="1942 - The Pacific Air War (Germany) (Rerelease).bin" size="828322656" crc="dbe2dc97" md5="cca4fb0bd9230e5081a9961afc083112" sha1="2ffd5a76829459268f345633586924786e8ffdae"/>
 		<rom name="1942 - The Pacific Air War (Germany) (Rerelease).cue" size="114" crc="48e1bf3d" md5="08eb4e2255a5b426eb826820809a6e4f" sha1="044e51760bca78a6d0dcb728e5315c902dd7de15"/>
 	</game>
-	<game name="1942 - The Pacific Air War Gold (Europe)">
+	<game name="1942 - The Pacific Air War Gold (USA)">
 		<category>Games</category>
-		<description>1942 - The Pacific Air War Gold (Europe)</description>
-		<rom name="1942 - The Pacific Air War Gold (Europe).bin" size="373467024" crc="30c7b435" md5="b1afe783fc90e38cd92dc1e4d65c3e34" sha1="0beb56f80a56e54f192ad860f0b50c834ab5490f"/>
-		<rom name="1942 - The Pacific Air War Gold (Europe).cue" size="129" crc="4e71481f" md5="0a3054291c5e7edb541a66e6c5fafae7" sha1="86b25c5858c69c7026165bceb431e0a547bc77de"/>
+		<description>1942 - The Pacific Air War Gold (USA)</description>
+		<rom name="1942 - The Pacific Air War Gold (USA).bin" size="373650480" crc="b5e1603c" md5="3d0d8c4fc86e6bf6483fc08a2681dfc7" sha1="5cc1d31e80242635961347bf6a1380eb32e398d4"/>
+		<rom name="1942 - The Pacific Air War Gold (USA).cue" size="126" crc="7283e9a0" md5="96ffeeff5c340b2a79a308347cbc931d" sha1="c8fed01effbcbbcf45e10a4988b625d503372933"/>
 	</game>
 	<game name="1942 - Wing Baron (Portugal)">
 		<category>Games</category>
@@ -11841,6 +11847,12 @@
 		<category>Games</category>
 		<description>Assassin's Creed Unity (USA, Canada) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Ar) (Disc 5) (Limited Edition)</description>
 		<rom name="Assassin's Creed Unity (USA, Canada) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Ar) (Disc 5) (Limited Edition).iso" size="6902251520" crc="95af3584" md5="e6e659a5290f5a1e92bec582eecbbd0d" sha1="d9f3f8532e11fa9a92916e1685f9469717d14e38"/>
+	</game>
+	<game name="Assassinators (USA)">
+		<category>Games</category>
+		<description>Assassinators (USA)</description>
+		<rom name="Assassinators (USA).bin" size="65540832" crc="7747916d" md5="9f8b5ca9aafd0527418219c6d41c3d55" sha1="52b0be4fa179fec7d485b87649a44dd703f06f96"/>
+		<rom name="Assassinators (USA).cue" size="85" crc="55391151" md5="1cab9c9cf7085307620485da96ea0fc9" sha1="1c16d6eff92a56f19fd9efb06157b2f76666ad56"/>
 	</game>
 	<game name="Assault Heroes (USA) (En,Ja,Fr,De,Es,It,Zh)">
 		<category>Games</category>
@@ -45405,6 +45417,12 @@
 		<description>Edna bricht aus (Germany)</description>
 		<rom name="Edna bricht aus (Germany).iso" size="3919314944" crc="c888bd4d" md5="a45a3c4ee9af01e0b4ee1f86d07cabfa" sha1="7858c027ddef502f6c61a7d462f4bd496d8553ff"/>
 	</game>
+	<game name="Edward Grabowski's The Blue and the Gray (USA)">
+		<category>Games</category>
+		<description>Edward Grabowski's The Blue and the Gray (USA)</description>
+		<rom name="Edward Grabowski's The Blue and the Gray (USA).bin" size="250109328" crc="578a0053" md5="2683b430d3fe98e9d1f215c0fef45739" sha1="642ca0735785f53d173472dd737cc485be66b359"/>
+		<rom name="Edward Grabowski's The Blue and the Gray (USA).cue" size="112" crc="1d11d133" md5="66a2d001321f96c62190c3471385b320" sha1="05860ca3b68d0edc52678e9b7aeedf7ace5289c4"/>
+	</game>
 	<game name="Eets (France)">
 		<category>Games</category>
 		<description>Eets (France)</description>
@@ -53952,6 +53970,12 @@
 		<rom name="Flanker 2.5 (Scandinavia).bin" size="618717120" crc="78975ff9" md5="ab9b43aa4c52a59b35702cbfb49731ad" sha1="7134345d1cb157490630e866742b2e224b0c8c4d"/>
 		<rom name="Flanker 2.5 (Scandinavia).cue" size="91" crc="65919fa9" md5="48ce632179d877bfc36d579de1a30d81" sha1="0f06d9cee0dec95406fc9ba49230cbe8e8eee32c"/>
 	</game>
+	<game name="Flanker 2.5 - Combat Flight Simulator (USA)">
+		<category>Games</category>
+		<description>Flanker 2.5 - Combat Flight Simulator (USA)</description>
+		<rom name="Flanker 2.5 - Combat Flight Simulator (USA).bin" size="609650160" crc="b0e7be6d" md5="cf7ed9b3b879bb3c0dad33ada8f49e04" sha1="8a2c0e2c3ecf8183a659fae5bd791473e7e9a1ab"/>
+		<rom name="Flanker 2.5 - Combat Flight Simulator (USA).cue" size="109" crc="b920e94d" md5="14b3198c41057212ce01bc4ad0735cd9" sha1="b43a5462ba237d3ce0d59769888f1818e143c27a"/>
+	</game>
 	<game name="Flappy (Japan)">
 		<category>Games</category>
 		<description>Flappy (Japan)</description>
@@ -62250,6 +62274,29 @@
 		<description>Great Battles of Alexander, The (Europe)</description>
 		<rom name="Great Battles of Alexander, The (Europe).bin" size="468066816" crc="739a1d40" md5="70a21366be75cad4b2ac2bc816f62dfa" sha1="24faabf47dd90b0c883cf817173c51fc7f92ecb0"/>
 		<rom name="Great Battles of Alexander, The (Europe).cue" size="129" crc="8a122511" md5="bc298e9442971ef263ba5896a2d28072" sha1="69a8cd8c99cfbb7ae3216899711f59991e34086b"/>
+	</game>
+	<game name="Great Battles of Caesar, The (USA)">
+		<category>Games</category>
+		<description>Great Battles of Caesar, The (USA)</description>
+		<rom name="Great Battles of Caesar, The (USA) (Track 1).bin" size="242768736" crc="659d4417" md5="41dca9973ebe88519b3f8ebb8a3426e8" sha1="b7ff716910f06d0073aab768d771dfb9a038d074"/>
+		<rom name="Great Battles of Caesar, The (USA) (Track 2).bin" size="11844672" crc="74157b82" md5="049c511b2d396a5bfa6d0575e060eb84" sha1="4f72230b2079d1a47eddf9a5bf0a5fc4f5324c4e"/>
+		<rom name="Great Battles of Caesar, The (USA) (Track 3).bin" size="37730784" crc="ddd3a704" md5="ed1925caeba73e7075f15d9ccd18fafa" sha1="9f4bddb3aa78323b132b423c2bc9b249f40fb1de"/>
+		<rom name="Great Battles of Caesar, The (USA) (Track 4).bin" size="17964576" crc="a7234e3f" md5="bfdb4b44f8dd5d2774810300c27761af" sha1="fc6e860d2449264584ff54914859491ce55d0c96"/>
+		<rom name="Great Battles of Caesar, The (USA) (Track 5).bin" size="10666320" crc="2b23df44" md5="643a92c14fb87a9c36dfd353979f3504" sha1="17c1beb10f79fd558eeb56338a83073f68a95d45"/>
+		<rom name="Great Battles of Caesar, The (USA) (Track 6).bin" size="8991696" crc="a7530289" md5="3b9ce9781eb8684c829276f257329b24" sha1="ddf228c50a261fa409bc1ace431853788099cdf8"/>
+		<rom name="Great Battles of Caesar, The (USA).cue" size="681" crc="84b71ae1" md5="4239903b595370ed6d626525be0e1d5c" sha1="53683925eb8b0dab575cd733f096e4e5e20f536a"/>
+	</game>
+	<game name="Great Battles of Hannibal, The (USA)">
+		<category>Games</category>
+		<description>Great Battles of Hannibal, The (USA)</description>
+		<rom name="Great Battles of Hannibal, The (USA) (Track 1).bin" size="429371712" crc="da2b3aa4" md5="018c8c2d1b331b6c045ae4e8d021bbd0" sha1="0e92c99abb53b851cebbc009e5a00e0185593ef5"/>
+		<rom name="Great Battles of Hannibal, The (USA) (Track 2).bin" size="8234352" crc="07cf7e55" md5="a7add734ed82f94eaf09e61f799e4119" sha1="2dbdc57e966a912256b7cc4a73c35a9728d27ce2"/>
+		<rom name="Great Battles of Hannibal, The (USA) (Track 3).bin" size="26069568" crc="24d01bb1" md5="2f7aa9a3f0ec27ab5e474addc6fd2d7c" sha1="65d3e8c3c5535ffe37fd8f172c70dacabffd4d65"/>
+		<rom name="Great Battles of Hannibal, The (USA) (Track 4).bin" size="42032592" crc="e5b09147" md5="d6c856102762f531ead3f0bd48001934" sha1="f26d77bb166489dcb06a684610e26d10652e8a32"/>
+		<rom name="Great Battles of Hannibal, The (USA) (Track 5).bin" size="44791488" crc="f089d3e8" md5="7c46c5e37f98e1520af47d067e1bf420" sha1="6c6d3d849fcb63d72d359d7bd8d6f686812fae17"/>
+		<rom name="Great Battles of Hannibal, The (USA) (Track 6).bin" size="11376624" crc="8e8d2eb5" md5="ccea80fcd204b4d9716b6619833097a0" sha1="7cf76d3725ee19166a9f5d248cf97a15ee205f9f"/>
+		<rom name="Great Battles of Hannibal, The (USA) (Track 7).bin" size="8958768" crc="9da2f2ea" md5="57c395af8df4e913ee3ba83811075186" sha1="f04b9fd77db48d2004e5e6e1a9c404dec3d5a72a"/>
+		<rom name="Great Battles of Hannibal, The (USA).cue" size="777" crc="0eac92a5" md5="a7ae5e687cc9df2b698e178657712bd1" sha1="798ddba2f486ff6bb739b96e2724a19660cc6930"/>
 	</game>
 	<game name="Great Big War Game (USA)">
 		<category>Games</category>
@@ -87282,6 +87329,12 @@
 		<description>Looney Tunes - Sheep Raider (USA) (En,Fr,Es,Pt)</description>
 		<rom name="Looney Tunes - Sheep Raider (USA) (En,Fr,Es,Pt).bin" size="654187632" crc="c441bfa6" md5="fd21b5dfa4d58270e7912af03bc234d7" sha1="68b4044459e53ad4e6534941b9396832f6a5ff3c"/>
 		<rom name="Looney Tunes - Sheep Raider (USA) (En,Fr,Es,Pt).cue" size="113" crc="a15cc528" md5="f83a75995517418a6082fb246f3bb0e5" sha1="d67a0ceb6ed0c28be5b3369819802cab55115594"/>
+	</game>
+	<game name="Looney Tunes - Wuv &amp; Marriage - Animated Jigsaws (USA)">
+		<category>Games</category>
+		<description>Looney Tunes - Wuv &amp; Marriage - Animated Jigsaws (USA)</description>
+		<rom name="Looney Tunes - Wuv &amp; Marriage - Animated Jigsaws (USA).bin" size="219730896" crc="de8240cb" md5="49d333a7f2473d039a7e4da5cf381bc6" sha1="0d48d2f0ed854c55c1a71cf0daa530f0491cc833"/>
+		<rom name="Looney Tunes - Wuv &amp; Marriage - Animated Jigsaws (USA).cue" size="143" crc="368d52b8" md5="ffdc438985808012e6277c99a23a598b" sha1="85e61386350f5495609a7e1a5c751a61a6910dd0"/>
 	</game>
 	<game name="Looney Tunes Cervelli in Azione - Impara Giocando col tuo Computer 1 - Le Follie della Giungla (Italy)">
 		<category>Games</category>
@@ -119708,6 +119761,11 @@
 		<description>Pro Cycling Manager Season 2010 (Europe) (En,Fr,It,Nl,Pt)</description>
 		<rom name="Pro Cycling Manager Season 2010 (Europe) (En,Fr,It,Nl,Pt).iso" size="4528799744" crc="a0e2b2d6" md5="e03e4e8378e7fdba087f73b3c99b06ea" sha1="ae8b73395c22fbedb4090ac1b92a56208621f53f"/>
 	</game>
+	<game name="Pro Cycling Manager Season 2012 (Australia)">
+		<category>Games</category>
+		<description>Pro Cycling Manager Season 2012 (Australia)</description>
+		<rom name="Pro Cycling Manager Season 2012 (Australia).iso" size="4545052672" crc="3c2d8381" md5="ca8ab39c55cc45468a3329a53a5cb159" sha1="a1332355646a6d1220ef2ba3e7663e40d1dda8fc"/>
+	</game>
 	<game name="Pro Evolution Soccer 3 (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Pro Evolution Soccer 3 (Europe) (En,Fr,De,Es,It)</description>
@@ -149809,6 +149867,12 @@
 		<description>Strike Fighters Flight Simulator (Italy)</description>
 		<rom name="Strike Fighters Flight Simulator (Italy).iso" size="2676523008" crc="e5046f48" md5="9dbdee2d7b6435962c56ff682810f8fc" sha1="f92bdc644cc075b70883c2b7284794853496d1ed"/>
 	</game>
+	<game name="Strike! (Europe)">
+		<category>Games</category>
+		<description>Strike! (Europe)</description>
+		<rom name="Strike! (Europe).bin" size="52000368" crc="2b9d4e15" md5="2f4544f36b9cbdc978a8c6f2a5d91f68" sha1="b8ac16f46534d4b05c268a989394f75b502c3cbf"/>
+		<rom name="Strike! (Europe).cue" size="82" crc="13cc3d71" md5="83891c85292f208d91d00e12e81e9618" sha1="d5cd0b52c4c93ccc9037ad7d3ac43b895b9a2d6d"/>
+	</game>
 	<game name="Strikepoint - The Hex Missions (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Strikepoint - The Hex Missions (Europe) (En,Fr,De,Es,It)</description>
@@ -150354,6 +150418,12 @@
 		<description>Sudoku Challenge, The (Australia)</description>
 		<rom name="Sudoku Challenge, The (Australia).bin" size="788533872" crc="2c8408e5" md5="eca0e1ca9c368947a2cb0616b999d205" sha1="31d2e1c8cc152378f36b2d59fd1b9b234ff3c6cd"/>
 		<rom name="Sudoku Challenge, The (Australia).cue" size="99" crc="ab56388b" md5="b96e9f3e5eceb86f709734b27075d7ce" sha1="c559b05dc275f09fa5b0584aaa964a7bbd62cd2b"/>
+	</game>
+	<game name="Sudoku Classic (UK)">
+		<category>Games</category>
+		<description>Sudoku Classic (UK)</description>
+		<rom name="Sudoku Classic (UK).bin" size="6510336" crc="e4452ef4" md5="e3c57a6548555f5598556761aded1a77" sha1="d29750e5a66d45ffa73048aa9ce25eed07f07c01"/>
+		<rom name="Sudoku Classic (UK).cue" size="85" crc="8d2a60cf" md5="5f071a46d582b775158aded5aad42486" sha1="f1dad121f243faf65d3da8880aa92ec7d84bdd32"/>
 	</game>
 	<game name="Sudoku Crunch for Kids! (USA)">
 		<category>Games</category>
@@ -176993,6 +177063,12 @@
 		<description>Zebco Pro Fishing 3D - Tournament Edition (USA)</description>
 		<rom name="Zebco Pro Fishing 3D - Tournament Edition (USA).bin" size="78389808" crc="a32fa564" md5="ea9bf844f8ccc119c5dba1eb6ba7c67c" sha1="704f42c6a8df50182fde926c97c3d32d082e84a2"/>
 		<rom name="Zebco Pro Fishing 3D - Tournament Edition (USA).cue" size="136" crc="8bb002e4" md5="69f0379d74f0178eb0fdd1fce7483932" sha1="e40d8b71a0bf80126eecc330d7b40bc227d7799a"/>
+	</game>
+	<game name="Zeddas - Servant of Sheol (USA)">
+		<category>Games</category>
+		<description>Zeddas - Servant of Sheol (USA)</description>
+		<rom name="Zeddas - Servant of Sheol (USA).bin" size="482110608" crc="92373b00" md5="cf9c86cc932bc26b043b934988fd27a6" sha1="6474b62a617fc841b88bbb1161c6eee7ff91f551"/>
+		<rom name="Zeddas - Servant of Sheol (USA).cue" size="120" crc="d2384795" md5="73ba12752105001544d632415e84259a" sha1="b0930b5c761a50375b0e73f7571538929d262097"/>
 	</game>
 	<game name="Zehn Adventures - Die Adventure Spielesammlung (Germany) (Disc 1)">
 		<category>Games</category>
