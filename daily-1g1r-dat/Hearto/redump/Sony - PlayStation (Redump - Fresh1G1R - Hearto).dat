@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation (Retool)</name>
-		<description>Sony - PlayStation (5,663) (-y) [-aAbBcefkmMoprv] (2026-02-24 02-26-41) (Retool)</description>
-		<version>2026-02-24 02-26-41</version>
-		<date>2026-02-28 03-05-58</date>
+		<description>Sony - PlayStation (5,663) (-y) [-aAbBcefkmMoprv] (2026-03-02 04-07-06) (Retool)</description>
+		<version>2026-03-02 04-07-06</version>
+		<date>2026-03-02 03-18-38</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -44180,15 +44180,15 @@
 		<rom name="Station 4 (Europe) (Track 2).bin" size="33069120" crc="50c9888b" md5="b916c7c788301da7201d3d5fa9e124aa" sha1="8a61714e3f0abf918399358b77c9ed351b9113c4"/>
 		<rom name="Station 4 (Europe).cue" size="206" crc="c2f13eb1" md5="52a3398f62e17f5710b8a3dd1ed553e1" sha1="b76b3805dedae440d754a90b7678a37c5c8e5a6e"/>
 	</game>
-	<game name="Station 5 (Europe)">
+	<game name="Station 5 (Europe, Australia)">
 		<category>Demos</category>
-		<description>Station 5 (Europe)</description>
-		<rom name="Station 5 (Europe) (Track 1).bin" size="132064800" crc="063e8c12" md5="abac0777f5ee98f3f613e1f5e52d70ce" sha1="954907682dfce5c77bbf54afe6c7999378db2f73"/>
-		<rom name="Station 5 (Europe) (Track 2).bin" size="31455648" crc="f122089f" md5="1f78c726a9380503628cc2203df0e8bb" sha1="17077517deb03cba5fc749ec68871301f7fa4595"/>
-		<rom name="Station 5 (Europe) (Track 3).bin" size="31455648" crc="f122089f" md5="1f78c726a9380503628cc2203df0e8bb" sha1="17077517deb03cba5fc749ec68871301f7fa4595"/>
-		<rom name="Station 5 (Europe) (Track 4).bin" size="42956928" crc="ac37d526" md5="859e4bff79ff09e1a95e10d1d9950152" sha1="d108297e72b71bb6f3db30522745b46c805b8438"/>
-		<rom name="Station 5 (Europe) (Track 5).bin" size="56979552" crc="0d316f48" md5="47bd32caa1a9dc77ff522ed9ff219269" sha1="ec6f8ce9603325a12e0afe4b0dcb119f73fc4b9f"/>
-		<rom name="Station 5 (Europe).cue" size="542" crc="999f8064" md5="fdc1b3901cbda6e38fa8455e83759926" sha1="2d0b07c63d01c7c75d96ea563b98dbaddaf0d667"/>
+		<description>Station 5 (Europe, Australia)</description>
+		<rom name="Station 5 (Europe, Australia) (Track 1).bin" size="132064800" crc="063e8c12" md5="abac0777f5ee98f3f613e1f5e52d70ce" sha1="954907682dfce5c77bbf54afe6c7999378db2f73"/>
+		<rom name="Station 5 (Europe, Australia) (Track 2).bin" size="31455648" crc="f122089f" md5="1f78c726a9380503628cc2203df0e8bb" sha1="17077517deb03cba5fc749ec68871301f7fa4595"/>
+		<rom name="Station 5 (Europe, Australia) (Track 3).bin" size="31455648" crc="f122089f" md5="1f78c726a9380503628cc2203df0e8bb" sha1="17077517deb03cba5fc749ec68871301f7fa4595"/>
+		<rom name="Station 5 (Europe, Australia) (Track 4).bin" size="42956928" crc="ac37d526" md5="859e4bff79ff09e1a95e10d1d9950152" sha1="d108297e72b71bb6f3db30522745b46c805b8438"/>
+		<rom name="Station 5 (Europe, Australia) (Track 5).bin" size="56979552" crc="0d316f48" md5="47bd32caa1a9dc77ff522ed9ff219269" sha1="ec6f8ce9603325a12e0afe4b0dcb119f73fc4b9f"/>
+		<rom name="Station 5 (Europe, Australia).cue" size="597" crc="98cad006" md5="2ea92a7a837dbc367ccdc12426d9e5d5" sha1="b5cfcc5cbf7d8d62a640a3564d9d4b4b3f5b8c6b"/>
 	</game>
 	<game name="Station 6 (Europe)">
 		<category>Demos</category>
@@ -46837,6 +46837,13 @@
 		<rom name="Tekken (USA) (Track 28).bin" size="33059712" crc="9e134287" md5="17698755215e33d36b38090eaf539bfd" sha1="83f97e7f3fa37469d7b1cfbd7c0236fb3509573a"/>
 		<rom name="Tekken (USA).cue" size="2978" crc="f7001c1d" md5="5b73e79c05f8748765d1d2e2368051d5" sha1="9f6429750482212b9b1959b8ac5a89036d293b08"/>
 	</game>
+	<game name="Tekken 2 &amp; Fade to Black &amp; F1 &amp; V-CD (Europe, Australia)">
+		<category>Demos</category>
+		<description>Tekken 2 &amp; Fade to Black &amp; F1 &amp; V-CD (Europe, Australia)</description>
+		<rom name="Tekken 2 &amp; Fade to Black &amp; F1 &amp; V-CD (Europe, Australia) (Track 1).bin" size="155490720" crc="5af38900" md5="ad2bdb75b708ea5f23d65cef0e30a1cc" sha1="82d0e69e9e948d7287bfff14b3ed6de32208bfb4"/>
+		<rom name="Tekken 2 &amp; Fade to Black &amp; F1 &amp; V-CD (Europe, Australia) (Track 2).bin" size="48608784" crc="0ee64810" md5="d65e173dd0f761498ed665a57b6a27de" sha1="61bcdbf0573f2c2f687a58db42070b5b3e16379a"/>
+		<rom name="Tekken 2 &amp; Fade to Black &amp; F1 &amp; V-CD (Europe, Australia).cue" size="282" crc="dc3d4b75" md5="14c5a3ce6d878799efbe71bc3147377a" sha1="15e0125458e61c5984765c889406c02f68fedde9"/>
+	</game>
 	<game name="Tekken 2 (USA) (Rev 1)">
 		<category>Games</category>
 		<description>Tekken 2 (USA) (Rev 1)</description>
@@ -46844,13 +46851,6 @@
 		<rom name="Tekken 2 (USA) (Rev 1) (Track 2).bin" size="26554080" crc="9a0d6a04" md5="9f64359d59fa921a68dea3300bd54ac2" sha1="5faad8d827cc9390dc097e75822e23c2f4953364"/>
 		<rom name="Tekken 2 (USA) (Rev 1) (Track 3).bin" size="6350400" crc="d387cac5" md5="131bb82eb1ba56b4991091f1717770a2" sha1="47eb5ef6093e80099f710b7e221b461ca3ab3c26"/>
 		<rom name="Tekken 2 (USA) (Rev 1).cue" size="330" crc="0908bc3f" md5="bf0c895e262e7dbb568ed314832b1d92" sha1="159052df13c6e7affb1da59956fd774ceebe1ef6"/>
-	</game>
-	<game name="Tekken 2 + Fade to Black + F1 + V-CD (Europe, Australia)">
-		<category>Demos</category>
-		<description>Tekken 2 + Fade to Black + F1 + V-CD (Europe, Australia)</description>
-		<rom name="Tekken 2 + Fade to Black + F1 + V-CD (Europe, Australia) (Track 1).bin" size="155490720" crc="5af38900" md5="ad2bdb75b708ea5f23d65cef0e30a1cc" sha1="82d0e69e9e948d7287bfff14b3ed6de32208bfb4"/>
-		<rom name="Tekken 2 + Fade to Black + F1 + V-CD (Europe, Australia) (Track 2).bin" size="48608784" crc="0ee64810" md5="d65e173dd0f761498ed665a57b6a27de" sha1="61bcdbf0573f2c2f687a58db42070b5b3e16379a"/>
-		<rom name="Tekken 2 + Fade to Black + F1 + V-CD (Europe, Australia).cue" size="282" crc="6e39dc63" md5="acf1345a936ae21d878222273274a24e" sha1="97ae6e7e05b73ef54d5869de02566e0aaa93ecc7"/>
 	</game>
 	<game name="Tekken 2 + Fade to Black + V-CD (France)">
 		<category>Demos</category>

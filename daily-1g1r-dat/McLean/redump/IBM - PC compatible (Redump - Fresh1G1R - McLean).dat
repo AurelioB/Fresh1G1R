@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (12,868) (-ly) [-aAbBcdDefkmMopPruv] (2026-02-28 03-05-33) (Retool)</description>
-		<version>2026-02-28 03-05-33</version>
-		<date>2026-02-28 03-11-45</date>
+		<description>IBM - PC compatible (12,869) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-02 03-30-08) (Retool)</description>
+		<version>2026-03-02 03-30-08</version>
+		<date>2026-03-02 03-24-23</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -596,6 +596,11 @@
 		<description>3-D Dinosaur Adventure (USA) (OEM)</description>
 		<rom name="3-D Dinosaur Adventure (USA) (OEM).bin" size="592250064" crc="121bc812" md5="92aca0c5394e623c165b91484782007f" sha1="db85f49f2426fd3e050d2b7b4a1daebabe28cd3a"/>
 		<rom name="3-D Dinosaur Adventure (USA) (OEM).cue" size="100" crc="4796366a" md5="5be28048e0d5691ba28cb3877cc356ff" sha1="2507bcbe07958912c5bf305d391b9375acbdf420"/>
+	</game>
+	<game name="3-D Hunting 2010 (Europe)">
+		<category>Games</category>
+		<description>3-D Hunting 2010 (Europe)</description>
+		<rom name="3-D Hunting 2010 (Europe).iso" size="585695232" crc="758d8745" md5="671be8f61859481b9c6fbff0bbb4a345" sha1="659e91775b060dab8a24866679ad8decad3f2412"/>
 	</game>
 	<game name="3-D Ultra Cool Pool (USA)">
 		<category>Games</category>
@@ -14504,16 +14509,16 @@
 		<category>Games</category>
 		<description>Civilization - Call to Power (USA)</description>
 		<rom name="Civilization - Call to Power (USA) (Track 01).bin" size="563929632" crc="0a11c004" md5="0f7fa150b1509a0dce5368d7f9dd4ba7" sha1="404bb7e6b2e20306adcbbaa54d820726ddfbd105"/>
-		<rom name="Civilization - Call to Power (USA) (Track 02).bin" size="22226400" crc="4f8592f2" md5="5c875a4092325d626bf51a5a58fa2ea3" sha1="90ff7aa32aa1e71381de30e140f9e0db14465185"/>
-		<rom name="Civilization - Call to Power (USA) (Track 03).bin" size="21520800" crc="713d41f1" md5="c53cfed2616b8ab4e90ca73be750c971" sha1="2447e12b190d3294bf173e72334e84cbeb07060a"/>
-		<rom name="Civilization - Call to Power (USA) (Track 04).bin" size="29811600" crc="52633263" md5="3f8bb3a40621267b5c77ace07e83fa72" sha1="2e0e2e3adff138664754b78c44fa08029e411c17"/>
-		<rom name="Civilization - Call to Power (USA) (Track 05).bin" size="20815200" crc="42af05e5" md5="a149c4713968b2abae7fe79a55436f3f" sha1="65796ee2e092ef46e01da62b0392e06d355122d4"/>
-		<rom name="Civilization - Call to Power (USA) (Track 06).bin" size="27342000" crc="488e6053" md5="08d943938a0bf5210f1ca2e198a831c9" sha1="684b79d63a6639417167a5ede1f10a839a389bcf"/>
-		<rom name="Civilization - Call to Power (USA) (Track 07).bin" size="27871200" crc="7704df49" md5="116fc1e2832750065b7355f54c3fb183" sha1="f85468bd2a723fc954c9b8394c566d6a064736fd"/>
-		<rom name="Civilization - Call to Power (USA) (Track 08).bin" size="27871200" crc="3a7e85e9" md5="6bc6a64adfbaa479a5a584a5f8d1ed44" sha1="02a11f9a23a102922676cea492a9f557ae7211e9"/>
-		<rom name="Civilization - Call to Power (USA) (Track 09).bin" size="36514800" crc="2a0523c1" md5="8fd6f21cb46986bdf63a2da3c566cff6" sha1="02d4bf298776ae764af061817a851fcb61db4712"/>
-		<rom name="Civilization - Call to Power (USA) (Track 10).bin" size="29106000" crc="c5418bfc" md5="4a0b3ac67b53eb553fd16006fec1e76e" sha1="a9c17cc6f90ff7f79535a81ac5067d9d3b73da82"/>
-		<rom name="Civilization - Call to Power (USA).cue" size="1272" crc="3808df87" md5="8d0cf9d0feaef3cc7082b8d84aa29708" sha1="c144d5d9a2b3e7a088005c1b372a34c2b3ef3177"/>
+		<rom name="Civilization - Call to Power (USA) (Track 02).bin" size="22226400" crc="a1e9536a" md5="7be794e09feb25c72ee48d1622bca73a" sha1="d877801814d612cbd39bf24c5060cd46f7565845"/>
+		<rom name="Civilization - Call to Power (USA) (Track 03).bin" size="21520800" crc="60ab09ad" md5="af4c4c63514ac22cc292c5efe4348c21" sha1="4398ac5536de561a574127e8d55a979a50f5e802"/>
+		<rom name="Civilization - Call to Power (USA) (Track 04).bin" size="29811600" crc="39a4b918" md5="9b2c61daa8b424576a4a712d45afe60e" sha1="1ddaf9e85b704a398ab020914697397750859671"/>
+		<rom name="Civilization - Call to Power (USA) (Track 05).bin" size="20815200" crc="7a33ab55" md5="143e3e569489942f605d910f63bc8e65" sha1="bb398fd859f9504855dae8ad40186ca25af09d64"/>
+		<rom name="Civilization - Call to Power (USA) (Track 06).bin" size="27342000" crc="4447e691" md5="dc685d5665a41e636c05bc0fe651bf67" sha1="26dcee9f7d7a65803819044394808f6b3aae6676"/>
+		<rom name="Civilization - Call to Power (USA) (Track 07).bin" size="27871200" crc="1fc8d082" md5="d08c4ff2668da87d4495bb176cb4ea09" sha1="9ccc998a14b3fdf9b6450bd77e2351c2da17fdf8"/>
+		<rom name="Civilization - Call to Power (USA) (Track 08).bin" size="27871200" crc="7a14b69a" md5="edd4f0ae43c91a6e9651e1f212fc729a" sha1="ad095beafe7868f7d120973b0817ee50487f952d"/>
+		<rom name="Civilization - Call to Power (USA) (Track 09).bin" size="36514800" crc="31e7a81a" md5="ffcd6a12c6ad0f3d31eaa2f0a469800b" sha1="d92572469ddb19b9476870538f38db1c418a897b"/>
+		<rom name="Civilization - Call to Power (USA) (Track 10).bin" size="29106000" crc="1ce362f7" md5="a3d0e86e2c3369175c108caf639c14c8" sha1="f57926f25885ea557f691beabfef5315023ee6ba"/>
+		<rom name="Civilization - Call to Power (USA).cue" size="1295" crc="5e802aff" md5="4cfe3e6fb048e9ad8ee128e4b93375ce" sha1="d7a77737f67a637b21b97ec97b9c643071df2d1b"/>
 	</game>
 	<game name="Civilization - Call to Power (USA) (Linux)">
 		<category>Games</category>
@@ -23720,11 +23725,11 @@
 		<rom name="E.T. the Extra-Terrestrial - Interplanetary Mission (USA).bin" size="293995296" crc="dd763cd8" md5="22bd6bf75859ba70895412d4a555fcce" sha1="ee27028f80d7d7c14c287d9e6308a8af0234a379"/>
 		<rom name="E.T. the Extra-Terrestrial - Interplanetary Mission (USA).cue" size="146" crc="c5e2ab02" md5="165137a30f428d56f97f11cf37e19dd7" sha1="a7ff46ff1000a12389667b03c84c51ba3f1c66d4"/>
 	</game>
-	<game name="EA Compilation (Europe) (OEM)">
+	<game name="EA Compilation (USA) (OEM)">
 		<category>Games</category>
-		<description>EA Compilation (Europe) (OEM)</description>
-		<rom name="EA Compilation (Europe) (OEM).bin" size="76597584" crc="3eef0554" md5="46fe202553348af9829604324bc07fdc" sha1="fa29605d35dc7b4c053598674f945dc39fec76aa"/>
-		<rom name="EA Compilation (Europe) (OEM).cue" size="95" crc="d1cd4ec4" md5="e0e7784a7f65708fbeb4d6826941ea3d" sha1="9cc094214a9051515f0226eeda56bb67fbd7e7a4"/>
+		<description>EA Compilation (USA) (OEM)</description>
+		<rom name="EA Compilation (USA) (OEM).bin" size="90648432" crc="79e39621" md5="0281e97b88e3fd9416d574261f08cdd8" sha1="162f78a9d2a0ef733b7e8544c604a2ff60381dc7"/>
+		<rom name="EA Compilation (USA) (OEM).cue" size="115" crc="659d52c3" md5="85e5914473246acf185aed0396f1c32e" sha1="63a8554c5f4039dd5e4700e9a02eb49ff01ffd17"/>
 	</game>
 	<game name="EF2000 v2.0 (USA)">
 		<category>Games</category>
@@ -47748,8 +47753,8 @@
 	<game name="Master of Orion (USA)">
 		<category>Games</category>
 		<description>Master of Orion (USA)</description>
-		<rom name="Master of Orion (USA).bin" size="33854688" crc="1c2458dc" md5="013a27bdb5dd9620aad7981097d59cd8" sha1="1b440956a2b4bf857c9cd87ad41f4fe468c59f88"/>
-		<rom name="Master of Orion (USA).cue" size="87" crc="7e1fc081" md5="6f6b384f50e5b7599a416af3b161abc0" sha1="8ecfdfe296e066e50ad6513ec64c22c1475fbb3c"/>
+		<rom name="Master of Orion (USA).bin" size="15894816" crc="5ed96a26" md5="b65794842139942818eed2a0a031e677" sha1="0c50b3ab1908a26d9a6b11bdea02b58f9d6b96b8"/>
+		<rom name="Master of Orion (USA).cue" size="110" crc="4622b5ab" md5="f7b7c88c5ad166b484eaf5e8e1a90a39" sha1="9b40435ae337a82b980194c58f1d09a70c6b5f27"/>
 	</game>
 	<game name="Master of Orion 3 (USA) (Disc 1)">
 		<category>Games</category>

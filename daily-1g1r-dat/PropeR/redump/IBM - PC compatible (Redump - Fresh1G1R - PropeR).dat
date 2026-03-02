@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,113) (-y) [-aAbBcdkmMpPuv] (2026-02-28 03-05-33) (Retool)</description>
-		<version>2026-02-28 03-05-33</version>
-		<date>2026-02-28 03-17-46</date>
+		<description>IBM - PC compatible (25,122) (-y) [-aAbBcdkmMpPuv] (2026-03-02 03-30-08) (Retool)</description>
+		<version>2026-03-02 03-30-08</version>
+		<date>2026-03-02 03-30-22</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1123,6 +1123,11 @@
 		<description>3-D Dinosaur Adventure (USA) (OEM)</description>
 		<rom name="3-D Dinosaur Adventure (USA) (OEM).bin" size="592250064" crc="121bc812" md5="92aca0c5394e623c165b91484782007f" sha1="db85f49f2426fd3e050d2b7b4a1daebabe28cd3a"/>
 		<rom name="3-D Dinosaur Adventure (USA) (OEM).cue" size="100" crc="4796366a" md5="5be28048e0d5691ba28cb3877cc356ff" sha1="2507bcbe07958912c5bf305d391b9375acbdf420"/>
+	</game>
+	<game name="3-D Hunting 2010 (Europe)">
+		<category>Games</category>
+		<description>3-D Hunting 2010 (Europe)</description>
+		<rom name="3-D Hunting 2010 (Europe).iso" size="585695232" crc="758d8745" md5="671be8f61859481b9c6fbff0bbb4a345" sha1="659e91775b060dab8a24866679ad8decad3f2412"/>
 	</game>
 	<game name="3-D Ultra Cool Pool (USA)">
 		<category>Games</category>
@@ -26646,16 +26651,16 @@
 		<category>Games</category>
 		<description>Civilization - Call to Power (USA)</description>
 		<rom name="Civilization - Call to Power (USA) (Track 01).bin" size="563929632" crc="0a11c004" md5="0f7fa150b1509a0dce5368d7f9dd4ba7" sha1="404bb7e6b2e20306adcbbaa54d820726ddfbd105"/>
-		<rom name="Civilization - Call to Power (USA) (Track 02).bin" size="22226400" crc="4f8592f2" md5="5c875a4092325d626bf51a5a58fa2ea3" sha1="90ff7aa32aa1e71381de30e140f9e0db14465185"/>
-		<rom name="Civilization - Call to Power (USA) (Track 03).bin" size="21520800" crc="713d41f1" md5="c53cfed2616b8ab4e90ca73be750c971" sha1="2447e12b190d3294bf173e72334e84cbeb07060a"/>
-		<rom name="Civilization - Call to Power (USA) (Track 04).bin" size="29811600" crc="52633263" md5="3f8bb3a40621267b5c77ace07e83fa72" sha1="2e0e2e3adff138664754b78c44fa08029e411c17"/>
-		<rom name="Civilization - Call to Power (USA) (Track 05).bin" size="20815200" crc="42af05e5" md5="a149c4713968b2abae7fe79a55436f3f" sha1="65796ee2e092ef46e01da62b0392e06d355122d4"/>
-		<rom name="Civilization - Call to Power (USA) (Track 06).bin" size="27342000" crc="488e6053" md5="08d943938a0bf5210f1ca2e198a831c9" sha1="684b79d63a6639417167a5ede1f10a839a389bcf"/>
-		<rom name="Civilization - Call to Power (USA) (Track 07).bin" size="27871200" crc="7704df49" md5="116fc1e2832750065b7355f54c3fb183" sha1="f85468bd2a723fc954c9b8394c566d6a064736fd"/>
-		<rom name="Civilization - Call to Power (USA) (Track 08).bin" size="27871200" crc="3a7e85e9" md5="6bc6a64adfbaa479a5a584a5f8d1ed44" sha1="02a11f9a23a102922676cea492a9f557ae7211e9"/>
-		<rom name="Civilization - Call to Power (USA) (Track 09).bin" size="36514800" crc="2a0523c1" md5="8fd6f21cb46986bdf63a2da3c566cff6" sha1="02d4bf298776ae764af061817a851fcb61db4712"/>
-		<rom name="Civilization - Call to Power (USA) (Track 10).bin" size="29106000" crc="c5418bfc" md5="4a0b3ac67b53eb553fd16006fec1e76e" sha1="a9c17cc6f90ff7f79535a81ac5067d9d3b73da82"/>
-		<rom name="Civilization - Call to Power (USA).cue" size="1272" crc="3808df87" md5="8d0cf9d0feaef3cc7082b8d84aa29708" sha1="c144d5d9a2b3e7a088005c1b372a34c2b3ef3177"/>
+		<rom name="Civilization - Call to Power (USA) (Track 02).bin" size="22226400" crc="a1e9536a" md5="7be794e09feb25c72ee48d1622bca73a" sha1="d877801814d612cbd39bf24c5060cd46f7565845"/>
+		<rom name="Civilization - Call to Power (USA) (Track 03).bin" size="21520800" crc="60ab09ad" md5="af4c4c63514ac22cc292c5efe4348c21" sha1="4398ac5536de561a574127e8d55a979a50f5e802"/>
+		<rom name="Civilization - Call to Power (USA) (Track 04).bin" size="29811600" crc="39a4b918" md5="9b2c61daa8b424576a4a712d45afe60e" sha1="1ddaf9e85b704a398ab020914697397750859671"/>
+		<rom name="Civilization - Call to Power (USA) (Track 05).bin" size="20815200" crc="7a33ab55" md5="143e3e569489942f605d910f63bc8e65" sha1="bb398fd859f9504855dae8ad40186ca25af09d64"/>
+		<rom name="Civilization - Call to Power (USA) (Track 06).bin" size="27342000" crc="4447e691" md5="dc685d5665a41e636c05bc0fe651bf67" sha1="26dcee9f7d7a65803819044394808f6b3aae6676"/>
+		<rom name="Civilization - Call to Power (USA) (Track 07).bin" size="27871200" crc="1fc8d082" md5="d08c4ff2668da87d4495bb176cb4ea09" sha1="9ccc998a14b3fdf9b6450bd77e2351c2da17fdf8"/>
+		<rom name="Civilization - Call to Power (USA) (Track 08).bin" size="27871200" crc="7a14b69a" md5="edd4f0ae43c91a6e9651e1f212fc729a" sha1="ad095beafe7868f7d120973b0817ee50487f952d"/>
+		<rom name="Civilization - Call to Power (USA) (Track 09).bin" size="36514800" crc="31e7a81a" md5="ffcd6a12c6ad0f3d31eaa2f0a469800b" sha1="d92572469ddb19b9476870538f38db1c418a897b"/>
+		<rom name="Civilization - Call to Power (USA) (Track 10).bin" size="29106000" crc="1ce362f7" md5="a3d0e86e2c3369175c108caf639c14c8" sha1="f57926f25885ea557f691beabfef5315023ee6ba"/>
+		<rom name="Civilization - Call to Power (USA).cue" size="1295" crc="5e802aff" md5="4cfe3e6fb048e9ad8ee128e4b93375ce" sha1="d7a77737f67a637b21b97ec97b9c643071df2d1b"/>
 	</game>
 	<game name="Civilization - Call to Power (USA) (Linux)">
 		<category>Games</category>
@@ -44551,11 +44556,11 @@
 		<rom name="E.T. the Extra-Terrestrial - Interplanetary Mission (USA).bin" size="293995296" crc="dd763cd8" md5="22bd6bf75859ba70895412d4a555fcce" sha1="ee27028f80d7d7c14c287d9e6308a8af0234a379"/>
 		<rom name="E.T. the Extra-Terrestrial - Interplanetary Mission (USA).cue" size="146" crc="c5e2ab02" md5="165137a30f428d56f97f11cf37e19dd7" sha1="a7ff46ff1000a12389667b03c84c51ba3f1c66d4"/>
 	</game>
-	<game name="EA Compilation (Europe) (OEM)">
+	<game name="EA Compilation (USA) (OEM)">
 		<category>Games</category>
-		<description>EA Compilation (Europe) (OEM)</description>
-		<rom name="EA Compilation (Europe) (OEM).bin" size="76597584" crc="3eef0554" md5="46fe202553348af9829604324bc07fdc" sha1="fa29605d35dc7b4c053598674f945dc39fec76aa"/>
-		<rom name="EA Compilation (Europe) (OEM).cue" size="95" crc="d1cd4ec4" md5="e0e7784a7f65708fbeb4d6826941ea3d" sha1="9cc094214a9051515f0226eeda56bb67fbd7e7a4"/>
+		<description>EA Compilation (USA) (OEM)</description>
+		<rom name="EA Compilation (USA) (OEM).bin" size="90648432" crc="79e39621" md5="0281e97b88e3fd9416d574261f08cdd8" sha1="162f78a9d2a0ef733b7e8544c604a2ff60381dc7"/>
+		<rom name="EA Compilation (USA) (OEM).cue" size="115" crc="659d52c3" md5="85e5914473246acf185aed0396f1c32e" sha1="63a8554c5f4039dd5e4700e9a02eb49ff01ffd17"/>
 	</game>
 	<game name="EA Games Collection, The (USA) (Bonus Disc)">
 		<category>Bonus Discs</category>
@@ -91346,6 +91351,13 @@
 		<rom name="Maluch Racer (Poland).bin" size="315116256" crc="b207cbeb" md5="dcc66b5cb5e297404a0555ce846957a2" sha1="8ff979c7a7be158e53632be82a9bc6e2b94a1726"/>
 		<rom name="Maluch Racer (Poland).cue" size="87" crc="37911ab9" md5="ccd7b08d42303afef4ca5bc56590b001" sha1="4dc1a264a0724bacbeee6d0fb171ce42598906cb"/>
 	</game>
+	<game name="Maluch Racer 2 (Poland)">
+		<category>Games</category>
+		<description>Maluch Racer 2 (Poland)</description>
+		<rom name="Maluch Racer 2 (Poland) (Track 1).bin" size="208293120" crc="f9abc07a" md5="e7bbadc4773e076d721cc1d1ce0d101a" sha1="92186a2640427925ace3ab3602b8fde772766306"/>
+		<rom name="Maluch Racer 2 (Poland) (Track 2).bin" size="156191616" crc="595a28bf" md5="89a102934a8d3d6e4cb150bdc32a0dd1" sha1="29339680941d7ab2ed76df1050c54145343e9feb"/>
+		<rom name="Maluch Racer 2 (Poland).cue" size="248" crc="3a08504e" md5="6e2683b4eb9da15e03393aac918998f0" sha1="bd4d02f0b88454bc08514439157841dbe754202b"/>
+	</game>
 	<game name="Maly Adibu - Zaprasza na Urodziny (Poland)">
 		<category>Games</category>
 		<description>Maly Adibu - Zaprasza na Urodziny (Poland)</description>
@@ -92604,8 +92616,8 @@
 	<game name="Master of Orion (USA)">
 		<category>Games</category>
 		<description>Master of Orion (USA)</description>
-		<rom name="Master of Orion (USA).bin" size="33854688" crc="1c2458dc" md5="013a27bdb5dd9620aad7981097d59cd8" sha1="1b440956a2b4bf857c9cd87ad41f4fe468c59f88"/>
-		<rom name="Master of Orion (USA).cue" size="87" crc="7e1fc081" md5="6f6b384f50e5b7599a416af3b161abc0" sha1="8ecfdfe296e066e50ad6513ec64c22c1475fbb3c"/>
+		<rom name="Master of Orion (USA).bin" size="15894816" crc="5ed96a26" md5="b65794842139942818eed2a0a031e677" sha1="0c50b3ab1908a26d9a6b11bdea02b58f9d6b96b8"/>
+		<rom name="Master of Orion (USA).cue" size="110" crc="4622b5ab" md5="f7b7c88c5ad166b484eaf5e8e1a90a39" sha1="9b40435ae337a82b980194c58f1d09a70c6b5f27"/>
 	</game>
 	<game name="Master of Orion 3 (Russia)">
 		<category>Games</category>
@@ -113962,7 +113974,7 @@
 	<game name="Perry Rhodan - The Adventure (Germany)">
 		<category>Games</category>
 		<description>Perry Rhodan - The Adventure (Germany)</description>
-		<rom name="Perry Rhodan - The Adventure (Germany).iso" size="3407413248" crc="37647eb8" md5="b23c178ef330fb85e5c9987e3a5fe1c3" sha1="2f39b4ca93762276c74a593d908200cc86cb317c"/>
+		<rom name="Perry Rhodan - The Adventure (Germany).iso" size="3634018304" crc="0a4b3a5c" md5="24a481b3ff490483218092736b2243e9" sha1="235255e8515393c3ee7e18f5eb8406eb94a53d70"/>
 	</game>
 	<game name="Perry Rhodan - Thoregon - Bruecke in die Unendlichkeit (Germany) (Disc 1)">
 		<category>Games</category>
@@ -114961,6 +114973,18 @@
 		<description>Physikus (Italy) (Disc 3)</description>
 		<rom name="Physikus (Italy) (Disc 3).bin" size="694329216" crc="f24d243b" md5="ed0e103951c16f7877333138ee3b1262" sha1="791a18f9cd929af2f443a88ff7d4f07ffb8903bf"/>
 		<rom name="Physikus (Italy) (Disc 3).cue" size="91" crc="648ee6b8" md5="95013b56730f418d26d7634455aa722e" sha1="25a3ee0cf3ca498cf2c1b20e5fedb15462afabb3"/>
+	</game>
+	<game name="Physikus - Die Rueckkehr (Germany) (Disc 1) (Rerelease)">
+		<category>Games</category>
+		<description>Physikus - Die Rueckkehr (Germany) (Disc 1) (Rerelease)</description>
+		<rom name="Physikus - Die Rueckkehr (Germany) (Disc 1) (Rerelease).bin" size="406293888" crc="95c4a4da" md5="cac2111d39d71e4ac66683d258bf3f0b" sha1="e95df2ba02600a0f74403e5e534949be0cea3c62"/>
+		<rom name="Physikus - Die Rueckkehr (Germany) (Disc 1) (Rerelease).cue" size="121" crc="717737e2" md5="c60ebe7dcaf84c59c3a1bf0adfe07460" sha1="7293e845eb248f670f4bc68c07cf0f785acc5396"/>
+	</game>
+	<game name="Physikus - Die Rueckkehr (Germany) (Disc 2) (Rerelease)">
+		<category>Games</category>
+		<description>Physikus - Die Rueckkehr (Germany) (Disc 2) (Rerelease)</description>
+		<rom name="Physikus - Die Rueckkehr (Germany) (Disc 2) (Rerelease).bin" size="824065536" crc="0e6005b3" md5="250ea8f0b3eab4cbce0f3926286b3ea4" sha1="c6bafa9347470e30e19a0cd0b63a46852400f323"/>
+		<rom name="Physikus - Die Rueckkehr (Germany) (Disc 2) (Rerelease).cue" size="121" crc="83d6124e" md5="02e323965fe49451b59e4827d4d30d76" sha1="2c475dd14f8b07b049b6d00d6855fc41486569b7"/>
 	</game>
 	<game name="Pia Carrot e Youkoso!! 3 (Japan) (Data Disc)">
 		<category>Games</category>
@@ -116205,6 +116229,21 @@
 		<rom name="Plane Crazy (USA) (En,Fr,De,Es,It) (Track 09).bin" size="34569696" crc="fd1b7b60" md5="c7db23a7b1bf0fdc09211eab21ff9981" sha1="0bb2aec708b82722586bee619e5f389815b80cae"/>
 		<rom name="Plane Crazy (USA) (En,Fr,De,Es,It) (Track 10).bin" size="1378272" crc="9541f8ad" md5="394fafa10d9d9817580e8667ad65781c" sha1="5cdf17a9a36e01a44813ddc5a322c38f74845b17"/>
 		<rom name="Plane Crazy (USA) (En,Fr,De,Es,It).cue" size="1272" crc="bfa550bb" md5="0164495a9eda22a7682729215fec2c68" sha1="c6590f6061313f8da9c2f75b3fb6ae914beb1299"/>
+	</game>
+	<game name="Plane Crazy 2 (Germany)">
+		<category>Games</category>
+		<description>Plane Crazy 2 (Germany)</description>
+		<rom name="Plane Crazy 2 (Germany) (Track 01).bin" size="210513408" crc="9bfcf9da" md5="f29bc5e8fae72c68d2c0088ed179b8b5" sha1="a94d62c7e7b25899d73407eee22848c826498b68"/>
+		<rom name="Plane Crazy 2 (Germany) (Track 02).bin" size="34325088" crc="921c9c4b" md5="269994f5244da7b3ab13c801f32d19cb" sha1="bf56c36ac4e5b0ec8b927be770d19f1762c5dfde"/>
+		<rom name="Plane Crazy 2 (Germany) (Track 03).bin" size="40414416" crc="4f43c060" md5="5e51b5e5e97583ac733a124fceec83a7" sha1="0180ff5007d4ecb4660557402e121feed3bf6f0e"/>
+		<rom name="Plane Crazy 2 (Germany) (Track 04).bin" size="40165104" crc="f8bea018" md5="1efcb4e3e248a04912475f432e306606" sha1="f1956a95bda22b6767025f9dc77b97b87c8a374d"/>
+		<rom name="Plane Crazy 2 (Germany) (Track 05).bin" size="42352464" crc="0bf46cad" md5="963e11c41cec5f98db14f78896c556f2" sha1="051c27485c1818258de7fd0b9544aa5a9e55feda"/>
+		<rom name="Plane Crazy 2 (Germany) (Track 06).bin" size="42568848" crc="15ebc75e" md5="427e640aa11bffae2b2ce4e5ed5884e1" sha1="1882da6ee4cd3a0028900ccad05d61915580f3c6"/>
+		<rom name="Plane Crazy 2 (Germany) (Track 07).bin" size="48505296" crc="d52da881" md5="ff6515a06f0d1d571a82cfd836b6d5b9" sha1="d89abe9c430c0ac6c5b441ec12dfd4c00dc3c5c8"/>
+		<rom name="Plane Crazy 2 (Germany) (Track 08).bin" size="60919152" crc="7ac49394" md5="a1bb1b5872004a8bc7807585557cba11" sha1="7d4e1ce1b8bb45899fdde54bd379d117b60ebf60"/>
+		<rom name="Plane Crazy 2 (Germany) (Track 09).bin" size="35642208" crc="1029ed56" md5="116cca576643f419bd9c1deb4bd716b0" sha1="831a455c63a424671be760f97ef200a5f56a4e7a"/>
+		<rom name="Plane Crazy 2 (Germany) (Track 10).bin" size="1027824" crc="55570226" md5="7bbc958a6391c98b3d4c26cd6db74234" sha1="9a8afbcc3a39dee50b23512df641d9bcb7f1884b"/>
+		<rom name="Plane Crazy 2 (Germany).cue" size="978" crc="681a3b77" md5="6e7e459d0c86926afa9dccd135f25e22" sha1="340f6ea2256e2be3430a0f34dffce8c729c9869d"/>
 	</game>
 	<game name="Planer 2, Der (Germany)">
 		<category>Games</category>
@@ -119963,6 +120002,12 @@
 		<rom name="Pro Student Good (Japan) (Track 17).bin" size="36317232" crc="38d828c9" md5="7f93cdc26f0c43a23e396a43a81647d4" sha1="9c3e7207f7587a8d80eec1cb0a68360b552e4c84"/>
 		<rom name="Pro Student Good (Japan) (Track 18).bin" size="36453648" crc="6b4c54f7" md5="d2187cd3e8b6701c3beac3887825da36" sha1="3bb7bfffb49164faa795a8e1ca4f818dbc23de6b"/>
 		<rom name="Pro Student Good (Japan).cue" size="1756" crc="152728f2" md5="5f00a304b9616ce08d44a32c24755f22" sha1="43976f61a7f2346380a093ad589118e0985ea4b9"/>
+	</game>
+	<game name="Pro Volleyball (Germany)">
+		<category>Games</category>
+		<description>Pro Volleyball (Germany)</description>
+		<rom name="Pro Volleyball (Germany).bin" size="475776672" crc="fa4a3eaf" md5="9a2fcf6cb47226d6849956aadbfdbe21" sha1="b6535be0bc181e110deaa707b6c63915e61fd73e"/>
+		<rom name="Pro Volleyball (Germany).cue" size="90" crc="a0f5b754" md5="d2fd3f13d75ac77d27815e33ff4eb01a" sha1="21104052d1e8f413049c5ccabf87faaa849507a3"/>
 	</game>
 	<game name="Pro-Cent Games - 1 Spiel nur 1 Cent! (Germany)">
 		<category>Games</category>
@@ -149153,6 +149198,12 @@
 		<rom name="Steel Panthers - Campaign Disk (USA).bin" size="4306512" crc="78bcb711" md5="c6b1eafd17ab530c4cc440b73c97f3f2" sha1="67cc0fb03b765d0004b5ede9c1658b619060da12"/>
 		<rom name="Steel Panthers - Campaign Disk (USA).cue" size="125" crc="9cc96255" md5="8e3358be31c7102f16527975514689d3" sha1="4d4dc8a97b1a014113906182aa0f8ac2a66aa8af"/>
 	</game>
+	<game name="Steel Panthers - Campaign Disk 2 (USA)">
+		<category>Add-Ons</category>
+		<description>Steel Panthers - Campaign Disk 2 (USA)</description>
+		<rom name="Steel Panthers - Campaign Disk 2 (USA).bin" size="5045040" crc="894889a5" md5="5254e26017cffdb77fa1055880c3c43c" sha1="048976f88f486d0d4cc71ee38fcf5f5cb54331dd"/>
+		<rom name="Steel Panthers - Campaign Disk 2 (USA).cue" size="104" crc="f17d2979" md5="7b141f84ffcd01286f57f85ecd1d0cef" sha1="24f0808f38cf01ed66748c56570c4c3fa9d15ece"/>
+	</game>
 	<game name="Steel Panthers II - Modern Battles (USA)">
 		<category>Games</category>
 		<description>Steel Panthers II - Modern Battles (USA)</description>
@@ -153108,6 +153159,12 @@
 		<description>Talonsoft's East Front (USA)</description>
 		<rom name="Talonsoft's East Front (USA).bin" size="779640960" crc="8b996b01" md5="1f5320845e8aef04f614a53f947fe36c" sha1="fa81aa47aef121a3eb1ff449ab93dfb189b87db3"/>
 		<rom name="Talonsoft's East Front (USA).cue" size="94" crc="d23e9533" md5="6b13cb598e58910c1092f11a6efb2830" sha1="b909ca5ffd37ac929a4700c19dd8cfa32231309c"/>
+	</game>
+	<game name="Talonsoft's East Front - Campaign CD 1 (USA)">
+		<category>Add-Ons</category>
+		<description>Talonsoft's East Front - Campaign CD 1 (USA)</description>
+		<rom name="Talonsoft's East Front - Campaign CD 1 (USA).bin" size="284716656" crc="9ea31a2c" md5="1d91f88b69e806ce55fa61e3bf8b67c8" sha1="0fb9b79084739e8602700ed9f25bdf5b0457d34b"/>
+		<rom name="Talonsoft's East Front - Campaign CD 1 (USA).cue" size="133" crc="ba7cf06c" md5="10e7c770f5da5726dd9daa3bad407c63" sha1="ab236c531a460390db59746b039e85346e77e086"/>
 	</game>
 	<game name="Talonsoft's East Front II Gold (USA)">
 		<category>Games</category>
@@ -163650,7 +163707,7 @@
 	<game name="Unreal - Antologia (Poland)">
 		<category>Games</category>
 		<description>Unreal - Antologia (Poland)</description>
-		<rom name="Unreal - Antologia (Poland).iso" size="3967549440" crc="33568817" md5="a73af7f014486084bb643ff0e69a3d9d" sha1="9c5bb445deacebae864f81e88425abb1d5c209a8"/>
+		<rom name="Unreal - Antologia (Poland).iso" size="3898468352" crc="85b4cbd3" md5="8c24cedbe62735cf5ac527a907516da3" sha1="b7a5c5ec4bdc05b9a101f51ee3677478394af4a4"/>
 	</game>
 	<game name="Unreal Anthology (USA)">
 		<category>Games</category>
@@ -163932,6 +163989,12 @@
 		<category>Games</category>
 		<description>Unreal Tournament III (Europe) (En,Fr,De,Es,It) (Disc 1) (Sold Out Software)</description>
 		<rom name="Unreal Tournament III (Europe) (En,Fr,De,Es,It) (Disc 1) (Sold Out Software).iso" size="7451344896" crc="7a720cf7" md5="34c71127eb476b68b19c1fef8979c6f9" sha1="6d527ead3b69a9dee6f04dec130fe50a36a1fae8"/>
+	</game>
+	<game name="Unreal Tournament III (Poland) (Plyta Dodatkowa)">
+		<category>Bonus Discs</category>
+		<description>Unreal Tournament III (Poland) (Plyta Dodatkowa)</description>
+		<rom name="Unreal Tournament III (Poland) (Plyta Dodatkowa).bin" size="599176704" crc="de19bc5e" md5="c8174bb495520814b8b688d8641c3300" sha1="06598ec494568fca146a680e08da7f2d097015da"/>
+		<rom name="Unreal Tournament III (Poland) (Plyta Dodatkowa).cue" size="114" crc="8821027a" md5="0c00a986ff55ad5fdc7065e5f944fa82" sha1="7036dff8b4a9ef69ff9c7ec305073936b74e62ff"/>
 	</game>
 	<game name="Unreal Tournament III (USA) (En,Fr,De,Es,It)">
 		<category>Games</category>
