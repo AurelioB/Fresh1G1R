@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - GameCube (Retool)</name>
-		<description>Nintendo - GameCube (802) (-y) [-aAbBcefkmMoprv] (2026-03-01 20-25-34) (Retool)</description>
-		<version>2026-03-01 20-25-34</version>
-		<date>2026-03-02 03-18-13</date>
+		<description>Nintendo - GameCube (802) (-y) [-aAbBcefkmMoprv] (2026-03-03 04-07-46) (Retool)</description>
+		<version>2026-03-03 04-07-46</version>
+		<date>2026-03-03 03-14-53</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1116,10 +1116,10 @@
 		<description>Gakuen Toshi Varanoir - Roses (Japan)</description>
 		<rom name="Gakuen Toshi Varanoir - Roses (Japan).iso" size="1459978240" crc="cf6d0aa5" md5="364f6513ce08ebbfc312e7a05a6b4225" sha1="d403770cba0c71520df8fd853275508130ac04f4"/>
 	</game>
-	<game name="Galleon (USA) (Proto)">
+	<game name="Galleon (USA) (Proto) (2002-06-19)">
 		<category>Preproduction</category>
-		<description>Galleon (USA) (Proto)</description>
-		<rom name="Galleon (USA) (Proto).iso" size="1459978240" crc="5dc67d47" md5="92c4519d2eb10fdd2eccf81e49f28ef3" sha1="872a81cd803c6b3b23ab47247bfc2840296c5aa1"/>
+		<description>Galleon (USA) (Proto) (2002-06-19)</description>
+		<rom name="Galleon (USA) (Proto) (2002-06-19).iso" size="1459978240" crc="5dc67d47" md5="92c4519d2eb10fdd2eccf81e49f28ef3" sha1="872a81cd803c6b3b23ab47247bfc2840296c5aa1"/>
 	</game>
 	<game name="Gauntlet - Dark Legacy (USA) (Rev 1)">
 		<category>Games</category>
