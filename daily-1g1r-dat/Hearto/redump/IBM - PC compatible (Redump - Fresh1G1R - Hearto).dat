@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,649) (-y) [-aAbBcefkmMoprv] (2026-03-03 04-03-09) (Retool)</description>
-		<version>2026-03-03 04-03-09</version>
-		<date>2026-03-03 03-14-37</date>
+		<description>IBM - PC compatible (24,662) (-y) [-aAbBcefkmMoprv] (2026-03-04 03-14-32) (Retool)</description>
+		<version>2026-03-04 03-14-32</version>
+		<date>2026-03-04 03-10-30</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -3661,6 +3661,12 @@
 		<description>Action Man - Raid on Island X (Australia) (En,De)</description>
 		<rom name="Action Man - Raid on Island X (Australia) (En,De).bin" size="502088496" crc="4ca0960b" md5="132539d4dc6ea5b2cc54b2537920f684" sha1="3a70c61a79d4c01e5b80c019875e71ce64b0ef0b"/>
 		<rom name="Action Man - Raid on Island X (Australia) (En,De).cue" size="115" crc="186b14bf" md5="51d944d57a036e05d63c09a66ae7607c" sha1="627ef7a1fee2a37931ac7b68c32978c7e9df5347"/>
+	</game>
+	<game name="Action SATS Learning Key Stage 2 - Science (UK)">
+		<category>Games</category>
+		<description>Action SATS Learning Key Stage 2 - Science (UK)</description>
+		<rom name="Action SATS Learning Key Stage 2 - Science (UK).bin" size="212752512" crc="b384ac60" md5="3ec9fd81367415922eb5865cea802734" sha1="d43743734b214b90b6b7961720403c0277a5f3c1"/>
+		<rom name="Action SATS Learning Key Stage 2 - Science (UK).cue" size="113" crc="da6f0889" md5="c870933fb706093beed68f2477981aea" sha1="c7c4e181bc667522d542a12c080f2504a8bb6647"/>
 	</game>
 	<game name="Action Soccer (Europe)">
 		<category>Games</category>
@@ -14472,6 +14478,17 @@
 		<rom name="Barbie - Styling Studio (Germany).bin" size="467382384" crc="39abd684" md5="a34b0ed17cfd886bdae2eff09aa6dbb4" sha1="bf7b06f4956e163f92e9d18c2e469aeb06d46f5f"/>
 		<rom name="Barbie - Styling Studio (Germany).cue" size="99" crc="d6d6d88d" md5="d8814b76c13ee77f87d291e735d4bc83" sha1="7644c55f6037cd3fa362b5596b4c2b5598176efe"/>
 	</game>
+	<game name="Barbie - Super Sport CD-ROM (Germany)">
+		<category>Games</category>
+		<description>Barbie - Super Sport CD-ROM (Germany)</description>
+		<rom name="Barbie - Super Sport CD-ROM (Germany) (Track 1).bin" size="387649584" crc="f04c2fc7" md5="a5f8fa913d9798032c86ba908f84394d" sha1="2c5ad22bdbe2ca0d7de6bd1ed5238da1f7bd255c"/>
+		<rom name="Barbie - Super Sport CD-ROM (Germany) (Track 2).bin" size="24479616" crc="5b93fc1f" md5="2b74930e3a111fe44b8ce45f031ed256" sha1="e5670e4700daf0e298d3eccab786207149801daf"/>
+		<rom name="Barbie - Super Sport CD-ROM (Germany) (Track 3).bin" size="24733632" crc="f592024e" md5="d3bb33753999d284257789f2db4b5f26" sha1="23c7b2c08b07645e1e8222d2ec3fff3f1ca0a6c3"/>
+		<rom name="Barbie - Super Sport CD-ROM (Germany) (Track 4).bin" size="18319728" crc="8bb720eb" md5="fac18115c974a9650ab71b050e3fc99d" sha1="16215f40f1e47aca461500609f4d2331a4257b4e"/>
+		<rom name="Barbie - Super Sport CD-ROM (Germany) (Track 5).bin" size="21885360" crc="7204ade1" md5="919c7327040c7434d49d0815d503646a" sha1="96fe286a835e3b09d43247e63f015a59837af830"/>
+		<rom name="Barbie - Super Sport CD-ROM (Germany) (Track 6).bin" size="8170848" crc="de54fb9b" md5="e48dabe6103aa03fa85a28b92324906f" sha1="4d882ae897c9d1f80a1b202f0566e51cd9c179be"/>
+		<rom name="Barbie - Super Sport CD-ROM (Germany).cue" size="791" crc="162fc02e" md5="3f7a5d50b8bfd662d73eebe72a21d85c" sha1="a0b0442962eb11da055598b684f9474ec57e56ab"/>
+	</game>
 	<game name="Barbie - Super Sports CD-ROM (USA)">
 		<category>Games</category>
 		<description>Barbie - Super Sports CD-ROM (USA)</description>
@@ -20471,14 +20488,11 @@
 		<rom name="Brave Soul (USA) (Track 5).bin" size="59493840" crc="0ba5c840" md5="2dddd806e3017908930c05d3baeb7e6f" sha1="751a45a07b312d111423f97ca19456b5e3a1dc6f"/>
 		<rom name="Brave Soul (USA).cue" size="532" crc="4c70f568" md5="1e537a0958365b020404da7e43518785" sha1="8b0ac2243644201e3d683e36332d6a39fa863719"/>
 	</game>
-	<game name="Braveheart (USA)">
+	<game name="Braveheart (USA) (Rev 1)">
 		<category>Games</category>
-		<description>Braveheart (USA)</description>
-		<rom name="Braveheart (USA) (Track 1).bin" size="616412160" crc="1a068dcc" md5="735cb3d2a62d35bac5d51579f8520f33" sha1="373de5abf0511e32ad29891e710678be3c296183"/>
-		<rom name="Braveheart (USA) (Track 2).bin" size="32949168" crc="cf4b7b0a" md5="11aa205815bb142282dbbdbbe287d97a" sha1="46fd0c88d408a82f08a74ec315823a73c1943b93"/>
-		<rom name="Braveheart (USA) (Track 3).bin" size="21981792" crc="145049b8" md5="24d4be97f5d36d92aedbd60b5868ef8d" sha1="fa17d29bd7f36d33eb323f182058e518d4124131"/>
-		<rom name="Braveheart (USA) (Track 4).bin" size="25128768" crc="5bc29866" md5="f0a2f8e97a0ba31a247e764fcf9f0b10" sha1="2793ee57e0f690c8196abf44b79f182f120d48b6"/>
-		<rom name="Braveheart (USA).cue" size="376" crc="e680a80a" md5="7835e6b33e259e7f9495900b0621f1e9" sha1="17d09c1d4644361fc92acbca42c8c2802f3fba23"/>
+		<description>Braveheart (USA) (Rev 1)</description>
+		<rom name="Braveheart (USA) (Rev 1).bin" size="708111936" crc="51d03e88" md5="7312b73a0aa4823f5cbc147bb4251c3b" sha1="92a81dfbe44dd129a1b77522bb81d474ca305bef"/>
+		<rom name="Braveheart (USA) (Rev 1).cue" size="90" crc="0d431597" md5="e7cc20f0648c34a1a5a3cdd9faf19d2b" sha1="1014f9e8539bebfa4928f1de95f0103bab67c614"/>
 	</game>
 	<game name="Breach 3 (USA)">
 		<category>Games</category>
@@ -34529,6 +34543,11 @@
 		<description>Dead Rising 2 - Off the Record (World)</description>
 		<rom name="Dead Rising 2 - Off the Record (World).iso" size="6514999296" crc="5109c2eb" md5="1d4ffd6a3ddb0d2120be01bc65969bf6" sha1="10c476acbf69c5fa020cecc65c899de0ef2e51b7"/>
 	</game>
+	<game name="Dead Rising 4 (Australia)">
+		<category>Games</category>
+		<description>Dead Rising 4 (Australia)</description>
+		<rom name="Dead Rising 4 (Australia).iso" size="8018526208" crc="60ff78d2" md5="1a2bd716d3d06b66962cec944d21ec21" sha1="c584c20451989fb7dd10cf48939816f90f8c5079"/>
+	</game>
 	<game name="Dead Space (USA) (En,Fr,Es)">
 		<category>Games</category>
 		<description>Dead Space (USA) (En,Fr,Es)</description>
@@ -46497,6 +46516,11 @@
 		<rom name="EndEffector (Japan).bin" size="182204736" crc="0865d848" md5="c34a6284889a0b05958ceb5d51616ab8" sha1="c36e23bd55400260554d7ad3ee717f530bff9f88"/>
 		<rom name="EndEffector (Japan).cue" size="85" crc="e3075508" md5="5e05cc91e2267829a947f21443d6ab92" sha1="a8aedda2bfcb076d336c19a09ef117f3bece0b43"/>
 	</game>
+	<game name="Endless Legend (Australia)">
+		<category>Games</category>
+		<description>Endless Legend (Australia)</description>
+		<rom name="Endless Legend (Australia).iso" size="3347306496" crc="7a307452" md5="662d82720aec282a56d473d0e3342f9e" sha1="b705a2280470592a8eba5cf3ce3669070ce769b5"/>
+	</game>
 	<game name="Endless Space (UK) (En,Fr,De,Ru)">
 		<category>Games</category>
 		<description>Endless Space (UK) (En,Fr,De,Ru)</description>
@@ -53675,6 +53699,11 @@
 		<description>Flipster (USA)</description>
 		<rom name="Flipster (USA).bin" size="138789168" crc="283574b9" md5="47ffcedab25389a6856f0a5a384f5e75" sha1="0120373d7e30dc3fbb7abf3dc09351679b8fafe1"/>
 		<rom name="Flipster (USA).cue" size="80" crc="9d9a20fb" md5="7e098190a974dd2c369e84b07520267d" sha1="7b325e5a8d5dddcd024e5ce3f7e85e80a2021083"/>
+	</game>
+	<game name="Flockers (Australia)">
+		<category>Games</category>
+		<description>Flockers (Australia)</description>
+		<rom name="Flockers (Australia).iso" size="3367483392" crc="e212c2d4" md5="4061b47b69007c3133588133efbf5119" sha1="e730387cb5a82979db81146c103d5e52d549ab4c"/>
 	</game>
 	<game name="Flojd (Poland) (Disc 1)">
 		<category>Games</category>
@@ -62475,6 +62504,11 @@
 		<description>Guild 2, The (France)</description>
 		<rom name="Guild 2, The (France).iso" size="1472299008" crc="1771be8a" md5="2b748c68f39f9bd70edaac7be9586764" sha1="18ef8a39086a66d162fccc407851a28d96172c9c"/>
 	</game>
+	<game name="Guild 2, The - Antologia (Poland)">
+		<category>Games</category>
+		<description>Guild 2, The - Antologia (Poland)</description>
+		<rom name="Guild 2, The - Antologia (Poland).iso" size="4634017792" crc="1ab723c9" md5="c4fbbc615e3d5e8fcbb3596560cc2cbc" sha1="508b5e20deec16f5d96f0b27bf48805e1b364819"/>
+	</game>
 	<game name="Guild 2, The - Pirates of the European Seas (Australia)">
 		<category>Add-Ons</category>
 		<description>Guild 2, The - Pirates of the European Seas (Australia)</description>
@@ -63858,6 +63892,11 @@
 		<category>Games</category>
 		<description>Hallowed Legends - Das Schiff aus Knochen (Germany)</description>
 		<rom name="Hallowed Legends - Das Schiff aus Knochen (Germany).iso" size="921436160" crc="59db0c59" md5="ca73be1d096b6f5b74400f814c89b8f8" sha1="99a564280246eb76d58bbd4ca93b9a0c02da0785"/>
+	</game>
+	<game name="Hallowed Legends - Samhain (Australia)">
+		<category>Games</category>
+		<description>Hallowed Legends - Samhain (Australia)</description>
+		<rom name="Hallowed Legends - Samhain (Australia).iso" size="881098752" crc="12fdf726" md5="e70099574443b7a6b040fe635af2bc16" sha1="e55bc5f35df97eb6028c5baf28c5245cd1b8f90e"/>
 	</game>
 	<game name="Halloween Demo CD featuring 3D Ultra Pinball - Creep Night (USA)">
 		<category>Demos</category>
@@ -92936,6 +92975,12 @@
 		<rom name="Megami no Shizuku - Jonason95 (Japan) (Track 25).bin" size="9953664" crc="8120dfc9" md5="22a19b3d9fbf710d89854593e1595c79" sha1="8ab696b44020f9f00ceeafec3abac471d25523c0"/>
 		<rom name="Megami no Shizuku - Jonason95 (Japan) (Track 26).bin" size="10983840" crc="46717ffa" md5="8d5dd4ab56985d9244222f016ca4b1aa" sha1="37eabe8f06265a40ba88d6d807d55d1d4c93567c"/>
 		<rom name="Megami no Shizuku - Jonason95 (Japan).cue" size="3368" crc="19f95eef" md5="04f028d4561c2ac56deea88410d1dcd1" sha1="b34a4977aedfeef0bf98eac201e7740654738d18"/>
+	</game>
+	<game name="Megapede (Germany)">
+		<category>Games</category>
+		<description>Megapede (Germany)</description>
+		<rom name="Megapede (Germany).bin" size="79368240" crc="69fbb843" md5="ffde445122dde4cc362c5254ac88f99f" sha1="d3a79e9780af9143f6a3791536a04bd178bb9550"/>
+		<rom name="Megapede (Germany).cue" size="99" crc="983a0812" md5="6b1dd04643b62ba2ba4a71b74db447ac" sha1="63ee515653ed00953a0e52eccb215d9c0e2044e0"/>
 	</game>
 	<game name="Megaspiele - Tetris (Germany)">
 		<category>Games</category>
@@ -153342,6 +153387,11 @@
 		<description>Tom Clancy's Ghost Recon Advanced Warfighter (Portugal) (Side A)</description>
 		<rom name="Tom Clancy's Ghost Recon Advanced Warfighter (Portugal) (Side A).iso" size="2993979392" crc="6e7c0858" md5="0c8ae8757cc769933138398e7f0c20cd" sha1="230915030933719f83a651920a251701cfd54f5c"/>
 	</game>
+	<game name="Tom Clancy's Ghost Recon Phantoms (Poland)">
+		<category>Games</category>
+		<description>Tom Clancy's Ghost Recon Phantoms (Poland)</description>
+		<rom name="Tom Clancy's Ghost Recon Phantoms (Poland).iso" size="4184702976" crc="0bd42ebc" md5="9e00bb26225044f896df0c6a2f2bdec0" sha1="cc4f37f21c6cfc30cb9f11e18dd62fa9bcf3eb8b"/>
+	</game>
 	<game name="Tom Clancy's H.A.W.X (USA, Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Tom Clancy's H.A.W.X (USA, Europe) (En,Fr,De,Es,It)</description>
@@ -155557,6 +155607,21 @@
 		<description>Total War (Germany) (En,Fr,De)</description>
 		<rom name="Total War (Germany) (En,Fr,De).bin" size="38539872" crc="9226c07f" md5="9d1dfee8b93efbb4dd2d7f8ce2ca5e7e" sha1="115fd362a3c27020dffe161f960c97b0dcb37686"/>
 		<rom name="Total War (Germany) (En,Fr,De).cue" size="96" crc="9cc330b9" md5="42765d2e787be90baa41f26d7f921a64" sha1="32e25d6aaa1e367a6f9877e28046f216fbb404f5"/>
+	</game>
+	<game name="Total War - Attila (Australia) (Disc 1)">
+		<category>Games</category>
+		<description>Total War - Attila (Australia) (Disc 1)</description>
+		<rom name="Total War - Attila (Australia) (Disc 1).iso" size="7570522112" crc="6ffcfa08" md5="85a97abcb69f7ad498839573bf6a3b5d" sha1="c2bdcb12bbcc0440e3d52e63b17b1b4ede58ec8a"/>
+	</game>
+	<game name="Total War - Attila (Australia) (Disc 2)">
+		<category>Games</category>
+		<description>Total War - Attila (Australia) (Disc 2)</description>
+		<rom name="Total War - Attila (Australia) (Disc 2).iso" size="7341408256" crc="346f62da" md5="86f1981e402f74387c1a864e16f6b9d4" sha1="b92dc8b8374004948977b4eec73d41220ff4faca"/>
+	</game>
+	<game name="Total War - Attila (Australia) (Disc 3)">
+		<category>Games</category>
+		<description>Total War - Attila (Australia) (Disc 3)</description>
+		<rom name="Total War - Attila (Australia) (Disc 3).iso" size="5476515840" crc="02869fc5" md5="42be2e584c681d51657f549e477cb4fa" sha1="4b04c0fa8d7809823e1bc748deeb44d19b1f5915"/>
 	</game>
 	<game name="Total War - Rome II (Europe) (Disc 1) (Spartan Edition)">
 		<category>Games</category>
@@ -174317,6 +174382,11 @@
 		<description>Zhuti Yiyuan (China)</description>
 		<rom name="Zhuti Yiyuan (China).bin" size="245442960" crc="74c2ace8" md5="0792542b8d6da935dcbce1866975162a" sha1="3e8dc77aff72b98b5e584ae5717ceb19d750d87d"/>
 		<rom name="Zhuti Yiyuan (China).cue" size="109" crc="e7bfaadc" md5="a25c639e2046bba8d99d4e561a68a0c0" sha1="4ecff4d67690278a2dae354d7c06867808f7cd02"/>
+	</game>
+	<game name="Ziggurat (Australia)">
+		<category>Games</category>
+		<description>Ziggurat (Australia)</description>
+		<rom name="Ziggurat (Australia).iso" size="1577117696" crc="80bf9b84" md5="f99bde56285157a4bd8d5600595d8471" sha1="bf2abdb2cce255b7077cb113b99e8212434ea6c2"/>
 	</game>
 	<game name="Zipi y Zape - La vuelta al mundo (Spain)">
 		<category>Games</category>
