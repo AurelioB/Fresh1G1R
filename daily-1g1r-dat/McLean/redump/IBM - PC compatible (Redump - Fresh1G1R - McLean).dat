@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (12,905) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-04 03-14-32) (Retool)</description>
-		<version>2026-03-04 03-14-32</version>
-		<date>2026-03-04 03-16-48</date>
+		<description>IBM - PC compatible (12,906) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-04 23-07-46) (Retool)</description>
+		<version>2026-03-04 23-07-46</version>
+		<date>2026-03-05 03-10-36</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -5681,6 +5681,11 @@
 		<category>Games</category>
 		<description>Assassin's Creed - Revelations (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Pl)</description>
 		<rom name="Assassin's Creed - Revelations (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Pl).iso" size="8525873152" crc="2c300844" md5="ab8f81463d5340cd6372883bb8e73ae3" sha1="7e10f7abd281e0f6a2dcf835f44a5d5288f2fd3a"/>
+	</game>
+	<game name="Assassin's Creed - Rogue (Australia)">
+		<category>Games</category>
+		<description>Assassin's Creed - Rogue (Australia)</description>
+		<rom name="Assassin's Creed - Rogue (Australia).iso" size="8292612096" crc="03830b56" md5="7bd4a1834d08ac922ce18003dc80a857" sha1="0919956d61677741f6ff93b0c7af3819956e1e40"/>
 	</game>
 	<game name="Assassin's Creed II (USA, Canada) (En,Fr,Es,It)">
 		<category>Games</category>
