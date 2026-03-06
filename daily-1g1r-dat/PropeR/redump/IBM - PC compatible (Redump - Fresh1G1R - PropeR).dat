@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,192) (-y) [-aAbBcdkmMpPuv] (2026-03-04 23-07-46) (Retool)</description>
-		<version>2026-03-04 23-07-46</version>
-		<date>2026-03-05 03-12-20</date>
+		<description>IBM - PC compatible (25,200) (-y) [-aAbBcdkmMpPuv] (2026-03-06 03-32-11) (Retool)</description>
+		<version>2026-03-06 03-32-11</version>
+		<date>2026-03-06 03-21-53</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1988,6 +1988,12 @@
 		<description>50 Spiele fuer Kinder, Vol. 2 - Jubilaeums-CD (Germany)</description>
 		<rom name="50 Spiele fuer Kinder, Vol. 2 - Jubilaeums-CD (Germany).bin" size="350537376" crc="3e62fa80" md5="3af1664d3cd4f944419587a7d9eb3acc" sha1="6dce72e64c75ddab35d030a395e049916b1d4eb6"/>
 		<rom name="50 Spiele fuer Kinder, Vol. 2 - Jubilaeums-CD (Germany).cue" size="121" crc="98368b6a" md5="8b80906e677dd5949fffe489b942c9f2" sha1="7d978abcde1279a66794ee1bd6d497a6fbab8d46"/>
+	</game>
+	<game name="50 gier komputerowych - Wystrzalowa zabawa (Poland)">
+		<category>Games</category>
+		<description>50 gier komputerowych - Wystrzalowa zabawa (Poland)</description>
+		<rom name="50 gier komputerowych - Wystrzalowa zabawa (Poland).bin" size="226269456" crc="9f8f30f7" md5="9fbb8bcd0e4f31dcd7077046523fe857" sha1="9690209a8143681c2964f470e5f25331f75b408e"/>
+		<rom name="50 gier komputerowych - Wystrzalowa zabawa (Poland).cue" size="117" crc="40dbdc1f" md5="a7f610af660ec7f6037a586f4f1aa173" sha1="2966b7b3d49bcae3d8fd25854654cc80879c5ac4"/>
 	</game>
 	<game name="50 gier komputerowych - Wystrzalowa zabawa Czesc 2 (Poland)">
 		<category>Games</category>
@@ -21094,6 +21100,11 @@
 		<rom name="Broken Sword - The Smoking Mirror (USA) (Disc 2).bin" size="677853456" crc="6106760a" md5="b328726bda7e67b2c5296e67cb093234" sha1="81ef9e9b9add77baef45a0628d299d7e5255f46b"/>
 		<rom name="Broken Sword - The Smoking Mirror (USA) (Disc 2).cue" size="114" crc="56c96c71" md5="d8e066ab0e8ac73d4278a5af96472307" sha1="dc255ac06fa678cdd52c78f2ddf7d405321a0118"/>
 	</game>
+	<game name="Broken Sword 5 - Klatwa Weza (Poland)">
+		<category>Games</category>
+		<description>Broken Sword 5 - Klatwa Weza (Poland)</description>
+		<rom name="Broken Sword 5 - Klatwa Weza (Poland).iso" size="6672187392" crc="592cbedb" md5="b7b5059d740b5bd90daaa2ba841cefd5" sha1="eaba4d6b1cfa947285c3ac2f366f76222d29d4d7"/>
+	</game>
 	<game name="Broken Sword Complete (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Broken Sword Complete (Europe) (En,Fr,De,Es,It)</description>
@@ -27239,11 +27250,11 @@
 		<rom name="Close Combat - Invasion Normandy (UK).bin" size="747863088" crc="466ffe58" md5="36392cc66d68c1eaf1f2b95a8f83bcfa" sha1="4c22dadada925254fbcd981ef6051d3428c3d7d9"/>
 		<rom name="Close Combat - Invasion Normandy (UK).cue" size="103" crc="c973ce7e" md5="3ed4afb19a383520c29a68e47a0f5a3b" sha1="394ab9e3f7998a8869727b9a2cf2734eb5b74785"/>
 	</game>
-	<game name="Close Combat III - The Russian Front (USA) (Rerelease)">
+	<game name="Close Combat III - The Russian Front (USA, Europe)">
 		<category>Games</category>
-		<description>Close Combat III - The Russian Front (USA) (Rerelease)</description>
-		<rom name="Close Combat III - The Russian Front (USA) (Rerelease).bin" size="719046384" crc="36882ad8" md5="ce2e1f4652c422993c9cc934f42e05f3" sha1="38f32c6a7686c62df21ab37032e542b6dfb2d729"/>
-		<rom name="Close Combat III - The Russian Front (USA) (Rerelease).cue" size="143" crc="8066c8b3" md5="adda0fb9800cf3319b7ddc19924c9705" sha1="77f3448eaa2202a16b92a48b78c28e173bcc82aa"/>
+		<description>Close Combat III - The Russian Front (USA, Europe)</description>
+		<rom name="Close Combat III - The Russian Front (USA, Europe).bin" size="718521888" crc="e27973e3" md5="5db7f664b5617ffdb734d3e8926ca278" sha1="388324d2e74ea9f80c6c6b97aefb6e0c0343e969"/>
+		<rom name="Close Combat III - The Russian Front (USA, Europe).cue" size="116" crc="5ea6bfde" md5="3cf9b9bdac11f654f289205251788c91" sha1="5e6546d75089e0eb34f0ea67f7b2c3bc7f1e07cb"/>
 	</game>
 	<game name="Close Combat IV - Battle of the Bulge (Europe)">
 		<category>Games</category>
@@ -45767,6 +45778,12 @@
 		<category>Games</category>
 		<description>Eien no Aselia - Kono Daichi no Hate de (Japan)</description>
 		<rom name="Eien no Aselia - Kono Daichi no Hate de (Japan).iso" size="1874526208" crc="e873eb48" md5="1fe3c2514134c479b078cf63bfa3efb8" sha1="b691ba485723fa3afb561d0f22ba355b0331baaf"/>
+	</game>
+	<game name="Eiga Gotoubun no Hanayome - Kimi to Sugoshita Itsutsu no Omoide - Souki Kounyuu Tokuten Digital Visual-shuu (Japan) (PS4 Game Bundle)">
+		<category>Bonus Discs</category>
+		<description>Eiga Gotoubun no Hanayome - Kimi to Sugoshita Itsutsu no Omoide - Souki Kounyuu Tokuten Digital Visual-shuu (Japan) (PS4 Game Bundle)</description>
+		<rom name="Eiga Gotoubun no Hanayome - Kimi to Sugoshita Itsutsu no Omoide - Souki Kounyuu Tokuten Digital Visual-shuu (Japan) (PS4 Game Bundle).bin" size="277724160" crc="f9fe1c43" md5="16edf3881800544c21404f5db210853f" sha1="6b9a5e8f506b4afdb3dfe39ede94f39aec8826e7"/>
+		<rom name="Eiga Gotoubun no Hanayome - Kimi to Sugoshita Itsutsu no Omoide - Souki Kounyuu Tokuten Digital Visual-shuu (Japan) (PS4 Game Bundle).cue" size="199" crc="b29b8b0b" md5="8b51921fe0eee28fdbe05687f3023baf" sha1="e4eab656f8118b17719f34631d58e8aa64aee1a1"/>
 	</game>
 	<game name="Eiga Kantoku Monogatari (Japan)">
 		<category>Games</category>
@@ -72486,6 +72503,12 @@
 		<rom name="In einem Land vor unserer Zeit - Kindergarten-Abenteuer (Germany).bin" size="402333120" crc="0e550c9b" md5="ca3841a6afece668d75a68ed5d973d50" sha1="c04c619f65aee5c59d0b6567ce60659415350bfc"/>
 		<rom name="In einem Land vor unserer Zeit - Kindergarten-Abenteuer (Germany).cue" size="131" crc="d0c55587" md5="bff513de0e973a72e5640628c84a5396" sha1="2d2a2f82ba4b3b9531675d202b10ba971992191d"/>
 	</game>
+	<game name="In einem Land vor unserer Zeit - Mathe-Abenteuer (Germany)">
+		<category>Educational</category>
+		<description>In einem Land vor unserer Zeit - Mathe-Abenteuer (Germany)</description>
+		<rom name="In einem Land vor unserer Zeit - Mathe-Abenteuer (Germany).bin" size="433831104" crc="fd90ced4" md5="0c35aec3c858fbd4c75b8d4cd54ef2ce" sha1="ba999e20e9cffddb8434440d64bbfb9e6e969eec"/>
+		<rom name="In einem Land vor unserer Zeit - Mathe-Abenteuer (Germany).cue" size="124" crc="bfc2ac5a" md5="3b6ba22874223b95d36a8032bd002c8f" sha1="78d5ed30ef8e4d4f74f142fa666e203eddbfe90d"/>
+	</game>
 	<game name="In the 1st Degree (USA) (Disc 1)">
 		<category>Games</category>
 		<description>In the 1st Degree (USA) (Disc 1)</description>
@@ -86484,6 +86507,11 @@
 		<rom name="Lionheart - Legacy of the Crusdader (USA) (Bonus Disc).bin" size="56930160" crc="f08ca878" md5="23b92ed49b3a2329828ffb8b44fc3796" sha1="05f926bcb8b34f47e4f043d30d96851571174db5"/>
 		<rom name="Lionheart - Legacy of the Crusdader (USA) (Bonus Disc).cue" size="120" crc="cbfed57c" md5="90f0a70af4a5b28d51215094c99ed411" sha1="0435bfa5284309fb81fde7ab1c569a6304053a9b"/>
 	</game>
+	<game name="Lionheart Kings' Crusade (Europe)">
+		<category>Games</category>
+		<description>Lionheart Kings' Crusade (Europe)</description>
+		<rom name="Lionheart Kings' Crusade (Europe).iso" size="3773628416" crc="274a3961" md5="9ac334f28a890cc5eb3f7790c4083499" sha1="fc8873b2adf15850fa551deaabce4bc0e7ee5a40"/>
+	</game>
 	<game name="Lipstick Adv. 4 (Japan) (Game Disc)">
 		<category>Games</category>
 		<description>Lipstick Adv. 4 (Japan) (Game Disc)</description>
@@ -89470,6 +89498,12 @@
 		<description>Mace Griffin - Bounty Hunter (USA) (En,Fr,De,Es,It) (Disc 4)</description>
 		<rom name="Mace Griffin - Bounty Hunter (USA) (En,Fr,De,Es,It) (Disc 4).bin" size="230025600" crc="6191dde1" md5="6bc204b5f2e287be53d919cde8185e63" sha1="771d368a55525f7fb191fdd0c6d698e14416f4c1"/>
 		<rom name="Mace Griffin - Bounty Hunter (USA) (En,Fr,De,Es,It) (Disc 4).cue" size="126" crc="52bc6c47" md5="399bdc7c5be6f6ce9168945c0d977d37" sha1="09598a96cbbd269015233114b2892ae8ccfc15df"/>
+	</game>
+	<game name="Mach's noch einmal, Sven (Germany)">
+		<category>Games</category>
+		<description>Mach's noch einmal, Sven (Germany)</description>
+		<rom name="Mach's noch einmal, Sven (Germany).bin" size="100717344" crc="ed1c6b87" md5="db90120ca943a5d1d2c06b098c78fd6f" sha1="15dfde3c7b3574e150bc632a68bd64b641f9560c"/>
+		<rom name="Mach's noch einmal, Sven (Germany).cue" size="100" crc="12569f8e" md5="2ab907b6ea1b97b0e628d26db181e7c4" sha1="b49c3db7271091f0c5539bfabd59f8270fc6859d"/>
 	</game>
 	<game name="Machiavelli the Prince (USA)">
 		<category>Games</category>
@@ -144525,6 +144559,26 @@
 		<rom name="Sombra do Zorro, A (Brazil).bin" size="709817136" crc="9e5d8d40" md5="1fb11900b434b5b1ccab8bb0d504e2f8" sha1="9fcf1bc806b65e073d6330697ed94fe18c688e76"/>
 		<rom name="Sombra do Zorro, A (Brazil).cue" size="93" crc="95119b39" md5="83ca8909142fc577975eeb603d0f46d4" sha1="07b4cc9f1740237900571d8dad3235d31ef94865"/>
 	</game>
+	<game name="Someone's in the Kitchen! (USA)">
+		<category>Games</category>
+		<description>Someone's in the Kitchen! (USA)</description>
+		<rom name="Someone's in the Kitchen! (USA) (Track 01).bin" size="276263568" crc="4282558f" md5="a9a148efa7b432bbfd93c6c56d71459c" sha1="93101a7fde77d989d00e60fef6ae9188cf97fcbf"/>
+		<rom name="Someone's in the Kitchen! (USA) (Track 02).bin" size="15796032" crc="11debf6e" md5="78d7948271509452702416a20478623c" sha1="0d60fe94afeac99a0bb55f55d614ada70068c96c"/>
+		<rom name="Someone's in the Kitchen! (USA) (Track 03).bin" size="5496624" crc="57477ede" md5="bffb379fe1b713b5628ec01f21983f2e" sha1="d464ac9d3f2ae084438db874af1afa53bdbdc0b4"/>
+		<rom name="Someone's in the Kitchen! (USA) (Track 04).bin" size="6846672" crc="0b539706" md5="6255b5268081083d22dae41d806979ac" sha1="101a4ade1a005adeeb58006ee4d94b62fbc951fb"/>
+		<rom name="Someone's in the Kitchen! (USA) (Track 05).bin" size="4268880" crc="3be1aa4c" md5="cb5d55caef8f6cb2e952764b1fbb3dff" sha1="d6ee4c535b3713d715c42da6a2357a552056513f"/>
+		<rom name="Someone's in the Kitchen! (USA) (Track 06).bin" size="4990944" crc="acbb2e22" md5="e0b6f56d4720b625c6932c9287aa0a35" sha1="b2a0a9929f0e4de649b1f58d2b4c24073da1940d"/>
+		<rom name="Someone's in the Kitchen! (USA) (Track 07).bin" size="3777312" crc="8a70695f" md5="1abd234436d272149fa072ca0014881c" sha1="ce1ea728d83650953b0a6e84f5ddfa47e893b98d"/>
+		<rom name="Someone's in the Kitchen! (USA) (Track 08).bin" size="6098736" crc="c56bdcf2" md5="788c013413ff93ea7486ef817c421300" sha1="b01bfc4999b47ea143c5131b773bea94c7003def"/>
+		<rom name="Someone's in the Kitchen! (USA) (Track 09).bin" size="3861984" crc="dcb8c390" md5="8f8837faec9e0724a5ac441f1323447f" sha1="1fff73d1ed820046b22ebd243c24ec8327f26358"/>
+		<rom name="Someone's in the Kitchen! (USA) (Track 10).bin" size="3118752" crc="8ee89eab" md5="1c6da091fe7aa78650a7d2815cba09de" sha1="ad29596d218475664c606d48fbe1a41f656309bb"/>
+		<rom name="Someone's in the Kitchen! (USA) (Track 11).bin" size="4962720" crc="30d643da" md5="5ce5bffa8c117be91bd151ee8ed7a87c" sha1="88d26c56efe4fc7fa326c709384202f261d06007"/>
+		<rom name="Someone's in the Kitchen! (USA) (Track 12).bin" size="3624432" crc="0ed7c428" md5="4e55c26b504b4fa8d128673fc4b5c07c" sha1="5b2a02218b0224727a4a0edc2fdd7d6cbd7e5c01"/>
+		<rom name="Someone's in the Kitchen! (USA) (Track 13).bin" size="4532304" crc="b027bd36" md5="4e1b602469f72bd9041251f0e623ea8d" sha1="07873aeb3f32782c2c7b61eed819d3ab5c13bd8c"/>
+		<rom name="Someone's in the Kitchen! (USA) (Track 14).bin" size="3349248" crc="ff60a67e" md5="15fa8eb7054353d8ca603fd277bc93e8" sha1="4618735c8272a4a41f41c13f695a93246535dbfb"/>
+		<rom name="Someone's in the Kitchen! (USA) (Track 15).bin" size="7326480" crc="bfe19768" md5="da3e2b7bcabb37151f1637499bf5a61e" sha1="b23c64e5093490d344a30b299e04d318834aca29"/>
+		<rom name="Someone's in the Kitchen! (USA).cue" size="1872" crc="8f91734e" md5="fcc46c13704efb959241af889b885ca6" sha1="500dfbd7d6d9b04334f3e2350f357824a456ddce"/>
+	</game>
 	<game name="Son Cin (Turkey)">
 		<category>Games</category>
 		<description>Son Cin (Turkey)</description>
@@ -169268,6 +169322,12 @@
 		<rom name="Warzone 2100 (USA) (Disc 2) (Track 2).bin" size="83453664" crc="934bb912" md5="67cd806d949fd0a230f058b27e68d54d" sha1="c46d40e697b558457b12c626a8ef8a7b9ae364e7"/>
 		<rom name="Warzone 2100 (USA) (Disc 2) (Track 3).bin" size="31752000" crc="bf255c93" md5="b463bd5e077a042e9fd329991cfe00f5" sha1="212f3150c40b65d7d9e06189327ebbedb528ba04"/>
 		<rom name="Warzone 2100 (USA) (Disc 2).cue" size="322" crc="f2c5274b" md5="bc8cecf01d4b3b3a99c5a150992954ff" sha1="d360d7d2138fee2060d9c6b459679d1c39751ac1"/>
+	</game>
+	<game name="Was ist los bei Hanni und Nanni (Germany)">
+		<category>Games</category>
+		<description>Was ist los bei Hanni und Nanni (Germany)</description>
+		<rom name="Was ist los bei Hanni und Nanni (Germany).bin" size="417971568" crc="00edd6bb" md5="7b7f8f6051b241fb83a925f62348d3c8" sha1="0c8e52b15d2e943885c6e4e497fdc2fdbca4dfb0"/>
+		<rom name="Was ist los bei Hanni und Nanni (Germany).cue" size="107" crc="2b3403e5" md5="c655710a8900510aedb0af73f5164c80" sha1="2f78a85c8cbf602d0121e06a65bf9f5ea5edf2fd"/>
 	</game>
 	<game name="Wasteland 2 (USA)">
 		<category>Games</category>
