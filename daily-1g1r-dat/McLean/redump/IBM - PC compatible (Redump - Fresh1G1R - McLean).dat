@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (12,908) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-06 03-32-11) (Retool)</description>
-		<version>2026-03-06 03-32-11</version>
-		<date>2026-03-06 03-16-05</date>
+		<description>IBM - PC compatible (12,910) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-06 18-40-52) (Retool)</description>
+		<version>2026-03-06 18-40-52</version>
+		<date>2026-03-07 03-07-41</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -34261,6 +34261,12 @@
 		<description>Hamster Ball (USA)</description>
 		<rom name="Hamster Ball (USA).bin" size="8342544" crc="0b9ac9e1" md5="fafc0fde05219224ee91728ddb318f61" sha1="56c009eb2087dc128beb7a60b189c22f2bb8655e"/>
 		<rom name="Hamster Ball (USA).cue" size="84" crc="628e39a1" md5="11b591728798474d4a47ec54f2d1a00a" sha1="13ff29b4af3522f0739642520481e4e3c9d726e7"/>
+	</game>
+	<game name="Hamtaro - Wake Up Snoozer! (USA)">
+		<category>Games</category>
+		<description>Hamtaro - Wake Up Snoozer! (USA)</description>
+		<rom name="Hamtaro - Wake Up Snoozer! (USA).bin" size="344697360" crc="f2df76e1" md5="449da4a8b15bccbd9fd40aaf397c0e4b" sha1="aa49955460c4d6b6da220c11ec6c5ff1d7f700dd"/>
+		<rom name="Hamtaro - Wake Up Snoozer! (USA).cue" size="98" crc="b1f691a3" md5="1b5873d4188ca59cdb6c233b2dc83d04" sha1="dcb2d4286da44016b40669f64de65c092b1d7566"/>
 	</game>
 	<game name="Hand of Fate (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru,Uk,Hu)">
 		<category>Games</category>
@@ -79893,6 +79899,12 @@
 		<rom name="Timeline (USA, Canada).bin" size="624173760" crc="1e5e7ad4" md5="5d8e9031068bb5f91b216bf73dee6866" sha1="4793cb25910ae77bc0da5a47e187e4390ebbfde4"/>
 		<rom name="Timeline (USA, Canada).cue" size="88" crc="90275d13" md5="9bec367d220f840e1b51f0a2d7bebe9a" sha1="971d12676a2ca7f50a2e365acb05649cea75b9e2"/>
 	</game>
+	<game name="Timez Attack (USA)">
+		<category>Games</category>
+		<description>Timez Attack (USA)</description>
+		<rom name="Timez Attack (USA).bin" size="188907936" crc="09b3c197" md5="332aa1ae87f9fc7f38eab5be0934eaa2" sha1="0d337b93337cbde1bcc3428d5a29071131a62564"/>
+		<rom name="Timez Attack (USA).cue" size="84" crc="f570a82f" md5="10826c60f97b7582c76e7fe39191e851" sha1="103181fba0921f0bd14bc97093a14b477faa4546"/>
+	</game>
 	<game name="Timmy and the Magic Pictures (USA)">
 		<category>Games</category>
 		<description>Timmy and the Magic Pictures (USA)</description>
@@ -81429,10 +81441,10 @@
 		<rom name="Torin's Passage (USA, Europe).bin" size="493146192" crc="51f62cbd" md5="587f4c557259b04a90f5e33111838992" sha1="ee7b09f632cac0defea6d0869f24544ffe790713"/>
 		<rom name="Torin's Passage (USA, Europe).cue" size="118" crc="515aad45" md5="a923d9f8e3d73a9eb1ddcb38262151cd" sha1="28fea4f0ed10b38885dd18396cbb1a422a1e476e"/>
 	</game>
-	<game name="Torment - Tides of Numenera (USA)">
+	<game name="Torment - Tides of Numenera (USA) (En,Fr,De,Es,Pl,Ru)">
 		<category>Games</category>
-		<description>Torment - Tides of Numenera (USA)</description>
-		<rom name="Torment - Tides of Numenera (USA).iso" size="5806555136" crc="4fd6087f" md5="9413124ef2dab7cec00c2ccdd240fa90" sha1="f03d6cfc00a806eecc6522ea6ea6ca472da5a6f5"/>
+		<description>Torment - Tides of Numenera (USA) (En,Fr,De,Es,Pl,Ru)</description>
+		<rom name="Torment - Tides of Numenera (USA) (En,Fr,De,Es,Pl,Ru).iso" size="5806555136" crc="4fd6087f" md5="9413124ef2dab7cec00c2ccdd240fa90" sha1="f03d6cfc00a806eecc6522ea6ea6ca472da5a6f5"/>
 	</game>
 	<game name="Tormentum - Dark Sorrow (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru,Cs,Hu,Tr)">
 		<category>Games</category>

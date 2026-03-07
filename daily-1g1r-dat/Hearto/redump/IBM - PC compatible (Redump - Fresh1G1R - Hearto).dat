@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,671) (-y) [-aAbBcefkmMoprv] (2026-03-06 03-32-11) (Retool)</description>
-		<version>2026-03-06 03-32-11</version>
-		<date>2026-03-06 03-09-45</date>
+		<description>IBM - PC compatible (24,677) (-y) [-aAbBcefkmMoprv] (2026-03-06 18-40-52) (Retool)</description>
+		<version>2026-03-06 18-40-52</version>
+		<date>2026-03-07 03-01-18</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -6433,6 +6433,11 @@
 		<description>Alias (USA) (Disc 2)</description>
 		<rom name="Alias (USA) (Disc 2).bin" size="519105216" crc="0026768d" md5="0098b7a2c57e6d9b22588ca048eada5f" sha1="5cd325025e33e4cdba1383d8f0696583f7a1f853"/>
 		<rom name="Alias (USA) (Disc 2).cue" size="86" crc="43236e28" md5="2bbc2e721b74b47936e80578df8cf02c" sha1="882a04f83bc24f1cf9c36261112f82192bad7a45"/>
+	</game>
+	<game name="Alice &amp; The Dollhouse in a Dream (Japan)">
+		<category>Games</category>
+		<description>Alice &amp; The Dollhouse in a Dream (Japan)</description>
+		<rom name="Alice &amp; The Dollhouse in a Dream (Japan).iso" size="429981696" crc="9ec75129" md5="9a6ed4922d64f7226f601d27321eaf81" sha1="6eb8eddb8b843b33fc1104c3c59ca36e936e88f1"/>
 	</game>
 	<game name="Alice - Madness Returns (USA, Asia) (En,Ja,Fr,De,Es,It)">
 		<category>Games</category>
@@ -14623,6 +14628,12 @@
 		<description>Barbie Top Model (Belgium, Netherlands)</description>
 		<rom name="Barbie Top Model (Belgium, Netherlands).bin" size="278218080" crc="71438313" md5="17ca607fd0342bddb4b51c3613c23f37" sha1="7470617328168fab59eb1c59419f0e9cbdc47901"/>
 		<rom name="Barbie Top Model (Belgium, Netherlands).cue" size="105" crc="2760687f" md5="13aa63b3ac575fdcfce86763fb9ab0a2" sha1="913235f44f440648c6fcd4066c36e4268854b718"/>
+	</game>
+	<game name="Barbie Zauberhafte Pferdewelt (Germany)">
+		<category>Games</category>
+		<description>Barbie Zauberhafte Pferdewelt (Germany)</description>
+		<rom name="Barbie Zauberhafte Pferdewelt (Germany).bin" size="707215824" crc="20886cf9" md5="1019b5d08d0a499d341c63e9fb6f50d0" sha1="95bdf3419e0026a9a223b5e47af41c1958b783e0"/>
+		<rom name="Barbie Zauberhafte Pferdewelt (Germany).cue" size="105" crc="a96a3d64" md5="cfa97763366bcf9f800268c677f3943f" sha1="2275731c5524dab221c47b4e4585fce0b9ec184f"/>
 	</game>
 	<game name="Barbie als IJsprinses (Belgium, Netherlands)">
 		<category>Games</category>
@@ -64021,6 +64032,12 @@
 		<description>Hamster Ball (USA)</description>
 		<rom name="Hamster Ball (USA).bin" size="8342544" crc="0b9ac9e1" md5="fafc0fde05219224ee91728ddb318f61" sha1="56c009eb2087dc128beb7a60b189c22f2bb8655e"/>
 		<rom name="Hamster Ball (USA).cue" size="84" crc="628e39a1" md5="11b591728798474d4a47ec54f2d1a00a" sha1="13ff29b4af3522f0739642520481e4e3c9d726e7"/>
+	</game>
+	<game name="Hamtaro - Wake Up Snoozer! (USA)">
+		<category>Games</category>
+		<description>Hamtaro - Wake Up Snoozer! (USA)</description>
+		<rom name="Hamtaro - Wake Up Snoozer! (USA).bin" size="344697360" crc="f2df76e1" md5="449da4a8b15bccbd9fd40aaf397c0e4b" sha1="aa49955460c4d6b6da220c11ec6c5ff1d7f700dd"/>
+		<rom name="Hamtaro - Wake Up Snoozer! (USA).cue" size="98" crc="b1f691a3" md5="1b5873d4188ca59cdb6c233b2dc83d04" sha1="dcb2d4286da44016b40669f64de65c092b1d7566"/>
 	</game>
 	<game name="Hanabi Barrage (Japan) (Trial Version)">
 		<category>Demos</category>
@@ -123046,6 +123063,11 @@
 		<rom name="Replicore (Russia).bin" size="769576752" crc="74102adb" md5="0e82af075509bd0dbfe4df402c6406c9" sha1="6155e0364244320abd351a25190a32b151ef4522"/>
 		<rom name="Replicore (Russia).cue" size="84" crc="fd342a13" md5="7a6379fe6a553e72c3504b16d78e0223" sha1="5f4404c26c8cd666fb28ce7457fe47f552acbe1d"/>
 	</game>
+	<game name="Reprobates - Insel der Verdammten (Germany)">
+		<category>Games</category>
+		<description>Reprobates - Insel der Verdammten (Germany)</description>
+		<rom name="Reprobates - Insel der Verdammten (Germany).iso" size="1914634240" crc="4d16b1f6" md5="51fa3edf7f26beb286018d8b29f27ac8" sha1="79302ab0285485a75df0b262d7553f965aac9139"/>
+	</game>
 	<game name="Reprobates - Vtoraya zhizn' (Russia)">
 		<category>Games</category>
 		<description>Reprobates - Vtoraya zhizn' (Russia)</description>
@@ -126601,6 +126623,11 @@
 		<description>Runaway - A Road Adventure (USA) (Disc 3)</description>
 		<rom name="Runaway - A Road Adventure (USA) (Disc 3).bin" size="751212336" crc="d88494f9" md5="ee7c4de85820fbe841c5c1626feb8059" sha1="75482e927873f1543814d654d552bcb33c31184c"/>
 		<rom name="Runaway - A Road Adventure (USA) (Disc 3).cue" size="107" crc="7d83d30f" md5="f722cf1beb34db0fa95494c4fe99c857" sha1="cc9388eff0a3b0196d452759994e93400493cec8"/>
+	</game>
+	<game name="Runaway - A Road Adventure - Special Edition (Germany)">
+		<category>Games</category>
+		<description>Runaway - A Road Adventure - Special Edition (Germany)</description>
+		<rom name="Runaway - A Road Adventure - Special Edition (Germany).iso" size="4145479680" crc="97210797" md5="6519ddee3134ef894fcd058041eb3fba" sha1="e3f6e1098dd4503f992f7c7179a2111452991594"/>
 	</game>
 	<game name="Runaway - A Twist of Fate (France)">
 		<category>Games</category>
@@ -152599,6 +152626,12 @@
 		<rom name="Timeline (USA, Canada).bin" size="624173760" crc="1e5e7ad4" md5="5d8e9031068bb5f91b216bf73dee6866" sha1="4793cb25910ae77bc0da5a47e187e4390ebbfde4"/>
 		<rom name="Timeline (USA, Canada).cue" size="88" crc="90275d13" md5="9bec367d220f840e1b51f0a2d7bebe9a" sha1="971d12676a2ca7f50a2e365acb05649cea75b9e2"/>
 	</game>
+	<game name="Timez Attack (USA)">
+		<category>Games</category>
+		<description>Timez Attack (USA)</description>
+		<rom name="Timez Attack (USA).bin" size="188907936" crc="09b3c197" md5="332aa1ae87f9fc7f38eab5be0934eaa2" sha1="0d337b93337cbde1bcc3428d5a29071131a62564"/>
+		<rom name="Timez Attack (USA).cue" size="84" crc="f570a82f" md5="10826c60f97b7582c76e7fe39191e851" sha1="103181fba0921f0bd14bc97093a14b477faa4546"/>
+	</game>
 	<game name="Timmy and the Magic Pictures (USA)">
 		<category>Games</category>
 		<description>Timmy and the Magic Pictures (USA)</description>
@@ -155267,10 +155300,10 @@
 		<rom name="Torin's Passage (USA, Europe).bin" size="493146192" crc="51f62cbd" md5="587f4c557259b04a90f5e33111838992" sha1="ee7b09f632cac0defea6d0869f24544ffe790713"/>
 		<rom name="Torin's Passage (USA, Europe).cue" size="118" crc="515aad45" md5="a923d9f8e3d73a9eb1ddcb38262151cd" sha1="28fea4f0ed10b38885dd18396cbb1a422a1e476e"/>
 	</game>
-	<game name="Torment - Tides of Numenera (USA)">
+	<game name="Torment - Tides of Numenera (USA) (En,Fr,De,Es,Pl,Ru)">
 		<category>Games</category>
-		<description>Torment - Tides of Numenera (USA)</description>
-		<rom name="Torment - Tides of Numenera (USA).iso" size="5806555136" crc="4fd6087f" md5="9413124ef2dab7cec00c2ccdd240fa90" sha1="f03d6cfc00a806eecc6522ea6ea6ca472da5a6f5"/>
+		<description>Torment - Tides of Numenera (USA) (En,Fr,De,Es,Pl,Ru)</description>
+		<rom name="Torment - Tides of Numenera (USA) (En,Fr,De,Es,Pl,Ru).iso" size="5806555136" crc="4fd6087f" md5="9413124ef2dab7cec00c2ccdd240fa90" sha1="f03d6cfc00a806eecc6522ea6ea6ca472da5a6f5"/>
 	</game>
 	<game name="Tormentum - Dark Sorrow (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru,Cs,Hu,Tr)">
 		<category>Games</category>
