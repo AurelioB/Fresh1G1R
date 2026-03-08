@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Wii U (Digital) (CDN) (Retool)</name>
-		<description>Nintendo - Wii U (Digital) (CDN) (2,071) (-y) [-aAbBcefkmMoprv] (20260305-074427) (Retool)</description>
-		<version>20260305-074427</version>
-		<date>2026-03-07 03-06-43</date>
+		<description>Nintendo - Wii U (Digital) (CDN) (2,070) (-y) [-aAbBcefkmMoprv] (20260306-063345) (Retool)</description>
+		<version>20260306-063345</version>
+		<date>2026-03-08 03-20-29</date>
 		<author>buckwheat, C. V. Reynolds, Deterous, Hiccup, Hiccup and DarkMatterCore, Larsenv, nnssxx, norkmetnoil577, rarenight, SonGoku, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -11302,9 +11302,9 @@
 		<rom name="0000001e.h3" size="40" crc="175a7669" md5="3f1af5f2ec60e831717aaa433ce65cac" sha1="0aabaa7518dfa8514b0580b940326ea2051f9162"/>
 		<rom name="tmd.1" size="5716" crc="ede89fa3" md5="d43c90630a91fb529b2b60f485fcfe4c" sha1="325a07ae10582ac80b55e75b968c386cedc25866"/>
 	</game>
-	<game name="Chou Makai Mura (Japan) (SNES) (Virtual Console)" id="1343">
+	<game name="Chou Makaimura (Japan) (SNES) (Virtual Console)" id="1343">
 		<category>Games</category>
-		<description>Chou Makai Mura (Japan) (SNES) (Virtual Console)</description>
+		<description>Chou Makaimura (Japan) (SNES) (Virtual Console)</description>
 		<game_id>0005000010119f00</game_id>
 		<rom name="00000000" size="32768" crc="6b9e34c5" md5="68d751dd9fbc71c79907babf9ca00bd4" sha1="3f2cd91b9945377c0f7add9e9747ec9af507aeab"/>
 		<rom name="00000001" size="32768" crc="84c8957c" md5="77505d6b251a30799a2c8a7851b92618" sha1="451efc226234ab3cb496b4cf8457a1cc8c18fc55"/>
@@ -14369,9 +14369,9 @@
 		<rom name="tmd.18" size="6916" crc="df5bccf3" md5="3f7f1bcd2945884b778fa25ce02d93ff" sha1="21d547a46406205e7a451196ac57ac5e1e1241ec"/>
 		<rom name="tmd.32" size="6772" crc="8fb6a29c" md5="9ad36837ad82f6eb0db2eecf7eea9e28" sha1="40f0b1acda73b2c9a222072f958977b90d803f07"/>
 	</game>
-	<game name="Demon's Blazon - Makai Mura Monshou Hen (Japan) (SNES) (Virtual Console)" id="1457">
+	<game name="Demon's Blazon - Makaimura Monshou Hen (Japan) (SNES) (Virtual Console)" id="1457">
 		<category>Games</category>
-		<description>Demon's Blazon - Makai Mura Monshou Hen (Japan) (SNES) (Virtual Console)</description>
+		<description>Demon's Blazon - Makaimura Monshou Hen (Japan) (SNES) (Virtual Console)</description>
 		<game_id>0005000010178b00</game_id>
 		<rom name="00000000" size="32768" crc="da6b8005" md5="6bda632ff9da7124bff589c8c952d21e" sha1="8a108d3361feef023d068068f0cd92e90869b745"/>
 		<rom name="00000001" size="32768" crc="ffc87c9e" md5="b2c5c4b16039645fbc28806beb3af329" sha1="c812f20f2624a2f7e932b04bca92961399f151c7"/>
@@ -47018,6 +47018,56 @@
 		<rom name="tmd.16" size="5812" crc="365eef13" md5="b69ce3f74c25c86c508bd919c39cfd45" sha1="ebcda0c625f85a12d4d7122826b724f82abfc72c"/>
 		<rom name="tmd.32" size="5908" crc="789a1878" md5="3c5ff593674bacffd4f03f9e720cb978" sha1="6d6d41edfc8317e857b5ea5e1cede90a3a207c73"/>
 	</game>
+	<game name="Monster Hunter 3G - HD Ver. (Japan)" id="3021">
+		<category>Games</category>
+		<description>Monster Hunter 3G - HD Ver. (Japan)</description>
+		<game_id>0005000010104d00</game_id>
+		<rom name="00000000" size="294912" crc="b3253e19" md5="4b64be1d6063694f6188852e98b9b554" sha1="1c0ada3abd252778ed2ee132078a1423a1dd1d07"/>
+		<rom name="00000001" size="32768" crc="174e7e8e" md5="83835c8ca7567012469bd24ba13e7ea2" sha1="09838f55c4e1b2971abf45ae0eb493674d9456dd"/>
+		<rom name="00000002" size="32768" crc="692dde5d" md5="b6f2355d16e91cd7c2bd4da246704fc4" sha1="8df4a81f5254d2403691f1f27397ae624d78297c"/>
+		<rom name="00000003" size="196608" crc="e0830d95" md5="50f55edd6190d97bdf9f73dad450ee59" sha1="db7b1b04eec538209a073e1d628838c15798b5ab"/>
+		<rom name="00000003.h3" size="20" crc="6d9d4337" md5="0d0ef06a6fb4be8166bab7c4204b5a25" sha1="bde0f1533bf7cf0d24825808134faffb01826b91"/>
+		<rom name="00000004" size="11730944" crc="4b81f3c4" md5="699954f84b57cd767ac1298aeb6c523f" sha1="28812406f874fc66d648ef3de400f6b8a53f51c3"/>
+		<rom name="00000004.h3" size="20" crc="b47b3285" md5="b78db8a7b11106bd7441f7122d633cab" sha1="9e6a733ad7080a566ef3f8ffe4df2cfc7a07c41a"/>
+		<rom name="00000005" size="1114112" crc="4d5388f2" md5="828b84cfd6402072ddfd1a354feb6a0f" sha1="9d70d51c9aff965c66cee642997e425471cb77c1"/>
+		<rom name="00000005.h3" size="20" crc="308aa0f8" md5="dc44b4a211d580f5915e407c3de60597" sha1="03d7aef16a80bc2c63c6c24c6c151cc3159e7f38"/>
+		<rom name="00000006" size="1114112" crc="17cc57db" md5="3f0d24b8c32d7286d591cdc07ad8929b" sha1="12607f3dcb9e52f9f79ea65920eec36362248c66"/>
+		<rom name="00000006.h3" size="20" crc="27864520" md5="ef18d9a2a95a94b184729bbba90b4ed8" sha1="9b46cc72c3bb626ca6841295596f86cc72a492a1"/>
+		<rom name="00000007" size="34144256" crc="f7c71684" md5="1412bf68022998611fd144f816aabd8a" sha1="afd2023fa0c25b918dc21ed692b4faedeb3709e3"/>
+		<rom name="00000007.h3" size="20" crc="daeb162b" md5="fcbeade281222eb3227f9d08ab5369a6" sha1="3339aca032f2df3fdf5c6f24dd96fd2b0ec44064"/>
+		<rom name="00000008" size="10715136" crc="b3927ff1" md5="e8c64f1d02c3b7a3fefb8f77c4500a19" sha1="812c354ad4863b40841260a1ae464643b7921f03"/>
+		<rom name="00000009" size="1015808" crc="0718ac27" md5="dc44e136f7abe0c77d2372711723e4a6" sha1="eaecdfdd25a2de5ac9dd8c712cb79e518fdd8c55"/>
+		<rom name="0000000a" size="1343488" crc="37587ed3" md5="48640605db985493ead3b4955172ff1f" sha1="a6fe8df53aca30b47bbeea25585a7138958dc243"/>
+		<rom name="0000000b" size="528744448" crc="f154e2e0" md5="e06850f9e54953649c1a7f1000a96b58" sha1="8f40022ce8cab7363df286e8214df0963de1300d"/>
+		<rom name="0000000b.h3" size="40" crc="13a4e40a" md5="7a2c05338af8d488a261a372fb3e0272" sha1="422df7469bab2f833d97682585b2ef0dd3e67f98"/>
+		<rom name="0000000c" size="514392064" crc="5fd140cf" md5="8cac5f0bd3cc322dd7258b6b5a954cd7" sha1="19aeded809378fbf1804106b76ee23b9e73431fc"/>
+		<rom name="0000000c.h3" size="40" crc="16042db4" md5="1cb4891dd6953221eb2aedbaa2f577e6" sha1="a0a975b770e8f6fb5d1c2f39d693543f196bf06a"/>
+		<rom name="0000000d" size="532611072" crc="955522a6" md5="fc093ba319ea0fc380b7bd9d52fc86c6" sha1="5b0cc5a3f46eed61865a472daa2217e0afbcabf2"/>
+		<rom name="0000000d.h3" size="40" crc="c6bef5c7" md5="2d11f6f3dddff1a3e57b76418069162c" sha1="738e0ac6d60b789404e0f7ab90a1e3e997d9fc4d"/>
+		<rom name="0000000e" size="532611072" crc="1dae25ae" md5="ce108f8c2386fb09d2e97098c6efab3d" sha1="d4336adc6f6d037e1d073ea94f6b7663cf86a9de"/>
+		<rom name="0000000e.h3" size="40" crc="e1e93dc8" md5="bb477bfe97fb55c4acdca3131f42c8a7" sha1="e03473ab11c75d43ad4f4750051d2a4cbad7b530"/>
+		<rom name="0000000f" size="529989632" crc="e8ed4ce6" md5="1ac1dacde0be841c24782fa1dc600791" sha1="2db149ea21609203d64fa36ae72ef2655da94344"/>
+		<rom name="0000000f.h3" size="40" crc="3782de62" md5="a158a0d56587039f68478c3b24f92d25" sha1="978d425622bf280a36b12bebd75785a9a7849a5f"/>
+		<rom name="00000010" size="449183744" crc="26a194bb" md5="c1c8c966ab0f9501b443cb9c8beb1579" sha1="5c9e0dcad14c473cc04fc0d71ea0fbf84a463660"/>
+		<rom name="00000010.h3" size="40" crc="55ee14e4" md5="75ed7fca7686a5f86f166d5d6923d07c" sha1="8e39683da823563a043e935961c6a00b51e0001e"/>
+		<rom name="00000011" size="415891456" crc="1e270bc5" md5="486fee3a0b6fbda928bd816276c6cc7f" sha1="61a5a4cf42f68a543ce705dd1f4abdceded8eeab"/>
+		<rom name="00000011.h3" size="40" crc="dd92c696" md5="ae9e6237cb788bc2872df607fa42e28f" sha1="b88abe816b7a677493393548acb325ea84437263"/>
+		<rom name="00000012" size="484900864" crc="4470a9af" md5="7e1fe83fe8e8afe7cef4ffdc53a39cd2" sha1="4e4cb2f389f341c5d00278a04c552dc11ce092c1"/>
+		<rom name="00000012.h3" size="40" crc="3dde7e84" md5="0cdc2009a94015f6214be0c4e86d8a6b" sha1="5a3ccb8bb5987a98f3915e709538e8216f289780"/>
+		<rom name="00000013" size="482803712" crc="53250032" md5="450ac34c984afdabca4b5e8c4226a307" sha1="64d980ccb964514991d13ad91743e432179f4609"/>
+		<rom name="00000013.h3" size="40" crc="3eadc51f" md5="ba452c1ef8bad3c27656986a5c7b105c" sha1="8a836697744362a3c111bd22d48d86061bc62a66"/>
+		<rom name="00000014" size="531628032" crc="86e46740" md5="0e37e1495c5415147844e45e762e6179" sha1="d17cede879a7b6c77e13afdf961e6140829064f9"/>
+		<rom name="00000014.h3" size="40" crc="c250889f" md5="cdc197652a906528693cf2a5750d5844" sha1="d20673804c08eaed6030d18099c1945f67c528a1"/>
+		<rom name="00000015" size="527564800" crc="8f166bf8" md5="775230db7bc0d544dc935dcc081cb968" sha1="66e0f74b1273263d2a337f32cdce74c9fa89ad3e"/>
+		<rom name="00000015.h3" size="40" crc="aa1dfad4" md5="1c706071064a3556a1c897a66410f13c" sha1="65caca06ff785e88870f9eb2428ebeb16bde5036"/>
+		<rom name="00000016" size="529268736" crc="8b9cb8d4" md5="7db315dce83fe7095900d62e029cd63d" sha1="488a63fe473e1cfdd9b7054cc5beaa7dff05e0a6"/>
+		<rom name="00000016.h3" size="40" crc="2fc209fd" md5="65a64022af89549b115fc4199358a1d3" sha1="575eea8663656f63fb9b301aaf774970b8858807"/>
+		<rom name="00000017" size="527106048" crc="7b5f8a1d" md5="337d52b5013c66b463987088983f4f72" sha1="70fff868adb736993598792c6ec5811778d07a44"/>
+		<rom name="00000017.h3" size="40" crc="0c438e05" md5="8684a3b57386a42694bb20f719582fe8" sha1="f9ee94f517e663906b55dcfc9c6f3a7929296a28"/>
+		<rom name="00000018" size="9568256" crc="7922b613" md5="cdd31181d22756219ada9d2fce3bdd5a" sha1="144b409ef6f841e9eac2ebd082ace44eece41ce8"/>
+		<rom name="00000018.h3" size="20" crc="3da0e0eb" md5="fda79a9a32050dfff6d45ab7c1070293" sha1="791d42c30642050230c8861b9afb3258dbf97265"/>
+		<rom name="tmd.0" size="5812" crc="fc4c9344" md5="a9bd4da11a73cbc2fe66922329d74da1" sha1="2373c9115ee2e95cc38149b09df16e72ceb015ca"/>
+	</game>
 	<game name="Monster Hunter 3G - HD Ver. (Japan) (Update)" id="3020">
 		<category>Games</category>
 		<description>Monster Hunter 3G - HD Ver. (Japan) (Update)</description>
@@ -47143,56 +47193,6 @@
 		<rom name="tmd.65" size="6292" crc="265b983c" md5="129903c53dd6ffcaf961b93f2498880e" sha1="b6a55c8e955f952d5f1fe6302e5a035bd2a9cc9e"/>
 		<rom name="tmd.80" size="6340" crc="fbb275a0" md5="5d08ef321092192b84cb41b5d4d5e79d" sha1="00359cb2326384b44eef155e4543d7d33842e34c"/>
 		<rom name="tmd.96" size="6436" crc="5c0c29c9" md5="1e793d7a2fb788b11e2d86063c55c71b" sha1="5fd485029cdf26c74fb366c414f2e826674b7ef2"/>
-	</game>
-	<game name="Monster Hunter 3G HD Ver. (Japan)" id="3021">
-		<category>Games</category>
-		<description>Monster Hunter 3G HD Ver. (Japan)</description>
-		<game_id>0005000010104d00</game_id>
-		<rom name="00000000" size="294912" crc="b3253e19" md5="4b64be1d6063694f6188852e98b9b554" sha1="1c0ada3abd252778ed2ee132078a1423a1dd1d07"/>
-		<rom name="00000001" size="32768" crc="174e7e8e" md5="83835c8ca7567012469bd24ba13e7ea2" sha1="09838f55c4e1b2971abf45ae0eb493674d9456dd"/>
-		<rom name="00000002" size="32768" crc="692dde5d" md5="b6f2355d16e91cd7c2bd4da246704fc4" sha1="8df4a81f5254d2403691f1f27397ae624d78297c"/>
-		<rom name="00000003" size="196608" crc="e0830d95" md5="50f55edd6190d97bdf9f73dad450ee59" sha1="db7b1b04eec538209a073e1d628838c15798b5ab"/>
-		<rom name="00000003.h3" size="20" crc="6d9d4337" md5="0d0ef06a6fb4be8166bab7c4204b5a25" sha1="bde0f1533bf7cf0d24825808134faffb01826b91"/>
-		<rom name="00000004" size="11730944" crc="4b81f3c4" md5="699954f84b57cd767ac1298aeb6c523f" sha1="28812406f874fc66d648ef3de400f6b8a53f51c3"/>
-		<rom name="00000004.h3" size="20" crc="b47b3285" md5="b78db8a7b11106bd7441f7122d633cab" sha1="9e6a733ad7080a566ef3f8ffe4df2cfc7a07c41a"/>
-		<rom name="00000005" size="1114112" crc="4d5388f2" md5="828b84cfd6402072ddfd1a354feb6a0f" sha1="9d70d51c9aff965c66cee642997e425471cb77c1"/>
-		<rom name="00000005.h3" size="20" crc="308aa0f8" md5="dc44b4a211d580f5915e407c3de60597" sha1="03d7aef16a80bc2c63c6c24c6c151cc3159e7f38"/>
-		<rom name="00000006" size="1114112" crc="17cc57db" md5="3f0d24b8c32d7286d591cdc07ad8929b" sha1="12607f3dcb9e52f9f79ea65920eec36362248c66"/>
-		<rom name="00000006.h3" size="20" crc="27864520" md5="ef18d9a2a95a94b184729bbba90b4ed8" sha1="9b46cc72c3bb626ca6841295596f86cc72a492a1"/>
-		<rom name="00000007" size="34144256" crc="f7c71684" md5="1412bf68022998611fd144f816aabd8a" sha1="afd2023fa0c25b918dc21ed692b4faedeb3709e3"/>
-		<rom name="00000007.h3" size="20" crc="daeb162b" md5="fcbeade281222eb3227f9d08ab5369a6" sha1="3339aca032f2df3fdf5c6f24dd96fd2b0ec44064"/>
-		<rom name="00000008" size="10715136" crc="b3927ff1" md5="e8c64f1d02c3b7a3fefb8f77c4500a19" sha1="812c354ad4863b40841260a1ae464643b7921f03"/>
-		<rom name="00000009" size="1015808" crc="0718ac27" md5="dc44e136f7abe0c77d2372711723e4a6" sha1="eaecdfdd25a2de5ac9dd8c712cb79e518fdd8c55"/>
-		<rom name="0000000a" size="1343488" crc="37587ed3" md5="48640605db985493ead3b4955172ff1f" sha1="a6fe8df53aca30b47bbeea25585a7138958dc243"/>
-		<rom name="0000000b" size="528744448" crc="f154e2e0" md5="e06850f9e54953649c1a7f1000a96b58" sha1="8f40022ce8cab7363df286e8214df0963de1300d"/>
-		<rom name="0000000b.h3" size="40" crc="13a4e40a" md5="7a2c05338af8d488a261a372fb3e0272" sha1="422df7469bab2f833d97682585b2ef0dd3e67f98"/>
-		<rom name="0000000c" size="514392064" crc="5fd140cf" md5="8cac5f0bd3cc322dd7258b6b5a954cd7" sha1="19aeded809378fbf1804106b76ee23b9e73431fc"/>
-		<rom name="0000000c.h3" size="40" crc="16042db4" md5="1cb4891dd6953221eb2aedbaa2f577e6" sha1="a0a975b770e8f6fb5d1c2f39d693543f196bf06a"/>
-		<rom name="0000000d" size="532611072" crc="955522a6" md5="fc093ba319ea0fc380b7bd9d52fc86c6" sha1="5b0cc5a3f46eed61865a472daa2217e0afbcabf2"/>
-		<rom name="0000000d.h3" size="40" crc="c6bef5c7" md5="2d11f6f3dddff1a3e57b76418069162c" sha1="738e0ac6d60b789404e0f7ab90a1e3e997d9fc4d"/>
-		<rom name="0000000e" size="532611072" crc="1dae25ae" md5="ce108f8c2386fb09d2e97098c6efab3d" sha1="d4336adc6f6d037e1d073ea94f6b7663cf86a9de"/>
-		<rom name="0000000e.h3" size="40" crc="e1e93dc8" md5="bb477bfe97fb55c4acdca3131f42c8a7" sha1="e03473ab11c75d43ad4f4750051d2a4cbad7b530"/>
-		<rom name="0000000f" size="529989632" crc="e8ed4ce6" md5="1ac1dacde0be841c24782fa1dc600791" sha1="2db149ea21609203d64fa36ae72ef2655da94344"/>
-		<rom name="0000000f.h3" size="40" crc="3782de62" md5="a158a0d56587039f68478c3b24f92d25" sha1="978d425622bf280a36b12bebd75785a9a7849a5f"/>
-		<rom name="00000010" size="449183744" crc="26a194bb" md5="c1c8c966ab0f9501b443cb9c8beb1579" sha1="5c9e0dcad14c473cc04fc0d71ea0fbf84a463660"/>
-		<rom name="00000010.h3" size="40" crc="55ee14e4" md5="75ed7fca7686a5f86f166d5d6923d07c" sha1="8e39683da823563a043e935961c6a00b51e0001e"/>
-		<rom name="00000011" size="415891456" crc="1e270bc5" md5="486fee3a0b6fbda928bd816276c6cc7f" sha1="61a5a4cf42f68a543ce705dd1f4abdceded8eeab"/>
-		<rom name="00000011.h3" size="40" crc="dd92c696" md5="ae9e6237cb788bc2872df607fa42e28f" sha1="b88abe816b7a677493393548acb325ea84437263"/>
-		<rom name="00000012" size="484900864" crc="4470a9af" md5="7e1fe83fe8e8afe7cef4ffdc53a39cd2" sha1="4e4cb2f389f341c5d00278a04c552dc11ce092c1"/>
-		<rom name="00000012.h3" size="40" crc="3dde7e84" md5="0cdc2009a94015f6214be0c4e86d8a6b" sha1="5a3ccb8bb5987a98f3915e709538e8216f289780"/>
-		<rom name="00000013" size="482803712" crc="53250032" md5="450ac34c984afdabca4b5e8c4226a307" sha1="64d980ccb964514991d13ad91743e432179f4609"/>
-		<rom name="00000013.h3" size="40" crc="3eadc51f" md5="ba452c1ef8bad3c27656986a5c7b105c" sha1="8a836697744362a3c111bd22d48d86061bc62a66"/>
-		<rom name="00000014" size="531628032" crc="86e46740" md5="0e37e1495c5415147844e45e762e6179" sha1="d17cede879a7b6c77e13afdf961e6140829064f9"/>
-		<rom name="00000014.h3" size="40" crc="c250889f" md5="cdc197652a906528693cf2a5750d5844" sha1="d20673804c08eaed6030d18099c1945f67c528a1"/>
-		<rom name="00000015" size="527564800" crc="8f166bf8" md5="775230db7bc0d544dc935dcc081cb968" sha1="66e0f74b1273263d2a337f32cdce74c9fa89ad3e"/>
-		<rom name="00000015.h3" size="40" crc="aa1dfad4" md5="1c706071064a3556a1c897a66410f13c" sha1="65caca06ff785e88870f9eb2428ebeb16bde5036"/>
-		<rom name="00000016" size="529268736" crc="8b9cb8d4" md5="7db315dce83fe7095900d62e029cd63d" sha1="488a63fe473e1cfdd9b7054cc5beaa7dff05e0a6"/>
-		<rom name="00000016.h3" size="40" crc="2fc209fd" md5="65a64022af89549b115fc4199358a1d3" sha1="575eea8663656f63fb9b301aaf774970b8858807"/>
-		<rom name="00000017" size="527106048" crc="7b5f8a1d" md5="337d52b5013c66b463987088983f4f72" sha1="70fff868adb736993598792c6ec5811778d07a44"/>
-		<rom name="00000017.h3" size="40" crc="0c438e05" md5="8684a3b57386a42694bb20f719582fe8" sha1="f9ee94f517e663906b55dcfc9c6f3a7929296a28"/>
-		<rom name="00000018" size="9568256" crc="7922b613" md5="cdd31181d22756219ada9d2fce3bdd5a" sha1="144b409ef6f841e9eac2ebd082ace44eece41ce8"/>
-		<rom name="00000018.h3" size="20" crc="3da0e0eb" md5="fda79a9a32050dfff6d45ab7c1070293" sha1="791d42c30642050230c8861b9afb3258dbf97265"/>
-		<rom name="tmd.0" size="5812" crc="fc4c9344" md5="a9bd4da11a73cbc2fe66922329d74da1" sha1="2373c9115ee2e95cc38149b09df16e72ceb015ca"/>
 	</game>
 	<game name="Monster Hunter Frontier G (Japan)" id="3023">
 		<category>Games</category>
@@ -47415,9 +47415,9 @@
 		<rom name="0000000a.h3" size="20" crc="9f147daf" md5="9842a96f99fdc01c2056cb8ee103698d" sha1="fb0e5fee4d62d4fbca07a7713cd9be4bce5dc7f2"/>
 		<rom name="tmd.0" size="5140" crc="ef35f47d" md5="313af976220a2022f6fe90723e88e0dd" sha1="c575ac3bd64a7c300647f57010f3ed01df889041"/>
 	</game>
-	<game name="Motoroader (USA) (TG16) (Virtual Console)" id="6337">
+	<game name="Moto Roader (USA) (TG16) (Virtual Console)" id="6337">
 		<category>Games</category>
-		<description>Motoroader (USA) (TG16) (Virtual Console)</description>
+		<description>Moto Roader (USA) (TG16) (Virtual Console)</description>
 		<game_id>0005000010167500</game_id>
 		<rom name="00000000" size="32768" crc="152334fb" md5="0bdb3345284510522782d8744ff1385e" sha1="4da77153644cf8c690ef84896d24bdee401aaa03"/>
 		<rom name="00000001" size="32768" crc="77788c43" md5="0d98133063e662e617dcc1745ce71c96" sha1="d41e81a61950423c160218ac78d13d266484a9cb"/>
@@ -47439,9 +47439,9 @@
 		<rom name="0000000a.h3" size="20" crc="bc002f42" md5="04b6b04de15b50c46885e6697440bd9c" sha1="5aaff073bfc9edaca33242241fa2ce02b53491e0"/>
 		<rom name="tmd.0" size="5140" crc="3ee3a912" md5="5f854cc51b84dbcdcdae5b7778b7af22" sha1="4e08f65ccce3a086d9ca91571a5729bb5c2740f7"/>
 	</game>
-	<game name="Motoroader II (Japan) (PCE) (Virtual Console)" id="6400">
+	<game name="Moto Roader II (Japan) (PCE) (Virtual Console)" id="6400">
 		<category>Games</category>
-		<description>Motoroader II (Japan) (PCE) (Virtual Console)</description>
+		<description>Moto Roader II (Japan) (PCE) (Virtual Console)</description>
 		<game_id>00050000101e2500</game_id>
 		<rom name="00000000" size="32768" crc="2f193bcc" md5="b6c199f4575b43b1b65ddb5208c5f5ac" sha1="5f6e11d6411627a3d11d3fe3ec9fcdee699c3c9b"/>
 		<rom name="00000001" size="32768" crc="fdc77cd6" md5="67dff63d5a909f56f6aa10b6d54c7a1f" sha1="fa271e59a951d8d0a678081c95485c6d64977655"/>
@@ -47463,9 +47463,9 @@
 		<rom name="0000000a.h3" size="20" crc="ef68b86e" md5="64d2a0f94a039a03f5e8cfc6c891368d" sha1="d9ae29258b7ceae3719b14bc57bfd499b0b4f4b0"/>
 		<rom name="tmd.0" size="5140" crc="c2e8cf9b" md5="43c5a1c34beeca7edc74952748a35701" sha1="7572bd070ff116cc13aec314492ea5eb6b9174c6"/>
 	</game>
-	<game name="Motoroader MC (Japan) (PCE) (Virtual Console)" id="6487">
+	<game name="Moto Roader MC (Japan) (PCE) (Virtual Console)" id="6487">
 		<category>Games</category>
-		<description>Motoroader MC (Japan) (PCE) (Virtual Console)</description>
+		<description>Moto Roader MC (Japan) (PCE) (Virtual Console)</description>
 		<game_id>000500001020af00</game_id>
 		<rom name="00000000" size="32768" crc="3093b28c" md5="018a33fda04030742db42b0d0b67cf82" sha1="8dee70e803a1ae581c3f9df6a1381d5125bc4431"/>
 		<rom name="00000001" size="32768" crc="d5166a57" md5="63538511b05c644d2e407966efe68fdb" sha1="bcbd7c00a0e8426a72abfeec2324cd9c65746e8a"/>
@@ -47808,30 +47808,6 @@
 		<rom name="00000009" size="21889024" crc="f1a9c091" md5="b30e17fc21a2eb7831b549533c63570e" sha1="501d0a1bcc436469483b18aab3d5ccef991523cc"/>
 		<rom name="00000009.h3" size="20" crc="15a348a2" md5="6f087b4362a75f6231c6a23500c19ae7" sha1="2187e51f253b7eec4be5bdda5766e1b0522fca73"/>
 		<rom name="tmd.0" size="5092" crc="9b1c49b1" md5="d335a43771966f0cc6fafb8ed364525e" sha1="54b7ed2f13e64f8cfaf781a3a3cedd366a591624"/>
-	</game>
-	<game name="Mutant Mudds- Super Challenge (Europe)" id="3147">
-		<category>Games</category>
-		<description>Mutant Mudds- Super Challenge (Europe)</description>
-		<game_id>00050000101ca800</game_id>
-		<rom name="00000000" size="32768" crc="04092275" md5="d495813394a082a2286cb4e79d7d86f2" sha1="d57ec28e4c5eb10b853b5240ef0f3d23c09e1aca"/>
-		<rom name="00000001" size="32768" crc="b82fbe9f" md5="dd40ad40a960a59e2f7355186ec868e7" sha1="c8b938390cf2095b671c62dfd5a85bf3d7b5fd8f"/>
-		<rom name="00000002" size="32768" crc="dfd4b945" md5="67e8f5f27a46e9589e9e4c92fd06232c" sha1="67749b0776963092de7231355834a1af409f0328"/>
-		<rom name="00000003" size="196608" crc="702b03eb" md5="119bfc81089fafe79c10bfff4290c2a3" sha1="6065a2d1cee36f4bfb54bc00ef8bb2cad598a536"/>
-		<rom name="00000003.h3" size="20" crc="e61dd6e1" md5="90eb55bd5ee12ce8935723a8186702f1" sha1="08264f9555bcc5b1a3dd17dd4d7e786e1b6fb857"/>
-		<rom name="00000004" size="11730944" crc="243f1af3" md5="3530115b351d9618987503e4d82868a8" sha1="e22baceb228f7e8c2a2bc360130b61e876d5d053"/>
-		<rom name="00000004.h3" size="20" crc="c559d2ca" md5="c00e79ff2b3fc46dc3d4effd130aa027" sha1="25cea22957e5daf3905ffb32e52524c590a5719c"/>
-		<rom name="00000005" size="1114112" crc="ebb1ce55" md5="844d996b50ffe3735f74eb4c0b3f6af5" sha1="9acab7be604707c9e22a453642aee08f17f14389"/>
-		<rom name="00000005.h3" size="20" crc="8d8b1c2a" md5="15b51ff4b44d3949bd9d42ea893db0c1" sha1="57a6ad921357a47531786034b06c17480fe26275" sha256="155c81fcd44da62bd117499ac768a4f947f0cd157cc5aef02af6fbeee82e1f16"/>
-		<rom name="00000006" size="1114112" crc="94973289" md5="6633f9558a86a5e6a6ac59f80ef90136" sha1="f92d7b0cc5d1d5ab7a995ad0bca25ee3361a3a1c"/>
-		<rom name="00000006.h3" size="20" crc="4dc49af2" md5="5c02933ab5958ae106a0615f885a6998" sha1="c022bb30df81cb1c4b44592e1ff0b2ca041040e8" sha256="e5bce87da300a8b29807f191d103643baa2ee5fcf8c2ae35e13ccdf023595223"/>
-		<rom name="00000007" size="18153472" crc="e6ed7ed9" md5="709fdd8874a4727f014b9e261f607dd7" sha1="206a69abed4775733ea18fdd2a57d66a95c4363d"/>
-		<rom name="00000007.h3" size="20" crc="f9486200" md5="ea4a1abbf77a498b55c0ba46658665a2" sha1="d862c531d2bd117f751f44565c07d7fcb788023a"/>
-		<rom name="00000008" size="2162688" crc="24106a0b" md5="94029e238ea3333ae9b42f5cfa801771" sha1="5fec4ce34889ae83e9a013a297b5da6ef1f0c167"/>
-		<rom name="00000008.h3" size="20" crc="ceadbe17" md5="e92aaa957e46f49ac05ef3676d4d44d9" sha1="3f9dca19dc50a558a47e5fcff00f3d85473beeb8" sha256="11bde8990694ec29d36cf32f831069d39bcbf02b632d328150ea594340665cee"/>
-		<rom name="00000009" size="524288" crc="2cdf85b0" md5="be150dd0863aead9fa5ce95d90e5a732" sha1="e43654875142401876d816a37433204b9fd08a9d"/>
-		<rom name="0000000a" size="15073280" crc="a555ea6d" md5="809b353822605eb702816acdeb4b3b18" sha1="e0d821638b0b2227ade90c21447357f52e3403f8"/>
-		<rom name="0000000a.h3" size="20" crc="a55cf6ce" md5="a0d671aebcd48ed56577698efa962db5" sha1="7f32ff07965686a16ef7b8611d7febfc2c6ea88a"/>
-		<rom name="tmd.0" size="5140" crc="9fe4a3d7" md5="a33f2a7bdc2113f0fa2b39e18404d400" sha1="92829ea8f13302c4f46637775254c9fdbde59ca0"/>
 	</game>
 	<game name="My Arctic Farm (USA)" id="3148">
 		<category>Games</category>
@@ -62305,74 +62281,6 @@
 		<rom name="00000012.h3" size="40" crc="47cc3988" md5="fd6cfe5c51e4eb14d10cf106c58aca32" sha1="a104c11560beb5ac53c2e724a0b695ec01fb6c76"/>
 		<rom name="tmd.0" size="5524" crc="17d45da9" md5="6ee477973fe95123c0fd217fed210a27" sha1="2afd1baefc6cf47c6a3ebc063f045e0a05ae1960"/>
 	</game>
-	<game name="Romance of the Three Kingdoms 12 (Japan) (Update)" id="3645">
-		<category>Games</category>
-		<description>Romance of the Three Kingdoms 12 (Japan) (Update)</description>
-		<game_id>0005000e10111c00</game_id>
-		<rom name="00000000" size="32768" crc="c1b23d20" md5="9bf6fb7bf83ca22c61303c3cece65797" sha1="92477d1ce152d7bdd0890f46c57a737ef30b0acc"/>
-		<rom name="00000001" size="32768" crc="321e0161" md5="6b551fded7160fe719da337d4044e6ce" sha1="6846d07c7338dded9ea75f5aefa9d0fbeb7837dd"/>
-		<rom name="00000002" size="32768" crc="84e12f66" md5="859c5de41a2a2da20654034ce94a904b" sha1="8a7c20a77346abeafcadb407c479559d56d48b75"/>
-		<rom name="00000003" size="196608" crc="dbde7f06" md5="2103ba18378336e528a94fb939d68aa8" sha1="f34a4802ecf44a7ca9a636643924ae2e9eb78750"/>
-		<rom name="00000003.h3" size="20" crc="0b754860" md5="9eaeffb2c0dbd26663d5a6de2e2f0c05" sha1="1656410be760f12d53bbc08ecdf795713b6c8d86"/>
-		<rom name="00000004" size="11730944" crc="d5cae304" md5="b062be564b3e0efb030951afe0a1f187" sha1="155feee02d3eaff699a872f613cd8acc376f8a4c"/>
-		<rom name="00000004.h3" size="20" crc="a7d3e52e" md5="7676ef4eaaae9546ce2f60d091c2c751" sha1="108af7289210878c1617d18925bd5b10bdb8379a"/>
-		<rom name="00000005" size="1114112" crc="3467adb9" md5="8f4c7f4cecb63598432a91a0edd2d6d9" sha1="d1bd500122961321bfe70863324f1f4b99da70d8"/>
-		<rom name="00000005.h3" size="20" crc="8b221bb5" md5="b1eaa72bad087b1b8bc910f51d16b20e" sha1="991d0df4c3fb9a5d840ba66ed38dac19cf7aa7ac" sha256="62110662e1a0f9b2907b0917e5e0661f8735ec785cd212fa6183dfe5641b48c8"/>
-		<rom name="00000006" size="1114112" crc="f22e0e76" md5="2f60359cd60d39ed6a1d3834e7ed4bb3" sha1="f3ef091e98794d3e345a27485f9cb7a6203e4abc"/>
-		<rom name="00000006.h3" size="20" crc="bea00a8d" md5="240e3df6ce4ae0d86eba107c41508f10" sha1="67293594d400114942b5c25e7193106bd2e1d9ae" sha256="d66b6ebb353ba2cbd11e752057af54c34982f8bb89f0fe8187eec19918e8bad4"/>
-		<rom name="00000007" size="20250624" crc="20bd5d61" md5="4af8742dac0cf9f62a8f157ea9163fdb" sha1="64843a5b46d2617a6059f11886a9dc0475ff4cc8"/>
-		<rom name="00000007.h3" size="20" crc="67dbaad6" md5="4087d489f62af6386a5f60027f86432c" sha1="9dba584b39c0b961dddb59f20486cd23b715657c"/>
-		<rom name="00000008" size="131072" crc="702cc74a" md5="512fb0eed277cea33044467edda94de3" sha1="ee863a9db474b085cb5f8466a8e792501a52568f"/>
-		<rom name="00000008.h3" size="20" crc="a1d841be" md5="5d52b5bf126b36076b774a6db735eee9" sha1="69f884adf130016a39637d1c2c8937ec11e35837" sha256="1fda70f2ceea09c26c4a18466510afa3fd88d8320f069702e7700bfe1c37bb71"/>
-		<rom name="00000009" size="131072" crc="64aca96a" md5="fbeff0c020dd2651fc306b3d0e9ada61" sha1="b21ae7fd1fdbb8681c2a0b6e23fdbcdb1fdb9cae"/>
-		<rom name="00000009.h3" size="20" crc="242c8040" md5="fc28e267b0890344fc4eccb25779bbd2" sha1="7fe6ef2a2cd7a466ddb3cb98bf17e580a0fc970b" sha256="755389f85ed9f195694799033f3602e3dd2a0fc6137666559ed1bd5796d573cd"/>
-		<rom name="0000000a" size="131072" crc="b3ea4057" md5="d33ebafffa89dfa4ced93042ff8b7064" sha1="98b0fe5b8115a76609675a3bfdfd108ebcb50798"/>
-		<rom name="0000000a.h3" size="20" crc="0c368ca5" md5="f8b45a9fc5f0f2191ae9d535c9125fa4" sha1="1962dddaf248dd08a9be93fd89d9a2f43a0d4c2f" sha256="87c401f40125d27c44aee666ceb7db4c1d52d3d819eae9c150a2222e86cdedaa"/>
-		<rom name="0000000b" size="131072" crc="e33af46d" md5="50fe1f59f87cf6c09664ef469ed42c62" sha1="9ee232674be3cad4de9686c26411e2b8aa00b918"/>
-		<rom name="0000000b.h3" size="20" crc="33c0d1d9" md5="5093bb4790646dfd49a115b33af75b11" sha1="c3a0868ea7a303f9a88fa99fe0efda816ad4d0f0" sha256="fb4ac4cc7a8c2ac22e00b7f5ecbe20259bb7dfd5a17fc454b5f4e5f7e08a4144"/>
-		<rom name="0000000c" size="131072" crc="861a919e" md5="95bce72fb61381d1fbb75abf965f5055" sha1="31d0a9a6b3e6309611fbbfdb650555e0a8be97b3"/>
-		<rom name="0000000c.h3" size="20" crc="8bc4a7c6" md5="baed06b8747963d700fdc92ff97fdceb" sha1="c39a0b6bf97da0d6fb6482ef274c9ed525b7ed6b" sha256="48f28c6875e72870db4883275cdec3a4bc464356c5632209e20f731c71407f0e"/>
-		<rom name="0000000d" size="131072" crc="d48a460d" md5="82fe119402988a08d295851f44f7ae05" sha1="a7d838e0f304164923da2c09933c4d7099977cf0"/>
-		<rom name="0000000d.h3" size="20" crc="fa1769e9" md5="dba797702c4969809d5e102de35062ba" sha1="0b3e4d4e89ef42dceeab88a828add16d4730f3b4" sha256="138bd5b63b6d234bd352baea4f3061cdf2ff840b0d0cd930ce6594213203f460"/>
-		<rom name="0000000e" size="131072" crc="d48a460d" md5="82fe119402988a08d295851f44f7ae05" sha1="a7d838e0f304164923da2c09933c4d7099977cf0"/>
-		<rom name="0000000e.h3" size="20" crc="fa1769e9" md5="dba797702c4969809d5e102de35062ba" sha1="0b3e4d4e89ef42dceeab88a828add16d4730f3b4" sha256="138bd5b63b6d234bd352baea4f3061cdf2ff840b0d0cd930ce6594213203f460"/>
-		<rom name="0000000f" size="131072" crc="d48a460d" md5="82fe119402988a08d295851f44f7ae05" sha1="a7d838e0f304164923da2c09933c4d7099977cf0"/>
-		<rom name="0000000f.h3" size="20" crc="fa1769e9" md5="dba797702c4969809d5e102de35062ba" sha1="0b3e4d4e89ef42dceeab88a828add16d4730f3b4" sha256="138bd5b63b6d234bd352baea4f3061cdf2ff840b0d0cd930ce6594213203f460"/>
-		<rom name="00000010" size="131072" crc="d48a460d" md5="82fe119402988a08d295851f44f7ae05" sha1="a7d838e0f304164923da2c09933c4d7099977cf0"/>
-		<rom name="00000010.h3" size="20" crc="fa1769e9" md5="dba797702c4969809d5e102de35062ba" sha1="0b3e4d4e89ef42dceeab88a828add16d4730f3b4" sha256="138bd5b63b6d234bd352baea4f3061cdf2ff840b0d0cd930ce6594213203f460"/>
-		<rom name="00000011" size="131072" crc="d48a460d" md5="82fe119402988a08d295851f44f7ae05" sha1="a7d838e0f304164923da2c09933c4d7099977cf0"/>
-		<rom name="00000011.h3" size="20" crc="fa1769e9" md5="dba797702c4969809d5e102de35062ba" sha1="0b3e4d4e89ef42dceeab88a828add16d4730f3b4" sha256="138bd5b63b6d234bd352baea4f3061cdf2ff840b0d0cd930ce6594213203f460"/>
-		<rom name="00000012" size="131072" crc="a8a423b2" md5="c71341d1718bf0a805dcb6dbb4e874e8" sha1="754e12177c97cb142ed8d34013f5712f56323e8f"/>
-		<rom name="00000012.h3" size="20" crc="a4854503" md5="21b3013ba317b7e5dd27ffbb9e0f2953" sha1="9a9876dcdd3ba2142668c9f391b0e6504e3f2292" sha256="6c7883da29170a99aba39c352856715a1e26d48d018f1e9f1e7bd91e6f3dc4ed"/>
-		<rom name="00000013" size="6488064" crc="1d1dda0b" md5="3624758b4ca5fcb9e880bb42ce4c8e1b" sha1="85ea368386c0a69ef21bcffc53ecf503385160f0"/>
-		<rom name="00000014" size="13959168" crc="18cf9426" md5="7f8e1a68f5ab8aa0ecb076f10e940294" sha1="814222911e870487e395948ab513d55c7396c4e4"/>
-		<rom name="00000014.h3" size="20" crc="068b4500" md5="c1c6c4ce56dc5df15a381d545c0e5ef7" sha1="41da9a94e5bb07e5cc436a972ae29a18698e9ec6"/>
-		<rom name="00000017" size="32768" crc="b8a6a089" md5="4df43c45bdd02d82ec743176a1fb4187" sha1="953dee5af24e20b1f06ecd893ebe3cbe7915189b"/>
-		<rom name="00000019" size="11730944" crc="64b38473" md5="5f7fb5b37a838ba922b8b8a380761d94" sha1="4105f5eb46cd3de80ccac5293ea2398a09f12cd6"/>
-		<rom name="00000019.h3" size="20" crc="5595a696" md5="d78f3f4a3e8a4cb4e63679b25efd2623" sha1="7668522fcf38438a5e0d71c9f73b9b7f6035b6bf"/>
-		<rom name="0000001a" size="131072" crc="d48a460d" md5="82fe119402988a08d295851f44f7ae05" sha1="a7d838e0f304164923da2c09933c4d7099977cf0"/>
-		<rom name="0000001a.h3" size="20" crc="fa1769e9" md5="dba797702c4969809d5e102de35062ba" sha1="0b3e4d4e89ef42dceeab88a828add16d4730f3b4" sha256="138bd5b63b6d234bd352baea4f3061cdf2ff840b0d0cd930ce6594213203f460"/>
-		<rom name="0000001b" size="131072" crc="d48a460d" md5="82fe119402988a08d295851f44f7ae05" sha1="a7d838e0f304164923da2c09933c4d7099977cf0"/>
-		<rom name="0000001b.h3" size="20" crc="fa1769e9" md5="dba797702c4969809d5e102de35062ba" sha1="0b3e4d4e89ef42dceeab88a828add16d4730f3b4" sha256="138bd5b63b6d234bd352baea4f3061cdf2ff840b0d0cd930ce6594213203f460"/>
-		<rom name="0000001c" size="131072" crc="d48a460d" md5="82fe119402988a08d295851f44f7ae05" sha1="a7d838e0f304164923da2c09933c4d7099977cf0"/>
-		<rom name="0000001c.h3" size="20" crc="fa1769e9" md5="dba797702c4969809d5e102de35062ba" sha1="0b3e4d4e89ef42dceeab88a828add16d4730f3b4" sha256="138bd5b63b6d234bd352baea4f3061cdf2ff840b0d0cd930ce6594213203f460"/>
-		<rom name="0000001d" size="131072" crc="d48a460d" md5="82fe119402988a08d295851f44f7ae05" sha1="a7d838e0f304164923da2c09933c4d7099977cf0"/>
-		<rom name="0000001d.h3" size="20" crc="fa1769e9" md5="dba797702c4969809d5e102de35062ba" sha1="0b3e4d4e89ef42dceeab88a828add16d4730f3b4" sha256="138bd5b63b6d234bd352baea4f3061cdf2ff840b0d0cd930ce6594213203f460"/>
-		<rom name="0000001e" size="131072" crc="197a73bc" md5="ab972ba58cfec9908bdeae5f47e90b0f" sha1="712ca8f7ef3766c951f120ba5e569eb7a8d5ec69"/>
-		<rom name="0000001e.h3" size="20" crc="859ebe61" md5="3f8a39f4e94425f1105a31157c64d3fc" sha1="57609c621a4b53822eb7dd3e619bddf62c94f0ad" sha256="e8a6745a6e9e3893b974acfd12c0507c5716c6f7263c9875777762c5d2277222"/>
-		<rom name="0000001f" size="12779520" crc="06b83d6b" md5="6f9336c376abeefdb75de5ffe00b5ccd" sha1="869c2fadd80732df43e01efaf4f6c894d0448902"/>
-		<rom name="0000001f.h3" size="20" crc="60aeea15" md5="cdb642bf490968b72d617183e5301683" sha1="f97fef2d60a0279883d5c2b815b22dd08a81980d"/>
-		<rom name="00000022" size="32768" crc="4f033daa" md5="edd678d893ea3cdc018c4469096ec2d2" sha1="dc93b8c013123a4be941e4ab4ae1b04dacef1514"/>
-		<rom name="00000023" size="32768" crc="c5345f49" md5="924fec899fd520c005ec5b35dfbdba91" sha1="800f3163d2565c81c34986d190657d70e7d4dffa"/>
-		<rom name="00000024" size="196608" crc="9443fd81" md5="0aa69a7cc39f2856c2daaf7d29052d9b" sha1="68774ec7e98df5eb637dbccc08bbc2bb4692bf18"/>
-		<rom name="00000024.h3" size="20" crc="ed40547a" md5="6d8bba8072c41cf0fb8345dbcefc4d61" sha1="df22d2d0de7063ef8407d2ba6bd189f7a52b3bcd"/>
-		<rom name="00000025" size="6684672" crc="99de2668" md5="78af5deed89f8bb888cedbd7b22282d4" sha1="fbc4bdd5b36d76d9b6949eab478871b4ca164dfb"/>
-		<rom name="00000026" size="388169728" crc="f58814f4" md5="f7bf2c3c0fa6b0b034d8078abfa24382" sha1="c11280a0df0a9fbf1540fb7995177aa430ea7121"/>
-		<rom name="00000026.h3" size="40" crc="2fcefeb7" md5="38482ca0eca2b380e096207b79632211" sha1="4f11e48311c8126a0511d0d8514c96a45dad3e6f"/>
-		<rom name="cetk.33" size="2640" crc="5d355d21" md5="69aa97d24a134b8515595ff70f03659f" sha1="19664f2e2419d0f4fdf1d34e3b6c786cb6973912"/>
-		<rom name="tmd.16" size="5620" crc="30f123d5" md5="4ca1561255efdb1e62e285ab2a8807b9" sha1="95f87075cb98f42205bc4cfafb14bb88d8265498"/>
-		<rom name="tmd.33" size="5716" crc="920e9882" md5="61933ee7c1670faf2e215feec358e1d4" sha1="5bb4e8344ac2db2ff5899dd3eb7149d412bb19df"/>
-	</game>
 	<game name="Romance of the Three Kingdoms IV - Wall of Fire (USA) (SNES) (Virtual Console)" id="3647">
 		<category>Games</category>
 		<description>Romance of the Three Kingdoms IV - Wall of Fire (USA) (SNES) (Virtual Console)</description>
@@ -64062,6 +63970,74 @@
 		<rom name="00000012" size="402784256" crc="02085f12" md5="ce7e55cb1fa98406f33eeed28a9fed11" sha1="c31a740239499cbbc46eb9aa0a246e7e3d508e18"/>
 		<rom name="00000012.h3" size="40" crc="85b47372" md5="2dd8f6a1091c7596b6bd19b087c2fea9" sha1="408b2cede0c7011b1b00e65fb42dc99ceb1737ac"/>
 		<rom name="tmd.0" size="5524" crc="66ca4c64" md5="0ff41afb3acc5245fdbc02cde3507b0a" sha1="57ece65e3ec11005440b0e9c644157631ffff8b0"/>
+	</game>
+	<game name="Sangokushi 12 (Japan) (Update)" id="3645">
+		<category>Games</category>
+		<description>Sangokushi 12 (Japan) (Update)</description>
+		<game_id>0005000e10111c00</game_id>
+		<rom name="00000000" size="32768" crc="c1b23d20" md5="9bf6fb7bf83ca22c61303c3cece65797" sha1="92477d1ce152d7bdd0890f46c57a737ef30b0acc"/>
+		<rom name="00000001" size="32768" crc="321e0161" md5="6b551fded7160fe719da337d4044e6ce" sha1="6846d07c7338dded9ea75f5aefa9d0fbeb7837dd"/>
+		<rom name="00000002" size="32768" crc="84e12f66" md5="859c5de41a2a2da20654034ce94a904b" sha1="8a7c20a77346abeafcadb407c479559d56d48b75"/>
+		<rom name="00000003" size="196608" crc="dbde7f06" md5="2103ba18378336e528a94fb939d68aa8" sha1="f34a4802ecf44a7ca9a636643924ae2e9eb78750"/>
+		<rom name="00000003.h3" size="20" crc="0b754860" md5="9eaeffb2c0dbd26663d5a6de2e2f0c05" sha1="1656410be760f12d53bbc08ecdf795713b6c8d86"/>
+		<rom name="00000004" size="11730944" crc="d5cae304" md5="b062be564b3e0efb030951afe0a1f187" sha1="155feee02d3eaff699a872f613cd8acc376f8a4c"/>
+		<rom name="00000004.h3" size="20" crc="a7d3e52e" md5="7676ef4eaaae9546ce2f60d091c2c751" sha1="108af7289210878c1617d18925bd5b10bdb8379a"/>
+		<rom name="00000005" size="1114112" crc="3467adb9" md5="8f4c7f4cecb63598432a91a0edd2d6d9" sha1="d1bd500122961321bfe70863324f1f4b99da70d8"/>
+		<rom name="00000005.h3" size="20" crc="8b221bb5" md5="b1eaa72bad087b1b8bc910f51d16b20e" sha1="991d0df4c3fb9a5d840ba66ed38dac19cf7aa7ac" sha256="62110662e1a0f9b2907b0917e5e0661f8735ec785cd212fa6183dfe5641b48c8"/>
+		<rom name="00000006" size="1114112" crc="f22e0e76" md5="2f60359cd60d39ed6a1d3834e7ed4bb3" sha1="f3ef091e98794d3e345a27485f9cb7a6203e4abc"/>
+		<rom name="00000006.h3" size="20" crc="bea00a8d" md5="240e3df6ce4ae0d86eba107c41508f10" sha1="67293594d400114942b5c25e7193106bd2e1d9ae" sha256="d66b6ebb353ba2cbd11e752057af54c34982f8bb89f0fe8187eec19918e8bad4"/>
+		<rom name="00000007" size="20250624" crc="20bd5d61" md5="4af8742dac0cf9f62a8f157ea9163fdb" sha1="64843a5b46d2617a6059f11886a9dc0475ff4cc8"/>
+		<rom name="00000007.h3" size="20" crc="67dbaad6" md5="4087d489f62af6386a5f60027f86432c" sha1="9dba584b39c0b961dddb59f20486cd23b715657c"/>
+		<rom name="00000008" size="131072" crc="702cc74a" md5="512fb0eed277cea33044467edda94de3" sha1="ee863a9db474b085cb5f8466a8e792501a52568f"/>
+		<rom name="00000008.h3" size="20" crc="a1d841be" md5="5d52b5bf126b36076b774a6db735eee9" sha1="69f884adf130016a39637d1c2c8937ec11e35837" sha256="1fda70f2ceea09c26c4a18466510afa3fd88d8320f069702e7700bfe1c37bb71"/>
+		<rom name="00000009" size="131072" crc="64aca96a" md5="fbeff0c020dd2651fc306b3d0e9ada61" sha1="b21ae7fd1fdbb8681c2a0b6e23fdbcdb1fdb9cae"/>
+		<rom name="00000009.h3" size="20" crc="242c8040" md5="fc28e267b0890344fc4eccb25779bbd2" sha1="7fe6ef2a2cd7a466ddb3cb98bf17e580a0fc970b" sha256="755389f85ed9f195694799033f3602e3dd2a0fc6137666559ed1bd5796d573cd"/>
+		<rom name="0000000a" size="131072" crc="b3ea4057" md5="d33ebafffa89dfa4ced93042ff8b7064" sha1="98b0fe5b8115a76609675a3bfdfd108ebcb50798"/>
+		<rom name="0000000a.h3" size="20" crc="0c368ca5" md5="f8b45a9fc5f0f2191ae9d535c9125fa4" sha1="1962dddaf248dd08a9be93fd89d9a2f43a0d4c2f" sha256="87c401f40125d27c44aee666ceb7db4c1d52d3d819eae9c150a2222e86cdedaa"/>
+		<rom name="0000000b" size="131072" crc="e33af46d" md5="50fe1f59f87cf6c09664ef469ed42c62" sha1="9ee232674be3cad4de9686c26411e2b8aa00b918"/>
+		<rom name="0000000b.h3" size="20" crc="33c0d1d9" md5="5093bb4790646dfd49a115b33af75b11" sha1="c3a0868ea7a303f9a88fa99fe0efda816ad4d0f0" sha256="fb4ac4cc7a8c2ac22e00b7f5ecbe20259bb7dfd5a17fc454b5f4e5f7e08a4144"/>
+		<rom name="0000000c" size="131072" crc="861a919e" md5="95bce72fb61381d1fbb75abf965f5055" sha1="31d0a9a6b3e6309611fbbfdb650555e0a8be97b3"/>
+		<rom name="0000000c.h3" size="20" crc="8bc4a7c6" md5="baed06b8747963d700fdc92ff97fdceb" sha1="c39a0b6bf97da0d6fb6482ef274c9ed525b7ed6b" sha256="48f28c6875e72870db4883275cdec3a4bc464356c5632209e20f731c71407f0e"/>
+		<rom name="0000000d" size="131072" crc="d48a460d" md5="82fe119402988a08d295851f44f7ae05" sha1="a7d838e0f304164923da2c09933c4d7099977cf0"/>
+		<rom name="0000000d.h3" size="20" crc="fa1769e9" md5="dba797702c4969809d5e102de35062ba" sha1="0b3e4d4e89ef42dceeab88a828add16d4730f3b4" sha256="138bd5b63b6d234bd352baea4f3061cdf2ff840b0d0cd930ce6594213203f460"/>
+		<rom name="0000000e" size="131072" crc="d48a460d" md5="82fe119402988a08d295851f44f7ae05" sha1="a7d838e0f304164923da2c09933c4d7099977cf0"/>
+		<rom name="0000000e.h3" size="20" crc="fa1769e9" md5="dba797702c4969809d5e102de35062ba" sha1="0b3e4d4e89ef42dceeab88a828add16d4730f3b4" sha256="138bd5b63b6d234bd352baea4f3061cdf2ff840b0d0cd930ce6594213203f460"/>
+		<rom name="0000000f" size="131072" crc="d48a460d" md5="82fe119402988a08d295851f44f7ae05" sha1="a7d838e0f304164923da2c09933c4d7099977cf0"/>
+		<rom name="0000000f.h3" size="20" crc="fa1769e9" md5="dba797702c4969809d5e102de35062ba" sha1="0b3e4d4e89ef42dceeab88a828add16d4730f3b4" sha256="138bd5b63b6d234bd352baea4f3061cdf2ff840b0d0cd930ce6594213203f460"/>
+		<rom name="00000010" size="131072" crc="d48a460d" md5="82fe119402988a08d295851f44f7ae05" sha1="a7d838e0f304164923da2c09933c4d7099977cf0"/>
+		<rom name="00000010.h3" size="20" crc="fa1769e9" md5="dba797702c4969809d5e102de35062ba" sha1="0b3e4d4e89ef42dceeab88a828add16d4730f3b4" sha256="138bd5b63b6d234bd352baea4f3061cdf2ff840b0d0cd930ce6594213203f460"/>
+		<rom name="00000011" size="131072" crc="d48a460d" md5="82fe119402988a08d295851f44f7ae05" sha1="a7d838e0f304164923da2c09933c4d7099977cf0"/>
+		<rom name="00000011.h3" size="20" crc="fa1769e9" md5="dba797702c4969809d5e102de35062ba" sha1="0b3e4d4e89ef42dceeab88a828add16d4730f3b4" sha256="138bd5b63b6d234bd352baea4f3061cdf2ff840b0d0cd930ce6594213203f460"/>
+		<rom name="00000012" size="131072" crc="a8a423b2" md5="c71341d1718bf0a805dcb6dbb4e874e8" sha1="754e12177c97cb142ed8d34013f5712f56323e8f"/>
+		<rom name="00000012.h3" size="20" crc="a4854503" md5="21b3013ba317b7e5dd27ffbb9e0f2953" sha1="9a9876dcdd3ba2142668c9f391b0e6504e3f2292" sha256="6c7883da29170a99aba39c352856715a1e26d48d018f1e9f1e7bd91e6f3dc4ed"/>
+		<rom name="00000013" size="6488064" crc="1d1dda0b" md5="3624758b4ca5fcb9e880bb42ce4c8e1b" sha1="85ea368386c0a69ef21bcffc53ecf503385160f0"/>
+		<rom name="00000014" size="13959168" crc="18cf9426" md5="7f8e1a68f5ab8aa0ecb076f10e940294" sha1="814222911e870487e395948ab513d55c7396c4e4"/>
+		<rom name="00000014.h3" size="20" crc="068b4500" md5="c1c6c4ce56dc5df15a381d545c0e5ef7" sha1="41da9a94e5bb07e5cc436a972ae29a18698e9ec6"/>
+		<rom name="00000017" size="32768" crc="b8a6a089" md5="4df43c45bdd02d82ec743176a1fb4187" sha1="953dee5af24e20b1f06ecd893ebe3cbe7915189b"/>
+		<rom name="00000019" size="11730944" crc="64b38473" md5="5f7fb5b37a838ba922b8b8a380761d94" sha1="4105f5eb46cd3de80ccac5293ea2398a09f12cd6"/>
+		<rom name="00000019.h3" size="20" crc="5595a696" md5="d78f3f4a3e8a4cb4e63679b25efd2623" sha1="7668522fcf38438a5e0d71c9f73b9b7f6035b6bf"/>
+		<rom name="0000001a" size="131072" crc="d48a460d" md5="82fe119402988a08d295851f44f7ae05" sha1="a7d838e0f304164923da2c09933c4d7099977cf0"/>
+		<rom name="0000001a.h3" size="20" crc="fa1769e9" md5="dba797702c4969809d5e102de35062ba" sha1="0b3e4d4e89ef42dceeab88a828add16d4730f3b4" sha256="138bd5b63b6d234bd352baea4f3061cdf2ff840b0d0cd930ce6594213203f460"/>
+		<rom name="0000001b" size="131072" crc="d48a460d" md5="82fe119402988a08d295851f44f7ae05" sha1="a7d838e0f304164923da2c09933c4d7099977cf0"/>
+		<rom name="0000001b.h3" size="20" crc="fa1769e9" md5="dba797702c4969809d5e102de35062ba" sha1="0b3e4d4e89ef42dceeab88a828add16d4730f3b4" sha256="138bd5b63b6d234bd352baea4f3061cdf2ff840b0d0cd930ce6594213203f460"/>
+		<rom name="0000001c" size="131072" crc="d48a460d" md5="82fe119402988a08d295851f44f7ae05" sha1="a7d838e0f304164923da2c09933c4d7099977cf0"/>
+		<rom name="0000001c.h3" size="20" crc="fa1769e9" md5="dba797702c4969809d5e102de35062ba" sha1="0b3e4d4e89ef42dceeab88a828add16d4730f3b4" sha256="138bd5b63b6d234bd352baea4f3061cdf2ff840b0d0cd930ce6594213203f460"/>
+		<rom name="0000001d" size="131072" crc="d48a460d" md5="82fe119402988a08d295851f44f7ae05" sha1="a7d838e0f304164923da2c09933c4d7099977cf0"/>
+		<rom name="0000001d.h3" size="20" crc="fa1769e9" md5="dba797702c4969809d5e102de35062ba" sha1="0b3e4d4e89ef42dceeab88a828add16d4730f3b4" sha256="138bd5b63b6d234bd352baea4f3061cdf2ff840b0d0cd930ce6594213203f460"/>
+		<rom name="0000001e" size="131072" crc="197a73bc" md5="ab972ba58cfec9908bdeae5f47e90b0f" sha1="712ca8f7ef3766c951f120ba5e569eb7a8d5ec69"/>
+		<rom name="0000001e.h3" size="20" crc="859ebe61" md5="3f8a39f4e94425f1105a31157c64d3fc" sha1="57609c621a4b53822eb7dd3e619bddf62c94f0ad" sha256="e8a6745a6e9e3893b974acfd12c0507c5716c6f7263c9875777762c5d2277222"/>
+		<rom name="0000001f" size="12779520" crc="06b83d6b" md5="6f9336c376abeefdb75de5ffe00b5ccd" sha1="869c2fadd80732df43e01efaf4f6c894d0448902"/>
+		<rom name="0000001f.h3" size="20" crc="60aeea15" md5="cdb642bf490968b72d617183e5301683" sha1="f97fef2d60a0279883d5c2b815b22dd08a81980d"/>
+		<rom name="00000022" size="32768" crc="4f033daa" md5="edd678d893ea3cdc018c4469096ec2d2" sha1="dc93b8c013123a4be941e4ab4ae1b04dacef1514"/>
+		<rom name="00000023" size="32768" crc="c5345f49" md5="924fec899fd520c005ec5b35dfbdba91" sha1="800f3163d2565c81c34986d190657d70e7d4dffa"/>
+		<rom name="00000024" size="196608" crc="9443fd81" md5="0aa69a7cc39f2856c2daaf7d29052d9b" sha1="68774ec7e98df5eb637dbccc08bbc2bb4692bf18"/>
+		<rom name="00000024.h3" size="20" crc="ed40547a" md5="6d8bba8072c41cf0fb8345dbcefc4d61" sha1="df22d2d0de7063ef8407d2ba6bd189f7a52b3bcd"/>
+		<rom name="00000025" size="6684672" crc="99de2668" md5="78af5deed89f8bb888cedbd7b22282d4" sha1="fbc4bdd5b36d76d9b6949eab478871b4ca164dfb"/>
+		<rom name="00000026" size="388169728" crc="f58814f4" md5="f7bf2c3c0fa6b0b034d8078abfa24382" sha1="c11280a0df0a9fbf1540fb7995177aa430ea7121"/>
+		<rom name="00000026.h3" size="40" crc="2fcefeb7" md5="38482ca0eca2b380e096207b79632211" sha1="4f11e48311c8126a0511d0d8514c96a45dad3e6f"/>
+		<rom name="cetk.33" size="2640" crc="5d355d21" md5="69aa97d24a134b8515595ff70f03659f" sha1="19664f2e2419d0f4fdf1d34e3b6c786cb6973912"/>
+		<rom name="tmd.16" size="5620" crc="30f123d5" md5="4ca1561255efdb1e62e285ab2a8807b9" sha1="95f87075cb98f42205bc4cfafb14bb88d8265498"/>
+		<rom name="tmd.33" size="5716" crc="920e9882" md5="61933ee7c1670faf2e215feec358e1d4" sha1="5bb4e8344ac2db2ff5899dd3eb7149d412bb19df"/>
 	</game>
 	<game name="Sangokushi 12 with Power-Up Kit (Japan)" id="3689">
 		<category>Games</category>

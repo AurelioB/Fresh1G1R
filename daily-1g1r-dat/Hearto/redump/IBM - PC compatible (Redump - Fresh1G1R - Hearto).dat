@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,677) (-y) [-aAbBcefkmMoprv] (2026-03-06 18-40-52) (Retool)</description>
-		<version>2026-03-06 18-40-52</version>
-		<date>2026-03-07 03-01-18</date>
+		<description>IBM - PC compatible (24,679) (-y) [-aAbBcefkmMoprv] (2026-03-08 02-44-34) (Retool)</description>
+		<version>2026-03-08 02-44-34</version>
+		<date>2026-03-08 03-16-00</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -5115,11 +5115,11 @@
 		<description>Age of Pirates 2 - City of Abandoned Ships (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Age of Pirates 2 - City of Abandoned Ships (Europe) (En,Fr,De,Es,It).iso" size="4706099200" crc="3eee13aa" md5="090413522e261e9821594adc22b158e6" sha1="1fefb385f124fa62d08eaf9a97be5555c30e5cf0"/>
 	</game>
-	<game name="Age of Sail (USA)">
+	<game name="Age of Sail (USA) (v1.02)">
 		<category>Games</category>
-		<description>Age of Sail (USA)</description>
-		<rom name="Age of Sail (USA).bin" size="619194576" crc="0aba86f9" md5="be2859dabb58b8eb5dea0e18457d5641" sha1="7484dc93ec782b3e569fbedcc59f75f184209ab8"/>
-		<rom name="Age of Sail (USA).cue" size="106" crc="6280d728" md5="aede78f15cac4021d842627e8afea68f" sha1="aa06f1c46855e8d7aa1cc70aaff8ea57e77aff1d"/>
+		<description>Age of Sail (USA) (v1.02)</description>
+		<rom name="Age of Sail (USA) (v1.02).bin" size="619841376" crc="72030b39" md5="0643a4d6d3683cf430a19cf90d2d56fb" sha1="02623a9aed95957511940aa27773350beaf7707c"/>
+		<rom name="Age of Sail (USA) (v1.02).cue" size="91" crc="6c2df086" md5="eedb7d86bb85148aa4c9d739cc955b2a" sha1="8fdec377a0d8ea7215ddce24f3b15e4c7b16a804"/>
 	</game>
 	<game name="Age of Sail II (USA)">
 		<category>Games</category>
@@ -135855,37 +135855,11 @@
 		<description>Sid Meier's Civilization VI (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)</description>
 		<rom name="Sid Meier's Civilization VI (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso" size="4132044800" crc="981a0be8" md5="255fb09364fdc0e398056565b51e87af" sha1="3692fec3e62195ceaabd1b709c8c66b44e9350df"/>
 	</game>
-	<game name="Sid Meier's Colonization (USA) (Rerelease)">
+	<game name="Sid Meier's Colonization (USA)">
 		<category>Games</category>
-		<description>Sid Meier's Colonization (USA) (Rerelease)</description>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 01).bin" size="41750352" crc="08336309" md5="f41654b5f29e89730ea4d745260ff318" sha1="6a66656f462317ca06ba8af31be87a39fd492f3f"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 02).bin" size="22518048" crc="26f720d9" md5="e7baddac85c68c5ab3dbb10641909a0a" sha1="fbd5a1304025597c89e7ac4da03c65e19dd24c2d"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 03).bin" size="13300560" crc="449aa093" md5="397a2f52262c843c1630daa6a99adc50" sha1="41fdb1f879c71163ab227034654f6f31b21e91b4"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 04).bin" size="25937856" crc="05bddd93" md5="a65fd04acd0e05a1e1180ae868d10b60" sha1="b1b29c7bcabb0e9dae9eb5403a5cf70be09ea2f2"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 05).bin" size="10071264" crc="1dc0ddba" md5="bf1a0951ca2f00d2aba585513fe1f3d9" sha1="48881075e3cd5ebc0445ca0970eadb3cdd4c3f78"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 06).bin" size="11675328" crc="701ac357" md5="0b86e3636360912fe29b9cc6b44f7e76" sha1="12272f391e31381ccdde617b7d98e1dec84d6f6a"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 07).bin" size="8650656" crc="ad095e7a" md5="ac88dd268345afbd04f0037b23db4332" sha1="4332e89392f184ea2d6a2349e1d4debb6eeab20a"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 08).bin" size="8295504" crc="efeac862" md5="ee33e6f3ef435ed4d46a7997907f50a4" sha1="757bc8dd7917fb6d12e92fdebdde1c213979a385"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 09).bin" size="14725872" crc="ba908178" md5="77ede7b1a72407a9ba5bfcbe00ad04dd" sha1="f13524f80d5b52b724b9c24f4af671ccaa6fb699"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 10).bin" size="16797984" crc="2c1d8392" md5="ba81b54895c6be437e1ea085bc0fbfc2" sha1="9dfac9cc2f24d6e91b41e8fbd8f80909b8561d20"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 11).bin" size="17703504" crc="47a94b81" md5="f3feffb250ab418ad9e3705fb2f6fca7" sha1="bef5cd5994d3bc5ae5dc70ba88dde42365e9578f"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 12).bin" size="4235952" crc="5dd7fc93" md5="688628b0e4e085b67220cd4ada7dcdf9" sha1="e84124a62d3772088cf5a85e1da91d94249a7423"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 13).bin" size="15473808" crc="68809945" md5="a4c1ae7e96a72218e165b4267bd7a20a" sha1="baef256a21d46c5221a654f27e0df6c44761e74a"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 14).bin" size="8867040" crc="361b0b50" md5="770c78101e06702ca57fb0b3a233118e" sha1="c3462de0592150058d0f06134a34d568ef5eca33"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 15).bin" size="15048096" crc="763731cc" md5="e4957de7469b5dcb4889bb07105adb2b" sha1="113642c42707f345186de3947c808232e1fb6468"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 16).bin" size="19832064" crc="c46dade1" md5="cf34fa1feddc9c2298f3e6f3a1e9bc6a" sha1="5c91a8ecb5c3971725ca0cc44cebbd2dd9a5dac0"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 17).bin" size="10946208" crc="ba45529e" md5="47006e24b3a1d1d28606869772603029" sha1="c8ea0e832ab091f0b44a2176362be4c27b78ed37"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 18).bin" size="18378528" crc="27706105" md5="05654479b152769b26cdd2b3b97ab181" sha1="155aa0ceb27fff169d960057326c3eb5e49d81e6"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 19).bin" size="5863536" crc="867824d1" md5="405e2c0a4feb2f09ea9a51778b246b5b" sha1="9c34fb09f90ef18c159d0b23363d5669cf13c51e"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 20).bin" size="13867392" crc="22dc6140" md5="ef8a6e558a8d406696994c1352e49a7d" sha1="a647cfefe376949ed92944830907c3fd09ed071d"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 21).bin" size="9593808" crc="c1520e3d" md5="5530af4b7a99fa9dd796fcc401a2ad79" sha1="a5b9e6b13ea922b71fcb54ceb9c964fe26368424"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 22).bin" size="12044592" crc="8746415e" md5="b47ce7bf344ae31ebf76ec9a95231da3" sha1="4a26d1196f16af34c043cedb6a6d32980859a440"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 23).bin" size="15741936" crc="8bfa0335" md5="eb6f225ae4887aaa3bb584ec66a8d48a" sha1="7453cbe2c0aa3f02a9b17557dd2dd3ca15cc097f"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 24).bin" size="15353856" crc="b516c7a9" md5="ac15640e820ceee679113302b83e5e8d" sha1="62c8a3f59ae2a08d7e5a2d64620de837853b6a47"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 25).bin" size="13413456" crc="c79212df" md5="338de0732fb0d6e49d49af8fd35fc58f" sha1="2cca319c3908e803572fa8fd42e22f55e70f8643"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 26).bin" size="8152032" crc="9b376ecb" md5="e489587efc181d8d3c2f4774bb316b5c" sha1="913920c8729d3db8e94bb6b2c987d347f555010d"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease) (Track 27).bin" size="7641648" crc="336bd7db" md5="e977ea09d5429982608862b64972c194" sha1="bc945711df90dabee7387097493ecc2272d43c1e"/>
-		<rom name="Sid Meier's Colonization (USA) (Rerelease).cue" size="3681" crc="bc0d9db8" md5="7849d06a95424792de904b22a83c27e7" sha1="187e6191dc88ce62dd0182442e1782ad728d2a02"/>
+		<description>Sid Meier's Colonization (USA)</description>
+		<rom name="Sid Meier's Colonization (USA).bin" size="6938400" crc="711732c6" md5="0458326065c25e197da2aa0069886e7f" sha1="b1a36688791351e6cb13da25f0cdd6d4978da00e"/>
+		<rom name="Sid Meier's Colonization (USA).cue" size="119" crc="a727e1b4" md5="7af84e795a625dc24cef5abfcfbd3774" sha1="937fc13cfe33ee4b240ceb1dff227cbb22860749"/>
 	</game>
 	<game name="Sid Meier's Colonization - Create a New Nation (Japan)">
 		<category>Games</category>
@@ -145437,6 +145411,12 @@
 		<description>Steel Panthers - Campaign Disk 2 (USA)</description>
 		<rom name="Steel Panthers - Campaign Disk 2 (USA).bin" size="5045040" crc="894889a5" md5="5254e26017cffdb77fa1055880c3c43c" sha1="048976f88f486d0d4cc71ee38fcf5f5cb54331dd"/>
 		<rom name="Steel Panthers - Campaign Disk 2 (USA).cue" size="104" crc="f17d2979" md5="7b141f84ffcd01286f57f85ecd1d0cef" sha1="24f0808f38cf01ed66748c56570c4c3fa9d15ece"/>
+	</game>
+	<game name="Steel Panthers II - Campaign Disk (USA)">
+		<category>Add-Ons</category>
+		<description>Steel Panthers II - Campaign Disk (USA)</description>
+		<rom name="Steel Panthers II - Campaign Disk (USA).bin" size="39882864" crc="320badc9" md5="e84e47e9f806af55048a1b7448865e29" sha1="10cbc8a1530c93e6591adbedce1dad6495894982"/>
+		<rom name="Steel Panthers II - Campaign Disk (USA).cue" size="128" crc="15a3ab43" md5="ce00d1e322b10de32a9d85ca5414b00f" sha1="d32b3f99bef8d02c957a46cb14b34820c5908fef"/>
 	</game>
 	<game name="Steel Panthers II - Modern Battles (USA)">
 		<category>Games</category>
@@ -160248,6 +160228,12 @@
 		<description>Unglaublichen, Die - The Incredibles - Der Angriff des Tunnelgraebers (Germany) (Disc 1)</description>
 		<rom name="Unglaublichen, Die - The Incredibles - Der Angriff des Tunnelgraebers (Germany) (Disc 1).bin" size="744415056" crc="62316653" md5="5b79b135390cd80b3d903bc9a1a92720" sha1="36945391795830218ccfe7b6e1cb38219a90b036"/>
 		<rom name="Unglaublichen, Die - The Incredibles - Der Angriff des Tunnelgraebers (Germany) (Disc 1).cue" size="154" crc="f0957d02" md5="f39ff2d48154c9f8a2195cd2972d63b0" sha1="75fe48caf8b9532d7e30254c0e838ce09f131aef"/>
+	</game>
+	<game name="Unholy, The - Das Duell (Germany)">
+		<category>Games</category>
+		<description>Unholy, The - Das Duell (Germany)</description>
+		<rom name="Unholy, The - Das Duell (Germany).bin" size="495234768" crc="54e374ed" md5="384830e0b7b56afa032f1963909be274" sha1="c929ec3725c54e72502068ee213ca0e16a7ebfc4"/>
+		<rom name="Unholy, The - Das Duell (Germany).cue" size="99" crc="30a3b1bf" md5="24fe5e745f5ff0b088261ddbeaebab3a" sha1="2e426099e721e42010b90f3da28754ba356ad9ec"/>
 	</game>
 	<game name="Uniloc FamilyPC TITLEwave - Smart Games Challenge 3 + Ultimate Yahtzee + Rocky &amp; Bullwinkle's Know-It-All Quiz Game (USA) (Demo)">
 		<category>Demos</category>

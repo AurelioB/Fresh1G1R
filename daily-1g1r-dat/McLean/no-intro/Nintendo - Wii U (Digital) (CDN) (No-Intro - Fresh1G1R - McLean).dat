@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Wii U (Digital) (CDN) (Retool)</name>
-		<description>Nintendo - Wii U (Digital) (CDN) (1,380) (-ly) [-aAbBcdDefkmMopPruv] (20260305-074427) (Retool)</description>
-		<version>20260305-074427</version>
-		<date>2026-03-07 03-12-35</date>
+		<description>Nintendo - Wii U (Digital) (CDN) (1,379) (-ly) [-aAbBcdDefkmMopPruv] (20260306-063345) (Retool)</description>
+		<version>20260306-063345</version>
+		<date>2026-03-08 03-26-16</date>
 		<author>buckwheat, C. V. Reynolds, Deterous, Hiccup, Hiccup and DarkMatterCore, Larsenv, nnssxx, norkmetnoil577, rarenight, SonGoku, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -34298,9 +34298,9 @@
 		<rom name="00000074.h3" size="20" crc="394f88ad" md5="0d8b5bdb173424c5e1d3442d022d8380" sha1="f139572e857dbdbdbd80378bd4b568e832c6fa99"/>
 		<rom name="tmd.2" size="6916" crc="98649b58" md5="e1eb0ecba451f0edf4c4dc7b39823740" sha1="e4dcc32c4815a339404fbfa1e56a64abb82be370"/>
 	</game>
-	<game name="Motoroader (USA) (TG16) (Virtual Console)" id="6337">
+	<game name="Moto Roader (USA) (TG16) (Virtual Console)" id="6337">
 		<category>Games</category>
-		<description>Motoroader (USA) (TG16) (Virtual Console)</description>
+		<description>Moto Roader (USA) (TG16) (Virtual Console)</description>
 		<game_id>0005000010167500</game_id>
 		<rom name="00000000" size="32768" crc="152334fb" md5="0bdb3345284510522782d8744ff1385e" sha1="4da77153644cf8c690ef84896d24bdee401aaa03"/>
 		<rom name="00000001" size="32768" crc="77788c43" md5="0d98133063e662e617dcc1745ce71c96" sha1="d41e81a61950423c160218ac78d13d266484a9cb"/>
@@ -34523,30 +34523,6 @@
 		<rom name="00000009" size="21889024" crc="f1a9c091" md5="b30e17fc21a2eb7831b549533c63570e" sha1="501d0a1bcc436469483b18aab3d5ccef991523cc"/>
 		<rom name="00000009.h3" size="20" crc="15a348a2" md5="6f087b4362a75f6231c6a23500c19ae7" sha1="2187e51f253b7eec4be5bdda5766e1b0522fca73"/>
 		<rom name="tmd.0" size="5092" crc="9b1c49b1" md5="d335a43771966f0cc6fafb8ed364525e" sha1="54b7ed2f13e64f8cfaf781a3a3cedd366a591624"/>
-	</game>
-	<game name="Mutant Mudds- Super Challenge (Europe)" id="3147">
-		<category>Games</category>
-		<description>Mutant Mudds- Super Challenge (Europe)</description>
-		<game_id>00050000101ca800</game_id>
-		<rom name="00000000" size="32768" crc="04092275" md5="d495813394a082a2286cb4e79d7d86f2" sha1="d57ec28e4c5eb10b853b5240ef0f3d23c09e1aca"/>
-		<rom name="00000001" size="32768" crc="b82fbe9f" md5="dd40ad40a960a59e2f7355186ec868e7" sha1="c8b938390cf2095b671c62dfd5a85bf3d7b5fd8f"/>
-		<rom name="00000002" size="32768" crc="dfd4b945" md5="67e8f5f27a46e9589e9e4c92fd06232c" sha1="67749b0776963092de7231355834a1af409f0328"/>
-		<rom name="00000003" size="196608" crc="702b03eb" md5="119bfc81089fafe79c10bfff4290c2a3" sha1="6065a2d1cee36f4bfb54bc00ef8bb2cad598a536"/>
-		<rom name="00000003.h3" size="20" crc="e61dd6e1" md5="90eb55bd5ee12ce8935723a8186702f1" sha1="08264f9555bcc5b1a3dd17dd4d7e786e1b6fb857"/>
-		<rom name="00000004" size="11730944" crc="243f1af3" md5="3530115b351d9618987503e4d82868a8" sha1="e22baceb228f7e8c2a2bc360130b61e876d5d053"/>
-		<rom name="00000004.h3" size="20" crc="c559d2ca" md5="c00e79ff2b3fc46dc3d4effd130aa027" sha1="25cea22957e5daf3905ffb32e52524c590a5719c"/>
-		<rom name="00000005" size="1114112" crc="ebb1ce55" md5="844d996b50ffe3735f74eb4c0b3f6af5" sha1="9acab7be604707c9e22a453642aee08f17f14389"/>
-		<rom name="00000005.h3" size="20" crc="8d8b1c2a" md5="15b51ff4b44d3949bd9d42ea893db0c1" sha1="57a6ad921357a47531786034b06c17480fe26275" sha256="155c81fcd44da62bd117499ac768a4f947f0cd157cc5aef02af6fbeee82e1f16"/>
-		<rom name="00000006" size="1114112" crc="94973289" md5="6633f9558a86a5e6a6ac59f80ef90136" sha1="f92d7b0cc5d1d5ab7a995ad0bca25ee3361a3a1c"/>
-		<rom name="00000006.h3" size="20" crc="4dc49af2" md5="5c02933ab5958ae106a0615f885a6998" sha1="c022bb30df81cb1c4b44592e1ff0b2ca041040e8" sha256="e5bce87da300a8b29807f191d103643baa2ee5fcf8c2ae35e13ccdf023595223"/>
-		<rom name="00000007" size="18153472" crc="e6ed7ed9" md5="709fdd8874a4727f014b9e261f607dd7" sha1="206a69abed4775733ea18fdd2a57d66a95c4363d"/>
-		<rom name="00000007.h3" size="20" crc="f9486200" md5="ea4a1abbf77a498b55c0ba46658665a2" sha1="d862c531d2bd117f751f44565c07d7fcb788023a"/>
-		<rom name="00000008" size="2162688" crc="24106a0b" md5="94029e238ea3333ae9b42f5cfa801771" sha1="5fec4ce34889ae83e9a013a297b5da6ef1f0c167"/>
-		<rom name="00000008.h3" size="20" crc="ceadbe17" md5="e92aaa957e46f49ac05ef3676d4d44d9" sha1="3f9dca19dc50a558a47e5fcff00f3d85473beeb8" sha256="11bde8990694ec29d36cf32f831069d39bcbf02b632d328150ea594340665cee"/>
-		<rom name="00000009" size="524288" crc="2cdf85b0" md5="be150dd0863aead9fa5ce95d90e5a732" sha1="e43654875142401876d816a37433204b9fd08a9d"/>
-		<rom name="0000000a" size="15073280" crc="a555ea6d" md5="809b353822605eb702816acdeb4b3b18" sha1="e0d821638b0b2227ade90c21447357f52e3403f8"/>
-		<rom name="0000000a.h3" size="20" crc="a55cf6ce" md5="a0d671aebcd48ed56577698efa962db5" sha1="7f32ff07965686a16ef7b8611d7febfc2c6ea88a"/>
-		<rom name="tmd.0" size="5140" crc="9fe4a3d7" md5="a33f2a7bdc2113f0fa2b39e18404d400" sha1="92829ea8f13302c4f46637775254c9fdbde59ca0"/>
 	</game>
 	<game name="My Arctic Farm (USA)" id="3148">
 		<category>Games</category>
