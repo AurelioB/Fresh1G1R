@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (12,910) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-08 02-44-34) (Retool)</description>
-		<version>2026-03-08 02-44-34</version>
-		<date>2026-03-08 03-22-14</date>
+		<description>IBM - PC compatible (12,915) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-09 04-01-12) (Retool)</description>
+		<version>2026-03-09 04-01-12</version>
+		<date>2026-03-09 03-17-43</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -36555,6 +36555,12 @@
 		<rom name="Hodj 'n' Podj (USA).bin" size="320913936" crc="9147b1c5" md5="7eefb5d7d91cebb41305574c52404cb3" sha1="1a7cc3861313ee2713b342ffe09851bb60e2fe71"/>
 		<rom name="Hodj 'n' Podj (USA).cue" size="108" crc="6146db49" md5="31e7fd605ca37f0926130c9cbaa09ea2" sha1="33c6b76bf3e2f0c66ff7cef6ff92fbcd42d2d9a9"/>
 	</game>
+	<game name="Hodj'N'Podj (USA)">
+		<category>Games</category>
+		<description>Hodj'N'Podj (USA)</description>
+		<rom name="Hodj'N'Podj (USA).bin" size="360763872" crc="7e96e556" md5="9675a8d6b1d676bef85ef8b1e6b78934" sha1="46f6f3655a5cd623c3a4f544ee1d00156f992fb5"/>
+		<rom name="Hodj'N'Podj (USA).cue" size="106" crc="6fe92dcc" md5="a498a062579578b4f16b59a8ec59fcf2" sha1="bb94ed04360bf8255c27dc261ef94876de5abb7e"/>
+	</game>
 	<game name="Holiday Island - Resort-ou e no Michi (Japan)">
 		<category>Games</category>
 		<description>Holiday Island - Resort-ou e no Michi (Japan)</description>
@@ -50897,6 +50903,12 @@
 		<rom name="Milky House Memorial Collection (USA).bin" size="683841648" crc="571b5a17" md5="e395b7deed6fc46994bb3d7620a39533" sha1="aa807b6cad55f93725a7c044610af2d7b7c69daa"/>
 		<rom name="Milky House Memorial Collection (USA).cue" size="103" crc="9f2f025d" md5="37cda2d1fd0f5caf4918f35b812f8491" sha1="43fde3dd42763e882676fd7ad7648c2c509d59b3"/>
 	</game>
+	<game name="Millenium Gamepak Gold (USA)">
+		<category>Games</category>
+		<description>Millenium Gamepak Gold (USA)</description>
+		<rom name="Millenium Gamepak Gold (USA).bin" size="294178752" crc="111d50cb" md5="5b05ed1c3ebbc924aa9adc7bda2255ac" sha1="7c011395a767659a9e948c3a5f0cc50a98ee4648"/>
+		<rom name="Millenium Gamepak Gold (USA).cue" size="94" crc="a7816111" md5="af43495893cb19119ade11c5b8faf03f" sha1="d16e62f38f1428f253b6364e7db3cbaf023e34ab"/>
+	</game>
 	<game name="Millennia - Altered Destinies (USA)">
 		<category>Games</category>
 		<description>Millennia - Altered Destinies (USA)</description>
@@ -56812,6 +56824,12 @@
 		<rom name="Operational Art of War, The - Century of Warfare (USA).bin" size="689434704" crc="52fd23de" md5="939d824c31f50565e94ef3244bb7e96a" sha1="df2cf90f29e7990fa849b015ce8e12d39241631e"/>
 		<rom name="Operational Art of War, The - Century of Warfare (USA).cue" size="120" crc="257e6c14" md5="9a9e8869f498003e51e70ea26d9676fe" sha1="b3033de4f884571c34f58ab027b8927e65774e77"/>
 	</game>
+	<game name="Operational Art of War, The - Vol. 1 - 1939-1955 (USA)">
+		<category>Games</category>
+		<description>Operational Art of War, The - Vol. 1 - 1939-1955 (USA)</description>
+		<rom name="Operational Art of War, The - Vol. 1 - 1939-1955 (USA).bin" size="770174160" crc="9b032e3a" md5="46e968f136b17c67aa22eae61a970b7a" sha1="3c78477ab5b3659d1f8e26b1558ea0ce56741622"/>
+		<rom name="Operational Art of War, The - Vol. 1 - 1939-1955 (USA).cue" size="120" crc="bacd0aa1" md5="0c0829ecb3624ad6d7ed206f66919052" sha1="af17018bb2471a813dae9394a5b31d2588c8c278"/>
+	</game>
 	<game name="Operative, The - No One Lives Forever (USA) (Disc 1) (Game of the Year Edition)">
 		<category>Games</category>
 		<description>Operative, The - No One Lives Forever (USA) (Disc 1) (Game of the Year Edition)</description>
@@ -59039,6 +59057,12 @@
 		<description>Pinball 2 (Germany) (En,Fr,De,Es,It,Pt)</description>
 		<rom name="Pinball 2 (Germany) (En,Fr,De,Es,It,Pt).bin" size="752574144" crc="fb1f33c0" md5="c62c7d03f0c261e11696b21a110dd0c8" sha1="1ca9def6d0b7094db68d77f2ccbf74fed2e1c23a"/>
 		<rom name="Pinball 2 (Germany) (En,Fr,De,Es,It,Pt).cue" size="128" crc="efd7551c" md5="4f33f08823bfc76781bc4deed2658c0d" sha1="7f9b674fc52e2d5a83f9ba2a322750e093adc3cc"/>
+	</game>
+	<game name="Pinball 2000 (USA)">
+		<category>Games</category>
+		<description>Pinball 2000 (USA)</description>
+		<rom name="Pinball 2000 (USA).bin" size="81480336" crc="32c7b92f" md5="2722074a6007e6e01b95c17893345395" sha1="ef17485e1e74bfb7adfc2aaa2da9975a3b2479ae"/>
+		<rom name="Pinball 2000 (USA).cue" size="107" crc="7ecc5750" md5="571ca1b5eb3f586b5c8b6655f88c8f4d" sha1="12d22b21beb978917c7aed8d85dc12846a841096"/>
 	</game>
 	<game name="Pinball 3D-VCR (Europe)">
 		<category>Games</category>
@@ -72409,6 +72433,12 @@
 		<rom name="Software Jukebox - Fight, Flight &amp; Might (USA).bin" size="25519200" crc="d595c2a8" md5="5f0889c20231c67d980d9e8bef7c4b08" sha1="2b149230118e5dbfce00d1ca7085a5cbb17eaa73"/>
 		<rom name="Software Jukebox - Fight, Flight &amp; Might (USA).cue" size="112" crc="71661dda" md5="e1a316afab9cefecb371aa96d9d668d3" sha1="3773d80cbaacfa576360fe4de6f1ca83deb14fed"/>
 	</game>
+	<game name="Software Toolworks CD Duo, The (USA)">
+		<category>Games</category>
+		<description>Software Toolworks CD Duo, The (USA)</description>
+		<rom name="Software Toolworks CD Duo, The (USA).bin" size="11640048" crc="1820bd56" md5="b92cb7d320fb00b36b0b9ff067f96d44" sha1="a07cdcbe8e81a898cb70de6ece6a21e55b0b7939"/>
+		<rom name="Software Toolworks CD Duo, The (USA).cue" size="125" crc="39876aab" md5="c731b0f33e50f817caa23c7872da1e6e" sha1="d4b1dc1b2f97b18bb637f8030b2c46935cae20f8"/>
+	</game>
 	<game name="Software Toolworks CD Game Pack II, The (USA)">
 		<category>Games</category>
 		<description>Software Toolworks CD Game Pack II, The (USA)</description>
@@ -82301,11 +82331,11 @@
 		<rom name="TriJinx - A Kristine Kross Mystery (USA).bin" size="367029600" crc="ad89f824" md5="94de2ebe1efdd5c40c6a9dfa96e0c7c1" sha1="fbc6316ddb0cbabca01332e1c6e63e6d039a0bdc"/>
 		<rom name="TriJinx - A Kristine Kross Mystery (USA).cue" size="106" crc="6d4d1292" md5="13837ab240af9efc85a390c5be785531" sha1="81323d25787efeaf76b0d74fad6291374763945e"/>
 	</game>
-	<game name="TriTryst (USA)">
+	<game name="TriTryst (USA) (Rev 1)">
 		<category>Games</category>
-		<description>TriTryst (USA)</description>
-		<rom name="TriTryst (USA).bin" size="86200800" crc="bcf3f9f4" md5="f402bfd70fceb11b8e3a837ea6150139" sha1="75bbea464e2c08cf2b886078fa83b486fe034bcb"/>
-		<rom name="TriTryst (USA).cue" size="103" crc="3752a942" md5="bde24b36c96cbcfb6bb946ea22dd3169" sha1="762b7afa7d5fed22fc220889d92b0c885f5dae53"/>
+		<description>TriTryst (USA) (Rev 1)</description>
+		<rom name="TriTryst (USA) (Rev 1).bin" size="70197792" crc="8d1a3dd8" md5="07a9ea81c108457d5eacad4274fba551" sha1="f18e40787b15c4d2bd8b6e823f5bac322aaf6179"/>
+		<rom name="TriTryst (USA) (Rev 1).cue" size="111" crc="ece6b2dd" md5="15db5e73650bc4d86680fb16f522ff33" sha1="39d3a23faab90bc03c38441d51c88105b9372df7"/>
 	</game>
 	<game name="Trials 2 - Second Edition (Germany) (En,Fr,De,Es,It,Sv,Fi,Pl,Ru,Sk)">
 		<category>Games</category>

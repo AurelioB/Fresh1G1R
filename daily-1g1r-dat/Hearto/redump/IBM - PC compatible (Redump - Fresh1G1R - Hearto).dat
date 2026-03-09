@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,679) (-y) [-aAbBcefkmMoprv] (2026-03-08 02-44-34) (Retool)</description>
-		<version>2026-03-08 02-44-34</version>
-		<date>2026-03-08 03-16-00</date>
+		<description>IBM - PC compatible (24,700) (-y) [-aAbBcefkmMoprv] (2026-03-09 04-01-12) (Retool)</description>
+		<version>2026-03-09 04-01-12</version>
+		<date>2026-03-09 03-11-27</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -20976,6 +20976,11 @@
 		<rom name="Broken Sword - The Shadow of the Templars (Europe) (Disc 2) (Sold Out Software).bin" size="677919312" crc="d2955e9b" md5="2090a3221d43d63cb34d82d269d13db5" sha1="c7137f514047e350de8367c25272c7adc5c1ad49"/>
 		<rom name="Broken Sword - The Shadow of the Templars (Europe) (Disc 2) (Sold Out Software).cue" size="168" crc="12709321" md5="556cd28c2de452c1e04fad42ca8fce40" sha1="06c409c3cfbd9f149afcce6fbfc3abaff5b38df0"/>
 	</game>
+	<game name="Broken Sword - The Sleeping Dragon (Poland)">
+		<category>Games</category>
+		<description>Broken Sword - The Sleeping Dragon (Poland)</description>
+		<rom name="Broken Sword - The Sleeping Dragon (Poland).iso" size="1359708160" crc="027373cf" md5="ea445ca0e7d0cb6a60a341482b7e0814" sha1="1b1c12ca50fab9e7c3ff9fcf0be995c7d71e1a2d"/>
+	</game>
 	<game name="Broken Sword - The Sleeping Dragon (USA, Australia) (Disc 1)">
 		<category>Games</category>
 		<description>Broken Sword - The Sleeping Dragon (USA, Australia) (Disc 1)</description>
@@ -20999,6 +21004,11 @@
 		<description>Broken Sword - The Smoking Mirror (USA) (Disc 2)</description>
 		<rom name="Broken Sword - The Smoking Mirror (USA) (Disc 2).bin" size="677853456" crc="6106760a" md5="b328726bda7e67b2c5296e67cb093234" sha1="81ef9e9b9add77baef45a0628d299d7e5255f46b"/>
 		<rom name="Broken Sword - The Smoking Mirror (USA) (Disc 2).cue" size="114" crc="56c96c71" md5="d8e066ab0e8ac73d4278a5af96472307" sha1="dc255ac06fa678cdd52c78f2ddf7d405321a0118"/>
+	</game>
+	<game name="Broken Sword 4 - Aniol Smierci (Poland)">
+		<category>Games</category>
+		<description>Broken Sword 4 - Aniol Smierci (Poland)</description>
+		<rom name="Broken Sword 4 - Aniol Smierci (Poland).iso" size="1658322944" crc="42e1c5d1" md5="e8a8c3917486b885e8a64a5056d4b03f" sha1="cc8439fe64253e91fc998d414e1f78cf05cc123f"/>
 	</game>
 	<game name="Broken Sword 5 - Klatwa Weza (Poland)">
 		<category>Games</category>
@@ -23516,6 +23526,12 @@
 		<description>Car and Driver (Europe) (Hit Squad)</description>
 		<rom name="Car and Driver (Europe) (Hit Squad).bin" size="51043104" crc="30c77be2" md5="af7ea958429c84cd820c2fa325f75446" sha1="c30a3a02b0e54ba531d16b741c6e4e4d3f846fb3"/>
 		<rom name="Car and Driver (Europe) (Hit Squad).cue" size="101" crc="7ee9e9ff" md5="70cce23c78a6c9b0f69bf28c54328bbf" sha1="7ef1694ff8d7d9a0d5068556174391b698bb2de9"/>
+	</game>
+	<game name="Car-Racing Games (Germany)">
+		<category>Demos</category>
+		<description>Car-Racing Games (Germany)</description>
+		<rom name="Car-Racing Games (Germany).bin" size="648460512" crc="570b3965" md5="667fd43b1a148fca69266f0aa61b5c08" sha1="5b8850e6ccbfe829d3d48e02157963635be7a4c1"/>
+		<rom name="Car-Racing Games (Germany).cue" size="92" crc="c0994934" md5="27e88d3693a9972f546821960e8592a9" sha1="9794d6c336f2f842729ed133873d00c328e86672"/>
 	</game>
 	<game name="Caras &amp; Bocas (Brazil)">
 		<category>Games</category>
@@ -38483,6 +38499,12 @@
 		<rom name="Disney Aladdin - La Vendetta di Nasira (Italy).bin" size="611275392" crc="74a434f1" md5="51a5b5a97670ded7c4982ee951ce6b57" sha1="80a948c8b474064136ee1448f8e4cc7a21dccec0"/>
 		<rom name="Disney Aladdin - La Vendetta di Nasira (Italy).cue" size="112" crc="255b60f5" md5="bdeb65c5720e59a1315fc1e5f13cd411" sha1="9650474b32c1d509ee73b3ad7518f5552b267904"/>
 	</game>
+	<game name="Disney Aladdin - La Venganza de Nasira (Spain)">
+		<category>Games</category>
+		<description>Disney Aladdin - La Venganza de Nasira (Spain)</description>
+		<rom name="Disney Aladdin - La Venganza de Nasira (Spain).bin" size="610560384" crc="fe3a2293" md5="955a27326c7f21b35d9384a74e7d15d3" sha1="b141fe7b625fbdacc4deef811dec84d9a274faf6"/>
+		<rom name="Disney Aladdin - La Venganza de Nasira (Spain).cue" size="112" crc="dc7b1eab" md5="497790056de142dd222d6618fba91356" sha1="9f91a395dc23df76883deb61c6dc7f5227406ab1"/>
+	</game>
 	<game name="Disney Alice nel Paese delle Meraviglie - Il Labirinto delle Meraviglie &amp; Disney Capitan Uncino - Il Bottino dei Pirati (Italy)">
 		<category>Games</category>
 		<description>Disney Alice nel Paese delle Meraviglie - Il Labirinto delle Meraviglie &amp; Disney Capitan Uncino - Il Bottino dei Pirati (Italy)</description>
@@ -50592,6 +50614,12 @@
 		<rom name="Familie Feuerstein - Bedrock Bowling (Germany) (Track 14).bin" size="16075920" crc="8cc3a787" md5="5ce70942df3730aaf88e4e2b5baae603" sha1="00f5cd5d26c5192898bac8c04eca9f45f8ae6505"/>
 		<rom name="Familie Feuerstein - Bedrock Bowling (Germany) (Track 15).bin" size="715008" crc="16d3c0c7" md5="3236398664d44e3a88da0fc7a28f1355" sha1="2d57de22a690a3e83d2cef0ed1aecae157e78e94"/>
 		<rom name="Familie Feuerstein - Bedrock Bowling (Germany).cue" size="2074" crc="3fa9157f" md5="1e630e2ee0dd7bbcd2e1aaa010eef2bb" sha1="02208a3b379df5f73de5448a3bb4b387dfc73b61"/>
+	</game>
+	<game name="Familien Spiele (Germany)">
+		<category>Games</category>
+		<description>Familien Spiele (Germany)</description>
+		<rom name="Familien Spiele (Germany).bin" size="427563024" crc="b15d6ad1" md5="60fdcd3c5ad17b03371fd2dec6f23734" sha1="2c2a6d7579b1313b6dc66bb77e0e43b393df9412"/>
+		<rom name="Familien Spiele (Germany).cue" size="91" crc="f301a141" md5="6fe077f00eda92874f42db089a95a8ff" sha1="1cd47cd197d688f7dffb9eba18d987952a160e42"/>
 	</game>
 	<game name="Family Casino Games (Europe)">
 		<category>Games</category>
@@ -68279,6 +68307,12 @@
 		<rom name="Hodj 'n' Podj (USA).bin" size="320913936" crc="9147b1c5" md5="7eefb5d7d91cebb41305574c52404cb3" sha1="1a7cc3861313ee2713b342ffe09851bb60e2fe71"/>
 		<rom name="Hodj 'n' Podj (USA).cue" size="108" crc="6146db49" md5="31e7fd605ca37f0926130c9cbaa09ea2" sha1="33c6b76bf3e2f0c66ff7cef6ff92fbcd42d2d9a9"/>
 	</game>
+	<game name="Hodj'N'Podj (USA)">
+		<category>Games</category>
+		<description>Hodj'N'Podj (USA)</description>
+		<rom name="Hodj'N'Podj (USA).bin" size="360763872" crc="7e96e556" md5="9675a8d6b1d676bef85ef8b1e6b78934" sha1="46f6f3655a5cd623c3a4f544ee1d00156f992fb5"/>
+		<rom name="Hodj'N'Podj (USA).cue" size="106" crc="6fe92dcc" md5="a498a062579578b4f16b59a8ec59fcf2" sha1="bb94ed04360bf8255c27dc261ef94876de5abb7e"/>
+	</game>
 	<game name="Hoehlenwelt Saga, Die - Der Leuchtende Kristall (Germany)">
 		<category>Games</category>
 		<description>Hoehlenwelt Saga, Die - Der Leuchtende Kristall (Germany)</description>
@@ -68311,6 +68345,12 @@
 		<rom name="Hoehlenwelt Saga, Die - Der Leuchtende Kristall (Germany) (Track 27).bin" size="4948608" crc="a874c093" md5="5ad960ce3fa43b5639dc2a888d2d54e9" sha1="38acc8be73f847ee3de51ae2157cafb9370defb4"/>
 		<rom name="Hoehlenwelt Saga, Die - Der Leuchtende Kristall (Germany) (Track 28).bin" size="5983488" crc="e8160187" md5="8d77fb473dc57232820e8f39e1552666" sha1="102531a3eafa7aba24459df9dbbebb335df059e5"/>
 		<rom name="Hoehlenwelt Saga, Die - Der Leuchtende Kristall (Germany).cue" size="3663" crc="a2012589" md5="df0906f969cc33fb7cc8830b1c3e0d12" sha1="1a223a834054d66eede33ccb70c25c78adc2b52b"/>
+	</game>
+	<game name="Hoellenjob (Germany)">
+		<category>Games</category>
+		<description>Hoellenjob (Germany)</description>
+		<rom name="Hoellenjob (Germany).bin" size="108902304" crc="3fd5eb8a" md5="bd69e02e3e0500e5939d2f7753b6b51a" sha1="d3ac4a07e923ed3b921980d5730ccb4eb37c8bb7"/>
+		<rom name="Hoellenjob (Germany).cue" size="86" crc="c21e2f23" md5="12beabaafa97ddb710904bd9970cabe2" sha1="cbdc123e6e28210b3656107cb925944a48e12742"/>
 	</game>
 	<game name="Hogs of War - Nati per Soffritto (Italy) (Rerelease)">
 		<category>Games</category>
@@ -68401,6 +68441,18 @@
 		<description>Holiday Lemmings (USA)</description>
 		<rom name="Holiday Lemmings (USA).bin" size="851424" crc="d4fafe27" md5="3d82e7c2a55e6e7a4cafb451608277a0" sha1="4ea5a999d7d09769aec8d96e75dc3805aa9bb40f"/>
 		<rom name="Holiday Lemmings (USA).cue" size="88" crc="1ef604d4" md5="38dfc63d7ae326924ea8d2f8795f3326" sha1="f528aa90bdf1ab1df0eb44a90b165ac29f45da6a"/>
+	</game>
+	<game name="Hollow Earth (Germany) (Disc 1) (Installation)">
+		<category>Games</category>
+		<description>Hollow Earth (Germany) (Disc 1) (Installation)</description>
+		<rom name="Hollow Earth (Germany) (Disc 1) (Installation).bin" size="124324368" crc="afe355d5" md5="b796865af70774cf87a52eacead3c0b8" sha1="8bb8065eb08e8537eb4b7b48a67eaaf0e6470643"/>
+		<rom name="Hollow Earth (Germany) (Disc 1) (Installation).cue" size="112" crc="a47be20f" md5="e316d23904ebdfbef2631f7b420158d6" sha1="a746cc991d6b713071e40a8377f5be47d7232b36"/>
+	</game>
+	<game name="Hollow Earth (Germany) (Disc 2)">
+		<category>Games</category>
+		<description>Hollow Earth (Germany) (Disc 2)</description>
+		<rom name="Hollow Earth (Germany) (Disc 2).bin" size="745878000" crc="52a3b2da" md5="3bdb5470f06392263220a1b7b68911d0" sha1="f6ea832a3f34f4e698a8bc6024ad460006e33306"/>
+		<rom name="Hollow Earth (Germany) (Disc 2).cue" size="97" crc="e141f454" md5="882cf5b32e7ec013d707e10d26849519" sha1="ebe0db67540b6973e0e8b9d9e639fd74f50d029b"/>
 	</game>
 	<game name="Hollow Knight (USA) (En,Fr)">
 		<category>Games</category>
@@ -69925,6 +69977,12 @@
 		<description>Hugo Classic 5 (Germany)</description>
 		<rom name="Hugo Classic 5 (Germany).bin" size="826518672" crc="156958f0" md5="f6c4b3ea676172b802350b5413e89923" sha1="0d11650655ec6e89da953415461b4683429e8372"/>
 		<rom name="Hugo Classic 5 (Germany).cue" size="90" crc="ab2660c4" md5="4d0687c70c37f3515eda4676123324ed" sha1="a4e88e715a42b70f72c06bb8bf93f1dc5db36e51"/>
+	</game>
+	<game name="Hugo Fantastische Welt (Germany)">
+		<category>Games</category>
+		<description>Hugo Fantastische Welt (Germany)</description>
+		<rom name="Hugo Fantastische Welt (Germany).bin" size="823343472" crc="05220284" md5="c3e843acb30c6ebc04b5fb5d0a020a9d" sha1="a58ec74469dc875baa22309d1368fec53a4d738b"/>
+		<rom name="Hugo Fantastische Welt (Germany).cue" size="98" crc="ac87f8b8" md5="107dd7d05293510fc8b0445150a7b6a4" sha1="43b9fd960890d8f2831963883841f074fb2b4e90"/>
 	</game>
 	<game name="Hugo Gold (Germany)">
 		<category>Games</category>
@@ -72987,6 +73045,12 @@
 		<description>Infinite Sudoku (UK)</description>
 		<rom name="Infinite Sudoku (UK).bin" size="15351504" crc="e28039f8" md5="dd0858f0de57e4289080bab68da1ff2b" sha1="dac9802d3816ef87ca7844c422af311b797c2be1"/>
 		<rom name="Infinite Sudoku (UK).cue" size="86" crc="7f614999" md5="a4042d133dd3cbd7de5cb5782c7a5b8f" sha1="aa37d8a1205bf8f23534129de1ab7a51342e4c88"/>
+	</game>
+	<game name="Infinos Gaiden - Senkou no Kaihou-sha (Japan)">
+		<category>Games</category>
+		<description>Infinos Gaiden - Senkou no Kaihou-sha (Japan)</description>
+		<rom name="Infinos Gaiden - Senkou no Kaihou-sha (Japan).bin" size="136387776" crc="6d07e0ef" md5="0f2f1f5fd4cf4a64027726dc225ee334" sha1="503120f2273216ec9b6631f3a84af93dda17ed24"/>
+		<rom name="Infinos Gaiden - Senkou no Kaihou-sha (Japan).cue" size="111" crc="a962f5fc" md5="5320c5795d6ff41d6d87cbffeeedfd25" sha1="c492580a5e474b724dae04f3e8a7eed924b53fcb"/>
 	</game>
 	<game name="Infogrames Action Sampler - October 1999 (USA)">
 		<category>Demos</category>
@@ -76853,6 +76917,12 @@
 		<description>Jump and Run (Germany)</description>
 		<rom name="Jump and Run (Germany).bin" size="510847344" crc="b0aa398e" md5="6ef8c1103f50bf7a938888566fa4a6af" sha1="73b0d263fc0d553666756871739c01366e503275"/>
 		<rom name="Jump and Run (Germany).cue" size="88" crc="6f4f190b" md5="8904a60ab8131c15f5cefb00cfd2f59a" sha1="c410ffab4533364b77abdf87bf888bf32941b5ac"/>
+	</game>
+	<game name="Jump'n run Spiele fuer XP und Vista (Germany)">
+		<category>Games</category>
+		<description>Jump'n run Spiele fuer XP und Vista (Germany)</description>
+		<rom name="Jump'n run Spiele fuer XP und Vista (Germany).bin" size="765314928" crc="ee2e5e37" md5="9194264e87e26c73761f991c7573f6c0" sha1="1c9b53ab27cf1f9f532c370c91d48b9c462afe2a"/>
+		<rom name="Jump'n run Spiele fuer XP und Vista (Germany).cue" size="111" crc="a6575786" md5="1f84a167a329610544a9c229e6faa39b" sha1="333a9d5f5802bb600a92f80fb67ec34991eb26cf"/>
 	</game>
 	<game name="JumpAhead 2000 Starting Maths (UK)">
 		<category>Games</category>
@@ -95850,6 +95920,12 @@
 		<rom name="Milkyway 2 (Japan) (Taikenban).bin" size="661528224" crc="a7b406c7" md5="6998748e97c2061a765cbac60f9dfb8a" sha1="b516d007c1d3afe4cb76ed99bcfa765ed0af2874"/>
 		<rom name="Milkyway 2 (Japan) (Taikenban).cue" size="96" crc="dd5db0e3" md5="a0a998fdee2d59ce759bf9d75338351f" sha1="8fc83fff601d3a41ee3ad1e66230291e5694e1a8"/>
 	</game>
+	<game name="Millenium Gamepak Gold (USA)">
+		<category>Games</category>
+		<description>Millenium Gamepak Gold (USA)</description>
+		<rom name="Millenium Gamepak Gold (USA).bin" size="294178752" crc="111d50cb" md5="5b05ed1c3ebbc924aa9adc7bda2255ac" sha1="7c011395a767659a9e948c3a5f0cc50a98ee4648"/>
+		<rom name="Millenium Gamepak Gold (USA).cue" size="94" crc="a7816111" md5="af43495893cb19119ade11c5b8faf03f" sha1="d16e62f38f1428f253b6364e7db3cbaf023e34ab"/>
+	</game>
 	<game name="Millennia - Altered Destinies (USA)">
 		<category>Games</category>
 		<description>Millennia - Altered Destinies (USA)</description>
@@ -107494,6 +107570,12 @@
 		<rom name="Operational Art of War, The - Century of Warfare (USA).bin" size="689434704" crc="52fd23de" md5="939d824c31f50565e94ef3244bb7e96a" sha1="df2cf90f29e7990fa849b015ce8e12d39241631e"/>
 		<rom name="Operational Art of War, The - Century of Warfare (USA).cue" size="120" crc="257e6c14" md5="9a9e8869f498003e51e70ea26d9676fe" sha1="b3033de4f884571c34f58ab027b8927e65774e77"/>
 	</game>
+	<game name="Operational Art of War, The - Vol. 1 - 1939-1955 (USA)">
+		<category>Games</category>
+		<description>Operational Art of War, The - Vol. 1 - 1939-1955 (USA)</description>
+		<rom name="Operational Art of War, The - Vol. 1 - 1939-1955 (USA).bin" size="770174160" crc="9b032e3a" md5="46e968f136b17c67aa22eae61a970b7a" sha1="3c78477ab5b3659d1f8e26b1558ea0ce56741622"/>
+		<rom name="Operational Art of War, The - Vol. 1 - 1939-1955 (USA).cue" size="120" crc="bacd0aa1" md5="0c0829ecb3624ad6d7ed206f66919052" sha1="af17018bb2471a813dae9394a5b31d2588c8c278"/>
+	</game>
 	<game name="Operative, The - No One Lives Forever (USA) (Disc 1) (Game of the Year Edition)">
 		<category>Games</category>
 		<description>Operative, The - No One Lives Forever (USA) (Disc 1) (Game of the Year Edition)</description>
@@ -112460,6 +112542,12 @@
 		<description>Pinball 2 (Germany) (En,Fr,De,Es,It,Pt)</description>
 		<rom name="Pinball 2 (Germany) (En,Fr,De,Es,It,Pt).bin" size="752574144" crc="fb1f33c0" md5="c62c7d03f0c261e11696b21a110dd0c8" sha1="1ca9def6d0b7094db68d77f2ccbf74fed2e1c23a"/>
 		<rom name="Pinball 2 (Germany) (En,Fr,De,Es,It,Pt).cue" size="128" crc="efd7551c" md5="4f33f08823bfc76781bc4deed2658c0d" sha1="7f9b674fc52e2d5a83f9ba2a322750e093adc3cc"/>
+	</game>
+	<game name="Pinball 2000 (USA)">
+		<category>Games</category>
+		<description>Pinball 2000 (USA)</description>
+		<rom name="Pinball 2000 (USA).bin" size="81480336" crc="32c7b92f" md5="2722074a6007e6e01b95c17893345395" sha1="ef17485e1e74bfb7adfc2aaa2da9975a3b2479ae"/>
+		<rom name="Pinball 2000 (USA).cue" size="107" crc="7ecc5750" md5="571ca1b5eb3f586b5c8b6655f88c8f4d" sha1="12d22b21beb978917c7aed8d85dc12846a841096"/>
 	</game>
 	<game name="Pinball 3 CD Professional (Germany)">
 		<category>Demos</category>
@@ -132030,6 +132118,12 @@
 		<rom name="Sento Monogatari - Sono I (Japan).bin" size="296173248" crc="933b21e0" md5="63ce35ab2ceb39373933353cd33a46c6" sha1="3bf2d5524290606a7c7095144da23a30402acc33"/>
 		<rom name="Sento Monogatari - Sono I (Japan).cue" size="122" crc="189b9a75" md5="0d3d370cbd779c39c9b6beb514c95242" sha1="bbea7dda14a8cebfed8e0d9fe42b4c5230db3781"/>
 	</game>
+	<game name="Sentou Kokka - Improved (Japan)">
+		<category>Games</category>
+		<description>Sentou Kokka - Improved (Japan)</description>
+		<rom name="Sentou Kokka - Improved (Japan).bin" size="516750864" crc="8ac7c0b4" md5="e6d6374f5d483653e2617159ce68b87d" sha1="dbbd43658f738d99dd33330a6eae821c158bd190"/>
+		<rom name="Sentou Kokka - Improved (Japan).cue" size="120" crc="efdff8de" md5="14b9f0bd88b694289c349f93ed1206aa" sha1="7b1b78138f180d564010ae877fa7e4804e85c049"/>
+	</game>
 	<game name="Sentou Yousei Yukikaze - Yousei no Mau Sora (Japan) (Disc 1) (Installation CD-ROM)">
 		<category>Games</category>
 		<description>Sentou Yousei Yukikaze - Yousei no Mau Sora (Japan) (Disc 1) (Installation CD-ROM)</description>
@@ -135965,6 +136059,18 @@
 		<description>Siedler 7, Die (Germany) (Covermount) (2014-12-16)</description>
 		<rom name="Siedler 7, Die (Germany) (Covermount) (2014-12-16).iso" size="8490352640" crc="1e7943d6" md5="40bf78da3dee243a28ca553851afc9ff" sha1="9461eed33a4ea0754ab307bd1fb6cb486d3ee002"/>
 	</game>
+	<game name="Siedler II, Die - Die naechste Generation (Germany)">
+		<category>Games</category>
+		<description>Siedler II, Die - Die naechste Generation (Germany)</description>
+		<rom name="Siedler II, Die - Die naechste Generation (Germany).bin" size="751534560" crc="9057dea6" md5="0d2f6589550f5fdb21dae9ef57bc3660" sha1="ea123e072702533177c78b08868e5eefae769ba2"/>
+		<rom name="Siedler II, Die - Die naechste Generation (Germany).cue" size="117" crc="130edf4c" md5="37af88e2be05c8a64aeba03ea52f8737" sha1="aa72b350ca3edf2705f4dc9801401e2e7fc476cd"/>
+	</game>
+	<game name="Siedler II, Die - Die naechste Generation - Wikinger (Germany)">
+		<category>Add-Ons</category>
+		<description>Siedler II, Die - Die naechste Generation - Wikinger (Germany)</description>
+		<rom name="Siedler II, Die - Die naechste Generation - Wikinger (Germany).bin" size="268513728" crc="8474ffa3" md5="4e5b6ec77b5a1a73373ac845bce996b8" sha1="04b3ebff75bec4cf92fe8d8bd64b78a1d19b2d83"/>
+		<rom name="Siedler II, Die - Die naechste Generation - Wikinger (Germany).cue" size="128" crc="8562f2f4" md5="94fdcf6bbf6adaed3023d4d3190a0ca8" sha1="3a0b24e367d98db00ba9fca42d474c3519e9f8ca"/>
+	</game>
 	<game name="Siedler II, Die - Gold Edition (Germany)">
 		<category>Games</category>
 		<description>Siedler II, Die - Gold Edition (Germany)</description>
@@ -137380,6 +137486,11 @@
 		<description>Simon the Sorcerer (USA)</description>
 		<rom name="Simon the Sorcerer (USA).bin" size="209269200" crc="db6ee4ac" md5="59c172cfc0e6a3d52d0c8aea82e9c93e" sha1="1982a6578857b8218680eba69f6cced9c97cbae1"/>
 		<rom name="Simon the Sorcerer (USA).cue" size="90" crc="d2cfbefe" md5="c1dfcd471b9672759b3cc6228a1aa7fb" sha1="eafd4929c6c3e53a7a8a77f5a05dea10157aa224"/>
+	</game>
+	<game name="Simon the Sorcerer - Chaos is das halbe Leben (Germany)">
+		<category>Games</category>
+		<description>Simon the Sorcerer - Chaos is das halbe Leben (Germany)</description>
+		<rom name="Simon the Sorcerer - Chaos is das halbe Leben (Germany).iso" size="4697497600" crc="e998b50a" md5="f82d56fa0e56dcfc8f69b5c53fd1ea64" sha1="77d20cc7cdecff6bbb82194bd0f6ee3069c48f9c"/>
 	</game>
 	<game name="Simon the Sorcerer 3D (Europe) (Disc 1)">
 		<category>Games</category>
@@ -139874,6 +139985,12 @@
 		<description>Software Jukebox - Fight, Flight &amp; Might (USA)</description>
 		<rom name="Software Jukebox - Fight, Flight &amp; Might (USA).bin" size="25519200" crc="d595c2a8" md5="5f0889c20231c67d980d9e8bef7c4b08" sha1="2b149230118e5dbfce00d1ca7085a5cbb17eaa73"/>
 		<rom name="Software Jukebox - Fight, Flight &amp; Might (USA).cue" size="112" crc="71661dda" md5="e1a316afab9cefecb371aa96d9d668d3" sha1="3773d80cbaacfa576360fe4de6f1ca83deb14fed"/>
+	</game>
+	<game name="Software Toolworks CD Duo, The (USA)">
+		<category>Games</category>
+		<description>Software Toolworks CD Duo, The (USA)</description>
+		<rom name="Software Toolworks CD Duo, The (USA).bin" size="11640048" crc="1820bd56" md5="b92cb7d320fb00b36b0b9ff067f96d44" sha1="a07cdcbe8e81a898cb70de6ece6a21e55b0b7939"/>
+		<rom name="Software Toolworks CD Duo, The (USA).cue" size="125" crc="39876aab" md5="c731b0f33e50f817caa23c7872da1e6e" sha1="d4b1dc1b2f97b18bb637f8030b2c46935cae20f8"/>
 	</game>
 	<game name="Software Toolworks CD Game Pack II, The (USA)">
 		<category>Games</category>
@@ -157064,11 +157181,11 @@
 		<rom name="TriJinx - A Kristine Kross Mystery (USA).bin" size="367029600" crc="ad89f824" md5="94de2ebe1efdd5c40c6a9dfa96e0c7c1" sha1="fbc6316ddb0cbabca01332e1c6e63e6d039a0bdc"/>
 		<rom name="TriJinx - A Kristine Kross Mystery (USA).cue" size="106" crc="6d4d1292" md5="13837ab240af9efc85a390c5be785531" sha1="81323d25787efeaf76b0d74fad6291374763945e"/>
 	</game>
-	<game name="TriTryst (USA)">
+	<game name="TriTryst (USA) (Rev 1)">
 		<category>Games</category>
-		<description>TriTryst (USA)</description>
-		<rom name="TriTryst (USA).bin" size="86200800" crc="bcf3f9f4" md5="f402bfd70fceb11b8e3a837ea6150139" sha1="75bbea464e2c08cf2b886078fa83b486fe034bcb"/>
-		<rom name="TriTryst (USA).cue" size="103" crc="3752a942" md5="bde24b36c96cbcfb6bb946ea22dd3169" sha1="762b7afa7d5fed22fc220889d92b0c885f5dae53"/>
+		<description>TriTryst (USA) (Rev 1)</description>
+		<rom name="TriTryst (USA) (Rev 1).bin" size="70197792" crc="8d1a3dd8" md5="07a9ea81c108457d5eacad4274fba551" sha1="f18e40787b15c4d2bd8b6e823f5bac322aaf6179"/>
+		<rom name="TriTryst (USA) (Rev 1).cue" size="111" crc="ece6b2dd" md5="15db5e73650bc4d86680fb16f522ff33" sha1="39d3a23faab90bc03c38441d51c88105b9372df7"/>
 	</game>
 	<game name="Trials 2 - Second Edition (Germany) (En,Fr,De,Es,It,Sv,Fi,Pl,Ru,Sk)">
 		<category>Games</category>
@@ -173853,6 +173970,12 @@
 		<description>Zen-Ichi (Japan)</description>
 		<rom name="Zen-Ichi (Japan).bin" size="772093392" crc="0bd9ca76" md5="c8bfe2f9bce7c84df7f38da4a49e0a8c" sha1="799b0edf545fd8b1420aa50f74fc2abaaf47cf7f"/>
 		<rom name="Zen-Ichi (Japan).cue" size="82" crc="a10dd31e" md5="2ad1e2c15d6ea664ed877a8f695f3116" sha1="95b6ea86f3bf93bab0d773f805307f8fa097ab69"/>
+	</game>
+	<game name="Zen-Ichi (Japan) (Demo)">
+		<category>Demos</category>
+		<description>Zen-Ichi (Japan) (Demo)</description>
+		<rom name="Zen-Ichi (Japan) (Demo).bin" size="15283296" crc="a80c0a19" md5="02971405113d23466cdca714764d0715" sha1="823a304e8aeb6ac60ebe120fc09db5d66a91593f"/>
+		<rom name="Zen-Ichi (Japan) (Demo).cue" size="89" crc="136c25a9" md5="a83581cb46c6bedb8f0c4497e9c3ca07" sha1="ebb0583ad537b6ea7d2771ab69268b0a6e5662ed"/>
 	</game>
 	<game name="Zenerchi (Russia)">
 		<category>Games</category>

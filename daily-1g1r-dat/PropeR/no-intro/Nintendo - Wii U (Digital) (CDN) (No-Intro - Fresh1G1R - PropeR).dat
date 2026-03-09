@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Wii U (Digital) (CDN) (Retool)</name>
-		<description>Nintendo - Wii U (Digital) (CDN) (1,966) (-y) [-aAbBcdkmMpPuv] (20260306-063345) (Retool)</description>
-		<version>20260306-063345</version>
-		<date>2026-03-08 03-32-27</date>
+		<description>Nintendo - Wii U (Digital) (CDN) (1,965) (-y) [-aAbBcdkmMpPuv] (20260307-084718) (Retool)</description>
+		<version>20260307-084718</version>
+		<date>2026-03-09 03-28-47</date>
 		<author>buckwheat, C. V. Reynolds, Deterous, Hiccup, Hiccup and DarkMatterCore, Larsenv, nnssxx, norkmetnoil577, rarenight, SonGoku, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -41711,6 +41711,28 @@
 		<rom name="0000000b.h3" size="20" crc="6e57ab0b" md5="f120b911ad7e0ffcd5aeadb08bd1f82e" sha1="6127970cb5e5b9fad974fec141b2242623e30f91"/>
 		<rom name="tmd.0" size="5188" crc="332f5a0e" md5="e52820f72778169c318dbfd9b1ce9d38" sha1="77fec77e53472dc1e89f9a791ba2eb428ab18ac7"/>
 	</game>
+	<game name="Mega Man Battle Chip Challenge (Europe) (GBA) (Virtual Console)" id="2848">
+		<category>Games</category>
+		<description>Mega Man Battle Chip Challenge (Europe) (GBA) (Virtual Console)</description>
+		<game_id>000500001017a300</game_id>
+		<rom name="00000000" size="32768" crc="e9543838" md5="663b5ece88860f4daa68eaca443edc15" sha1="cd3b9d5122c5c5471bb00b459641d6b27e56ad60"/>
+		<rom name="00000001" size="32768" crc="27627bc2" md5="7a9f25b629cc235ce24b5d4c06405163" sha1="5f6882654fdffb3fd343ff32e91c27fc7c90364d"/>
+		<rom name="00000002" size="32768" crc="00f4727e" md5="c8c28e1670a35772cc3c2eb7f7afa67c" sha1="3c00fd5a07bff6abe9a1abaac7b9e8cdb95bc4cd"/>
+		<rom name="00000003" size="196608" crc="91dd4af7" md5="8ec84957ef4be984b4470b32efd7b4ca" sha1="a1de6be0622a5889452c83bc19e5ebce468ad05f"/>
+		<rom name="00000003.h3" size="20" crc="85b90166" md5="2a3e85fc91ac89bd3442bee09077dcce" sha1="8ba8d2470534a4ee6d7f64ae84213d5c59b3426c"/>
+		<rom name="00000004" size="11730944" crc="cf8790bf" md5="de2e83b62c06bf421cd4fd068ef5fa6e" sha1="5cff2ebe8941e6bd7417460a75dd1c80d9cb34c7"/>
+		<rom name="00000004.h3" size="20" crc="c4b56242" md5="baa2ad52123a5e855b5d7c1c511179f9" sha1="b7c6f85a1fea96a8665518cd6edd88c460030813"/>
+		<rom name="00000005" size="1114112" crc="a684c440" md5="b8d2225c0a746c7131cb295266df7f1e" sha1="3a97d7b31fc47121e1196c7c224cc3237514079c"/>
+		<rom name="00000005.h3" size="20" crc="8b221bb5" md5="b1eaa72bad087b1b8bc910f51d16b20e" sha1="991d0df4c3fb9a5d840ba66ed38dac19cf7aa7ac" sha256="62110662e1a0f9b2907b0917e5e0661f8735ec785cd212fa6183dfe5641b48c8"/>
+		<rom name="00000006" size="1114112" crc="d7b80ad2" md5="ca410dc897062fbc45dce73e1a781174" sha1="2aa964ecc9495041d7b4f457509817862d3d7c7b"/>
+		<rom name="00000006.h3" size="20" crc="bea00a8d" md5="240e3df6ce4ae0d86eba107c41508f10" sha1="67293594d400114942b5c25e7193106bd2e1d9ae" sha256="d66b6ebb353ba2cbd11e752057af54c34982f8bb89f0fe8187eec19918e8bad4"/>
+		<rom name="00000007" size="34144256" crc="85df9fae" md5="6d283f4260414cdafb0d69d04d7f5c4f" sha1="ba2a90d4e1f4c9a93f86845099b0e362bf5810ff"/>
+		<rom name="00000007.h3" size="20" crc="e4ee8b50" md5="6f943a637ebf71ae18ae8f0b192ff284" sha1="85131aafb74680e1002bfc1fbd425e0dc941ca71"/>
+		<rom name="00000008" size="1638400" crc="122d6a6f" md5="8863a390abc71626480a72b626306c36" sha1="159fad7c1f6e651ae63fd553b4eb1e493709d35b"/>
+		<rom name="00000009" size="50855936" crc="f6603167" md5="b700c0718f03445be1e8acb636bebab7" sha1="e001b5eac5a93dc04fcb7445461845ae1014203a"/>
+		<rom name="00000009.h3" size="20" crc="83afa13b" md5="1f699b871eb9adf684d37782d1492dec" sha1="d849788add01f776f795d67d9db968e4fb9dc867"/>
+		<rom name="tmd.0" size="5092" crc="3fad1cc8" md5="f79353dfd8df8ef5f5ab9af789d85a1f" sha1="0d5b85038e10d9e7c04e91115b34232584e95a08"/>
+	</game>
 	<game name="Mega Man Battle Network (USA) (GBA) (Virtual Console)" id="2823">
 		<category>Games</category>
 		<description>Mega Man Battle Network (USA) (GBA) (Virtual Console)</description>
@@ -42176,52 +42198,6 @@
 		<rom name="0000003b.h3" size="20" crc="cd54f1e3" md5="069e1a7baaae4210f309785b8dff8532" sha1="3057a55001de3d55ea8f7dc69c036c49804f0398"/>
 		<rom name="tmd.0" size="5716" crc="72917fcf" md5="379363a7cf563d0496e7b339a62a5d44" sha1="a05a517d7c1b0603b6e859f79925b65fc2b7d304"/>
 		<rom name="tmd.17" size="5716" crc="1e03e25a" md5="86a01dca8a7706d31f232acb96d4a571" sha1="953cb588289e5ef0ca3253addbb1c2a90bb13844"/>
-	</game>
-	<game name="Megaman &amp; Bass (Europe) (GBA) (Virtual Console)" id="2847">
-		<category>Games</category>
-		<description>Megaman &amp; Bass (Europe) (GBA) (Virtual Console)</description>
-		<game_id>000500001018e800</game_id>
-		<rom name="00000000" size="32768" crc="f856ae49" md5="e7bb80f8c63859f5c553876e28baeb44" sha1="3f8fbe0babbe1b718b5c9b1537e1330ca58f9248"/>
-		<rom name="00000001" size="32768" crc="b47d1c77" md5="f5489053c0d210497798f2bafc5e2f5b" sha1="03cebf208d6f6870f0284676d4eea4e77ef60eb6"/>
-		<rom name="00000002" size="32768" crc="ea9e9c63" md5="49c9f36a20ef8da6573c00cac9b49d03" sha1="9187243a8b585d17553697cae3334124a11e4d43"/>
-		<rom name="00000003" size="196608" crc="af9831a7" md5="65883a20bea01764af6c39466b46ba0b" sha1="8632428af4a77f1564824d1b8d72f63b12526d99"/>
-		<rom name="00000003.h3" size="20" crc="1643ba7f" md5="6a3d5650272654352d5fa9d3adb927e6" sha1="04a27eb7561626f51c90a61faeb74610a5056760"/>
-		<rom name="00000004" size="11730944" crc="f7b8da1d" md5="d34e3e241c8b07a57a30338118ea7e24" sha1="3b77536a0bc5df3e49d3a1a091d73bde92a8b61a"/>
-		<rom name="00000004.h3" size="20" crc="5233c431" md5="e6d7dd9779cf14d8c09e0270957ce9d4" sha1="5c9f28dc4b49c7e059e1901978f702c51e74c5f4"/>
-		<rom name="00000005" size="1114112" crc="a2535c91" md5="9bd5462d8215a4006f031a7298a40af9" sha1="8a583a50690b6703491b5f0c192a08ac05f4ea87"/>
-		<rom name="00000005.h3" size="20" crc="8b221bb5" md5="b1eaa72bad087b1b8bc910f51d16b20e" sha1="991d0df4c3fb9a5d840ba66ed38dac19cf7aa7ac" sha256="62110662e1a0f9b2907b0917e5e0661f8735ec785cd212fa6183dfe5641b48c8"/>
-		<rom name="00000006" size="1114112" crc="c2f65308" md5="ae690cea1e2cc1bb5581684782cb5456" sha1="3e40f403a870d26a121062c79432500799464192"/>
-		<rom name="00000006.h3" size="20" crc="bea00a8d" md5="240e3df6ce4ae0d86eba107c41508f10" sha1="67293594d400114942b5c25e7193106bd2e1d9ae" sha256="d66b6ebb353ba2cbd11e752057af54c34982f8bb89f0fe8187eec19918e8bad4"/>
-		<rom name="00000007" size="18153472" crc="c42e3c12" md5="e8a38350f4b8f381550e92c2a189aa57" sha1="1cdd768d8e4076aa3c01f79f0d7e1af7c13ee871"/>
-		<rom name="00000007.h3" size="20" crc="c24fd03e" md5="d19102089c4939f052a3675d66a1fe2d" sha1="a98bfe2ea410d16e3d59862ce4740e84031bc499"/>
-		<rom name="00000008" size="2162688" crc="c34c862e" md5="2839e12e17793c222966762fccf7c28a" sha1="41ed7ffafff5635520c956c9a69e1799ecd29ac8"/>
-		<rom name="00000008.h3" size="20" crc="3a620b66" md5="4585c1021b0d9f8db928050f35810e0c" sha1="13e826816a985387c087f91c0782a2ff287705cc" sha256="d065b8a9e0515c4f282435848faa1e6c8c0b0d70026428f2265739972d69cc83"/>
-		<rom name="00000009" size="1507328" crc="086debc0" md5="d6363c3d194598b5d22eccdc96ee3d1d" sha1="1ab8ab7b557bfb498ea5e380dc90e469bd293d82"/>
-		<rom name="0000000a" size="47185920" crc="35bbcbd9" md5="da7e631725ebe7e25e354d71e6f31189" sha1="6c21ec741acc1a52731fc2c362e9f81afdd3a3e4"/>
-		<rom name="0000000a.h3" size="20" crc="9f64f8f6" md5="522e93e12f8afd6878b71f500f8f2161" sha1="e040ae3389a8a7ef44bb2ed6241eebbf9e8a6c40"/>
-		<rom name="tmd.0" size="5140" crc="4691d727" md5="82cdf703e3259f5330602cf4bd6c727c" sha1="c5919cc6f76d4383af518c57577c752cff2e0453"/>
-	</game>
-	<game name="Megaman Battle Chip Challenge (Europe) (GBA) (Virtual Console)" id="2848">
-		<category>Games</category>
-		<description>Megaman Battle Chip Challenge (Europe) (GBA) (Virtual Console)</description>
-		<game_id>000500001017a300</game_id>
-		<rom name="00000000" size="32768" crc="e9543838" md5="663b5ece88860f4daa68eaca443edc15" sha1="cd3b9d5122c5c5471bb00b459641d6b27e56ad60"/>
-		<rom name="00000001" size="32768" crc="27627bc2" md5="7a9f25b629cc235ce24b5d4c06405163" sha1="5f6882654fdffb3fd343ff32e91c27fc7c90364d"/>
-		<rom name="00000002" size="32768" crc="00f4727e" md5="c8c28e1670a35772cc3c2eb7f7afa67c" sha1="3c00fd5a07bff6abe9a1abaac7b9e8cdb95bc4cd"/>
-		<rom name="00000003" size="196608" crc="91dd4af7" md5="8ec84957ef4be984b4470b32efd7b4ca" sha1="a1de6be0622a5889452c83bc19e5ebce468ad05f"/>
-		<rom name="00000003.h3" size="20" crc="85b90166" md5="2a3e85fc91ac89bd3442bee09077dcce" sha1="8ba8d2470534a4ee6d7f64ae84213d5c59b3426c"/>
-		<rom name="00000004" size="11730944" crc="cf8790bf" md5="de2e83b62c06bf421cd4fd068ef5fa6e" sha1="5cff2ebe8941e6bd7417460a75dd1c80d9cb34c7"/>
-		<rom name="00000004.h3" size="20" crc="c4b56242" md5="baa2ad52123a5e855b5d7c1c511179f9" sha1="b7c6f85a1fea96a8665518cd6edd88c460030813"/>
-		<rom name="00000005" size="1114112" crc="a684c440" md5="b8d2225c0a746c7131cb295266df7f1e" sha1="3a97d7b31fc47121e1196c7c224cc3237514079c"/>
-		<rom name="00000005.h3" size="20" crc="8b221bb5" md5="b1eaa72bad087b1b8bc910f51d16b20e" sha1="991d0df4c3fb9a5d840ba66ed38dac19cf7aa7ac" sha256="62110662e1a0f9b2907b0917e5e0661f8735ec785cd212fa6183dfe5641b48c8"/>
-		<rom name="00000006" size="1114112" crc="d7b80ad2" md5="ca410dc897062fbc45dce73e1a781174" sha1="2aa964ecc9495041d7b4f457509817862d3d7c7b"/>
-		<rom name="00000006.h3" size="20" crc="bea00a8d" md5="240e3df6ce4ae0d86eba107c41508f10" sha1="67293594d400114942b5c25e7193106bd2e1d9ae" sha256="d66b6ebb353ba2cbd11e752057af54c34982f8bb89f0fe8187eec19918e8bad4"/>
-		<rom name="00000007" size="34144256" crc="85df9fae" md5="6d283f4260414cdafb0d69d04d7f5c4f" sha1="ba2a90d4e1f4c9a93f86845099b0e362bf5810ff"/>
-		<rom name="00000007.h3" size="20" crc="e4ee8b50" md5="6f943a637ebf71ae18ae8f0b192ff284" sha1="85131aafb74680e1002bfc1fbd425e0dc941ca71"/>
-		<rom name="00000008" size="1638400" crc="122d6a6f" md5="8863a390abc71626480a72b626306c36" sha1="159fad7c1f6e651ae63fd553b4eb1e493709d35b"/>
-		<rom name="00000009" size="50855936" crc="f6603167" md5="b700c0718f03445be1e8acb636bebab7" sha1="e001b5eac5a93dc04fcb7445461845ae1014203a"/>
-		<rom name="00000009.h3" size="20" crc="83afa13b" md5="1f699b871eb9adf684d37782d1492dec" sha1="d849788add01f776f795d67d9db968e4fb9dc867"/>
-		<rom name="tmd.0" size="5092" crc="3fad1cc8" md5="f79353dfd8df8ef5f5ab9af789d85a1f" sha1="0d5b85038e10d9e7c04e91115b34232584e95a08"/>
 	</game>
 	<game name="Megaman Battle Network (Europe) (GBA) (Virtual Console)" id="2849">
 		<category>Games</category>
