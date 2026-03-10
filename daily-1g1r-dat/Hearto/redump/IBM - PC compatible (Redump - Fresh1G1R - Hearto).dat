@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,700) (-y) [-aAbBcefkmMoprv] (2026-03-09 04-01-12) (Retool)</description>
-		<version>2026-03-09 04-01-12</version>
-		<date>2026-03-09 03-11-27</date>
+		<description>IBM - PC compatible (24,704) (-y) [-aAbBcefkmMoprv] (2026-03-10 03-52-21) (Retool)</description>
+		<version>2026-03-10 03-52-21</version>
+		<date>2026-03-10 03-09-26</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -15396,6 +15396,12 @@
 		<description>Battle Worlds - Kronos (Europe)</description>
 		<rom name="Battle Worlds - Kronos (Europe).iso" size="2571816960" crc="78c3c798" md5="d90fe1e551537da6a5f5302e6d78bae7" sha1="302bb31e286de64787bff9bb00d7cbeffa583975"/>
 	</game>
+	<game name="Battle for Midway (USA)">
+		<category>Add-Ons</category>
+		<description>Battle for Midway (USA)</description>
+		<rom name="Battle for Midway (USA).bin" size="27530160" crc="4778bec0" md5="76cdb7729b31af1874e159704ae42264" sha1="9322a9a2dc2bd7a4212598508dc39b211de702bf"/>
+		<rom name="Battle for Midway (USA).cue" size="89" crc="93e06e56" md5="6a4077d0cc46e28cd337a5d75477c910" sha1="c8c10531816eb99319662a207f3cf43e4703792d"/>
+	</game>
 	<game name="Battle for Troy (Europe)">
 		<category>Games</category>
 		<description>Battle for Troy (Europe)</description>
@@ -17876,49 +17882,49 @@
 		<rom name="Big Red Adventure, The (Europe) (En,Fr,De,It) (Track 58).bin" size="5748288" crc="ddb004cb" md5="58a8da22694ab18bcd3e19b63c0c153d" sha1="d3a664657206566af35e508eb2e66756cead2bf0"/>
 		<rom name="Big Red Adventure, The (Europe) (En,Fr,De,It).cue" size="6837" crc="9ab73c49" md5="0b227725415fa381f66b584032b3e45e" sha1="d37708ce359f02689c24d3e40837b2df3e5f6cb8"/>
 	</game>
-	<game name="Big Red Racing (USA)">
+	<game name="Big Red Racing (USA) (En,Fr,De)">
 		<category>Games</category>
-		<description>Big Red Racing (USA)</description>
-		<rom name="Big Red Racing (USA) (Track 01).bin" size="83241984" crc="5cbf70fe" md5="ee8e71eed2f85fe4c66c6cb7c0a35af6" sha1="04f997a39ee764fe0bb0d5506a4ac1b071fe7a3e"/>
-		<rom name="Big Red Racing (USA) (Track 02).bin" size="39732336" crc="83205d86" md5="fbea12d34eab8e347b5a53333d44bd87" sha1="cc965f266ad90ae1ee8c4b3433f7042c9a62bdcc"/>
-		<rom name="Big Red Racing (USA) (Track 03).bin" size="37044000" crc="107cd216" md5="c8c1e568f79998b03685fd62c1f1da28" sha1="2bbf2fe08e0b83e85a4c97837402783e3a02710e"/>
-		<rom name="Big Red Racing (USA) (Track 04).bin" size="25930800" crc="a51a95cc" md5="d41a08a7f04071933e65367ae065557a" sha1="96814316fead61e430f11ed9313196891ee7bad5"/>
-		<rom name="Big Red Racing (USA) (Track 05).bin" size="23049600" crc="ddcebf08" md5="cbbf1c046586f247d4d0c026f8872ea5" sha1="bbf7b77ed61da9657d39a348d50cc5aa7ac5b25e"/>
-		<rom name="Big Red Racing (USA) (Track 06).bin" size="25422768" crc="32fdb7af" md5="014c8dcea65dd0dbdf86101314914c10" sha1="45e680c0bc4b5e9a2bcc304e01516f21298cd2a4"/>
-		<rom name="Big Red Racing (USA) (Track 07).bin" size="25323984" crc="209da271" md5="24b477cf04b4c266c22bb389e888e094" sha1="1e9e77463c2b30da22e81743c398528a16978ce2"/>
-		<rom name="Big Red Racing (USA) (Track 08).bin" size="26895120" crc="dd4d6e27" md5="b608167b57a9e35bf81818089187273b" sha1="5d92177a8dbf6e10cd416360bb49d4c34722986e"/>
-		<rom name="Big Red Racing (USA) (Track 09).bin" size="28515648" crc="f261f11e" md5="fdae67776ee0c1d3fdb050523bf3cd3c" sha1="4a6b479b10d03481684058faefac1b2e98f872c2"/>
-		<rom name="Big Red Racing (USA) (Track 10).bin" size="25848480" crc="2c641996" md5="df783591d4ac69db17e4bfb981617d6c" sha1="19958e85d47cd0f3c19fcbd35a319f97408c0aba"/>
-		<rom name="Big Red Racing (USA) (Track 11).bin" size="24587808" crc="b355444d" md5="256aa3875573a3623ee0d868b47ad493" sha1="98e3746aa43546704d1943a4db32652c1384dc8d"/>
-		<rom name="Big Red Racing (USA) (Track 12).bin" size="5844720" crc="a2932ed0" md5="448b050c05f9aa083068a57bbbec18e8" sha1="067a57cac32db2ae41a428c1370bfc312e5d9781"/>
-		<rom name="Big Red Racing (USA) (Track 13).bin" size="2076816" crc="6caf7b05" md5="11b8a52b72064bbedced081b4a561bf8" sha1="9190ae185f3d412cdfa615d0a2910ba3746aa0b9"/>
-		<rom name="Big Red Racing (USA) (Track 14).bin" size="3462144" crc="91c454eb" md5="120f681121a5de189c69adaf53e37818" sha1="80f2505dc68e76f24b05fdf16f4ceec356013b79"/>
-		<rom name="Big Red Racing (USA) (Track 15).bin" size="3154032" crc="69a49746" md5="378a25ccf2a7b47d0474051dc128d6df" sha1="28c08b10d17b1d87cb4a9e9f1067bb273f8d63ea"/>
-		<rom name="Big Red Racing (USA) (Track 16).bin" size="4386480" crc="66e3a056" md5="e54aefb5517fa65fdb9555034f494189" sha1="0f82e3fa94f4e7b7e921b47b0f7ba652ca56da43"/>
-		<rom name="Big Red Racing (USA) (Track 17).bin" size="2530752" crc="cf6f8d3e" md5="a25379adb42eddc295eb079ab11f8aad" sha1="f0eee9d043f62706efa60e5b7ba45598371d06b3"/>
-		<rom name="Big Red Racing (USA) (Track 18).bin" size="2897664" crc="80a5d1d4" md5="c88a017380d71efbbf4c30ec93e15598" sha1="7740b003996910f9d80dcd43d65a608cca3fd3e1"/>
-		<rom name="Big Red Racing (USA) (Track 19).bin" size="2476656" crc="d3b27a7e" md5="43cbd49a6ed774a91b982c178801c6c2" sha1="8f479ffd022f9f503751ce39183253d8d0037d94"/>
-		<rom name="Big Red Racing (USA) (Track 20).bin" size="2420208" crc="d60ac668" md5="55dd975df90bacaedfa6e0d63a35461a" sha1="bc47590f24e51239732e0264a2d0c939db6d2d9a"/>
-		<rom name="Big Red Racing (USA) (Track 21).bin" size="2288496" crc="1dae8956" md5="118acd96454e14f31a584792d97e1cb7" sha1="ae9f8a9efdc5cabfa22a2062ddf671463d6bbc2d"/>
-		<rom name="Big Red Racing (USA) (Track 22).bin" size="3231648" crc="be26e8ba" md5="37e3237647f30c7db02c02f983ab5c50" sha1="ba3efec9f05f6f2a9f8dddf302e65653b6944138"/>
-		<rom name="Big Red Racing (USA) (Track 23).bin" size="2624832" crc="15697c0c" md5="e4db809796a3e967a335ec689ca1ea0b" sha1="3e56c32f55eaa9cde883356a617106f954e07c61"/>
-		<rom name="Big Red Racing (USA) (Track 24).bin" size="3356304" crc="36fc768f" md5="e0466ad4da69e526d7766a86f98c7b65" sha1="280dd051a7999f0fa704e2b4f710fc706ef6eed8"/>
-		<rom name="Big Red Racing (USA) (Track 25).bin" size="3737328" crc="f88d09cf" md5="f2de6e80add9b64e54defe2a1f67999c" sha1="99df4c3157d060d81aed88de458399c8e3ad1ddc"/>
-		<rom name="Big Red Racing (USA) (Track 26).bin" size="3017616" crc="df6717c5" md5="52b2005f29d6b832413ebb136acbbf45" sha1="58d5570d2add84f04c24490871c56e19d032d5ba"/>
-		<rom name="Big Red Racing (USA) (Track 27).bin" size="3713808" crc="586fed7f" md5="457ad16791c1db2ef7626e73eb873ea8" sha1="a73445ca57202f786cccc70d2696eba38cde9c6f"/>
-		<rom name="Big Red Racing (USA) (Track 28).bin" size="3001152" crc="4c38e4f2" md5="17d5f22e4a2b138bf67476a243038efe" sha1="2c769cde60c0b987b7fdfedfc57a7cb19c2c4e49"/>
-		<rom name="Big Red Racing (USA) (Track 29).bin" size="4793376" crc="c3b11aa2" md5="75978fca1ef6cbd07116a778ed8a6a68" sha1="f7337bdcaf28d8f0b528b21fe60f03bd7a226aa6"/>
-		<rom name="Big Red Racing (USA) (Track 30).bin" size="28221648" crc="8d1aa34e" md5="9210fb7c026d023a56fd6b8448228909" sha1="3b9a0751542c436bc29df7d03275aa7483365b19"/>
-		<rom name="Big Red Racing (USA) (Track 31).bin" size="85125936" crc="bff90e75" md5="2edc1ce3e24076e6b4aecef366232175" sha1="7f6621c0f5e8da773b4c9f420deaced1cb57b6f1"/>
-		<rom name="Big Red Racing (USA) (Track 32).bin" size="55523664" crc="7ee0b475" md5="82fb1bf2d50beade17ba10b53c5b9fc2" sha1="42a4801630c6f33e1e0b142004dd018fc2d7dee1"/>
-		<rom name="Big Red Racing (USA) (Track 33).bin" size="4045440" crc="66f3c516" md5="f0265c20e073992fd6a8c87b020d60b7" sha1="1c44d70547e0522e0407b8720584c651f1d71c42"/>
-		<rom name="Big Red Racing (USA) (Track 34).bin" size="3010560" crc="5a16a8c2" md5="9d9a7c8b15f831d3aa4fab6d272bdaed" sha1="4927e9feb6e2607432c2a54c8ea805e96898b7f1"/>
-		<rom name="Big Red Racing (USA) (Track 35).bin" size="5150880" crc="1eaff1e1" md5="e23c2343b5a0a4910cc4f55716866b29" sha1="3aa09fa810e8adb1aed89a45a94e1ed4f50b6550"/>
-		<rom name="Big Red Racing (USA) (Track 36).bin" size="4226544" crc="190f18c5" md5="88384e13eace74f7589e692f56666807" sha1="e1ece56ac2b370bcea68ad59acd4f7289c23a086"/>
-		<rom name="Big Red Racing (USA) (Track 37).bin" size="3706752" crc="382ed10d" md5="cc0bfa18d35548f1a76f0677a2c7ef4c" sha1="200c36c3302bf2627a3f774994cee36552b2dd83"/>
-		<rom name="Big Red Racing (USA) (Track 38).bin" size="4974480" crc="d3f78c16" md5="76cae12eed1e9f775555de90f615cfac" sha1="4afbf61c7446477ccb7ae91a71f4386035bb386e"/>
-		<rom name="Big Red Racing (USA) (Track 39).bin" size="2072112" crc="f5b189fc" md5="ec59e825073f09562a6a8ce1f5f5671e" sha1="33fd70f7d60a1bd173daf155846cae6f49ea81b3"/>
-		<rom name="Big Red Racing (USA).cue" size="4467" crc="64584e11" md5="deb1801336f1ce8beeabb0ab3dd57751" sha1="2dd51b011aec120948962e60d303ef33c723d585"/>
+		<description>Big Red Racing (USA) (En,Fr,De)</description>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 01).bin" size="83241984" crc="5cbf70fe" md5="ee8e71eed2f85fe4c66c6cb7c0a35af6" sha1="04f997a39ee764fe0bb0d5506a4ac1b071fe7a3e"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 02).bin" size="39732336" crc="83205d86" md5="fbea12d34eab8e347b5a53333d44bd87" sha1="cc965f266ad90ae1ee8c4b3433f7042c9a62bdcc"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 03).bin" size="37044000" crc="107cd216" md5="c8c1e568f79998b03685fd62c1f1da28" sha1="2bbf2fe08e0b83e85a4c97837402783e3a02710e"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 04).bin" size="25930800" crc="a51a95cc" md5="d41a08a7f04071933e65367ae065557a" sha1="96814316fead61e430f11ed9313196891ee7bad5"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 05).bin" size="23049600" crc="ddcebf08" md5="cbbf1c046586f247d4d0c026f8872ea5" sha1="bbf7b77ed61da9657d39a348d50cc5aa7ac5b25e"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 06).bin" size="25422768" crc="32fdb7af" md5="014c8dcea65dd0dbdf86101314914c10" sha1="45e680c0bc4b5e9a2bcc304e01516f21298cd2a4"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 07).bin" size="25323984" crc="209da271" md5="24b477cf04b4c266c22bb389e888e094" sha1="1e9e77463c2b30da22e81743c398528a16978ce2"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 08).bin" size="26895120" crc="dd4d6e27" md5="b608167b57a9e35bf81818089187273b" sha1="5d92177a8dbf6e10cd416360bb49d4c34722986e"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 09).bin" size="28515648" crc="f261f11e" md5="fdae67776ee0c1d3fdb050523bf3cd3c" sha1="4a6b479b10d03481684058faefac1b2e98f872c2"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 10).bin" size="25848480" crc="2c641996" md5="df783591d4ac69db17e4bfb981617d6c" sha1="19958e85d47cd0f3c19fcbd35a319f97408c0aba"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 11).bin" size="24587808" crc="b355444d" md5="256aa3875573a3623ee0d868b47ad493" sha1="98e3746aa43546704d1943a4db32652c1384dc8d"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 12).bin" size="5844720" crc="a2932ed0" md5="448b050c05f9aa083068a57bbbec18e8" sha1="067a57cac32db2ae41a428c1370bfc312e5d9781"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 13).bin" size="2076816" crc="6caf7b05" md5="11b8a52b72064bbedced081b4a561bf8" sha1="9190ae185f3d412cdfa615d0a2910ba3746aa0b9"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 14).bin" size="3462144" crc="91c454eb" md5="120f681121a5de189c69adaf53e37818" sha1="80f2505dc68e76f24b05fdf16f4ceec356013b79"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 15).bin" size="3154032" crc="69a49746" md5="378a25ccf2a7b47d0474051dc128d6df" sha1="28c08b10d17b1d87cb4a9e9f1067bb273f8d63ea"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 16).bin" size="4386480" crc="66e3a056" md5="e54aefb5517fa65fdb9555034f494189" sha1="0f82e3fa94f4e7b7e921b47b0f7ba652ca56da43"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 17).bin" size="2530752" crc="cf6f8d3e" md5="a25379adb42eddc295eb079ab11f8aad" sha1="f0eee9d043f62706efa60e5b7ba45598371d06b3"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 18).bin" size="2897664" crc="80a5d1d4" md5="c88a017380d71efbbf4c30ec93e15598" sha1="7740b003996910f9d80dcd43d65a608cca3fd3e1"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 19).bin" size="2476656" crc="d3b27a7e" md5="43cbd49a6ed774a91b982c178801c6c2" sha1="8f479ffd022f9f503751ce39183253d8d0037d94"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 20).bin" size="2420208" crc="d60ac668" md5="55dd975df90bacaedfa6e0d63a35461a" sha1="bc47590f24e51239732e0264a2d0c939db6d2d9a"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 21).bin" size="2288496" crc="1dae8956" md5="118acd96454e14f31a584792d97e1cb7" sha1="ae9f8a9efdc5cabfa22a2062ddf671463d6bbc2d"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 22).bin" size="3231648" crc="be26e8ba" md5="37e3237647f30c7db02c02f983ab5c50" sha1="ba3efec9f05f6f2a9f8dddf302e65653b6944138"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 23).bin" size="2624832" crc="15697c0c" md5="e4db809796a3e967a335ec689ca1ea0b" sha1="3e56c32f55eaa9cde883356a617106f954e07c61"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 24).bin" size="3356304" crc="36fc768f" md5="e0466ad4da69e526d7766a86f98c7b65" sha1="280dd051a7999f0fa704e2b4f710fc706ef6eed8"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 25).bin" size="3737328" crc="f88d09cf" md5="f2de6e80add9b64e54defe2a1f67999c" sha1="99df4c3157d060d81aed88de458399c8e3ad1ddc"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 26).bin" size="3017616" crc="df6717c5" md5="52b2005f29d6b832413ebb136acbbf45" sha1="58d5570d2add84f04c24490871c56e19d032d5ba"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 27).bin" size="3713808" crc="586fed7f" md5="457ad16791c1db2ef7626e73eb873ea8" sha1="a73445ca57202f786cccc70d2696eba38cde9c6f"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 28).bin" size="3001152" crc="4c38e4f2" md5="17d5f22e4a2b138bf67476a243038efe" sha1="2c769cde60c0b987b7fdfedfc57a7cb19c2c4e49"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 29).bin" size="4793376" crc="c3b11aa2" md5="75978fca1ef6cbd07116a778ed8a6a68" sha1="f7337bdcaf28d8f0b528b21fe60f03bd7a226aa6"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 30).bin" size="28221648" crc="8d1aa34e" md5="9210fb7c026d023a56fd6b8448228909" sha1="3b9a0751542c436bc29df7d03275aa7483365b19"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 31).bin" size="85125936" crc="bff90e75" md5="2edc1ce3e24076e6b4aecef366232175" sha1="7f6621c0f5e8da773b4c9f420deaced1cb57b6f1"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 32).bin" size="55523664" crc="7ee0b475" md5="82fb1bf2d50beade17ba10b53c5b9fc2" sha1="42a4801630c6f33e1e0b142004dd018fc2d7dee1"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 33).bin" size="4045440" crc="66f3c516" md5="f0265c20e073992fd6a8c87b020d60b7" sha1="1c44d70547e0522e0407b8720584c651f1d71c42"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 34).bin" size="3010560" crc="5a16a8c2" md5="9d9a7c8b15f831d3aa4fab6d272bdaed" sha1="4927e9feb6e2607432c2a54c8ea805e96898b7f1"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 35).bin" size="5150880" crc="1eaff1e1" md5="e23c2343b5a0a4910cc4f55716866b29" sha1="3aa09fa810e8adb1aed89a45a94e1ed4f50b6550"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 36).bin" size="4226544" crc="190f18c5" md5="88384e13eace74f7589e692f56666807" sha1="e1ece56ac2b370bcea68ad59acd4f7289c23a086"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 37).bin" size="3706752" crc="382ed10d" md5="cc0bfa18d35548f1a76f0677a2c7ef4c" sha1="200c36c3302bf2627a3f774994cee36552b2dd83"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 38).bin" size="4974480" crc="d3f78c16" md5="76cae12eed1e9f775555de90f615cfac" sha1="4afbf61c7446477ccb7ae91a71f4386035bb386e"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De) (Track 39).bin" size="2072112" crc="f5b189fc" md5="ec59e825073f09562a6a8ce1f5f5671e" sha1="33fd70f7d60a1bd173daf155846cae6f49ea81b3"/>
+		<rom name="Big Red Racing (USA) (En,Fr,De).cue" size="4896" crc="a031d166" md5="1dd082441109db06e31ffc14fccdb163" sha1="a3fc7fd02648bc41e74d2cd83395f2b6c9262abe"/>
 	</game>
 	<game name="Big Rig Racing (USA)">
 		<category>Games</category>
@@ -24202,6 +24208,12 @@
 		<rom name="Casper - Brainy Book (Denmark).bin" size="533838144" crc="0c2b5894" md5="88fc725fd15428578c644c3a7c147754" sha1="a9a3120adbfd47585b5d710e2c9a48305847f60d"/>
 		<rom name="Casper - Brainy Book (Denmark).cue" size="119" crc="8f2b9184" md5="f07d2e4c8f590ec521e929e13d24d515" sha1="3933903870123ce4d93554edd00557f80deb5374"/>
 	</game>
+	<game name="Casper - Expresso do Conhecimento (Portugal)">
+		<category>Games</category>
+		<description>Casper - Expresso do Conhecimento (Portugal)</description>
+		<rom name="Casper - Expresso do Conhecimento (Portugal).bin" size="216463968" crc="1bff8db4" md5="fc36baca739debf003b310b6f4025c6d" sha1="c2f53e921f283fb5589a099e7f17d242019dffb1"/>
+		<rom name="Casper - Expresso do Conhecimento (Portugal).cue" size="110" crc="96a205f7" md5="5e1efeb276da68147a5dd6bdfe359d78" sha1="395742c7724be8373abb21d3fa139ebe2d41d1d9"/>
+	</game>
 	<game name="Casper - Il Vicolo Spaventoso (Italy)">
 		<category>Games</category>
 		<description>Casper - Il Vicolo Spaventoso (Italy)</description>
@@ -24213,6 +24225,12 @@
 		<description>Casper - La Foresta Incantata (Italy)</description>
 		<rom name="Casper - La Foresta Incantata (Italy).bin" size="141936144" crc="4534ee47" md5="09993f1da2ed71437dada375f55d49da" sha1="2f7a656165045645fc11a834e12fb838e8f56e1e"/>
 		<rom name="Casper - La Foresta Incantata (Italy).cue" size="103" crc="89b72a2e" md5="9bd92388a9d7a71b237ed0b25bef1a69" sha1="a1179b78059b4cc526c5fd5dd548f232ae63d271"/>
+	</game>
+	<game name="Casper - O Beco Encantado (Portugal)">
+		<category>Games</category>
+		<description>Casper - O Beco Encantado (Portugal)</description>
+		<rom name="Casper - O Beco Encantado (Portugal).bin" size="227937024" crc="fae0983e" md5="9b169918e1c10e3394a8d1ba75b967e9" sha1="400ecb6f3e8ebdd84e111f615965b16b094e291c"/>
+		<rom name="Casper - O Beco Encantado (Portugal).cue" size="102" crc="d55bcbe9" md5="83c0c33cb6de3afec760a6aedaa69847" sha1="2c5d28e7fa9f4160e6708b59f26a589513959a32"/>
 	</game>
 	<game name="Castelo Virtual (Portugal)">
 		<category>Games</category>
@@ -28527,17 +28545,17 @@
 		<rom name="Command &amp; Conquer - Red Alert (Europe) (Disc 2).bin" size="722663760" crc="987cf14c" md5="7c592b0a21c08047ba919fda3f3c9a4d" sha1="d7e3b68470a1dc79f04ea03315842725f80f1442"/>
 		<rom name="Command &amp; Conquer - Red Alert (Europe) (Disc 2).cue" size="136" crc="ae585c3f" md5="6231088484a9fe9135b991e5fe6039bf" sha1="cf4797dece93c7f465d494342a8f1491ade02581"/>
 	</game>
-	<game name="Command &amp; Conquer - Red Alert (USA) (Allied Disc)">
+	<game name="Command &amp; Conquer - Red Alert (USA, Korea) (Allied Disc)">
 		<category>Games</category>
-		<description>Command &amp; Conquer - Red Alert (USA) (Allied Disc)</description>
-		<rom name="Command &amp; Conquer - Red Alert (USA) (Allied Disc).bin" size="669637920" crc="1a680c28" md5="2af129182c26290e387a794e3a1173a8" sha1="3d53cbb2138267bfcfa3470853373a487346c485"/>
-		<rom name="Command &amp; Conquer - Red Alert (USA) (Allied Disc).cue" size="115" crc="53615e5d" md5="8408a0d11b0a190e20a6ac20ff5412f0" sha1="3f31a0f0978416ab3151efbe179dea7a7d231208"/>
+		<description>Command &amp; Conquer - Red Alert (USA, Korea) (Allied Disc)</description>
+		<rom name="Command &amp; Conquer - Red Alert (USA, Korea) (Allied Disc).bin" size="669637920" crc="1a680c28" md5="2af129182c26290e387a794e3a1173a8" sha1="3d53cbb2138267bfcfa3470853373a487346c485"/>
+		<rom name="Command &amp; Conquer - Red Alert (USA, Korea) (Allied Disc).cue" size="122" crc="f546dbea" md5="00f2d27b52807d4e8aac69331e77e2b4" sha1="9e8e01ba836622f98bfd7e1eb294c1e2d5249985"/>
 	</game>
-	<game name="Command &amp; Conquer - Red Alert (USA) (Soviet Disc)">
+	<game name="Command &amp; Conquer - Red Alert (USA, Korea) (Soviet Disc)">
 		<category>Games</category>
-		<description>Command &amp; Conquer - Red Alert (USA) (Soviet Disc)</description>
-		<rom name="Command &amp; Conquer - Red Alert (USA) (Soviet Disc).bin" size="722433264" crc="fc6c814b" md5="ec117b746f7685d6f0b2ee71f15fdb06" sha1="f5142683549008add1ff66340153d2f114d0b5e7"/>
-		<rom name="Command &amp; Conquer - Red Alert (USA) (Soviet Disc).cue" size="115" crc="ba5fc074" md5="b53d18107d7e740c4ff1e4ab42ce3e04" sha1="516b5dcafd0feeb1fa9cba38e11baeb90bb90a2a"/>
+		<description>Command &amp; Conquer - Red Alert (USA, Korea) (Soviet Disc)</description>
+		<rom name="Command &amp; Conquer - Red Alert (USA, Korea) (Soviet Disc).bin" size="722433264" crc="fc6c814b" md5="ec117b746f7685d6f0b2ee71f15fdb06" sha1="f5142683549008add1ff66340153d2f114d0b5e7"/>
+		<rom name="Command &amp; Conquer - Red Alert (USA, Korea) (Soviet Disc).cue" size="122" crc="1c7845c3" md5="37c4b5aa77210fee92b6ab75768d0d15" sha1="763796f9be3e4f1a3df8f4eb9f02e00be49b41ed"/>
 	</game>
 	<game name="Command &amp; Conquer - Red Alert - Counterstrike (USA)">
 		<category>Add-Ons</category>
@@ -50469,10 +50487,10 @@
 		<rom name="Fallout - A Post Nuclear Role Playing Game (Germany).bin" size="657078240" crc="3d30878e" md5="6802c6feef7a330b935dcd26d0097703" sha1="e3f3f64bd9bc9aa8ab66654c09fd4eaa8b80fbc8"/>
 		<rom name="Fallout - A Post Nuclear Role Playing Game (Germany).cue" size="118" crc="e9fecb9c" md5="4ed0fa830405d71a6a6df458c8ecee17" sha1="fc507d9e628b7c3bf6985d4c2b4efe32dafe4650"/>
 	</game>
-	<game name="Fallout - New Vegas (USA)">
+	<game name="Fallout - New Vegas (USA, Canada)">
 		<category>Games</category>
-		<description>Fallout - New Vegas (USA)</description>
-		<rom name="Fallout - New Vegas (USA).iso" size="6738903040" crc="42fa96c6" md5="d1e9ac91273d1b6339cfd49779b9697d" sha1="f603dfc0343ea4257d04946e1cac8c06dfe8707d"/>
+		<description>Fallout - New Vegas (USA, Canada)</description>
+		<rom name="Fallout - New Vegas (USA, Canada).iso" size="6738903040" crc="42fa96c6" md5="d1e9ac91273d1b6339cfd49779b9697d" sha1="f603dfc0343ea4257d04946e1cac8c06dfe8707d"/>
 	</game>
 	<game name="Fallout - New Vegas - Ultimate Edition (Russia) (Disc 1)">
 		<category>Games</category>
@@ -109311,6 +109329,12 @@
 		<category>Games</category>
 		<description>Pacific Storm - Allies (Japan)</description>
 		<rom name="Pacific Storm - Allies (Japan).iso" size="1118132224" crc="ac7c3234" md5="74a19c4f79c94965a50e1ad19e75a1fd" sha1="13ca50ee8b29d6ae8c94f5bd4fb0cab09e98aeca"/>
+	</game>
+	<game name="Pacific Theatre (USA)">
+		<category>Add-Ons</category>
+		<description>Pacific Theatre (USA)</description>
+		<rom name="Pacific Theatre (USA).bin" size="38857392" crc="1a31a4d8" md5="23cc4a168f8b1f30080f8841dcf8f53d" sha1="fa41c3d98fc10b0fee3ec81225e729dc9db7322c"/>
+		<rom name="Pacific Theatre (USA).cue" size="87" crc="f292599b" md5="4add0a8113769f76acf0247b9c493966" sha1="ac20b4b8a346bd7b637a82f046532798a12ab4e0"/>
 	</game>
 	<game name="Pacific Warriors - Air Combat Action (Germany) (En,Fr,De,Es,It,Nl)">
 		<category>Games</category>
