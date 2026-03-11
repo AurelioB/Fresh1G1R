@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (12,915) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-10 03-52-21) (Retool)</description>
-		<version>2026-03-10 03-52-21</version>
-		<date>2026-03-10 03-15-47</date>
+		<description>IBM - PC compatible (12,921) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-11 01-50-13) (Retool)</description>
+		<version>2026-03-11 01-50-13</version>
+		<date>2026-03-11 03-12-15</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -27759,6 +27759,11 @@
 		<rom name="Fantasy Vol. 2 Multidisc (Europe).bin" size="759312624" crc="e236cb89" md5="dc94bf5b69c643088f6eae795a12f228" sha1="b10db10c1dc3f0c3f7dc634f6f84e559e575affc"/>
 		<rom name="Fantasy Vol. 2 Multidisc (Europe).cue" size="99" crc="f07f5897" md5="aac64a865f1bbc3323261bafb05d1177" sha1="37e643845e1ffdea4ce57c2e9c92f1c1942a95b8"/>
 	</game>
+	<game name="Fantasy Wars (Australia)">
+		<category>Games</category>
+		<description>Fantasy Wars (Australia)</description>
+		<rom name="Fantasy Wars (Australia).iso" size="1371832320" crc="fdaaccd3" md5="1dd330a4f1f524bd8852d2f29b4f6f9c" sha1="43f6b876186833a36ac6eea24a77296d010e380a"/>
+	</game>
 	<game name="Far Cry (USA) (Disc 1) (OEM)">
 		<category>Games</category>
 		<description>Far Cry (USA) (Disc 1) (OEM)</description>
@@ -28299,6 +28304,11 @@
 		<description>Fetish Fighters (Europe)</description>
 		<rom name="Fetish Fighters (Europe).bin" size="469518000" crc="8dd5ef7e" md5="29fbae70d774d6b5876170377f46e991" sha1="8ece24fa3ec8696577b884f4e3f594840aef55c5"/>
 		<rom name="Fetish Fighters (Europe).cue" size="90" crc="121f1ba4" md5="3e1e202634b72997fd4a660eb2283a38" sha1="3bc5267b14aa76b64fbcabae8375b4863843df41"/>
+	</game>
+	<game name="Feudalism (Australia)">
+		<category>Games</category>
+		<description>Feudalism (Australia)</description>
+		<rom name="Feudalism (Australia).iso" size="1338408960" crc="d192264f" md5="3830a6f6e08e2aa17000e72eaf8d5092" sha1="dbdfe28b305719fde6562421b08e3c1e58cecf62"/>
 	</game>
 	<game name="Fiction Fixers - The Curse of Oz (USA)">
 		<category>Games</category>
@@ -32373,6 +32383,18 @@
 		<description>Golf Manager - Gold Edition (USA)</description>
 		<rom name="Golf Manager - Gold Edition (USA).bin" size="13194720" crc="7bf96fc6" md5="1a821522d92522c3659e256da58eb5c0" sha1="72b2c78fd03be03e2a50d0e7d71876c6a0dc9119"/>
 		<rom name="Golf Manager - Gold Edition (USA).cue" size="99" crc="67ddb065" md5="4963be5d8994cd270d0b43bb71165dac" sha1="892ab1a0a44f7ad7b5455fe2ba2a7da8aa089cfd"/>
+	</game>
+	<game name="Golf Pro 2, The (UK) (Disc 1) (Installation Disk)">
+		<category>Games</category>
+		<description>Golf Pro 2, The (UK) (Disc 1) (Installation Disk)</description>
+		<rom name="Golf Pro 2, The (UK) (Disc 1) (Installation Disk).bin" size="839137152" crc="e473a466" md5="906e09b9087d09aad87d86cd4d83a708" sha1="519969c3fb606c63f6a1f150031c78ae160d3409"/>
+		<rom name="Golf Pro 2, The (UK) (Disc 1) (Installation Disk).cue" size="115" crc="44520340" md5="b09090646e96354303288abb287df86a" sha1="9859bc26ab27a07125b07948e24af965ebc7beb5"/>
+	</game>
+	<game name="Golf Pro 2, The (UK) (Disc 2)">
+		<category>Games</category>
+		<description>Golf Pro 2, The (UK) (Disc 2)</description>
+		<rom name="Golf Pro 2, The (UK) (Disc 2).bin" size="819006384" crc="63e5cf24" md5="cf273f417f1d0adfe537cb9839ce3756" sha1="18b078d8cb178bac60114e4c3782c88b4caba137"/>
+		<rom name="Golf Pro 2, The (UK) (Disc 2).cue" size="95" crc="91429100" md5="5bd8b513534abb53b87eb5f522906c43" sha1="61087c700731dbe659f8d7ad9f68b4b0bed5550a"/>
 	</game>
 	<game name="Golf Pro 2000 (Japan)">
 		<category>Games</category>
@@ -44920,6 +44942,11 @@
 		<rom name="Living Books - Mercer Mayer's Just Grandma and Me (USA) (En,Fr,De,Es) (v2.0).bin" size="96881232" crc="e0521474" md5="498fe280299cb76efbe47cd9b2e01158" sha1="8506ad665188441260e87f25cc5aa5cda992d7af"/>
 		<rom name="Living Books - Mercer Mayer's Just Grandma and Me (USA) (En,Fr,De,Es) (v2.0).cue" size="165" crc="513b4668" md5="907fe816f41d5204b1849fe546ea1151" sha1="8a2937c1fd423c937039bf44dc6837aff86c0e37"/>
 	</game>
+	<game name="Living Legends - Frozen Beauty (Australia)">
+		<category>Games</category>
+		<description>Living Legends - Frozen Beauty (Australia)</description>
+		<rom name="Living Legends - Frozen Beauty (Australia).iso" size="820510720" crc="5d9b97ce" md5="d73faefde4ddee0528aed143f1b10c75" sha1="ec4eb8622fb19d27b27f65219482cff5f67d4ce5"/>
+	</game>
 	<game name="Living Legends - Ice Rose (USA) (Collector's Edition)">
 		<category>Games</category>
 		<description>Living Legends - Ice Rose (USA) (Collector's Edition)</description>
@@ -46265,25 +46292,25 @@
 		<rom name="Mad Gab (USA).bin" size="753251520" crc="a3ee1e16" md5="b55098fe85d75198f2c32eb5b3e28a11" sha1="071960cf343de42fe57d2e2a1096a5cd940f38fe"/>
 		<rom name="Mad Gab (USA).cue" size="102" crc="3e2937d3" md5="50856e78f036a4ad4290e142b60a1e76" sha1="10ed5afb077c0ae414a9472ce008bd0f3ce37e84"/>
 	</game>
-	<game name="Mad Max (Russia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 1)">
+	<game name="Mad Max (Europe, Australia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 1)">
 		<category>Games</category>
-		<description>Mad Max (Russia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 1)</description>
-		<rom name="Mad Max (Russia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 1).iso" size="8395610112" crc="f5cf4073" md5="89aed13fa6cb46ff506d1718b251c1ab" sha1="08660e3bc5c974f36ddd398f186f5e10ab5c9dcf"/>
+		<description>Mad Max (Europe, Australia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 1)</description>
+		<rom name="Mad Max (Europe, Australia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 1).iso" size="8395610112" crc="f5cf4073" md5="89aed13fa6cb46ff506d1718b251c1ab" sha1="08660e3bc5c974f36ddd398f186f5e10ab5c9dcf"/>
 	</game>
-	<game name="Mad Max (Russia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 2)">
+	<game name="Mad Max (Europe, Australia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 2)">
 		<category>Games</category>
-		<description>Mad Max (Russia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 2)</description>
-		<rom name="Mad Max (Russia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 2).iso" size="8389670912" crc="93cc600b" md5="da8127b4a52d0ea8c446c0d70c209135" sha1="a9859da28c2ef13b23f01e95cd494ed102175738"/>
+		<description>Mad Max (Europe, Australia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 2)</description>
+		<rom name="Mad Max (Europe, Australia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 2).iso" size="8389670912" crc="93cc600b" md5="da8127b4a52d0ea8c446c0d70c209135" sha1="a9859da28c2ef13b23f01e95cd494ed102175738"/>
 	</game>
-	<game name="Mad Max (Russia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 3)">
+	<game name="Mad Max (Europe, Australia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 3)">
 		<category>Games</category>
-		<description>Mad Max (Russia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 3)</description>
-		<rom name="Mad Max (Russia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 3).iso" size="8389881856" crc="3ef2ed85" md5="821807625112fd387640f13a75dc9345" sha1="4ab25332aada4f3dab403c7c3dd3ae54ac3dbeb6"/>
+		<description>Mad Max (Europe, Australia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 3)</description>
+		<rom name="Mad Max (Europe, Australia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 3).iso" size="8389881856" crc="3ef2ed85" md5="821807625112fd387640f13a75dc9345" sha1="4ab25332aada4f3dab403c7c3dd3ae54ac3dbeb6"/>
 	</game>
-	<game name="Mad Max (Russia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 4)">
+	<game name="Mad Max (Europe, Australia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 4)">
 		<category>Games</category>
-		<description>Mad Max (Russia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 4)</description>
-		<rom name="Mad Max (Russia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 4).iso" size="982474752" crc="6e98fbc9" md5="6c546b37cd527d711e365dd91faf298a" sha1="0b5b0955591cf8c8cce2f36d1f996cc1eb31f56a"/>
+		<description>Mad Max (Europe, Australia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 4)</description>
+		<rom name="Mad Max (Europe, Australia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 4).iso" size="982474752" crc="6e98fbc9" md5="6c546b37cd527d711e365dd91faf298a" sha1="0b5b0955591cf8c8cce2f36d1f996cc1eb31f56a"/>
 	</game>
 	<game name="Mad Trax (Europe)">
 		<category>Games</category>
@@ -56071,11 +56098,11 @@
 		<rom name="Norse by Norsewest - The Return of the Lost Vikings (USA) (En,Fr,De).bin" size="540696576" crc="3e80b408" md5="19c1f6dcba4f2146ce8ec654cfa48cc7" sha1="9a6a80cf6d3437399d60fc542c7e492a9e8fa748"/>
 		<rom name="Norse by Norsewest - The Return of the Lost Vikings (USA) (En,Fr,De).cue" size="134" crc="9e8e388f" md5="04fe2c0df7f8e9c0e90351762a425beb" sha1="bfb60535ecb2592e2037a0c4de703416f04d0694"/>
 	</game>
-	<game name="North &amp; South (Europe)">
+	<game name="North &amp; South (Europe) (En,Fr,De)">
 		<category>Games</category>
-		<description>North &amp; South (Europe)</description>
-		<rom name="North &amp; South (Europe).bin" size="1145424" crc="8a06761f" md5="d9738ba0bf32a342b076bb3dc8b2654b" sha1="92f672bacbaaae713b839b3244be4fc723901646"/>
-		<rom name="North &amp; South (Europe).cue" size="111" crc="c310d007" md5="6e468c4e5516cde599ea6d1b3800559b" sha1="cf8627bce191e121b997f4ebe32ea348c4cf6c83"/>
+		<description>North &amp; South (Europe) (En,Fr,De)</description>
+		<rom name="North &amp; South (Europe) (En,Fr,De).bin" size="13044192" crc="69f9fecd" md5="92bd9708e100474afd83fc0ce3718e22" sha1="5ab0a7e017d9c821d75876218f195954d60a759b"/>
+		<rom name="North &amp; South (Europe) (En,Fr,De).cue" size="122" crc="04d7e627" md5="a974ee648a9bb9d5f1739c64d6ee774b" sha1="be952fa1bcb034413f67565f5a7bc4bea73e064e"/>
 	</game>
 	<game name="North vs. South - The Great American Civil War (Europe)">
 		<category>Games</category>
@@ -58756,7 +58783,7 @@
 		<category>Games</category>
 		<description>Phantasmagoria (USA) (Disc 1) (v1.1)</description>
 		<rom name="Phantasmagoria (USA) (Disc 1) (v1.1).bin" size="709222080" crc="4c04d48d" md5="8e8f3f62809c7853c32fbf1203f4c20f" sha1="20a2465ff897378ff90b1eeb38a406c678cbb23e"/>
-		<rom name="Phantasmagoria (USA) (Disc 1) (v1.1).cue" size="102" crc="84d74f74" md5="c7e434cc4a918c2e5d65c0c8ddf7f783" sha1="ee80cb26a51bd033a27ac3bf8ae4f7b0408fb98e"/>
+		<rom name="Phantasmagoria (USA) (Disc 1) (v1.1).cue" size="125" crc="57a11c7f" md5="0080ab51b6fe2ff40964b87cc3ac11c0" sha1="7923fb3c24df843c046199fa17b3a34aa6cd702b"/>
 	</game>
 	<game name="Phantasmagoria (USA) (Disc 2)">
 		<category>Games</category>
@@ -74039,11 +74066,11 @@
 		<rom name="Spirits of Mystery - Amber Maiden (UK).bin" size="661057824" crc="5a3027cb" md5="e9d6be1ff668a99ccb35c644dff884ab" sha1="3620f04d7bb5a928fd5468a5c87855cacb7e2769"/>
 		<rom name="Spirits of Mystery - Amber Maiden (UK).cue" size="104" crc="b1c86a4f" md5="482f80678b00102de39d9afe01d6c055" sha1="21e2238b53641e6797731a84787b97c57b61b30c"/>
 	</game>
-	<game name="Spiritual Warfare (USA)">
+	<game name="Spiritual Warfare (Australia)">
 		<category>Games</category>
-		<description>Spiritual Warfare (USA)</description>
-		<rom name="Spiritual Warfare (USA).bin" size="1545264" crc="bd4514fa" md5="26a55147b18d1664a8a27ce5cbb3c14b" sha1="ac56e33d846508a31e302d1e9966e7f29004b7b9"/>
-		<rom name="Spiritual Warfare (USA).cue" size="112" crc="28846825" md5="5245adfc780369105a2a314baa6baaaa" sha1="5105c18a6178064fc94d4d2770f3cd46cade3e50"/>
+		<description>Spiritual Warfare (Australia)</description>
+		<rom name="Spiritual Warfare (Australia).bin" size="1545264" crc="bd4514fa" md5="26a55147b18d1664a8a27ce5cbb3c14b" sha1="ac56e33d846508a31e302d1e9966e7f29004b7b9"/>
+		<rom name="Spiritual Warfare (Australia).cue" size="118" crc="d7eefeb3" md5="dc5542ab4e65ab24087e3973bbc56ca7" sha1="0de36c6cdd0f1c8363b46c492abcc167b26b6ff2"/>
 	</game>
 	<game name="Spirou (Europe) (En,Fr,De,Es,It,Pt)">
 		<category>Games</category>
@@ -74061,6 +74088,11 @@
 		<category>Games</category>
 		<description>Split-Second (USA, Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Split-Second (USA, Europe) (En,Fr,De,Es,It).iso" size="7402684416" crc="d1aed531" md5="b2e7c814ddf86f3ea036c2686cb545f7" sha1="15548fabe350e1b65432400aae8c3acfb1c930d8"/>
+	</game>
+	<game name="Split-Second - Velocity (Australia)">
+		<category>Games</category>
+		<description>Split-Second - Velocity (Australia)</description>
+		<rom name="Split-Second - Velocity (Australia).iso" size="7402684416" crc="fbb36de5" md5="f534a73f6b3e595226ef605e8482fd43" sha1="e47201ba68df45a639f4f2c5aa20ef66574c4989"/>
 	</game>
 	<game name="Spooky Castle (USA)">
 		<category>Games</category>
@@ -81724,20 +81756,10 @@
 		<description>Total War - Shogun 2 - Fall of the Samurai (USA, Europe) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 3)</description>
 		<rom name="Total War - Shogun 2 - Fall of the Samurai (USA, Europe) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 3).iso" size="7292452864" crc="c9a8f350" md5="1360e432899083d5238c1ac4b35d4e41" sha1="f355de7a70eaf4f1dc4d57b7a33fb2a3e9bf1f76"/>
 	</game>
-	<game name="Total War - Shogun 2 - The Complete Edition (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 1) (Total War - Shogun 2)">
+	<game name="Total War - Shogun 2 - The Complete Edition (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 1) (Total War - Shogun 2)">
 		<category>Games</category>
-		<description>Total War - Shogun 2 - The Complete Edition (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 1) (Total War - Shogun 2)</description>
-		<rom name="Total War - Shogun 2 - The Complete Edition (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 1) (Total War - Shogun 2).iso" size="7799635968" crc="b0ec6147" md5="0aec4fc5270b8bd99891b5e81cbe65ab" sha1="8d1f37e35bc5ba4d6b22b1f1d4096fe1bdbc7c46"/>
-	</game>
-	<game name="Total War - Shogun 2 - The Complete Edition (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 2) (Total War - Shogun 2 - Rise of the Samurai)">
-		<category>Games</category>
-		<description>Total War - Shogun 2 - The Complete Edition (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 2) (Total War - Shogun 2 - Rise of the Samurai)</description>
-		<rom name="Total War - Shogun 2 - The Complete Edition (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 2) (Total War - Shogun 2 - Rise of the Samurai).iso" size="7341735936" crc="4447d162" md5="fae8f6e0b724baa9103142b14461e0d7" sha1="c0616e41e0254fdb7b7fad0c242cb1a5baeba29e"/>
-	</game>
-	<game name="Total War - Shogun 2 - The Complete Edition (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 3) (Total War - Shogun 2 - Fall of the Samurai)">
-		<category>Games</category>
-		<description>Total War - Shogun 2 - The Complete Edition (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 3) (Total War - Shogun 2 - Fall of the Samurai)</description>
-		<rom name="Total War - Shogun 2 - The Complete Edition (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 3) (Total War - Shogun 2 - Fall of the Samurai).iso" size="4801298432" crc="f1642a13" md5="db370d1c1e2a4f933681c9d338b2b3e5" sha1="fe14c9e7110d6ef6e5e795dbfbf441d0b43b61f5"/>
+		<description>Total War - Shogun 2 - The Complete Edition (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 1) (Total War - Shogun 2)</description>
+		<rom name="Total War - Shogun 2 - The Complete Edition (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 1) (Total War - Shogun 2).iso" size="7799635968" crc="b0ec6147" md5="0aec4fc5270b8bd99891b5e81cbe65ab" sha1="8d1f37e35bc5ba4d6b22b1f1d4096fe1bdbc7c46"/>
 	</game>
 	<game name="Total War - Warhammer (Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs,Tr) (Disc 1)">
 		<category>Games</category>
@@ -82457,6 +82479,11 @@
 		<description>Trine (USA) (En,Fr,Es)</description>
 		<rom name="Trine (USA) (En,Fr,Es).bin" size="823456368" crc="725eb607" md5="24283e5436d195f3f0a95b5b0956a251" sha1="32f11e4cc16bde8f00f66a60f88b889aed545f5e"/>
 		<rom name="Trine (USA) (En,Fr,Es).cue" size="88" crc="200fb345" md5="bfbfece1feb2fe0c62520f6787e56b15" sha1="db7b2ba362370141b182dc2b83c1e7388ccf8329"/>
+	</game>
+	<game name="Trine 2 (Australia)">
+		<category>Games</category>
+		<description>Trine 2 (Australia)</description>
+		<rom name="Trine 2 (Australia).iso" size="2834038784" crc="5d3595b3" md5="e94661ab7abecd05f2da77b2c8a5f207" sha1="6bdabcc126dbeb04649ce2d6146132a8490da742"/>
 	</game>
 	<game name="Triple Action Volume 2 (Europe)">
 		<category>Games</category>
@@ -88590,25 +88617,25 @@
 		<description>Wolfenstein - The New Order (USA, Europe) (En,Fr,Es,It,Pl,Ru) (Disc 4)</description>
 		<rom name="Wolfenstein - The New Order (USA, Europe) (En,Fr,Es,It,Pl,Ru) (Disc 4).iso" size="6016204800" crc="66a7b348" md5="1202d39dd5e605b39721953f54df07c1" sha1="8ac5bbc1859e870cf743a3848f870160b18735fd"/>
 	</game>
-	<game name="Wolfenstein - The Old Blood (Europe) (En,Fr,Es,It,Pl,Ru) (Disc 1)">
-		<category>Games</category>
-		<description>Wolfenstein - The Old Blood (Europe) (En,Fr,Es,It,Pl,Ru) (Disc 1)</description>
-		<rom name="Wolfenstein - The Old Blood (Europe) (En,Fr,Es,It,Pl,Ru) (Disc 1).iso" size="8343060480" crc="f5ddecde" md5="886820745a8ee8211bccf82b2f645568" sha1="61afebd8892a3564d6ab169890148b440b80f888"/>
-	</game>
-	<game name="Wolfenstein - The Old Blood (Europe) (En,Fr,Es,It,Pl,Ru) (Disc 2)">
-		<category>Games</category>
-		<description>Wolfenstein - The Old Blood (Europe) (En,Fr,Es,It,Pl,Ru) (Disc 2)</description>
-		<rom name="Wolfenstein - The Old Blood (Europe) (En,Fr,Es,It,Pl,Ru) (Disc 2).iso" size="8337031168" crc="d2d9831a" md5="603eacb4d251a631986b285ebc2c2371" sha1="a612c5086f9cfc3d1ce4f3f33d3e60db75696061"/>
-	</game>
-	<game name="Wolfenstein - The Old Blood (Europe) (En,Fr,Es,It,Pl,Ru) (Disc 3)">
-		<category>Games</category>
-		<description>Wolfenstein - The Old Blood (Europe) (En,Fr,Es,It,Pl,Ru) (Disc 3)</description>
-		<rom name="Wolfenstein - The Old Blood (Europe) (En,Fr,Es,It,Pl,Ru) (Disc 3).iso" size="8337096704" crc="d2e66ef1" md5="8c9188df7e8a1ff729f374de3e13ba32" sha1="c29290331f32b3ae3a2ce936bebe53d794d5a0ec"/>
-	</game>
 	<game name="Wolfenstein - The Old Blood (Europe) (En,Fr,Es,It,Pl,Ru) (Disc 4)">
 		<category>Games</category>
 		<description>Wolfenstein - The Old Blood (Europe) (En,Fr,Es,It,Pl,Ru) (Disc 4)</description>
 		<rom name="Wolfenstein - The Old Blood (Europe) (En,Fr,Es,It,Pl,Ru) (Disc 4).iso" size="8025669632" crc="5bd30cb6" md5="6c1e9a80a786cfdd461527c20fb45d3e" sha1="34611845228cff11057d66c3de0a3ff379b74ce0"/>
+	</game>
+	<game name="Wolfenstein - The Old Blood (Europe, Australia) (En,Fr,Es,It,Pl,Ru) (Disc 1)">
+		<category>Games</category>
+		<description>Wolfenstein - The Old Blood (Europe, Australia) (En,Fr,Es,It,Pl,Ru) (Disc 1)</description>
+		<rom name="Wolfenstein - The Old Blood (Europe, Australia) (En,Fr,Es,It,Pl,Ru) (Disc 1).iso" size="8343060480" crc="f5ddecde" md5="886820745a8ee8211bccf82b2f645568" sha1="61afebd8892a3564d6ab169890148b440b80f888"/>
+	</game>
+	<game name="Wolfenstein - The Old Blood (Europe, Australia) (En,Fr,Es,It,Pl,Ru) (Disc 2)">
+		<category>Games</category>
+		<description>Wolfenstein - The Old Blood (Europe, Australia) (En,Fr,Es,It,Pl,Ru) (Disc 2)</description>
+		<rom name="Wolfenstein - The Old Blood (Europe, Australia) (En,Fr,Es,It,Pl,Ru) (Disc 2).iso" size="8337031168" crc="d2d9831a" md5="603eacb4d251a631986b285ebc2c2371" sha1="a612c5086f9cfc3d1ce4f3f33d3e60db75696061"/>
+	</game>
+	<game name="Wolfenstein - The Old Blood (Europe, Australia) (En,Fr,Es,It,Pl,Ru) (Disc 3)">
+		<category>Games</category>
+		<description>Wolfenstein - The Old Blood (Europe, Australia) (En,Fr,Es,It,Pl,Ru) (Disc 3)</description>
+		<rom name="Wolfenstein - The Old Blood (Europe, Australia) (En,Fr,Es,It,Pl,Ru) (Disc 3).iso" size="8337096704" crc="d2e66ef1" md5="8c9188df7e8a1ff729f374de3e13ba32" sha1="c29290331f32b3ae3a2ce936bebe53d794d5a0ec"/>
 	</game>
 	<game name="Wolfenstein 3-D &amp; Blake Stone - Aliens of Gold Companion CD-ROM, The (USA)">
 		<category>Games</category>
@@ -89985,6 +90012,11 @@
 		<description>X3D's Model Trains (USA)</description>
 		<rom name="X3D's Model Trains (USA).bin" size="87407376" crc="cd69e056" md5="f048c78d697a0d6d8a9abf430c790c43" sha1="1bba3aebb175b6a3ae502466f6090318b50c2856"/>
 		<rom name="X3D's Model Trains (USA).cue" size="90" crc="9e9868b7" md5="cd8e89b44a491b980749b0debfb7ac80" sha1="4988b6eeab4e02d8096cb9711c31b0b1c9136c12"/>
+	</game>
+	<game name="XCOM - Enemy Unknown (Australia) (Disc 2)">
+		<category>Games</category>
+		<description>XCOM - Enemy Unknown (Australia) (Disc 2)</description>
+		<rom name="XCOM - Enemy Unknown (Australia) (Disc 2).iso" size="5812781056" crc="ae8861dd" md5="ea0ca2f1e54e2ab35f04df8d81c36678" sha1="df6d83f7a25fbf3f949a842f72bf7ef0127dfce3"/>
 	</game>
 	<game name="XCOM - Enemy Unknown (USA, Europe) (En,Fr) (Disc 1) (Special Edition)">
 		<category>Games</category>
