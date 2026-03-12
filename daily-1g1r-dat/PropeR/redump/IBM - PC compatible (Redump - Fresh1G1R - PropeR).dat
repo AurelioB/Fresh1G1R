@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,240) (-y) [-aAbBcdkmMpPuv] (2026-03-11 01-50-13) (Retool)</description>
-		<version>2026-03-11 01-50-13</version>
-		<date>2026-03-11 03-18-01</date>
+		<description>IBM - PC compatible (25,249) (-y) [-aAbBcdkmMpPuv] (2026-03-11 23-10-47) (Retool)</description>
+		<version>2026-03-11 23-10-47</version>
+		<date>2026-03-12 03-22-51</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -4578,6 +4578,11 @@
 		<description>Agatha Christie - Evil Under the Sun (USA) (Disc 3)</description>
 		<rom name="Agatha Christie - Evil Under the Sun (USA) (Disc 3).bin" size="79464672" crc="69570ade" md5="71d248f79190c8739acc998c7ac7220b" sha1="2e89a7dcc729ce761ec208d88a3ab14b8643032e"/>
 		<rom name="Agatha Christie - Evil Under the Sun (USA) (Disc 3).cue" size="117" crc="5b1c03b5" md5="0147ef941d257e2190013194346dc11d" sha1="430547cbf1fd44f63b39951ca15de3c6e8925074"/>
+	</game>
+	<game name="Agatha Christie - Kolekcja Tajemnic (Poland)">
+		<category>Games</category>
+		<description>Agatha Christie - Kolekcja Tajemnic (Poland)</description>
+		<rom name="Agatha Christie - Kolekcja Tajemnic (Poland).iso" size="6437240832" crc="f5b0f1df" md5="6514cae3ae9a429c91bc5cbe788c1ef5" sha1="58fa018cbd171587fa08083940ca405684e7de88"/>
 	</game>
 	<game name="Agatha Christie - Murder on the Orient Express (Netherlands)">
 		<category>Games</category>
@@ -22919,6 +22924,11 @@
 		<rom name="Call of Duty (France) (Disc 1) (Jeu de l'annee).bin" size="798640416" crc="eb491d00" md5="3fdae26fb74023891199f78cb45208f3" sha1="c87086e9743d0967a0a3025d9b79c103736d5478"/>
 		<rom name="Call of Duty (France) (Disc 1) (Jeu de l'annee).cue" size="113" crc="a6b107c5" md5="180a7dce9c5d06b5ad63b4b5e8056546" sha1="381387806c75b5859823bb9a94c56fea03c8252b"/>
 	</game>
+	<game name="Call of Duty (Japan) (Rerelease) (DVD-ROM)">
+		<category>Games</category>
+		<description>Call of Duty (Japan) (Rerelease) (DVD-ROM)</description>
+		<rom name="Call of Duty (Japan) (Rerelease) (DVD-ROM).iso" size="1354203136" crc="5754ff1d" md5="a8be80ba6cb9dc0ba4bcb506b420725d" sha1="c65fb5444da34821368f4c54ca2cccbf36c8ea71"/>
+	</game>
 	<game name="Call of Duty (USA) (Disc 1)">
 		<category>Games</category>
 		<description>Call of Duty (USA) (Disc 1)</description>
@@ -24967,6 +24977,11 @@
 		<description>Cezar IV (Poland) (Disc 2)</description>
 		<rom name="Cezar IV (Poland) (Disc 2).bin" size="614850432" crc="d23e9124" md5="e07c0e4bc1a6952d7f6516cd4a1900ba" sha1="b9c9afcccdd2977d85df94724defd6fb0ead64cf"/>
 		<rom name="Cezar IV (Poland) (Disc 2).cue" size="92" crc="66e3974c" md5="0e0a703bc84914635648a704f28a324b" sha1="f25ed6a264f3850084892b7491a98b5ce51f1425"/>
+	</game>
+	<game name="Cezar IV (Poland) (Rerelease)">
+		<category>Games</category>
+		<description>Cezar IV (Poland) (Rerelease)</description>
+		<rom name="Cezar IV (Poland) (Rerelease).iso" size="1179484160" crc="9e1479fc" md5="3de1f3c1212092be6bbab2667f30974d" sha1="9b2e55b709a5560962c93c1b69b33d2e6907c74a"/>
 	</game>
 	<game name="Chain (Russia)">
 		<category>Games</category>
@@ -29475,6 +29490,11 @@
 		<description>Company of Heroes (USA) (Gold Edition)</description>
 		<rom name="Company of Heroes (USA) (Gold Edition).iso" size="8339881984" crc="1fa5c154" md5="35f55afa4a772c1636ee7a3648d53084" sha1="dd5ca18f1ebc56c8d0cdad6a5d72d343ff421f9d"/>
 	</game>
+	<game name="Company of Heroes - Kompania braci (Poland)">
+		<category>Games</category>
+		<description>Company of Heroes - Kompania braci (Poland)</description>
+		<rom name="Company of Heroes - Kompania braci (Poland).iso" size="8496676864" crc="6ace2a4a" md5="4aaf2cd2cfb6901b68ecb2a41f8dc721" sha1="9c4dce21c70b01331a40ebbf1133e42d7ecb1316"/>
+	</game>
 	<game name="Company of Heroes - Opposing Fronts (USA)">
 		<category>Games</category>
 		<description>Company of Heroes - Opposing Fronts (USA)</description>
@@ -29575,6 +29595,12 @@
 		<category>Games</category>
 		<description>Condemned (USA, Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Condemned (USA, Europe) (En,Fr,De,Es,It).iso" size="4267868160" crc="e4e5da50" md5="cbff00935456502448960e6cab41846f" sha1="89d660460f83c1f905b7c43c9c1afbecbce73cd0"/>
+	</game>
+	<game name="Condemned - Plyta Dodatkowa (Poland)">
+		<category>Bonus Discs</category>
+		<description>Condemned - Plyta Dodatkowa (Poland)</description>
+		<rom name="Condemned - Plyta Dodatkowa (Poland).bin" size="40717824" crc="327dfe21" md5="1f3fe23725a36d9a7b83f15b104c4a2c" sha1="d092ddc1cbfb42c1fedf4241b5ae7deb118527aa"/>
+		<rom name="Condemned - Plyta Dodatkowa (Poland).cue" size="102" crc="ecb0ece8" md5="06cc3f958fe00fea4094572526849f24" sha1="2e0dbcf48688a6849e10bd8c7a93a6135ddc2401"/>
 	</game>
 	<game name="Condor - The Competition Soaring Simulator (Germany) (En,Fr,De,Es,It,Pt)">
 		<category>Games</category>
@@ -54279,6 +54305,11 @@
 		<description>FlatOut - Adrenaline Pack (Poland) (FlatOut 3 - Chaos &amp; Destruction)</description>
 		<rom name="FlatOut - Adrenaline Pack (Poland) (FlatOut 3 - Chaos &amp; Destruction).iso" size="7121371136" crc="b35d58b4" md5="6cb771e0267d05287e5f1dca8a93d30e" sha1="a626f3df8d487f55171932d23431d7d474eb7784"/>
 	</game>
+	<game name="FlatOut - Apokalipsa (Poland)">
+		<category>Games</category>
+		<description>FlatOut - Apokalipsa (Poland)</description>
+		<rom name="FlatOut - Apokalipsa (Poland).iso" size="4674355200" crc="8fa74f03" md5="3c0ec2208ae3ad26c335d5ea6675a9fe" sha1="9b103406301c032ea2350b2db47026fe3591b18d"/>
+	</game>
 	<game name="FlatOut - Ultimate Carnage (USA)">
 		<category>Games</category>
 		<description>FlatOut - Ultimate Carnage (USA)</description>
@@ -67647,6 +67678,11 @@
 		<description>Heroes of Might and Magic IV - Zlota Edycja (Poland) (Disc 2)</description>
 		<rom name="Heroes of Might and Magic IV - Zlota Edycja (Poland) (Disc 2).bin" size="615156192" crc="67e3e06a" md5="e112ffda8a5a660bb24a2a6d88849e51" sha1="7985fa831e72cb26713d5e079a2ec668394d36f6"/>
 		<rom name="Heroes of Might and Magic IV - Zlota Edycja (Poland) (Disc 2).cue" size="127" crc="2e7d6651" md5="32ebd98ddb73cf7b8f9c945d5034b110" sha1="5d798a56aecb15c526e86a167e56158a9b2b851c"/>
+	</game>
+	<game name="Heroes of Might and Magic IV - Zlota Edycja (Poland) (Rerelease)">
+		<category>Games</category>
+		<description>Heroes of Might and Magic IV - Zlota Edycja (Poland) (Rerelease)</description>
+		<rom name="Heroes of Might and Magic IV - Zlota Edycja (Poland) (Rerelease).iso" size="1081311232" crc="8c5acfe3" md5="db612896b6387e124b2d5550d2c3a329" sha1="d4f01f8d191e053a13ae6b1cd878873fd544c091"/>
 	</game>
 	<game name="Heroes of Might and Magic V (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -86826,6 +86862,11 @@
 		<rom name="Little Witch Parfait 2 - Heartful Memories (Japan) (Track 24).bin" size="11007360" crc="6c8cba6b" md5="2a6548bc2d47794f86dd3ddc7dbec38d" sha1="b32d6762e3e26cdb66c6dfaa9ebf15e3cf04edc5"/>
 		<rom name="Little Witch Parfait 2 - Heartful Memories (Japan) (Track 25).bin" size="707952" crc="02c5804d" md5="bb63315b416ea7316eb5b1aec3556d78" sha1="371220625b3c3325beb2929f858c833197d71c4b"/>
 		<rom name="Little Witch Parfait 2 - Heartful Memories (Japan).cue" size="3078" crc="cd2a1b50" md5="7ee37fd71dca5a61c9476d4943464f47" sha1="48a93c0dbce837630a016c6be120d3350c9a0ddb"/>
+	</game>
+	<game name="Little Witch Parfait 2 - Heartful Memories (Japan) (DVD-ROM)">
+		<category>Games</category>
+		<description>Little Witch Parfait 2 - Heartful Memories (Japan) (DVD-ROM)</description>
+		<rom name="Little Witch Parfait 2 - Heartful Memories (Japan) (DVD-ROM).iso" size="983040000" crc="65d26991" md5="7d342c3cb45714e125c111f3f91d1071" sha1="4a66b512e170f1f5fd82e44eaf085445e701ab0c"/>
 	</game>
 	<game name="Littlest Pet Shop (USA)">
 		<category>Games</category>
@@ -113468,6 +113509,26 @@
 		<rom name="Paranormal State - Poison Spring - Collector's Edition (Germany).bin" size="734016864" crc="996d82d7" md5="20b2ffbe8f1819b1754cb030c0e9bc05" sha1="4a759fd52479c20d204277c5b927b8195a75a968"/>
 		<rom name="Paranormal State - Poison Spring - Collector's Edition (Germany).cue" size="130" crc="6e02ca31" md5="725dd6a07f10edec1190c142f1d8f4f3" sha1="608a2dcaeb7d044d490b9d68674ebc9a1b98f403"/>
 	</game>
+	<game name="Parfait Fan Box (Japan)">
+		<category>Bonus Discs</category>
+		<description>Parfait Fan Box (Japan)</description>
+		<rom name="Parfait Fan Box (Japan) (Track 01).bin" size="261229584" crc="26c20174" md5="167b4bb213248477cb798d3af47485a4" sha1="7cd51e25d543862afd41e5a5346dd9d54a8b5a46"/>
+		<rom name="Parfait Fan Box (Japan) (Track 02).bin" size="13745088" crc="205408ed" md5="7459ea1cf86bace5ba941905eeac27c0" sha1="053e4d719f1a20dbb085fde533f5b0d5c6d2eb39"/>
+		<rom name="Parfait Fan Box (Japan) (Track 03).bin" size="16047696" crc="d128c034" md5="21d5a1be81b130c7090c1995cecd3ba2" sha1="4148703a13788f259bfbf86f555e75e65a5a2648"/>
+		<rom name="Parfait Fan Box (Japan) (Track 04).bin" size="8601264" crc="643d3c6d" md5="276d13ae7117b93935fd4fd591b966d2" sha1="fb1065170f7dc0922fb5e4733d9ee78d3cc1f91b"/>
+		<rom name="Parfait Fan Box (Japan) (Track 05).bin" size="12994800" crc="5bc48e31" md5="a32d0d47963839b4b212dec816e6f8fd" sha1="c5466d05943f9fa0d67d9f6fdadbe170a6405643"/>
+		<rom name="Parfait Fan Box (Japan) (Track 06).bin" size="23000208" crc="d9146e0e" md5="3b51b7551cd67f1d5ad05700f4e36b51" sha1="f81dd7d40a523282d70284b162f6cd17ba99dddf"/>
+		<rom name="Parfait Fan Box (Japan) (Track 07).bin" size="8182608" crc="ad51cf2f" md5="f83f57795ceaddb61a3feb69d9d379c6" sha1="d29bf3699e7481e75cb8f23d1011c36024133d6a"/>
+		<rom name="Parfait Fan Box (Japan) (Track 08).bin" size="11712960" crc="c4cff342" md5="11240a85e25982003d73387e5ace408a" sha1="700577d8b771d4567aba4638e8e4d10d1263578a"/>
+		<rom name="Parfait Fan Box (Japan) (Track 09).bin" size="11346048" crc="0add55c7" md5="0aef566a768abdf518db2fe81f1d04b8" sha1="be959b619eea9607e1aecdd9c1a71a8abe99d279"/>
+		<rom name="Parfait Fan Box (Japan) (Track 10).bin" size="25392192" crc="fcaa30a2" md5="e00975b9d79559a946faca04d97e9755" sha1="b7ea19fd374d2569e22ca92dd50240e79659c3a5"/>
+		<rom name="Parfait Fan Box (Japan) (Track 11).bin" size="12792528" crc="bc0af2f5" md5="3b48ae272d3035747b5be371ff57d631" sha1="2501c6bb1f24afaa8d86e58bb61865799a674cea"/>
+		<rom name="Parfait Fan Box (Japan) (Track 12).bin" size="13484016" crc="5affb114" md5="5a91f3991110028f86c627d114e45eaa" sha1="9ad9dc192adf315776a0a11be28d69dd9bc0049d"/>
+		<rom name="Parfait Fan Box (Japan) (Track 13).bin" size="11313120" crc="a53ef08f" md5="634dad85181543e13c5d76a7ad3e34a2" sha1="d3386eba15b69cfdb005aaabcfe06ca3576c98b0"/>
+		<rom name="Parfait Fan Box (Japan) (Track 14).bin" size="15582000" crc="f5137139" md5="875fdd460867f53be872db0795c4ca04" sha1="2216513b9ce2892633baee7f580851e8c50df828"/>
+		<rom name="Parfait Fan Box (Japan) (Track 15).bin" size="20448288" crc="dc4107ea" md5="7fbad5ad844f76cf4028044ad217530a" sha1="192c2ff2f3884db8422c86ee86632aa7c7cdbf31"/>
+		<rom name="Parfait Fan Box (Japan).cue" size="1752" crc="1990fe44" md5="63300d73fa2ed1a3348f802ecb763ffb" sha1="787314c0e13558ab604b87efc50746458adbbb54"/>
+	</game>
 	<game name="Pariah (Poland) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Pariah (Poland) (En,Fr,De,Es,It)</description>
@@ -114766,8 +114827,8 @@
 	<game name="Pettson o Findus i Traedgarden (Sweden)">
 		<category>Games</category>
 		<description>Pettson o Findus i Traedgarden (Sweden)</description>
-		<rom name="Pettson o Findus i Traedgarden (Sweden).bin" size="420427056" crc="f3068ac7" md5="ba2dbbe14a92eff1e9eaa15bd482b1e9" sha1="29907a76d3fb8b5f5cfda91f8c6e6f710b53ca1f"/>
-		<rom name="Pettson o Findus i Traedgarden (Sweden).cue" size="105" crc="b8429fa3" md5="52413578453c0ae7d782e4dbdcecba0e" sha1="1e6d11ebfad623a35effce32d0311badfb8605ce"/>
+		<rom name="Pettson o Findus i Traedgarden (Sweden).bin" size="366443952" crc="0b9af6cb" md5="73336706cc51a86545668066136d7dcf" sha1="6f9a27fb31a00b07176bcae2822411fceec33ad3"/>
+		<rom name="Pettson o Findus i Traedgarden (Sweden).cue" size="128" crc="9ce7aa0f" md5="d66bb9cab5cfcea45daefb4af261297e" sha1="c01c3d91fc8d4bb6bb67b6dca4fe000176156655"/>
 	</game>
 	<game name="Pettson o Findus och mucklornas vaerld (Sweden)">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,709) (-y) [-aAbBcefkmMoprv] (2026-03-11 01-50-13) (Retool)</description>
-		<version>2026-03-11 01-50-13</version>
-		<date>2026-03-11 03-05-59</date>
+		<description>IBM - PC compatible (24,718) (-y) [-aAbBcefkmMoprv] (2026-03-11 23-10-47) (Retool)</description>
+		<version>2026-03-11 23-10-47</version>
+		<date>2026-03-12 03-10-50</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -4713,6 +4713,11 @@
 		<description>Agatha Christie - Evil Under the Sun (USA) (Disc 3)</description>
 		<rom name="Agatha Christie - Evil Under the Sun (USA) (Disc 3).bin" size="79464672" crc="69570ade" md5="71d248f79190c8739acc998c7ac7220b" sha1="2e89a7dcc729ce761ec208d88a3ab14b8643032e"/>
 		<rom name="Agatha Christie - Evil Under the Sun (USA) (Disc 3).cue" size="117" crc="5b1c03b5" md5="0147ef941d257e2190013194346dc11d" sha1="430547cbf1fd44f63b39951ca15de3c6e8925074"/>
+	</game>
+	<game name="Agatha Christie - Kolekcja Tajemnic (Poland)">
+		<category>Games</category>
+		<description>Agatha Christie - Kolekcja Tajemnic (Poland)</description>
+		<rom name="Agatha Christie - Kolekcja Tajemnic (Poland).iso" size="6437240832" crc="f5b0f1df" md5="6514cae3ae9a429c91bc5cbe788c1ef5" sha1="58fa018cbd171587fa08083940ca405684e7de88"/>
 	</game>
 	<game name="Agatha Christie - Murder on the Orient Express (Netherlands)">
 		<category>Games</category>
@@ -22799,6 +22804,11 @@
 		<rom name="Call of Duty (France) (Disc 1) (Jeu de l'annee).bin" size="798640416" crc="eb491d00" md5="3fdae26fb74023891199f78cb45208f3" sha1="c87086e9743d0967a0a3025d9b79c103736d5478"/>
 		<rom name="Call of Duty (France) (Disc 1) (Jeu de l'annee).cue" size="113" crc="a6b107c5" md5="180a7dce9c5d06b5ad63b4b5e8056546" sha1="381387806c75b5859823bb9a94c56fea03c8252b"/>
 	</game>
+	<game name="Call of Duty (Japan) (Rerelease) (DVD-ROM)">
+		<category>Games</category>
+		<description>Call of Duty (Japan) (Rerelease) (DVD-ROM)</description>
+		<rom name="Call of Duty (Japan) (Rerelease) (DVD-ROM).iso" size="1354203136" crc="5754ff1d" md5="a8be80ba6cb9dc0ba4bcb506b420725d" sha1="c65fb5444da34821368f4c54ca2cccbf36c8ea71"/>
+	</game>
 	<game name="Call of Duty (USA) (Disc 1)">
 		<category>Games</category>
 		<description>Call of Duty (USA) (Disc 1)</description>
@@ -24766,6 +24776,11 @@
 		<description>Cezar IV (Poland) (Disc 2)</description>
 		<rom name="Cezar IV (Poland) (Disc 2).bin" size="614850432" crc="d23e9124" md5="e07c0e4bc1a6952d7f6516cd4a1900ba" sha1="b9c9afcccdd2977d85df94724defd6fb0ead64cf"/>
 		<rom name="Cezar IV (Poland) (Disc 2).cue" size="92" crc="66e3974c" md5="0e0a703bc84914635648a704f28a324b" sha1="f25ed6a264f3850084892b7491a98b5ce51f1425"/>
+	</game>
+	<game name="Cezar IV (Poland) (Rerelease)">
+		<category>Games</category>
+		<description>Cezar IV (Poland) (Rerelease)</description>
+		<rom name="Cezar IV (Poland) (Rerelease).iso" size="1179484160" crc="9e1479fc" md5="3de1f3c1212092be6bbab2667f30974d" sha1="9b2e55b709a5560962c93c1b69b33d2e6907c74a"/>
 	</game>
 	<game name="Chain (Russia)">
 		<category>Games</category>
@@ -29146,6 +29161,11 @@
 		<category>Demos</category>
 		<description>Company of Heroes - Interaktive DVD-ROM inklusive Demo (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Company of Heroes - Interaktive DVD-ROM inklusive Demo (Europe) (En,Fr,De,Es,It).iso" size="2790359040" crc="0da03617" md5="36c8627eadd3e43b7f8cb1604c0751d2" sha1="2d078ebba9c3d581eedd4f94399bc4d1a8167a23"/>
+	</game>
+	<game name="Company of Heroes - Kompania braci (Poland)">
+		<category>Games</category>
+		<description>Company of Heroes - Kompania braci (Poland)</description>
+		<rom name="Company of Heroes - Kompania braci (Poland).iso" size="8496676864" crc="6ace2a4a" md5="4aaf2cd2cfb6901b68ecb2a41f8dc721" sha1="9c4dce21c70b01331a40ebbf1133e42d7ecb1316"/>
 	</game>
 	<game name="Company of Heroes - Opposing Fronts (USA)">
 		<category>Games</category>
@@ -53456,6 +53476,11 @@
 		<description>FlatOut - Adrenaline Pack (Poland) (FlatOut 3 - Chaos &amp; Destruction)</description>
 		<rom name="FlatOut - Adrenaline Pack (Poland) (FlatOut 3 - Chaos &amp; Destruction).iso" size="7121371136" crc="b35d58b4" md5="6cb771e0267d05287e5f1dca8a93d30e" sha1="a626f3df8d487f55171932d23431d7d474eb7784"/>
 	</game>
+	<game name="FlatOut - Apokalipsa (Poland)">
+		<category>Games</category>
+		<description>FlatOut - Apokalipsa (Poland)</description>
+		<rom name="FlatOut - Apokalipsa (Poland).iso" size="4674355200" crc="8fa74f03" md5="3c0ec2208ae3ad26c335d5ea6675a9fe" sha1="9b103406301c032ea2350b2db47026fe3591b18d"/>
+	</game>
 	<game name="FlatOut - Ultimate Carnage (USA)">
 		<category>Games</category>
 		<description>FlatOut - Ultimate Carnage (USA)</description>
@@ -66983,6 +67008,11 @@
 		<description>Heroes of Might and Magic IV - Zlota Edycja (Poland) (Disc 2)</description>
 		<rom name="Heroes of Might and Magic IV - Zlota Edycja (Poland) (Disc 2).bin" size="615156192" crc="67e3e06a" md5="e112ffda8a5a660bb24a2a6d88849e51" sha1="7985fa831e72cb26713d5e079a2ec668394d36f6"/>
 		<rom name="Heroes of Might and Magic IV - Zlota Edycja (Poland) (Disc 2).cue" size="127" crc="2e7d6651" md5="32ebd98ddb73cf7b8f9c945d5034b110" sha1="5d798a56aecb15c526e86a167e56158a9b2b851c"/>
+	</game>
+	<game name="Heroes of Might and Magic IV - Zlota Edycja (Poland) (Rerelease)">
+		<category>Games</category>
+		<description>Heroes of Might and Magic IV - Zlota Edycja (Poland) (Rerelease)</description>
+		<rom name="Heroes of Might and Magic IV - Zlota Edycja (Poland) (Rerelease).iso" size="1081311232" crc="8c5acfe3" md5="db612896b6387e124b2d5550d2c3a329" sha1="d4f01f8d191e053a13ae6b1cd878873fd544c091"/>
 	</game>
 	<game name="Heroes of Might and Magic V (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -84882,6 +84912,11 @@
 		<rom name="Little Witch Parfait 2 - Heartful Memories (Japan) (Track 25).bin" size="707952" crc="02c5804d" md5="bb63315b416ea7316eb5b1aec3556d78" sha1="371220625b3c3325beb2929f858c833197d71c4b"/>
 		<rom name="Little Witch Parfait 2 - Heartful Memories (Japan).cue" size="3078" crc="cd2a1b50" md5="7ee37fd71dca5a61c9476d4943464f47" sha1="48a93c0dbce837630a016c6be120d3350c9a0ddb"/>
 	</game>
+	<game name="Little Witch Parfait 2 - Heartful Memories (Japan) (DVD-ROM)">
+		<category>Games</category>
+		<description>Little Witch Parfait 2 - Heartful Memories (Japan) (DVD-ROM)</description>
+		<rom name="Little Witch Parfait 2 - Heartful Memories (Japan) (DVD-ROM).iso" size="983040000" crc="65d26991" md5="7d342c3cb45714e125c111f3f91d1071" sha1="4a66b512e170f1f5fd82e44eaf085445e701ab0c"/>
+	</game>
 	<game name="Littlest Pet Shop (USA)">
 		<category>Games</category>
 		<description>Littlest Pet Shop (USA)</description>
@@ -92987,6 +93022,12 @@
 		<category>Games</category>
 		<description>Mega Pak DVD (Poland)</description>
 		<rom name="Mega Pak DVD (Poland).iso" size="3329484800" crc="1055dd27" md5="a71e3a6f053409b5cc6b6b6d2fd5af7a" sha1="191c852134cff002a833940324872c13541fb6cf"/>
+	</game>
+	<game name="Mega Pinball (Germany)">
+		<category>Demos</category>
+		<description>Mega Pinball (Germany)</description>
+		<rom name="Mega Pinball (Germany).bin" size="47430432" crc="7356f6ab" md5="7b3ae960eacf34d4f9591a1e3780a8e1" sha1="2a1fc4d33a92d97416d89dee95b2f21a8fb8e4b1"/>
+		<rom name="Mega Pinball (Germany).cue" size="88" crc="72e520c9" md5="e4445a97ca742a229988a7bd780600a3" sha1="fb197dc6e2a3c832b687cf45fb4266fdad46652b"/>
 	</game>
 	<game name="Mega Pinball (USA)">
 		<category>Games</category>
@@ -111688,8 +111729,8 @@
 	<game name="Pettson o Findus i Traedgarden (Sweden)">
 		<category>Games</category>
 		<description>Pettson o Findus i Traedgarden (Sweden)</description>
-		<rom name="Pettson o Findus i Traedgarden (Sweden).bin" size="420427056" crc="f3068ac7" md5="ba2dbbe14a92eff1e9eaa15bd482b1e9" sha1="29907a76d3fb8b5f5cfda91f8c6e6f710b53ca1f"/>
-		<rom name="Pettson o Findus i Traedgarden (Sweden).cue" size="105" crc="b8429fa3" md5="52413578453c0ae7d782e4dbdcecba0e" sha1="1e6d11ebfad623a35effce32d0311badfb8605ce"/>
+		<rom name="Pettson o Findus i Traedgarden (Sweden).bin" size="366443952" crc="0b9af6cb" md5="73336706cc51a86545668066136d7dcf" sha1="6f9a27fb31a00b07176bcae2822411fceec33ad3"/>
+		<rom name="Pettson o Findus i Traedgarden (Sweden).cue" size="128" crc="9ce7aa0f" md5="d66bb9cab5cfcea45daefb4af261297e" sha1="c01c3d91fc8d4bb6bb67b6dca4fe000176156655"/>
 	</game>
 	<game name="Pettson o Findus och mucklornas vaerld (Sweden)">
 		<category>Games</category>
@@ -112582,6 +112623,12 @@
 		<description>Pinball (Germany)</description>
 		<rom name="Pinball (Germany).bin" size="676628064" crc="b730b950" md5="f7f0f28288772011072a8d37a09d490b" sha1="0f37b7b3aa3f3cced6d6e6eae8ba28e27cc2bfa6"/>
 		<rom name="Pinball (Germany).cue" size="106" crc="4fa3271e" md5="b499e209065d8365dca0d88627e790e6" sha1="3c2fee244a116025fbaf5180aebed4ad9e2c56e3"/>
+	</game>
+	<game name="Pinball - 25 Super Pinball Games (Germany)">
+		<category>Demos</category>
+		<description>Pinball - 25 Super Pinball Games (Germany)</description>
+		<rom name="Pinball - 25 Super Pinball Games (Germany).bin" size="123235392" crc="af1ca95e" md5="ae20a61749faba8642de5cc1227b65f8" sha1="dc3cedb43aa04a4da4a714c6d2200e492f7a1e91"/>
+		<rom name="Pinball - 25 Super Pinball Games (Germany).cue" size="108" crc="27eabf40" md5="ba85b90354c3b78200debcac7fdfa047" sha1="361835fdd6b97e2cd4e2de308e4254dd7f5f1f80"/>
 	</game>
 	<game name="Pinball 2 (Germany) (En,Fr,De,Es,It,Pt)">
 		<category>Games</category>
