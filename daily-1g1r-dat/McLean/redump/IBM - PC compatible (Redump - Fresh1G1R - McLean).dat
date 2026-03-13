@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (12,921) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-11 23-10-47) (Retool)</description>
-		<version>2026-03-11 23-10-47</version>
-		<date>2026-03-12 03-17-05</date>
+		<description>IBM - PC compatible (12,920) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-13 03-05-50) (Retool)</description>
+		<version>2026-03-13 03-05-50</version>
+		<date>2026-03-13 03-17-03</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -19670,12 +19670,6 @@
 		<description>Descent - Anniversary Edition (USA)</description>
 		<rom name="Descent - Anniversary Edition (USA).bin" size="94054128" crc="2c7dfb2e" md5="4192ae6d5e831e7ff51adf83b0873277" sha1="7ca8db8efa193146030c39525cf9d06f3591ca56"/>
 		<rom name="Descent - Anniversary Edition (USA).cue" size="101" crc="d6f588aa" md5="5c1e6a71447520098ad98f280578c822" sha1="8606f3d7a382bfccbc27e6b7ab97992e170af3d6"/>
-	</game>
-	<game name="Descent - FreeSpace - Darkness Rising (USA) (OEM)">
-		<category>Games</category>
-		<description>Descent - FreeSpace - Darkness Rising (USA) (OEM)</description>
-		<rom name="Descent - FreeSpace - Darkness Rising (USA) (OEM).bin" size="410494560" crc="dddd6996" md5="137a0903ed21a79d493e2d1918e4702e" sha1="2dfae8cdd836fe648c008876cd16b21766dbaccd"/>
-		<rom name="Descent - FreeSpace - Darkness Rising (USA) (OEM).cue" size="115" crc="8dc57668" md5="080a387fb6e392bd0bbc9ba3b567c156" sha1="de833d8a2a83fb59e65882dbf59a907b09cf2348"/>
 	</game>
 	<game name="Descent - FreeSpace - The Great War (USA) (Disc 1)">
 		<category>Games</category>

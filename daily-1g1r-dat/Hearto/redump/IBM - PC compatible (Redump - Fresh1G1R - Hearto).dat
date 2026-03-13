@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,718) (-y) [-aAbBcefkmMoprv] (2026-03-11 23-10-47) (Retool)</description>
-		<version>2026-03-11 23-10-47</version>
-		<date>2026-03-12 03-10-50</date>
+		<description>IBM - PC compatible (24,718) (-y) [-aAbBcefkmMoprv] (2026-03-13 03-05-50) (Retool)</description>
+		<version>2026-03-13 03-05-50</version>
+		<date>2026-03-13 03-10-49</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -36038,7 +36038,7 @@
 		<rom name="Descent - Destination Saturn (USA) (OEM).cue" size="129" crc="478cfc8f" md5="2a195fd8affa58f0b16e9643eaadaed2" sha1="750ca62c825172582bcf2bedec20c976f2df656b"/>
 	</game>
 	<game name="Descent - FreeSpace - Darkness Rising (USA) (OEM)">
-		<category>Games</category>
+		<category>Demos</category>
 		<description>Descent - FreeSpace - Darkness Rising (USA) (OEM)</description>
 		<rom name="Descent - FreeSpace - Darkness Rising (USA) (OEM).bin" size="410494560" crc="dddd6996" md5="137a0903ed21a79d493e2d1918e4702e" sha1="2dfae8cdd836fe648c008876cd16b21766dbaccd"/>
 		<rom name="Descent - FreeSpace - Darkness Rising (USA) (OEM).cue" size="115" crc="8dc57668" md5="080a387fb6e392bd0bbc9ba3b567c156" sha1="de833d8a2a83fb59e65882dbf59a907b09cf2348"/>
