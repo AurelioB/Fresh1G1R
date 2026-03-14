@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,718) (-y) [-aAbBcefkmMoprv] (2026-03-13 03-05-50) (Retool)</description>
-		<version>2026-03-13 03-05-50</version>
-		<date>2026-03-13 03-10-49</date>
+		<description>IBM - PC compatible (24,728) (-y) [-aAbBcefkmMoprv] (2026-03-14 02-04-28) (Retool)</description>
+		<version>2026-03-14 02-04-28</version>
+		<date>2026-03-14 03-06-46</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1232,6 +1232,11 @@
 		<category>Games</category>
 		<description>3 Top Egoshooter Games (Germany)</description>
 		<rom name="3 Top Egoshooter Games (Germany).iso" size="1047855104" crc="3d80f4ad" md5="97c389add700fab8106c5412fa01ad7d" sha1="fac8df1c3e71999cc9585b010b750618c5332775"/>
+	</game>
+	<game name="3 Wuensche des Dr. Khotabich, Die (Germany)">
+		<category>Games</category>
+		<description>3 Wuensche des Dr. Khotabich, Die (Germany)</description>
+		<rom name="3 Wuensche des Dr. Khotabich, Die (Germany).iso" size="513343488" crc="a881f32c" md5="e78ab643d749acf04844c36a49aa7d15" sha1="4057593e49aa33e6c6a1909c88b19a8f254d7c81"/>
 	</game>
 	<game name="3 i a dins! (Spain)">
 		<category>Games</category>
@@ -12813,6 +12818,12 @@
 		<description>Autobahn Raser IV (Germany)</description>
 		<rom name="Autobahn Raser IV (Germany).bin" size="788886672" crc="4509fdf5" md5="557812c6770234d6d1eba344f56640b6" sha1="9b4fc666ad7d57ad8d2555c1fab350bb7dcda4c5"/>
 		<rom name="Autobahn Raser IV (Germany).cue" size="93" crc="695c3f6b" md5="a1eb25d081e4ec2d22f112b477da8560" sha1="d8a225d19645c7abf597cf744b4b806529f5aafb"/>
+	</game>
+	<game name="Automafia (Germany)">
+		<category>Games</category>
+		<description>Automafia (Germany)</description>
+		<rom name="Automafia (Germany).bin" size="489267744" crc="bdff7208" md5="62530ba666681cd23269ac1810934dab" sha1="e8a80a029f77ab05a167b395eddd62ce2bb3d0a9"/>
+		<rom name="Automafia (Germany).cue" size="85" crc="76c5c885" md5="b3bdc25941a3240bb5465aefc8dabda6" sha1="b90316f9ab0dff9948511c793cdb5b0abbbe8243"/>
 	</game>
 	<game name="Auxiliary Courses (USA)">
 		<category>Games</category>
@@ -47121,6 +47132,12 @@
 		<rom name="Erotic Empire - Macht, Intrigen, Koerbchengroesse (Germany) (Track 3).bin" size="21666624" crc="edaa69d4" md5="8f05964ddc2514c0c689a83b1ad1926d" sha1="07dbdd614ae1653a3ed027c44238e0972e06cf91"/>
 		<rom name="Erotic Empire - Macht, Intrigen, Koerbchengroesse (Germany).cue" size="441" crc="8f8e094c" md5="a53ebbeab1055487db25a09181494e73" sha1="a7079da6655d2aa5b3e624533fbd5ec703f74295"/>
 	</game>
+	<game name="Erotic Empire Deluxe (Germany)">
+		<category>Games</category>
+		<description>Erotic Empire Deluxe (Germany)</description>
+		<rom name="Erotic Empire Deluxe (Germany).bin" size="825843648" crc="c69a4ab1" md5="a1f38864956aa7809fd59107891c4625" sha1="f312d4eb16a9a111090526bb696e1837a5efe4fb"/>
+		<rom name="Erotic Empire Deluxe (Germany).cue" size="96" crc="6eb64a17" md5="44df9a939691e4b9b7d0019c7760c2ff" sha1="e4e2ae9b7147a2fe096e7df6239db41a4d74acb9"/>
+	</game>
 	<game name="Erst Kerf (Japan)">
 		<category>Games</category>
 		<description>Erst Kerf (Japan)</description>
@@ -80193,6 +80210,11 @@
 		<rom name="Komorebi no Namikimichi (Japan) (PC Game Bundle).bin" size="338899680" crc="7e59f514" md5="e852deffb7388c5557e5a496e70ef4f9" sha1="41dd177cb4b9d8a69886780aa94a05433124560d"/>
 		<rom name="Komorebi no Namikimichi (Japan) (PC Game Bundle).cue" size="114" crc="bea5e859" md5="548352dde383fe8eec87a7cd00cf97de" sha1="2a7064aeecc1d8d8024432d6ec72d54befd3ed45"/>
 	</game>
+	<game name="Kompania Braci - Na Linii Frontu (Poland)">
+		<category>Games</category>
+		<description>Kompania Braci - Na Linii Frontu (Poland)</description>
+		<rom name="Kompania Braci - Na Linii Frontu (Poland).iso" size="8286994432" crc="10e58df4" md5="92cc20c4899ca697cd137210b75195af" sha1="d0282b503548090cc10bb121e1ce8433b1c60ea7"/>
+	</game>
 	<game name="Komputer Foer Alla 3-98 (Sweden)">
 		<category>Games</category>
 		<description>Komputer Foer Alla 3-98 (Sweden)</description>
@@ -95003,6 +95025,27 @@
 		<rom name="Microsoft Windows Spiele Hits (Germany) (Track 20).bin" size="710304" crc="d95afaf1" md5="5a07c24510c93e0b7e2f26fa61cc7809" sha1="2e6016d92f41b2419f8b48cde3a8ba53d4b7ef9d"/>
 		<rom name="Microsoft Windows Spiele Hits (Germany) (Track 21).bin" size="710304" crc="d95afaf1" md5="5a07c24510c93e0b7e2f26fa61cc7809" sha1="2e6016d92f41b2419f8b48cde3a8ba53d4b7ef9d"/>
 		<rom name="Microsoft Windows Spiele Hits (Germany).cue" size="2359" crc="98299f97" md5="cedc7d93d485977298c3c3a4c20ed17c" sha1="4253e7dc812f276ad2f30b2f5e9d96dfe9b94009"/>
+	</game>
+	<game name="Microsoft Windows Spiele-Box (Germany) (Disc 1)">
+		<category>Games</category>
+		<description>Microsoft Windows Spiele-Box (Germany) (Disc 1)</description>
+		<rom name="Microsoft Windows Spiele-Box (Germany) (Disc 1).bin" size="734035680" crc="0f8c5492" md5="7816a1fb176c9d9d5f95a35f6b460346" sha1="ce029d1f8336c0f5e9a8062414c4e9ef86530ebf"/>
+		<rom name="Microsoft Windows Spiele-Box (Germany) (Disc 1).cue" size="113" crc="b91a9249" md5="673c19662cf3e6ec5abbb8b3abf315d4" sha1="903085509b21dc451ce005ce659e8435804e4e96"/>
+	</game>
+	<game name="Microsoft Windows Spiele-Box (Germany) (Disc 2)">
+		<category>Games</category>
+		<description>Microsoft Windows Spiele-Box (Germany) (Disc 2)</description>
+		<rom name="Microsoft Windows Spiele-Box (Germany) (Disc 2) (Track 01).bin" size="116565120" crc="dccef880" md5="733a24d2a3f9fb31d823c8f96328d5f1" sha1="313a90c9197cb51ed5d930797ae1b072aaaea8ee"/>
+		<rom name="Microsoft Windows Spiele-Box (Germany) (Disc 2) (Track 02).bin" size="19545120" crc="9b0b415d" md5="e6347f1587ab0e9014edd2c10f8799f8" sha1="87ee009fe5d4df37d2c0bccd142f949ee84e57b0"/>
+		<rom name="Microsoft Windows Spiele-Box (Germany) (Disc 2) (Track 03).bin" size="30249072" crc="f2ae2a27" md5="683e83083347f61f05aa79fb5a89c17e" sha1="21e87aa0dec0a823583f46f62263f4695b4b7c74"/>
+		<rom name="Microsoft Windows Spiele-Box (Germany) (Disc 2) (Track 04).bin" size="51047808" crc="c7c1859c" md5="c9713929846a8df6793564b749509651" sha1="5e0afe385bb27b2a6218bd82b2ec87ac9c091b44"/>
+		<rom name="Microsoft Windows Spiele-Box (Germany) (Disc 2) (Track 05).bin" size="54270048" crc="2cec7ae1" md5="b56ae3bcdf1de8f6b78f3aba1de7cc7d" sha1="315f114a1032511733e9dc9f6d7189b4661db729"/>
+		<rom name="Microsoft Windows Spiele-Box (Germany) (Disc 2) (Track 06).bin" size="33840576" crc="01879231" md5="627e2c9e838f45100df09f8cb73ccb15" sha1="b89e620822cc4ba0863f8ba3aacf9a87e412acce"/>
+		<rom name="Microsoft Windows Spiele-Box (Germany) (Disc 2) (Track 07).bin" size="38805648" crc="ff8a839a" md5="f4af6b2f2314aaa9990b65ca7ac2ec38" sha1="16c5e623457f2740f7ef0aa8d621864268ed7ffb"/>
+		<rom name="Microsoft Windows Spiele-Box (Germany) (Disc 2) (Track 08).bin" size="68182128" crc="74a0fc9d" md5="a0bf92ac6aa24465179bdccdc5d663d6" sha1="084edf95c64a2b593f27d69d488c06037603d65e"/>
+		<rom name="Microsoft Windows Spiele-Box (Germany) (Disc 2) (Track 09).bin" size="48942768" crc="c980a2cf" md5="7566bce4a269e8f11d74c4d502c37aea" sha1="b0dc9e03bd6797da8fc27fe0699404157ef1457b"/>
+		<rom name="Microsoft Windows Spiele-Box (Germany) (Disc 2) (Track 10).bin" size="27304368" crc="2337d438" md5="80618d75dbed2b128d53fd35a671535d" sha1="6c6ff0eb9a2cc135591a0eecee94d356208ee34d"/>
+		<rom name="Microsoft Windows Spiele-Box (Germany) (Disc 2).cue" size="1402" crc="10486482" md5="743fd9b1cf4c4b3387127d70aa523c7b" sha1="5e39bf1b48828eec25eec6323eff5f6f9f6abdf5"/>
 	</game>
 	<game name="Middle-Earth - Shadow of Mordor (USA, Europe) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 1)">
 		<category>Games</category>
@@ -125430,6 +125473,12 @@
 		<rom name="Robin Hood - Die Legende von Sherwood (Germany).bin" size="808483536" crc="49ea15f4" md5="21b7347843dc6885d2fa330abf3ac726" sha1="e67e536d80ce7c587645235c25f12a97372f92f1"/>
 		<rom name="Robin Hood - Die Legende von Sherwood (Germany).cue" size="113" crc="06b257b4" md5="4db8da213b4cbda395b155d09839f1ff" sha1="ed5df903750755708320178bf6582ebd8fcb4a35"/>
 	</game>
+	<game name="Robin Hood - Die Legende von Sherwood (Germany) (Demo)">
+		<category>Demos</category>
+		<description>Robin Hood - Die Legende von Sherwood (Germany) (Demo)</description>
+		<rom name="Robin Hood - Die Legende von Sherwood (Germany) (Demo).bin" size="146889456" crc="a90eeedc" md5="14dc71f72ca946d4b7707a71b6d25e55" sha1="948dff7219681d2ee1d06cb745a3d29dea904bbd"/>
+		<rom name="Robin Hood - Die Legende von Sherwood (Germany) (Demo).cue" size="120" crc="37bd413e" md5="5edf30a5bd53cf58a5af044b71d39def" sha1="81b63a2e4b05028ccc2e1fce6567d8cc83a294f9"/>
+	</game>
 	<game name="Robin Hood - Kids Game (Italy)">
 		<category>Games</category>
 		<description>Robin Hood - Kids Game (Italy)</description>
@@ -127943,6 +127992,12 @@
 		<description>Safecracker - The Ultimate Puzzle Adventure (USA)</description>
 		<rom name="Safecracker - The Ultimate Puzzle Adventure (USA).bin" size="434734272" crc="1db6687d" md5="a2e9a1973e1dba885b1a114d3c9d1ead" sha1="b6f10d1062b7938665465e92eeb496d0da35e3d1"/>
 		<rom name="Safecracker - The Ultimate Puzzle Adventure (USA).cue" size="115" crc="6fb8ac53" md5="aee0e0ab52a2321a8544f09b8a7bfb13" sha1="c7258ce668afb8032b2ac256220d62ce993dd0d0"/>
+	</game>
+	<game name="Safety Driving Auto (Germany)">
+		<category>Games</category>
+		<description>Safety Driving Auto (Germany)</description>
+		<rom name="Safety Driving Auto (Germany).bin" size="433346592" crc="b698dea8" md5="9b9035a6c1b349c140ecc6454f7bd389" sha1="8e368503cfae529908872b2f488c621b95c63b66"/>
+		<rom name="Safety Driving Auto (Germany).cue" size="95" crc="b16ba6c7" md5="80ad25e91d37af9a291e3eef9ecd16bd" sha1="f28156a7d5ae5e67fad9878a7d68d043c99ea552"/>
 	</game>
 	<game name="Saga - Gniew Wikingow (Poland)">
 		<category>Games</category>
@@ -147629,6 +147684,12 @@
 		<description>Super Spass Paket (Germany)</description>
 		<rom name="Super Spass Paket (Germany).bin" size="8725920" crc="d3514c72" md5="ffb1ffabb0dcd98e502232680970dfd4" sha1="09f9ea50d77f20288fc68498ccc21a8cc954a5b6"/>
 		<rom name="Super Spass Paket (Germany).cue" size="116" crc="d73262eb" md5="ffd0215b0b6fd2fbf3155bc0e200c508" sha1="48e0ecaa7ca253c19b6e4dad1efae034cd344678"/>
+	</game>
+	<game name="Super Spiele Version 2.0 - Flipper &amp; Break-it-Out (Germany)">
+		<category>Games</category>
+		<description>Super Spiele Version 2.0 - Flipper &amp; Break-it-Out (Germany)</description>
+		<rom name="Super Spiele Version 2.0 - Flipper &amp; Break-it-Out (Germany).bin" size="53352768" crc="5446a277" md5="f914deaee105798a6ac21e97e460ff1f" sha1="2ea533e6596a1afcf85287f5eb9cf352d1aacf4a"/>
+		<rom name="Super Spiele Version 2.0 - Flipper &amp; Break-it-Out (Germany).cue" size="125" crc="c5155844" md5="2974afb48d9aa2d838c18bad428d3886" sha1="6ce0569a7af9f3ec26ba27a371c677c452c9f22e"/>
 	</game>
 	<game name="Super Stardust (Europe) (En,Fr,De)">
 		<category>Games</category>
@@ -175495,6 +175556,12 @@
 		<description>eGames Mini Golf (USA)</description>
 		<rom name="eGames Mini Golf (USA).bin" size="271263216" crc="df52935d" md5="026609d98b2a861177784d7fdb4a792d" sha1="45aa7cfcb2d9566e1eb5ec29121cb7900375e9ee"/>
 		<rom name="eGames Mini Golf (USA).cue" size="111" crc="de7d95cf" md5="6b17dd3f0ba4067db34b6da30da2b79f" sha1="c3bd39cccd22b13baa609f7223511e3e95eca70b"/>
+	</game>
+	<game name="eGames Mini Golf Sammler-Edition (Germany)">
+		<category>Games</category>
+		<description>eGames Mini Golf Sammler-Edition (Germany)</description>
+		<rom name="eGames Mini Golf Sammler-Edition (Germany).bin" size="697647888" crc="ad21578e" md5="1a06785b1a6df9a558627cd812deae25" sha1="25378066e00dbbfcf00ee1f78ef15b183121b0b9"/>
+		<rom name="eGames Mini Golf Sammler-Edition (Germany).cue" size="108" crc="e8bbda54" md5="fef0bbab9afd84af56bd7c4ea86debd0" sha1="ce677ac6b786ce5849bb7e3723f0a6af7b9980f6"/>
 	</game>
 	<game name="eGames Pinball (USA) (En,Fr,De,Es,It,Pt)">
 		<category>Games</category>
