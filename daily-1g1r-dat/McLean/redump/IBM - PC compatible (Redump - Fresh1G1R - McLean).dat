@@ -3,13 +3,13 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (12,920) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-14 02-04-28) (Retool)</description>
-		<version>2026-03-14 02-04-28</version>
-		<date>2026-03-14 03-12-57</date>
+		<description>IBM - PC compatible (12,923) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-15 03-10-33) (Retool)</description>
+		<version>2026-03-15 03-10-33</version>
+		<date>2026-03-15 03-23-24</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="$100,000 Pyramid, The (USA)">
 		<category>Games</category>
@@ -31412,6 +31412,12 @@
 		<rom name="Game Room (USA).bin" size="760448640" crc="691318fd" md5="501631df00db67994a888a9da6e4f1ce" sha1="fd375337bcb67fcd4abd7a1e3f9ec316728e72ac"/>
 		<rom name="Game Room (USA).cue" size="81" crc="bcc8568d" md5="2395e324605e58da628253964cef3d19" sha1="3fffc2b5607a67568921f5359609220aef660f6e"/>
 	</game>
+	<game name="Game Room 4.0 (USA)">
+		<category>Games</category>
+		<description>Game Room 4.0 (USA)</description>
+		<rom name="Game Room 4.0 (USA).bin" size="521969952" crc="c6feab72" md5="6648370374a637c25c86ce022e5a1698" sha1="b2ed94e0525582446fe2be70feddbdf3db4e3aa1"/>
+		<rom name="Game Room 4.0 (USA).cue" size="123" crc="1be85fab" md5="30ad7ae8b442f2fb9269dc146089e63a" sha1="32416b0be66a9d5c989b7033d87f451d8d7f984e"/>
+	</game>
 	<game name="Game Tycoon 2 (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Game Tycoon 2 (Europe) (En,Fr,De,Es,It)</description>
@@ -33625,11 +33631,11 @@
 		<rom name="Guilty Gear Gold (Russia) (Disc 2).bin" size="609838320" crc="5e0572a4" md5="054a9acf5c136340b71cb59bb529a78f" sha1="a8015d9afdbcfcd2686c211a6c410fadb8fe842d"/>
 		<rom name="Guilty Gear Gold (Russia) (Disc 2).cue" size="100" crc="be0d1886" md5="9e06a376498132039f542cf190471700" sha1="b6e0bf6cc426d977e2c84ed3c3796246e175dcdc"/>
 	</game>
-	<game name="Guilty Gear Isuka (Russia)">
+	<game name="Guilty Gear Isuka (Spain)">
 		<category>Games</category>
-		<description>Guilty Gear Isuka (Russia)</description>
-		<rom name="Guilty Gear Isuka (Russia).bin" size="633276000" crc="e9355d27" md5="11078b0a470e81a2e99dee45403b150d" sha1="b286cc682da7ee74f185b07ca662ae174d5e5a0e"/>
-		<rom name="Guilty Gear Isuka (Russia).cue" size="92" crc="8ee23268" md5="a94297b82d74857b13027598d638a24e" sha1="f61e875e721e6ea66430f4ae4b36c0b56abc1324"/>
+		<description>Guilty Gear Isuka (Spain)</description>
+		<rom name="Guilty Gear Isuka (Spain).bin" size="759794784" crc="024e554e" md5="6a37a593d322869793267b1d4c935cbf" sha1="3c457a78c7e8e5e788b357380b708ba2730750e2"/>
+		<rom name="Guilty Gear Isuka (Spain).cue" size="91" crc="e2dbcb2c" md5="414b293ad3cd89edfaa81bfa565a253e" sha1="c603435c7a33b87d6499ca46a4555b8814f7c7bb"/>
 	</game>
 	<game name="Guilty Gear X2 Reload - The Midnight Carnival (Russia)">
 		<category>Games</category>
@@ -39554,6 +39560,15 @@
 		<rom name="Interplay's Select Family Entertainment Pack (USA) (Virtual Pool) (Track 7).bin" size="39835824" crc="b767d603" md5="f40afe5809c6cd6ad1bd5bf8264a3425" sha1="0ca6429c892353a99cc716e44d41d2d554e04f5f"/>
 		<rom name="Interplay's Select Family Entertainment Pack (USA) (Virtual Pool) (Track 8).bin" size="27337296" crc="38b8b4bd" md5="5c58a6e27ad1184af7ad43f93b0b81ab" sha1="880608d3b9d66da20e5e67415bbdddeaa6b11938"/>
 		<rom name="Interplay's Select Family Entertainment Pack (USA) (Virtual Pool).cue" size="1116" crc="9e54d7e1" md5="e79e63c2651e7f9170213cb5ee75f5be" sha1="b4e93135c40991ed9b1c0afe80ae8b71848c1fcb"/>
+	</game>
+	<game name="Interpose (Norway)">
+		<category>Games</category>
+		<description>Interpose (Norway)</description>
+		<rom name="Interpose (Norway) (Track 1).bin" size="264616464" crc="1b165f5a" md5="496a09785dea65bd8db52c8c06b21fb7" sha1="c1a56b39e15c00cc7d67acb6c37e933adf46c027"/>
+		<rom name="Interpose (Norway) (Track 2).bin" size="42902832" crc="cfb01c68" md5="c9c2f0ab5278fe0ffafabf8659d80a63" sha1="c542889bcb6cd7940cdf1c9b263b34faf47bd8c4"/>
+		<rom name="Interpose (Norway) (Track 3).bin" size="23329488" crc="fe3e48b4" md5="c8f40ab58a86bc563bb4c7fcd6700543" sha1="4a24c9d006e8e9418a4339b2d7af653889998469"/>
+		<rom name="Interpose (Norway) (Track 4).bin" size="6023472" crc="04f8a8f7" md5="14974e824df6227ac806a5580bc154d2" sha1="3fa46f42898b716f103e448a86c056035e7f1167"/>
+		<rom name="Interpose (Norway).cue" size="453" crc="ee7cc2a6" md5="385b55a6ab2500ab0e3852e3dd000f09" sha1="4c35157cb8c69a8b43d097114d50ae05f879b74d"/>
 	</game>
 	<game name="Interstate '76 (Brazil) (Disc 2) (CD do Jogo)">
 		<category>Games</category>
@@ -49273,6 +49288,12 @@
 		<description>Megafortress Mega Pak (Europe)</description>
 		<rom name="Megafortress Mega Pak (Europe).bin" size="43544928" crc="af9b4576" md5="5a4818d49f6909bb3982587f22c94f3d" sha1="b577ce3d92ef9b54be7f368bec400d60e07a3b46"/>
 		<rom name="Megafortress Mega Pak (Europe).cue" size="96" crc="057d413c" md5="eead3873fc3b2a024e26f7cf5f78f5b8" sha1="64641d479c4770d8b05cc87f992cb8a82e0818fd"/>
+	</game>
+	<game name="Megapede (Germany)">
+		<category>Games</category>
+		<description>Megapede (Germany)</description>
+		<rom name="Megapede (Germany).bin" size="79368240" crc="69fbb843" md5="ffde445122dde4cc362c5254ac88f99f" sha1="d3a79e9780af9143f6a3791536a04bd178bb9550"/>
+		<rom name="Megapede (Germany).cue" size="99" crc="983a0812" md5="6b1dd04643b62ba2ba4a71b74db447ac" sha1="63ee515653ed00953a0e52eccb215d9c0e2044e0"/>
 	</game>
 	<game name="Memento Mori (USA)">
 		<category>Games</category>

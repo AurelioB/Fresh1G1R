@@ -4,12 +4,12 @@
 		<name>Sony - PlayStation Portable (PSN) (Decrypted) (Retool)</name>
 		<description>Sony - PlayStation Portable (PSN) (Decrypted) (3,401) (-y) [-aAbBcefkmMoprv] (20260306-065333) (Retool)</description>
 		<version>20260306-065333</version>
-		<date>2026-03-14 03-11-18</date>
+		<date>2026-03-15 03-21-52</date>
 		<author>bsbt, buckwheat, C. V. Reynolds, FakeShemp, Gefflon, Hiccup, Landcross, norkmetnoil577, rarenight, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="100-Man Ton no Barabara (Japan)" id="0001">
 		<category>Games</category>
@@ -72,13 +72,13 @@
 		<rom name="7th Dragon 2020-II (Japan).iso" size="1324154880" crc="45397c26" md5="94fc2431c1517005ed45405295d69419" sha1="02be10816ee5fc50deee7df88a55a5124c26997d" sha256="6e6a2fd82c39e45bf795afa0b152b0e96cbd90f883b4ff1e71c27b2600d80430"/>
 	</game>
 	<game name="ACR 1 (USA) (Theme)" id="5860">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>ACR 1 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-ACRPSPTHEME00001</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-ACRPSPTHEME00001.PTF" size="510504" crc="f88a2348" md5="ae11e40bf2be956bb52c7b4043ce4afd" sha1="6166e6732b8b7b7d31389048d1d7912bb1a358b4"/>
 	</game>
 	<game name="ACR 2 (USA) (Theme)" id="5861">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>ACR 2 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-ACRPSPTHEME00002</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-ACRPSPTHEME00002.PTF" size="529196" crc="88015e96" md5="9c69f7168bbb37ea4925fda3581a601a" sha1="43c8b6d81a4432773bb24fdcad53f96e399f837b"/>
@@ -96,7 +96,7 @@
 		<rom name="AIR (Japan).iso" size="1615888384" crc="c0f53629" md5="a49451c1af0c46c8daf97b7d8c2835b0" sha1="78adf9b8f9d24939b96cfcf58fd96586d7007c05" sha256="033771869caac8de70fcda57d23d8364a947b4b05110b66ed039aa95d00f30b9"/>
 	</game>
 	<game name="AK47 Digital (USA) (Theme)" id="5874">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>AK47 Digital (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-DIGITALAKPSPTH01</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-DIGITALAKPSPTH01.PTF" size="522144" crc="fe09891e" md5="7660a937fb5f5522f46cd037bcef2051" sha1="3f5ef92a5a59e4fecc4e199a40b277a199528c82"/>
@@ -463,19 +463,19 @@
 		<rom name="Astro Boy - The Video Game (USA) (En,Fr,De,Es,It).iso" size="1147731968" crc="bf01c3ff" md5="112b828dc3cde9ffd2063a0628e12bff" sha1="45c9df865fa0f3d434a16cac2d951b0d8c4df0c5" sha256="aa4ff6e408603d60a2c19c022d560575c65680351a63af4f444c274e3bcbf52f"/>
 	</game>
 	<game name="Atomic Blast (USA) (Theme)" id="5833">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Atomic Blast (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-ATOMICBLASTPSP01</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-ATOMICBLASTPSP01.PTF" size="414984" crc="d95f979e" md5="f69871046dda460a24e8172cd9a60efd" sha1="654c9ef7c6cd78a4a1bf799f2844230b92450f70"/>
 	</game>
 	<game name="Attack of the Zombies 1 (USA) (Theme)" id="5864">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Attack of the Zombies 1 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-ATTACKOFZOMBIE01</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-ATTACKOFZOMBIE01.PTF" size="516160" crc="7f76388b" md5="7a6edb85a4aefbcf5688d647f8681a8b" sha1="0d2407a1ab006be5d5102c5eff9427631a3a11d3"/>
 	</game>
 	<game name="Attack of the Zombies 2 (USA) (Theme)" id="5865">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Attack of the Zombies 2 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-ATTACKOFZOMBIE02</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-ATTACKOFZOMBIE02.PTF" size="527260" crc="60115ddc" md5="12f20047e5dcbc62161a4b91482477db" sha1="23820f0d3eeb91a49dbc729e4939e74e787b2208"/>
@@ -487,13 +487,13 @@
 		<rom name="Auditorium (USA) (En,Fr,De,Es,It).iso" size="139460608" crc="bdf272ef" md5="69d112ac997cb6acc18c8d0d1598e3e6" sha1="9c52e392fa33e5a665d6177e8a5b4432438e6c0f" sha256="8f27fc9ce81af55f95c5f7b23031f75457a3b5848bc9fb233d01022179c16141"/>
 	</game>
 	<game name="Augbar Red Urban Camo (USA) (Theme)" id="5866">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Augbar Red Urban Camo (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-AUGBARREDCAMOT01</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-AUGBARREDCAMOT01.PTF" size="462948" crc="c1498339" md5="5f89dc9160ba9bec129997bb99c912ab" sha1="900fb5cc4a9336a7a762dd3665dd843e0f16cc46"/>
 	</game>
 	<game name="Azmodeus Dark Angels - Theme 7 (USA) (Theme)" id="5659">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Azmodeus Dark Angels - Theme 7 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-AZMODDARKANGPSP7</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-AZMODDARKANGPSP7.PTF" size="533412" crc="c2865ae4" md5="962e532663fcfcf1b6a9f1403eb5c31d" sha1="4f5ae965fd356b7fa175c29a2937706b6a34116f" sha256="1cde4c4f3abf58b817404c68bea444bbee6e8d1fa3a81b92b88e89487ae59ccf"/>
@@ -505,13 +505,13 @@
 		<rom name="B-Boy (Europe).iso" size="1775534080" crc="787d747f" md5="fb52c30455d7cc669e3cd209092df358" sha1="3888328cfa5c8c6bd1a2ebbd30b011e6b4e826aa" sha256="8b0b8a533ef2362e65d09df7b8535be98e42dd5a50ccb88ed4d2782bbf49ba9a"/>
 	</game>
 	<game name="B17 Flying Fortress 2 (USA) (Theme)" id="4461">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>B17 Flying Fortress 2 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-B17FLYINFORTPSP4</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-B17FLYINFORTPSP4.PTF" size="573164" crc="13997a63" md5="a21639d717979b59acca3a9b87208ca0" sha1="fa1ef996d52873563e7a0fa6855882181f5cb445" sha256="6a58a2422a9f58b06e5b09d4634570b91fababc02aabf26ad8d08b2adce77e9b"/>
 	</game>
 	<game name="Bad Business - Sir George (USA) (Theme)" id="4462">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Bad Business - Sir George (USA) (Theme)</description>
 		<game_id>UT0003-NPUY00004_00-BADBUSINESSSIRGE</game_id>
 		<rom name="NPUY00004\UT0003-NPUY00004_00-BADBUSINESSSIRGE.PTF" size="633908" crc="0bb38c75" md5="4f5684fd981dd6ad6f5ce941b11b5d82" sha1="2f8712c9f1df90de71c5689a4ec213b067e30848" sha256="328f34dac8c57c8c6eb3e72a8f3d3546145a8d7ba110e83b80a497929075baf8"/>
@@ -653,7 +653,7 @@
 		<rom name="Ballpen Koujou 2 (Japan) (BeitHell 2000).iso" size="122683392" crc="ebe4d435" md5="24245339e4d418fd6be1e6123b240bfb" sha1="27d76c661f05a94379906b5c3ab04f3ae982da61" sha256="577ac634003a577be322e80e8e0f47d72e360af7fc560a65cc759f9cb9f09ac0"/>
 	</game>
 	<game name="Banana Girl Hook-Ups (USA) (Theme)" id="4760">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Banana Girl Hook-Ups (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-BANANAGIRLPSPTM1</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-BANANAGIRLPSPTM1.PTF" size="380132" crc="9af0fe01" md5="61e9aba1b972d77bd003e375ffcf2f3a" sha1="92b7addd1de0c716e7b71ac31a5eb9262c81a29c" sha256="eb06a35baeed1be9ee698184b3b45e62d3a9f427a77b7e681280554bf36275ca"/>
@@ -685,7 +685,7 @@
 		<rom name="NPJJ30025\PSP-KEY.EDAT" size="16" crc="36e9a6eb" md5="8fe9465237612b18ded0695360b3ee1a" sha1="3482c448d7c55647d0999d8bb30472e52e105a13" sha256="53703ec45355f0e1fccb4007fafa7be4ae20097ae0b5a011c6c7b505cb9e8494"/>
 	</game>
 	<game name="Battlestar Galactica (USA) (Theme)" id="4778">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Battlestar Galactica (USA) (Theme)</description>
 		<game_id>US0018-NPUY00012_00-BSTARGALACPSPTM1</game_id>
 		<rom name="NPUY00012\US0018-NPUY00012_00-BSTARGALACPSPTM1.PTF" size="540536" crc="dfc10c60" md5="fdcd39fb2e3d143365d3ec7b140091eb" sha1="8a9326b8f5c12c5dfb366862ba7d1c3e493ce74f" sha256="cae7741bf2522aa55b906a8471d439e2ed9664614bcbc49f07c1937f4abdd750"/>
@@ -765,7 +765,7 @@
 		<rom name="Bijin Tokei Portable (Japan).iso" size="375783424" crc="29d0dd28" md5="08227403bd601c790de57be85f050703" sha1="d89b5e0366d12bb66eb6934fa01cc4098e882806" sha256="13b5ecd3c2a1b38ae48a59fc61c9df482e3905fd73436c1c67ef911883a38add"/>
 	</game>
 	<game name="Bikini Nurse Girl Hook-Ups (USA) (Theme)" id="4752">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Bikini Nurse Girl Hook-Ups (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-BIKININURSEPSP01</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-BIKININURSEPSP01.PTF" size="393368" crc="36051f56" md5="ad3b22077a528bae8802a87ce298826b" sha1="7d82012f40c594d7182ea5492dad79f10c3f7a5b" sha256="99b0cd16a1d0d5b0fe82b1839b82334a246279b1c2e9abe2415038a30d8941dc"/>
@@ -1204,19 +1204,19 @@
 		<rom name="ULES01230\PBOOT.PBP" size="9192822" crc="81a6211c" md5="01507905210832001396eb1f321dd312" sha1="0fd70a749301f7d5f556f99af39da7dbb4fc854b" sha256="eca5f1c9a4a3ff48beecf325f0f1459a1655c3dff8ef7303f3a4ab33475d6aec"/>
 	</game>
 	<game name="Blue Tiger Camo 1 (USA) (Theme)" id="5868">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Blue Tiger Camo 1 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-BLUTIGERCAMPSP01</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-BLUTIGERCAMPSP01.PTF" size="554164" crc="9b2a4676" md5="a35e006199d6575e7590fa96ccd334ec" sha1="af83327cc06a9f50a5c0615a74a54e5ebc4a1257"/>
 	</game>
 	<game name="Blue Tiger Camo 2 (USA) (Theme)" id="5869">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Blue Tiger Camo 2 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-BLUTIGERCAMPSP02</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-BLUTIGERCAMPSP02.PTF" size="544776" crc="754e7e5f" md5="8818d4a2e16aba105f4aa6a52e4da5ed" sha1="2d738086e091936460a37d1a158875a323900e69"/>
 	</game>
 	<game name="Blue Urban Camo Spectre (USA) (Theme)" id="5867">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Blue Urban Camo Spectre (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-BLUECAMOSPECTR01</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-BLUECAMOSPECTR01.PTF" size="481732" crc="a9ca3fa3" md5="62ebe5c5b421d9c02931df3d61afa13d" sha1="9457d3dee8794a2964eb7bcd4279cf843923ea16"/>
@@ -1348,7 +1348,7 @@
 		<rom name="Brunswick Pro Bowling (USA).iso" size="167641088" crc="f286df93" md5="e67bce10c6467244bb330d590ffa82eb" sha1="dbab241b6161e6bb2520e0307ee705b7b4297bcb" sha256="7fe89684f2f44caabc82fbd4720c731596942c293da3a0f9475a42ead5e5e644"/>
 	</game>
 	<game name="Bunnies Pinups Theme 4 (USA) (Theme)" id="4528">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Bunnies Pinups Theme 4 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-BUNNIESPSPTH0004</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-BUNNIESPSPTH0004.PTF" size="581016" crc="306da971" md5="45a50809ebfa0e5998ee22853fa1f6fa" sha1="f1920cf01902c7c260030067f26a7099f226fe6d" sha256="f0c38f9675e13352bb8ae8c30f57bbd1f64aede0dba813a02e4a40d55dd05ce4"/>
@@ -31737,7 +31737,7 @@
 		<rom name="Capcom Puzzle World (USA).iso" size="513081344" crc="dbe489fa" md5="a9057b45514f61f21ea57196e813441b" sha1="0594fd0cfe00006e914ac7fdd0160be4533b4a43" sha256="ece2b8ed74aa692b4382dfc1e64c502c61f46467f2d924e8582b54a8562f3d77"/>
 	</game>
 	<game name="Carnage Heart EXA (Japan) (Theme)" id="4257">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Carnage Heart EXA (Japan) (Theme)</description>
 		<game_id>JP0011-NPJY90043_00-20110222ADPSP003</game_id>
 		<rom name="NPJY90043\JP0011-NPJY90043_00-20110222ADPSP003.PTF" size="592172" crc="50920697" md5="7d016591f7591bfe6a982bcafcc25964" sha1="f100ed6073040bd1dbaa3e1ba9ae35d5943b6de2" sha256="47c017d451bb2a1a159f5e0138a89e94b02f2af5ba07b89353e6f4246df57232"/>
@@ -31779,19 +31779,19 @@
 		<rom name="Castlevania - The Dracula X Chronicles (USA).iso" size="1111359488" crc="660fe9e4" md5="2558f3a06f7d852dd6b61a94c1c3a3f1" sha1="a689f158031569113b5661c756d7db9af42ced94" sha256="2c62f37aa1ae34a30827d127680ee1fce203fa9afbec9813d49eeb471fcd9340"/>
 	</game>
 	<game name="Cat Girl Akiko Hook-Ups (USA) (Theme)" id="4759">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Cat Girl Akiko Hook-Ups (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-CATGIRLAKIKOPSP1</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-CATGIRLAKIKOPSP1.PTF" size="338952" crc="2fee6b63" md5="2f46fbee7e9acb7e8ea610fc037bc0f3" sha1="afa40d312495ebc8aea67795ff65e745a987aac0" sha256="ee1bce15efe7a88bb6a79639482386a5d32d66f850f5058907d20219bbd1e030"/>
 	</game>
 	<game name="Catfight Girl Hook-Ups (USA) (Theme)" id="4751">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Catfight Girl Hook-Ups (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-CATFIGHTPSPTHM01</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-CATFIGHTPSPTHM01.PTF" size="436328" crc="ade875a5" md5="a1191a17b3a06072fce992ce0615efcf" sha1="a8e3c37b93d7505dfd255d89dde173970bcc3ab5" sha256="6795c1192546c433966a848dd9b5229e3304c1eb2b817e3787da32784a0ace22"/>
 	</game>
 	<game name="Celtic Maidens (USA) (Theme)" id="5660">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Celtic Maidens (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-CELTICMAIDPSP001</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-CELTICMAIDPSP001.PTF" size="631400" crc="ec4befb3" md5="af0e70066eff218da9263d64cac05d94" sha1="35be8955c3599a137ca3b42c9864b06b74fb0c71" sha256="be572ec2fb11108183e3de5531bf663a4a125cf4fb2a0f783f9699f70f3296e4"/>
@@ -31821,7 +31821,7 @@
 		<rom name="Chessmaster - The Art of Learning (USA).iso" size="213450752" crc="cf7fdafd" md5="8767fc90c5668bb19154b924334cf9d0" sha1="700edd8ad2da215c774f16ee38f04aaa7ecef558"/>
 	</game>
 	<game name="Chey Tac 1 (USA) (Theme)" id="5870">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Chey Tac 1 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-CHEYTACPSPTHEM01</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-CHEYTACPSPTHEM01.PTF" size="530020" crc="81be6bd0" md5="f8bf8799c3c90a06aac778a1747bdae5" sha1="c19c3321b365090a9b2e02c77a5fa65572e503a1"/>
@@ -31903,7 +31903,7 @@
 		<rom name="NPJH50266\PBOOT.PBP" size="1412105" crc="a3129ef3" md5="c83af1df653bdec8a8de1a1547f3f723" sha1="64043a9149a40aab29331865719cf1d8b6c6d307" sha256="763ed08bb898160fa408317e4089e6cca9d8fc4ec1215115219b097beecb4ed5"/>
 	</game>
 	<game name="Clash of the Titans (USA) (Theme)" id="4773">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Clash of the Titans (USA) (Theme)</description>
 		<game_id>US0001-NPUY00018_00-CLASHTITANSTHM01</game_id>
 		<rom name="NPUY00018\US0001-NPUY00018_00-CLASHTITANSTHM01.PTF" size="685040" crc="0377ec07" md5="e84554c7cc6d68e682dc3fea896f3dab" sha1="468d0fa5d5f6dc480648f7eb348f9fcf6343025f" sha256="171a66f35c5d223151ae88b185014b8b7108dd81602e67cc22298fbf507964a5"/>
@@ -31979,13 +31979,13 @@
 		<rom name="ULJS00364\PARAM.PBP" size="227301" crc="e03dabf1" md5="2f9d84a79755359ddfe914d9f59429ff" sha1="2defa2fa5c3b20ea4c85d42dfc1bfffb60f3ebd6" sha256="30fe52cb15b915d13253087bf813467243ec327c3d6d6c7154f1e72cc932beb8"/>
 	</game>
 	<game name="Claus of War (USA) (Theme)" id="5871">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Claus of War (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-CLAUSOFWARTHEM01</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-CLAUSOFWARTHEM01.PTF" size="644256" crc="18ec4697" md5="5e0efc20aa138ddc46d9c74191dd3dfc" sha1="6b7ccdf4742598f0abeeb1a8873c38c71562940d"/>
 	</game>
 	<game name="Claus of War 2 (USA) (Theme)" id="5872">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Claus of War 2 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-CLAUSOFWARTHEM02</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-CLAUSOFWARTHEM02.PTF" size="658616" crc="c06f53fd" md5="8623aab355f38b3d44a68f8a4cc10491" sha1="a1ff433728570e63890fe3a69930258aa7a57ad3"/>
@@ -32009,13 +32009,13 @@
 		<rom name="Colin McRae Rally 2005 Plus (Europe).iso" size="1705213952" crc="a1400738" md5="f1db02e3054d178f9e60a3532cc6119f" sha1="8d8a6eca6fd78da3f901cd92f589183ec19121e1" sha256="517b54946c06ab97a1676b14b21e90c07fbc9e42ec5a7a09e7355a6da20a2ad4"/>
 	</game>
 	<game name="Comic Hero - PSP Theme 2 (USA) (Theme)" id="4799">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Comic Hero - PSP Theme 2 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-COMICHEROPSPTH02</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-COMICHEROPSPTH02.PTF" size="675280" crc="eedd540b" md5="fa76a28ae957f3b1ae3e003eb4f2cc27" sha1="c5b25a736c966c84cddd7dc20e5203b90f610165" sha256="ec7d1d17eb4c03dc8b5e71c932f78e10e799e3569adda10b556f87d6ba1a2464"/>
 	</game>
 	<game name="Commando Tiger Camo (USA) (Theme)" id="5873">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Commando Tiger Camo (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-COMMANDOTIGERC01</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-COMMANDOTIGERC01.PTF" size="454012" crc="84c2d312" md5="91e6b1f6f90f91677b573cead442ebed" sha1="9278004907fbec1718daf37f8d294cead4cbae18"/>
@@ -32362,7 +32362,7 @@
 		<rom name="Dead or Alive - Paradise (USA) (En,Ja,Fr,De).iso" size="869990400" crc="87a8830a" md5="48a535d4bc67c143788fa47bce3113e0" sha1="1e9ec85f82b5a2a571525f8375abb2c591a70ba9" sha256="d52678c277d6152de1fac2a83d08bcc3fad067af59375933ffe724c6b793d3ab"/>
 	</game>
 	<game name="Deadliest Warrior (USA) (Theme)" id="4780">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Deadliest Warrior (USA) (Theme)</description>
 		<game_id>US0023-NPUY00020_00-DEADLIESTWARTH01</game_id>
 		<rom name="NPUY00020\US0023-NPUY00020_00-DEADLIESTWARTH01.PTF" size="441700" crc="073b0800" md5="763808f5759d5da8c965a5e24b307c89" sha1="a1f3c67621c15f8800c6526b0d44ad5df8120740" sha256="3992ea7fb0c901ff923781153a5bc17dd6d732588395b02635d1196d8b4df42e"/>
@@ -32630,7 +32630,7 @@
 		<rom name="NPJH60040\uta.mp3.edat" size="686192" crc="a93cd8bf" md5="6ed6876958dda5860a989c012713d7a5" sha1="0c7f2f19136a64263397d8f824d2ad2d4e9b6dea"/>
 	</game>
 	<game name="Design (Europe) (Theme)" id="4465">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Design (Europe) (Theme)</description>
 		<game_id>EP9000-NPEW00052_00-TPCPSPGOUM000001</game_id>
 		<rom name="NPEW00052\EP9000-NPEW00052_00-TPCPSPGOUM000001.PTF" size="443564" crc="132e3499" md5="439261268eef3d6b414e8f8efcf62205" sha1="7faffe9fb3effebf418bbf1e478c9497c80fae60" sha256="a76b9e543a39d43d669754fed38d954b7a92da4059420e5c9f91a1652a039c99"/>
@@ -32658,13 +32658,13 @@
 		<rom name="NPJJ30003\PSP-KEY.EDAT" size="16" crc="0f655e83" md5="6d140dec965e745cfd8f5eaf5450cd3a" sha1="9ee574fd44f988d75ac7b6c9ab221c50a0599ce3" sha256="88ec1917021c2a96f8c79d856b19ec7dd86b38102da54372ea1bba01136b871c"/>
 	</game>
 	<game name="Devil Girl Hook-Ups (USA) (Theme)" id="4793">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Devil Girl Hook-Ups (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-DEVILGIRLPSPTM01</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-DEVILGIRLPSPTM01.PTF" size="379720" crc="07cf87c2" md5="e323e471a85327f02df8567ec3b5218a" sha1="1f9d4f2718b188f1977d1b9ad144f692694a0c35" sha256="f743f48675e2d708a2fa5c671ee4fd62f3948d38fdfaba48af0854cd9b53d8df"/>
 	</game>
 	<game name="Devil Vixen Hook-Ups (USA) (Theme)" id="4798">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Devil Vixen Hook-Ups (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-DEVILVIXENPSPTM1</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-DEVILVIXENPSPTM1.PTF" size="415512" crc="cb050e93" md5="3fe73305c14c85f804042214366241b2" sha1="69426b3fafa372b079eb90366002682e765530d7" sha256="668818a5afa50d5298bda8b9ba01f41d084db12e95a206d240662ab77f44e5cf"/>
@@ -32835,19 +32835,19 @@
 		<rom name="Disgaea Infinite - Japanese Version (Asia) (Ja).iso" size="254050304" crc="3bce8813" md5="f42fbad68680c7439546e4403af6ed55" sha1="572e6c00ce4a8fe894c42a3805f2f744e2c5fe0f" sha256="2cdd02dbfe0f8cf310a741bbf743d3118add5b3debd7d46060577731a5512049"/>
 	</game>
 	<game name="Disney Alice in Wonderland (USA) (Theme)" id="4768">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Disney Alice in Wonderland (USA) (Theme)</description>
 		<game_id>UP1082-NPUY10001_00-ALICEINWONDERPSP</game_id>
 		<rom name="NPUY10001\UP1082-NPUY10001_00-ALICEINWONDERPSP.PTF" size="599544" crc="d7b3c3d6" md5="3e508f8b15ae9270d39c3aca86b6e23d" sha1="2d1e415f1415ea43a7590de6012d05a9d81106d7" sha256="605d74c815080d070530f3a18be439e749e57e0c3661f2827ccf7a2756e1bdd4"/>
 	</game>
 	<game name="Disney Princess and the Frog (USA) (Theme)" id="4771">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Disney Princess and the Frog (USA) (Theme)</description>
 		<game_id>UP1082-NPUY10001_00-PRINCESSANDFROG2</game_id>
 		<rom name="NPUY10001\UP1082-NPUY10001_00-PRINCESSANDFROG2.PTF" size="582320" crc="3f3a4c1d" md5="cf75c5d1f6c8d2c2fa4159f2e6afd93c" sha1="3538768326a804f916999cc3d9ceb2ed5fe9fad0" sha256="8dc82e93165155010adf36c1832941355fd12b64292aae078118025ef4fa1d13"/>
 	</game>
 	<game name="Disney Tinker Bell and the Lost Treasure (USA) (Theme)" id="4766">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Disney Tinker Bell and the Lost Treasure (USA) (Theme)</description>
 		<game_id>UP1082-NPUY10001_00-TINKERBELLLOST01</game_id>
 		<rom name="NPUY10001\UP1082-NPUY10001_00-TINKERBELLLOST01.PTF" size="612520" crc="4aaa8e60" md5="a8f73f7c297bf5022c25849130730753" sha1="c478adeabe20fbd8cd908375d03f2fe4cab105bc" sha256="a61e91972a74214a4b2bf7fa08992778bb3a8f2541a1efcd4949984b2cebaad1"/>
@@ -32859,7 +32859,7 @@
 		<rom name="Disney Tron - Evolution (USA) (En,Fr,Es).iso" size="292913152" crc="ebcb4fd6" md5="9e5d772df0a1a6918b7057416be6f518" sha1="1903ed6d86a2d691f3aab8cfe518cfc839316363" sha256="7b0134e1901388d524263b909814b446f43455ba3d53f6092d18cdce06d3cd0b"/>
 	</game>
 	<game name="Disney Vintage Comic Mickey (USA) (Theme)" id="4769">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Disney Vintage Comic Mickey (USA) (Theme)</description>
 		<game_id>UP1082-NPUY10001_00-COMICMICKEYPSP01</game_id>
 		<rom name="NPUY10001\UP1082-NPUY10001_00-COMICMICKEYPSP01.PTF" size="630248" crc="d885c220" md5="ac24962ceabef1ec222c4eb62b739b16" sha1="2d62e7c2331be9b9e83d9356ce56c30b2dceaa87" sha256="7bd84bc067fd3b0b2daac8ad8ad1eff4b4f282a85faa8e917685c8c228ce1a73"/>
@@ -32901,7 +32901,7 @@
 		<rom name="Disney-Pixar Toy Story 3 (Europe) (En,Es).iso" size="905543680" crc="eff76494" md5="16adb57ed63509600da77b762fe82c0a" sha1="156ba3b1fda00f6a44bf48d21e838cdcd6eb8428" sha256="9b84ae2e490bde3da6faf63a5e53d5a27a95b6c74c61e16e5287b49b57fdc298"/>
 	</game>
 	<game name="Disney-Pixar Toy Story 3 (USA) (Theme)" id="4767">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Disney-Pixar Toy Story 3 (USA) (Theme)</description>
 		<game_id>UP1082-NPUY10001_00-TOYSTORY3THEME02</game_id>
 		<rom name="NPUY10001\UP1082-NPUY10001_00-TOYSTORY3THEME02.PTF" size="532088" crc="abaedd99" md5="5fb0c47ed263bc0b0aea1e1abaa3c734" sha1="8a79904bd0b0677c57c9d511a4d542ee6e1b1038" sha256="0825d000547e1dc4f58e2625831008018d74393c109cb3290f6d0ccd4a12b48a"/>
@@ -32985,19 +32985,19 @@
 		<rom name="Disney-Pixar Wall-E (Europe).iso" size="639238144" crc="7bb18237" md5="aa3ccc61402eab890af170de4c09df09" sha1="168d1115ddcca540984f22911a8c63ac8423a5b4" sha256="dbb180129076dbb8c7b467ef73b664fbff9a2eb5f66a15fec7fd2cd53cefc7e1"/>
 	</game>
 	<game name="Disruptive Publishers - Acid Trip (USA) (Theme)" id="0042">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Disruptive Publishers - Acid Trip (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-ACIDTRIPPSPTHM01</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-ACIDTRIPPSPTHM01.PTF" size="481816" crc="e310d119" md5="53896f4a771cad529d8226cd44249ddd" sha1="34eda2023396284f5d33ce278254274ab1499d16" sha256="1d399f5dd1fede1a8a1e7b82574f669a0f80fe6240af19309ba73a0a90f56428"/>
 	</game>
 	<game name="Disruptive Publishers - American Pride (USA) (Theme)" id="4459">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Disruptive Publishers - American Pride (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-AMERICANPRIDPSP1</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-AMERICANPRIDPSP1.PTF" size="597456" crc="93890ffa" md5="84d021c4935e7f180cfa6393551e465c" sha1="7f42bf1a79cf93741d903ed59539b4d5d3cd58d8" sha256="8b1d5dd44a303411a7b0953990ac4fff0f60e51838e8ab22a72aac89ec5867c2"/>
 	</game>
 	<game name="Disruptive Publishers - Apache Gunship (USA) (Theme)" id="4460">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Disruptive Publishers - Apache Gunship (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-APACHEGUNSHIP001</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-APACHEGUNSHIP001.PTF" size="463200" crc="c477487d" md5="48b8d46efde3f7ae3ba0b9e2623ff0ec" sha1="b63a3344b9bd06028050c9e4322e1469954ab68b" sha256="9f4aa03f84dab29df53e2027476c9804acd4b0d9e2e29aedf502aa4ffe004c79"/>
@@ -33015,43 +33015,43 @@
 		<rom name="NPUX00001\UT0001-NPUX00001_00-BIKINIFASHIONSHO.PTF" size="447472" crc="5f70a105" md5="7802cacee2212e8000d20e759bd9b1e8" sha1="8182ba23a705eb5bcef5f5fcf9f7216e8dfbb116" sha256="59d260446ceabf122199f33814db6e953c3c095e6d239cf9c04af6b6cddaca9c"/>
 	</game>
 	<game name="Disruptive Publishers - Chinese Fighting Dragons (USA) (Theme)" id="4547">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Disruptive Publishers - Chinese Fighting Dragons (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-CHINESEDRAGONPSP</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-CHINESEDRAGONPSP.PTF" size="410524" crc="8a6dcf3c" md5="05487555dd08affeee4a13e5bf6d2a56" sha1="a9e80ca57318f958904c750423b1e6d5edabbd85" sha256="2af78e238fb0d342e522e62e0763d21e96acd8bbed047fe9f10ca9ddc93ace81"/>
 	</game>
 	<game name="Disruptive Publishers - Hell's Heads (USA) (Theme)" id="5658">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Disruptive Publishers - Hell's Heads (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-HELLSHEADSPSP001</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-HELLSHEADSPSP001.PTF" size="302140" crc="888f59cf" md5="be2955b9385d653ddc8c074b1c79b360" sha1="46387412958cac7f29ff195e2a1c4e5c43f7ab81" sha256="b6576220fcd3f2a58f9830d40c4f0cd23a16416bd467fd502ebe42cb65d431fd"/>
 	</game>
 	<game name="Disruptive Publishers - Hot Tub Hottie (USA) (Theme)" id="4803">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Disruptive Publishers - Hot Tub Hottie (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-HOTTUBHOTTIPSP01</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-HOTTUBHOTTIPSP01.PTF" size="582448" crc="20e13581" md5="a2af448becd48ac68b9b233c0e45d2ba" sha1="2de6cf43524a2816f5caa3cf8e99ff0a33334eb3" sha256="331bfa5b3fa5f713a76f0b20b316dc91c151e0a38aa30f4002e1aa92799aae8e"/>
 	</game>
 	<game name="Disruptive Publishers - Materials - Brushed Metal (USA) (Theme)" id="4555">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Disruptive Publishers - Materials - Brushed Metal (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-MATERBRUSHEDME01</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-MATERBRUSHEDME01.PTF" size="221904" crc="cebd14f2" md5="36a765761b1945d8dd8ba0f8bdc6af12" sha1="d7959e2b30c708413175abec179be86007a9aad0" sha256="511005ebdca4c05933e8e6bb65117ded25e7a997aa01d95d9369909d40dc8670"/>
 	</game>
 	<game name="Disruptive Publishers - Materials - Ice (USA) (Theme)" id="4805">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Disruptive Publishers - Materials - Ice (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-MATERICEPSPTHM01</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-MATERICEPSPTHM01.PTF" size="582564" crc="8d7856c7" md5="7c963190d945a05362c28aaf76ea5e0d" sha1="b583c7379d6cfd030cee31fe09626ecbe2a66d28" sha256="90812f559db7f4ad20099892a04ae4962d1873beddc130d56a555ca81a6d47ae"/>
 	</game>
 	<game name="Disruptive Publishers - Materials - Woodgrain (USA) (Theme)" id="4806">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Disruptive Publishers - Materials - Woodgrain (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-MATERWOODGRAIN01</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-MATERWOODGRAIN01.PTF" size="464796" crc="fe8c624d" md5="62970254e4537cb37e4bba72b7b98b13" sha1="390f58b627663fef17576cffcb4ecf05dbb0d47e" sha256="5cfe48baab12a1acfaac764f0d03499da949e7e84946958da3ad1da38e006b86"/>
 	</game>
 	<game name="Disruptive Publishers - Nebula Tunnels (USA) (Theme)" id="4486">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Disruptive Publishers - Nebula Tunnels (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-NEBULATUNNELPSP1</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-NEBULATUNNELPSP1.PTF" size="580592" crc="0b73c5db" md5="919f3adff4dbc418b24cd8a595544a03" sha1="2ba20526e89af37e25d911f496e591badfbd24d5" sha256="40083f43dd08efa842b280bc12f5d7968f3d35debf00d7bc2d49e42c62cb67fa"/>
@@ -33967,13 +33967,13 @@
 		<rom name="Doko Demo Issho - Let's Gakkou! Training Hen (Japan).iso" size="170819584" crc="e336cbc9" md5="5634a09b8453227a3b4fb1d38132c089" sha1="f5b615aa389eef894e288189f8173ad839cc9170" sha256="08b8b6c368f7bb95cd11ad6700334e69b42215ab73d93e7ea94f845387e50224"/>
 	</game>
 	<game name="Doko Demo Issho 2011 Calendar August (Japan) (Theme)" id="5832">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Doko Demo Issho 2011 Calendar August (Japan) (Theme)</description>
 		<game_id>JP9002-NPJW90021_00-CALENDAR20110008</game_id>
 		<rom name="NPJW90021\JP9002-NPJW90021_00-CALENDAR20110008.PTF" size="222316" crc="014b7160" md5="04630372d1a65be1e3f0ed4837a9b9a1" sha1="302476898b7afdd492075692ce34250ee446f964"/>
 	</game>
 	<game name="Dongfang Queshen (Asia) (Theme)" id="4468">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Dongfang Queshen (Asia) (Theme)</description>
 		<game_id>HP5010-NPHY00014_00-DONGFANGPSPTHEME</game_id>
 		<rom name="NPHY00014\HP5010-NPHY00014_00-DONGFANGPSPTHEME.PTF" size="395712" crc="d48ec724" md5="2ea1888c48f1b329152e0673197ef3d7" sha1="32d03dac70d524384724687dc6fca513d3eab8f6" sha256="ae3e51ce174a6852cf47dd3e702d134720dc52155f6e972cb458e26fa2017811"/>
@@ -34026,13 +34026,13 @@
 		<rom name="Dragoneer's Aria (USA).iso" size="388104192" crc="edd5737a" md5="dc19b5904e6edff642b2f5f252a2734b" sha1="6636d3f75cf6ccde2427953dcabe79f994bfec1d" sha256="ccebc1c0bd6e1a6b67ea9cf22e7edb2c5d5124d0ea44ad29d03493b1b1313827"/>
 	</game>
 	<game name="Dragunov 1 (USA) (Theme)" id="5875">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Dragunov 1 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-DRAGUNOVPSPTHEM1</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-DRAGUNOVPSPTHEM1.PTF" size="556412" crc="bae80552" md5="240bb8f39bf8ea5685500615a9e0369c" sha1="174723201f52d08d1c22f9a13769ad62f5e510c0"/>
 	</game>
 	<game name="Dragunov 2 (USA) (Theme)" id="5876">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Dragunov 2 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-DRAGUNOVPSPTHEM2</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-DRAGUNOVPSPTHEM2.PTF" size="540460" crc="d1576e64" md5="adda36f732aa2aa772351f38af91aa34" sha1="b4b57c60c581ab6832563b767e212a08041c436c"/>
@@ -34060,7 +34060,7 @@
 		<rom name="Driver 76 (USA).iso" size="1109721088" crc="0d54e12b" md5="8ce9af311fa1e68e8f070dba41c9da6c" sha1="c2bc400e8f148e0fbfd882ea60e605129b601000" sha256="0e79d8faeddf780d3970550d208335e0bf5d0c76a498a06387f4f193f4c74c79"/>
 	</game>
 	<game name="Drops (USA) (Theme)" id="4802">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Drops (USA) (Theme)</description>
 		<game_id>UT0003-NPUY00004_00-DROPSPSPTHEME001</game_id>
 		<rom name="NPUY00004\UT0003-NPUY00004_00-DROPSPSPTHEME001.PTF" size="319764" crc="26a80fa3" md5="d3a2080c9391f78c095b9aa376f892c7" sha1="174bb9fbdcbd79cb91b0b613325f56985907333b" sha256="19898659390a9fc501bf3c25bd7c8a43c6d83fca4d87046fc4cb3fdc1a8efe4f"/>
@@ -34540,7 +34540,7 @@
 		<rom name="NPUH10128\SCP_.EDAT" size="38" crc="cdbca4bf" md5="d6164693fc6d2c719578e4ade271eac8" sha1="d1e83803a4f381ef9e39ade720a68cd4d716c4a9" sha256="be0300ee54c940b971a5c249632e6173926adb1076b5e8b1ffde574863f43e99"/>
 	</game>
 	<game name="Elven X - Theme 6 (USA) (Theme)" id="4804">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Elven X - Theme 6 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-ELVENXTHEME00006</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-ELVENXTHEME00006.PTF" size="663708" crc="449907d7" md5="1056a059e420fa3510ac075614789f0c" sha1="33f75fac83dafa21a8521c1639b6c517763adea6" sha256="ab29f0c6e0eaddc89876101989bb26fb2e26284cabf8589c3a972a4e6b7b5133"/>
@@ -34853,7 +34853,7 @@
 		<rom name="FIFA 11 (Europe).iso" size="1379008512" crc="7153683e" md5="44c8e39690d7965f9e1c0bd71cb28456" sha1="371335ef5213756f3edefbcb0367ba898cc5f3de"/>
 	</game>
 	<game name="FIFA 11 (Europe) (Theme)" id="0984">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>FIFA 11 (Europe) (Theme)</description>
 		<game_id>EP0006-NPEW00073_00-TPCFIFA11P000001</game_id>
 		<rom name="NPEW00073\EP0006-NPEW00073_00-TPCFIFA11P000001.PTF" size="418052" crc="b48f3a61" md5="20226200a758f7c444bf1ccb82f1a8bb" sha1="df1a3deb443c20ccfa055e874422378b4071b5b5" sha256="71050a6682ea7c7edd546cc970a495ed8c08c154edd8846cf112aba3765c8599"/>
@@ -34921,7 +34921,7 @@
 		<rom name="NPJH50486\PBOOT.PBP" size="6020369" crc="3a904bc9" md5="ec38d9a3b3851b7a0eab86bb7f6029b3" sha1="e67616bbfd87ed157d0272a645f9611202f6f89b" sha256="3451e90d8358adbb6f378ae9f76863ee8d8cbe919fda7fcb550298552bf1f754"/>
 	</game>
 	<game name="Family Guy (USA) (Theme)" id="4406">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Family Guy (USA) (Theme)</description>
 		<game_id>US0010-NPUY00022_00-FAMILYGUYPSPTH01</game_id>
 		<rom name="NPUY00022\US0010-NPUY00022_00-FAMILYGUYPSPTH01.PTF" size="368692" crc="1f7cc76b" md5="29f839ba0bb6f8b6e7936f684320a3bb" sha1="5a41d6e8271666e094b8e5233f7a5636bd138063" sha256="861e247713270df25e381d500f2986e3572062e2b3e054a0428e777ae0b80db0"/>
@@ -34981,13 +34981,13 @@
 		<rom name="Fight Night Round 3 (USA).iso" size="1137737728" crc="051688db" md5="4e4347fe4acaff26da37aec13c63bd64" sha1="dab2db0355111d846da6e70a82279db27aa65d39" sha256="87a2b02fa9ce8fb21852fd2b713f839685f150bfcbb36853383bd29ffa64d615"/>
 	</game>
 	<game name="Fighter - PSP Theme 1 (USA) (Theme)" id="4800">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Fighter - PSP Theme 1 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-FIGHTERPSPTHEM01</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-FIGHTERPSPTHEM01.PTF" size="680168" crc="517ec05b" md5="b0e2413fbc2e4abd3d57df354de8f5cb" sha1="dbc5cdbd88197b7ff442b47e07a5729f6d3bd9f5" sha256="66b924797f3cd5495380f47f015043a17b2ca375c48dc742659ab9506a3ce5e5"/>
 	</game>
 	<game name="Fighter - PSP Theme 3 (USA) (Theme)" id="4801">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Fighter - PSP Theme 3 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-FIGHTERPSPTHEM03</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-FIGHTERPSPTHEM03.PTF" size="680700" crc="e914101b" md5="c09429669be7db670436451eb563e12e" sha1="7f739b8b9a39df724c7de5e12475d8b80fdc7903" sha256="22a89b129aeff5f713650cd1402f4d7a7cc835b213b016d68f6da1da9a7e935e"/>
@@ -35721,7 +35721,7 @@
 		<rom name="NPJJ30011\PSP-KEY.EDAT" size="16" crc="f11e95a7" md5="bcce60ec28ccc79955fb04d3c7ca7067" sha1="552cc84cf1ca792457bde42b9cda0b2c38b9c87a" sha256="0fad54e5e123cca45920757b0bfe03e2cfa3009d41e494b7d4e49ae61d2bc739"/>
 	</game>
 	<game name="Geisha Girl Hook-Ups (USA) (Theme)" id="4756">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Geisha Girl Hook-Ups (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-GEISHAGIRLPSP001</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-GEISHAGIRLPSP001.PTF" size="310252" crc="eefb2f0f" md5="256853b8f7416a3fc875f664053ab04c" sha1="afa66ab64e50169ecd7b8620d568e0f8cbc3c040" sha256="f3674ecd70b674e6a2b57ef82808aa1d844067a701d73c775c0f87b00552412e"/>
@@ -35763,7 +35763,7 @@
 		<rom name="Gensou Suikoden I &amp; II (Japan).iso" size="849149952" crc="3e6edca6" md5="ecedcf4008d6b1e0c8cb5e6ab672f472" sha1="7bbee4bc877f3a5b07465f9b87bf24fe43122a54" sha256="7b41e2a9ac651b88b8fee62d8ce2ab9e23e592ca999bb2b6a4985b6076adc7f8"/>
 	</game>
 	<game name="German Panther Tank (USA) (Theme)" id="4472">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>German Panther Tank (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-GERMPANTTANKPSP1</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-GERMPANTTANKPSP1.PTF" size="502540" crc="ee20fa03" md5="7fdb56e9e6981bd0eca401b5b03e3185" sha1="abc4bb5a11d15c954e363a0ae461dcbddfc44e3c" sha256="7729182b93b580a696e342cc11921fff09c825a1aecfc16b339b6c7187918b4e"/>
@@ -36888,7 +36888,7 @@
 		<rom name="NPJH50352\ee02a5fc514a9f699a0e3f57264a65f2.edat" size="24" crc="f4417f93" md5="4476aea1b0c1b4643f00c2b3d5e55672" sha1="7755536b2300ca9e2d17fbea6f306d1c3af537d9" sha256="8a95c4366b08a7850fd14b922698c73591ec3f0807ac0b231bf415d8e677f7ee"/>
 	</game>
 	<game name="God Eater Burst - GEB (Japan) (Theme)" id="1262">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>God Eater Burst - GEB (Japan) (Theme)</description>
 		<game_id>JP0700-NPJY90048_00-0000000000000001</game_id>
 		<rom name="NPJY90048\JP0700-NPJY90048_00-0000000000000001.PTF" size="510316" crc="3c1efe5f" md5="6ce42aa2c195fd3dcb9aecec17e290f9" sha1="a31abb8fd05fc74d3d8ada3ebe3a592608bdc319" sha256="50088290de4f0ed6af734371153ea392bd4d60691d8150cc31e8c5fe64708ea5"/>
@@ -37059,7 +37059,7 @@
 		<rom name="God of War - Ghost of Sparta (USA) (Demo).iso" size="248840192" crc="59278755" md5="423a22544827290670636acb7c65bb51" sha1="278dacb2a3ecf206f6f8fbd86917da806e49359f" sha256="a4c177bffe6cc45e29d7e0a155e9c6e7719f29464650adbf7b484db14bef0452"/>
 	</game>
 	<game name="God of War - Ghost of Sparta (USA) (Theme)" id="5673">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>God of War - Ghost of Sparta (USA) (Theme)</description>
 		<game_id>UP9000-UCUS98737_00-TGODOFWARG000001</game_id>
 		<rom name="UCUS98737\PS3LOGO.DAT" size="5120" crc="ec395c50" md5="0aad59dba6c06f041b8d1e579bda2c32" sha1="033dfc4a2d5646dc02be118b95e398c3260aca89"/>
@@ -37080,7 +37080,7 @@
 		<rom name="UCUS98737\PARAM.PBP" size="26500" crc="7afe0f7a" md5="fed94b7bd5a56f88676e222c861a3b4b" sha1="c0fc175a31878017dd31d5dbc3a2c99e68c0668c" sha256="95ba90d51a299ced54339e738e1a9172b45eec75ececbb8e217b2259b8177d40"/>
 	</game>
 	<game name="God of War - Ghost of Sparta Theme (USA) (Theme)" id="5666">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>God of War - Ghost of Sparta Theme (USA) (Theme)</description>
 		<game_id>UP9000-UCUS98737_00-GOWGHOSTSPARTPSP</game_id>
 		<rom name="NPEW00072\EP9000-NPEW00072_00-TPCGODOFWA000001.PTF" size="371572" crc="aa525e57" md5="f7fa6c3d2ef2e7019b78b68f57ddb2aa" sha1="22d691a0d416a7cd65d9fe0d6a6aa9397b16211b" sha256="bb6838ec11296f1bf7fc5b2976367d9bfc7a6a3ee1f4e0759278b98141d23ace"/>
@@ -37110,7 +37110,7 @@
 		<rom name="God of War - Rakujitsu no Hisoukyoku (Japan) (Demo).iso" size="585334784" crc="5e148dfc" md5="5118dc6ad55c503acb262ace0ed71071" sha1="fb2a3b041d6a52a384924294afbe69832811c567" sha256="0f22be4de6ae80e283365ba40d1ea155c507bf23a75d2477f8b087c5cc1b02a4"/>
 	</game>
 	<game name="Godfather, The (USA) (Theme)" id="4761">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Godfather, The (USA) (Theme)</description>
 		<game_id>US0003-NPUY00001_00-GODFATHERPSP0001</game_id>
 		<rom name="NPUY00001\US0003-NPUY00001_00-GODFATHERPSP0001.PTF" size="550308" crc="35d01443" md5="fd078c32fcc880e1d1f85d78cbc82680" sha1="94d1fa5816b83a805e09d823e767c047b80345f0" sha256="4b8e28978b12899466b5619c2b41d83db30407be30b0ba9e0719ba4ef93ddee0"/>
@@ -37176,7 +37176,7 @@
 		<rom name="Goku Makai-Mura Kai (Japan).iso" size="978485248" crc="2e970cc8" md5="6f8967ed91c8ef466e9837f45359c07a" sha1="35088748834915e1280e28675bd6bdf826842319" sha256="b333a978460c6622979ef2afcd5acd1822c5af0418269378930ce4389c8e0e2b"/>
 	</game>
 	<game name="Gold Scar (USA) (Theme)" id="5877">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Gold Scar (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-GOLDSCARPSPTHM01</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-GOLDSCARPSPTHM01.PTF" size="572512" crc="37959bd9" md5="abd271f7e646f57b88a86c27d788690e" sha1="6cce473a72362ab6f889f7d3b38b9c8292c1ded7"/>
@@ -37279,19 +37279,19 @@
 		<rom name="UCUS98632\PARAM.PBP" size="57256" crc="59808fc9" md5="112f227ad48b7ee0d0a4b8562aa8aa84" sha1="957a5725e29d3219710d4eacee34ad908be462af" sha256="0ae680f1d2c9b698ffb550fab8da811242eebbd3ab991df0b5e13d1f5045bd2a"/>
 	</game>
 	<game name="Gran Turismo 5 (Europe) (Theme)" id="4267">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Gran Turismo 5 (Europe) (Theme)</description>
 		<game_id>EP9001-NPEW00051_00-TPCGRANTUR000001</game_id>
 		<rom name="NPEW00051\EP9001-NPEW00051_00-TPCGRANTUR000001.PTF" size="121368" crc="5e291716" md5="be056625818486ce5fb86a73f396c0e7" sha1="dacda935a1b092abab572c3358e48d9c2955b043" sha256="797cb62d79e29e86a29dd65a6a333c93eb89838e0d9860339dea5318d1c64e48"/>
 	</game>
 	<game name="Gran Turismo 5 - Time Trial Challenge (USA) (Theme)" id="4473">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Gran Turismo 5 - Time Trial Challenge (USA) (Theme)</description>
 		<game_id>UP9000-NPUA70087_00-GT5SHICKPSPTHEME</game_id>
 		<rom name="NPUA70087\UP9000-NPUA70087_00-GT5SHICKPSPTHEME.PTF" size="451828" crc="83fc0816" md5="313e2fafa7097623d76ce084ee099227" sha1="3acad4e09263ed9ed4c362847fda612011e476d4" sha256="1cb976f1a78e7dd2afa8c949045b60f7bc1a55ab0e011cf3ba821d4df931b8e0"/>
 	</game>
 	<game name="Grand Canyon (USA) (Theme)" id="4795">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Grand Canyon (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-GRANDCANYONPSP01</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-GRANDCANYONPSP01.PTF" size="591396" crc="61978397" md5="a3256044f5a97128c943c9de6744ef30" sha1="9958cad9429ed2612a908d7a0735e6b756cae63c" sha256="f3b7df88367214758a12fed4f6a596b2d9ba9ec6e7f1d0819d6c603a8049be6d"/>
@@ -37471,7 +37471,7 @@
 		<rom name="Half-Minute Hero - Hero 30 (USA) (Demo).iso" size="125599744" crc="95b81d5c" md5="bce5076c179d6baf75eaa72e31e8ec1f" sha1="5968adee917ab1fb493fd8f90cd895558be5c36d" sha256="a3cfd73529955dc75a12012b9effd85378897182168421d5b90f80812934e5ca"/>
 	</game>
 	<game name="Halloween Vampires - Theme 1 (USA) (Theme)" id="1362">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Halloween Vampires - Theme 1 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-HALLOWEENVAMPSP1</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-HALLOWEENVAMPSP1.PTF" size="360376" crc="67c19e29" md5="3766b5290a19cfa333d7c4b97b6e9e08" sha1="9f1de0f492aa856d0d7df0e61f645bff57daa989" sha256="db839e8b8a7aa1d69f7097a423e5add963651e28d071ac054f9c485470a5eab8"/>
@@ -37543,25 +37543,25 @@
 		<rom name="NPJY00017\JP0031-NPJY00017_00-0000000000000107.PTF" size="617780" crc="4b6b47c4" md5="4e1e72cb1f236d904a4833b65bb27651" sha1="6ecd28c38f583623e5ef8bc654f2a7838546c788" sha256="73c430ffa4bd475a7af094d0655e4471d5dae07aa70b5722678e5b5bf463ecc3"/>
 	</game>
 	<game name="Hangover, The (USA) (Theme)" id="4772">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Hangover, The (USA) (Theme)</description>
 		<game_id>US0001-NPUY00011_00-THEHANGOVERTHEME</game_id>
 		<rom name="NPUY00011\US0001-NPUY00011_00-THEHANGOVERTHEME.PTF" size="603548" crc="2771fde9" md5="7160833b86d7c087e5edf5383314d858" sha1="d2b8e54e8a2ffdf9b7a0569c4376d15148129ac3" sha256="3b544979263668e1d14437902c6cafe005b52dc02a232f6c86824886e271f7dd"/>
 	</game>
 	<game name="Hannah Martin 3 (USA) (Theme)" id="5834">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Hannah Martin 3 (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-DP1GRL1HANNAMAR3</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-DP1GRL1HANNAMAR3.PTF" size="491608" crc="66bd7dc1" md5="61ad796f908dfc59f8c6fed12ac89694" sha1="5d0db4eb76b0a1481d755fc612f4bfaabc3b4ff7"/>
 	</game>
 	<game name="Hannah Martin 4 (USA) (Theme)" id="5835">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Hannah Martin 4 (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-DP1GRL1HANNAMAR4</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-DP1GRL1HANNAMAR4.PTF" size="451888" crc="ab08565d" md5="9e923322da3da9210d66d47c86cb7369" sha1="4bf0c440e9fa96212b42a728db981c2e104e03b5"/>
 	</game>
 	<game name="Hannah Martin 5 (USA) (Theme)" id="5836">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Hannah Martin 5 (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-DP1GRL1HANNAMAR5</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-DP1GRL1HANNAMAR5.PTF" size="451780" crc="14c182cb" md5="021abba4389a9191bba6a9a3df3a35b7" sha1="d8f9be563b707603ab9c5f3d5e0aa3d77dfb6f27"/>
@@ -37977,7 +37977,7 @@
 		<rom name="Hatsune Miku - Project Diva Extend - TGS Taikenban (Japan) (Demo).iso" size="241238016" crc="2281de59" md5="db5948eb6ab2a5d05280dfddbce42cef" sha1="1ac8c5df89f7391551cac1cb6258b9ca1179c581" sha256="fba79084f1ef8a8ec3ab0833bef6c7f9833bff2b1174d9a1ab64d7924899a305"/>
 	</game>
 	<game name="Haunted English Castle (USA) (Theme)" id="4791">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Haunted English Castle (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-HAUNTEDENGCAST01</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-HAUNTEDENGCAST01.PTF" size="531244" crc="91be41f8" md5="9170f1c25d8f763856718f6b580142d4" sha1="4c794ee420261caa22023123ddc7f31f3005d7a9" sha256="bc513aec351f6b4bf32366a992195bac51af221ecf7892d17df36964baf03b52"/>
@@ -38058,7 +38058,7 @@
 		<rom name="Hoard (USA) (Demo).iso" size="238059520" crc="05d96b6e" md5="041934dbc8ce677bd4863bb80b16844e" sha1="aceed313baeb05e72dac397620e8528d2c68af1a" sha256="fe7cdcc87e6ec193be4b719e624c925ed56e8f5f5f30276c04de92632601ae4d"/>
 	</game>
 	<game name="Hockey Hottie (USA) (Theme)" id="5848">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Hockey Hottie (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-HOCKEYHOTTIEPSP1</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-HOCKEYHOTTIEPSP1.PTF" size="563396" crc="679c2947" md5="424a863d3fb931921df4ae320bd0b8d6" sha1="326f605ee4785d07ee12d5aec5e2f8b6b434b890"/>
@@ -38160,19 +38160,19 @@
 		<rom name="Hot Shots Tennis - Get a Grip (USA) (Demo).iso" size="172654592" crc="7360ff18" md5="8770699920188df462e834592e563133" sha1="05457c20d49a05bf5a73e8d9088df7f95d373112" sha256="bbbd1c90b3c9ebb2d3b6076455e7b6e73abad8e5642f35f5f42a569d0fee88d7"/>
 	</game>
 	<game name="Hot for Teacher (USA) (Theme)" id="5849">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Hot for Teacher (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-HOTFORTEACHPSPTM</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-HOTFORTEACHPSPTM.PTF" size="535540" crc="44749985" md5="1b7ca46f9b6171210f3893bc0138b615" sha1="f2856a6ec2a32015dc6a2626fec0097e863fda0e"/>
 	</game>
 	<game name="Hyperdesk Pulse - Theme 1 (USA) (Theme)" id="4475">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Hyperdesk Pulse - Theme 1 (USA) (Theme)</description>
 		<game_id>UT0004-NPUY00005_00-HDPULSEPSPTHEME1</game_id>
 		<rom name="NPUY00005\UT0004-NPUY00005_00-HDPULSEPSPTHEME1.PTF" size="360288" crc="9ff7de61" md5="d38abb3420c220b3e39b961f22f5188a" sha1="bace2f00f3f46f474467032b4fe4c98f31e64017" sha256="71c0a6d63c78ad7b95d0ea765112ddb8b211a9fe47fd8932e15192be6d4ef963"/>
 	</game>
 	<game name="Hyperdesk Pulse - Theme 2 (USA) (Theme)" id="4476">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Hyperdesk Pulse - Theme 2 (USA) (Theme)</description>
 		<game_id>UT0004-NPUY00005_00-HDPULSEPSPTHEME2</game_id>
 		<rom name="NPUY00005\UT0004-NPUY00005_00-HDPULSEPSPTHEME2.PTF" size="349244" crc="8ecc4710" md5="c66eb2f238b1906dff89a9a0ff0d13de" sha1="3f210ea223aaa91e3dffa7e8e94246e9e2223925" sha256="ff1e0492ec877f83cc7a8f8f982bf72307665f9f95ef92ba20acaab2392e00e7"/>
@@ -38184,7 +38184,7 @@
 		<rom name="I Am an Air Traffic Controller - Airport Hero Tokyo (USA).iso" size="319324160" crc="ec5d5118" md5="89a427974aa7c3d0e0e2f465d93a72b1" sha1="68ff8193b3dd839d955f001b95d498911f31fb24" sha256="1ad6da1bdf83cc6ca6033d05956fee07b183c4fef49d3847243122d8753efe0a"/>
 	</game>
 	<game name="I Never Did It (USA) (Theme)" id="4781">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>I Never Did It (USA) (Theme)</description>
 		<game_id>US0039-NPUY00024_00-INEVERDIDITPSP01</game_id>
 		<rom name="NPUY00024\US0039-NPUY00024_00-INEVERDIDITPSP01.PTF" size="148864" crc="8627cc21" md5="11849ed427238b83ae7b3a79eff7b8b0" sha1="794d90864b79d76d919c4b854e8852b249782a7c" sha256="2d81b033eabee07596b8a8a10041007b3e96d4059b64d871678744fce16ed833"/>
@@ -38202,13 +38202,13 @@
 		<rom name="IL-2 Sturmovik - Birds of Prey (USA) (En,Fr,Es).iso" size="670138368" crc="f42ad365" md5="35b14645e95429fd7812eb55b0a278e3" sha1="9d8f84f6779065a1db3e9d7d4e7f0f19aa3dfe26" sha256="d129a88de75975a62bea65fd05ea2c4e40df612c91aab02575b9144d7f20f432"/>
 	</game>
 	<game name="Ice Age - Dawn of the Dinosaurs (USA) (Theme)" id="4774">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Ice Age - Dawn of the Dinosaurs (USA) (Theme)</description>
 		<game_id>US0010-NPUY00009_00-ICEAGEPSPTHEME01</game_id>
 		<rom name="NPUY00009\US0010-NPUY00009_00-ICEAGEPSPTHEME01.PTF" size="528336" crc="5e16968d" md5="889cec0da9412c5ae916e90bd9a2910f" sha1="5b910b486f96de1fcad71bde8119f8210c35e280" sha256="8c6067e38402fbaa06bc9344493af1e33322dbcb8be10ecd6144ccbbb34c069f"/>
 	</game>
 	<game name="Ice Cream Girls Hook-Ups (USA) (Theme)" id="4753">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Ice Cream Girls Hook-Ups (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-ICECREAMGIRLPSP1</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-ICECREAMGIRLPSP1.PTF" size="317972" crc="ba50e5b3" md5="47be76474c567d184fc03e5804d463fc" sha1="7055d87e24acad4147073036e88d1544ff9e0e1d" sha256="ff8d4fb5d25c2506772f8296413235f62d5413df2787eff8b90b1fc8e4a508f8"/>
@@ -46269,7 +46269,7 @@
 		<rom name="NPXP00100\music\dmusic3725.dap.edat" size="165888" crc="26666e69" md5="bd3b9d84be6245fed45c6b4513e8970a" sha1="bd041ff857e9203f782d03d3dc70e800fc242597" sha256="d029d60a19b3772e3421af145997cea35bd27e0b20d5a06e25debea33601cb05"/>
 	</game>
 	<game name="It's Always Sunny in Philadelphia (USA) (Theme)" id="4777">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>It's Always Sunny in Philadelphia (USA) (Theme)</description>
 		<game_id>US0017-NPUY00021_00-ITSALWAYSUNPSP01</game_id>
 		<rom name="NPUY00021\US0017-NPUY00021_00-ITSALWAYSUNPSP01.PTF" size="582752" crc="2014677d" md5="f00472580eb8fcc243f643d717b9fa75" sha1="ef7d306cb26f6a864486e2ab26dcfefd02e54364" sha256="44ba18cab9342f5f7b872dc54457b2d9f14214dfde223825b25dd9cda9fc97fb"/>
@@ -46622,13 +46622,13 @@
 		<rom name="Judie no Atelier - Gramnad no Renkinjutsushi - Toraware no Moribito (Japan).iso" size="1307148288" crc="366191f2" md5="b761bf1eef91f3bfe0b11e6c96102f30" sha1="fc6012af674916a5af7b6e3942ff2ed365eb508c" sha256="546bf9a1fc023cb6dbde3b8b9a78be669ea2cba900785f346a45dd681f3f7e8d"/>
 	</game>
 	<game name="Jungle Girl Hook-Ups (USA) (Theme)" id="4796">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Jungle Girl Hook-Ups (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-JUNGLEGIRLPSP001</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-JUNGLEGIRLPSP001.PTF" size="371748" crc="ad7f301a" md5="285378c6ebfddfa48077b11703253f03" sha1="d22c48a051d9a1a32c4a9ca8a9cb8d3516a9f7c7" sha256="7e7f50a72f075894870aa7f78d2c8449f9e365cf847e2313892681578627ad99"/>
 	</game>
 	<game name="Jungle Jane (USA) (Theme)" id="5850">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Jungle Jane (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-JUNGLEJANEPSP001</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-JUNGLEJANEPSP001.PTF" size="426496" crc="b227e335" md5="ea9c7f406f4bc7e5d27c6011e9b5a0a6" sha1="6e5bd4fd9d6227e6c271b21736774de772c053de"/>
@@ -46640,7 +46640,7 @@
 		<rom name="Jungle Party (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El).iso" size="510132224" crc="18a9f4c9" md5="8b3904c473b98f28af87e4901cfab930" sha1="cffbb2340eb55b6310dbc5a3c21d5206d68596ca" sha256="3d5119c214f2fd64ac3819f5f0f65a714f367810a601f29302211faa0f54cb90"/>
 	</game>
 	<game name="Junkyard Girl (USA) (Theme)" id="5851">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Junkyard Girl (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-JUNKYARDGIRLPSP1</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-JUNKYARDGIRLPSP1.PTF" size="607884" crc="be4e6674" md5="8a14cf700c80fd484325bf8869da6d8c" sha1="0986652aa7bef16367a362e8deb8cfac73b6cd54"/>
@@ -46670,7 +46670,7 @@
 		<rom name="Juusei to Diamond (Japan) (Demo).iso" size="132939776" crc="37763dc0" md5="d4ce5bdd3c625b32643671df59ba73ac" sha1="d3dc68c5f5c6464163d95db8249dbe6e710f84ec" sha256="d2d4315abef8c5b2a0cf0e1948f0498607cba5c8c436845fdafa08ea7c117ae4"/>
 	</game>
 	<game name="Kahoots Wallpaper (Europe) (Theme)" id="4572">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Kahoots Wallpaper (Europe) (Theme)</description>
 		<game_id>EP9000-NPEW50015_00-WPCKAHOOTS000001</game_id>
 		<rom name="NPEW50015\EP9000-NPEW50015_00-WPCKAHOOTS000001.PTF" size="489064" crc="7e52b61d" md5="e544728e055401a2a5125e49d4efde26" sha1="c20ff0d42243f81d01fc02cd6ddb229c06372b06" sha256="6e40997419a6ecbccff94b6a4e4aff034ebaeeab3d4d402ab5d8b88586b489f4"/>
@@ -46819,13 +46819,13 @@
 		<rom name="Kenka Banchou Bros. Tokyo Battle Royale (Japan) (Demo).iso" size="204898304" crc="54f3b74e" md5="83e32e430440dedf44044e425bdd3336" sha1="f436e6c8900fa6fa68c8c55fee8fe8eb05791a93" sha256="63f861069424e014aeb477c4f06293066ed30ef98133fdaf2bf00fccd5b70bc6"/>
 	</game>
 	<game name="Kenka Banchou Bros. Tokyo Battle Royale - Heroine (Japan) (Theme)" id="1582">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Kenka Banchou Bros. Tokyo Battle Royale - Heroine (Japan) (Theme)</description>
 		<game_id>JP0365-NPJH50630_00-THEMEHEROINEVERS</game_id>
 		<rom name="NPJH50630\JP0365-NPJH50630_00-THEMEHEROINEVERS.PTF" size="468000" crc="547b9511" md5="0dac8aa48e413cb134bcc328e1f8a1da" sha1="26e4143ef66e488cd8898bc01532e0f73d993b2c" sha256="7f6293b6102200154946d358ea7673aa9f342cbb38e4eb1f0eca0f7ebe3bf265"/>
 	</game>
 	<game name="Kenka Banchou Bros. Tokyo Battle Royale - Mabudachi (Japan) (Theme)" id="1581">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Kenka Banchou Bros. Tokyo Battle Royale - Mabudachi (Japan) (Theme)</description>
 		<game_id>JP0365-NPJH50630_00-THEMEBROSVERSION</game_id>
 		<rom name="NPJH50630\JP0365-NPJH50630_00-THEMEBROSVERSION.PTF" size="233564" crc="2cdbfadc" md5="f87d683a83cb40c00961695d051e4512" sha1="3a4af9c8b3678680210c001014bd1ea82d98e4d1" sha256="5ee4f739c5f1e371da12298301f9b7aaba3cec40cff44bb3620ec2e3b34420ec"/>
@@ -47103,7 +47103,7 @@
 		<rom name="Killzone - Liberation (USA).iso" size="581632000" crc="490f771e" md5="9069eb0dd698e963ad055ad032989e7e" sha1="9c0f4b128ba86312c80a690eb5ce2bdc574cc656" sha256="2b8e926f535e9a795f536d4581caafbf7b209c2798fbe811d8ed83dd9341cb68"/>
 	</game>
 	<game name="Killzone 3 Static Theme by Kristian Hammerstad (Europe) (Theme)" id="1599">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Killzone 3 Static Theme by Kristian Hammerstad (Europe) (Theme)</description>
 		<game_id>EP9000-NPEW00076_00-TPCSTUDIOO000037</game_id>
 		<rom name="NPEW00076\EP9000-NPEW00076_00-TPCSTUDIOO000037.PTF" size="368012" crc="9e3a91dc" md5="06050877529bb0cc6bdbe7d276e490d5" sha1="d5e835199b5b5906689c7187ee54a9d1ecff8f6d" sha256="59e3c8e34afcc449f46b316c616ceda5d75ef0d34f3e6e56fc3301cccc0175f1"/>
@@ -47364,7 +47364,7 @@
 		<rom name="Lara Croft Tomb Raider - Legend (USA).iso" size="1514995712" crc="f4ff7919" md5="bdc5cfbaa4d0ae900ebb5e6e9ac408b4" sha1="9cfee9c44ba17ca836f33e631b5de5d923e39e75" sha256="873271e0b8ff47317965a92700d573718f93179205aa091e6110ba0f3a48e0fe"/>
 	</game>
 	<game name="Lara Croft Tomb Raider - Legend (USA) (Theme)" id="4765">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Lara Croft Tomb Raider - Legend (USA) (Theme)</description>
 		<game_id>UP0776-ULUS10110_00-TOMBLEGENDTHEME1</game_id>
 		<rom name="ULUS10110\UP0776-ULUS10110_00-TOMBLEGENDTHEME1.PTF" size="597668" crc="ac333cf0" md5="ba38f678335807bfa0695b12e4c7c355" sha1="a0381c292e7525f79936a50fd13c87f0ceb618eb" sha256="891535df94b784f400839133cd7d57f976dac41d1995db4dc567951d66c7d0b4"/>
@@ -47424,61 +47424,61 @@
 		<rom name="Lemmings (USA).iso" size="471498752" crc="070d2d70" md5="badc8fc9e8c91985429e84bb826dbd1f" sha1="c0a47c2113f7ddec4fa2de9a22b32fddfde1a5c0" sha256="b3cebf33ab1a6ea91052f4d882d8db9decdab6ed603274904816b3ff6eba3f41"/>
 	</game>
 	<game name="Light Machine Gun - RPD (USA) (Theme)" id="5884">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Light Machine Gun - RPD (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-LTMACHGUNRPDTH01</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-LTMACHGUNRPDTH01.PTF" size="631548" crc="af91b0a5" md5="6ec3f4fa1ab000ec0ec26e5456eb4f8d" sha1="1c59f921994e9a4333c1f8dc891745f1f0ef927a"/>
 	</game>
 	<game name="Lindsay Kaye - Theme 3 (USA) (Theme)" id="4477">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Lindsay Kaye - Theme 3 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-LINDSAYKAYEPSP03</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-LINDSAYKAYEPSP03.PTF" size="661412" crc="b78223c1" md5="b5ae3ffcac907bbbcf619fc27b7ac483" sha1="e4152a9e65ec5d4f9b6ea96d187346a37fb72a4d" sha256="ad76a69e5f542baf30df40c981c34c78d971c1fca7264839bdd95f7eb63f98a0"/>
 	</game>
 	<game name="Lindsay Kaye 1 (USA) (Theme)" id="5878">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Lindsay Kaye 1 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-LINDSAYKAYEPSP01</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-LINDSAYKAYEPSP01.PTF" size="610764" crc="2e412431" md5="3a9ac7be310a2a87a8eee77e9f042db4" sha1="851a6aad4817aaf4d491c67a0779f285e5f7c05d"/>
 	</game>
 	<game name="Lindsay Kaye 2 (USA) (Theme)" id="5879">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Lindsay Kaye 2 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-LINDSAYKAYEPSP02</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-LINDSAYKAYEPSP02.PTF" size="556000" crc="a6634605" md5="7d94c79bfa2a36b4b392a792e9b23ef4" sha1="bde882eeb3df586ff8b55315ea93e7ab52678c8a"/>
 	</game>
 	<game name="Lindsay Kaye 4 (USA) (Theme)" id="5880">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Lindsay Kaye 4 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-LINDSAYKAYEPSP04</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-LINDSAYKAYEPSP04.PTF" size="673408" crc="b33c844d" md5="9eff58173596ef5d6e3a35bb760da94b" sha1="61abd3cac3d8532a7bb9cf83b035faf74c48dba2"/>
 	</game>
 	<game name="Lindsay Kaye 5 (USA) (Theme)" id="5881">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Lindsay Kaye 5 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-LINDSAYKAYEPSP05</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-LINDSAYKAYEPSP05.PTF" size="646896" crc="8b8f46a7" md5="0b279fafe6c27e4a84cf74b6bdd473a6" sha1="343510feba675edde4b7fb5878a6029f8cae92ba"/>
 	</game>
 	<game name="Lindsay Kaye 6 (USA) (Theme)" id="5882">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Lindsay Kaye 6 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-LINDSAYKAYEPSP06</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-LINDSAYKAYEPSP06.PTF" size="684776" crc="673698cb" md5="16427fce08a2c7bbab8b17968bca74bf" sha1="04e861f3f3bd7307ac65cf5868c872f6a7a65d1e"/>
 	</game>
 	<game name="Lindsay Kaye 7 (USA) (Theme)" id="5883">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Lindsay Kaye 7 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-LINDSAYKAYEPSP07</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-LINDSAYKAYEPSP07.PTF" size="585976" crc="f9791b24" md5="772d4aa0d15fc2be98d7db4862b7e8bf" sha1="a21fbb838a7b3bf3be8a6fc08c0e761f49e71393"/>
 	</game>
 	<game name="Lingerie Football - Dallas Desire (USA) (Theme)" id="5852">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Lingerie Football - Dallas Desire (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-LINGERIEFOOTDALL</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-LINGERIEFOOTDALL.PTF" size="502772" crc="fa324ab2" md5="8864d3ea4a3778d8afc3321b878c8a13" sha1="17a7944a511cb0d984b78ac7439e281f39327cfd"/>
 	</game>
 	<game name="Lingerie Football League (USA) (Theme)" id="5853">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Lingerie Football League (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-LINGFOOTLGPSP001</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-LINGFOOTLGPSP001.PTF" size="525468" crc="f13289f9" md5="a3b2d4c469426621f0c48cded6333592" sha1="3bc5e6cb683b32d7cfcf771a2073bb970152c047"/>
@@ -47490,13 +47490,13 @@
 		<rom name="LitleBigPlanet (Europe) (Beta).iso" size="1506967552" crc="cb1dae5b" md5="3b63d76dede440cdbed94ce3826dd10a" sha1="d5da1c7b7985bdc85e64379b07238f21eef27448"/>
 	</game>
 	<game name="Little Deviants (Europe) (Theme)" id="4478">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Little Deviants (Europe) (Theme)</description>
 		<game_id>EP9000-NPEW00077_00-TPCLITTLED000001</game_id>
 		<rom name="NPEW00077\EP9000-NPEW00077_00-TPCLITTLED000001.PTF" size="161924" crc="f8aba7e6" md5="45a628a1a22d8840e079bfc7831560e5" sha1="6c337259cb69fade56bb3d16f108bd5c6f7c1f72" sha256="18bbdb8a8afed2ebfcf036a889ac6c066cd2166962cf9246485e05f4040d0d1b"/>
 	</game>
 	<game name="LittleBigPlanet (Europe) (Theme)" id="1712">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>LittleBigPlanet (Europe) (Theme)</description>
 		<game_id>EP9000-NPEW00047_00-LBPPSPTHEME00001</game_id>
 		<rom name="NPHW00019\HP9000-NPHW00019_00-LBPPSPTHEME00001.PTF" size="687436" crc="f18f390b" md5="af4fc4306cbbd58f9e28ec4ffd604afc" sha1="8d7064cf52c2863550c72bbc914b4f9dfbcbb8da" sha256="32a90dd297c404719579e3030b44ddef2a1ba66e9ab11ac3b2fbb553769456f4"/>
@@ -47768,7 +47768,7 @@
 		<rom name="UCUS98744\sackcircus.lbppsp.edat" size="48" crc="d0ef8636" md5="02b1a4307d305310c78cf304763dc7f1" sha1="74e1298d6f765a06df74e1de8268331144d49fb9" sha256="f9447b15c3ea663e8e3669c9142d93553ae9009c21619bed36b64f76fb82e241"/>
 	</game>
 	<game name="LittleBigPlanet - Special Limited Theme (Asia) (Theme)" id="5825">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>LittleBigPlanet - Special Limited Theme (Asia) (Theme)</description>
 		<game_id>HP9000-NPHW00016_00-LBPSPTHEMEASIA01</game_id>
 		<rom name="NPHW00016\HP9000-NPHW00016_00-LBPSPTHEMEASIA01.PTF" size="429948" crc="05b22949" md5="7bfcca6784f2a1181739389a40b3d0ff" sha1="b24870a2de6e06b9e87b83e6cf6ed1409209ea12"/>
@@ -48025,7 +48025,7 @@
 		<rom name="UCUS98744\PARAM.PBP" size="250928" crc="a7a4b39e" md5="61cd04618962f554a2c929ccb917c44c" sha1="076e343ca75b5cd83daa58b5fde1f10062dba169" sha256="e6161a2e0d8ed0bc5806eb33b8572a6373580b5a2de3194a6bcceb85e75ddca6"/>
 	</game>
 	<game name="LittleBigPlanet Vita (Europe) (Theme)" id="4480">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>LittleBigPlanet Vita (Europe) (Theme)</description>
 		<game_id>EP9000-NPEW00078_00-TPCPLAYSTA000002</game_id>
 		<rom name="NPEW00078\EP9000-NPEW00078_00-TPCPLAYSTA000002.PTF" size="356932" crc="e51618da" md5="f7f456c0dd1746525b3e11c92f441419" sha1="77cf7d99e8309384f6774feb539b683071dde3b6" sha256="1b500bbb918d1e10c1036dacdba0c53def7df95f53b65c48cda5cacc9aeb23ed"/>
@@ -48262,13 +48262,13 @@
 		<rom name="LocoRoco - Midnight Carnival - Official Strategy Guide (USA) (Unlock Key).iso" size="112689152" crc="1e659180" md5="f72190fb773bdd58bcb867f65c9851ba" sha1="6abf6d273e80985aa1dce4665f64c52c4ee69552" sha256="7c1f7942669a65c861afaa9b9c5a8f0655df7c3873fa990712116520bda2db32"/>
 	</game>
 	<game name="LocoRoco - Theme 1 (Asia) (Theme)" id="4481">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>LocoRoco - Theme 1 (Asia) (Theme)</description>
 		<game_id>HP9000-NPHW00012_00-THMTLOCOROCOCHN4</game_id>
 		<rom name="NPHW00012\HP9000-NPHW00012_00-THMTLOCOROCOCHN4.PTF" size="162632" crc="22e10164" md5="c1aa99b270d7a522f99d8e04df082829" sha1="017d0e0980abfd122425c1a4447e4e6270aa9e62" sha256="36336125d6129b0f0015853b67ce66e8535fd941f2311914e45d2b1780fbe25e"/>
 	</game>
 	<game name="LocoRoco - Theme 2 (Asia) (Theme)" id="4482">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>LocoRoco - Theme 2 (Asia) (Theme)</description>
 		<game_id>HP9000-NPHW00012_00-THMTLOCOROCOCHN5</game_id>
 		<rom name="NPHW00012\HP9000-NPHW00012_00-THMTLOCOROCOCHN5.PTF" size="75864" crc="06f4d2b5" md5="9093c0fba3bbb4f299fe05314273f5e3" sha1="45445bac3e88310c04bd860c3fd8419d40889b7b" sha256="7eeddb90a81962691b23812e9ef9612ba35c6fa115ad193c461482ba1394176f"/>
@@ -48366,7 +48366,7 @@
 		<rom name="ULUS10479\PARAM.PBP" size="213523" crc="28494642" md5="26e909fe45eba2e2de88c10d7b04db90" sha1="820c584db64ff3756b4a1f0c0b3bba5117677728" sha256="3c4d6ac5a6a9a6bbbe6f4e9435c91756878029c34f246f895f90f854aca56b3d"/>
 	</game>
 	<game name="Lord of the Rings (USA) (Theme)" id="4779">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Lord of the Rings (USA) (Theme)</description>
 		<game_id>US0020-NPUY00015_00-LORDOFTHERINGPSP</game_id>
 		<rom name="NPUY00015\US0020-NPUY00015_00-LORDOFTHERINGPSP.PTF" size="701464" crc="f1aedfbf" md5="e9c177c44e8a84e6fc051abbfa9e5f71" sha1="1eae4830c88e78b2e5f097a51d9676bc2df72d66" sha256="ef160b548093b7706136450a5e81702b4759e2e5e1d10ee913d5014991aa1d36"/>
@@ -48474,25 +48474,25 @@
 		<rom name="NPJH50724\PARAM.PBP" size="470983" crc="1ffef196" md5="872b8f01ab583b837362dc9bfa1ddfd8" sha1="455e5ee06e174d8ef7d5eb0444f63becdbf88c56" sha256="b414c1f7544f3e7380e14a1d13c6b36564dabd2c091961d60e9395decf86bca2"/>
 	</game>
 	<game name="Lucy Pinder 2 (USA) (Theme)" id="5837">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Lucy Pinder 2 (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-DP1GRL1LUCYPIND2</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-DP1GRL1LUCYPIND2.PTF" size="363576" crc="f55fb31b" md5="e95fabadb4538f66b52fc7584bc554ac" sha1="b28195c4c20ca5ca319f31aeda3cba8582230da5"/>
 	</game>
 	<game name="Lucy Pinder 3 (USA) (Theme)" id="5838">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Lucy Pinder 3 (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-DP1GRL1LUCYPIND3</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-DP1GRL1LUCYPIND3.PTF" size="411932" crc="e1bc9781" md5="f42a3f7b8778123b9f32d777ebe0a43c" sha1="3051c793583af1264d9b485754ee206673e089b9"/>
 	</game>
 	<game name="Lucy Pinder 4 (USA) (Theme)" id="5839">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Lucy Pinder 4 (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-DP1GRL1LUCYPIND4</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-DP1GRL1LUCYPIND4.PTF" size="198148" crc="695aebba" md5="e6b109c6090d0492b986b64f7ba36147" sha1="b164675404dbc8affbe57f0327614799a7e24dba"/>
 	</game>
 	<game name="Lucy Pinder 5 (USA) (Theme)" id="5840">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Lucy Pinder 5 (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-DP1GRL1LUCYPIND5</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-DP1GRL1LUCYPIND5.PTF" size="495848" crc="8b0fed6a" md5="2a84c62c1ebab13ad13c415f2a3938a3" sha1="02eb15064c444a429afbd25afb9d38cdaf179336"/>
@@ -48534,19 +48534,19 @@
 		<rom name="Luxor - The Wrath of Set (USA).iso" size="906264576" crc="aabbcd8c" md5="86f5e82cc0a385cf54d2ef6f8903d173" sha1="7cf2a857c2b43ba8d16b3625aeca0e339e63ec61" sha256="6202dd08373669c86790f9eefbf9ce76f94d5e8fdd10db1f74cd447c6fa7d2a2"/>
 	</game>
 	<game name="M21 (USA) (Theme)" id="5885">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>M21 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-M21PSPTHEME00001</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-M21PSPTHEME00001.PTF" size="344472" crc="3c51fc10" md5="1e30bedaad7b035eff94bb88d7a0c02d" sha1="95561951b9c82a94a073d35085a604002ac4fd30"/>
 	</game>
 	<game name="M249 SAW 1 (USA) (Theme)" id="5886">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>M249 SAW 1 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-M249SAWPSPTHEM01</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-M249SAWPSPTHEM01.PTF" size="626128" crc="9554f8f2" md5="141ab09e7ca7c4765bf54df730ec75a9" sha1="996288ea74aae8814f4da333ba3321a27db494ad"/>
 	</game>
 	<game name="M249 SAW 2 (USA) (Theme)" id="5887">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>M249 SAW 2 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-M249SAWPSPTHEM02</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-M249SAWPSPTHEM02.PTF" size="604584" crc="01964803" md5="e69d151eb02edaec2c7014bb3d39269c" sha1="23cffc44b6ed7b04437aa759d3a042b17a4e9fdd"/>
@@ -48570,13 +48570,13 @@
 		<rom name="MLB 11 - The Show (USA).iso" size="1420623872" crc="0aeb34ef" md5="2b7fa001325f5c5e5a951773df901cbb" sha1="c29dfbb4fa401b3b410ae7070568b7eb69269013" sha256="6fabaaefe6a4c984304888a5af819d96504b884cc83bf7877efc6e9f481d9437"/>
 	</game>
 	<game name="MP5 1 (USA) (Theme)" id="5889">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>MP5 1 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-MP5PSPTHEME00001</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-MP5PSPTHEME00001.PTF" size="546768" crc="0c0c1a93" md5="0b46560fc72ff11a1778041e0da6fc3d" sha1="b2339829d5aa758ac335fbcebdf7efd3c4b7f22f"/>
 	</game>
 	<game name="MP5 2 (USA) (Theme)" id="5890">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>MP5 2 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-MP5PSPTHEME00002</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-MP5PSPTHEME00002.PTF" size="529604" crc="b9f90016" md5="f9fcad8224e7555256c944d148a68c25" sha1="92df220e313191ddf1c7c66360420ad75dd078b6"/>
@@ -48594,7 +48594,7 @@
 		<rom name="Machi - Unmei no Kousaten - Tokubetsu-hen (Japan).iso" size="1542422528" crc="c95a97da" md5="ac11d7ed095b1b299bad94b4a2ccc8fd" sha1="4f28e824ec1aa07f23e4c89de21218384628c31d" sha256="2a404d2decd21aacb0263a2daf39c1b7294efa4cfdc3462ff585052d37ce55ec"/>
 	</game>
 	<game name="Machine Gun - UMP (USA) (Theme)" id="5888">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Machine Gun - UMP (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-MACHINGUNUMPTH01</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-MACHINGUNUMPTH01.PTF" size="557360" crc="1ac5aed4" md5="c6b4c53be6cecae23e38dabcd2fa60b1" sha1="b58085b291a97e7f8d3eb6b9d244ff7a6c798fe3"/>
@@ -49140,13 +49140,13 @@
 		<rom name="Midway Arcade Treasures - Extended Play (USA).iso" size="648249344" crc="220bd5c4" md5="28b553f0fc8b02bec1060da6a55793d7" sha1="3d58cc9e6625f5c45f61ec337fb120982fd2cfc1" sha256="e4e7ac4400d0e3fb6ce32ea4bd12931f13f53ee83d77a4e56481c7f5bac8b6ba"/>
 	</game>
 	<game name="Military - Rapid Fire (USA) (Theme)" id="5846">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Military - Rapid Fire (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-DP1MIL1RAPIDFIRE</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-DP1MIL1RAPIDFIRE.PTF" size="458196" crc="d0932378" md5="bef284fa7c5a6165c73d09670b183f80" sha1="93e1178a78d8f899f4b1b789478942443778fa9b"/>
 	</game>
 	<game name="Military - Rooftop Sharpshooter (USA) (Theme)" id="5847">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Military - Rooftop Sharpshooter (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-DP1MIL1ROOFTOPSH</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-DP1MIL1ROOFTOPSH.PTF" size="476604" crc="754b1121" md5="0fb6c6ad87b4ff50c043ee05159a0802" sha1="61609d011fb04c245282854229d868f877057833"/>
@@ -49170,7 +49170,7 @@
 		<rom name="Mimana Iyar Chronicle (Japan).iso" size="674004992" crc="c404c399" md5="f35b96e92005e5411e6da4a47e58bdaf" sha1="fc77c88c6d1d76f24408bbf3bfadeed334c33e07" sha256="3f2af2313a1512ce7231953fb306f86a816e3ff35ddc2692fd796bc0cee7249a"/>
 	</game>
 	<game name="Mini Winterland (USA) (Theme)" id="4784">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Mini Winterland (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-MINIWINTERLAND01</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-MINIWINTERLAND01.PTF" size="595924" crc="5eeb19fc" md5="8bab5fce1424bd00d31c5ba50abf0441" sha1="af66c622ac3b1821d8f4de865be3193ae25dd432" sha256="e77645a37273e79084ec870e4f5937382776828880e4eac502ef32e2e9817153"/>
@@ -49249,7 +49249,7 @@
 		<rom name="Minna no Tennis Portable (Japan) (Demo).iso" size="161054720" crc="55e56b82" md5="3544e82371453d2cec9525963eded920" sha1="9d6033c2664c21bc101b98b8fa5e2ce5991ac117" sha256="6fe871924cdb255623d307d789e4e116baa45c168159d266db83bdeaaea72945"/>
 	</game>
 	<game name="Miss Kawasaki Hook-Ups (USA) (Theme)" id="4783">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Miss Kawasaki Hook-Ups (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-MISSKAWASAKIPSP1</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-MISSKAWASAKIPSP1.PTF" size="286732" crc="6d5394c6" md5="f863c949bc19bc0f251b2a6da6d2ca7c" sha1="4eaf7a9b7473688a876dcd5437b242cc04b6c5d7" sha256="acc8e5e911c1522ddb87803ff1147eda10d62c0df25e574ead6fec4e9c2c7f0d"/>
@@ -49303,13 +49303,13 @@
 		<rom name="ModNation Racers - PSP Review (Europe).iso" size="1794572288" crc="bd4dd2d6" md5="5e34b97b1cc015e26e6822b6e5113cdb" sha1="6adedcf6fbd0f763056822c19c4c2c1f6156910b"/>
 	</game>
 	<game name="ModNation Racers - Theme 1 (USA) (Theme)" id="2062">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>ModNation Racers - Theme 1 (USA) (Theme)</description>
 		<game_id>UP9000-UCUS98741_00-MNRACERSPSPTHM01</game_id>
 		<rom name="UCUS98741\UP9000-UCUS98741_00-MNRACERSPSPTHM01.PTF" size="301768" crc="948fb9ad" md5="0e744496cbc29e4aa52d7249dea71322" sha1="b536e4bfc2e3c8203d2c8776b054b224c89c5159" sha256="7284be0759057df3d01c6b84bd526d3e24d289efd934e9a80934cc73b571c07f"/>
 	</game>
 	<game name="ModNation Racers - Theme 2 (USA) (Theme)" id="2063">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>ModNation Racers - Theme 2 (USA) (Theme)</description>
 		<game_id>UP9000-UCUS98741_00-MNRACERSPSPTHM02</game_id>
 		<rom name="UCUS98741\UP9000-UCUS98741_00-MNRACERSPSPTHM02.PTF" size="320032" crc="bba911f8" md5="8efe8ab826e1b8377da6c4f7f4a35761" sha1="0aaefa119e0429ea56b7b0e56157791dc2f16cbb" sha256="f7071c71bfe600aa9f0be94b31fce3bf9ec951ac9624506a5fa6f69083105e06"/>
@@ -49457,13 +49457,13 @@
 		<rom name="MutaJuice (Asia).iso" size="1471807488" crc="8dabd45e" md5="10cd8f79e5e57fc24328d91cf2c9c517" sha1="0b8b3e29553f93000ab90d9333c635b1acc1e4ad" sha256="10047fb926e37a408db31ca2ba26da21feb6e401af86c1a5a19dc96e521e6384"/>
 	</game>
 	<game name="My Bloody Valentine (USA) (Theme)" id="4762">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>My Bloody Valentine (USA) (Theme)</description>
 		<game_id>US0009-NPUY00002_00-MYBLOODYVALPSP01</game_id>
 		<rom name="NPUY00002\US0009-NPUY00002_00-MYBLOODYVALPSP01.PTF" size="554496" crc="d74917e8" md5="3136e02370a700b932c1cbc47d9dec27" sha1="162f8eec6ea09701639de5d1dcca9cab43e63bdd" sha256="029b76a31f833f4f3d1876a30ebcb59268ca158827e4803f525879c52967db88"/>
 	</game>
 	<game name="MyStylist (Asia) (Theme)" id="4485">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>MyStylist (Asia) (Theme)</description>
 		<game_id>HP9000-NPHW00009_00-0000000000000000</game_id>
 		<rom name="NPHW00009\HP9000-NPHW00009_00-0000000000000000.PTF" size="385692" crc="5fb6fba5" md5="a967a78ba93c8d9cbd30ceadb08596f0" sha1="458ab17d1bb71b4ec899949781d91824bcf1ce1c" sha256="312807db0969879d3efaf201ee63584a5f92bf52ce40bf9aa7bd1689a9de8066"/>
@@ -49894,19 +49894,19 @@
 		<rom name="Numblast (USA).iso" size="150568960" crc="c35f842e" md5="456fdfa7647276f602470c8a17fc2dad" sha1="47246d1d67fb7cf4709d043ad73b00b1377fb46a" sha256="4477ea47efc655f21c411b0b91d3d2c8f7ce4989d31686fc1fdd3a9953ea9af3"/>
 	</game>
 	<game name="Nurse Girl Brandi Hook-Ups (USA) (Theme)" id="4790">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Nurse Girl Brandi Hook-Ups (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-NURSEGIRLBRAND01</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-NURSEGIRLBRAND01.PTF" size="331672" crc="98d7bed2" md5="d31be186e4a2aabf2b5119471d388438" sha1="1047811c6b9916cb69c3ea6c41a753229609dacf" sha256="e15aa3a6b52406b82aabcd640bd33a1460e24ef8cfe1966838b5e630d375511c"/>
 	</game>
 	<game name="Nurse Girl Mika Hook-Ups (USA) (Theme)" id="4788">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Nurse Girl Mika Hook-Ups (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-NRSGRLMIKAPSPTM1</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-NRSGRLMIKAPSPTM1.PTF" size="364784" crc="8ca13e06" md5="8e574a3bca06b2f3f1f05d7ba541f40a" sha1="ba3b419857539859e8fdd3fb923c59d9d17ce455" sha256="e59fa84e0dec22e8488b372827d04f987982f6c9d7f89880bcf617f1c07345cb"/>
 	</game>
 	<game name="Nurse Girl Nikki Hook-Ups (USA) (Theme)" id="4754">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Nurse Girl Nikki Hook-Ups (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-NURSEGIRLNIKPSP1</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-NURSEGIRLNIKPSP1.PTF" size="330900" crc="8cd8ad80" md5="89b05012f9abcbdcb24071b1e9867b53" sha1="34af30d05dd73ca2255c390d5d9296a3d25482e1" sha256="8512cda19153688324a8bfccf453ce1c740d96e977ba8c0a5291db65b950eb83"/>
@@ -50085,7 +50085,7 @@
 		<rom name="NPJH00110\PARAM.PBP" size="23843" crc="add55240" md5="67cb3c840e175234049e08b9920c19a5" sha1="f6b36c99f92cd4c135bb3a40ce7557740c113957"/>
 	</game>
 	<game name="Ore ni Hatarakette Iwaretemo - Custom Theme (Japan) (Theme)" id="2232">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Ore ni Hatarakette Iwaretemo - Custom Theme (Japan) (Theme)</description>
 		<game_id>JP0016-NPJH00110_00-CUSTOMTHEME00001</game_id>
 		<rom name="NPJH00110\JP0016-NPJH00110_00-CUSTOMTHEME00001.PTF" size="582816" crc="126954cc" md5="e1f420c756af0a3861239aac7c55faa2" sha1="b6365dfd0f62a6d6b8c6680ed6e685bad0519c7e" sha256="19d8ecec4db7957c228c05acf73c8a4baf89cae1cd7003b217f6d167cab0c5a2"/>
@@ -52457,7 +52457,7 @@
 		<rom name="Otomeito Collection - Soukoku no Kusab Hiiro no Kakera 3 Portable (Japan).iso" size="797802496" crc="a77f97cd" md5="b4b308814fe47ce5760f6bc3b554c504" sha1="64cc81dbeb10688bd1c8acd7ac9ceaf69e496719" sha256="b1d211f7a3a0cfa71f0f767059cfca67c46c34abcd3138c067724bf9a863dc78"/>
 	</game>
 	<game name="P90 (USA) (Theme)" id="5891">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>P90 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-P90PSPTHEME00001</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-P90PSPTHEME00001.PTF" size="344748" crc="d76c17b0" md5="d7729768807760b90a450090e900e5d4" sha1="1c69d246ada80dc47b5c4922dd6039363ba4de24"/>
@@ -52505,13 +52505,13 @@
 		<rom name="PQ - Practical Intelligence Quotient (USA).iso" size="178651136" crc="97fdb42f" md5="76bb793463f8e22ee1c746f8e7f40a22" sha1="183da35512b5adc26e32d2c1bce645d19741cf57" sha256="7131850dd5f3e0f776ff4043d04bc864d0eba265f111a7134bb4bd88497fea78"/>
 	</game>
 	<game name="PSP Go Promotion (Europe) (Theme)" id="4285">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>PSP Go Promotion (Europe) (Theme)</description>
 		<game_id>EP9000-NPEW00063_00-TPCPSPGOPR000001</game_id>
 		<rom name="NPEW00063\EP9000-NPEW00063_00-TPCPSPGOPR000001.PTF" size="338436" crc="23ac4472" md5="986ec3f671f7eceab74e9ff82413287b" sha1="8414b4b56bd9d5da8959cb84d9d085c78260a8e5" sha256="ca60c7342132de59709af558a8c26b9ceaec6e762324af3fd3bd568bdc945a26"/>
 	</game>
 	<game name="PSP Go Theme 01 (Europe) (Theme)" id="4160">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>PSP Go Theme 01 (Europe) (Theme)</description>
 		<game_id>EP9000-NPEW00068_00-TPCPSPGOPR000001</game_id>
 		<rom name="NPEW00068\EP9000-NPEW00068_00-TPCPSPGOPR000001.PTF" size="439188" crc="3aff8967" md5="4541c9e6f0b75ba744dadf6913981e5d" sha1="041908db0ccc0888b161d2cd070c6fa73b2c8942" sha256="568c7537aad2b0ba88faffd9aa3bcd7277a242fd1991df29983b52a835692580"/>
@@ -53228,7 +53228,7 @@
 		<rom name="UCUS98751\PARAM.PBP" size="122745" crc="0507b573" md5="14780f5afa6360a0393f1bee48734164" sha1="dc5a821e0adfc119d20a226671d663055b22a3ab" sha256="4d744c63d7f0179a2a821d2b21b8f03d22413050d43d245e9ecb38b03c325506"/>
 	</game>
 	<game name="Patchwork Heroes (Japan) (Theme)" id="4146">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Patchwork Heroes (Japan) (Theme)</description>
 		<game_id>JP9003-NPJQ00040_00-130530BARA001PSP</game_id>
 		<rom name="NPJQ00040\JP9003-NPJQ00040_00-130530BARA001PSP.PTF" size="591852" crc="4669ebb8" md5="abe61efd26893d341a5587570ccd71fb" sha1="68c9e075bced7edca7b29fbbe35a102fa7a6f523" sha256="fbfeb4d03b0a651ee4132813a1fa2d287ef55ce1b6a2187a97ab3f844cb64959"/>
@@ -54355,7 +54355,7 @@
 		<rom name="PlayEnglish - Pack Capitulos 16-17-18 (Spain).iso" size="325615616" crc="c4aea1bb" md5="3f5570937c6fb320e68ff6d35fd3014a" sha1="68803f52f23f03da4669e2813e9d6a1cb66cb55d" sha256="bdf1f5db6804f84606c2e76dfc73ed48bf39858642f8c171f5ccd88e31bd3701"/>
 	</game>
 	<game name="PlayStation 15th Anniversary Theme (Asia) (Theme)" id="5826">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>PlayStation 15th Anniversary Theme (Asia) (Theme)</description>
 		<game_id>HP9008-NPHW00022_00-PSANNIVERSARY001</game_id>
 		<rom name="NPHW00022\HP9008-NPHW00022_00-PSANNIVERSARY001.PTF" size="218148" crc="0b3585e8" md5="6c03098b4b55e8791338415ee2e19627" sha1="0e892b4391814d443006bfcec295b7c03ec7609a"/>
@@ -55230,7 +55230,7 @@
 		<rom name="Rengoku II - The Stairway to H.E.A.V.E.N. (USA).iso" size="502333440" crc="11efbf6e" md5="b56a2acf597d7cdbb2489c345c4430b0" sha1="a75e313102ea65783a92961332bae22ea85c8f37" sha256="f168638afeada72be08a199861a89188942a5d2f70e6b3e2e5fa9a0dfba852f8"/>
 	</game>
 	<game name="Resistance - Burning Skies (Europe) (Theme)" id="4166">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Resistance - Burning Skies (Europe) (Theme)</description>
 		<game_id>EP9000-NPEW00079_00-TPCRESISTA000001</game_id>
 		<rom name="NPEW00079\EP9000-NPEW00079_00-TPCRESISTA000001.PTF" size="389248" crc="72ea0b18" md5="50a2d065b9f673aff5e912d0f6841229" sha1="68c1ba876baf638608fd28b1990c52cf4faac480" sha256="c5297e814950a884463c6ea35ec2d63283efc88b97e49fedd46aa202106a9e09"/>
@@ -57684,7 +57684,7 @@
 		<rom name="SBK - Superbike World Championship (USA).iso" size="280264704" crc="de8dcbc3" md5="eb3e44e0f54ec0cf080ff446f31b3fad" sha1="679bbb0f4c2f75285aad93f411a181a48f7a049f" sha256="82ff9fbeff04f9dc484a15c87b67014d004bad0f9b594a02d898221f08a780ad"/>
 	</game>
 	<game name="SCAR 1 (USA) (Theme)" id="5892">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>SCAR 1 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-SCARPSPTHEME0001</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-SCARPSPTHEME0001.PTF" size="414276" crc="749d6a3e" md5="4647713f55dd606ed9d6302b106d077f" sha1="58f900b8ffa4d223a800dbf09e698f72d730278d"/>
@@ -57922,7 +57922,7 @@
 		<rom name="Sangokushi VI (Japan).iso" size="186548224" crc="891e312c" md5="c52e49f6259f379bf1df6b22cdfe35fb" sha1="c4190345ef15efca5440bf3e2eceddff3aa0b318" sha256="00a58f28ed9f51ec244cb8b8de32627d59da56808887b483676857eb65b0ebd2"/>
 	</game>
 	<game name="Santa's Sexy Helpers (USA) (Theme)" id="5854">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Santa's Sexy Helpers (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-SANSEXYHELPPSP01</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-SANSEXYHELPPSP01.PTF" size="330812" crc="681c64d8" md5="c4b02d8423fe0eb57387a8af556b5e17" sha1="c74aad6a29598d9a2170d92e50cb3549b7d6cf6f"/>
@@ -57987,19 +57987,19 @@
 		<rom name="Save the Earth (Japan).iso" size="115933184" crc="3287e305" md5="b8dba88e3cb3506494176d1922a5e984" sha1="86570f7144a86c20baec0ae40c9dc601fe41c458"/>
 	</game>
 	<game name="Scenic Seagulls (USA) (Theme)" id="4794">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Scenic Seagulls (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-SCENICSEAGULLS01</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-SCENICSEAGULLS01.PTF" size="534472" crc="012d0b4d" md5="dd4d6b17c9628826381bc58c5cee1953" sha1="8371aad6394969f0d8225f68fbd3c2e7d34acc63" sha256="8d56322785d06f9b1d0835c1cf818d97315a00d53c05d8702db0b527ee4bc153"/>
 	</game>
 	<game name="School Girl Attack! Hook-Ups (USA) (Theme)" id="4757">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>School Girl Attack! Hook-Ups (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-SCHOOLGIRLATPSP1</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-SCHOOLGIRLATPSP1.PTF" size="324076" crc="e2365185" md5="a40d7b7cffad99c8671ae6d26e5d0f29" sha1="c7b02442c8984b1576e913bfa5d3352d18ef242b" sha256="b28772f7471fb3602a629caaa15366270af5e3a6884ee652353d69dabb17d367"/>
 	</game>
 	<game name="School Girl Hook-Ups (USA) (Theme)" id="4782">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>School Girl Hook-Ups (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-SCHOOLGIRLPSPTM1</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-SCHOOLGIRLPSPTM1.PTF" size="367300" crc="088782a1" md5="56ec8536c8bfb870b36c26a84291faf5" sha1="0477f3f56cc79173df4bb811239c3467306517f5" sha256="99f67eb6263b6f7d14b1f61dfd45fb74a4a15b13021447547b2d9015b848184a"/>
@@ -58023,7 +58023,7 @@
 		<rom name="Second Novel - Kanojo no Natsu - 15-Pun no Kioku (Japan).iso" size="548372480" crc="84eb94f5" md5="2963fbb98d884039fbd0f2a6816f21cf" sha1="0b929741f80910fb8782db021acb2b209c791401" sha256="6d8729c0ca2ff6e92e8c274f64b4843c34d9f8fdae064dc0e9ee4970c83e5a6d"/>
 	</game>
 	<game name="Secret Agent Clank (Asia) (Theme)" id="4506">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Secret Agent Clank (Asia) (Theme)</description>
 		<game_id>HP9000-NPHW00010_00-0000000000000000</game_id>
 		<rom name="NPHW00010\HP9000-NPHW00010_00-0000000000000000.PTF" size="388064" crc="32096df2" md5="9c23d33e27097287366dd997c56418e4" sha1="e82def92ca741ac6a621e880736331795a0760d7" sha256="5ba37b91bdd9e6c8c4ee1bacdeb8750c7c8ffe9aa1d50f25927eefa486f206af"/>
@@ -58252,7 +58252,7 @@
 		<rom name="Senritsu no Stratus (Japan).iso" size="1255342080" crc="74f0ce2b" md5="5621c989795d56c571247b977fcd3ddf" sha1="5ea2e7e961949cb5ec2db89fc93f9df931fa972d" sha256="183bdb2dbe47c4c71afebdc08d6a7cf6bd36d319334afe0ecb461260f0ee9481"/>
 	</game>
 	<game name="Sexy Referee (USA) (Theme)" id="5855">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Sexy Referee (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-SEXYREFEREEPSP01</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-SEXYREFEREEPSP01.PTF" size="469084" crc="d4540b2e" md5="8f63fcecaf2524169b1e36e60d93321b" sha1="bbdb2e386c1ff5940984379edf4702dee3902664"/>
@@ -65081,31 +65081,31 @@
 		<rom name="Shuukan Toro Station (Japan).iso" size="204898304" crc="2c907571" md5="e79df46f1e5f8a9786c7de98781b3e94" sha1="e36efd10ee44a8a5dad0cc31f1478b16d92ece2b" sha256="51165eb93d515b7d9c5e29f99ecc02c7ae393c6a6dbbf2d3a3cd48a4f216f91f"/>
 	</game>
 	<game name="Shuukan Toro Station - Custom Theme A (Japan) (Theme)" id="5827">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Shuukan Toro Station - Custom Theme A (Japan) (Theme)</description>
 		<game_id>JP9002-NPJG00037_00-CUSTOMTHEME2013A</game_id>
 		<rom name="NPJG00037\JP9002-NPJG00037_00-CUSTOMTHEME2013A.PTF" size="516760" crc="ac147d81" md5="adcb38bb06f156c395616b8e982e0d9a" sha1="d8a9d6e4529b2d9243a68ce4bf61881777667025"/>
 	</game>
 	<game name="Shuukan Toro Station - Custom Theme B (Japan) (Theme)" id="5828">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Shuukan Toro Station - Custom Theme B (Japan) (Theme)</description>
 		<game_id>JP9002-NPJG00037_00-CUSTOMTHEME2013B</game_id>
 		<rom name="NPJG00037\JP9002-NPJG00037_00-CUSTOMTHEME2013B.PTF" size="409256" crc="79f9beb1" md5="04c82209d26e8de54ee728893e4a7d6e" sha1="75421237456b4f76bb17c3357be86a552870c4e5"/>
 	</game>
 	<game name="Shuukan Toro Station - Custom Theme C (Japan) (Theme)" id="5829">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Shuukan Toro Station - Custom Theme C (Japan) (Theme)</description>
 		<game_id>JP9002-NPJG00037_00-CUSTOMTHEME2013C</game_id>
 		<rom name="NPJG00037\JP9002-NPJG00037_00-CUSTOMTHEME2013C.PTF" size="413656" crc="c5a93cb6" md5="5bbdacf459c3bc349f9ea368ecaddf37" sha1="cd5c5d6b02cb65d60952358dd39430443172bc6d"/>
 	</game>
 	<game name="Shuukan Toro Station - Custom Theme D (Japan) (Theme)" id="5830">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Shuukan Toro Station - Custom Theme D (Japan) (Theme)</description>
 		<game_id>JP9002-NPJG00037_00-CUSTOMTHEME2013D</game_id>
 		<rom name="NPJG00037\JP9002-NPJG00037_00-CUSTOMTHEME2013D.PTF" size="565904" crc="2049dd6b" md5="7d5b49f17f64a19e6cf19e0d1d170ad3" sha1="fe6338147bf3203ae05cb4dcc459eb39c7b590a6"/>
 	</game>
 	<game name="Shuukan Toro Station - Custom Theme E (Japan) (Theme)" id="5831">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Shuukan Toro Station - Custom Theme E (Japan) (Theme)</description>
 		<game_id>JP9002-NPJG00037_00-CUSTOMTHEME2013E</game_id>
 		<rom name="NPJG00037\JP9002-NPJG00037_00-CUSTOMTHEME2013E.PTF" size="468380" crc="ce7c1216" md5="d651d4d39032c99669b866e2a0a172eb" sha1="120096922c36231b69f3f10d7bf38047d60b6420"/>
@@ -65225,19 +65225,19 @@
 		<rom name="Skate Park City (Europe).iso" size="277839872" crc="ea48f971" md5="edb60defb5649d7dd08969f7521bbff6" sha1="69a24f0d00d517739c0e8ee80c940f37e6e731c4" sha256="0d8f96668efc2c0941d07acb202662165b39cbe7fe16416c9a60a7d1944b09de"/>
 	</game>
 	<game name="Sniper Girls (USA) (Theme)" id="5856">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Sniper Girls (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-SNIPERGIRLSPSP01</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-SNIPERGIRLSPSP01.PTF" size="562960" crc="df704005" md5="a7982705a7646b84ebe65c24ebf6f7e2" sha1="667b5fe0cd18174368b7d7c24699cf1bfae2a814"/>
 	</game>
 	<game name="Snowman Static Theme by Studio Output (Europe) (Theme)" id="3061">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Snowman Static Theme by Studio Output (Europe) (Theme)</description>
 		<game_id>EP9000-NPEW00076_00-TPCSTUDIOO000070</game_id>
 		<rom name="NPEW00076\EP9000-NPEW00076_00-TPCSTUDIOO000070.PTF" size="364360" crc="8cfb5965" md5="f566c5bb04a9315c8a4327339616bb73" sha1="0dc0346941317261b08cce8c6018ed58f0e8dd50" sha256="e9dcc0b2d08d045cba80f4fd07216e15940cbe25a9fd497b823a20ceabb478cb"/>
 	</game>
 	<game name="Snowy Mountain (USA) (Theme)" id="4787">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Snowy Mountain (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-SNOWYMOUNTAPSP01</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-SNOWYMOUNTAPSP01.PTF" size="636908" crc="38d48054" md5="e8f2d9369ada867376e71bace295886c" sha1="113409c2ab5db5455031cf6e423f1695e872c41c" sha256="77fd9bb85fc44fdfbb2fe5106d15a4602110e846bd4703386d0deb61fabd81ec"/>
@@ -65313,13 +65313,13 @@
 		<rom name="Sora no Kiseki SC (Japan) (Disc 2).iso" size="1604452352" crc="9bf2ab43" md5="25d512750f14e4502c141bc25ce506d2" sha1="9877b741ba859ad342eb2138995bece1beea0a2c" sha256="ff772bad103ddcb7947f1232ab7bd009cbcd1f68cb6e85178e70f843084c0615"/>
 	</game>
 	<game name="Sorority Girls (USA) (Theme)" id="5857">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Sorority Girls (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-SORORITYGIRLPSP1</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-SORORITYGIRLPSP1.PTF" size="541880" crc="9f772e21" md5="0502ba8d3ac599d7f6830ec40352ff43" sha1="beca623f987fbe00ef5958d629ec9a7715c830e6"/>
 	</game>
 	<game name="Sorority Winter Break (USA) (Theme)" id="5858">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Sorority Winter Break (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-SORWTBRKPSPTHM01</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-SORWTBRKPSPTHM01.PTF" size="549364" crc="74e27448" md5="dadee0d48fa3812a0cf405d3233b83d1" sha1="7ac3c9e226223e85d3facb371cdef255c5e1b1f2"/>
@@ -65331,13 +65331,13 @@
 		<rom name="Soulcalibur - Broken Destiny (USA) (En,Ja,Fr,De,Es,It,Ru).iso" size="900923392" crc="da2e06b8" md5="720c62637bba0382fec2def8a7fa0d13" sha1="dc5ee536820c059ddfe700aa8fb20c4f18bf9f3a" sha256="4fbae6a3957d0821a248867d8af260f36faf0d72b9744336a30af3952ce25ae2"/>
 	</game>
 	<game name="South Park (USA) (Theme)" id="4775">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>South Park (USA) (Theme)</description>
 		<game_id>US0013-NPUY00008_00-SOUTHPARKPSPTHM1</game_id>
 		<rom name="NPUY00008\US0013-NPUY00008_00-SOUTHPARKPSPTHM1.PTF" size="448644" crc="89d1e449" md5="637ed077e655a7328a241fcf158c88b8" sha1="f52b25257de1a5fea1ea675d69425f11e70d5f91" sha256="138cb13a50f45998b80f5bf3c3b2a247526d9a32e17f654abf0392c0e0cccc68"/>
 	</game>
 	<game name="South Park Anime (USA) (Theme)" id="4776">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>South Park Anime (USA) (Theme)</description>
 		<game_id>US0013-NPUY00008_00-SOUTHPARKANIPSP1</game_id>
 		<rom name="NPUY00008\US0013-NPUY00008_00-SOUTHPARKANIPSP1.PTF" size="443612" crc="4b599821" md5="5dba9acdf4ae32f8226a3d75b446c5e1" sha1="16e52bc53e0340db5928d539b691bce648e317ad" sha256="f62006a00291ec2890209dd72d60662443e7a98f9631da2d11ee09b5d5928fba"/>
@@ -65399,19 +65399,19 @@
 		<rom name="Split-Second - Velocity (Europe) (Demo).iso" size="287178752" crc="8f0f7d14" md5="fd279fe7d736b7eb9e2ca8f8f455dc98" sha1="9b8a4f0ddcb9ae2b1e6e26c64043d0b4d664ede4" sha256="0c3acb2196272a48a390654223d8715e716956d24f5cf64df5f77e2447ee9d8c"/>
 	</game>
 	<game name="Star Driver - Kagayaki no Takuto - Ginga Bishounen Densetsu - Special Character Theme - Kiraboshi Version (Japan) (Theme)" id="4301">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Star Driver - Kagayaki no Takuto - Ginga Bishounen Densetsu - Special Character Theme - Kiraboshi Version (Japan) (Theme)</description>
 		<game_id>JP0700-NPJY90047_00-SDTHEMEKIRABOSHI</game_id>
 		<rom name="NPJY90047\JP0700-NPJY90047_00-SDTHEMEKIRABOSHI.PTF" size="427216" crc="26ef8326" md5="8dfdccaf5188085cc4b00eca7edde20a" sha1="d3565528017cd37e5227d2d55f976cb7df786579" sha256="d1f289e0cd15dd9a5aca9a00e2b041746157f268808261f0eea8f4c07b079715"/>
 	</game>
 	<game name="Star Driver - Kagayaki no Takuto - Ginga Bishounen Densetsu - Special Character Theme - Tsuujou Version (Japan) (Theme)" id="4302">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Star Driver - Kagayaki no Takuto - Ginga Bishounen Densetsu - Special Character Theme - Tsuujou Version (Japan) (Theme)</description>
 		<game_id>JP0700-NPJY90047_00-SDTHEMENORMAL001</game_id>
 		<rom name="NPJY90047\JP0700-NPJY90047_00-SDTHEMENORMAL001.PTF" size="436272" crc="3827ca5f" md5="b5819a987d93012630ce67586480e86c" sha1="475aedbab34e6f967c2f0114fae7a81b6f11fc6f" sha256="42881138c486ae1bf34a81a27a03f2348dc099800f067f5af1f0101ace5d2875"/>
 	</game>
 	<game name="Star Ocean 1 First Departure Theme (Asia) (Theme)" id="4807">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Star Ocean 1 First Departure Theme (Asia) (Theme)</description>
 		<game_id>HP0082-NPHY00001_00-0000000000000000</game_id>
 		<rom name="NPHY00001\HP0082-NPHY00001_00-0000000000000000.PTF" size="317152" crc="d47b053e" md5="9bbe4f16d7e84bd03b50e0ce3b1bf299" sha1="1666dcfa4f7d8357ec4914020b11ac6a972aef94" sha256="30640a4a16b82342f7322c62694e30d3ee878934dfc03b4a5bd0b591f38ce45c"/>
@@ -65429,37 +65429,37 @@
 		<rom name="Star Strike Portable (Japan).iso" size="196476928" crc="6d48ac10" md5="fa3873f16ddfa13521f4e4c0aade1e58" sha1="467bf2b6956daf95c8f4e4ec4d3c6434e9f4a839" sha256="cd057687bd287d4819e67213be07ef8ec1f29fc0358a3e190d63fbb185c62384"/>
 	</game>
 	<game name="Star Trek (USA) (Theme)" id="4672">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Star Trek (USA) (Theme)</description>
 		<game_id>US0003-NPUY00013_00-STARTREKPSPTHM01</game_id>
 		<rom name="NPUY00013\US0003-NPUY00013_00-STARTREKPSPTHM01.PTF" size="585976" crc="f92eb62b" md5="dc49472409a661fcce5512c0cb4f6532" sha1="f52b077cd86957c242100ed48921f22d9b49b1fc" sha256="19c07c7a85cee385d5437128301b562c6a66ffc14bacf19995fea0f7dcd5b8b7"/>
 	</game>
 	<game name="Star Trek - Terran Empire - Blue (USA) (Theme)" id="4673">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Star Trek - Terran Empire - Blue (USA) (Theme)</description>
 		<game_id>UT0004-NPUY00005_00-STARTREKTERRANBL</game_id>
 		<rom name="NPUY00005\UT0004-NPUY00005_00-STARTREKTERRANBL.PTF" size="436976" crc="af8d9aca" md5="15aca69def79aaff522f4f387294445c" sha1="535a003e298f06016814b5c5d243dfe55f2864b8" sha256="0a106dd33ed1c079da76dbc662dde7cd654868364601a97b6ede335f6f0c0f8f"/>
 	</game>
 	<game name="Star Trek - Terran Empire - Red (USA) (Theme)" id="4674">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Star Trek - Terran Empire - Red (USA) (Theme)</description>
 		<game_id>UT0004-NPUY00005_00-STARTREKTERRANRD</game_id>
 		<rom name="NPUY00005\UT0004-NPUY00005_00-STARTREKTERRANRD.PTF" size="462996" crc="118e9532" md5="294736cffbf009c78310012b9973c82d" sha1="571e9da259ad095268787462c90b38acfefb44e0" sha256="74d9f1125f5c066e9a0c5e142be8917a72c8ecfb36568c167706df9074d04146"/>
 	</game>
 	<game name="Star Trek - The Original Series - Command (USA) (Theme)" id="4675">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Star Trek - The Original Series - Command (USA) (Theme)</description>
 		<game_id>UT0004-NPUY00005_00-STARTREKCOMMAND1</game_id>
 		<rom name="NPUY00005\UT0004-NPUY00005_00-STARTREKCOMMAND1.PTF" size="307540" crc="cb30a393" md5="f845d039bf61be6f9249562af41883b0" sha1="8f06c37a4a87b9cee3ba7e6c8237e8da911f80ec" sha256="885f827e7b7831d8743768e2fb138aa05f340dbb0f4c27e0bb8cc180f4502477"/>
 	</game>
 	<game name="Star Trek - The Original Series - Engineering (USA) (Theme)" id="4676">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Star Trek - The Original Series - Engineering (USA) (Theme)</description>
 		<game_id>UT0004-NPUY00005_00-STARTREKENGINEER</game_id>
 		<rom name="NPUY00005\UT0004-NPUY00005_00-STARTREKENGINEER.PTF" size="385172" crc="9f77f923" md5="977fdc7633eb06236cce2bd7e4b74ecc" sha1="c45324418a5f34bab2de224a00546960542251b7" sha256="f8bb93005bfd88a53f584e8137e1adde394868cf09be9d24060bb449730e4e8c"/>
 	</game>
 	<game name="Star Trek - The Original Series - Sciences (USA) (Theme)" id="4677">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Star Trek - The Original Series - Sciences (USA) (Theme)</description>
 		<game_id>UT0004-NPUY00005_00-STARTREKSCIENCES</game_id>
 		<rom name="NPUY00005\UT0004-NPUY00005_00-STARTREKSCIENCES.PTF" size="391692" crc="7a210357" md5="836d8a1e9dad68b7b1cd50496495a69f" sha1="95a2043e6204b418bd8ec47637ec9adefd9301cb" sha256="b3072656e1b1c4c2f849617a82a6eaa8268dfcfc9a0f8dc0a8fc0acbdd19dce2"/>
@@ -65585,7 +65585,7 @@
 		<rom name="Suk-Tae Oh's Talking English Vol. 2 (Korea).iso" size="1281294336" crc="181ad676" md5="dbb8f0b14a37c265d0d93340c118e313" sha1="9a9762d69417923bb88f14097ebdd1bbef26429b" sha256="77618d7d88df463eabec0911fdd4ce5913b717e67e6cc12379357ece56a36a07"/>
 	</game>
 	<game name="Summer Fields (USA) (Theme)" id="4792">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Summer Fields (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-SUMMERFIELDSTH01</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-SUMMERFIELDSTH01.PTF" size="535084" crc="57008279" md5="dc76ea20883b5b2f355133fde5c1e630" sha1="ec04ccc439eed381462ec5e84b24ab7a1e0f001d" sha256="2a880451b3302599c5c65fad0f40ea220617ba40308354b070fa08445deea92f"/>
@@ -65603,7 +65603,7 @@
 		<rom name="Summon Night 4 (Japan).iso" size="1556021248" crc="0ed28838" md5="2fdac3ba2b814fec29fb99e97a644699" sha1="c8d570b45cb8484ae69d8c4c18968136297a7b2f" sha256="f621ae6359edf69b14ff0a7a795235d60eb88b9f7ac91b951024654631252ed4"/>
 	</game>
 	<game name="Summon Night 4 - Hatsubai Kinen Campaign (Japan) (PSP the Best) (Theme)" id="4303">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Summon Night 4 - Hatsubai Kinen Campaign (Japan) (PSP the Best) (Theme)</description>
 		<game_id>JP0700-NPJR00031_00-PSPSUMMO40000002</game_id>
 		<rom name="NPJR00031\JP0700-NPJR00031_00-PSPSUMMO40000002.PTF" size="324028" crc="ff4a192f" md5="11fa2c4432f097d62dd9d0e943ea9c91" sha1="1b3276db31f0b604ea5e4db9ed7141bdb0e1b4bf" sha256="2d1a543690c3de57b98baecd476196911ab43c1f9e00a0945d8f253aa0519b08"/>
@@ -65627,13 +65627,13 @@
 		<rom name="Super Collapse! 3 (USA).iso" size="62390272" crc="5fbe80d1" md5="ca42e38bf3e2c3e10c466f862c3a39b9" sha1="9c7b0c031c019a2f9a4420f27d8481432a8adbad" sha256="9f20e3f4137eb65e4fd1db6b979efbd1757c63e2f69dfc5dbba652742d7c3491"/>
 	</game>
 	<game name="Super Cop Hook-Ups (USA) (Theme)" id="4758">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Super Cop Hook-Ups (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-SUPERCOPPSPTHM01</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-SUPERCOPPSPTHM01.PTF" size="364716" crc="d6a44a29" md5="7d18dec7d8f69771ef19bbe2a333559b" sha1="9c6ac1caad11235739ab2c8221f1d704ea4ab758" sha256="2268cd0ac74301a5fc6a05cb1e0092d2444a40399b4f4d1285b5845682d64a10"/>
 	</game>
 	<game name="Super Dangan-Ronpa 2 - Sayonara Zetsubou Gakuen - Pekoyama Peko (Japan) (Theme)" id="4304">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Super Dangan-Ronpa 2 - Sayonara Zetsubou Gakuen - Pekoyama Peko (Japan) (Theme)</description>
 		<game_id>JP0365-NPJH50631_00-CUSTOMTHEMESET19</game_id>
 		<rom name="NPJH50631\JP0365-NPJH50631_00-CUSTOMTHEMESET19.PTF" size="470876" crc="8226d4ed" md5="90fd156c55aacdcfe569a16a359fbddd" sha1="a1a0faadca7cccb3ad9d475487056f04c9f4c51b" sha256="9037d8c23246f27f2d66dd7d225807dd8a623cfe74d37041c478bb842b32a103"/>
@@ -66297,7 +66297,7 @@
 		<rom name="Surf's Up (Europe).iso" size="906362880" crc="743a41d2" md5="1e7fb8f4fe9328403435f12fc47e1cb8" sha1="5a524d9739ccbf915e4b29b4cd48abf1868cea37" sha256="9e1feefc62b1844610ddf680f7aee8c2356acdb5b583f439459db5cd5c161fc5"/>
 	</game>
 	<game name="Surrogates (USA) (Theme)" id="4770">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Surrogates (USA) (Theme)</description>
 		<game_id>UP1082-NPUY10001_00-SURROGATESPSP002</game_id>
 		<rom name="NPUY10001\UP1082-NPUY10001_00-SURROGATESPSP002.PTF" size="508528" crc="eebf8d1c" md5="14cd78c21e853a5d1d846aa0018adbc8" sha1="f4ce412ce9cc10dc2885109dd736d0745a7cc3b2" sha256="d27adbbdf9d36214631b9faf302509c0aacef487d9f7180f97a37b52d65f4073"/>
@@ -66334,61 +66334,61 @@
 		<rom name="NPJH50701\PDATA.EDAT" size="8622552" crc="640b8804" md5="a81ec420678bf12e6e6fe96890c2b542" sha1="7bfc5b71fafe8c2fffabb4d36fa4b208424e103a" sha256="f6fee443fd9391e84ee9e2b0b140229418486b5e703af437d0b7d8b5231705d1"/>
 	</game>
 	<game name="Sword Art Online Infinity Moment - 001 - Kirito (Japan) (Theme)" id="3297">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Sword Art Online Infinity Moment - 001 - Kirito (Japan) (Theme)</description>
 		<game_id>JP0700-NPJH50701_00-SAOIMADDTHEME001</game_id>
 		<rom name="NPJH50701\JP0700-NPJH50701_00-SAOIMADDTHEME001.PTF" size="614328" crc="da6101ba" md5="47e63b078cdee4e58301ba8890ed329a" sha1="21f0e9a292ecb6729302c7da2c92174df3b05a75" sha256="0c6fac242606726194826cc5434b79abfab8b5198d37f4bff2a09d1a18cdfc81"/>
 	</game>
 	<game name="Sword Art Online Infinity Moment - 002 - Asuna (Japan) (Theme)" id="3298">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Sword Art Online Infinity Moment - 002 - Asuna (Japan) (Theme)</description>
 		<game_id>JP0700-NPJH50701_00-SAOIMADDTHEME002</game_id>
 		<rom name="NPJH50701\JP0700-NPJH50701_00-SAOIMADDTHEME002.PTF" size="558328" crc="55ba1cc7" md5="d7d47b5e1145de88e998e45e6caa9dc4" sha1="3a21a08f6d78fc119c919ba613f9bda5e94c2c70" sha256="0ae305a0580077cfcb4a4c21e8c594bc6fe4c75c6906438066fa0f05148a606b"/>
 	</game>
 	<game name="Sword Art Online Infinity Moment - 003 - Silica (Japan) (Theme)" id="3299">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Sword Art Online Infinity Moment - 003 - Silica (Japan) (Theme)</description>
 		<game_id>JP0700-NPJH50701_00-SAOIMADDTHEME003</game_id>
 		<rom name="NPJH50701\JP0700-NPJH50701_00-SAOIMADDTHEME003.PTF" size="597236" crc="5d768599" md5="97886fc9eaa5fb2225e89e88aeb746dc" sha1="2c79033f45883902bad765c27fef1a4428bf7c40" sha256="15ba5b74966c5bf9e4bc6bdd9e10c4ca39d3b4b0f679d918f4ee761a8dac2624"/>
 	</game>
 	<game name="Sword Art Online Infinity Moment - 004 - Lisbeth (Japan) (Theme)" id="3300">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Sword Art Online Infinity Moment - 004 - Lisbeth (Japan) (Theme)</description>
 		<game_id>JP0700-NPJH50701_00-SAOIMADDTHEME004</game_id>
 		<rom name="NPJH50701\JP0700-NPJH50701_00-SAOIMADDTHEME004.PTF" size="611456" crc="37690195" md5="ee8a3e79032ee119e308171261442a88" sha1="02318bdc3aec03e0bf022cf83c0652266a6ade94" sha256="129b5e6ddd084bae1dc0a700f003eb33edf5a81625eac45ca7d98fd15c87cc79"/>
 	</game>
 	<game name="Sword Art Online Infinity Moment - 005 - Leafa (Japan) (Theme)" id="3301">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Sword Art Online Infinity Moment - 005 - Leafa (Japan) (Theme)</description>
 		<game_id>JP0700-NPJH50701_00-SAOIMADDTHEME005</game_id>
 		<rom name="NPJH50701\JP0700-NPJH50701_00-SAOIMADDTHEME005.PTF" size="628064" crc="2d9606c1" md5="a3a3f461d4edfc95b5775ceb5c778572" sha1="ab7d5a81f672f9bcf2f647d371a2fe4d1af12276" sha256="6ed769c6cef7895518e8aa06696c6e0c50393a191d747fc248094a1b62293564"/>
 	</game>
 	<game name="Sword Art Online Infinity Moment - 006 - Sinon (Japan) (Theme)" id="3302">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Sword Art Online Infinity Moment - 006 - Sinon (Japan) (Theme)</description>
 		<game_id>JP0700-NPJH50701_00-SAOIMADDTHEME006</game_id>
 		<rom name="NPJH50701\JP0700-NPJH50701_00-SAOIMADDTHEME006.PTF" size="614012" crc="47127312" md5="ca17af38d81a55b8ab5cc53df8c3fe5e" sha1="f6ecfaef7b7f5e3c10f7d78cca7fea6a8667b663" sha256="df503064db4471291ea7eb6fac1f0d65909c2d04dedfa0418565cd673fd02b65"/>
 	</game>
 	<game name="Sword Art Online Infinity Moment - 007 - Yui (Japan) (Theme)" id="3303">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Sword Art Online Infinity Moment - 007 - Yui (Japan) (Theme)</description>
 		<game_id>JP0700-NPJH50701_00-SAOIMADDTHEME007</game_id>
 		<rom name="NPJH50701\JP0700-NPJH50701_00-SAOIMADDTHEME007.PTF" size="546880" crc="3964cf47" md5="71e2df3efc791123f6856772dcc266f3" sha1="91b67cdcc833860a08c7cee4a5e6a6b2a55e5931" sha256="22aa2a96ea6356b0039358debd4422cee15c8d43d67d630273ee1deb377d017a"/>
 	</game>
 	<game name="Sword Art Online Infinity Moment - 008 - Strea (Japan) (Theme)" id="3304">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Sword Art Online Infinity Moment - 008 - Strea (Japan) (Theme)</description>
 		<game_id>JP0700-NPJH50701_00-SAOIMADDTHEME008</game_id>
 		<rom name="NPJH50701\JP0700-NPJH50701_00-SAOIMADDTHEME008.PTF" size="603052" crc="d8e7feff" md5="258b7c952f1dd0d6493af4997fc05f5e" sha1="eb5935b780a37d9121e5e1b545afcb6bbf20519f" sha256="c3d45e7d7c4b49a9e55d0358cb282520d9a090372040c9d58c7f287d3bdaff6e"/>
 	</game>
 	<game name="Sword Art Online Infinity Moment - 009 - All Characters (Japan) (Theme)" id="3305">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Sword Art Online Infinity Moment - 009 - All Characters (Japan) (Theme)</description>
 		<game_id>JP0700-NPJH50701_00-SAOIMADDTHEME009</game_id>
 		<rom name="NPJH50701\JP0700-NPJH50701_00-SAOIMADDTHEME009.PTF" size="627072" crc="ebe02e8e" md5="a94499358f2b6464aef95c86d9e675bf" sha1="abbea5206c4e7cb901f4c6e56cea98665bcc86c4" sha256="cfdc8495d69820aa3df9088a11976b60cabf482d1efcff8732f8ecd764fab627"/>
 	</game>
 	<game name="Sword Art Online Infinity Moment - 010 - Kirito &amp; Asuna (Japan) (Theme)" id="3306">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Sword Art Online Infinity Moment - 010 - Kirito &amp; Asuna (Japan) (Theme)</description>
 		<game_id>JP0700-NPJH50701_00-SAOIMADDTHEME010</game_id>
 		<rom name="NPJH50701\JP0700-NPJH50701_00-SAOIMADDTHEME010.PTF" size="614784" crc="82385b8d" md5="746093f12af10ec68164649dfabba097" sha1="3019b81812ac256300fcf292e1d52a04d413da58" sha256="f2438e859375401bfca4d4d0147634ba21e45a537e91fb6d13be924524fd56ac"/>
@@ -67197,7 +67197,7 @@
 		<rom name="Tenshin Ranman - Happy Go Lucky!! (Japan).iso" size="1610285056" crc="1f37831e" md5="60bba1e0646aa442871d3c65205d062e" sha1="e344796b7e89eb75bd79873b7eda939870ea2aa0" sha256="45da505468d495d69a1aeea41399c45034424fe2fe0dbe606c70bf2860451525"/>
 	</game>
 	<game name="Terran 3020 Theme 2 (USA) (Theme)" id="4683">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Terran 3020 Theme 2 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-TERRAN3020PSP002</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-TERRAN3020PSP002.PTF" size="679564" crc="01d2e144" md5="554d4c383453d6f52c8bcb1a3fc8fe9d" sha1="046f7166d57771ab5212eb140b09cea8728a92c3" sha256="b2223b64a5ac69d2fd12b32e668aaf25a7ed7398a35f5c253c339227987c7706"/>
@@ -67209,13 +67209,13 @@
 		<rom name="Tetris (Japan).iso" size="160006144" crc="204abab0" md5="235f1d9dfea94dd7bf02059c674e37a6" sha1="7856e2811b45406e6b09340a969cd02c6155720f"/>
 	</game>
 	<game name="The AK 1 (USA) (Theme)" id="5862">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>The AK 1 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-AKPSPTHEME000001</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-AKPSPTHEME000001.PTF" size="523408" crc="76c02d63" md5="5728ea200c3b150354d9aa0d937bbe7e" sha1="b3aaf295731764c7ce3b4321a116dd23d9f12ef2"/>
 	</game>
 	<game name="The AK 2 (USA) (Theme)" id="5863">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>The AK 2 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-AKPSPTHEME000002</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-AKPSPTHEME000002.PTF" size="515060" crc="ce76b9d5" md5="ebdf7333ae7aec1106184269567a53a6" sha1="f5d7915e4a2c4c6f1d5ef5d691ff87324bd1db44"/>
@@ -67328,19 +67328,19 @@
 		<rom name="Tokuten Ou (Japan) (NG).iso" size="132120576" crc="bd7184f1" md5="30f89bb8110b663d94e5a20ab81eca61" sha1="867f3f5bf6333c609562627b58ef20a72142236f" sha256="4e84f485927c890f7d3ea696971d73d9d3805f4df9c3c31d92c6aa0be0d6b0ef"/>
 	</game>
 	<game name="Tokyo Cherry Blossoms (USA) (Theme)" id="4786">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Tokyo Cherry Blossoms (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-TOKYOCHERRYBLO01</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-TOKYOCHERRYBLO01.PTF" size="691624" crc="65234982" md5="a2ddd19789f56cf0d0115a0bd0e8b6e2" sha1="feb633a9c4d5ca819d69dc4e6d6b81254de82764" sha256="6d0a30074edc42f9fe3f5b2086b308dfe3bebea141edba6b12bfb9831fb335ad"/>
 	</game>
 	<game name="Tokyo City Police Hook-Ups (USA) (Theme)" id="4755">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Tokyo City Police Hook-Ups (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-TOKYOPOLICEPSP01</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-TOKYOPOLICEPSP01.PTF" size="462240" crc="479bdebd" md5="433008b5243aeea597dbd1e29bfeeaf0" sha1="d8bdda6fb7869c70e540d75b1d66e9017f958743" sha256="678000ef6920a8abfb3dadb99e87eb535ba89805da8a071fc02c270e25ff6f83"/>
 	</game>
 	<game name="Tokyo Life (USA) (Theme)" id="4797">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Tokyo Life (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-TOKYOLIFEPSPTH01</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-TOKYOLIFEPSPTH01.PTF" size="640596" crc="f9decd85" md5="d38a58095a061630d954c8a72ef6421b" sha1="f0d14564db3ed9b7001b479d5c68fe1e9d176450" sha256="4c9b7b685bd2aa5429fd5d364eae2e31ef3467083232544ec216a10f3f128367"/>
@@ -67382,7 +67382,7 @@
 		<rom name="Tom Clancy's Splinter Cell - Essentials (USA).iso" size="1812267008" crc="14347db2" md5="54de2535106cf1f47c6671657429d108" sha1="b66ca6dea6aa1cad41c015e9990314cb75a1a1db" sha256="2e95ce0d91de6188214d872e0f6a181a26e302b7adbff725c0d641d6ad844fa7"/>
 	</game>
 	<game name="Tomb Raider - 10th Anniversary Edition (USA) (Theme)" id="4764">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Tomb Raider - 10th Anniversary Edition (USA) (Theme)</description>
 		<game_id>UP0776-ULUS10253_00-TRAETHEME0000001</game_id>
 		<rom name="ULUS10253\UP0776-ULUS10253_00-TRAETHEME0000001.PTF" size="609112" crc="53992b1e" md5="379c579129d74b4179fbc9bf6ca78227" sha1="458285fce3e2234c41c5776f06b81f357a124af1" sha256="1d4d3273d3c279fcee0c6798bfad85ffc883a2b2d3c0850b503afb20e86094ac"/>
@@ -69323,7 +69323,7 @@
 		<rom name="NPJH50789\PARAM.PBP" size="24598" crc="e7b58595" md5="3fc9781207f52abe3681e8c67d2e9c8d" sha1="af80fc0266882448163c82f8215ca397e9afc5ae" sha256="1e64ac8cf6fe88be0da21c69b84c7bf8237c074a6144984e93a27aa74b71d41d"/>
 	</game>
 	<game name="Toy Tokyo Electric Town (USA) (Theme)" id="4785">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Toy Tokyo Electric Town (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-TOYTOKYOELECTR01</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-TOYTOKYOELECTR01.PTF" size="645760" crc="0cdaa03f" md5="6a07e516aacd335aeae18fe76bdea099" sha1="843542e4346182d4b90825dcb014b4db505c2ac7" sha256="51aad93c89f8d780e27ce67a2d3c0cadea9fde22497213b76b7a4df72adbda17"/>
@@ -69335,7 +69335,7 @@
 		<rom name="NPUY00010\US0003-NPUY00010_00-TRANSFORMERS2PSP.PTF" size="568168" crc="ebeaa69a" md5="1cc8af7fc34398f0d85a40b81390724d" sha1="f91f47a654fdd844bb75df410962af685af78b5a" sha256="49c892b8b2f92f66b00a2875623ee1dbe32c5b64d2ccfb6eaac762154053677e"/>
 	</game>
 	<game name="Transporter 3 (USA) (Theme)" id="4763">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Transporter 3 (USA) (Theme)</description>
 		<game_id>US0009-NPUY00003_00-TRANSPORTER3PSP1</game_id>
 		<rom name="NPUY00003\US0009-NPUY00003_00-TRANSPORTER3PSP1.PTF" size="423672" crc="b7934737" md5="f5561a18efe0932fbb3fe6cdc896b985" sha1="e50349e3f464f081a72c217c23aba959792a6398" sha256="55e5501a545406a585e53dafdbf82a23e020e6ff8cb36ae28922d1b1bed10320"/>
@@ -69372,7 +69372,7 @@
 		<rom name="NPJH50591\JP0407-NPJH50591_00-0000000000000002.PTF" size="414492" crc="4228a7a1" md5="9d7472b295517a71352b653b80f2d7d9" sha1="fd11ddcc39707a90277770ef967eb38e9d4f2641" sha256="486e309bc42c6992a85efa17b230aaa41a8e4cfec218b8e53684e08c5ac5011c"/>
 	</game>
 	<game name="Tuner Hotties (USA) (Theme)" id="5859">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Tuner Hotties (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-TUNERHOTTIESPSP1</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-TUNERHOTTIESPSP1.PTF" size="469980" crc="dadbbc26" md5="1dfb48aaca9e868a01bbae8bf915c782" sha1="2d2eba9afa48164bec57d3f62169a95731bbc816"/>
@@ -69384,7 +69384,7 @@
 		<rom name="Twisted Metal - Head-On (USA).iso" size="838664192" crc="27af4897" md5="e999693b16c3f1514671faf4e2258843" sha1="8540c774d12128d127c5f1db6712f65ac98e3427" sha256="b9838a9d845ae3f38090d1e05c79f31bc5a414693926eb61a22533d4548fca74"/>
 	</game>
 	<game name="UFC (USA) (Theme)" id="4520">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>UFC (USA) (Theme)</description>
 		<game_id>US0021-NPUY00017_00-UFCPSPTHEME00001</game_id>
 		<rom name="NPUY00017\US0021-NPUY00017_00-UFCPSPTHEME00001.PTF" size="547560" crc="c482d5bd" md5="71f63732d02a856fecf6539d83695fa3" sha1="157b294d6664dbdc3d9abd22cefda19b29df77de" sha256="0d13b231f6a68b62c94beadf3600317096f1c66d4f3b38fb0328c030bcccfa31"/>
@@ -69720,7 +69720,7 @@
 		<rom name="Vampire Chronicle - The Chaos Tower (Japan).iso" size="697466880" crc="db69097f" md5="15f9c41f8c97b9bf05ece501434b89fa" sha1="8fd66473c355f1a08981fb7e7256fdb8fd63a618" sha256="f028a6872f0684372739fe36839a1115a8a8e104706afd29427217bbff9b6be1"/>
 	</game>
 	<game name="Vector (USA) (Theme)" id="5893">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Vector (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-VECTORPSPTHEME01</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-VECTORPSPTHEME01.PTF" size="345212" crc="0049e648" md5="08ec8df211eddf311f7e35fad992577b" sha1="de7eddd3a642bf3f3670e6bfcf44204ac16c4606"/>
@@ -69752,31 +69752,31 @@
 		<rom name="Victory Run (USA) (PCE).iso" size="111050752" crc="c49798ba" md5="b4e5081540eef3892b6ac4d042760e19" sha1="60ad790c858984a99fca20e7c0aac3a4a6ff8c0e" sha256="7e5d5c538022f3dfe9eca19926e56c24e1352c8080cbb11a1598b90ababf1e1b"/>
 	</game>
 	<game name="Vikki Blows 1 (USA) (Theme)" id="5841">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Vikki Blows 1 (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-DP1GRL1VIKKIBLO1</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-DP1GRL1VIKKIBLO1.PTF" size="371164" crc="878bc8ad" md5="e88661ed7a700d17a973ec6664a8b455" sha1="3dc5c9118fd250daa919c1f6e2f829b830589377"/>
 	</game>
 	<game name="Vikki Blows 2 (USA) (Theme)" id="5842">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Vikki Blows 2 (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-DP1GRL1VIKKIBLO2</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-DP1GRL1VIKKIBLO2.PTF" size="498396" crc="b2038de8" md5="d9e5a505ad7f9f5ab65d3200acaec3bb" sha1="5876729fdb0c530bafd4897e57484fa79ce4688d"/>
 	</game>
 	<game name="Vikki Blows 3 (USA) (Theme)" id="5843">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Vikki Blows 3 (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-DP1GRL1VIKKIBLO3</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-DP1GRL1VIKKIBLO3.PTF" size="474064" crc="660cda38" md5="2f844ba9347caa65d7cb5a80eff9f309" sha1="a28eff30e7b8c00388e51357ca4e5bd9c5147d9a"/>
 	</game>
 	<game name="Vikki Blows 4 (USA) (Theme)" id="5844">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Vikki Blows 4 (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-DP1GRL1VIKKIBLO4</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-DP1GRL1VIKKIBLO4.PTF" size="201956" crc="c8c5fa6a" md5="42c0af1f86f94e44b06725ff222b1f25" sha1="c6b636bb9dbf817f4645d0dd65ac151cda217d7c"/>
 	</game>
 	<game name="Vikki Blows 5 (USA) (Theme)" id="5845">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Vikki Blows 5 (USA) (Theme)</description>
 		<game_id>UT0001-NPUX00001_00-DP1GRL1VIKKIBLO5</game_id>
 		<rom name="NPUX00001\UT0001-NPUX00001_00-DP1GRL1VIKKIBLO5.PTF" size="396516" crc="512294dc" md5="e665400e910a5ba720e3c3aeb1515143" sha1="c55e60e4dbf409983f04cd394f0390abf773a63a"/>
@@ -69788,13 +69788,13 @@
 		<rom name="Viorate no Atelier - Gramnad no Renkinjutsushi 2 - Gunjou no Omoide (Japan).iso" size="1411317760" crc="1478f49b" md5="ee6f89ec95e081213190e5e1128cf994" sha1="c86b0a21e20115ae49bc355ce6e75c9ac56fcae5" sha256="52ae24ca311d40ff13270e2616f81fd9040b48acefff5ebaa1db26d37674a29c"/>
 	</game>
 	<game name="Vividred Operation - Hatsubai Kinen Campaign Custom Theme #2 (Japan) (Theme)" id="4692">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Vividred Operation - Hatsubai Kinen Campaign Custom Theme #2 (Japan) (Theme)</description>
 		<game_id>JP0700-NPJR00031_00-PSPVIVIDO0000011</game_id>
 		<rom name="NPJR00031\JP0700-NPJR00031_00-PSPVIVIDO0000011.PTF" size="387852" crc="3d269be0" md5="868e999b82952df2bda068d5f7ea71bd" sha1="cc55c077aecd1e4ca0555311a604a98c5731c4fc" sha256="7f337799f73061a53969b4d81b684a74148c09f0a1f96e54f892c905056d79dd"/>
 	</game>
 	<game name="Vividred Operation - Hatsubai Kinen Campaign Custom Theme (Japan) (Theme)" id="4693">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Vividred Operation - Hatsubai Kinen Campaign Custom Theme (Japan) (Theme)</description>
 		<game_id>JP0700-NPJR00031_00-PSPVIVIDO0000001</game_id>
 		<rom name="NPJR00031\JP0700-NPJR00031_00-PSPVIVIDO0000001.PTF" size="360424" crc="1864a72f" md5="4b081e93520562c54afdbff0dd40ac55" sha1="56a7c36879ba06ca2ad7baacdf080477cbad9911" sha256="b4a5f8f6e6077096d55843619db7c3058d4008e6d3c167ab4da0845807c1417e"/>
@@ -69895,109 +69895,109 @@
 		<rom name="ULJS00420\PARAM.PBP" size="310752" crc="65bdf12b" md5="d3e66a90f6105605cd5f95d70d7fc8a9" sha1="e5498fa52f7baf77c83a9b93d5dc517f9046049c" sha256="a10bb75e1cecd31de3c8c6719d17e91f058ff8386538974a5aa5db5049262121"/>
 	</game>
 	<game name="Wendy 1 (USA) (Theme)" id="5894">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Wendy 1 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME001</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-WENDYPSPTHEME001.PTF" size="576852" crc="0fb90c6e" md5="1bb3ec5ef8882b35fc0f7d4caab35b78" sha1="2369d35cf53e0f1f498e4caba0dba9aca1e163c5"/>
 	</game>
 	<game name="Wendy 11 (USA) (Theme)" id="5902">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Wendy 11 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME011</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-WENDYPSPTHEME011.PTF" size="593440" crc="5a65561f" md5="d15d9275d79e39497a13688f9290d9ca" sha1="41007069c1f014678484ad7641711f5fa53f5a71"/>
 	</game>
 	<game name="Wendy 12 (USA) (Theme)" id="5903">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Wendy 12 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME012</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-WENDYPSPTHEME012.PTF" size="559908" crc="ecbea343" md5="2e02f19897060c50b5cb390173ec2c40" sha1="7b88b8cc9c919aaeb7e6ec8cb363edb0466fca80"/>
 	</game>
 	<game name="Wendy 13 (USA) (Theme)" id="5904">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Wendy 13 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME013</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-WENDYPSPTHEME013.PTF" size="551124" crc="9649d223" md5="ef7a8ef150817ca34044e694a133e8e8" sha1="366a400098818e0b7abe4b4d06780a0fe6f95ee4"/>
 	</game>
 	<game name="Wendy 14 (USA) (Theme)" id="5905">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Wendy 14 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME014</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-WENDYPSPTHEME014.PTF" size="672000" crc="1962b9af" md5="558d4892e5ad7d0f1d1863d3fc77a4eb" sha1="547a18dfdd0cfc29b53e33731977b952c21fbd79"/>
 	</game>
 	<game name="Wendy 15 (USA) (Theme)" id="5906">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Wendy 15 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME015</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-WENDYPSPTHEME015.PTF" size="675660" crc="b31aa740" md5="09d81729410bab939747351660f5154d" sha1="b66cbdee77d4aa4e390241aaf83918892181a7e7"/>
 	</game>
 	<game name="Wendy 16 (USA) (Theme)" id="5907">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Wendy 16 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME016</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-WENDYPSPTHEME016.PTF" size="686384" crc="8beabbf5" md5="1e9520f5aa92047773062f547a8d355a" sha1="862216b287f139f5d8b29ec17664e77b9d87e9ec"/>
 	</game>
 	<game name="Wendy 17 (USA) (Theme)" id="5908">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Wendy 17 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME017</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-WENDYPSPTHEME017.PTF" size="550520" crc="aa8ee379" md5="7dc4781dd125013613bbdd16127a4475" sha1="6bf4e408649ede84329c96bf473eb3ee6a205623"/>
 	</game>
 	<game name="Wendy 18 (USA) (Theme)" id="5909">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Wendy 18 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME019</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-WENDYPSPTHEME019.PTF" size="558900" crc="1ffb2cb2" md5="301c1df3a3d045ecebaee8ce67d92dd8" sha1="508e93aa1e7d346759fbfa72fbf8296d2e6bcbf4"/>
 	</game>
 	<game name="Wendy 2 (USA) (Theme)" id="5895">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Wendy 2 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME002</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-WENDYPSPTHEME002.PTF" size="488728" crc="1926279e" md5="5e96d700e04f0aa391f7e2b5ad5ab49a" sha1="b4907461b7f6e9d373b55328ddccb2d5bf6da615"/>
 	</game>
 	<game name="Wendy 3 (USA) (Theme)" id="5896">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Wendy 3 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME003</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-WENDYPSPTHEME003.PTF" size="622564" crc="73c56ac0" md5="002e31f5e8817c6ef47ef2a473199078" sha1="658b3300eec21abf7828063353bec85bf19c5440"/>
 	</game>
 	<game name="Wendy 5 (USA) (Theme)" id="5897">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Wendy 5 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME005</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-WENDYPSPTHEME005.PTF" size="621476" crc="b188fb5e" md5="d52556888e5b29e5efcc11ebbfdb72a5" sha1="045ca439d0a8f9876840764b42c71550c5c37a13"/>
 	</game>
 	<game name="Wendy 6 (USA) (Theme)" id="5898">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Wendy 6 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME006</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-WENDYPSPTHEME006.PTF" size="615420" crc="fe58bdd2" md5="74bfa101a9e92050a31166d1dbec8c70" sha1="37abd1125603409be1e5d8a92e374734d326b2f6"/>
 	</game>
 	<game name="Wendy 7 (USA) (Theme)" id="5899">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Wendy 7 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME007</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-WENDYPSPTHEME007.PTF" size="607200" crc="ac492517" md5="325d32ea40ae256733a74dd7663a5955" sha1="14679cfa527e8d0c122403b4cd35ad3e0b3c88e8"/>
 	</game>
 	<game name="Wendy 8 (USA) (Theme)" id="5900">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Wendy 8 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME008</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-WENDYPSPTHEME008.PTF" size="550860" crc="84e897ef" md5="ce43ba2bea0b5420a4319ead411e67db" sha1="75b587b817f1c26c2d95999d116772003b60b6cf"/>
 	</game>
 	<game name="Wendy 9 (USA) (Theme)" id="5901">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Wendy 9 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME009</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-WENDYPSPTHEME009.PTF" size="534344" crc="e04b0638" md5="c97bd2dc09f85a0f3bb0b2d3de9937dd" sha1="24b6dc4ed76f9b316c1f61433a72c6406cab78b3"/>
 	</game>
 	<game name="Wendy Premium Theme 10 (USA) (Theme)" id="4522">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Wendy Premium Theme 10 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME010</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-WENDYPSPTHEME010.PTF" size="564080" crc="d7097cc9" md5="da9020f575c1a73e56505a13752eefbc" sha1="d3052cbbd93982918629b7374d17190416c734c2" sha256="ca5893a11529bdf99382ccfd76619ca6f248d5cd25a175971da0c6cda8a6afec"/>
 	</game>
 	<game name="Wendy Premium Theme 2 (USA) (Theme)" id="3685">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>Wendy Premium Theme 2 (USA) (Theme)</description>
 		<game_id>UT0002-NPUX00002_00-WENDYPSPTHEME004</game_id>
 		<rom name="NPUX00002\UT0002-NPUX00002_00-WENDYPSPTHEME004.PTF" size="620880" crc="5802e3c8" md5="d4a76c36b8b6aab92ab38e992c85c9cf" sha1="4c0f917be94ba62bdc1ea1a6661643ed989af964" sha256="a419f8bf1fe3b2f961d67a881a920dce564401f1f17e035a3f50b53a29862a3f"/>
@@ -70029,7 +70029,7 @@
 		<rom name="ULUS10494\PARAM.PBP" size="194941" crc="3bace897" md5="7e9bac463f707385c35e2ee5ec0f45ff" sha1="fbc3476f3871af734286aeed58bcbafe99ccc8ec" sha256="691ffc07eda8615d38088abf8d195d33cd02d5fa3cd584cdd90e94fb52f61a9c"/>
 	</game>
 	<game name="White Cliffs of Dover, The (USA) (Theme)" id="4789">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>White Cliffs of Dover, The (USA) (Theme)</description>
 		<game_id>UT0005-NPUY00006_00-WHITECLIFFDOVE01</game_id>
 		<rom name="NPUY00006\UT0005-NPUY00006_00-WHITECLIFFDOVE01.PTF" size="520772" crc="8f249f9a" md5="7509b10a204c9ca35bb4bc79d628cc93" sha1="14c92fa326de0d3ad6436d6cd3ca1c5800c35dfa" sha256="466267d8e87a91bfccdee82a2e534972384a23a854b8d240f3f576a234f1bcb4"/>
@@ -70280,7 +70280,7 @@
 		<rom name="NPJH00100\item0704.edat" size="144" crc="10eceb40" md5="cf4b4d5eeb7ff1e13b1209e313aab701" sha1="10d7b0ac00c0d1715772157afcaf66ae094b087a" sha256="ab2396a2656a954469ec28d15006174467c4a9e3a2f86e21ac80d2e2241be91d"/>
 	</game>
 	<game name="World Neverland - The Nalulu Kingdom Stories (Japan) (Theme)" id="3759">
-		<category>Games</category>
+		<category>Add-Ons</category>
 		<description>World Neverland - The Nalulu Kingdom Stories (Japan) (Theme)</description>
 		<game_id>JP0034-NPJH00054_00-ALTHIPSPTHEME001</game_id>
 		<rom name="NPJH00054\JP0034-NPJH00054_00-ALTHIPSPTHEME001.PTF" size="384600" crc="0b2bf07b" md5="5980e820adb83291b1ae5c3e1a0aec81" sha1="d29277dbf127f0f8e2811f3985327ce10a984a53" sha256="437544b40bba0e6b573154db712f577e7c72682eebee6abc58ac5f2c67132da7"/>

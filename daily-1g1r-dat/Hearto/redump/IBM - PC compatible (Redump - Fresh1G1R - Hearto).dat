@@ -3,13 +3,13 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,728) (-y) [-aAbBcefkmMoprv] (2026-03-14 02-04-28) (Retool)</description>
-		<version>2026-03-14 02-04-28</version>
-		<date>2026-03-14 03-06-46</date>
+		<description>IBM - PC compatible (24,745) (-y) [-aAbBcefkmMoprv] (2026-03-15 03-10-33) (Retool)</description>
+		<version>2026-03-15 03-10-33</version>
+		<date>2026-03-15 03-17-10</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
-		<retool>Created by Retool 2.4.8</retool>
+		<retool>Created by Retool 2.4.9</retool>
 	</header>
 	<game name="$100,000 Pyramid, The (USA)">
 		<category>Games</category>
@@ -20031,6 +20031,12 @@
 		<description>Bone - Bol'shie korov'i bega (Russia)</description>
 		<rom name="Bone - Bol'shie korov'i bega (Russia).bin" size="822837792" crc="65aadb9c" md5="08d01b489ac37fe3a024f00ff17933ed" sha1="e01090e2cd49fb31091702559007bc9f9c1893c5"/>
 		<rom name="Bone - Bol'shie korov'i bega (Russia).cue" size="103" crc="d567ac02" md5="b21b7c3de89d15cfd6ecb69e211b7de5" sha1="299f7705aa9c1e4338ee87b4816a30271f6b8f76"/>
+	</game>
+	<game name="Bone - Flucht aus Boneville (Germany)">
+		<category>Games</category>
+		<description>Bone - Flucht aus Boneville (Germany)</description>
+		<rom name="Bone - Flucht aus Boneville (Germany).bin" size="113439312" crc="2f446c5d" md5="74cf0a91d94e42bfc75e6646de54d40e" sha1="00bc43ef9418f45f4f3d880eb8f666756dfa0814"/>
+		<rom name="Bone - Flucht aus Boneville (Germany).cue" size="103" crc="1c1d9367" md5="a1394c16bf34d276cf4da5ae8f7822e9" sha1="b255df87c8956eabb2dbdbe617c076d417b325a4"/>
 	</game>
 	<game name="Bone - Out from Boneville (USA)">
 		<category>Games</category>
@@ -42734,6 +42740,12 @@
 		<description>Dream Pinball 3D (USA)</description>
 		<rom name="Dream Pinball 3D (USA).iso" size="884592640" crc="f1f02a83" md5="e81195f24a5439f6bb273020f1869aa0" sha1="bfac20879fc4ba8f1ad4be42eb74b37ad11b1a03"/>
 	</game>
+	<game name="Dream Stripper (Germany)">
+		<category>Games</category>
+		<description>Dream Stripper (Germany)</description>
+		<rom name="Dream Stripper (Germany).bin" size="309431472" crc="ca2df4de" md5="06de609729402b6d185d7a7af4425e10" sha1="70df9365e17cfe9961f29a2472d4a99c84a2bee5"/>
+		<rom name="Dream Stripper (Germany).cue" size="90" crc="b8221675" md5="91dff9b8fb60c52e93928247c1e6d248" sha1="174731920555b9c959d310a9f2b8a012dcfbae0e"/>
+	</game>
 	<game name="Dream Stripper - The Game (Russia)">
 		<category>Games</category>
 		<description>Dream Stripper - The Game (Russia)</description>
@@ -57383,6 +57395,12 @@
 		<rom name="Game Room (USA).bin" size="760448640" crc="691318fd" md5="501631df00db67994a888a9da6e4f1ce" sha1="fd375337bcb67fcd4abd7a1e3f9ec316728e72ac"/>
 		<rom name="Game Room (USA).cue" size="81" crc="bcc8568d" md5="2395e324605e58da628253964cef3d19" sha1="3fffc2b5607a67568921f5359609220aef660f6e"/>
 	</game>
+	<game name="Game Room 4.0 (USA)">
+		<category>Games</category>
+		<description>Game Room 4.0 (USA)</description>
+		<rom name="Game Room 4.0 (USA).bin" size="521969952" crc="c6feab72" md5="6648370374a637c25c86ce022e5a1698" sha1="b2ed94e0525582446fe2be70feddbdf3db4e3aa1"/>
+		<rom name="Game Room 4.0 (USA).cue" size="123" crc="1be85fab" md5="30ad7ae8b442f2fb9269dc146089e63a" sha1="32416b0be66a9d5c989b7033d87f451d8d7f984e"/>
+	</game>
 	<game name="Game Sampler for Windows 98 (USA) (OEM)">
 		<category>Demos</category>
 		<description>Game Sampler for Windows 98 (USA) (OEM)</description>
@@ -60131,6 +60149,11 @@
 		<rom name="Gold Games 3 (Germany) (Disc 1) (Track 14).bin" size="348453504" crc="17da59bf" md5="2305160c128472e0841e2df27cb8787e" sha1="94a32cb711c3d76639b541229700d0db5dfb5198"/>
 		<rom name="Gold Games 3 (Germany) (Disc 1).cue" size="1783" crc="35f906bd" md5="9cb4d6f6173a2b9bad1c79c03e0edc91" sha1="effd369a07a1cb172a6a551643624510ff262965"/>
 	</game>
+	<game name="Gold Games 8 (Germany)">
+		<category>Games</category>
+		<description>Gold Games 8 (Germany)</description>
+		<rom name="Gold Games 8 (Germany).iso" size="7133003776" crc="33992137" md5="80780f4f2f80b6f273da8b30e7895ed6" sha1="5d375047ecfe5bfe29db7d5f5412dfdd388ad2a4"/>
+	</game>
 	<game name="Gold Games CD Nr. 10 (Germany)">
 		<category>Games</category>
 		<description>Gold Games CD Nr. 10 (Germany)</description>
@@ -62275,6 +62298,11 @@
 		<rom name="Grosse Wissens-Quiz, Das (Germany).bin" size="729286992" crc="1e281cf7" md5="7b456e2bf28027532ffd78c4e4b8d454" sha1="6fe39263cacf1e71e24ecb2727bf456978decbc9"/>
 		<rom name="Grosse Wissens-Quiz, Das (Germany).cue" size="100" crc="4ee2d4c7" md5="4c74f5fa6d180e445da1515cd4a2ca71" sha1="697c3c036d56000b816c8885c7d4bb1c152756cb"/>
 	</game>
+	<game name="Grotesque Tactics - Guelden Edition (Germany)">
+		<category>Games</category>
+		<description>Grotesque Tactics - Guelden Edition (Germany)</description>
+		<rom name="Grotesque Tactics - Guelden Edition (Germany).iso" size="3134554112" crc="89c2f8a1" md5="525ec0ed49f85f9694a928fb86c26639" sha1="8609aab12efc140cc692ec273831c19238110dd2"/>
+	</game>
 	<game name="Grotesque Tactics - Premium Edition (Turkey)">
 		<category>Games</category>
 		<description>Grotesque Tactics - Premium Edition (Turkey)</description>
@@ -62773,11 +62801,11 @@
 		<rom name="Guilty Gear Gold (Russia) (Disc 2).bin" size="609838320" crc="5e0572a4" md5="054a9acf5c136340b71cb59bb529a78f" sha1="a8015d9afdbcfcd2686c211a6c410fadb8fe842d"/>
 		<rom name="Guilty Gear Gold (Russia) (Disc 2).cue" size="100" crc="be0d1886" md5="9e06a376498132039f542cf190471700" sha1="b6e0bf6cc426d977e2c84ed3c3796246e175dcdc"/>
 	</game>
-	<game name="Guilty Gear Isuka (Russia)">
+	<game name="Guilty Gear Isuka (Spain)">
 		<category>Games</category>
-		<description>Guilty Gear Isuka (Russia)</description>
-		<rom name="Guilty Gear Isuka (Russia).bin" size="633276000" crc="e9355d27" md5="11078b0a470e81a2e99dee45403b150d" sha1="b286cc682da7ee74f185b07ca662ae174d5e5a0e"/>
-		<rom name="Guilty Gear Isuka (Russia).cue" size="92" crc="8ee23268" md5="a94297b82d74857b13027598d638a24e" sha1="f61e875e721e6ea66430f4ae4b36c0b56abc1324"/>
+		<description>Guilty Gear Isuka (Spain)</description>
+		<rom name="Guilty Gear Isuka (Spain).bin" size="759794784" crc="024e554e" md5="6a37a593d322869793267b1d4c935cbf" sha1="3c457a78c7e8e5e788b357380b708ba2730750e2"/>
+		<rom name="Guilty Gear Isuka (Spain).cue" size="91" crc="e2dbcb2c" md5="414b293ad3cd89edfaa81bfa565a253e" sha1="c603435c7a33b87d6499ca46a4555b8814f7c7bb"/>
 	</game>
 	<game name="Guilty Gear X2 Reload - The Midnight Carnival (Russia)">
 		<category>Games</category>
@@ -75835,6 +75863,12 @@
 		<rom name="Jetboat Superchamps (Germany) (Track 5).bin" size="32057760" crc="d23e120f" md5="e91e0e662dbe892bf68147f3fe1f95c3" sha1="33595e9fb9eb6d7c6b8717afc7c8179f8d0f2129"/>
 		<rom name="Jetboat Superchamps (Germany).cue" size="597" crc="781f2a8e" md5="5e0fcf14291a0264fc929deca34e6d31" sha1="79cff0fe1ef782ddad1b75342a63d74e099b76d5"/>
 	</game>
+	<game name="Jetboat Superchamps 2 (Germany) (Demo)">
+		<category>Demos</category>
+		<description>Jetboat Superchamps 2 (Germany) (Demo)</description>
+		<rom name="Jetboat Superchamps 2 (Germany) (Demo).bin" size="67175472" crc="3d11a6f7" md5="4507f6360c9f4d4b1c54bfe56026a9d2" sha1="1177daa2d2f12ae612c72837f684ef486ba5ba17"/>
+		<rom name="Jetboat Superchamps 2 (Germany) (Demo).cue" size="104" crc="3443f233" md5="20b2100753d56d0e74bb7512f45b7d62" sha1="2ae65684092f93c6bccf99e666c6fcc5597b1464"/>
+	</game>
 	<game name="Jetfighter II (USA)">
 		<category>Games</category>
 		<description>Jetfighter II (USA)</description>
@@ -78959,6 +78993,12 @@
 		<description>Kids' Arcade Pack (USA)</description>
 		<rom name="Kids' Arcade Pack (USA).bin" size="9833712" crc="f187f480" md5="8859e2ac6e2573529775364076c52521" sha1="d8b2fc8c0b7cf191150b84289e7729a0232a63c4"/>
 		<rom name="Kids' Arcade Pack (USA).cue" size="89" crc="a6671f38" md5="088fcd759c8a36421ea5f0b6fd313f44" sha1="1b8ce4aab433bf3cd8a2cd710b4db48d269a7022"/>
+	</game>
+	<game name="KidsIsland (Germany)">
+		<category>Games</category>
+		<description>KidsIsland (Germany)</description>
+		<rom name="KidsIsland (Germany).bin" size="18331488" crc="41263353" md5="092c3171a2df70b961376c1c9f664115" sha1="c342706ea923b99f0768cb7a696f138f84469681"/>
+		<rom name="KidsIsland (Germany).cue" size="86" crc="e92a8f18" md5="cdab7269dd3c11b04a5b862b559c912a" sha1="b62c553d752700db72dcc7359b0b5ec9a0843710"/>
 	</game>
 	<game name="Kikai Shushi (Japan)">
 		<category>Games</category>
@@ -88102,21 +88142,21 @@
 		<description>Maestro Dual Pack - Music of Death &amp; Notes of Life (USA)</description>
 		<rom name="Maestro Dual Pack - Music of Death &amp; Notes of Life (USA).iso" size="957153280" crc="ba9d934b" md5="ff2e9635d99d9e6ef2b80edffd13a00b" sha1="3cda173951e5c7c9d4e43a56e4d3b3bbb8f607dd"/>
 	</game>
-	<game name="Maex! - Ein tropfen boxt sich durch (Germany)">
+	<game name="Maex! Ein tropfen boxt sich durch (Germany)">
 		<category>Games</category>
-		<description>Maex! - Ein tropfen boxt sich durch (Germany)</description>
-		<rom name="Maex! - Ein tropfen boxt sich durch (Germany) (Track 01).bin" size="143655456" crc="21876c52" md5="d504a55a349bb7e0fcf35cffaabe5616" sha1="dc703761b25f69c4b7ddb4d4cc8940ed2ad58661"/>
-		<rom name="Maex! - Ein tropfen boxt sich durch (Germany) (Track 02).bin" size="2476656" crc="6a4b5640" md5="48de851aa371771547ff38a4d8cce88e" sha1="49fee4d48c7c452a0924c1578539a2af21dd1fde"/>
-		<rom name="Maex! - Ein tropfen boxt sich durch (Germany) (Track 03).bin" size="36343104" crc="3597af5f" md5="44387f68626c6feb3fd90fbd74814572" sha1="52eba033e6d726a4c8e88139ad90ae1fa772636c"/>
-		<rom name="Maex! - Ein tropfen boxt sich durch (Germany) (Track 04).bin" size="34226304" crc="204253e3" md5="8814cb40566fa1ae492b1e2b9dfda7e7" sha1="1a07881c7ba3fdff2ce91efca1b4691e569aef58"/>
-		<rom name="Maex! - Ein tropfen boxt sich durch (Germany) (Track 05).bin" size="54686352" crc="709011e5" md5="34c44e9463531f78753cde25157623de" sha1="c38608262d190e52c0e295df0ef114e2981b9ee1"/>
-		<rom name="Maex! - Ein tropfen boxt sich durch (Germany) (Track 06).bin" size="47635056" crc="520ffadc" md5="4c5835d50d4419c731ce336de8e00737" sha1="0e3011ece4b1398312e6cffdea164059f821dfa9"/>
-		<rom name="Maex! - Ein tropfen boxt sich durch (Germany) (Track 07).bin" size="46042752" crc="2052a74b" md5="b143e70e8fd2b8b499cd5e1aa8b69962" sha1="d4b1f0c992995c38c2bd091b727a3bc15d750187"/>
-		<rom name="Maex! - Ein tropfen boxt sich durch (Germany) (Track 08).bin" size="46047456" crc="fe1ce803" md5="dd08e271d59d79d20fb78ace9cb5a5cb" sha1="f99017d79a7cad79d6d3f668f774e5f46c56f83d"/>
-		<rom name="Maex! - Ein tropfen boxt sich durch (Germany) (Track 09).bin" size="39694704" crc="1e085a0b" md5="f5ec2a77335afdcf65195b96f81ed59a" sha1="50960ca37188f644bc77566f30e9e78cd05c7035"/>
-		<rom name="Maex! - Ein tropfen boxt sich durch (Germany) (Track 10).bin" size="40400304" crc="ff7287f5" md5="9c89b01412fc11551d47a93a81e6faca" sha1="4e42fc03ec94786d3f92e2ee1b126efb827320d2"/>
-		<rom name="Maex! - Ein tropfen boxt sich durch (Germany) (Track 11).bin" size="35987952" crc="51a6f1a3" md5="27de0e4e86001e92748681332af55fd1" sha1="38d1928fb24b19fcb196b2b7a4d5832226a0255a"/>
-		<rom name="Maex! - Ein tropfen boxt sich durch (Germany).cue" size="1522" crc="ac70212d" md5="5ec6a013ca858720b1264b4cb2127727" sha1="d05932593aefed5624b5e36b9de741d6fd4c8c8d"/>
+		<description>Maex! Ein tropfen boxt sich durch (Germany)</description>
+		<rom name="Maex! Ein tropfen boxt sich durch (Germany) (Track 01).bin" size="143655456" crc="21876c52" md5="d504a55a349bb7e0fcf35cffaabe5616" sha1="dc703761b25f69c4b7ddb4d4cc8940ed2ad58661"/>
+		<rom name="Maex! Ein tropfen boxt sich durch (Germany) (Track 02).bin" size="2476656" crc="6a4b5640" md5="48de851aa371771547ff38a4d8cce88e" sha1="49fee4d48c7c452a0924c1578539a2af21dd1fde"/>
+		<rom name="Maex! Ein tropfen boxt sich durch (Germany) (Track 03).bin" size="36343104" crc="3597af5f" md5="44387f68626c6feb3fd90fbd74814572" sha1="52eba033e6d726a4c8e88139ad90ae1fa772636c"/>
+		<rom name="Maex! Ein tropfen boxt sich durch (Germany) (Track 04).bin" size="34226304" crc="204253e3" md5="8814cb40566fa1ae492b1e2b9dfda7e7" sha1="1a07881c7ba3fdff2ce91efca1b4691e569aef58"/>
+		<rom name="Maex! Ein tropfen boxt sich durch (Germany) (Track 05).bin" size="54686352" crc="709011e5" md5="34c44e9463531f78753cde25157623de" sha1="c38608262d190e52c0e295df0ef114e2981b9ee1"/>
+		<rom name="Maex! Ein tropfen boxt sich durch (Germany) (Track 06).bin" size="47635056" crc="520ffadc" md5="4c5835d50d4419c731ce336de8e00737" sha1="0e3011ece4b1398312e6cffdea164059f821dfa9"/>
+		<rom name="Maex! Ein tropfen boxt sich durch (Germany) (Track 07).bin" size="46042752" crc="2052a74b" md5="b143e70e8fd2b8b499cd5e1aa8b69962" sha1="d4b1f0c992995c38c2bd091b727a3bc15d750187"/>
+		<rom name="Maex! Ein tropfen boxt sich durch (Germany) (Track 08).bin" size="46047456" crc="fe1ce803" md5="dd08e271d59d79d20fb78ace9cb5a5cb" sha1="f99017d79a7cad79d6d3f668f774e5f46c56f83d"/>
+		<rom name="Maex! Ein tropfen boxt sich durch (Germany) (Track 09).bin" size="39694704" crc="1e085a0b" md5="f5ec2a77335afdcf65195b96f81ed59a" sha1="50960ca37188f644bc77566f30e9e78cd05c7035"/>
+		<rom name="Maex! Ein tropfen boxt sich durch (Germany) (Track 10).bin" size="40400304" crc="ff7287f5" md5="9c89b01412fc11551d47a93a81e6faca" sha1="4e42fc03ec94786d3f92e2ee1b126efb827320d2"/>
+		<rom name="Maex! Ein tropfen boxt sich durch (Germany) (Track 11).bin" size="35987952" crc="51a6f1a3" md5="27de0e4e86001e92748681332af55fd1" sha1="38d1928fb24b19fcb196b2b7a4d5832226a0255a"/>
+		<rom name="Maex! Ein tropfen boxt sich durch (Germany).cue" size="1500" crc="5c3e35b4" md5="2937ac4c3dc0be5a44e63b3025109e13" sha1="204185fb22599b429d7b95ac5c857728e4d22d58"/>
 	</game>
 	<game name="Mafia (Poland) (En,Pl,Cs)">
 		<category>Games</category>
@@ -93268,6 +93308,11 @@
 		<description>Mein Pferdehof (Germany)</description>
 		<rom name="Mein Pferdehof (Germany).bin" size="819554400" crc="a216ae7b" md5="625350c859c388ca39279ae39a6a267f" sha1="734d5a8e4e836ce6b360a3cbdb2f26c119c350ee"/>
 		<rom name="Mein Pferdehof (Germany).cue" size="90" crc="351c0cb5" md5="9519dcee84ef03ffb3679894a15d0d03" sha1="2f7e50c9493d5354584270ee703fa26a1fb00fe5"/>
+	</game>
+	<game name="Mein neues Leben - Abenteuer auf Tropicana (Germany)">
+		<category>Games</category>
+		<description>Mein neues Leben - Abenteuer auf Tropicana (Germany)</description>
+		<rom name="Mein neues Leben - Abenteuer auf Tropicana (Germany).iso" size="2892693504" crc="0acc57d5" md5="7b597b4edd6cc24ba11322391abae166" sha1="670805b788107159790f411a8596e3f91cc72841"/>
 	</game>
 	<game name="Meine Tierklinik (Germany)">
 		<category>Games</category>
@@ -101269,6 +101314,11 @@
 		<description>Mythical Warriors - Battle For Eastland (USA)</description>
 		<rom name="Mythical Warriors - Battle For Eastland (USA).bin" size="402765888" crc="df4f3623" md5="647665c5c002328120d8d69e6774d8ce" sha1="114d4126001bfeb6937d559c714064790ccb6fac"/>
 		<rom name="Mythical Warriors - Battle For Eastland (USA).cue" size="111" crc="2376f604" md5="8be7ca0b2b6fc930cb9b87380a973007" sha1="afd3bfdb1dcf3a0a180a3a1466410b07943e0bd8"/>
+	</game>
+	<game name="Mythos (Germany)">
+		<category>Games</category>
+		<description>Mythos (Germany)</description>
+		<rom name="Mythos (Germany).iso" size="1075052544" crc="c20b818d" md5="f99cd4b67ea56e7fe5c2a6d6c040450b" sha1="ea15f70518366aa4430c50720c66ba118865ade4"/>
 	</game>
 	<game name="Myulk - Kampen om det oepnna landskapet (Sweden)">
 		<category>Games</category>
@@ -127652,10 +127702,10 @@
 		<description>Sacra Terra - Angelic Night (USA)</description>
 		<rom name="Sacra Terra - Angelic Night (USA).iso" size="1151336448" crc="bc59fa49" md5="cc0f68cf517a41a1b8aac33d6e251ce7" sha1="88d8138ff7dae5d7b97c5edd8fa5c1e257e068f4"/>
 	</game>
-	<game name="Sacred (Germany)">
+	<game name="Sacred (Germany) (v1.8.28)">
 		<category>Games</category>
-		<description>Sacred (Germany)</description>
-		<rom name="Sacred (Germany).iso" size="1642659840" crc="b0691a4a" md5="a24dfd16d8f5cb35fb226fe38fc0a41e" sha1="adf1d6fc65e7374a66928e710ce1304c667f80e6"/>
+		<description>Sacred (Germany) (v1.8.28)</description>
+		<rom name="Sacred (Germany) (v1.8.28).iso" size="1642659840" crc="b0691a4a" md5="a24dfd16d8f5cb35fb226fe38fc0a41e" sha1="adf1d6fc65e7374a66928e710ce1304c667f80e6"/>
 	</game>
 	<game name="Sacred (USA) (Disc 1)">
 		<category>Games</category>
@@ -131096,6 +131146,12 @@
 		<description>Season Ticket Baseball 2003 (USA)</description>
 		<rom name="Season Ticket Baseball 2003 (USA).bin" size="175910784" crc="c456e36e" md5="79dbb87c0203c701bc2f723ccef77c74" sha1="00d56e8ac97e42cb4f9d910e95aec4307d967c31"/>
 		<rom name="Season Ticket Baseball 2003 (USA).cue" size="99" crc="83b5b338" md5="76d47ba379221dfb0109ae32cdfa9453" sha1="9c773cd07b0c9fd56f414eae643d1a3c24d7f490"/>
+	</game>
+	<game name="Seawars (Germany)">
+		<category>Games</category>
+		<description>Seawars (Germany)</description>
+		<rom name="Seawars (Germany).bin" size="186673536" crc="4d56e240" md5="f5fdec62aa6e33cdd05e1eb5ed5d54c5" sha1="8eb0d93f70fc56f95b69da095456db5f6bc22598"/>
+		<rom name="Seawars (Germany).cue" size="83" crc="f6de6aa6" md5="937125c750fd29ab6cb0088719df0549" sha1="e950109206b5daa899377233cda39352c4fff17a"/>
 	</game>
 	<game name="Second Guest, The (Germany)">
 		<category>Games</category>
@@ -135869,11 +135925,11 @@
 		<rom name="Sid Meier's Civilization III (USA, Europe).bin" size="702563568" crc="c7863559" md5="f00f270419d2818c935089f3ecd47276" sha1="948bd105e2f4804741dec9818da4cd0f11b760cb"/>
 		<rom name="Sid Meier's Civilization III (USA, Europe).cue" size="108" crc="59a86a41" md5="3b90a08156adde12ddc0a569915d929e" sha1="76064bd98c9689878b500c1fd7f799a780c0d1d5"/>
 	</game>
-	<game name="Sid Meier's Civilization III - Conquests (USA)">
+	<game name="Sid Meier's Civilization III - Conquests (USA) (Rev 1)">
 		<category>Add-Ons</category>
-		<description>Sid Meier's Civilization III - Conquests (USA)</description>
-		<rom name="Sid Meier's Civilization III - Conquests (USA).bin" size="713864928" crc="47699c0b" md5="3e0cef3b7a077a4bc91045b27d89fee2" sha1="1fcee30d4638a317552410014f51089000215020"/>
-		<rom name="Sid Meier's Civilization III - Conquests (USA).cue" size="112" crc="6bf1d55a" md5="a5dc5efed6af7c3dca74fa935686b649" sha1="9faf6c28e328bf780cdded1123fc8f16695ce75b"/>
+		<description>Sid Meier's Civilization III - Conquests (USA) (Rev 1)</description>
+		<rom name="Sid Meier's Civilization III - Conquests (USA) (Rev 1).bin" size="713864928" crc="47699c0b" md5="3e0cef3b7a077a4bc91045b27d89fee2" sha1="1fcee30d4638a317552410014f51089000215020"/>
+		<rom name="Sid Meier's Civilization III - Conquests (USA) (Rev 1).cue" size="120" crc="0a1b6396" md5="98526eef3e39ba533d72fa4aa418d9a2" sha1="46a2419cbba6b0993cae7e316fd898ad2b5c6a69"/>
 	</game>
 	<game name="Sid Meier's Civilization III - Play the World (USA)">
 		<category>Add-Ons</category>
@@ -137640,6 +137696,11 @@
 		<description>Simon the Sorcerer - Chaos is das halbe Leben (Germany)</description>
 		<rom name="Simon the Sorcerer - Chaos is das halbe Leben (Germany).iso" size="4697497600" crc="e998b50a" md5="f82d56fa0e56dcfc8f69b5c53fd1ea64" sha1="77d20cc7cdecff6bbb82194bd0f6ee3069c48f9c"/>
 	</game>
+	<game name="Simon the Sorcerer - Wer will schon Kontakt (Germany)">
+		<category>Games</category>
+		<description>Simon the Sorcerer - Wer will schon Kontakt (Germany)</description>
+		<rom name="Simon the Sorcerer - Wer will schon Kontakt (Germany).iso" size="2475360256" crc="cab13056" md5="4d75562e882b548abd29792bcbce7625" sha1="c02a3842ed6b42814ff81ba4a9b4ada93eebb6e9"/>
+	</game>
 	<game name="Simon the Sorcerer 3D (Europe) (Disc 1)">
 		<category>Games</category>
 		<description>Simon the Sorcerer 3D (Europe) (Disc 1)</description>
@@ -137738,6 +137799,24 @@
 		<description>Simpsons, The - Virtual Springfield (USA, Europe)</description>
 		<rom name="Simpsons, The - Virtual Springfield (USA, Europe).bin" size="776096496" crc="6ed4187a" md5="a1fef63c09f7e902ce6f6493d55d3210" sha1="65b9a52283188ce2ab14c63f796a208e2329ea8a"/>
 		<rom name="Simpsons, The - Virtual Springfield (USA, Europe).cue" size="115" crc="6bbb2b6e" md5="a76f8be1fc2f84fa60e7b97d40e1cf3d" sha1="26acf2ed99373e770f42718eca60879b0574eb42"/>
+	</game>
+	<game name="Sims 2, Die (Germany) (Disc 1) (Rerelease)">
+		<category>Games</category>
+		<description>Sims 2, Die (Germany) (Disc 1) (Rerelease)</description>
+		<rom name="Sims 2, Die (Germany) (Disc 1) (Rerelease).bin" size="783613488" crc="2cfc6379" md5="168b503450862a9ba5c340c18a226283" sha1="c20f585cd78fcb7a065a7626adcd666e1be1eb19"/>
+		<rom name="Sims 2, Die (Germany) (Disc 1) (Rerelease).cue" size="108" crc="0e096076" md5="eadc49cf4f2ffa2cdb6d87e8f1923189" sha1="4865719e7533fd7297bf2659adf850d63fab383e"/>
+	</game>
+	<game name="Sims 2, Die (Germany) (Disc 2) (Rerelease)">
+		<category>Games</category>
+		<description>Sims 2, Die (Germany) (Disc 2) (Rerelease)</description>
+		<rom name="Sims 2, Die (Germany) (Disc 2) (Rerelease).bin" size="783248928" crc="c93a0a1b" md5="fd1154ffb7b6e47ed5a08648048ba61c" sha1="ea16187b610f8631c1a802fd224717a5e61b7424"/>
+		<rom name="Sims 2, Die (Germany) (Disc 2) (Rerelease).cue" size="108" crc="fca845da" md5="e87651ae98a65ba5405598899162d1b1" sha1="273d75e12c0cd6ab3a4d331ebc47f4499785d394"/>
+	</game>
+	<game name="Sims 2, Die (Germany) (Disc 4)">
+		<category>Games</category>
+		<description>Sims 2, Die (Germany) (Disc 4)</description>
+		<rom name="Sims 2, Die (Germany) (Disc 4).bin" size="576573984" crc="3b1f7fde" md5="47f0a0301da114b1a28e03e9a942f475" sha1="966982fb682db58627a4fedbb352e65c09278aec"/>
+		<rom name="Sims 2, Die (Germany) (Disc 4).cue" size="96" crc="60bdd479" md5="29307f5b3f75a9065bc57b47f4bc2669" sha1="734f813a8ba8973fb8cd707c25281c2b1b4c8870"/>
 	</game>
 	<game name="Sims 2, Die - Deluxe (Germany) (Spiel-DVD)">
 		<category>Games</category>
@@ -149014,6 +149093,12 @@
 		<rom name="Taco Bell - X Games - BMX (USA).bin" size="18540816" crc="1fb656b3" md5="b4d63da361dfdf5c0446a7091bb014ce" sha1="db77499fad23d0b79e2aa27dc862dbddf26dc4ed"/>
 		<rom name="Taco Bell - X Games - BMX (USA).cue" size="97" crc="efd0cddb" md5="ce6a52a0fb8b0a7e8dcb24a9b6269c77" sha1="a759e35a4876a9333462a000515d5ffe1a6e4e0c"/>
 	</game>
+	<game name="Tactical Commanders (Germany)">
+		<category>Games</category>
+		<description>Tactical Commanders (Germany)</description>
+		<rom name="Tactical Commanders (Germany).bin" size="309683136" crc="1324163c" md5="523c5a36ca17a5440019046087cceb4f" sha1="c098c5b90cdce5b84c466a439e204c6aa30f67a1"/>
+		<rom name="Tactical Commanders (Germany).cue" size="95" crc="14c99b5c" md5="336ee16c8358869df5b9024141709652" sha1="80add606874f405db8dbc41a7f61f9580b9d9c8b"/>
+	</game>
 	<game name="Tactical Manager 2 (Italy)">
 		<category>Games</category>
 		<description>Tactical Manager 2 (Italy)</description>
@@ -150351,6 +150436,11 @@
 		<rom name="Tech Deck Snowboard (USA) (En,Fr,De,Es,It,Pt) (Track 5).bin" size="28002912" crc="05a41eea" md5="603b5540d8deb17ac325169d83deed75" sha1="bb69be6cd3488334e509e74ef8271cea3c98c159"/>
 		<rom name="Tech Deck Snowboard (USA) (En,Fr,De,Es,It,Pt) (Track 6).bin" size="25418064" crc="50a81b1e" md5="b08a390b487b8212cfd8bdbb772196b0" sha1="4bd808c0c4fed8d4a8e5b5c9354847cdf9ff56dc"/>
 		<rom name="Tech Deck Snowboard (USA) (En,Fr,De,Es,It,Pt).cue" size="816" crc="9510aef3" md5="6cd0436d649ee9b17850d8ca171340af" sha1="3ddb0a364489d018b336fa63b002bba23471e981"/>
+	</game>
+	<game name="TechForce - Das Adventure-Spiel der Metall- und Elektro-Industrie (Germany)">
+		<category>Games</category>
+		<description>TechForce - Das Adventure-Spiel der Metall- und Elektro-Industrie (Germany)</description>
+		<rom name="TechForce - Das Adventure-Spiel der Metall- und Elektro-Industrie (Germany).iso" size="1189249024" crc="1d166329" md5="5bdc6d6e32a60f22adc35f557c23a35a" sha1="9a94c3269a1e854f424df80a5cc6a3747d3973ea"/>
 	</game>
 	<game name="Technicus - 10 Hours Left (Germany) (Disc 1)">
 		<category>Games</category>
@@ -172087,6 +172177,11 @@
 		<description>Yahtzee &amp; Parcheesi &amp; Aggravation Collection (USA)</description>
 		<rom name="Yahtzee &amp; Parcheesi &amp; Aggravation Collection (USA).bin" size="194794992" crc="dfc21b8e" md5="de1a58cf642872e115c77eaf42382d16" sha1="9299e0d9b96cc61dfc56ab8b64aefe8a2aad84db"/>
 		<rom name="Yahtzee &amp; Parcheesi &amp; Aggravation Collection (USA).cue" size="116" crc="63fe9d91" md5="ed65d537167961035eee9cabf69608f7" sha1="d8e35938463b2419cb12149708609312bee52d1a"/>
+	</game>
+	<game name="Yakimochi Stream (Japan)">
+		<category>Games</category>
+		<description>Yakimochi Stream (Japan)</description>
+		<rom name="Yakimochi Stream (Japan).iso" size="6409289728" crc="80fc5260" md5="e0013326c0ac8afc7850fda02025c406" sha1="b1795bfb6674fc6b18089d1703ef8a05c23595ae"/>
 	</game>
 	<game name="Yakimochi TwinBell Promotion Disc (Japan)">
 		<category>Demos</category>
