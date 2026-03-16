@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (12,923) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-15 03-10-33) (Retool)</description>
-		<version>2026-03-15 03-10-33</version>
-		<date>2026-03-15 03-23-24</date>
+		<description>IBM - PC compatible (12,924) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-16 01-39-28) (Retool)</description>
+		<version>2026-03-16 01-39-28</version>
+		<date>2026-03-16 03-23-22</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -88770,6 +88770,12 @@
 		<description>WordJong to Go (USA)</description>
 		<rom name="WordJong to Go (USA).bin" size="53056416" crc="d31dc9d8" md5="cfd3a3c061cadcd8228df1f782c04647" sha1="e816ca89bf0f28e6e565777699853284075020ef"/>
 		<rom name="WordJong to Go (USA).cue" size="86" crc="5747a13b" md5="46cd9c48eeef60d1c0a18cd4fd6d72d3" sha1="c9eaa0fb8cf43a65cf18c7ca7fe7aa339ac7a211"/>
+	</game>
+	<game name="Wordshark 4 (UK)">
+		<category>Games</category>
+		<description>Wordshark 4 (UK)</description>
+		<rom name="Wordshark 4 (UK).bin" size="788886672" crc="a724f779" md5="03c6825f486862f1998765be221c4e94" sha1="61726ffa2fb932d376b26994f0e311f5b7d552d2"/>
+		<rom name="Wordshark 4 (UK).cue" size="82" crc="3d5d1ac8" md5="c4caabd021a0e2685461c7331def9d88" sha1="2c85cbf1d4232d92c7beabc69a3aa0ea6b643d1e"/>
 	</game>
 	<game name="Workmen Double Pack (Europe)">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,278) (-y) [-aAbBcdkmMpPuv] (2026-03-15 03-10-33) (Retool)</description>
-		<version>2026-03-15 03-10-33</version>
-		<date>2026-03-15 03-29-06</date>
+		<description>IBM - PC compatible (25,281) (-y) [-aAbBcdkmMpPuv] (2026-03-16 01-39-28) (Retool)</description>
+		<version>2026-03-16 01-39-28</version>
+		<date>2026-03-16 03-29-10</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -136157,6 +136157,11 @@
 		<description>Seikai no Senki (Japan)</description>
 		<rom name="Seikai no Senki (Japan).iso" size="231141376" crc="2dc1c8eb" md5="5ae7493772ff626cfac10d283d02635c" sha1="fe91a6c2fb9ad4e64f05005890d137b61c0e5f49"/>
 	</game>
+	<game name="Seikishi Melty Lovers (Japan)">
+		<category>Games</category>
+		<description>Seikishi Melty Lovers (Japan)</description>
+		<rom name="Seikishi Melty Lovers (Japan).iso" size="3415343104" crc="d3195a26" md5="7c6b63d09d1c98f0d926c5b116d2e6ff" sha1="efa8ad3aaa15e8e8ff25a5b81e0839843b39da30"/>
+	</game>
 	<game name="Seimei 40 Oku-Nen Harukana Tabi - Vol. 1 (Japan)">
 		<category>Educational</category>
 		<description>Seimei 40 Oku-Nen Harukana Tabi - Vol. 1 (Japan)</description>
@@ -142058,11 +142063,17 @@
 		<rom name="Sims 2, Die (Germany) (Disc 2) (Rerelease).bin" size="783248928" crc="c93a0a1b" md5="fd1154ffb7b6e47ed5a08648048ba61c" sha1="ea16187b610f8631c1a802fd224717a5e61b7424"/>
 		<rom name="Sims 2, Die (Germany) (Disc 2) (Rerelease).cue" size="108" crc="fca845da" md5="e87651ae98a65ba5405598899162d1b1" sha1="273d75e12c0cd6ab3a4d331ebc47f4499785d394"/>
 	</game>
-	<game name="Sims 2, Die (Germany) (Disc 4)">
+	<game name="Sims 2, Die (Germany) (Disc 3) (Rerelease)">
 		<category>Games</category>
-		<description>Sims 2, Die (Germany) (Disc 4)</description>
-		<rom name="Sims 2, Die (Germany) (Disc 4).bin" size="576573984" crc="3b1f7fde" md5="47f0a0301da114b1a28e03e9a942f475" sha1="966982fb682db58627a4fedbb352e65c09278aec"/>
-		<rom name="Sims 2, Die (Germany) (Disc 4).cue" size="96" crc="60bdd479" md5="29307f5b3f75a9065bc57b47f4bc2669" sha1="734f813a8ba8973fb8cd707c25281c2b1b4c8870"/>
+		<description>Sims 2, Die (Germany) (Disc 3) (Rerelease)</description>
+		<rom name="Sims 2, Die (Germany) (Disc 3) (Rerelease).bin" size="783248928" crc="4fb42fb4" md5="8bb70b67b0388e9f88721b50e4a9d5a1" sha1="a2453541f83633992b3d86a1fa58d57edfc4c2b3"/>
+		<rom name="Sims 2, Die (Germany) (Disc 3) (Rerelease).cue" size="108" crc="1be7a481" md5="20f3dde5f54b6f0511252f2a29322c23" sha1="e413cf580eb419e2253d7fa63088b8ca7c400016"/>
+	</game>
+	<game name="Sims 2, Die (Germany) (Disc 4) (Rerelease)">
+		<category>Games</category>
+		<description>Sims 2, Die (Germany) (Disc 4) (Rerelease)</description>
+		<rom name="Sims 2, Die (Germany) (Disc 4) (Rerelease).bin" size="576573984" crc="3b1f7fde" md5="47f0a0301da114b1a28e03e9a942f475" sha1="966982fb682db58627a4fedbb352e65c09278aec"/>
+		<rom name="Sims 2, Die (Germany) (Disc 4) (Rerelease).cue" size="108" crc="c29b08c3" md5="2c0d40226ac182ad4d924da00718a4b7" sha1="5c0f1ce905f0eef678f1dff197b3a80e0a5c12c6"/>
 	</game>
 	<game name="Sims 2, Die - Deluxe (Germany) (Spiel-DVD)">
 		<category>Games</category>
@@ -146068,17 +146079,17 @@
 		<rom name="Space Mahjongg (Germany) (En,Fr,De,Es,It).bin" size="31389792" crc="e1a53530" md5="831f2215a9634d9bb1a85987e3fc4fd0" sha1="d2eb9ad4f77505bf89777f6f2c262b54bdeb00af"/>
 		<rom name="Space Mahjongg (Germany) (En,Fr,De,Es,It).cue" size="107" crc="f924b233" md5="4f9865c60712a41163868aebc167b12a" sha1="3f0bd975888a61234d4001c066fefba7de1bd7ce"/>
 	</game>
-	<game name="Space Marines (Germany) (Disc 1)">
+	<game name="Space Marines - Der Staehlerne Kaiser (Germany) (Disc 1)">
 		<category>Games</category>
-		<description>Space Marines (Germany) (Disc 1)</description>
-		<rom name="Space Marines (Germany) (Disc 1).bin" size="661116624" crc="1d6be4ac" md5="c772478af6c2401deb835a4233f1d4ad" sha1="577352c827943c4177a9e628cfc544d08eb5921b"/>
-		<rom name="Space Marines (Germany) (Disc 1).cue" size="98" crc="969d3682" md5="648940e684064994a2fbd6ac4b4b7902" sha1="d69af0d54af7cba543f143069b4a6020bdeff984"/>
+		<description>Space Marines - Der Staehlerne Kaiser (Germany) (Disc 1)</description>
+		<rom name="Space Marines - Der Staehlerne Kaiser (Germany) (Disc 1).bin" size="661116624" crc="1d6be4ac" md5="c772478af6c2401deb835a4233f1d4ad" sha1="577352c827943c4177a9e628cfc544d08eb5921b"/>
+		<rom name="Space Marines - Der Staehlerne Kaiser (Germany) (Disc 1).cue" size="145" crc="a4ba9cc1" md5="0a4673ea906bcf84ea0098c2ad4ab2e3" sha1="cbc275b72ea6c614f504b97ecf4b959ffaa790f3"/>
 	</game>
-	<game name="Space Marines (Germany) (Disc 2)">
+	<game name="Space Marines - Der Staehlerne Kaiser (Germany) (Disc 2)">
 		<category>Games</category>
-		<description>Space Marines (Germany) (Disc 2)</description>
-		<rom name="Space Marines (Germany) (Disc 2).bin" size="558545904" crc="04165428" md5="542e99bfb23bb268021eda0670b60603" sha1="dff00b6e8af4fdb96db92ffc4ef3721a3275f4ee"/>
-		<rom name="Space Marines (Germany) (Disc 2).cue" size="98" crc="97c01053" md5="c2e85b7bd810f433b0df431fe814cf80" sha1="7170752acddb51c589e4f06e0f91fc8701dfda2c"/>
+		<description>Space Marines - Der Staehlerne Kaiser (Germany) (Disc 2)</description>
+		<rom name="Space Marines - Der Staehlerne Kaiser (Germany) (Disc 2).bin" size="558545904" crc="04165428" md5="542e99bfb23bb268021eda0670b60603" sha1="dff00b6e8af4fdb96db92ffc4ef3721a3275f4ee"/>
+		<rom name="Space Marines - Der Staehlerne Kaiser (Germany) (Disc 2).cue" size="145" crc="a5e7ba10" md5="d17ebbbafb0278f39f674b81befd7eb8" sha1="2cd1a01b3f8d7b5aae7c806a0d632332c3668bef"/>
 	</game>
 	<game name="Space Marines - Der Staehlerne Kaiser (Germany) (Rerelease)">
 		<category>Games</category>
@@ -173106,6 +173117,12 @@
 		<description>Words of Ibis (Japan)</description>
 		<rom name="Words of Ibis (Japan).bin" size="97257552" crc="4e59d6d6" md5="4c2a05fbc1bac0fbb75fc933770027ef" sha1="b0dfdbe235338e3dffe01157e0770b5cd038089a"/>
 		<rom name="Words of Ibis (Japan).cue" size="87" crc="d91e39ca" md5="b68af0a48d44cde751024bd40245f71f" sha1="3b0ea2db25cd8b06ae303d1025f2659767a31830"/>
+	</game>
+	<game name="Wordshark 4 (UK)">
+		<category>Games</category>
+		<description>Wordshark 4 (UK)</description>
+		<rom name="Wordshark 4 (UK).bin" size="788886672" crc="a724f779" md5="03c6825f486862f1998765be221c4e94" sha1="61726ffa2fb932d376b26994f0e311f5b7d552d2"/>
+		<rom name="Wordshark 4 (UK).cue" size="82" crc="3d5d1ac8" md5="c4caabd021a0e2685461c7331def9d88" sha1="2c85cbf1d4232d92c7beabc69a3aa0ea6b643d1e"/>
 	</game>
 	<game name="Workmen Double Pack (Europe)">
 		<category>Games</category>

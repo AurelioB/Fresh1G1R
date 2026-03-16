@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation (Retool)</name>
-		<description>Sony - PlayStation (5,663) (-y) [-aAbBcefkmMoprv] (2026-03-15 02-49-21) (Retool)</description>
-		<version>2026-03-15 02-49-21</version>
-		<date>2026-03-15 03-17-50</date>
+		<description>Sony - PlayStation (5,664) (-y) [-aAbBcefkmMoprv] (2026-03-15 23-18-54) (Retool)</description>
+		<version>2026-03-15 23-18-54</version>
+		<date>2026-03-16 03-17-43</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -32533,6 +32533,12 @@
 		<description>Paca Paca Passion 2 (Japan)</description>
 		<rom name="Paca Paca Passion 2 (Japan).bin" size="235479888" crc="2eb7c837" md5="6e902845aab6db5cc058c928cc2256f0" sha1="233be858ec7a5ed5b0129ecd0c574057c397063d"/>
 		<rom name="Paca Paca Passion 2 (Japan).cue" size="93" crc="5e72a46a" md5="b2f49413ec38564e88e7e8ad7cf3b5a4" sha1="8cb45360e10a0e18c682ac1cb630e486df8cfe33"/>
+	</game>
+	<game name="Paca Paca Passion 2 (Japan) (Taikenban)">
+		<category>Demos</category>
+		<description>Paca Paca Passion 2 (Japan) (Taikenban)</description>
+		<rom name="Paca Paca Passion 2 (Japan) (Taikenban).bin" size="234028704" crc="41600119" md5="ac6f872a1ae443d5cd734e48ea3ee215" sha1="e782f2ba2f08e58a1306ff10668a74d2970c9f8c"/>
+		<rom name="Paca Paca Passion 2 (Japan) (Taikenban).cue" size="105" crc="5d2d68cc" md5="508e33119e15fc6d4364ea7343e76101" sha1="b7e5d45f67748c95d789ac6f0ffb88d35c018381"/>
 	</game>
 	<game name="Paca Paca Passion Special (Japan)">
 		<category>Games</category>
