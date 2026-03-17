@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (12,924) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-16 01-39-28) (Retool)</description>
-		<version>2026-03-16 01-39-28</version>
-		<date>2026-03-16 03-23-22</date>
+		<description>IBM - PC compatible (12,924) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-17 02-42-54) (Retool)</description>
+		<version>2026-03-17 02-42-54</version>
+		<date>2026-03-17 03-19-26</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -5033,10 +5033,10 @@
 		<rom name="Arcangel - The Legacy of Peace (Europe) (Track 8).bin" size="29141280" crc="1cd8fe60" md5="394ccf356fa7808e66fb50ececaebdc4" sha1="dac56b961809efb7360b4379ed12e301489aa63d"/>
 		<rom name="Arcangel - The Legacy of Peace (Europe).cue" size="1151" crc="b0ece825" md5="9b1fdaee6f64939ef9c1fe0239dbe153" sha1="a2964d76770af06a9713f4508bceeac6de0e6538"/>
 	</game>
-	<game name="Arcania - Gothic 4 (Europe) (En,Fr,De,Es,It)">
+	<game name="Arcania - Gothic 4 (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Arcania - Gothic 4 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Arcania - Gothic 4 (Europe) (En,Fr,De,Es,It).iso" size="8032192512" crc="6d964e06" md5="c99f52ab578ddaf3f18385db4402ba0b" sha1="b2e9171c64fe9216a153fd326540cf362a84bf67"/>
+		<description>Arcania - Gothic 4 (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="Arcania - Gothic 4 (Europe, Australia) (En,Fr,De,Es,It).iso" size="8400076800" crc="cdecab33" md5="68b05030ab46c122c4cb495448c1f416" sha1="fedc419f892e0a38dbd2718d542043332a091e1d"/>
 	</game>
 	<game name="Arcanum - Of Steamworks &amp; Magick Obscura (Europe) (Disc 1) (Install) (Xplosiv)">
 		<category>Games</category>
@@ -23543,10 +23543,10 @@
 		<rom name="Dungeon Siege (USA, Canada) (Disc 1) (Alt).bin" size="724427760" crc="fefe2fab" md5="a4620ec4a3ccfa0105354d6b75c9fcf4" sha1="ec2c96c0ff3a623ff61e581f70ae9190439a227d"/>
 		<rom name="Dungeon Siege (USA, Canada) (Disc 1) (Alt).cue" size="108" crc="7c804898" md5="eaf2b8c4ec06cec1c13b91da138a250f" sha1="c3cbbc9a99fbb0c1f878e398a7ef49440d1aa7ee"/>
 	</game>
-	<game name="Dungeon Siege - Legends of Aranna (Poland)">
+	<game name="Dungeon Siege - Legends of Aranna (Europe)">
 		<category>Games</category>
-		<description>Dungeon Siege - Legends of Aranna (Poland)</description>
-		<rom name="Dungeon Siege - Legends of Aranna (Poland).iso" size="7275151360" crc="13d509a5" md5="9937c0cbd917fb0665985fdf3b87aa24" sha1="d4d3c84c3235ed4db33fd5bcf8aacf6eee62169d"/>
+		<description>Dungeon Siege - Legends of Aranna (Europe)</description>
+		<rom name="Dungeon Siege - Legends of Aranna (Europe).iso" size="7275151360" crc="13d509a5" md5="9937c0cbd917fb0665985fdf3b87aa24" sha1="d4d3c84c3235ed4db33fd5bcf8aacf6eee62169d"/>
 	</game>
 	<game name="Dungeon Siege - Legends of Aranna (Scandinavia) (Disc 1) (Install CD)">
 		<category>Games</category>
