@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,748) (-y) [-aAbBcefkmMoprv] (2026-03-17 02-42-54) (Retool)</description>
-		<version>2026-03-17 02-42-54</version>
-		<date>2026-03-17 03-13-12</date>
+		<description>IBM - PC compatible (24,756) (-y) [-aAbBcefkmMoprv] (2026-03-18 03-54-04) (Retool)</description>
+		<version>2026-03-18 03-54-04</version>
+		<date>2026-03-18 03-16-00</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -5781,6 +5781,12 @@
 		<category>Add-Ons</category>
 		<description>Airbus Collection (Europe) (En,Fr,De)</description>
 		<rom name="Airbus Collection (Europe) (En,Fr,De).iso" size="3822944256" crc="d177c3ed" md5="99544f03158ea4e38dfc58685ccda8eb" sha1="f3744aeee50d982338970089e14768bdf4620c57"/>
+	</game>
+	<game name="Airbus Series Volume 2 (Europe)">
+		<category>Add-Ons</category>
+		<description>Airbus Series Volume 2 (Europe)</description>
+		<rom name="Airbus Series Volume 2 (Europe).bin" size="842611056" crc="435f26b1" md5="728b378b2dd42ca8704e9e165f19fd7d" sha1="8b6c3afda008b52687b7f87ff4919673e77c363c"/>
+		<rom name="Airbus Series Volume 2 (Europe).cue" size="97" crc="b341beff" md5="c2a0859acbfc23330885008b4ab41c14" sha1="347985614600a28433352fce0eefd61b57413119"/>
 	</game>
 	<game name="Airfix Dogfighter (Europe) (En,Fr,De,It)">
 		<category>Games</category>
@@ -39087,6 +39093,11 @@
 		<rom name="Disney Pippo Acropazzie sullo Skate (Italy).bin" size="243537840" crc="78ef332e" md5="2a10aaca94866206dd436661be5baf33" sha1="4e27eaaf932d21e0c5c574921af0437d6b7046bc"/>
 		<rom name="Disney Pippo Acropazzie sullo Skate (Italy).cue" size="109" crc="cc842812" md5="c02d024fab8cb7c39b8412ab5a24ad7a" sha1="49b8a59989ac14aa06fb385a6727fa7bcc0f5daa"/>
 	</game>
+	<game name="Disney Piraci Z Karaibow - Na Krancu Swiata (Poland)">
+		<category>Games</category>
+		<description>Disney Piraci Z Karaibow - Na Krancu Swiata (Poland)</description>
+		<rom name="Disney Piraci Z Karaibow - Na Krancu Swiata (Poland).iso" size="1103331328" crc="86afffe3" md5="00f112a23be108ba007b729b42b70d12" sha1="d8108c096ef85cf98f057d6dd6da9e4b3caf3234"/>
+	</game>
 	<game name="Disney Pirates of the Caribbean - At World's End (USA) (En,Fr,Es)">
 		<category>Games</category>
 		<description>Disney Pirates of the Caribbean - At World's End (USA) (En,Fr,Es)</description>
@@ -56668,6 +56679,12 @@
 		<category>Games</category>
 		<description>GTI Racer (USA) (Rerelease)</description>
 		<rom name="GTI Racer (USA) (Rerelease).iso" size="804913152" crc="9b1fe39f" md5="181d07186637a4a2b89975ee4aff3f2b" sha1="c2649b16b3b178304d4cfa9391ddb41684d49cfd"/>
+	</game>
+	<game name="GTI Racing (Poland) (Disc 1)">
+		<category>Games</category>
+		<description>GTI Racing (Poland) (Disc 1)</description>
+		<rom name="GTI Racing (Poland) (Disc 1).bin" size="469755552" crc="9c1407e5" md5="6e967f669b61cf8b1fb152f626e3247a" sha1="255f48734afa03cf068d8205918477dd5c16ad4a"/>
+		<rom name="GTI Racing (Poland) (Disc 1).cue" size="94" crc="0d69bcbc" md5="17e760667a91e06bb4365a33ad8f8551" sha1="c1dfcd332ec7b158639db429900624a134dae996"/>
 	</game>
 	<game name="GTI Racing (USA) (OEM)">
 		<category>Games</category>
@@ -104090,7 +104107,7 @@
 	<game name="Neverwinter Nights - Diamentowa Edycja (Poland)">
 		<category>Games</category>
 		<description>Neverwinter Nights - Diamentowa Edycja (Poland)</description>
-		<rom name="Neverwinter Nights - Diamentowa Edycja (Poland).iso" size="4698734592" crc="de33cdbb" md5="9cd258d6cf0077d5c79b6e783949b235" sha1="54fa3d32a736b5cde5905bd8e82729da81e63009"/>
+		<rom name="Neverwinter Nights - Diamentowa Edycja (Poland).iso" size="2901377024" crc="ec8aa98d" md5="bc237acfe087d319edabda5015f57e40" sha1="598b7fc4057010711814066dbf74357e80ecf731"/>
 	</game>
 	<game name="Neverwinter Nights - Diamond (USA)">
 		<category>Games</category>
@@ -106324,6 +106341,12 @@
 		<description>Numbers Up! Volcanic Panic - The Number Strand (Australia) (v1.2.2)</description>
 		<rom name="Numbers Up! Volcanic Panic - The Number Strand (Australia) (v1.2.2).bin" size="444149328" crc="52db3091" md5="109c589e113a5df0115c5e0fe7c65764" sha1="f05306647e2e395a101b4b022cd2a11a0bcc6e5f"/>
 		<rom name="Numbers Up! Volcanic Panic - The Number Strand (Australia) (v1.2.2).cue" size="133" crc="13e225e2" md5="412dfdd17323ccb1f882b3664a2f4b1d" sha1="c812bc061f2c39ab3f6ed28072d07200065f4487"/>
+	</game>
+	<game name="Numbershark 3 (UK)">
+		<category>Games</category>
+		<description>Numbershark 3 (UK)</description>
+		<rom name="Numbershark 3 (UK).bin" size="789239472" crc="172130b2" md5="26a2801b072337583f13ff47de2e862c" sha1="edac1d65847802ee3fe4187c30c6858bcfc45513"/>
+		<rom name="Numbershark 3 (UK).cue" size="84" crc="90f6ccf2" md5="5431c905863e837702d62416d1fb6830" sha1="313514d0087cf68c440fe66eaa922e6baa4775e8"/>
 	</game>
 	<game name="Nun Massacre, The (USA)">
 		<category>Games</category>
@@ -111085,6 +111108,12 @@
 		<rom name="Pearl Harbor - Zero Hour (USA) (Rev 1) (Track 14).bin" size="27504288" crc="c32480cd" md5="c03197b6c9c3305929b3b90fa21b716e" sha1="e6ffdd60dcf54a85c8a3d6c85ad8e6ea3eaae264"/>
 		<rom name="Pearl Harbor - Zero Hour (USA) (Rev 1) (Track 15).bin" size="119079408" crc="fde0262c" md5="b7caedf842ed7ca75dc8ea5bf72be58b" sha1="536a45a5f249f608a0318c766559177e55d23fd9"/>
 		<rom name="Pearl Harbor - Zero Hour (USA) (Rev 1).cue" size="1678" crc="e61da3bf" md5="cacb69f9c5ba26675438408f2b2684c4" sha1="a51f84bff01d4cabca30e168a777fdff88036ebf"/>
+	</game>
+	<game name="Pearl Harbor 2 - Day of Infamy (Turkey)">
+		<category>Games</category>
+		<description>Pearl Harbor 2 - Day of Infamy (Turkey)</description>
+		<rom name="Pearl Harbor 2 - Day of Infamy (Turkey).bin" size="190166256" crc="505c2464" md5="c1dfae3abc666bb721e1c8d7eb46603a" sha1="7d83a199dc8de0dcac9e8eabfb1a46f379d73ce4"/>
+		<rom name="Pearl Harbor 2 - Day of Infamy (Turkey).cue" size="105" crc="471e7ad6" md5="ebf2738439658b7785e7b2e93f0c37f8" sha1="f09a181eb7715d232a1a237f71e82b4bf8e3d213"/>
 	</game>
 	<game name="Pearl Harbor II - The Navy Strikes Back (Germany)">
 		<category>Games</category>
@@ -117529,11 +117558,11 @@
 		<rom name="Profi-Rom Wingames Vol. 1 (Germany) (En,De).bin" size="133845264" crc="d8fbfddb" md5="f9940d1bb1675bc5da9a1022e0ec91c6" sha1="a467b651fb5559270f4bdfb2b35af9208273dd86"/>
 		<rom name="Profi-Rom Wingames Vol. 1 (Germany) (En,De).cue" size="109" crc="ddf5de30" md5="a060ec0c9616c8ddcea27424120c07be" sha1="14ff84baf0b6e2b77963ae1a212b1caf99db5a52"/>
 	</game>
-	<game name="Profiler - The Hopscotch Killer (Russia) (En,Fr,De,Es,It,Ru)">
+	<game name="Profiler - The Hopscotch Killer (UK)">
 		<category>Games</category>
-		<description>Profiler - The Hopscotch Killer (Russia) (En,Fr,De,Es,It,Ru)</description>
-		<rom name="Profiler - The Hopscotch Killer (Russia) (En,Fr,De,Es,It,Ru).bin" size="807055872" crc="aa149c6f" md5="190a694fb1757b4e2013770c04f8a4b9" sha1="87b2a2ac200ec797c02f72fc3fa105d68e476ea8"/>
-		<rom name="Profiler - The Hopscotch Killer (Russia) (En,Fr,De,Es,It,Ru).cue" size="126" crc="d84e9ce5" md5="78df810f0a898e4e045616e8f90f18b8" sha1="d3d0972e54135744c232b2f0b80fb24c4f5fe176"/>
+		<description>Profiler - The Hopscotch Killer (UK)</description>
+		<rom name="Profiler - The Hopscotch Killer (UK).bin" size="140898912" crc="4839a43b" md5="28e0d793ccc389601cb875815de54cca" sha1="f50730df98ebecfe32245087a780eb0befa54238"/>
+		<rom name="Profiler - The Hopscotch Killer (UK).cue" size="102" crc="fd16c19a" md5="d431c2c5cb78b546af3a8f9f25433a81" sha1="0be95f9f4a9cd4259bc93621590e98a139205c14"/>
 	</game>
 	<game name="Profiler, The - The Hopscotch Killer (Germany)">
 		<category>Games</category>
@@ -124403,6 +124432,11 @@
 		<description>Rig 'n' Roll (Germany)</description>
 		<rom name="Rig 'n' Roll (Germany).iso" size="3779919872" crc="759e1a68" md5="3929fcc86a0dd9e9d684dda1dea3ee36" sha1="96cdd361d4ec0068b37f888c07d73eedebe27fb2"/>
 	</game>
+	<game name="Rig 'n' Roll Gold Edition (Poland) (En,Pl)">
+		<category>Games</category>
+		<description>Rig 'n' Roll Gold Edition (Poland) (En,Pl)</description>
+		<rom name="Rig 'n' Roll Gold Edition (Poland) (En,Pl).iso" size="5439815680" crc="2244e215" md5="193210edbfdd9f2521503886a94a3876" sha1="da6b1d069a9d1f19bdcb0d57cf52a5cfb6b05c21"/>
+	</game>
 	<game name="Rig Racer 2 (Germany)">
 		<category>Games</category>
 		<description>Rig Racer 2 (Germany)</description>
@@ -125829,6 +125863,11 @@
 		<description>Rockett's Secret Invitation (USA)</description>
 		<rom name="Rockett's Secret Invitation (USA).bin" size="718865280" crc="151e1506" md5="6594dd62a353e56aa72cbe461cb15fbe" sha1="3641b902e0cd41f77e83da02e8dd767ec2e5ae61"/>
 		<rom name="Rockett's Secret Invitation (USA).cue" size="99" crc="f1a54c1b" md5="9e270c414afa6da9494bf4212dd6ef07" sha1="b13b3dcdb75fdf362f7d36977fdf876490f3a895"/>
+	</game>
+	<game name="Rockin' Dead, The (Germany)">
+		<category>Games</category>
+		<description>Rockin' Dead, The (Germany)</description>
+		<rom name="Rockin' Dead, The (Germany).iso" size="3377102848" crc="c9cf4295" md5="5f4866e5949579a0f905debc23329186" sha1="c1bf658bdd04e8e74a15d9d4f2b7f55cdb27f62b"/>
 	</game>
 	<game name="Rockman 123 (Taiwan)">
 		<category>Games</category>
@@ -159186,6 +159225,11 @@
 		<category>Games</category>
 		<description>UFO - Afterlight (USA) (En,Fr,De,Es,It,Zh,Pl,Ru,Cs,Hu)</description>
 		<rom name="UFO - Afterlight (USA) (En,Fr,De,Es,It,Zh,Pl,Ru,Cs,Hu).iso" size="2480963584" crc="9b796eaa" md5="48cd5cd1ace17e74f7bab799098782fc" sha1="678d9ae2e3fddbd4c1ca315d61edd8f331ec37aa"/>
+	</game>
+	<game name="UFO - Afterlight - Bitwa o Marsa (Poland)">
+		<category>Games</category>
+		<description>UFO - Afterlight - Bitwa o Marsa (Poland)</description>
+		<rom name="UFO - Afterlight - Bitwa o Marsa (Poland).iso" size="4613734400" crc="21aa966f" md5="7706a1913d5a441acb9c61e263e050c3" sha1="359d49b714d9ede750435b8b7967541eda4dab42"/>
 	</game>
 	<game name="UFO - Aftermath (Czech)">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (12,924) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-17 02-42-54) (Retool)</description>
-		<version>2026-03-17 02-42-54</version>
-		<date>2026-03-17 03-19-26</date>
+		<description>IBM - PC compatible (12,926) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-18 03-54-04) (Retool)</description>
+		<version>2026-03-18 03-54-04</version>
+		<date>2026-03-18 03-22-20</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -56190,6 +56190,12 @@
 		<rom name="Numbers Up! Volcanic Panic - The Number Strand (Australia) (v1.2.2).bin" size="444149328" crc="52db3091" md5="109c589e113a5df0115c5e0fe7c65764" sha1="f05306647e2e395a101b4b022cd2a11a0bcc6e5f"/>
 		<rom name="Numbers Up! Volcanic Panic - The Number Strand (Australia) (v1.2.2).cue" size="133" crc="13e225e2" md5="412dfdd17323ccb1f882b3664a2f4b1d" sha1="c812bc061f2c39ab3f6ed28072d07200065f4487"/>
 	</game>
+	<game name="Numbershark 3 (UK)">
+		<category>Games</category>
+		<description>Numbershark 3 (UK)</description>
+		<rom name="Numbershark 3 (UK).bin" size="789239472" crc="172130b2" md5="26a2801b072337583f13ff47de2e862c" sha1="edac1d65847802ee3fe4187c30c6858bcfc45513"/>
+		<rom name="Numbershark 3 (UK).cue" size="84" crc="90f6ccf2" md5="5431c905863e837702d62416d1fb6830" sha1="313514d0087cf68c440fe66eaa922e6baa4775e8"/>
+	</game>
 	<game name="Nun Massacre, The (USA)">
 		<category>Games</category>
 		<description>Nun Massacre, The (USA)</description>
@@ -61736,11 +61742,11 @@
 		<rom name="Profi-Rom Wingames Vol. 1 (Germany) (En,De).bin" size="133845264" crc="d8fbfddb" md5="f9940d1bb1675bc5da9a1022e0ec91c6" sha1="a467b651fb5559270f4bdfb2b35af9208273dd86"/>
 		<rom name="Profi-Rom Wingames Vol. 1 (Germany) (En,De).cue" size="109" crc="ddf5de30" md5="a060ec0c9616c8ddcea27424120c07be" sha1="14ff84baf0b6e2b77963ae1a212b1caf99db5a52"/>
 	</game>
-	<game name="Profiler - The Hopscotch Killer (Russia) (En,Fr,De,Es,It,Ru)">
+	<game name="Profiler - The Hopscotch Killer (UK)">
 		<category>Games</category>
-		<description>Profiler - The Hopscotch Killer (Russia) (En,Fr,De,Es,It,Ru)</description>
-		<rom name="Profiler - The Hopscotch Killer (Russia) (En,Fr,De,Es,It,Ru).bin" size="807055872" crc="aa149c6f" md5="190a694fb1757b4e2013770c04f8a4b9" sha1="87b2a2ac200ec797c02f72fc3fa105d68e476ea8"/>
-		<rom name="Profiler - The Hopscotch Killer (Russia) (En,Fr,De,Es,It,Ru).cue" size="126" crc="d84e9ce5" md5="78df810f0a898e4e045616e8f90f18b8" sha1="d3d0972e54135744c232b2f0b80fb24c4f5fe176"/>
+		<description>Profiler - The Hopscotch Killer (UK)</description>
+		<rom name="Profiler - The Hopscotch Killer (UK).bin" size="140898912" crc="4839a43b" md5="28e0d793ccc389601cb875815de54cca" sha1="f50730df98ebecfe32245087a780eb0befa54238"/>
+		<rom name="Profiler - The Hopscotch Killer (UK).cue" size="102" crc="fd16c19a" md5="d431c2c5cb78b546af3a8f9f25433a81" sha1="0be95f9f4a9cd4259bc93621590e98a139205c14"/>
 	</game>
 	<game name="Project - Snowblind (USA) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -65448,6 +65454,11 @@
 		<category>Games</category>
 		<description>Rift (USA, Europe) (En,Fr,De) (Game Disc)</description>
 		<rom name="Rift (USA, Europe) (En,Fr,De) (Game Disc).iso" size="8029732864" crc="20c97f3c" md5="6c717d8a134a02a78d37b68fef314b9d" sha1="ed5e5c6b358a8fda6156a9c18172db93df3fb66f"/>
+	</game>
+	<game name="Rig 'n' Roll Gold Edition (Poland) (En,Pl)">
+		<category>Games</category>
+		<description>Rig 'n' Roll Gold Edition (Poland) (En,Pl)</description>
+		<rom name="Rig 'n' Roll Gold Edition (Poland) (En,Pl).iso" size="5439815680" crc="2244e215" md5="193210edbfdd9f2521503886a94a3876" sha1="da6b1d069a9d1f19bdcb0d57cf52a5cfb6b05c21"/>
 	</game>
 	<game name="Rig Racer 2 (Germany)">
 		<category>Games</category>
