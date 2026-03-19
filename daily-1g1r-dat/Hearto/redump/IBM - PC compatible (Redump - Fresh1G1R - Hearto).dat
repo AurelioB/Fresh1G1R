@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,756) (-y) [-aAbBcefkmMoprv] (2026-03-18 03-54-04) (Retool)</description>
-		<version>2026-03-18 03-54-04</version>
-		<date>2026-03-18 03-16-00</date>
+		<description>IBM - PC compatible (24,759) (-y) [-aAbBcefkmMoprv] (2026-03-19 03-02-57) (Retool)</description>
+		<version>2026-03-19 03-02-57</version>
+		<date>2026-03-19 03-15-18</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -17543,11 +17543,11 @@
 		<rom name="Bicycle Board Games (USA).bin" size="471169104" crc="3a93f066" md5="955481d994d222b95d7f76682ef58f49" sha1="ae1c611748efaba6c98640fd66e8aa336d909555"/>
 		<rom name="Bicycle Board Games (USA).cue" size="91" crc="af35dfc1" md5="65fd18f535fe21d6d793e9cb25e2728f" sha1="161f18fedcbfe8186bf804236ae3d1a1224be115"/>
 	</game>
-	<game name="Bicycle Bridge (USA) (1998-09-14)">
+	<game name="Bicycle Bridge (USA) (v2.31)">
 		<category>Games</category>
-		<description>Bicycle Bridge (USA) (1998-09-14)</description>
-		<rom name="Bicycle Bridge (USA) (1998-09-14).bin" size="106844304" crc="be4efbcf" md5="5ecacea33accf6050671186b799ad83f" sha1="ece993ff4413c4f35f9e8b4ff0519465a22558ff"/>
-		<rom name="Bicycle Bridge (USA) (1998-09-14).cue" size="99" crc="2717f1ab" md5="168a4e98defa1da76e916373424b4529" sha1="a5380c3259d01a388977a00208a00a433e424dda"/>
+		<description>Bicycle Bridge (USA) (v2.31)</description>
+		<rom name="Bicycle Bridge (USA) (v2.31).bin" size="8667120" crc="889f5c08" md5="f1dedd8295138e4a6aed8b6e343c6060" sha1="ab8e0aae203c548952fe13e15a116c9bd4f5c007"/>
+		<rom name="Bicycle Bridge (USA) (v2.31).cue" size="117" crc="39c00421" md5="16143c1c33a0f0567b6ca8ffd0ebbe5a" sha1="ddf923654ecae2b9c0dba7cbd26ba9b3928eb2e1"/>
 	</game>
 	<game name="Bicycle Card Games (Europe) (Xplosiv)">
 		<category>Games</category>
@@ -51229,15 +51229,15 @@
 		<description>Far Cry 5 (Germany) (Disc 5)</description>
 		<rom name="Far Cry 5 (Germany) (Disc 5).iso" size="1869873152" crc="285ba844" md5="499ab384808d8cfbc6b2c12f7c9e3feb" sha1="5ae96508769ab211faad549a8f4bfabe04b0ec5f"/>
 	</game>
-	<game name="Far Cry Primal (USA, Europe) (En,Fr,De,Es,It,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 1)">
+	<game name="Far Cry Primal (World) (En,Fr,De,Es,It,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 1)">
 		<category>Games</category>
-		<description>Far Cry Primal (USA, Europe) (En,Fr,De,Es,It,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 1)</description>
-		<rom name="Far Cry Primal (USA, Europe) (En,Fr,De,Es,It,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 1).iso" size="8525905920" crc="c9309cd8" md5="5f02d3c95b5e696774798e8fcf078fee" sha1="4c0c0734e91ee0c953c5dfccd22d1f09bea912cf"/>
+		<description>Far Cry Primal (World) (En,Fr,De,Es,It,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 1)</description>
+		<rom name="Far Cry Primal (World) (En,Fr,De,Es,It,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 1).iso" size="8525905920" crc="c9309cd8" md5="5f02d3c95b5e696774798e8fcf078fee" sha1="4c0c0734e91ee0c953c5dfccd22d1f09bea912cf"/>
 	</game>
-	<game name="Far Cry Primal (USA, Europe) (En,Fr,De,Es,It,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 2)">
+	<game name="Far Cry Primal (World) (En,Fr,De,Es,It,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 2)">
 		<category>Games</category>
-		<description>Far Cry Primal (USA, Europe) (En,Fr,De,Es,It,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 2)</description>
-		<rom name="Far Cry Primal (USA, Europe) (En,Fr,De,Es,It,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 2).iso" size="6806896640" crc="5b1d49f0" md5="ac169cee2c2c91fb6ca1de41ca42be3b" sha1="7013db1e5231d1c0d82af9cfe0206599b427bda3"/>
+		<description>Far Cry Primal (World) (En,Fr,De,Es,It,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 2)</description>
+		<rom name="Far Cry Primal (World) (En,Fr,De,Es,It,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 2).iso" size="6806896640" crc="5b1d49f0" md5="ac169cee2c2c91fb6ca1de41ca42be3b" sha1="7013db1e5231d1c0d82af9cfe0206599b427bda3"/>
 	</game>
 	<game name="Far Gate (Canada)">
 		<category>Games</category>
@@ -81190,6 +81190,11 @@
 		<rom name="Kurragoemma med Mumintrollen (Scandinavia) (Sv,No,Da).bin" size="182933856" crc="b4aecafa" md5="cb91ad94d89b3f93528e8256e5266a03" sha1="0bfa353d2cd5ffaad6fdf1ea269a874e341f74d5"/>
 		<rom name="Kurragoemma med Mumintrollen (Scandinavia) (Sv,No,Da).cue" size="119" crc="903711a0" md5="210f5b1f27a3f5cea41703398f80516d" sha1="643c05732aaabf98351787b1ddde36a1441ec214"/>
 	</game>
+	<game name="Kurragoemma med Mumintrollen (Sweden) (Rerelease) (DVD-ROM)">
+		<category>Games</category>
+		<description>Kurragoemma med Mumintrollen (Sweden) (Rerelease) (DVD-ROM)</description>
+		<rom name="Kurragoemma med Mumintrollen (Sweden) (Rerelease) (DVD-ROM).iso" size="373882880" crc="97bf5e04" md5="2be8bf20e03d205228f0a02e7a6529ab" sha1="7e92b15c463dcbf87d4847d0b9819c413d1e0488"/>
+	</game>
 	<game name="Kurs na Okinavu (Russia)">
 		<category>Add-Ons</category>
 		<description>Kurs na Okinavu (Russia)</description>
@@ -82575,6 +82580,12 @@
 		<description>Laura He Ta De Xingxing (China)</description>
 		<rom name="Laura He Ta De Xingxing (China).bin" size="325239264" crc="f8195c7d" md5="c4a05191f7a412bcc34d3645a48ac8f2" sha1="7e0c11b70d7950e624e2032bfd1a42c894d67740"/>
 		<rom name="Laura He Ta De Xingxing (China).cue" size="97" crc="0d6b0df3" md5="29d656c27371c7843d7a8edbde42c2bc" sha1="1e42ee4830ed0a97fb6340202a839430dc75eb64"/>
+	</game>
+	<game name="Laura's Happy Adventures (Europe) (En,Fr,De) (ESS288)">
+		<category>Games</category>
+		<description>Laura's Happy Adventures (Europe) (En,Fr,De) (ESS288)</description>
+		<rom name="Laura's Happy Adventures (Europe) (En,Fr,De) (ESS288).bin" size="805654080" crc="902e5bfb" md5="77ea234475423994ab52345c96e6e9b9" sha1="198705c58c6a41dd17e39de29dbb8220a162dc20"/>
+		<rom name="Laura's Happy Adventures (Europe) (En,Fr,De) (ESS288).cue" size="119" crc="76889a17" md5="6bcc3dbce4ec9312dd490f85be1231ce" sha1="cb8fcae712a2192ce13a9a776c0e3614c495c330"/>
 	</game>
 	<game name="Laura's Happy Adventures (Europe) (En,Fr,De) (Pink CD)">
 		<category>Games</category>
@@ -94816,6 +94827,13 @@
 		<category>Games</category>
 		<description>Microsoft Flight Simulator X (Japan) (Disc 2) (Gold Edition)</description>
 		<rom name="Microsoft Flight Simulator X (Japan) (Disc 2) (Gold Edition).iso" size="4345135104" crc="ffffffff" md5="c9a8baf201c72a1cea5b300522caaf19" sha1="04cddcb11f815556b7a7568fe6bee54aa6cd6a9e"/>
+	</game>
+	<game name="Microsoft Flight Simulator X (USA) (Demo)">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Microsoft Flight Simulator X (USA) (Demo)</description>
+		<rom name="Microsoft Flight Simulator X (USA) (Demo).bin" size="845280576" crc="5db20b94" md5="351c5d9eab04919748311c0fbab95501" sha1="f9438f19400d02888ea99e1c196cfec55c0d7992"/>
+		<rom name="Microsoft Flight Simulator X (USA) (Demo).cue" size="107" crc="afeb9d32" md5="f8c8768a4680bac605b36d30702959db" sha1="747a57caa4f12540a50ba1b606b7e7efb36d93a8"/>
 	</game>
 	<game name="Microsoft Flight Simulator X (USA, Europe) (Disc 1)">
 		<category>Games</category>
@@ -141471,20 +141489,20 @@
 		<rom name="South Park - Chef's Luv Shack (USA, Europe).bin" size="720817440" crc="e824fb3f" md5="f58b730bbeb5c46129db76a6f101b976" sha1="bc2796b0bf4d5d73cde84e9770b3719c32e41cea"/>
 		<rom name="South Park - Chef's Luv Shack (USA, Europe).cue" size="109" crc="12428806" md5="f5390da1524d0ed46665c353837fb5e7" sha1="58cf2bb4be7b29701e4c3693e49c2f96389cccdc"/>
 	</game>
-	<game name="South Park - The Fractured But Whole (USA) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 1)">
+	<game name="South Park - The Fractured But Whole (USA, Australia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 1)">
 		<category>Games</category>
-		<description>South Park - The Fractured But Whole (USA) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 1)</description>
-		<rom name="South Park - The Fractured But Whole (USA) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 1).iso" size="8526823424" crc="570486ae" md5="3758de82d6525f45d857d5f919c760c4" sha1="dedc996149efe9ed0f500d57231eb35c66ee98af"/>
+		<description>South Park - The Fractured But Whole (USA, Australia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 1)</description>
+		<rom name="South Park - The Fractured But Whole (USA, Australia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 1).iso" size="8526823424" crc="570486ae" md5="3758de82d6525f45d857d5f919c760c4" sha1="dedc996149efe9ed0f500d57231eb35c66ee98af"/>
 	</game>
-	<game name="South Park - The Fractured But Whole (USA) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 2)">
+	<game name="South Park - The Fractured But Whole (USA, Australia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 2)">
 		<category>Games</category>
-		<description>South Park - The Fractured But Whole (USA) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 2)</description>
-		<rom name="South Park - The Fractured But Whole (USA) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 2).iso" size="8526036992" crc="4bf649a3" md5="d8e40aa4b7b5aa7e02fc84f9e33e91ad" sha1="87a90e785f69113a5ac26f59cb758ee0e184f471"/>
+		<description>South Park - The Fractured But Whole (USA, Australia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 2)</description>
+		<rom name="South Park - The Fractured But Whole (USA, Australia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 2).iso" size="8526036992" crc="4bf649a3" md5="d8e40aa4b7b5aa7e02fc84f9e33e91ad" sha1="87a90e785f69113a5ac26f59cb758ee0e184f471"/>
 	</game>
-	<game name="South Park - The Fractured But Whole (USA) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 3)">
+	<game name="South Park - The Fractured But Whole (USA, Australia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 3)">
 		<category>Games</category>
-		<description>South Park - The Fractured But Whole (USA) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 3)</description>
-		<rom name="South Park - The Fractured But Whole (USA) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 3).iso" size="1634729984" crc="40d65d65" md5="3bd77f1b6a96d909d26c91db7ac924b1" sha1="0f51d033b0df49e90220303c344f26bf2bfe7f2e"/>
+		<description>South Park - The Fractured But Whole (USA, Australia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 3)</description>
+		<rom name="South Park - The Fractured But Whole (USA, Australia) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 3).iso" size="1634729984" crc="40d65d65" md5="3bd77f1b6a96d909d26c91db7ac924b1" sha1="0f51d033b0df49e90220303c344f26bf2bfe7f2e"/>
 	</game>
 	<game name="South Park - The Stick of Truth (USA) (En,Fr,De,Es,It,Pt,Pl,Ru)">
 		<category>Games</category>
@@ -151793,20 +151811,20 @@
 		<rom name="They Call Me... The Skul (USA).bin" size="223134240" crc="4508a57e" md5="ed50ed923c383a836bc7f0db0276f24c" sha1="75d88bf397c6d1cc310fdd6c89997f385e5ac107"/>
 		<rom name="They Call Me... The Skul (USA).cue" size="96" crc="86df7c13" md5="f09a8984e0eb5639822da34e4b05b3e1" sha1="7a1a12ba837d31746c13d09fb1d68a576a212721"/>
 	</game>
-	<game name="Thief (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 1)">
+	<game name="Thief (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 1)">
 		<category>Games</category>
-		<description>Thief (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 1)</description>
-		<rom name="Thief (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 1).iso" size="8317829120" crc="07cffa3b" md5="5c6bef3bf950b24a6b1c8455532dcb8f" sha1="280cabe12aafc0493a9eb7b35b0b448d248a0510"/>
+		<description>Thief (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 1)</description>
+		<rom name="Thief (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 1).iso" size="8317829120" crc="07cffa3b" md5="5c6bef3bf950b24a6b1c8455532dcb8f" sha1="280cabe12aafc0493a9eb7b35b0b448d248a0510"/>
 	</game>
-	<game name="Thief (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 2)">
+	<game name="Thief (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 2)">
 		<category>Games</category>
-		<description>Thief (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 2)</description>
-		<rom name="Thief (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 2).iso" size="8285290496" crc="0a72c3c1" md5="198f9ae6c03cbb1c5d42ac3aa169bc9d" sha1="f3de165400b635b70d22e65bf086c3cbe2261a30"/>
+		<description>Thief (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 2)</description>
+		<rom name="Thief (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 2).iso" size="8285290496" crc="0a72c3c1" md5="198f9ae6c03cbb1c5d42ac3aa169bc9d" sha1="f3de165400b635b70d22e65bf086c3cbe2261a30"/>
 	</game>
-	<game name="Thief (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 3)">
+	<game name="Thief (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 3)">
 		<category>Games</category>
-		<description>Thief (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 3)</description>
-		<rom name="Thief (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 3).iso" size="7136641024" crc="54804c33" md5="567a0a62165a3f93bc00859877e4b770" sha1="a129f8abdd75e5e3a927065789d831ef3b6f9710"/>
+		<description>Thief (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 3)</description>
+		<rom name="Thief (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 3).iso" size="7136641024" crc="54804c33" md5="567a0a62165a3f93bc00859877e4b770" sha1="a129f8abdd75e5e3a927065789d831ef3b6f9710"/>
 	</game>
 	<game name="Thief - Antologia (Poland)">
 		<category>Games</category>
