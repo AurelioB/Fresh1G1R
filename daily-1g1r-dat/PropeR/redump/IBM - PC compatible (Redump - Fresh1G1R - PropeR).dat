@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,293) (-y) [-aAbBcdkmMpPuv] (2026-03-19 03-02-57) (Retool)</description>
-		<version>2026-03-19 03-02-57</version>
-		<date>2026-03-19 03-27-16</date>
+		<description>IBM - PC compatible (25,300) (-y) [-aAbBcdkmMpPuv] (2026-03-20 01-52-16) (Retool)</description>
+		<version>2026-03-20 01-52-16</version>
+		<date>2026-03-20 03-23-33</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -10613,11 +10613,11 @@
 		<rom name="Archangel (Europe) (Bonus CD).bin" size="690660096" crc="1e0e5861" md5="f77a4298718139065055b213c29da62f" sha1="7e7bf3ea026fdeba237cfa7f7de97c6b6520c369"/>
 		<rom name="Archangel (Europe) (Bonus CD).cue" size="95" crc="8cdcd42d" md5="a132eb9c303861421e19550980c17453" sha1="b121a5a7cee1d90ae5a294982e78ab8e0af78191"/>
 	</game>
-	<game name="Archangel (Europe, Australia)">
+	<game name="Archangel (USA, Europe)">
 		<category>Games</category>
-		<description>Archangel (Europe, Australia)</description>
-		<rom name="Archangel (Europe, Australia).bin" size="674922864" crc="c6111ea8" md5="6468a537204fa672de413ff709649770" sha1="0112f7ff422bf0fab6d951cfb9a72f4a4ced637c"/>
-		<rom name="Archangel (Europe, Australia).cue" size="95" crc="bcebbdcc" md5="3df346434e85e260bb2bbac600caa176" sha1="ffc83f65c940c0be7373ef672fcc89c6486759f6"/>
+		<description>Archangel (USA, Europe)</description>
+		<rom name="Archangel (USA, Europe).bin" size="674922864" crc="c6111ea8" md5="6468a537204fa672de413ff709649770" sha1="0112f7ff422bf0fab6d951cfb9a72f4a4ced637c"/>
+		<rom name="Archangel (USA, Europe).cue" size="89" crc="3ab170fe" md5="7a6e59d28d4a877fc4418a60bfde35bb" sha1="1f10a1628af772c7365a0481f34bc8e8f597e603"/>
 	</game>
 	<game name="Archangel - Die Verwandlung (Germany)">
 		<category>Games</category>
@@ -12876,12 +12876,6 @@
 		<description>Automafia (Germany)</description>
 		<rom name="Automafia (Germany).bin" size="489267744" crc="bdff7208" md5="62530ba666681cd23269ac1810934dab" sha1="e8a80a029f77ab05a167b395eddd62ce2bb3d0a9"/>
 		<rom name="Automafia (Germany).cue" size="85" crc="76c5c885" md5="b3bdc25941a3240bb5465aefc8dabda6" sha1="b90316f9ab0dff9948511c793cdb5b0abbbe8243"/>
-	</game>
-	<game name="Auxiliary Courses (USA)">
-		<category>Games</category>
-		<description>Auxiliary Courses (USA)</description>
-		<rom name="Auxiliary Courses (USA).bin" size="670860960" crc="af2d34df" md5="945ffbe60812a56422f32e3338feee6d" sha1="c99ed1af88069075f1ffcb7d7affa4b574d2df9f"/>
-		<rom name="Auxiliary Courses (USA).cue" size="89" crc="6fb3a2aa" md5="2cf38dbcaf7601dfb65cf0b0d626f3ae" sha1="dfcd0d76f0fae038810f7b55409ffe757c34a0ca"/>
 	</game>
 	<game name="Avalon (Russia)">
 		<category>Games</category>
@@ -34276,6 +34270,21 @@
 		<description>Dark Souls II - Scholar of the First Sin (Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 2)</description>
 		<rom name="Dark Souls II - Scholar of the First Sin (Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 2).iso" size="4300406784" crc="bf4dc669" md5="4115a4980303d6b26a5ee41a3241d2a3" sha1="dff17c9e5b5d1f5e6832c5b2eeff3b39d5e84fcc"/>
 	</game>
+	<game name="Dark Souls III (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 1)">
+		<category>Games</category>
+		<description>Dark Souls III (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 1)</description>
+		<rom name="Dark Souls III (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 1).iso" size="7339761664" crc="d2db7f69" md5="5404468445d1954d3ec3390fc4c16a99" sha1="1b594f62e4dc48cdf688306584ba57ac82e22b29"/>
+	</game>
+	<game name="Dark Souls III (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 2)">
+		<category>Games</category>
+		<description>Dark Souls III (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 2)</description>
+		<rom name="Dark Souls III (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 2).iso" size="7339761664" crc="d2db7f69" md5="5404468445d1954d3ec3390fc4c16a99" sha1="1b594f62e4dc48cdf688306584ba57ac82e22b29"/>
+	</game>
+	<game name="Dark Souls III (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 3)">
+		<category>Games</category>
+		<description>Dark Souls III (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 3)</description>
+		<rom name="Dark Souls III (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 3).iso" size="3727314944" crc="3071d0ef" md5="945d71916caa53bb690ecbcfdbea6fbc" sha1="dc0226113d0376ab902a74c05ef7a2d58577f1fd"/>
+	</game>
 	<game name="Dark Souls III - The Fire Fades Edition (Russia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 1)">
 		<category>Games</category>
 		<description>Dark Souls III - The Fire Fades Edition (Russia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 1)</description>
@@ -43160,6 +43169,12 @@
 		<description>Drawn - De Getekende Toren (Netherlands)</description>
 		<rom name="Drawn - De Getekende Toren (Netherlands).bin" size="235042416" crc="8117ab24" md5="d362dea4ff9b55714430e2a8243bbe95" sha1="1ee354fd78fdd3a21a706b1ba1c996ace7e5936b"/>
 		<rom name="Drawn - De Getekende Toren (Netherlands).cue" size="121" crc="60faa7d7" md5="1eaca14222c3311eec2ce9a417edd109" sha1="3dbc07d3790c9bef0ab951e34b6f4572edd75aef"/>
+	</game>
+	<game name="Drawn - Der Turm (Germany)">
+		<category>Games</category>
+		<description>Drawn - Der Turm (Germany)</description>
+		<rom name="Drawn - Der Turm (Germany).bin" size="229922112" crc="7ded9481" md5="4e1a3cde6ea7c0f7b45a195a6a4204f8" sha1="1803eb13dfcbf171ca1433a98d44253034f106de"/>
+		<rom name="Drawn - Der Turm (Germany).cue" size="92" crc="1d2d25e7" md5="8d2ab41435ca5a60a1207de66dd20524" sha1="f83ecd986dbe3999819d9c74469328a72dbde563"/>
 	</game>
 	<game name="Drawn - The Painted Tower (USA)">
 		<category>Games</category>
@@ -108110,6 +108125,11 @@
 		<rom name="Night Work - Yachou no I-ta-zu-ra (Japan).bin" size="122113488" crc="d164f31f" md5="79eaf0f9f274ca47be8023eb98a1240b" sha1="a8e6e1bc98b81a49e4d626f719af82290e9837c7"/>
 		<rom name="Night Work - Yachou no I-ta-zu-ra (Japan).cue" size="130" crc="0539703d" md5="5b27e0bea068333e47a266e3d348e515" sha1="a7023b46d3cde0407d345f23cd48021f345e4db4"/>
 	</game>
+	<game name="Night of the Rabbit, The (Germany)">
+		<category>Games</category>
+		<description>Night of the Rabbit, The (Germany)</description>
+		<rom name="Night of the Rabbit, The (Germany).iso" size="5835423744" crc="b3b26aa6" md5="9a8bdd17f7c3b99b23a909de49383b95" sha1="80aac6f31a3c850c24c430f0a56e714ce5118b8a"/>
+	</game>
 	<game name="NightStone (Europe) (En,Fr,De,It)">
 		<category>Games</category>
 		<description>NightStone (Europe) (En,Fr,De,It)</description>
@@ -110568,6 +110588,12 @@
 		<category>Games</category>
 		<description>Onimusha 3 (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Onimusha 3 (Europe) (En,Fr,De,Es,It).iso" size="1389320192" crc="0727fcf9" md5="f0518ebd997f08a91ab50b912632db7d" sha1="2e8d4b6bad40da9fbad565a1fcda2f773ba12c90"/>
+	</game>
+	<game name="Onimusha 3 (Poland) (Patch PL)">
+		<category>Bonus Discs</category>
+		<description>Onimusha 3 (Poland) (Patch PL)</description>
+		<rom name="Onimusha 3 (Poland) (Patch PL).bin" size="669362736" crc="ea026ea1" md5="35e693139761be4c4a9ae8d3698554e7" sha1="9893ed38743a48f4d2c9c7f2ff7baa1b8b30ec38"/>
+		<rom name="Onimusha 3 (Poland) (Patch PL).cue" size="96" crc="d4cf1f28" md5="828a7e70717db258ad121be962a5429c" sha1="798787fcdcb5e67f3014acef66bae2d7dc359422"/>
 	</game>
 	<game name="Onimusha 3 - Demon Siege (USA) (En,Fr,De,Es,It) (Disc 1)">
 		<category>Games</category>
@@ -156930,6 +156956,12 @@
 		<rom name="Tiger Woods PGA Tour Collection (USA) (Disc 1).bin" size="633285408" crc="648d00f2" md5="e7e3e0f05ef838aa5b58fbb912a75ca1" sha1="5f0049ab026cbc421c4f9e4112431434db2d29bc"/>
 		<rom name="Tiger Woods PGA Tour Collection (USA) (Disc 1).cue" size="135" crc="6214486b" md5="895fe6cee172bbb5d56bdce6eae23abc" sha1="03087d2e12260d617be5ec20af19b9f227c3e7c5"/>
 	</game>
+	<game name="Tiger Woods PGA Tour Collection (USA) (Disc 2)">
+		<category>Games</category>
+		<description>Tiger Woods PGA Tour Collection (USA) (Disc 2)</description>
+		<rom name="Tiger Woods PGA Tour Collection (USA) (Disc 2).bin" size="670860960" crc="af2d34df" md5="945ffbe60812a56422f32e3338feee6d" sha1="c99ed1af88069075f1ffcb7d7affa4b574d2df9f"/>
+		<rom name="Tiger Woods PGA Tour Collection (USA) (Disc 2).cue" size="112" crc="20626931" md5="b6ba1744aa5df3bba0edd939fba4917f" sha1="e55248714719c1a6564c94859ea965cda48c890d"/>
+	</game>
 	<game name="Tiger Woods USA Tour 2001 (Australia) (Disc 1)">
 		<category>Games</category>
 		<description>Tiger Woods USA Tour 2001 (Australia) (Disc 1)</description>
@@ -162180,6 +162212,11 @@
 		<description>Tsuri ni Ikou (Japan)</description>
 		<rom name="Tsuri ni Ikou (Japan).bin" size="547912512" crc="d7c032db" md5="416b2e4d0ce7f02757131df765807f91" sha1="361259e84cfa2b33c96fe64f86661d40653b00bd"/>
 		<rom name="Tsuri ni Ikou (Japan).cue" size="87" crc="6c047dd5" md5="f89f96b25c630487bc8936d1ff651d7a" sha1="9f17187006a8bf2afaa8f8d6e24ed56c05cb2fbc"/>
+	</game>
+	<game name="Tsurugi no Machi no Ihoujin - Shiro no Oukyuu (Japan)">
+		<category>Games</category>
+		<description>Tsurugi no Machi no Ihoujin - Shiro no Oukyuu (Japan)</description>
+		<rom name="Tsurugi no Machi no Ihoujin - Shiro no Oukyuu (Japan).iso" size="1541373952" crc="5328efae" md5="037448a6ed0e176361142225f0410cb1" sha1="bc220b5fdfbd948471fb01153c3a11fe99c47f0e"/>
 	</game>
 	<game name="Tsuyokiss 2-gakki - Digital Contents Disk (Japan)">
 		<category>Bonus Discs</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (12,927) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-19 03-02-57) (Retool)</description>
-		<version>2026-03-19 03-02-57</version>
-		<date>2026-03-19 03-21-31</date>
+		<description>IBM - PC compatible (12,930) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-20 01-52-16) (Retool)</description>
+		<version>2026-03-20 01-52-16</version>
+		<date>2026-03-20 03-18-00</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -5116,11 +5116,11 @@
 		<rom name="Archangel (Europe) (Bonus CD).bin" size="690660096" crc="1e0e5861" md5="f77a4298718139065055b213c29da62f" sha1="7e7bf3ea026fdeba237cfa7f7de97c6b6520c369"/>
 		<rom name="Archangel (Europe) (Bonus CD).cue" size="95" crc="8cdcd42d" md5="a132eb9c303861421e19550980c17453" sha1="b121a5a7cee1d90ae5a294982e78ab8e0af78191"/>
 	</game>
-	<game name="Archangel (Europe, Australia)">
+	<game name="Archangel (USA, Europe)">
 		<category>Games</category>
-		<description>Archangel (Europe, Australia)</description>
-		<rom name="Archangel (Europe, Australia).bin" size="674922864" crc="c6111ea8" md5="6468a537204fa672de413ff709649770" sha1="0112f7ff422bf0fab6d951cfb9a72f4a4ced637c"/>
-		<rom name="Archangel (Europe, Australia).cue" size="95" crc="bcebbdcc" md5="3df346434e85e260bb2bbac600caa176" sha1="ffc83f65c940c0be7373ef672fcc89c6486759f6"/>
+		<description>Archangel (USA, Europe)</description>
+		<rom name="Archangel (USA, Europe).bin" size="674922864" crc="c6111ea8" md5="6468a537204fa672de413ff709649770" sha1="0112f7ff422bf0fab6d951cfb9a72f4a4ced637c"/>
+		<rom name="Archangel (USA, Europe).cue" size="89" crc="3ab170fe" md5="7a6e59d28d4a877fc4418a60bfde35bb" sha1="1f10a1628af772c7365a0481f34bc8e8f597e603"/>
 	</game>
 	<game name="Archimedean Dynasty (USA)">
 		<category>Games</category>
@@ -6294,12 +6294,6 @@
 		<description>Autobahn (USA) (X3D)</description>
 		<rom name="Autobahn (USA) (X3D).bin" size="60665136" crc="b399f338" md5="c223b932853262bce72ffd1f32353f7f" sha1="bb5127711b9768199ff115f09948a4599695da90"/>
 		<rom name="Autobahn (USA) (X3D).cue" size="86" crc="4cc97c94" md5="8ef90784bbef8dd1a3ce85a4914dc6bd" sha1="944f05f45ea4b8f7c6f48a56477b345d47b8beb1"/>
-	</game>
-	<game name="Auxiliary Courses (USA)">
-		<category>Games</category>
-		<description>Auxiliary Courses (USA)</description>
-		<rom name="Auxiliary Courses (USA).bin" size="670860960" crc="af2d34df" md5="945ffbe60812a56422f32e3338feee6d" sha1="c99ed1af88069075f1ffcb7d7affa4b574d2df9f"/>
-		<rom name="Auxiliary Courses (USA).cue" size="89" crc="6fb3a2aa" md5="2cf38dbcaf7601dfb65cf0b0d626f3ae" sha1="dfcd0d76f0fae038810f7b55409ffe757c34a0ca"/>
 	</game>
 	<game name="Avalon Hill's Diplomacy (Europe) (En,De,It)">
 		<category>Games</category>
@@ -18427,6 +18421,21 @@
 		<category>Games</category>
 		<description>Dark Souls II - Scholar of the First Sin (Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 2)</description>
 		<rom name="Dark Souls II - Scholar of the First Sin (Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 2).iso" size="4300406784" crc="bf4dc669" md5="4115a4980303d6b26a5ee41a3241d2a3" sha1="dff17c9e5b5d1f5e6832c5b2eeff3b39d5e84fcc"/>
+	</game>
+	<game name="Dark Souls III (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 1)">
+		<category>Games</category>
+		<description>Dark Souls III (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 1)</description>
+		<rom name="Dark Souls III (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 1).iso" size="7339761664" crc="d2db7f69" md5="5404468445d1954d3ec3390fc4c16a99" sha1="1b594f62e4dc48cdf688306584ba57ac82e22b29"/>
+	</game>
+	<game name="Dark Souls III (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 2)">
+		<category>Games</category>
+		<description>Dark Souls III (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 2)</description>
+		<rom name="Dark Souls III (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 2).iso" size="7339761664" crc="d2db7f69" md5="5404468445d1954d3ec3390fc4c16a99" sha1="1b594f62e4dc48cdf688306584ba57ac82e22b29"/>
+	</game>
+	<game name="Dark Souls III (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 3)">
+		<category>Games</category>
+		<description>Dark Souls III (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 3)</description>
+		<rom name="Dark Souls III (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 3).iso" size="3727314944" crc="3071d0ef" md5="945d71916caa53bb690ecbcfdbea6fbc" sha1="dc0226113d0376ab902a74c05ef7a2d58577f1fd"/>
 	</game>
 	<game name="Dark Souls III - The Fire Fades Edition (Russia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 1)">
 		<category>Games</category>
@@ -79812,6 +79821,12 @@
 		<description>Tiger Woods PGA Tour Collection (USA) (Disc 1)</description>
 		<rom name="Tiger Woods PGA Tour Collection (USA) (Disc 1).bin" size="633285408" crc="648d00f2" md5="e7e3e0f05ef838aa5b58fbb912a75ca1" sha1="5f0049ab026cbc421c4f9e4112431434db2d29bc"/>
 		<rom name="Tiger Woods PGA Tour Collection (USA) (Disc 1).cue" size="135" crc="6214486b" md5="895fe6cee172bbb5d56bdce6eae23abc" sha1="03087d2e12260d617be5ec20af19b9f227c3e7c5"/>
+	</game>
+	<game name="Tiger Woods PGA Tour Collection (USA) (Disc 2)">
+		<category>Games</category>
+		<description>Tiger Woods PGA Tour Collection (USA) (Disc 2)</description>
+		<rom name="Tiger Woods PGA Tour Collection (USA) (Disc 2).bin" size="670860960" crc="af2d34df" md5="945ffbe60812a56422f32e3338feee6d" sha1="c99ed1af88069075f1ffcb7d7affa4b574d2df9f"/>
+		<rom name="Tiger Woods PGA Tour Collection (USA) (Disc 2).cue" size="112" crc="20626931" md5="b6ba1744aa5df3bba0edd939fba4917f" sha1="e55248714719c1a6564c94859ea965cda48c890d"/>
 	</game>
 	<game name="Tiger Woods USA Tour 2001 (Australia) (Disc 1)">
 		<category>Games</category>
