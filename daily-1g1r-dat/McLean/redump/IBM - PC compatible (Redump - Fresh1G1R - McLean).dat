@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (12,930) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-20 01-52-16) (Retool)</description>
-		<version>2026-03-20 01-52-16</version>
-		<date>2026-03-20 03-18-00</date>
+		<description>IBM - PC compatible (12,932) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-22 01-23-01) (Retool)</description>
+		<version>2026-03-22 01-23-01</version>
+		<date>2026-03-22 03-22-28</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -10081,6 +10081,11 @@
 		<rom name="BloodNet (Europe).bin" size="398673408" crc="a22a9711" md5="48a0c3e3dc02eb36b680cafd72c7244d" sha1="ffc0a7a06f06b99fb413002a5da61c0c5d4531d5"/>
 		<rom name="BloodNet (Europe).cue" size="83" crc="1f2f3b1b" md5="813e0ed8924598482f80df56086e0202" sha1="dae40636833ad851f4dd767ffcb2735f9e12919e"/>
 	</game>
+	<game name="BloodRayne (USA) (DVD-ROM)">
+		<category>Games</category>
+		<description>BloodRayne (USA) (DVD-ROM)</description>
+		<rom name="BloodRayne (USA) (DVD-ROM).iso" size="1081081856" crc="650037fe" md5="60fb967216c9aa7c54bccfae466421cb" sha1="c229a99eb56ba824e9b6293e4442ebff9fac130f"/>
+	</game>
 	<game name="BloodRayne (USA) (Disc 1)">
 		<category>Games</category>
 		<description>BloodRayne (USA) (Disc 1)</description>
@@ -10092,11 +10097,6 @@
 		<description>BloodRayne (USA) (Disc 2)</description>
 		<rom name="BloodRayne (USA) (Disc 2).bin" size="459547872" crc="d07be782" md5="3e5cc987c2237d33d6e52ba8759184b7" sha1="bb37e6e1338fb646d50b8a789d81fee58f7a770c"/>
 		<rom name="BloodRayne (USA) (Disc 2).cue" size="91" crc="9fac5cd0" md5="1b80bed6c3c1b5a50658397306c78728" sha1="9bb5874df4145e34243c31bcff7618d561bf193c"/>
-	</game>
-	<game name="BloodRayne (USA) (Rerelease)">
-		<category>Games</category>
-		<description>BloodRayne (USA) (Rerelease)</description>
-		<rom name="BloodRayne (USA) (Rerelease).iso" size="1081081856" crc="650037fe" md5="60fb967216c9aa7c54bccfae466421cb" sha1="c229a99eb56ba824e9b6293e4442ebff9fac130f"/>
 	</game>
 	<game name="BloodRayne 2 (Europe) (En,Fr,Es,It)">
 		<category>Games</category>
@@ -44850,6 +44850,12 @@
 		<rom name="Little Big Adventure 2 (Europe) (En,Fr,De,Es,It) (Track 1).bin" size="696876432" crc="491ec4b7" md5="50a29f3a8afc465568443fba9a376983" sha1="d9e367a2c05102b5e08611cd008e6c04e0f33066"/>
 		<rom name="Little Big Adventure 2 (Europe) (En,Fr,De,Es,It) (Track 2).bin" size="41171760" crc="b7e4b4d5" md5="8252d3d037977c9110c9c421769d9d05" sha1="0d85dc3c770d4557daba62d625eebe136909098d"/>
 		<rom name="Little Big Adventure 2 (Europe) (En,Fr,De,Es,It).cue" size="289" crc="ded88333" md5="5998838b565ebf326e7fc7fbfc164735" sha1="bc3e2d1064acbb6f57223e998188d682c937c5e7"/>
+	</game>
+	<game name="Little Britain - The Computer Game (Australia)">
+		<category>Games</category>
+		<description>Little Britain - The Computer Game (Australia)</description>
+		<rom name="Little Britain - The Computer Game (Australia).bin" size="788886672" crc="f57e7f7d" md5="e73e205906586c37fb746d9f0309eb25" sha1="65601c7d6566611f1afa15f4213130869106050f"/>
+		<rom name="Little Britain - The Computer Game (Australia).cue" size="112" crc="e6b1d670" md5="f824aeed5a1d3f0309b536ba7357a24d" sha1="0608140f5a21dc0d99ed28795fe9042d998af4ba"/>
 	</game>
 	<game name="Little Miss Sunshine and the Scary Scarecrow (UK)">
 		<category>Games</category>
@@ -88803,6 +88809,12 @@
 		<rom name="WordJong to Go (USA).bin" size="53056416" crc="d31dc9d8" md5="cfd3a3c061cadcd8228df1f782c04647" sha1="e816ca89bf0f28e6e565777699853284075020ef"/>
 		<rom name="WordJong to Go (USA).cue" size="86" crc="5747a13b" md5="46cd9c48eeef60d1c0a18cd4fd6d72d3" sha1="c9eaa0fb8cf43a65cf18c7ca7fe7aa339ac7a211"/>
 	</game>
+	<game name="Wordshark 3s (UK)">
+		<category>Games</category>
+		<description>Wordshark 3s (UK)</description>
+		<rom name="Wordshark 3s (UK).bin" size="789239472" crc="ddb71aa9" md5="b483530e32490b62b4101d508131fddb" sha1="08cfa4a13a4281a31093f28c6a6fbefa5684e6e7"/>
+		<rom name="Wordshark 3s (UK).cue" size="83" crc="081c3bab" md5="b516da5c7ac0962e1b347f0478a620bf" sha1="47bdf8b087361070d52a530e20932bb257a59f1a"/>
+	</game>
 	<game name="Wordshark 4 (UK)">
 		<category>Games</category>
 		<description>Wordshark 4 (UK)</description>
@@ -89555,11 +89567,11 @@
 		<rom name="X-COM - Interceptor (USA) (Track 5).bin" size="33565392" crc="0bb5c5b6" md5="33722d927e803e5f436d2e8b3be9f5d5" sha1="c3e2431452fa078f92c3a0a6871ca5498fb0ebc3"/>
 		<rom name="X-COM - Interceptor (USA).cue" size="508" crc="4a49b50d" md5="653fbf35ff908e32bd083f68aaef9c2b" sha1="667f4f7dd323f3cf68f350ad199173eed223fd3d"/>
 	</game>
-	<game name="X-COM - Terror from the Deep (USA) (En,Fr,De,Es)">
+	<game name="X-COM - Terror from the Deep (USA) (En,Fr,De,Es) (Rev 1)">
 		<category>Games</category>
-		<description>X-COM - Terror from the Deep (USA) (En,Fr,De,Es)</description>
-		<rom name="X-COM - Terror from the Deep (USA) (En,Fr,De,Es).bin" size="81894288" crc="ad2fc02a" md5="4b9f3d7d2c686f6b70b08197f736434a" sha1="80572e89fbe39b634abd0134751b3a832c04e6bf"/>
-		<rom name="X-COM - Terror from the Deep (USA) (En,Fr,De,Es).cue" size="137" crc="ec184d6f" md5="e487930742cdd00ae9d99d24aeeae848" sha1="ea9842c73eaf5c32f398312bd06e978588c698cc"/>
+		<description>X-COM - Terror from the Deep (USA) (En,Fr,De,Es) (Rev 1)</description>
+		<rom name="X-COM - Terror from the Deep (USA) (En,Fr,De,Es) (Rev 1).bin" size="101491152" crc="050d5147" md5="cb45e4d592fc6cb71504e4d72a6b6729" sha1="1b0f68919ed159d668e0f5070544410d57fd4344"/>
+		<rom name="X-COM - Terror from the Deep (USA) (En,Fr,De,Es) (Rev 1).cue" size="122" crc="82e7aec7" md5="d13e384efd4396568a08ab8526d7f652" sha1="f8d1a4c0cf5b1f1073737bf70e0bce618ba69917"/>
 	</game>
 	<game name="X-COM - UFO Defense (USA) (En,Fr,De)">
 		<category>Games</category>

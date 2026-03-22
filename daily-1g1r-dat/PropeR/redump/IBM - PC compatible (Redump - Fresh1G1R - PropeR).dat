@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,300) (-y) [-aAbBcdkmMpPuv] (2026-03-20 01-52-16) (Retool)</description>
-		<version>2026-03-20 01-52-16</version>
-		<date>2026-03-20 03-23-33</date>
+		<description>IBM - PC compatible (25,309) (-y) [-aAbBcdkmMpPuv] (2026-03-22 01-23-01) (Retool)</description>
+		<version>2026-03-22 01-23-01</version>
+		<date>2026-03-22 03-28-22</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -19559,6 +19559,11 @@
 		<rom name="BloodNet (Europe).bin" size="398673408" crc="a22a9711" md5="48a0c3e3dc02eb36b680cafd72c7244d" sha1="ffc0a7a06f06b99fb413002a5da61c0c5d4531d5"/>
 		<rom name="BloodNet (Europe).cue" size="83" crc="1f2f3b1b" md5="813e0ed8924598482f80df56086e0202" sha1="dae40636833ad851f4dd767ffcb2735f9e12919e"/>
 	</game>
+	<game name="BloodRayne (USA) (DVD-ROM)">
+		<category>Games</category>
+		<description>BloodRayne (USA) (DVD-ROM)</description>
+		<rom name="BloodRayne (USA) (DVD-ROM).iso" size="1081081856" crc="650037fe" md5="60fb967216c9aa7c54bccfae466421cb" sha1="c229a99eb56ba824e9b6293e4442ebff9fac130f"/>
+	</game>
 	<game name="BloodRayne (USA) (Disc 1)">
 		<category>Games</category>
 		<description>BloodRayne (USA) (Disc 1)</description>
@@ -19570,11 +19575,6 @@
 		<description>BloodRayne (USA) (Disc 2)</description>
 		<rom name="BloodRayne (USA) (Disc 2).bin" size="459547872" crc="d07be782" md5="3e5cc987c2237d33d6e52ba8759184b7" sha1="bb37e6e1338fb646d50b8a789d81fee58f7a770c"/>
 		<rom name="BloodRayne (USA) (Disc 2).cue" size="91" crc="9fac5cd0" md5="1b80bed6c3c1b5a50658397306c78728" sha1="9bb5874df4145e34243c31bcff7618d561bf193c"/>
-	</game>
-	<game name="BloodRayne (USA) (Rerelease)">
-		<category>Games</category>
-		<description>BloodRayne (USA) (Rerelease)</description>
-		<rom name="BloodRayne (USA) (Rerelease).iso" size="1081081856" crc="650037fe" md5="60fb967216c9aa7c54bccfae466421cb" sha1="c229a99eb56ba824e9b6293e4442ebff9fac130f"/>
 	</game>
 	<game name="BloodRayne 2 (Europe) (En,Fr,Es,It)">
 		<category>Games</category>
@@ -22307,6 +22307,12 @@
 		<description>CD World Volume 7 - Starship &amp; 15 Intense Adventure Games (USA)</description>
 		<rom name="CD World Volume 7 - Starship &amp; 15 Intense Adventure Games (USA).bin" size="66119424" crc="5aa1c4cc" md5="99c36cd218b7923a32c3d2859aa93430" sha1="1b46daafc240ee2cdc43c365ee3b3800950cfb76"/>
 		<rom name="CD World Volume 7 - Starship &amp; 15 Intense Adventure Games (USA).cue" size="129" crc="a4a53a32" md5="6b41de67c5fb6c2439f548d8965badae" sha1="7f6a94bb60fc0e0a0c82c503d975c923d8c370eb"/>
+	</game>
+	<game name="CD-Action 02-2005 (109) (Poland) (Disc 2) (CD)">
+		<category>Games</category>
+		<description>CD-Action 02-2005 (109) (Poland) (Disc 2) (CD)</description>
+		<rom name="CD-Action 02-2005 (109) (Poland) (Disc 2) (CD).bin" size="818053824" crc="20057e89" md5="917d74ae8aa02db93abb6f325655f689" sha1="1c28f78c882775fc7e806a436891b11a4d365961"/>
+		<rom name="CD-Action 02-2005 (109) (Poland) (Disc 2) (CD).cue" size="112" crc="c605533d" md5="2e495d43e1cd9ec52d0e2823087a9e16" sha1="92dfad2b96e6ea3a056cb52bb0329e42f8cfdc41"/>
 	</game>
 	<game name="CD-ROM Junior n. 1 (Italy)">
 		<category>Educational</category>
@@ -51298,6 +51304,24 @@
 		<category>Games</category>
 		<description>Fallout Tactics - Brotherhood of Steel (USA) (En,Fr,De) (Fallout Anthology)</description>
 		<rom name="Fallout Tactics - Brotherhood of Steel (USA) (En,Fr,De) (Fallout Anthology).iso" size="4859756544" crc="7de710fe" md5="a801666a9a402056a2e418ce801d260b" sha1="f59a4d0e16735bacbbf8aee2783eba53c8ccfc29"/>
+	</game>
+	<game name="Fallout Tactics - Die staehlerne Bruderschaft (Germany) (Disc 1)">
+		<category>Games</category>
+		<description>Fallout Tactics - Die staehlerne Bruderschaft (Germany) (Disc 1)</description>
+		<rom name="Fallout Tactics - Die staehlerne Bruderschaft (Germany) (Disc 1).bin" size="698381712" crc="06972ebc" md5="e8a83a542f5caa5ecb09e75f7181d48f" sha1="ea6228bee7ce848770fbfdba04dfd5c260274907"/>
+		<rom name="Fallout Tactics - Die staehlerne Bruderschaft (Germany) (Disc 1).cue" size="130" crc="4c167ffb" md5="ec168cf03f33e83b7e1f2f0cb4104651" sha1="b3b5a7e458d1eede20999a8db2095d901d111d15"/>
+	</game>
+	<game name="Fallout Tactics - Die staehlerne Bruderschaft (Germany) (Disc 2)">
+		<category>Games</category>
+		<description>Fallout Tactics - Die staehlerne Bruderschaft (Germany) (Disc 2)</description>
+		<rom name="Fallout Tactics - Die staehlerne Bruderschaft (Germany) (Disc 2).bin" size="762767712" crc="fbf3707d" md5="f64c5b5d903de83d5ab44b12b91ee675" sha1="3fb83dc39b235d62ecf69295f5b7c3cfac593db7"/>
+		<rom name="Fallout Tactics - Die staehlerne Bruderschaft (Germany) (Disc 2).cue" size="130" crc="4d4b592a" md5="e6bd9feba545b2bcd55cb30971aad68e" sha1="97030a5661bf138a8d5945e47d5fc3594ef35150"/>
+	</game>
+	<game name="Fallout Tactics - Die staehlerne Bruderschaft (Germany) (Disc 3)">
+		<category>Games</category>
+		<description>Fallout Tactics - Die staehlerne Bruderschaft (Germany) (Disc 3)</description>
+		<rom name="Fallout Tactics - Die staehlerne Bruderschaft (Germany) (Disc 3).bin" size="741552672" crc="4b951e61" md5="9fa5a3fb123a1e7b407b3420150d5383" sha1="1bd2d34c615273edfcc55afc6dffefdde07b764e"/>
+		<rom name="Fallout Tactics - Die staehlerne Bruderschaft (Germany) (Disc 3).cue" size="130" crc="fb50b95a" md5="c7c5a70f7e64464a040eca52a88b5e0c" sha1="bbefef4e3e776546c23934c19ed0d50b24b84166"/>
 	</game>
 	<game name="Fallout Trilogy (USA)">
 		<category>Games</category>
@@ -80651,11 +80675,11 @@
 		<rom name="Kikai Shushi (Japan).bin" size="127459584" crc="9b017180" md5="082839724596c4f216492474ffde5e58" sha1="cbe03519df70681ff8b1d7b0edab394d5ba0a4d4"/>
 		<rom name="Kikai Shushi (Japan).cue" size="86" crc="a5b13dff" md5="ca13a53570414737e3484470528cbaf9" sha1="f2f70fccf46c75a779ffdbb171bebc843a572e95"/>
 	</game>
-	<game name="Kikansha Thomas to Nakama-tachi Magical Adventure (Japan)">
+	<game name="Kikansha Thomas to Nakamatachi Magical Adventure (Japan)">
 		<category>Games</category>
-		<description>Kikansha Thomas to Nakama-tachi Magical Adventure (Japan)</description>
-		<rom name="Kikansha Thomas to Nakama-tachi Magical Adventure (Japan).bin" size="662193840" crc="e39c8324" md5="5379a0aae08a6f430b974d7e617e3319" sha1="2bcbe8797a60fabec73cd080b2623ddde9bb485d"/>
-		<rom name="Kikansha Thomas to Nakama-tachi Magical Adventure (Japan).cue" size="123" crc="8519ae03" md5="0c2f9f0167ad415e562a4c74d45d4ebc" sha1="2b28286ea96535a2b160fe1b50c9baea1ed828d2"/>
+		<description>Kikansha Thomas to Nakamatachi Magical Adventure (Japan)</description>
+		<rom name="Kikansha Thomas to Nakamatachi Magical Adventure (Japan).bin" size="662193840" crc="e39c8324" md5="5379a0aae08a6f430b974d7e617e3319" sha1="2bcbe8797a60fabec73cd080b2623ddde9bb485d"/>
+		<rom name="Kikansha Thomas to Nakamatachi Magical Adventure (Japan).cue" size="122" crc="3e52fd88" md5="dcb5ae2c8a72bcec9b195c5bb4dea786" sha1="3f4e429aea14252b48c829245faa391efcc206b0"/>
 	</game>
 	<game name="Kikokugai - The Cyber Slayer (Japan)">
 		<category>Games</category>
@@ -86879,6 +86903,12 @@
 		<rom name="Little Big Adventure 2 (Europe) (En,Fr,De,Es,It) (Track 1).bin" size="696876432" crc="491ec4b7" md5="50a29f3a8afc465568443fba9a376983" sha1="d9e367a2c05102b5e08611cd008e6c04e0f33066"/>
 		<rom name="Little Big Adventure 2 (Europe) (En,Fr,De,Es,It) (Track 2).bin" size="41171760" crc="b7e4b4d5" md5="8252d3d037977c9110c9c421769d9d05" sha1="0d85dc3c770d4557daba62d625eebe136909098d"/>
 		<rom name="Little Big Adventure 2 (Europe) (En,Fr,De,Es,It).cue" size="289" crc="ded88333" md5="5998838b565ebf326e7fc7fbfc164735" sha1="bc3e2d1064acbb6f57223e998188d682c937c5e7"/>
+	</game>
+	<game name="Little Britain - The Computer Game (Australia)">
+		<category>Games</category>
+		<description>Little Britain - The Computer Game (Australia)</description>
+		<rom name="Little Britain - The Computer Game (Australia).bin" size="788886672" crc="f57e7f7d" md5="e73e205906586c37fb746d9f0309eb25" sha1="65601c7d6566611f1afa15f4213130869106050f"/>
+		<rom name="Little Britain - The Computer Game (Australia).cue" size="112" crc="e6b1d670" md5="f824aeed5a1d3f0309b536ba7357a24d" sha1="0608140f5a21dc0d99ed28795fe9042d998af4ba"/>
 	</game>
 	<game name="Little Busters! (Japan)">
 		<category>Games</category>
@@ -116348,11 +116378,11 @@
 		<rom name="Pingu (Scandinavia) (En,Sv,No,Da).bin" size="610068816" crc="1302a68b" md5="6d067820f55db48542e8c5b889326d4e" sha1="ab963ec053a248a288bc7864d2a25aa64a40b448"/>
 		<rom name="Pingu (Scandinavia) (En,Sv,No,Da).cue" size="99" crc="c5d32d67" md5="caa3db9495feca8c96a7cfaa2828dbc7" sha1="23c86dda71d066cabac00d9567bc551fe8e48605"/>
 	</game>
-	<game name="Pingu to Nakama-tachi (Japan)">
+	<game name="Pingu to Nakamatachi (Japan)">
 		<category>Educational</category>
-		<description>Pingu to Nakama-tachi (Japan)</description>
-		<rom name="Pingu to Nakama-tachi (Japan).bin" size="572566176" crc="b1051801" md5="bbee927db84618729cee5a1beeded082" sha1="4216043c6892e82c0313e98a1427d9da62dfc1bf"/>
-		<rom name="Pingu to Nakama-tachi (Japan).cue" size="95" crc="33a536b4" md5="16c1d1480d7cca331beed2e7fb713136" sha1="329b97403bc79ad8b4e87f90d1f2f3072a06b639"/>
+		<description>Pingu to Nakamatachi (Japan)</description>
+		<rom name="Pingu to Nakamatachi (Japan).bin" size="572566176" crc="b1051801" md5="bbee927db84618729cee5a1beeded082" sha1="4216043c6892e82c0313e98a1427d9da62dfc1bf"/>
+		<rom name="Pingu to Nakamatachi (Japan).cue" size="94" crc="5ec0ee6d" md5="47d867a1b740bd7ba32cf08773694a3b" sha1="56ffd95765406869649d2a86214a25162a9155d6"/>
 	</game>
 	<game name="Pingu und seine Freunde (Germany)">
 		<category>Educational</category>
@@ -136301,6 +136331,11 @@
 		<rom name="Semper Fi (Europe).bin" size="285497520" crc="5ae8700a" md5="39a87330183465d170d4bdfcf4abb377" sha1="2930a843ed9a1041ca5c9e586dcd721dcf2e26a4"/>
 		<rom name="Semper Fi (Europe).cue" size="84" crc="b2587138" md5="23c437d105c4cfda07cdbb473a234162" sha1="5e91f76ed5a026b96270effca7c1752727892cf7"/>
 	</game>
+	<game name="Sengoku Hime - Hana - Shinroku Tenka wo Kirisaku Hikari to Kage (Japan)">
+		<category>Games</category>
+		<description>Sengoku Hime - Hana - Shinroku Tenka wo Kirisaku Hikari to Kage (Japan)</description>
+		<rom name="Sengoku Hime - Hana - Shinroku Tenka wo Kirisaku Hikari to Kage (Japan).iso" size="4194304000" crc="2d13c6ec" md5="4c1623b692e6bb28ce37cb9866cce445" sha1="9f188a32bb7cf342689f2fed260397f85a07a02a"/>
+	</game>
 	<game name="Sengoku Musou 2 (Japan)">
 		<category>Games</category>
 		<description>Sengoku Musou 2 (Japan)</description>
@@ -136310,11 +136345,6 @@
 		<category>Games</category>
 		<description>Sengoku Rance (USA)</description>
 		<rom name="Sengoku Rance (USA).iso" size="698849280" crc="eb104e1b" md5="50d1e86733849529b7ff90578647057c" sha1="15d9c79fc065a5abe8abd6217feb909e7f9e6a68"/>
-	</game>
-	<game name="Sengoku-hime - Hana - Shinroku Tenka wo Kirisaku Hikari to Kage (Japan)">
-		<category>Games</category>
-		<description>Sengoku-hime - Hana - Shinroku Tenka wo Kirisaku Hikari to Kage (Japan)</description>
-		<rom name="Sengoku-hime - Hana - Shinroku Tenka wo Kirisaku Hikari to Kage (Japan).iso" size="4194304000" crc="2d13c6ec" md5="4c1623b692e6bb28ce37cb9866cce445" sha1="9f188a32bb7cf342689f2fed260397f85a07a02a"/>
 	</game>
 	<game name="Senjin Otome - Makina ni Yadorishi Kokoro ga Negau wa... (Japan)">
 		<category>Games</category>
@@ -139037,17 +139067,17 @@
 		<rom name="Shin Seiki Evangelion - Ayanami Ikusei Keikaku (Japan) (Disc 2).bin" size="585012960" crc="42a27291" md5="f33b9b93c1b8dc200efe2989de9e4203" sha1="5329ff5063d71604ce222f2e3b4e030df4988dd4"/>
 		<rom name="Shin Seiki Evangelion - Ayanami Ikusei Keikaku (Japan) (Disc 2).cue" size="129" crc="d25abf5a" md5="4769caf1ab13d3c906f9173106b5308f" sha1="df16428cc040c6609e12dfb5cc142339e0fddb8a"/>
 	</game>
-	<game name="Shin Seiki Evangelion - Eva to Yukaina Nakama-tachi (Japan)">
+	<game name="Shin Seiki Evangelion - Eva to Yukai na Nakamatachi (Japan)">
 		<category>Games</category>
-		<description>Shin Seiki Evangelion - Eva to Yukaina Nakama-tachi (Japan)</description>
-		<rom name="Shin Seiki Evangelion - Eva to Yukaina Nakama-tachi (Japan).bin" size="575400336" crc="0e3410f7" md5="66886295ab16031fae6f1e6579d28d1c" sha1="5e545373200a36ecd11f09d64b90a7b7076881de"/>
-		<rom name="Shin Seiki Evangelion - Eva to Yukaina Nakama-tachi (Japan).cue" size="125" crc="6db3fa46" md5="30f6e172d199e7ae997e662ee30a97e6" sha1="dea48add34c086e01914d8d096bcd0741036b13c"/>
+		<description>Shin Seiki Evangelion - Eva to Yukai na Nakamatachi (Japan)</description>
+		<rom name="Shin Seiki Evangelion - Eva to Yukai na Nakamatachi (Japan).bin" size="575400336" crc="0e3410f7" md5="66886295ab16031fae6f1e6579d28d1c" sha1="5e545373200a36ecd11f09d64b90a7b7076881de"/>
+		<rom name="Shin Seiki Evangelion - Eva to Yukai na Nakamatachi (Japan).cue" size="125" crc="090d4440" md5="6344ae0fd4ac43bf9872832a447ee440" sha1="e76c5b82be3ae443e6301a1fda42c32cd021c6ba"/>
 	</game>
-	<game name="Shin Seiki Evangelion - Eva to Yukaina Nakama-tachi - Shinroku System Onsei Data Iri CD-ROM (Japan)">
+	<game name="Shin Seiki Evangelion - Eva to Yukai na Nakamatachi - Shinroku System Onsei Data Iri CD-ROM (Japan)">
 		<category>Bonus Discs</category>
-		<description>Shin Seiki Evangelion - Eva to Yukaina Nakama-tachi - Shinroku System Onsei Data Iri CD-ROM (Japan)</description>
-		<rom name="Shin Seiki Evangelion - Eva to Yukaina Nakama-tachi - Shinroku System Onsei Data Iri CD-ROM (Japan).bin" size="142319520" crc="df99b1a4" md5="be7cd692399e98d80d1b24075d58714e" sha1="b65ec6fe8d2fdcd0802de4cb942e831b81632393"/>
-		<rom name="Shin Seiki Evangelion - Eva to Yukaina Nakama-tachi - Shinroku System Onsei Data Iri CD-ROM (Japan).cue" size="165" crc="8d70de5e" md5="5161592726484761b50e358fe9967ca7" sha1="43e2bd2a2c33d693784a49ada3a1ec98ea777bb7"/>
+		<description>Shin Seiki Evangelion - Eva to Yukai na Nakamatachi - Shinroku System Onsei Data Iri CD-ROM (Japan)</description>
+		<rom name="Shin Seiki Evangelion - Eva to Yukai na Nakamatachi - Shinroku System Onsei Data Iri CD-ROM (Japan).bin" size="142319520" crc="df99b1a4" md5="be7cd692399e98d80d1b24075d58714e" sha1="b65ec6fe8d2fdcd0802de4cb942e831b81632393"/>
+		<rom name="Shin Seiki Evangelion - Eva to Yukai na Nakamatachi - Shinroku System Onsei Data Iri CD-ROM (Japan).cue" size="165" crc="d2f6a2c8" md5="ae88cdfeac4d04e3ae7d79add6ae8ec5" sha1="9ee5305ade2db0dab8d057b5ca0ad049d094d1dc"/>
 	</game>
 	<game name="Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc A)">
 		<category>Games</category>
@@ -139147,11 +139177,11 @@
 		<rom name="Shinji and Good Friends - Is That Solitaire (Japan).bin" size="46230912" crc="971d91d5" md5="c3e45e35183f098d038e69da34a2adfc" sha1="172ec9fc726575eae927d44acb7a2f2e4b903ee4"/>
 		<rom name="Shinji and Good Friends - Is That Solitaire (Japan).cue" size="117" crc="46ad743b" md5="05e0cbb5fd633b9cfaeade6cd661160d" sha1="f398d404c315162b26485845e745226dddf3ee5d"/>
 	</game>
-	<game name="Shinji to Yukai na Nakama-tachi - Second Hanafuda Impact (Japan)">
+	<game name="Shinji to Yukai na Nakamatachi - Second Hanafuda Impact (Japan)">
 		<category>Games</category>
-		<description>Shinji to Yukai na Nakama-tachi - Second Hanafuda Impact (Japan)</description>
-		<rom name="Shinji to Yukai na Nakama-tachi - Second Hanafuda Impact (Japan).bin" size="142632336" crc="277bd1c7" md5="f1a6e5bb9ca045dfc5e13342d6467055" sha1="747d4444720ebaaab1f060481e755060a03af5c6"/>
-		<rom name="Shinji to Yukai na Nakama-tachi - Second Hanafuda Impact (Japan).cue" size="130" crc="a9179c7a" md5="5204ad28b3faadf308c8a8ec786410d2" sha1="687ac2bd10f4db4147d2161c7e4494c2c154fb24"/>
+		<description>Shinji to Yukai na Nakamatachi - Second Hanafuda Impact (Japan)</description>
+		<rom name="Shinji to Yukai na Nakamatachi - Second Hanafuda Impact (Japan).bin" size="142632336" crc="277bd1c7" md5="f1a6e5bb9ca045dfc5e13342d6467055" sha1="747d4444720ebaaab1f060481e755060a03af5c6"/>
+		<rom name="Shinji to Yukai na Nakamatachi - Second Hanafuda Impact (Japan).cue" size="129" crc="f8a61c98" md5="d7704b9df1ca6cf2010b9cd75f415606" sha1="159c89642ce5059d7c9eaf27381405e18971feb7"/>
 	</game>
 	<game name="Shinjuwan Kougeki Taiheiyou Sensen 3 - For Combat Flight Simulator (Japan)">
 		<category>Add-Ons</category>
@@ -140569,8 +140599,14 @@
 	<game name="Siedler II, Die - Die naechste Generation (Germany)">
 		<category>Games</category>
 		<description>Siedler II, Die - Die naechste Generation (Germany)</description>
-		<rom name="Siedler II, Die - Die naechste Generation (Germany).bin" size="751534560" crc="9057dea6" md5="0d2f6589550f5fdb21dae9ef57bc3660" sha1="ea123e072702533177c78b08868e5eefae769ba2"/>
+		<rom name="Siedler II, Die - Die naechste Generation (Germany).bin" size="639266544" crc="c9185618" md5="2824a6e3bb6ab4ca99d81fdd80f3e35f" sha1="3ae05d17df5c905bf484c0a69dc51260495c329d"/>
 		<rom name="Siedler II, Die - Die naechste Generation (Germany).cue" size="117" crc="130edf4c" md5="37af88e2be05c8a64aeba03ea52f8737" sha1="aa72b350ca3edf2705f4dc9801401e2e7fc476cd"/>
+	</game>
+	<game name="Siedler II, Die - Die naechste Generation (Germany) (Limitierte Edition)">
+		<category>Games</category>
+		<description>Siedler II, Die - Die naechste Generation (Germany) (Limitierte Edition)</description>
+		<rom name="Siedler II, Die - Die naechste Generation (Germany) (Limitierte Edition).bin" size="751534560" crc="9057dea6" md5="0d2f6589550f5fdb21dae9ef57bc3660" sha1="ea123e072702533177c78b08868e5eefae769ba2"/>
+		<rom name="Siedler II, Die - Die naechste Generation (Germany) (Limitierte Edition).cue" size="138" crc="e274622c" md5="e04203a75cc76047644a61b6a15d1f12" sha1="320a93720be7a023cae62765f33915bc19f3c974"/>
 	</game>
 	<game name="Siedler II, Die - Die naechste Generation - Wikinger (Germany)">
 		<category>Add-Ons</category>
@@ -141014,23 +141050,23 @@
 		<rom name="Signora Calibro 32, La (Italy) (Disc 2) (Covermount).bin" size="641352768" crc="06d0706f" md5="21db86f453e221912c9ff5a73afb9d76" sha1="4b397498a0c31b7476b2c38886d4c024ea8870f4"/>
 		<rom name="Signora Calibro 32, La (Italy) (Disc 2) (Covermount).cue" size="118" crc="526e0aec" md5="3ff7b9bc6f3ffd93949471797fb5dbc6" sha1="889942dc4db6a1c607bd18cc1b24a2b0f913c861"/>
 	</game>
-	<game name="Signore degli Anelli, Il - Il ritorno del Re (Italy) (Disc 1) (Disco d'Installazione)">
+	<game name="Signore degli Anelli, Il - Il Ritorno del Re (Italy) (Disc 1) (Disco d'Installazione)">
 		<category>Games</category>
-		<description>Signore degli Anelli, Il - Il ritorno del Re (Italy) (Disc 1) (Disco d'Installazione)</description>
-		<rom name="Signore degli Anelli, Il - Il ritorno del Re (Italy) (Disc 1) (Disco d'Installazione).bin" size="753030432" crc="c43952f6" md5="31616fa94eaaaa042bb8f0886f9915fb" sha1="f79903e93ab6b42df1c46b7e67421f45407c9ee0"/>
-		<rom name="Signore degli Anelli, Il - Il ritorno del Re (Italy) (Disc 1) (Disco d'Installazione).cue" size="151" crc="63aa725a" md5="b1ec05833bb5a90e4197941a6419b20c" sha1="a03bf685fd4ffe5204608aad54ae94d25c02c2ad"/>
+		<description>Signore degli Anelli, Il - Il Ritorno del Re (Italy) (Disc 1) (Disco d'Installazione)</description>
+		<rom name="Signore degli Anelli, Il - Il Ritorno del Re (Italy) (Disc 1) (Disco d'Installazione).bin" size="753030432" crc="c43952f6" md5="31616fa94eaaaa042bb8f0886f9915fb" sha1="f79903e93ab6b42df1c46b7e67421f45407c9ee0"/>
+		<rom name="Signore degli Anelli, Il - Il Ritorno del Re (Italy) (Disc 1) (Disco d'Installazione).cue" size="151" crc="6c6a9737" md5="a9f133df7c83cc141a3f0e1eecb47f5e" sha1="ffa01982d6bf46bd31e8f7b74b8eba8269bfa775"/>
 	</game>
-	<game name="Signore degli Anelli, Il - Il ritorno del Re (Italy) (Disc 2) (Disco d'Installazione)">
+	<game name="Signore degli Anelli, Il - Il Ritorno del Re (Italy) (Disc 2) (Disco d'Installazione)">
 		<category>Games</category>
-		<description>Signore degli Anelli, Il - Il ritorno del Re (Italy) (Disc 2) (Disco d'Installazione)</description>
-		<rom name="Signore degli Anelli, Il - Il ritorno del Re (Italy) (Disc 2) (Disco d'Installazione).bin" size="760895520" crc="382f2bcf" md5="82f475ada2633d02e9b3cf8ac922d1a9" sha1="2769abadd65f2f3cffa4160437e547af8af96a45"/>
-		<rom name="Signore degli Anelli, Il - Il ritorno del Re (Italy) (Disc 2) (Disco d'Installazione).cue" size="151" crc="170722a5" md5="32955cb5e8cd1ce3a0f0e5e62bc46154" sha1="f8d022894390070c12b070ca47f2b55a01f746ca"/>
+		<description>Signore degli Anelli, Il - Il Ritorno del Re (Italy) (Disc 2) (Disco d'Installazione)</description>
+		<rom name="Signore degli Anelli, Il - Il Ritorno del Re (Italy) (Disc 2) (Disco d'Installazione).bin" size="760895520" crc="382f2bcf" md5="82f475ada2633d02e9b3cf8ac922d1a9" sha1="2769abadd65f2f3cffa4160437e547af8af96a45"/>
+		<rom name="Signore degli Anelli, Il - Il Ritorno del Re (Italy) (Disc 2) (Disco d'Installazione).cue" size="151" crc="18c7c7c8" md5="ac821523f1d7365d2732c204703288d5" sha1="07355b354900ccb0f576c1e96ba24b9045f7b618"/>
 	</game>
-	<game name="Signore degli Anelli, Il - Il ritorno del Re (Italy) (Disc 3) (Disco di Gioco)">
+	<game name="Signore degli Anelli, Il - Il Ritorno del Re (Italy) (Disc 3) (Disco di Gioco)">
 		<category>Games</category>
-		<description>Signore degli Anelli, Il - Il ritorno del Re (Italy) (Disc 3) (Disco di Gioco)</description>
-		<rom name="Signore degli Anelli, Il - Il ritorno del Re (Italy) (Disc 3) (Disco di Gioco).bin" size="651228816" crc="87bbf691" md5="f6a490600cd9e7a1bae0a44f0de2c93a" sha1="c5cb21c67865c2e781c4457b1150e61bece3a520"/>
-		<rom name="Signore degli Anelli, Il - Il ritorno del Re (Italy) (Disc 3) (Disco di Gioco).cue" size="144" crc="be27625c" md5="d4afc69734012872e553170670e1fa83" sha1="d55c127870ec44a0b7a4fe688bc2416ad1085f35"/>
+		<description>Signore degli Anelli, Il - Il Ritorno del Re (Italy) (Disc 3) (Disco di Gioco)</description>
+		<rom name="Signore degli Anelli, Il - Il Ritorno del Re (Italy) (Disc 3) (Disco di Gioco).bin" size="651228816" crc="87bbf691" md5="f6a490600cd9e7a1bae0a44f0de2c93a" sha1="c5cb21c67865c2e781c4457b1150e61bece3a520"/>
+		<rom name="Signore degli Anelli, Il - Il Ritorno del Re (Italy) (Disc 3) (Disco di Gioco).cue" size="144" crc="c038028b" md5="3f4a85b32cccc99628d3bbc66522b11b" sha1="2a801a63fe449f7b2760484360e09888067bb362"/>
 	</game>
 	<game name="Signore degli Anelli, Il - La Compagnia dell'Anello (Italy)">
 		<category>Games</category>
@@ -146513,6 +146549,12 @@
 		<description>Speccy Classix '98 (UK)</description>
 		<rom name="Speccy Classix '98 (UK).bin" size="720217680" crc="e17fce4c" md5="9d48e657df31cd5d9aef506d2bf68027" sha1="c4554fe11015b14218517305ff69c5b6cdfbaa68"/>
 		<rom name="Speccy Classix '98 (UK).cue" size="89" crc="3661fdd8" md5="0d2533e3fdb3ce3a5f449fabfe1fe5e7" sha1="7b8e532c2470ab79d872daed1e1bfb37dde05b93"/>
+	</game>
+	<game name="Special Disk Tryset Mix 12 (Japan)">
+		<category>Bonus Discs</category>
+		<description>Special Disk Tryset Mix 12 (Japan)</description>
+		<rom name="Special Disk Tryset Mix 12 (Japan).bin" size="768311376" crc="5bec20e1" md5="3bfdb0c50e4abd33bb2e0a5ea58b9a45" sha1="d4b2707fe1a495c0db3bae71184bfd5934e09bc3"/>
+		<rom name="Special Disk Tryset Mix 12 (Japan).cue" size="100" crc="df60e690" md5="949da6ac77f2f294f1c4cda529b1146c" sha1="e0e024c55582a42a77f8b185397677752a171565"/>
 	</game>
 	<game name="Special Edition 4 Pack - Volume One (Europe)">
 		<category>Games</category>
@@ -156566,6 +156608,12 @@
 		<description>Tianwang - Wo Shi Gudu De Yongzhe (China) (Disc B)</description>
 		<rom name="Tianwang - Wo Shi Gudu De Yongzhe (China) (Disc B).bin" size="624192576" crc="5de29b18" md5="576cbe68d904aeb4886bbeb0fbf28ff0" sha1="10c0b02311fbcf03452b3a2336a8e03c235e71f6"/>
 		<rom name="Tianwang - Wo Shi Gudu De Yongzhe (China) (Disc B).cue" size="116" crc="0def2f58" md5="e6277fa870147d1dbe291e49b672a430" sha1="452189ad24f1073203104b9883577f0861908397"/>
+	</game>
+	<game name="Tiara Voice Disc - Doki Doki Mafu Mafu Ohimechama 4-koma (Japan)">
+		<category>Bonus Discs</category>
+		<description>Tiara Voice Disc - Doki Doki Mafu Mafu Ohimechama 4-koma (Japan)</description>
+		<rom name="Tiara Voice Disc - Doki Doki Mafu Mafu Ohimechama 4-koma (Japan).bin" size="142735824" crc="68ebe3b1" md5="0a8f038228e40ae8795826088f1415e1" sha1="ea7a841eea04658044b2d1245def4f00ae2228d0"/>
+		<rom name="Tiara Voice Disc - Doki Doki Mafu Mafu Ohimechama 4-koma (Japan).cue" size="130" crc="018a64e3" md5="acfb5ce297e97bdede2711d9a3b03842" sha1="fec691cdae9141a47b985f8bfdd5d03ebe33b33b"/>
 	</game>
 	<game name="Tides of War (USA) (Disc 1)">
 		<category>Games</category>
@@ -173221,6 +173269,12 @@
 		<rom name="Words of Ibis (Japan).bin" size="97257552" crc="4e59d6d6" md5="4c2a05fbc1bac0fbb75fc933770027ef" sha1="b0dfdbe235338e3dffe01157e0770b5cd038089a"/>
 		<rom name="Words of Ibis (Japan).cue" size="87" crc="d91e39ca" md5="b68af0a48d44cde751024bd40245f71f" sha1="3b0ea2db25cd8b06ae303d1025f2659767a31830"/>
 	</game>
+	<game name="Wordshark 3s (UK)">
+		<category>Games</category>
+		<description>Wordshark 3s (UK)</description>
+		<rom name="Wordshark 3s (UK).bin" size="789239472" crc="ddb71aa9" md5="b483530e32490b62b4101d508131fddb" sha1="08cfa4a13a4281a31093f28c6a6fbefa5684e6e7"/>
+		<rom name="Wordshark 3s (UK).cue" size="83" crc="081c3bab" md5="b516da5c7ac0962e1b347f0478a620bf" sha1="47bdf8b087361070d52a530e20932bb257a59f1a"/>
+	</game>
 	<game name="Wordshark 4 (UK)">
 		<category>Games</category>
 		<description>Wordshark 4 (UK)</description>
@@ -174450,11 +174504,11 @@
 		<rom name="X-COM - Interceptor (USA) (Track 5).bin" size="33565392" crc="0bb5c5b6" md5="33722d927e803e5f436d2e8b3be9f5d5" sha1="c3e2431452fa078f92c3a0a6871ca5498fb0ebc3"/>
 		<rom name="X-COM - Interceptor (USA).cue" size="508" crc="4a49b50d" md5="653fbf35ff908e32bd083f68aaef9c2b" sha1="667f4f7dd323f3cf68f350ad199173eed223fd3d"/>
 	</game>
-	<game name="X-COM - Terror from the Deep (USA) (En,Fr,De,Es)">
+	<game name="X-COM - Terror from the Deep (USA) (En,Fr,De,Es) (Rev 1)">
 		<category>Games</category>
-		<description>X-COM - Terror from the Deep (USA) (En,Fr,De,Es)</description>
-		<rom name="X-COM - Terror from the Deep (USA) (En,Fr,De,Es).bin" size="81894288" crc="ad2fc02a" md5="4b9f3d7d2c686f6b70b08197f736434a" sha1="80572e89fbe39b634abd0134751b3a832c04e6bf"/>
-		<rom name="X-COM - Terror from the Deep (USA) (En,Fr,De,Es).cue" size="137" crc="ec184d6f" md5="e487930742cdd00ae9d99d24aeeae848" sha1="ea9842c73eaf5c32f398312bd06e978588c698cc"/>
+		<description>X-COM - Terror from the Deep (USA) (En,Fr,De,Es) (Rev 1)</description>
+		<rom name="X-COM - Terror from the Deep (USA) (En,Fr,De,Es) (Rev 1).bin" size="101491152" crc="050d5147" md5="cb45e4d592fc6cb71504e4d72a6b6729" sha1="1b0f68919ed159d668e0f5070544410d57fd4344"/>
+		<rom name="X-COM - Terror from the Deep (USA) (En,Fr,De,Es) (Rev 1).cue" size="122" crc="82e7aec7" md5="d13e384efd4396568a08ab8526d7f652" sha1="f8d1a4c0cf5b1f1073737bf70e0bce618ba69917"/>
 	</game>
 	<game name="X-COM - UFO Defense (USA) (En,Fr,De)">
 		<category>Games</category>

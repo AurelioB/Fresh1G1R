@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation (Retool)</name>
-		<description>Sony - PlayStation (5,664) (-y) [-aAbBcefkmMoprv] (2026-03-15 23-18-54) (Retool)</description>
-		<version>2026-03-15 23-18-54</version>
-		<date>2026-03-20 03-12-29</date>
+		<description>Sony - PlayStation (5,664) (-y) [-aAbBcefkmMoprv] (2026-03-20 23-44-41) (Retool)</description>
+		<version>2026-03-20 23-44-41</version>
+		<date>2026-03-22 03-16-44</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -733,12 +733,12 @@
 		<rom name="Adidas Power Soccer International '97 (Europe) (En,Fr,De,Es,It,Nl) (Track 2).bin" size="51692256" crc="36103c24" md5="82cfb5115bd9d403f195596efb54cc23" sha1="89fceebbb307514d08875b5b7b3aaa7d79c2d9bd"/>
 		<rom name="Adidas Power Soccer International '97 (Europe) (En,Fr,De,Es,It,Nl).cue" size="302" crc="97809bc2" md5="ed8700cd91cfb12ad2d6120e54ee70e0" sha1="d65a973b1de5e0d61130edfa480ac1dbde33ed61"/>
 	</game>
-	<game name="Adlib Ouji - ...to Fuyukai na Nakama-tachi! (Japan)">
+	<game name="Adlib Ouji - ...to Fuyukai na Nakamatachi! (Japan)">
 		<category>Games</category>
-		<description>Adlib Ouji - ...to Fuyukai na Nakama-tachi! (Japan)</description>
-		<rom name="Adlib Ouji - ...to Fuyukai na Nakama-tachi! (Japan) (Track 1).bin" size="47183472" crc="f165ebff" md5="c102986f515735f9fc7ab52cfc69c678" sha1="e9d875611100a4a8bc7f0c29862060cc5581b937"/>
-		<rom name="Adlib Ouji - ...to Fuyukai na Nakama-tachi! (Japan) (Track 2).bin" size="32285904" crc="8c56b34d" md5="a4bd70e3301adddbf17d3af9fe9b9c5b" sha1="dd9f4ec6a09224c78fd01da5b37954762a2a9e70"/>
-		<rom name="Adlib Ouji - ...to Fuyukai na Nakama-tachi! (Japan).cue" size="272" crc="e528cd2a" md5="5e48a3ac57e3830180df88a623c0e067" sha1="6087ba1db28d939e6d913d69f50f313d19d9ba7e"/>
+		<description>Adlib Ouji - ...to Fuyukai na Nakamatachi! (Japan)</description>
+		<rom name="Adlib Ouji - ...to Fuyukai na Nakamatachi! (Japan) (Track 1).bin" size="47183472" crc="f165ebff" md5="c102986f515735f9fc7ab52cfc69c678" sha1="e9d875611100a4a8bc7f0c29862060cc5581b937"/>
+		<rom name="Adlib Ouji - ...to Fuyukai na Nakamatachi! (Japan) (Track 2).bin" size="32285904" crc="8c56b34d" md5="a4bd70e3301adddbf17d3af9fe9b9c5b" sha1="dd9f4ec6a09224c78fd01da5b37954762a2a9e70"/>
+		<rom name="Adlib Ouji - ...to Fuyukai na Nakamatachi! (Japan).cue" size="270" crc="2494d8c8" md5="2fd2afb90a25dbc0c850cf6fb9364b89" sha1="c320564f10568f7078389c77b7add0510cc4f782"/>
 	</game>
 	<game name="Advan Racing (Japan)">
 		<category>Games</category>
@@ -1907,11 +1907,11 @@
 		<rom name="Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan) (Track 2).bin" size="37810752" crc="40e86050" md5="61239a3dc22088a08f2d320918ac11a1" sha1="7c8508996d34d2a39fd75a8fab58e2c9b766b09b"/>
 		<rom name="Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan).cue" size="276" crc="6d270704" md5="c6e56d26a8a333f0563ec5d769a25264" sha1="58ffd07a792ba9b6c062a5d82693fd3483fcd897"/>
 	</game>
-	<game name="Aozora to Nakama-tachi - Yume no Bouken Plus (Japan)">
+	<game name="Aozora to Nakamatachi - Yume no Bouken Plus (Japan)">
 		<category>Games</category>
-		<description>Aozora to Nakama-tachi - Yume no Bouken Plus (Japan)</description>
-		<rom name="Aozora to Nakama-tachi - Yume no Bouken Plus (Japan).bin" size="364266000" crc="278c3a84" md5="723727d8190b479bdb514e76cf8deda6" sha1="ffde7ba73094e32827010ea9c59cb14b7c81e7cf"/>
-		<rom name="Aozora to Nakama-tachi - Yume no Bouken Plus (Japan).cue" size="118" crc="d61d521f" md5="8b4689ede7c7444c399b14dc4a3ec8b5" sha1="cd1d43cadaaba575aa71b60ebb0b00ebbabca85f"/>
+		<description>Aozora to Nakamatachi - Yume no Bouken Plus (Japan)</description>
+		<rom name="Aozora to Nakamatachi - Yume no Bouken Plus (Japan).bin" size="364266000" crc="278c3a84" md5="723727d8190b479bdb514e76cf8deda6" sha1="ffde7ba73094e32827010ea9c59cb14b7c81e7cf"/>
+		<rom name="Aozora to Nakamatachi - Yume no Bouken Plus (Japan).cue" size="117" crc="f8ed0b4d" md5="55777bd619a1588013ca12932b8f3aaf" sha1="84863abf8dfe2774ec9a84d162ef290d2f1cbd5f"/>
 	</game>
 	<game name="Ape Escape (USA)">
 		<category>Games</category>
@@ -10783,11 +10783,11 @@
 		<rom name="Dragon Quest IV - Michibikareshi Mono-tachi (Japan).bin" size="368057424" crc="3d67c858" md5="f3d566cce1ae08a9ffa4699efdf1590e" sha1="85064625afa12219880fc8d07047a3cc1c595cb9"/>
 		<rom name="Dragon Quest IV - Michibikareshi Mono-tachi (Japan).cue" size="117" crc="2f6bf359" md5="c6b1d294b26a5f76f50d72d503134892" sha1="4cf68c6aa9989f3e16649c63d174c06210edae24"/>
 	</game>
-	<game name="Dragon Quest Monsters 1 &amp; 2 - Hoshifuri no Yuusha to Bokujou no Nakama-tachi (Japan)">
+	<game name="Dragon Quest Monsters 1 &amp; 2 - Hoshifuri no Yuusha to Bokujou no Nakamatachi (Japan)">
 		<category>Games</category>
-		<description>Dragon Quest Monsters 1 &amp; 2 - Hoshifuri no Yuusha to Bokujou no Nakama-tachi (Japan)</description>
-		<rom name="Dragon Quest Monsters 1 &amp; 2 - Hoshifuri no Yuusha to Bokujou no Nakama-tachi (Japan).bin" size="260975568" crc="aced2a81" md5="bbfe2d982557401536874c856b555ad0" sha1="433ee5ace196f509a1a1fb1992cd621124e57c3a"/>
-		<rom name="Dragon Quest Monsters 1 &amp; 2 - Hoshifuri no Yuusha to Bokujou no Nakama-tachi (Japan).cue" size="150" crc="c5ca5be5" md5="61a604e4a393764192bef437d6d607bf" sha1="3a39ed4fae1aed164bb5673f3964ed8dd134c3a2"/>
+		<description>Dragon Quest Monsters 1 &amp; 2 - Hoshifuri no Yuusha to Bokujou no Nakamatachi (Japan)</description>
+		<rom name="Dragon Quest Monsters 1 &amp; 2 - Hoshifuri no Yuusha to Bokujou no Nakamatachi (Japan).bin" size="260975568" crc="aced2a81" md5="bbfe2d982557401536874c856b555ad0" sha1="433ee5ace196f509a1a1fb1992cd621124e57c3a"/>
+		<rom name="Dragon Quest Monsters 1 &amp; 2 - Hoshifuri no Yuusha to Bokujou no Nakamatachi (Japan).cue" size="149" crc="df02f8d3" md5="e418a9e33ee339f59ce062c12ee59295" sha1="9c9b76e3d2db5a8c61e504abed3d58b76bf773b4"/>
 	</game>
 	<game name="Dragon Seeds (USA)">
 		<category>Games</category>
@@ -22145,11 +22145,11 @@
 		<rom name="Kids Station - Kamen Rider Heroes (Japan) (Controller Set).bin" size="289902816" crc="36ace2d0" md5="f9791ba697afa6b8241828b171bd88da" sha1="ca5f04926315b50f3c0946b3df7d4f25ec183df5"/>
 		<rom name="Kids Station - Kamen Rider Heroes (Japan) (Controller Set).cue" size="124" crc="135e1039" md5="ad8473a1fe0e18f473095657f5cd5271" sha1="736f413414fd8e9c327386aef7efd09f292d60a3"/>
 	</game>
-	<game name="Kids Station - Kikansha Thomas to Nakama-tachi (Japan) (Controller Set)">
+	<game name="Kids Station - Kikansha Thomas to Nakamatachi (Japan) (Controller Set)">
 		<category>Games</category>
-		<description>Kids Station - Kikansha Thomas to Nakama-tachi (Japan) (Controller Set)</description>
-		<rom name="Kids Station - Kikansha Thomas to Nakama-tachi (Japan) (Controller Set).bin" size="155594208" crc="711b389d" md5="f06dbb39bef1320a4e4ec01c14b5a344" sha1="3a1299492f72acd6ad90266f1050373f6a208990"/>
-		<rom name="Kids Station - Kikansha Thomas to Nakama-tachi (Japan) (Controller Set).cue" size="137" crc="8d7c1d0e" md5="4347da7d3e24ac1265caa369be9493ee" sha1="a958b788b596572bf05e2987b320780a9e09f287"/>
+		<description>Kids Station - Kikansha Thomas to Nakamatachi (Japan) (Controller Set)</description>
+		<rom name="Kids Station - Kikansha Thomas to Nakamatachi (Japan) (Controller Set).bin" size="155594208" crc="711b389d" md5="f06dbb39bef1320a4e4ec01c14b5a344" sha1="3a1299492f72acd6ad90266f1050373f6a208990"/>
+		<rom name="Kids Station - Kikansha Thomas to Nakamatachi (Japan) (Controller Set).cue" size="136" crc="3ce991f3" md5="77dd973e545944dc51765f198855fc8a" sha1="dc219c4f8f5a182070036e0e3ed3baf7b6f4ee82"/>
 	</game>
 	<game name="Kids Station - Kuma no Pooh-san - Mori no Nakama to 1, 2, 3 (Japan) (Controller Set)">
 		<category>Games</category>
@@ -22169,11 +22169,11 @@
 		<rom name="Kids Station - Magical Music - Eigo de One, Two, Three! (Japan) (En,Ja).bin" size="584180352" crc="a33c05bc" md5="5c0142614d8561f6a4d2afb4e83cbee9" sha1="47c8c637a0694e8bdb0e1c5b92c084183e0aa732"/>
 		<rom name="Kids Station - Magical Music - Eigo de One, Two, Three! (Japan) (En,Ja).cue" size="137" crc="ccd530f8" md5="9146d108f33afbc80c67c34b4ff4e957" sha1="67dd485cec4fa6d7f54c218282b09211cbaa5496"/>
 	</game>
-	<game name="Kids Station - Mickey to Nakama-tachi - Kazu Asobi Iro Iro (Japan) (Controller Set)">
+	<game name="Kids Station - Mickey to Nakamatachi - Kazu Asobi Iro Iro (Japan) (Controller Set)">
 		<category>Games</category>
-		<description>Kids Station - Mickey to Nakama-tachi - Kazu Asobi Iro Iro (Japan) (Controller Set)</description>
-		<rom name="Kids Station - Mickey to Nakama-tachi - Kazu Asobi Iro Iro (Japan) (Controller Set).bin" size="148451184" crc="0e1785cb" md5="59e15fa09db4b1bb80b3fac9ae8ba51d" sha1="bd0c550b7f58166a70506d3f87e020a82f7a097e"/>
-		<rom name="Kids Station - Mickey to Nakama-tachi - Kazu Asobi Iro Iro (Japan) (Controller Set).cue" size="149" crc="627c9aa8" md5="1d4a3e248fa7506e520a3663e39b7909" sha1="f8215ec5c24262fb9c3c4a2aeb1485e524522fe5"/>
+		<description>Kids Station - Mickey to Nakamatachi - Kazu Asobi Iro Iro (Japan) (Controller Set)</description>
+		<rom name="Kids Station - Mickey to Nakamatachi - Kazu Asobi Iro Iro (Japan) (Controller Set).bin" size="148451184" crc="0e1785cb" md5="59e15fa09db4b1bb80b3fac9ae8ba51d" sha1="bd0c550b7f58166a70506d3f87e020a82f7a097e"/>
+		<rom name="Kids Station - Mickey to Nakamatachi - Kazu Asobi Iro Iro (Japan) (Controller Set).cue" size="148" crc="347b50f4" md5="f646997cb45bbf1a3131ae75e63486c0" sha1="1d836f92ad89f050ec76ab006c6f07712419940d"/>
 	</game>
 	<game name="Kids Station - Mini-Moni. ni Naru no da Pyon! (Japan) (Controller Set)">
 		<category>Games</category>
@@ -22199,11 +22199,11 @@
 		<rom name="Kids Station - Oja Majo DoReMi Dokkan! Maho-dou Eigo Festival (Japan) (Controller Set).bin" size="310376976" crc="fb56f2a6" md5="ba47624e798e4e6a36adeeb9325704b3" sha1="7952c5e8161695fd8ded43495661e73cbc89d7e2"/>
 		<rom name="Kids Station - Oja Majo DoReMi Dokkan! Maho-dou Eigo Festival (Japan) (Controller Set).cue" size="152" crc="623f7406" md5="60a3a9cdf30ff2f914fea61d513952fb" sha1="89e6b7c6786979964dd5a6f1c728b2e0ec7568d5"/>
 	</game>
-	<game name="Kids Station - Oshaberi Oekaki - Kikansha Thomas to Nakama-tachi (Japan) (Controller Set)">
+	<game name="Kids Station - Oshaberi Oekaki - Kikansha Thomas to Nakamatachi (Japan) (Controller Set)">
 		<category>Games</category>
-		<description>Kids Station - Oshaberi Oekaki - Kikansha Thomas to Nakama-tachi (Japan) (Controller Set)</description>
-		<rom name="Kids Station - Oshaberi Oekaki - Kikansha Thomas to Nakama-tachi (Japan) (Controller Set).bin" size="211552992" crc="68ca2fd1" md5="21512ae0d52ef2f4c5a2d3dd7d2f92e5" sha1="e5d71c381ad0493bfa5f0fab8f1db197d94f734c"/>
-		<rom name="Kids Station - Oshaberi Oekaki - Kikansha Thomas to Nakama-tachi (Japan) (Controller Set).cue" size="155" crc="5903eb5b" md5="184e27f5bbca6951893adb88e768b374" sha1="14dedb1f9fc3469c62cf5c3c1a50ebe66f4d7305"/>
+		<description>Kids Station - Oshaberi Oekaki - Kikansha Thomas to Nakamatachi (Japan) (Controller Set)</description>
+		<rom name="Kids Station - Oshaberi Oekaki - Kikansha Thomas to Nakamatachi (Japan) (Controller Set).bin" size="211552992" crc="68ca2fd1" md5="21512ae0d52ef2f4c5a2d3dd7d2f92e5" sha1="e5d71c381ad0493bfa5f0fab8f1db197d94f734c"/>
+		<rom name="Kids Station - Oshaberi Oekaki - Kikansha Thomas to Nakamatachi (Japan) (Controller Set).cue" size="154" crc="f82f2690" md5="5f49fc960f41c99fbf472162da1a7ea0" sha1="61c2bb3b7559309f688a527e3fae91f965594962"/>
 	</game>
 	<game name="Kids Station - Oshaberi Oekaki - Soreike! Anpanman (Japan) (Controller Set)">
 		<category>Games</category>
@@ -40312,11 +40312,11 @@
 		<rom name="Shin Sedai Robot Senki - Brave Saga (Japan).bin" size="685528032" crc="0aa0adc4" md5="17c48c1475fc2151699b31bdc2376b7f" sha1="b3ee1defa1c3369c399048d6cf3028f5d8454410"/>
 		<rom name="Shin Sedai Robot Senki - Brave Saga (Japan).cue" size="109" crc="c7039d7e" md5="7763be151ecc620d735448a864743ed8" sha1="0f63d947d102d7c134768d92da1932800ffbc08e"/>
 	</game>
-	<game name="Shin Seiki Evangelion - Eva to Yukai na Nakama-tachi (Japan)">
+	<game name="Shin Seiki Evangelion - Eva to Yukai na Nakamatachi (Japan)">
 		<category>Games</category>
-		<description>Shin Seiki Evangelion - Eva to Yukai na Nakama-tachi (Japan)</description>
-		<rom name="Shin Seiki Evangelion - Eva to Yukai na Nakama-tachi (Japan).bin" size="241352832" crc="17bd4dfd" md5="2359f0d26eff8a503d17efb682ef0b17" sha1="b124519dd547cc2007d5b788b12d83eb3566fd4a"/>
-		<rom name="Shin Seiki Evangelion - Eva to Yukai na Nakama-tachi (Japan).cue" size="126" crc="65059e18" md5="95264d562ddde160514c6105d0edded8" sha1="cabcddba29238f6181f1799068488b3d9c034fdc"/>
+		<description>Shin Seiki Evangelion - Eva to Yukai na Nakamatachi (Japan)</description>
+		<rom name="Shin Seiki Evangelion - Eva to Yukai na Nakamatachi (Japan).bin" size="241352832" crc="17bd4dfd" md5="2359f0d26eff8a503d17efb682ef0b17" sha1="b124519dd547cc2007d5b788b12d83eb3566fd4a"/>
+		<rom name="Shin Seiki Evangelion - Eva to Yukai na Nakamatachi (Japan).cue" size="125" crc="1a257d33" md5="738b7fd8a0bb647ab6dbbff64b1c65d3" sha1="0a182d870b9e997afb2948ba79d407746797df9f"/>
 	</game>
 	<game name="Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc 1)">
 		<category>Games</category>
