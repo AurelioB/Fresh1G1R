@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (12,932) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-22 01-23-01) (Retool)</description>
-		<version>2026-03-22 01-23-01</version>
-		<date>2026-03-22 03-22-28</date>
+		<description>IBM - PC compatible (12,935) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-23 02-40-17) (Retool)</description>
+		<version>2026-03-23 02-40-17</version>
+		<date>2026-03-23 03-23-07</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -27767,23 +27767,35 @@
 		<description>Fantasy Wars (Australia)</description>
 		<rom name="Fantasy Wars (Australia).iso" size="1371832320" crc="fdaaccd3" md5="1dd330a4f1f524bd8852d2f29b4f6f9c" sha1="43f6b876186833a36ac6eea24a77296d010e380a"/>
 	</game>
-	<game name="Far Cry (USA) (Disc 1) (OEM)">
+	<game name="Far Cry (USA) (Disc 1) (OEM) (Rev 1)">
 		<category>Games</category>
-		<description>Far Cry (USA) (Disc 1) (OEM)</description>
-		<rom name="Far Cry (USA) (Disc 1) (OEM).bin" size="722405040" crc="f1174b44" md5="bc7be45d153cf72e07dc128a3eef1c81" sha1="40f8499703b1b32dbb010b0d54d3b466e2cb138d"/>
-		<rom name="Far Cry (USA) (Disc 1) (OEM).cue" size="94" crc="d2bf8d9f" md5="094b7f3b286ab713aaf15a4b4a33d9b9" sha1="e57534c965547fe6d45e7965116e6ebbc52f905c"/>
+		<description>Far Cry (USA) (Disc 1) (OEM) (Rev 1)</description>
+		<rom name="Far Cry (USA) (Disc 1) (OEM) (Rev 1).bin" size="722405040" crc="f1174b44" md5="bc7be45d153cf72e07dc128a3eef1c81" sha1="40f8499703b1b32dbb010b0d54d3b466e2cb138d"/>
+		<rom name="Far Cry (USA) (Disc 1) (OEM) (Rev 1).cue" size="102" crc="00e28c6c" md5="9108d834c0035793abaef45a4f0732c5" sha1="9e8e85a75b28ad3fcd0066d9cf01251c8ad6f026"/>
 	</game>
-	<game name="Far Cry (USA) (Disc 2) (OEM)">
+	<game name="Far Cry (USA) (Disc 2) (Rerelease)">
 		<category>Games</category>
-		<description>Far Cry (USA) (Disc 2) (OEM)</description>
-		<rom name="Far Cry (USA) (Disc 2) (OEM).bin" size="679923216" crc="e86c53cc" md5="4f2879623b710b7e60803e710c1aebb2" sha1="8b6c4dc3fae3c83abc826566aaa037c8e1967697"/>
-		<rom name="Far Cry (USA) (Disc 2) (OEM).cue" size="94" crc="7df925f9" md5="f4a3e70f0319fec03e3e4c889033e0b8" sha1="978e48174eac9a7d6b3e0e280c8369f89bde3cb5"/>
+		<description>Far Cry (USA) (Disc 2) (Rerelease)</description>
+		<rom name="Far Cry (USA) (Disc 2) (Rerelease).bin" size="679217616" crc="701899ef" md5="e6ac1ba3fb51a5368b94b73253de6ac9" sha1="b7ebdccd3e9fff53cd3d1d7d9718bca718688011"/>
+		<rom name="Far Cry (USA) (Disc 2) (Rerelease).cue" size="100" crc="e19f3c74" md5="b6082bc6e80a6f609c46c646487283ba" sha1="42547e80dd65b300448ca86f8fa7f557f48703bd"/>
 	</game>
-	<game name="Far Cry (USA) (Disc 4) (OEM)">
+	<game name="Far Cry (USA) (Disc 3) (Rerelease)">
 		<category>Games</category>
-		<description>Far Cry (USA) (Disc 4) (OEM)</description>
-		<rom name="Far Cry (USA) (Disc 4) (OEM).bin" size="586073712" crc="1a4fbb9c" md5="486cb91e696541077407ea8372d102c0" sha1="2dd8d7e48e2c7c747346ea5b6debc63f79a5eb74"/>
-		<rom name="Far Cry (USA) (Disc 4) (OEM).cue" size="94" crc="f8057374" md5="e10026335446cd6b52ef61da21fc5666" sha1="58d9d76d903adf6930cea9215f74a19e1ba583c8"/>
+		<description>Far Cry (USA) (Disc 3) (Rerelease)</description>
+		<rom name="Far Cry (USA) (Disc 3) (Rerelease).bin" size="669421536" crc="3220f460" md5="d36c74d3825bd4b9ebebc4c2a9bdc006" sha1="b46e326c852ba87e0704e8f8765f1b91d4bfd584"/>
+		<rom name="Far Cry (USA) (Disc 3) (Rerelease).cue" size="100" crc="06d0dd2f" md5="1ba1216e04e288a06bd773717b0e942f" sha1="05c93ddc4e309fa4b59c39319e3e8bd3cc2bc8b9"/>
+	</game>
+	<game name="Far Cry (USA) (Disc 4) (Rerelease)">
+		<category>Games</category>
+		<description>Far Cry (USA) (Disc 4) (Rerelease)</description>
+		<rom name="Far Cry (USA) (Disc 4) (Rerelease).bin" size="585027072" crc="6a43da8d" md5="05bb561d356406f103c34e302e014078" sha1="fb1a5f05891051649d445c9f2dd7fd81441aa2e9"/>
+		<rom name="Far Cry (USA) (Disc 4) (Rerelease).cue" size="100" crc="dfac716d" md5="31b717ed72f29ea6089acef9c9606d94" sha1="30089dbece4e3fdc84134dca5eb69a6f33beb1b4"/>
+	</game>
+	<game name="Far Cry (USA) (Disc 5) (Rerelease)">
+		<category>Games</category>
+		<description>Far Cry (USA) (Disc 5) (Rerelease)</description>
+		<rom name="Far Cry (USA) (Disc 5) (Rerelease).bin" size="648999120" crc="d16e8645" md5="931a465fa044f980a3684c77734079a9" sha1="49f930fbbe20b2192501a56e748acb69b51e8ff5"/>
+		<rom name="Far Cry (USA) (Disc 5) (Rerelease).cue" size="100" crc="38e39036" md5="1333544e8e4fd9ac31037d54019651ed" sha1="a751e779c6ee6086c42c1c8f11a6b01de9c4360c"/>
 	</game>
 	<game name="Far Cry (USA) (En,Fr) (Rerelease)">
 		<category>Games</category>
@@ -85731,6 +85743,11 @@
 		<category>Games</category>
 		<description>Virtua Tennis 3 (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Virtua Tennis 3 (Europe) (En,Fr,De,Es,It).iso" size="2623963136" crc="420e2910" md5="e35ef747f5d749887ad28202a8192781" sha1="5601aeaf72640353fc02457a371126702195db39"/>
+	</game>
+	<game name="Virtua Tennis 4 (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Virtua Tennis 4 (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Virtua Tennis 4 (Europe) (En,Fr,De,Es,It).iso" size="2977103872" crc="93ce0ee5" md5="807475db93aa875a89013ab07b96bc5c" sha1="e123cb712afdfd043b22d892fff3fddf43ee2ff1"/>
 	</game>
 	<game name="Virtual Casino (USA) (Blackjack &amp; Craps)">
 		<category>Games</category>

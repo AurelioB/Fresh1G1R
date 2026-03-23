@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,772) (-y) [-aAbBcefkmMoprv] (2026-03-22 01-23-01) (Retool)</description>
-		<version>2026-03-22 01-23-01</version>
-		<date>2026-03-22 03-16-03</date>
+		<description>IBM - PC compatible (24,783) (-y) [-aAbBcefkmMoprv] (2026-03-23 02-40-17) (Retool)</description>
+		<version>2026-03-23 02-40-17</version>
+		<date>2026-03-23 03-16-45</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -22980,6 +22980,18 @@
 		<category>Games</category>
 		<description>Call of Duty - Infinite Warfare (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 6)</description>
 		<rom name="Call of Duty - Infinite Warfare (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 6).iso" size="8435957760" crc="9417a905" md5="d09a6351b1cffbea84e8739a3d48c7c0" sha1="f838b0e97c4a9ab195813d3745b8628f9c6de8c7"/>
+	</game>
+	<game name="Call of Duty - La Gran Ofensiva (Spain) (Disco 1)">
+		<category>Add-Ons</category>
+		<description>Call of Duty - La Gran Ofensiva (Spain) (Disco 1)</description>
+		<rom name="Call of Duty - La Gran Ofensiva (Spain) (Disco 1).bin" size="720784512" crc="4224c46f" md5="95a3ac81f01111a4c0692dfc93932ff7" sha1="7e73b9c922bb49871406d5e09d21f9939303ba18"/>
+		<rom name="Call of Duty - La Gran Ofensiva (Spain) (Disco 1).cue" size="115" crc="281185d2" md5="7c088d0bdfb5558f30f015e1b69e288e" sha1="7419ff191117e34281207dfa383f73e7241295fd"/>
+	</game>
+	<game name="Call of Duty - La Gran Ofensiva (Spain) (Disco 2)">
+		<category>Add-Ons</category>
+		<description>Call of Duty - La Gran Ofensiva (Spain) (Disco 2)</description>
+		<rom name="Call of Duty - La Gran Ofensiva (Spain) (Disco 2).bin" size="657844992" crc="0aff5de2" md5="c5777e0396b3c6269488ec9ea5d548b2" sha1="15e5290b535ebd6bdb2a769af042706bc41f142f"/>
+		<rom name="Call of Duty - La Gran Ofensiva (Spain) (Disco 2).cue" size="115" crc="294ca303" md5="77f7985a3c1a53c43f0444d003cceda1" sha1="c021f698affd204fddec050c7b8a6af6ba69a73a"/>
 	</game>
 	<game name="Call of Duty - La Grande Offensiva (Italy) (Disc 1)">
 		<category>Add-Ons</category>
@@ -51138,35 +51150,41 @@
 		<rom name="Far Cry (Poland) (Instalacja Dysk 5).bin" size="631039248" crc="34838539" md5="1aa466a9b32e618d7fe71b959a20c5d9" sha1="22cc4c0ed570b6bce8ef0556389ed463117064c1"/>
 		<rom name="Far Cry (Poland) (Instalacja Dysk 5).cue" size="102" crc="35bcab7b" md5="6d4b3c57403508bce1915cb0025ff5fc" sha1="3befc546778d3f341a00b4d03c1c0254bdc8f5a5"/>
 	</game>
-	<game name="Far Cry (Russia) (Disc 3)">
-		<category>Games</category>
-		<description>Far Cry (Russia) (Disc 3)</description>
-		<rom name="Far Cry (Russia) (Disc 3).bin" size="843377808" crc="74485250" md5="ea8a5b85dfe0cf6971a5fb69d3ffb0ce" sha1="88ea99fc0e5fcfb189d5157eed68c9d22f3690fa"/>
-		<rom name="Far Cry (Russia) (Disc 3).cue" size="91" crc="f426e725" md5="7b5fbb076db2e1e98323bfdecd8e3532" sha1="fe73a4d436433a772158b4ccdc0ea9a5fa2c1322"/>
-	</game>
 	<game name="Far Cry (USA) (Demo)">
 		<category>Demos</category>
 		<description>Far Cry (USA) (Demo)</description>
 		<rom name="Far Cry (USA) (Demo).bin" size="612192672" crc="2883da7f" md5="471b6e88eba5b5ca58e94e6d8f331e0c" sha1="a61d85f61ba4536ab750fa4e143d464af4d88dc6"/>
 		<rom name="Far Cry (USA) (Demo).cue" size="86" crc="3c1188fd" md5="08ccf6ebc70791458240ee20a8aa958b" sha1="f7b99666dd204274dcd9fc0e7b98b6f89183e9f8"/>
 	</game>
-	<game name="Far Cry (USA) (Disc 1) (OEM)">
+	<game name="Far Cry (USA) (Disc 1) (OEM) (Rev 1)">
 		<category>Games</category>
-		<description>Far Cry (USA) (Disc 1) (OEM)</description>
-		<rom name="Far Cry (USA) (Disc 1) (OEM).bin" size="722405040" crc="f1174b44" md5="bc7be45d153cf72e07dc128a3eef1c81" sha1="40f8499703b1b32dbb010b0d54d3b466e2cb138d"/>
-		<rom name="Far Cry (USA) (Disc 1) (OEM).cue" size="94" crc="d2bf8d9f" md5="094b7f3b286ab713aaf15a4b4a33d9b9" sha1="e57534c965547fe6d45e7965116e6ebbc52f905c"/>
+		<description>Far Cry (USA) (Disc 1) (OEM) (Rev 1)</description>
+		<rom name="Far Cry (USA) (Disc 1) (OEM) (Rev 1).bin" size="722405040" crc="f1174b44" md5="bc7be45d153cf72e07dc128a3eef1c81" sha1="40f8499703b1b32dbb010b0d54d3b466e2cb138d"/>
+		<rom name="Far Cry (USA) (Disc 1) (OEM) (Rev 1).cue" size="102" crc="00e28c6c" md5="9108d834c0035793abaef45a4f0732c5" sha1="9e8e85a75b28ad3fcd0066d9cf01251c8ad6f026"/>
 	</game>
-	<game name="Far Cry (USA) (Disc 2) (OEM)">
+	<game name="Far Cry (USA) (Disc 2) (Rerelease)">
 		<category>Games</category>
-		<description>Far Cry (USA) (Disc 2) (OEM)</description>
-		<rom name="Far Cry (USA) (Disc 2) (OEM).bin" size="679923216" crc="e86c53cc" md5="4f2879623b710b7e60803e710c1aebb2" sha1="8b6c4dc3fae3c83abc826566aaa037c8e1967697"/>
-		<rom name="Far Cry (USA) (Disc 2) (OEM).cue" size="94" crc="7df925f9" md5="f4a3e70f0319fec03e3e4c889033e0b8" sha1="978e48174eac9a7d6b3e0e280c8369f89bde3cb5"/>
+		<description>Far Cry (USA) (Disc 2) (Rerelease)</description>
+		<rom name="Far Cry (USA) (Disc 2) (Rerelease).bin" size="679217616" crc="701899ef" md5="e6ac1ba3fb51a5368b94b73253de6ac9" sha1="b7ebdccd3e9fff53cd3d1d7d9718bca718688011"/>
+		<rom name="Far Cry (USA) (Disc 2) (Rerelease).cue" size="100" crc="e19f3c74" md5="b6082bc6e80a6f609c46c646487283ba" sha1="42547e80dd65b300448ca86f8fa7f557f48703bd"/>
 	</game>
-	<game name="Far Cry (USA) (Disc 4) (OEM)">
+	<game name="Far Cry (USA) (Disc 3) (Rerelease)">
 		<category>Games</category>
-		<description>Far Cry (USA) (Disc 4) (OEM)</description>
-		<rom name="Far Cry (USA) (Disc 4) (OEM).bin" size="586073712" crc="1a4fbb9c" md5="486cb91e696541077407ea8372d102c0" sha1="2dd8d7e48e2c7c747346ea5b6debc63f79a5eb74"/>
-		<rom name="Far Cry (USA) (Disc 4) (OEM).cue" size="94" crc="f8057374" md5="e10026335446cd6b52ef61da21fc5666" sha1="58d9d76d903adf6930cea9215f74a19e1ba583c8"/>
+		<description>Far Cry (USA) (Disc 3) (Rerelease)</description>
+		<rom name="Far Cry (USA) (Disc 3) (Rerelease).bin" size="669421536" crc="3220f460" md5="d36c74d3825bd4b9ebebc4c2a9bdc006" sha1="b46e326c852ba87e0704e8f8765f1b91d4bfd584"/>
+		<rom name="Far Cry (USA) (Disc 3) (Rerelease).cue" size="100" crc="06d0dd2f" md5="1ba1216e04e288a06bd773717b0e942f" sha1="05c93ddc4e309fa4b59c39319e3e8bd3cc2bc8b9"/>
+	</game>
+	<game name="Far Cry (USA) (Disc 4) (Rerelease)">
+		<category>Games</category>
+		<description>Far Cry (USA) (Disc 4) (Rerelease)</description>
+		<rom name="Far Cry (USA) (Disc 4) (Rerelease).bin" size="585027072" crc="6a43da8d" md5="05bb561d356406f103c34e302e014078" sha1="fb1a5f05891051649d445c9f2dd7fd81441aa2e9"/>
+		<rom name="Far Cry (USA) (Disc 4) (Rerelease).cue" size="100" crc="dfac716d" md5="31b717ed72f29ea6089acef9c9606d94" sha1="30089dbece4e3fdc84134dca5eb69a6f33beb1b4"/>
+	</game>
+	<game name="Far Cry (USA) (Disc 5) (Rerelease)">
+		<category>Games</category>
+		<description>Far Cry (USA) (Disc 5) (Rerelease)</description>
+		<rom name="Far Cry (USA) (Disc 5) (Rerelease).bin" size="648999120" crc="d16e8645" md5="931a465fa044f980a3684c77734079a9" sha1="49f930fbbe20b2192501a56e748acb69b51e8ff5"/>
+		<rom name="Far Cry (USA) (Disc 5) (Rerelease).cue" size="100" crc="38e39036" md5="1333544e8e4fd9ac31037d54019651ed" sha1="a751e779c6ee6086c42c1c8f11a6b01de9c4360c"/>
 	</game>
 	<game name="Far Cry (USA) (En,Fr) (Rerelease)">
 		<category>Games</category>
@@ -59693,6 +59711,18 @@
 		<category>Games</category>
 		<description>Ginormous 10 Pack (USA)</description>
 		<rom name="Ginormous 10 Pack (USA).iso" size="1713143808" crc="376a69fa" md5="a05547cfc7c8599cc6608a4aa241d58b" sha1="6feb94773d1abcda3adcd13920f474802673e7af"/>
+	</game>
+	<game name="Gioca con gli Animali (Italy)">
+		<category>Games</category>
+		<description>Gioca con gli Animali (Italy)</description>
+		<rom name="Gioca con gli Animali (Italy).bin" size="27078576" crc="a5828099" md5="d68302c2ed37f3a04a4502cd75347252" sha1="964d9cc93083490e6f0973a83780433f49ad1f56"/>
+		<rom name="Gioca con gli Animali (Italy).cue" size="95" crc="aad57d34" md5="79d49564a00e37d960d62f572e55fa7d" sha1="63fecd31ac129e64163845afb57ca427272fda84"/>
+	</game>
+	<game name="Gioca con i Numeri (Italy)">
+		<category>Games</category>
+		<description>Gioca con i Numeri (Italy)</description>
+		<rom name="Gioca con i Numeri (Italy).bin" size="23084880" crc="15beb2a1" md5="4b4e4bc4bb46d68531c69be72bc73199" sha1="1c39affeb99d29ec5692080259f703d80bab8ecf"/>
+		<rom name="Gioca con i Numeri (Italy).cue" size="92" crc="7d195d15" md5="efce4c7181eb58b897d57f9fe356037c" sha1="50f37b2b7a6f8048e535238f1c2592496c0d95b1"/>
 	</game>
 	<game name="Gioca ed Esplora il Mondo Microsoft (Italy)">
 		<category>Demos</category>
@@ -104342,6 +104372,11 @@
 		<description>Neverwinter Nights 2 - Mask of the Betrayer (USA, Australia)</description>
 		<rom name="Neverwinter Nights 2 - Mask of the Betrayer (USA, Australia).iso" size="2085978112" crc="68fb9b42" md5="cb9831817bd23eb34b5abceb10580cde" sha1="bd9e0cbeb79d40189d1bac9fb26c2ef6d09d9457"/>
 	</game>
+	<game name="Neverwinter Nights 2 - Maska Zdrajcy (Poland)">
+		<category>Add-Ons</category>
+		<description>Neverwinter Nights 2 - Maska Zdrajcy (Poland)</description>
+		<rom name="Neverwinter Nights 2 - Maska Zdrajcy (Poland).iso" size="3105357824" crc="b1a0b69a" md5="bc3679d3841564186e235c1e01481d8a" sha1="9eee21ce1bfc292f138f992d9b8529995892c52d"/>
+	</game>
 	<game name="Neverwinter Nights 2 - Mysteries of Westgate (Russia)">
 		<category>Add-Ons</category>
 		<description>Neverwinter Nights 2 - Mysteries of Westgate (Russia)</description>
@@ -132740,6 +132775,12 @@
 		<rom name="Settlers II, The (Poland) (Rerelease) (Track 8).bin" size="31048752" crc="2e23f5cb" md5="37923507270afb6afdbb757b3265a0ea" sha1="62eb0de11e7983cf9d7b676d0ebaad6bef48fd23"/>
 		<rom name="Settlers II, The (Poland) (Rerelease).cue" size="1030" crc="4ce4e396" md5="a4481775e2c3a237e6eaef5cbeb48e9c" sha1="407046bf6188064574aca9527d6a165d8f99d700"/>
 	</game>
+	<game name="Settlers II, The - 10-lecie - Wikingowie (Poland)">
+		<category>Add-Ons</category>
+		<description>Settlers II, The - 10-lecie - Wikingowie (Poland)</description>
+		<rom name="Settlers II, The - 10-lecie - Wikingowie (Poland).bin" size="230975808" crc="5e5d2e51" md5="c7da157706812ccaf042aa9bbde4cc74" sha1="0e414e59fcc0b75771bb2831a05b2599c7fe99b7"/>
+		<rom name="Settlers II, The - 10-lecie - Wikingowie (Poland).cue" size="115" crc="0e18b099" md5="4f63e600a96a0776be618268864fb4d9" sha1="af43146d4fe858966d671761370dab2fd06cbb3a"/>
+	</game>
 	<game name="Settlers II, The - 10th Anniversary (Europe) (En,Fr,Es,It)">
 		<category>Games</category>
 		<description>Settlers II, The - 10th Anniversary (Europe) (En,Fr,Es,It)</description>
@@ -142549,6 +142590,11 @@
 		<description>SpellForce - Zakon Switu - Zlota Edycja (Poland)</description>
 		<rom name="SpellForce - Zakon Switu - Zlota Edycja (Poland).iso" size="4115202048" crc="248b9678" md5="286947dd121df908a2ac0061b93b37c1" sha1="9479073b7631fd02bbbb40ca1c39289a4c6a7edc"/>
 	</game>
+	<game name="SpellForce 2 - Czas Mrocznych Wojen (Poland)">
+		<category>Games</category>
+		<description>SpellForce 2 - Czas Mrocznych Wojen (Poland)</description>
+		<rom name="SpellForce 2 - Czas Mrocznych Wojen (Poland).iso" size="3702259712" crc="ec3d3f5f" md5="094e208f2c818219508bcbf28bf49410" sha1="c0e3ee37fa7d8de6dd62a29611deac70c8206959"/>
+	</game>
 	<game name="SpellForce 2 - Dragon Storm (Europe)">
 		<category>Games</category>
 		<description>SpellForce 2 - Dragon Storm (Europe)</description>
@@ -143332,6 +143378,12 @@
 		<description>Spycraft - The Great Game (USA) (Disc 3)</description>
 		<rom name="Spycraft - The Great Game (USA) (Disc 3).bin" size="666787296" crc="f8edd695" md5="6ff632416d07f6382faf051f485f1cb3" sha1="9014f312e81ed62aedc278e50407735276319011"/>
 		<rom name="Spycraft - The Great Game (USA) (Disc 3).cue" size="129" crc="342c27e5" md5="9704f22fb626d00506dd10c734bbd3c3" sha1="a6b2ac4a86d07b5fc3e3fb6007db5c5740aee56d"/>
+	</game>
+	<game name="Spycraft - The Great Game (USA) (Interactive Preview)">
+		<category>Demos</category>
+		<description>Spycraft - The Great Game (USA) (Interactive Preview)</description>
+		<rom name="Spycraft - The Great Game (USA) (Interactive Preview).bin" size="780515904" crc="f8762d22" md5="d2a6a0f3815e6e637d1e37b90ee9d96d" sha1="cf0eb3f469ea90ef36411a037a355ed3267633a5"/>
+		<rom name="Spycraft - The Great Game (USA) (Interactive Preview).cue" size="142" crc="ad4ec98d" md5="c3d99a9dd392beb095515cee8e1dac26" sha1="5371fa007aa428adf06289c77f0bbed6aadc6727"/>
 	</game>
 	<game name="Spycraft - The Great Game (USA, Europe) (Disc 2)">
 		<category>Games</category>
@@ -148215,6 +148267,11 @@
 		<category>Games</category>
 		<description>Supreme Commander - Forged Alliance (USA)</description>
 		<rom name="Supreme Commander - Forged Alliance (USA).iso" size="5501779968" crc="39cf975a" md5="8cb7e814d5e620c91ed0b0ef4a580711" sha1="10bbb27b7800e2b0cbbe14e75d03ae20f6665a59"/>
+	</game>
+	<game name="Supreme Commander - W obliczu Wroga (Poland)">
+		<category>Games</category>
+		<description>Supreme Commander - W obliczu Wroga (Poland)</description>
+		<rom name="Supreme Commander - W obliczu Wroga (Poland).iso" size="5665685504" crc="de7816aa" md5="8f0dda0a2199e7b8a6c42efb2e63eccb" sha1="3f57152aa0ee90376f7e8a40a25782de4cd1a715"/>
 	</game>
 	<game name="Supreme Commander 2 (USA, Canada) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -163371,6 +163428,11 @@
 		<category>Games</category>
 		<description>Virtua Tennis 3 (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Virtua Tennis 3 (Europe) (En,Fr,De,Es,It).iso" size="2623963136" crc="420e2910" md5="e35ef747f5d749887ad28202a8192781" sha1="5601aeaf72640353fc02457a371126702195db39"/>
+	</game>
+	<game name="Virtua Tennis 4 (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Virtua Tennis 4 (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Virtua Tennis 4 (Europe) (En,Fr,De,Es,It).iso" size="2977103872" crc="93ce0ee5" md5="807475db93aa875a89013ab07b96bc5c" sha1="e123cb712afdfd043b22d892fff3fddf43ee2ff1"/>
 	</game>
 	<game name="Virtual Casino (USA) (Blackjack &amp; Craps)">
 		<category>Games</category>
