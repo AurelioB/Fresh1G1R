@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,783) (-y) [-aAbBcefkmMoprv] (2026-03-23 02-40-17) (Retool)</description>
-		<version>2026-03-23 02-40-17</version>
-		<date>2026-03-23 03-16-45</date>
+		<description>IBM - PC compatible (24,793) (-y) [-aAbBcefkmMoprv] (2026-03-24 17-43-44) (Retool)</description>
+		<version>2026-03-24 17-43-44</version>
+		<date>2026-03-25 03-13-41</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -6455,10 +6455,10 @@
 		<description>Alice &amp; The Dollhouse in a Dream (Japan)</description>
 		<rom name="Alice &amp; The Dollhouse in a Dream (Japan).iso" size="429981696" crc="9ec75129" md5="9a6ed4922d64f7226f601d27321eaf81" sha1="6eb8eddb8b843b33fc1104c3c59ca36e936e88f1"/>
 	</game>
-	<game name="Alice - Madness Returns (USA, Asia) (En,Ja,Fr,De,Es,It)">
+	<game name="Alice - Madness Returns (USA, Japan) (En,Ja,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Alice - Madness Returns (USA, Asia) (En,Ja,Fr,De,Es,It)</description>
-		<rom name="Alice - Madness Returns (USA, Asia) (En,Ja,Fr,De,Es,It).iso" size="7679039488" crc="536ec0eb" md5="ee64ca0c3bdd2371d173ff77ab24c1d1" sha1="44c8a1239a740a8a7a53841d2d5c5288d05464d1"/>
+		<description>Alice - Madness Returns (USA, Japan) (En,Ja,Fr,De,Es,It)</description>
+		<rom name="Alice - Madness Returns (USA, Japan) (En,Ja,Fr,De,Es,It).iso" size="7679039488" crc="536ec0eb" md5="ee64ca0c3bdd2371d173ff77ab24c1d1" sha1="44c8a1239a740a8a7a53841d2d5c5288d05464d1"/>
 	</game>
 	<game name="Alice 2010 (Japan)">
 		<category>Games</category>
@@ -17555,6 +17555,12 @@
 		<rom name="Bicycle Casino (USA).bin" size="232031856" crc="6987f620" md5="092473404aefa288ae1239ffdfd86766" sha1="775410ee1098cb7b23efa1458a638c64f51f691e"/>
 		<rom name="Bicycle Casino (USA).cue" size="109" crc="63eb5004" md5="352cc362e8b80bd9d7dccbc52edad43f" sha1="55c1cbdf439da99754cbc89534d1e43a1584d63f"/>
 	</game>
+	<game name="Bicycle Casino (USA) (2001)">
+		<category>Games</category>
+		<description>Bicycle Casino (USA) (2001)</description>
+		<rom name="Bicycle Casino (USA) (2001).bin" size="688754976" crc="afa9c054" md5="003f40398b258549843b382ae3cf0d91" sha1="682ce729a5a51fb9bb534efd458ed187a25feee1"/>
+		<rom name="Bicycle Casino (USA) (2001).cue" size="93" crc="16b92cea" md5="b9c603f3936eb11fd630b5a244a62668" sha1="22636923b4d482709c5c32c465ef0b6a8edfbf90"/>
+	</game>
 	<game name="Bicycle Classics (USA)">
 		<category>Games</category>
 		<description>Bicycle Classics (USA)</description>
@@ -18082,10 +18088,10 @@
 		<rom name="Billy's Drumstel (Netherlands).bin" size="11075568" crc="76768055" md5="69b91b8d31e194cb57ec98d9609a178c" sha1="71457d0edfde8cfd8580de19530a6b3a64bcc815"/>
 		<rom name="Billy's Drumstel (Netherlands).cue" size="119" crc="bbac72b2" md5="6ce96b21bb72b6f92aaff74f3f670bbf" sha1="6ca56516ac3a3fce88234dd04d713b9918d7b820"/>
 	</game>
-	<game name="Binary Domain (Australia)">
+	<game name="Binary Domain (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Binary Domain (Australia)</description>
-		<rom name="Binary Domain (Australia).iso" size="6511951872" crc="64837a77" md5="ee3b168b7ed7b6ffe8bb64da34ce4a94" sha1="4bb21bacae2b3e79dc36221ad0133a2405e33fe9"/>
+		<description>Binary Domain (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Binary Domain (Europe) (En,Fr,De,Es,It).iso" size="6508118016" crc="5d0b988f" md5="a51ba2092569a671befab19e5c47d181" sha1="5fdadcc046d9cf38873234102e48350cd9c2320d"/>
 	</game>
 	<game name="Bingfeng Zhi Gu (Taiwan) (Disc 1)">
 		<category>Games</category>
@@ -57265,6 +57271,12 @@
 		<rom name="Galaxy of Games 10,000 (USA) (Disc 2).bin" size="822917760" crc="891bdaee" md5="49331410633cef37170bae3645042185" sha1="15bd2d8c2a724d808c08a447aa9f56b8b1b646d7"/>
 		<rom name="Galaxy of Games 10,000 (USA) (Disc 2).cue" size="103" crc="d620e2d4" md5="c0d4d48c16f9f92069344ad3ce4adf35" sha1="45c184e6272d3cf804df9f80114adc234c1874ef"/>
 	</game>
+	<game name="Galaxy of Games 1001 (USA) (Disc 1)">
+		<category>Games</category>
+		<description>Galaxy of Games 1001 (USA) (Disc 1)</description>
+		<rom name="Galaxy of Games 1001 (USA) (Disc 1).bin" size="809732448" crc="8c539a4e" md5="d9b073fa2f73217efae65ad73f298022" sha1="60000616ec33580cc8b550c81c0a31e4924678e4"/>
+		<rom name="Galaxy of Games 1001 (USA) (Disc 1).cue" size="101" crc="e9dc0ab6" md5="0873a4b9527275f1f3b1a9aa760700b7" sha1="8b1c87ffa0a0a13966bd10a34bdab80808a4a7e7"/>
+	</game>
 	<game name="Galaxy of Games 2 (USA)">
 		<category>Games</category>
 		<description>Galaxy of Games 2 (USA)</description>
@@ -59582,6 +59594,11 @@
 		<category>Games</category>
 		<description>Gilde 2, Die - Die Koenigsedition (Germany)</description>
 		<rom name="Gilde 2, Die - Die Koenigsedition (Germany).iso" size="3130818560" crc="4dcbc02d" md5="b6c150a53caa26a45b750dbf20ff01c4" sha1="70c667260163986a563402f8b7653583fafce401"/>
+	</game>
+	<game name="Gilde 2, Die - Die Seeraeuber der Hanse (Germany)">
+		<category>Add-Ons</category>
+		<description>Gilde 2, Die - Die Seeraeuber der Hanse (Germany)</description>
+		<rom name="Gilde 2, Die - Die Seeraeuber der Hanse (Germany).iso" size="1867186176" crc="bcfa0ea7" md5="440dd33cebbb77e07766ea0959edb2d2" sha1="5c2d75b9527862c100f19d4d337f35c8803530f4"/>
 	</game>
 	<game name="Gilde 2, Die - Gold Edition (Germany)">
 		<category>Games</category>
@@ -76600,6 +76617,11 @@
 		<description>John Woo Presents Stranglehold (USA) (Disc 2)</description>
 		<rom name="John Woo Presents Stranglehold (USA) (Disc 2).iso" size="6341689344" crc="959a1607" md5="8d312cf68ae0f5154fbbe62519ba2391" sha1="a46f031aabf4dcf102c4c7a03d5689e12ae14c57"/>
 	</game>
+	<game name="John Woo Prezentuje Stranglehold (Poland) (Disc 1) (Rerelease)">
+		<category>Games</category>
+		<description>John Woo Prezentuje Stranglehold (Poland) (Disc 1) (Rerelease)</description>
+		<rom name="John Woo Prezentuje Stranglehold (Poland) (Disc 1) (Rerelease).iso" size="7075463168" crc="9d980b0a" md5="689dbb661bb9e328e3cc9c9a4bdf73a6" sha1="2da27a3cc793ae4ee4cdbedffed8d418e02e9f95"/>
+	</game>
 	<game name="Johnny Bazookatone (Europe)">
 		<category>Games</category>
 		<description>Johnny Bazookatone (Europe)</description>
@@ -82283,6 +82305,12 @@
 		<description>Langrisser II (Japan)</description>
 		<rom name="Langrisser II (Japan).bin" size="779410464" crc="9a6d269b" md5="2908ccbcd356efdb4a5ef8aea133b504" sha1="d122edbba29dcb8bfa2a2294994c49ff28ee901d"/>
 		<rom name="Langrisser II (Japan).cue" size="87" crc="e0362d35" md5="e4a5151613a36488b211331afe0787ba" sha1="543cb6dcd3d9d8d060f42d2149659d91577227e4"/>
+	</game>
+	<game name="Laptop &amp; Travel Games (USA)">
+		<category>Games</category>
+		<description>Laptop &amp; Travel Games (USA)</description>
+		<rom name="Laptop &amp; Travel Games (USA).bin" size="707107632" crc="d50e8c56" md5="9ab97edc88fd904ec3bafbaad33b4792" sha1="dba6d1fa1999960167ccb05b75d69a3e0b7e7778"/>
+		<rom name="Laptop &amp; Travel Games (USA).cue" size="93" crc="0c4e93e6" md5="d9b587a1043a6fe06c80450a11be38b1" sha1="07fd08cd2c9e726594ffd1ac87cc7810efa32698"/>
 	</game>
 	<game name="Lara Croft Tomb Raider - Anniversary (USA) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -140293,6 +140321,12 @@
 		<rom name="Soccer Mania (USA).bin" size="537170928" crc="6817be4d" md5="ed9355ecb5560c3773e2844a90b6a6b7" sha1="88d3878f050adb3cbc26f989fdd7950c23204462"/>
 		<rom name="Soccer Mania (USA).cue" size="84" crc="277c3181" md5="70653475bf9b1831922e994645e010b4" sha1="70fafbff3627f0231b86bf3ec3eac8ae0d11e0bc"/>
 	</game>
+	<game name="Soccer Superstars (Spain) (En,Fr,De,Es,It,Nl,Pt,Pl) (Covermount)">
+		<category>Games</category>
+		<description>Soccer Superstars (Spain) (En,Fr,De,Es,It,Nl,Pt,Pl) (Covermount)</description>
+		<rom name="Soccer Superstars (Spain) (En,Fr,De,Es,It,Nl,Pt,Pl) (Covermount).bin" size="7747488" crc="2a5ee142" md5="1a8ddd5dcab672dd8333b6105021e5b7" sha1="20e1e87e5bad9406d28e642ce095a48e08501911"/>
+		<rom name="Soccer Superstars (Spain) (En,Fr,De,Es,It,Nl,Pt,Pl) (Covermount).cue" size="130" crc="ae65d695" md5="807125a6e4296b8aa248424caf7e47a3" sha1="eb63b279696c448d8693d08d6dce3e99a2f12316"/>
+	</game>
 	<game name="Soccer Team Manager (Scandinavia)">
 		<category>Games</category>
 		<description>Soccer Team Manager (Scandinavia)</description>
@@ -155543,6 +155577,11 @@
 		<rom name="Tony La Russa Baseball 4 1997 Edition (USA).bin" size="738440976" crc="7d3615aa" md5="644db182931586d46cacbc12b8555cc6" sha1="7f22aff922314a7744e600e46efab35c929259cf"/>
 		<rom name="Tony La Russa Baseball 4 1997 Edition (USA).cue" size="132" crc="5a53b557" md5="4200bcabd5331be89d96d70cbe2f8cea" sha1="440d066141efd5a692e0c9d0ebc493869ca06f84"/>
 	</game>
+	<game name="Tony Tough 2 - Der Klugscheisser kehrt zurueck (Germany)">
+		<category>Games</category>
+		<description>Tony Tough 2 - Der Klugscheisser kehrt zurueck (Germany)</description>
+		<rom name="Tony Tough 2 - Der Klugscheisser kehrt zurueck (Germany).iso" size="766541824" crc="9aff8ee5" md5="4725cc6a4141165168d831d815cb3867" sha1="ee442f49a1f9760963144d619fac39c407cab08b"/>
+	</game>
 	<game name="Tony Tough 2 - Detective Prive (France)">
 		<category>Games</category>
 		<description>Tony Tough 2 - Detective Prive (France)</description>
@@ -165247,6 +165286,12 @@
 		<rom name="WarBirds (USA) (Rerelease).bin" size="55968192" crc="2c9f53d7" md5="344e37ebfaccb69ee18d97c98cf7e655" sha1="2b688505c04ffa332def7658ab85524ca4aa7073"/>
 		<rom name="WarBirds (USA) (Rerelease).cue" size="92" crc="a97bab63" md5="e0df25bec4c6df145c03129cd8c09565" sha1="fdd39395fdb5f239aa955a09e05016af0ad8f674"/>
 	</game>
+	<game name="WarBirds III - Fighter Pilot Academy (USA)">
+		<category>Games</category>
+		<description>WarBirds III - Fighter Pilot Academy (USA)</description>
+		<rom name="WarBirds III - Fighter Pilot Academy (USA).bin" size="603344448" crc="c0b0099a" md5="dca8e5f043c2fe1f09d04e024644ed11" sha1="15957bc7372abc4ecbdb323e3abf1c8ede71d528"/>
+		<rom name="WarBirds III - Fighter Pilot Academy (USA).cue" size="108" crc="7ecf5e16" md5="112782bb768de9f35aadfb05a46aa61d" sha1="dd6dc1705c2be35d6ea582825eb631297c05616e"/>
+	</game>
 	<game name="WarBreeds (USA)">
 		<category>Games</category>
 		<description>WarBreeds (USA)</description>
@@ -169343,6 +169388,12 @@
 		<rom name="WordJong to Go (USA).bin" size="53056416" crc="d31dc9d8" md5="cfd3a3c061cadcd8228df1f782c04647" sha1="e816ca89bf0f28e6e565777699853284075020ef"/>
 		<rom name="WordJong to Go (USA).cue" size="86" crc="5747a13b" md5="46cd9c48eeef60d1c0a18cd4fd6d72d3" sha1="c9eaa0fb8cf43a65cf18c7ca7fe7aa339ac7a211"/>
 	</game>
+	<game name="WordMania 2 (USA)">
+		<category>Games</category>
+		<description>WordMania 2 (USA)</description>
+		<rom name="WordMania 2 (USA).bin" size="767622240" crc="df84e623" md5="fdc102f31e91403b7017a026dde35e5a" sha1="3185d07e58bbe1da317e33a1ed0b602818e07add"/>
+		<rom name="WordMania 2 (USA).cue" size="83" crc="5a42d0e2" md5="11b4c2f812d0714b89e5c6d2ac2358c8" sha1="a915073c2920889f5e389f625ebb9d2facaaf6b9"/>
+	</game>
 	<game name="Words of Ibis (Japan)">
 		<category>Games</category>
 		<description>Words of Ibis (Japan)</description>
@@ -169606,6 +169657,12 @@
 		<rom name="World Series Baseball '96 (Korea) (Track 13).bin" size="26013120" crc="5fbef113" md5="38bd2644bc4620e5398f33b90203ec9e" sha1="82a5514eb4b016fc95dbe304f52a3d6e3f681769"/>
 		<rom name="World Series Baseball '96 (Korea) (Track 14).bin" size="1477056" crc="50c49820" md5="323d1cce923ac62057ba110016660218" sha1="1359f6cdc3fddfa1a2bffc8c03d1035d0178e9c4"/>
 		<rom name="World Series Baseball '96 (Korea).cue" size="1498" crc="30ed52d2" md5="8dcd6c258f989f576d7e947faf54fb4c" sha1="e4434604ecc6d9582bc02c1e1f17995c1dbfc580"/>
+	</game>
+	<game name="World Series of Poker - The Official Game (USA)">
+		<category>Games</category>
+		<description>World Series of Poker - The Official Game (USA)</description>
+		<rom name="World Series of Poker - The Official Game (USA).bin" size="545616960" crc="ed728b3d" md5="e7ffbd465ea51cbea88681e6e55ef920" sha1="af419207e5d833c1fd8854183b60d92e65065575"/>
+		<rom name="World Series of Poker - The Official Game (USA).cue" size="113" crc="bd94fd9f" md5="b34fdcdec406197ba8883af6ba9a2492" sha1="fe8f616307c1f739d9fb148506858277f60a31f8"/>
 	</game>
 	<game name="World Series of Poker - Tournament of Champions - 2007 Edition (Europe)">
 		<category>Games</category>

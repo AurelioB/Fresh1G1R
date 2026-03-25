@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation (Retool)</name>
-		<description>Sony - PlayStation (5,664) (-y) [-aAbBcefkmMoprv] (2026-03-20 23-44-41) (Retool)</description>
-		<version>2026-03-20 23-44-41</version>
-		<date>2026-03-23 03-17-26</date>
+		<description>Sony - PlayStation (5,665) (-y) [-aAbBcefkmMoprv] (2026-03-24 16-24-38) (Retool)</description>
+		<version>2026-03-24 16-24-38</version>
+		<date>2026-03-25 03-14-21</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -35314,6 +35314,12 @@
 		<description>Point Blank 3 (USA)</description>
 		<rom name="Point Blank 3 (USA).bin" size="126057792" crc="91f80f48" md5="5c0e405c7fb2dd9ae3057a3f93aa3739" sha1="c76656b89e708184c3336a5cc323d057d0e4a040"/>
 		<rom name="Point Blank 3 (USA).cue" size="85" crc="114fb1b0" md5="6a67a276ccaf9198df1fde8f016cb385" sha1="498137e57b3e13846de3232eb6fb9eb81130c7f6"/>
+	</game>
+	<game name="Poitter's Point (Japan)">
+		<category>Games</category>
+		<description>Poitter's Point (Japan)</description>
+		<rom name="Poitter's Point (Japan).bin" size="291767952" crc="d6bd1c3a" md5="13eb6f04e1f515cc104ab8db75efb190" sha1="d0a3be4910eac11e5008cc7b6e59761e6fde6d79"/>
+		<rom name="Poitter's Point (Japan).cue" size="89" crc="1f2c93b1" md5="bc266861c2dee5ab06aa8885c72879cd" sha1="723f3863a3a0a4341fd9e46bcfd9360f39b9d5c3"/>
 	</game>
 	<game name="PokeTan (Japan) (Demo 1)">
 		<category>Demos</category>
