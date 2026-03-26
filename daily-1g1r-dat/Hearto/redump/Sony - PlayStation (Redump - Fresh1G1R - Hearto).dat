@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation (Retool)</name>
-		<description>Sony - PlayStation (5,665) (-y) [-aAbBcefkmMoprv] (2026-03-24 16-24-38) (Retool)</description>
-		<version>2026-03-24 16-24-38</version>
-		<date>2026-03-25 03-14-21</date>
+		<description>Sony - PlayStation (5,667) (-y) [-aAbBcefkmMoprv] (2026-03-25 23-44-40) (Retool)</description>
+		<version>2026-03-25 23-44-40</version>
+		<date>2026-03-26 03-17-39</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -9057,6 +9057,12 @@
 		<rom name="Deep, The - Ushinawareta Shinkai (Japan).bin" size="271665408" crc="6dbc5b64" md5="cfb23428337a95f1375e8809a0812d97" sha1="f45da0ce000e6b6a83fa0a6c8ac478e1af81db89"/>
 		<rom name="Deep, The - Ushinawareta Shinkai (Japan).cue" size="106" crc="d08253a9" md5="2159ae306b13b5291e8ffb1616176016" sha1="74fd2df64af1bd94db97b6edf53722f4755f78ec"/>
 	</game>
+	<game name="Deep, The - Ushinawareta Shinkai (Japan) (Global Game Selection 2000)">
+		<category>Games</category>
+		<description>Deep, The - Ushinawareta Shinkai (Japan) (Global Game Selection 2000)</description>
+		<rom name="Deep, The - Ushinawareta Shinkai (Japan) (Global Game Selection 2000).bin" size="271665408" crc="5b2dac31" md5="fae6eaf333ffa0e229d722c6353b8722" sha1="e941ca9e471a87a25e9b93e86cd56d7aa99d858a"/>
+		<rom name="Deep, The - Ushinawareta Shinkai (Japan) (Global Game Selection 2000).cue" size="135" crc="76b54cf3" md5="08955e3755cd5d461d432925d34fd72a" sha1="4e98318d846a3ea9c01fa713ab7a2bb82baa9e26"/>
+	</game>
 	<game name="Defcon 5 - Peace Has a Price... (USA)">
 		<category>Games</category>
 		<description>Defcon 5 - Peace Has a Price... (USA)</description>
@@ -9222,15 +9228,15 @@
 		<rom name="Demo One (Version 7) (Europe) (En,Fr,De,Es,It).bin" size="665982912" crc="b14bf8cb" md5="7e77a2bca7c99afc7cd5f9b4a79dad00" sha1="9ab6c251db15de51420b241c912779d508f4b159"/>
 		<rom name="Demo One (Version 7) (Europe) (En,Fr,De,Es,It).cue" size="112" crc="ebf7bedc" md5="ce25e514f136be9b41210e9ea730d9c8" sha1="8b90f40512366a5fae93db3ac900e5728602f232"/>
 	</game>
-	<game name="DemoDemo PlayStation Soukan-gou Vol. 1 (Japan)">
+	<game name="DemoDemo PlayStation Soukangou Vol. 1 (Japan)">
 		<category>Demos</category>
-		<description>DemoDemo PlayStation Soukan-gou Vol. 1 (Japan)</description>
-		<rom name="DemoDemo PlayStation Soukan-gou Vol. 1 (Japan) (Track 1).bin" size="335343456" crc="390e7100" md5="5e399e6d3d910ea2666c6b7b97994c0c" sha1="9666c0aa68e14e503d2fd01d3db4f0419160c3a5"/>
-		<rom name="DemoDemo PlayStation Soukan-gou Vol. 1 (Japan) (Track 2).bin" size="60328800" crc="01c2c3a1" md5="f187cfa4ea5475c35f7d40e97d139a94" sha1="960022911079ba6fa6de1e7ed2695c0e800e45ab"/>
-		<rom name="DemoDemo PlayStation Soukan-gou Vol. 1 (Japan) (Track 3).bin" size="28327488" crc="e9df0893" md5="d2a73380d9c2c1e10bd20528705bbdca" sha1="b3070238995a9f759225871f63fa1e4a732e841b"/>
-		<rom name="DemoDemo PlayStation Soukan-gou Vol. 1 (Japan) (Track 4).bin" size="30590112" crc="cbb502b8" md5="1c775dbd7343c2c69612d12aeac153d1" sha1="1f01c6d2336ff763b7eb5f02502836a11ecef45b"/>
-		<rom name="DemoDemo PlayStation Soukan-gou Vol. 1 (Japan) (Track 5).bin" size="6119904" crc="08bc59a3" md5="512aecb656e0bdfa90fafeea0ed44673" sha1="01090dfd52206545c25ee1706347ecd67f14a7c7"/>
-		<rom name="DemoDemo PlayStation Soukan-gou Vol. 1 (Japan).cue" size="682" crc="b7bf0923" md5="2e6c16cdac5206258ad1019db983ce6e" sha1="c69a11f9e1da4f2977c1c3e05382def5ab3eb474"/>
+		<description>DemoDemo PlayStation Soukangou Vol. 1 (Japan)</description>
+		<rom name="DemoDemo PlayStation Soukangou Vol. 1 (Japan) (Track 1).bin" size="335343456" crc="390e7100" md5="5e399e6d3d910ea2666c6b7b97994c0c" sha1="9666c0aa68e14e503d2fd01d3db4f0419160c3a5"/>
+		<rom name="DemoDemo PlayStation Soukangou Vol. 1 (Japan) (Track 2).bin" size="60328800" crc="01c2c3a1" md5="f187cfa4ea5475c35f7d40e97d139a94" sha1="960022911079ba6fa6de1e7ed2695c0e800e45ab"/>
+		<rom name="DemoDemo PlayStation Soukangou Vol. 1 (Japan) (Track 3).bin" size="28327488" crc="e9df0893" md5="d2a73380d9c2c1e10bd20528705bbdca" sha1="b3070238995a9f759225871f63fa1e4a732e841b"/>
+		<rom name="DemoDemo PlayStation Soukangou Vol. 1 (Japan) (Track 4).bin" size="30590112" crc="cbb502b8" md5="1c775dbd7343c2c69612d12aeac153d1" sha1="1f01c6d2336ff763b7eb5f02502836a11ecef45b"/>
+		<rom name="DemoDemo PlayStation Soukangou Vol. 1 (Japan) (Track 5).bin" size="6119904" crc="08bc59a3" md5="512aecb656e0bdfa90fafeea0ed44673" sha1="01090dfd52206545c25ee1706347ecd67f14a7c7"/>
+		<rom name="DemoDemo PlayStation Soukangou Vol. 1 (Japan).cue" size="677" crc="47a69411" md5="ab2d19c5779d0df4af48e3d0a9a870b4" sha1="ec1c2573f9cd433c4480d0d5710c1e721e0cb5f3"/>
 	</game>
 	<game name="DemoDemo PlayStation Special (Japan)">
 		<category>Demos</category>
@@ -25481,6 +25487,12 @@
 		<rom name="Magical Drop III (Europe) (En,Fr,De,Es,It,Nl) (Disc 2) (Magical Drop +1).bin" size="517223616" crc="eee8c12c" md5="f9a0757be4e4cc145c59cd442b37ab3a" sha1="d6f8f1299443284f48b2483a7713b29d90ded87b"/>
 		<rom name="Magical Drop III (Europe) (En,Fr,De,Es,It,Nl) (Disc 2) (Magical Drop +1).cue" size="138" crc="d390605a" md5="ad5aee0e47c6f3b6d5b90fcfb6955f11" sha1="f4697282b04b60089b6443e352710308b5af3cc7"/>
 	</game>
+	<game name="Magical Drop III - Yokubari Tokudaigou! (Japan)">
+		<category>Games</category>
+		<description>Magical Drop III - Yokubari Tokudaigou! (Japan)</description>
+		<rom name="Magical Drop III - Yokubari Tokudaigou! (Japan).bin" size="473753952" crc="853d0725" md5="174191ccc03a08d1e4a73996bbf4a752" sha1="9a412f0d29b335d1d95a863057cfc03f8dc69f47"/>
+		<rom name="Magical Drop III - Yokubari Tokudaigou! (Japan).cue" size="113" crc="1f5a82e0" md5="c1572c5a6a7baae6a89e7438e8a2df3a" sha1="4627df5893f91d4372835495fcd4cf2b5751f947"/>
+	</game>
 	<game name="Magical Medical (Japan)">
 		<category>Games</category>
 		<description>Magical Medical (Japan)</description>
@@ -34168,11 +34180,11 @@
 		<rom name="Play! '98 Fuyu Taikenban (Japan) (Red Disc).bin" size="595025424" crc="d0de55e5" md5="63d1a5253525d12f4c514c35d4a6c8d7" sha1="638959c3e8ff67fdb76ded53300c8fada9e1a980"/>
 		<rom name="Play! '98 Fuyu Taikenban (Japan) (Red Disc).cue" size="109" crc="bb16db45" md5="293799b91c0e34b05138be593a2bec46" sha1="af60ce14ceb1183bf846b2fcbfdc5e5383f9ac2c"/>
 	</game>
-	<game name="Play-Pre PlayStation Soukan Junbi-gou (Japan)">
+	<game name="Play-Pre PlayStation Soukan Junbigou (Japan)">
 		<category>Demos</category>
-		<description>Play-Pre PlayStation Soukan Junbi-gou (Japan)</description>
-		<rom name="Play-Pre PlayStation Soukan Junbi-gou (Japan).bin" size="211414224" crc="5a2bf97d" md5="7afe66942025269f1e078babb734a2e7" sha1="b024a69d131c478f58c6c39febd5475e9a76b1d6"/>
-		<rom name="Play-Pre PlayStation Soukan Junbi-gou (Japan).cue" size="111" crc="8cb14365" md5="b3d3cb38344e33c51191dcc57085ea3e" sha1="f1b19755bad9fe7f71b83b16c95eb542ef722b23"/>
+		<description>Play-Pre PlayStation Soukan Junbigou (Japan)</description>
+		<rom name="Play-Pre PlayStation Soukan Junbigou (Japan).bin" size="211414224" crc="5a2bf97d" md5="7afe66942025269f1e078babb734a2e7" sha1="b024a69d131c478f58c6c39febd5475e9a76b1d6"/>
+		<rom name="Play-Pre PlayStation Soukan Junbigou (Japan).cue" size="110" crc="96f3e4cc" md5="c37991e75a7512fbbe71631011d4a755" sha1="e07534970ccf360aaeb1f58c9da71dcf6bea29d9"/>
 	</game>
 	<game name="Play-Pre Plus 001 - 1999 October (Japan) (Disc 1)">
 		<category>Demos</category>

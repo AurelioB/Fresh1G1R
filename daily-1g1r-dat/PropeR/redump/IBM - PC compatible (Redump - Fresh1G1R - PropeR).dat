@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,334) (-y) [-aAbBcdkmMpPuv] (2026-03-24 17-43-44) (Retool)</description>
-		<version>2026-03-24 17-43-44</version>
-		<date>2026-03-25 03-25-41</date>
+		<description>IBM - PC compatible (25,339) (-y) [-aAbBcdkmMpPuv] (2026-03-26 00-46-49) (Retool)</description>
+		<version>2026-03-26 00-46-49</version>
+		<date>2026-03-26 03-29-27</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -9690,10 +9690,10 @@
 		<rom name="Apollo 18 - The Moon Missions (Europe) (Taurus Littrow Mission Disk).bin" size="481701360" crc="4d9b70a6" md5="5427d70d1c239b8abf5304447dea18f2" sha1="0d9678a3794b93b141c253efee3a4997577b41b0"/>
 		<rom name="Apollo 18 - The Moon Missions (Europe) (Taurus Littrow Mission Disk).cue" size="134" crc="26cd4d8b" md5="8436147b0710949ced2438e3db8be5e0" sha1="d0f334d6dd153f5655f2a1caa44920ccde9e6658"/>
 	</game>
-	<game name="Appare! Tenka Gomen - Digital Genga-shuu (Japan) (PC Game Bundle)">
+	<game name="Appare! Tenka Gomen - Digital Gengashuu (Japan) (PC Game Bundle)">
 		<category>Bonus Discs</category>
-		<description>Appare! Tenka Gomen - Digital Genga-shuu (Japan) (PC Game Bundle)</description>
-		<rom name="Appare! Tenka Gomen - Digital Genga-shuu (Japan) (PC Game Bundle).iso" size="745046016" crc="cf239a3b" md5="e5fe9fa24531e87b45ca3de4bc6c879e" sha1="fe32129074c2cc0443e1c258e2030cc637b912c4"/>
+		<description>Appare! Tenka Gomen - Digital Gengashuu (Japan) (PC Game Bundle)</description>
+		<rom name="Appare! Tenka Gomen - Digital Gengashuu (Japan) (PC Game Bundle).iso" size="745046016" crc="cf239a3b" md5="e5fe9fa24531e87b45ca3de4bc6c879e" sha1="fe32129074c2cc0443e1c258e2030cc637b912c4"/>
 	</game>
 	<game name="Apprentice, The (USA)">
 		<category>Games</category>
@@ -22325,6 +22325,43 @@
 		<description>CD-Action 02-2005 (109) (Poland) (Disc 2) (CD)</description>
 		<rom name="CD-Action 02-2005 (109) (Poland) (Disc 2) (CD).bin" size="818053824" crc="20057e89" md5="917d74ae8aa02db93abb6f325655f689" sha1="1c28f78c882775fc7e806a436891b11a4d365961"/>
 		<rom name="CD-Action 02-2005 (109) (Poland) (Disc 2) (CD).cue" size="112" crc="c605533d" md5="2e495d43e1cd9ec52d0e2823087a9e16" sha1="92dfad2b96e6ea3a056cb52bb0329e42f8cfdc41"/>
+	</game>
+	<game name="CD-Action 07-2003 (88) (Poland) (Disc 2) (CD)">
+		<category>Games</category>
+		<description>CD-Action 07-2003 (88) (Poland) (Disc 2) (CD)</description>
+		<rom name="CD-Action 07-2003 (88) (Poland) (Disc 2) (CD) (Track 01).bin" size="292751088" crc="4418d30b" md5="8f8ccda26faecf9cb873a8ea3c438345" sha1="cfff3f3d20f9da624afa0727019b9256ba918b79"/>
+		<rom name="CD-Action 07-2003 (88) (Poland) (Disc 2) (CD) (Track 02).bin" size="33339600" crc="db810e9b" md5="ec7f3285dffa6eaefba9ffaf50f72f8a" sha1="99681707f4b065225c037a2f4d30ddb0d07cce91"/>
+		<rom name="CD-Action 07-2003 (88) (Poland) (Disc 2) (CD) (Track 03).bin" size="32758656" crc="a4569b40" md5="6ab45635f96f6af4b911c08bf948125d" sha1="e4fdd303b4eefbca9f754c0f8d28fdfce5ec45c4"/>
+		<rom name="CD-Action 07-2003 (88) (Poland) (Disc 2) (CD) (Track 04).bin" size="35251776" crc="3e0432df" md5="6fe7abdc4b2eeb361b8b135c141f18f5" sha1="7d4054bd3311a051df3eb51f2e55c6b30ee4177a"/>
+		<rom name="CD-Action 07-2003 (88) (Poland) (Disc 2) (CD) (Track 05).bin" size="34938960" crc="fc484521" md5="0346dcef2fac17175333bc5f111d834b" sha1="e064bda394e739c5a49d8c1d41c30fdf39001d1b"/>
+		<rom name="CD-Action 07-2003 (88) (Poland) (Disc 2) (CD) (Track 06).bin" size="32866848" crc="82ab86a5" md5="9307fbeb6b583b895f537bc652ce2bc1" sha1="d14e639b562b123eb8d9063a5d920a6cb118e6f4"/>
+		<rom name="CD-Action 07-2003 (88) (Poland) (Disc 2) (CD) (Track 07).bin" size="35105952" crc="c1c4fbab" md5="47681f16f227bc327630bcc2c80262e8" sha1="e834c0d28dc30de66b1c10516c284ccb006f678b"/>
+		<rom name="CD-Action 07-2003 (88) (Poland) (Disc 2) (CD) (Track 08).bin" size="30354912" crc="a7ce33b5" md5="e820a64be651a5831cffb7dc1f5f44c2" sha1="1374187e1bf784f8a1d6e3f4782e68afee649dc2"/>
+		<rom name="CD-Action 07-2003 (88) (Poland) (Disc 2) (CD) (Track 09).bin" size="35115360" crc="02ff759e" md5="1d1d93b6cc00af71d90e7da4a99db1fe" sha1="ab0a92a655e19534c076b4c8d00373a69ba7a1b3"/>
+		<rom name="CD-Action 07-2003 (88) (Poland) (Disc 2) (CD) (Track 10).bin" size="34579104" crc="a53c9101" md5="69833ca94b6eb62d5dfad8c8bf6e1cae" sha1="07294b0d2ef5d92a231f84124acb4efc0b6a6699"/>
+		<rom name="CD-Action 07-2003 (88) (Poland) (Disc 2) (CD).cue" size="1198" crc="275c9387" md5="3dbc91aec2ad780c823714dba997df61" sha1="7698472260741e89bfd6d2ee68bfc20feb8e4151"/>
+	</game>
+	<game name="CD-Action 07-2003 (88) (Poland) (Disc 3) (CD)">
+		<category>Games</category>
+		<description>CD-Action 07-2003 (88) (Poland) (Disc 3) (CD)</description>
+		<rom name="CD-Action 07-2003 (88) (Poland) (Disc 3) (CD) (Track 01).bin" size="503346816" crc="237cc9a0" md5="ab4f5d1e9539e7d4f1744d0362401f40" sha1="5a71c538f0cd48e4d455141517d3662a403fde7c"/>
+		<rom name="CD-Action 07-2003 (88) (Poland) (Disc 3) (CD) (Track 02).bin" size="23103696" crc="3bd60ff6" md5="3050ce94d2c6601fc29ff7a1d501460f" sha1="1d3ba3a9048432bc7eb0c9e08c89236a8dcf0b6f"/>
+		<rom name="CD-Action 07-2003 (88) (Poland) (Disc 3) (CD) (Track 03).bin" size="20514144" crc="e1dc8b99" md5="836cabd60dd0fd6c3bee5083f7e9426e" sha1="1eacbc15b219ec02f28e7582203fae22134d65d1"/>
+		<rom name="CD-Action 07-2003 (88) (Poland) (Disc 3) (CD) (Track 04).bin" size="21499632" crc="fa990fad" md5="bbf03b5262d30980814d07848c23c3fc" sha1="1e415de681e7382638feec652bc51bde30c4d5b9"/>
+		<rom name="CD-Action 07-2003 (88) (Poland) (Disc 3) (CD) (Track 05).bin" size="25025280" crc="485ea589" md5="9d80c8c9a28bb1226b20b57dca380a2b" sha1="b3be0a92f278b2374bee7635d0f77b73fe34bc56"/>
+		<rom name="CD-Action 07-2003 (88) (Poland) (Disc 3) (CD) (Track 06).bin" size="23033136" crc="6202bcda" md5="18f8e0b9e0be2665e474b014f20c166d" sha1="5ebdc0d6ed9de11cf0c6bbc62e5e3bab01316af3"/>
+		<rom name="CD-Action 07-2003 (88) (Poland) (Disc 3) (CD) (Track 07).bin" size="21158592" crc="374075bf" md5="c2e136f1466da2ad40c8970dc5181a4c" sha1="dde0bd5e224380f0fd72ab227ad91fcf4402f69e"/>
+		<rom name="CD-Action 07-2003 (88) (Poland) (Disc 3) (CD) (Track 08).bin" size="27405504" crc="8bbdd3c7" md5="2f5987c17573a6c2f08522df3900e9b5" sha1="c3bfa3d310573c03ac10746501737c7c8ae800f9"/>
+		<rom name="CD-Action 07-2003 (88) (Poland) (Disc 3) (CD) (Track 09).bin" size="22529808" crc="6d1630cb" md5="968e8b58c5cd9511eced748f5914c48f" sha1="601754db0e238306667c662d29f243caeebc2795"/>
+		<rom name="CD-Action 07-2003 (88) (Poland) (Disc 3) (CD) (Track 10).bin" size="22400448" crc="32bbde0f" md5="dd425101f74bc1dce212f0775bc506ac" sha1="77b192d8e56dc46553fa84be4720c58a0716947b"/>
+		<rom name="CD-Action 07-2003 (88) (Poland) (Disc 3) (CD) (Track 11).bin" size="85027152" crc="c6aa303c" md5="8c8bd356db058cb742a95c2d734cabbc" sha1="1fea074e5db588bc80c4f0a28549c17c14492802"/>
+		<rom name="CD-Action 07-2003 (88) (Poland) (Disc 3) (CD).cue" size="1315" crc="5de94bae" md5="6ccb883be5f86dbef4ecb966383707ad" sha1="50dfc117250431b2dba7aaf3161c30bb1e3d43b2"/>
+	</game>
+	<game name="CD-Action 11-2004 (105) (Poland) (Disc 1) (CD)">
+		<category>Games</category>
+		<description>CD-Action 11-2004 (105) (Poland) (Disc 1) (CD)</description>
+		<rom name="CD-Action 11-2004 (105) (Poland) (Disc 1) (CD).bin" size="772335648" crc="ef70b2b1" md5="4f3f13761df2756e22c2800ae82eeb7d" sha1="7b57cff1787552140f577527591bd4b745f89fa8"/>
+		<rom name="CD-Action 11-2004 (105) (Poland) (Disc 1) (CD).cue" size="112" crc="6e1857d1" md5="e657a9e4f4c0d73a82fdb003d03a69d6" sha1="c85c4f750ad946d194a970ac85fb42f646117d4c"/>
 	</game>
 	<game name="CD-ROM Junior n. 1 (Italy)">
 		<category>Educational</category>
@@ -42221,15 +42258,15 @@
 		<rom name="Double Top Deluxe (Europe).bin" size="116282880" crc="6c711e1d" md5="c5deadb513ee66a7e59b5371e89766f2" sha1="796d7ca9c6b3f05854ecfd9e3bc76ac189b9034d"/>
 		<rom name="Double Top Deluxe (Europe).cue" size="92" crc="3f6068fc" md5="29176ef60161229276127ddfbc2ee275" sha1="3c5b52fb54316f2ab4b0960fdda9bcb2cc1fa964"/>
 	</game>
-	<game name="Doukyuusei Remake - Gouka-ban (Japan) (Doukyuusei - Original-ban) (Install Disc)">
+	<game name="Doukyuusei Remake - Goukaban (Japan) (Doukyuusei - Original-ban) (Install Disc)">
 		<category>Games</category>
-		<description>Doukyuusei Remake - Gouka-ban (Japan) (Doukyuusei - Original-ban) (Install Disc)</description>
-		<rom name="Doukyuusei Remake - Gouka-ban (Japan) (Doukyuusei - Original-ban) (Install Disc).iso" size="775520256" crc="215a4089" md5="7fe7871c8c5624487c3cf555e1408598" sha1="ffbdf0e1515fcbcedcb29080d2898288a72b0ef7"/>
+		<description>Doukyuusei Remake - Goukaban (Japan) (Doukyuusei - Original-ban) (Install Disc)</description>
+		<rom name="Doukyuusei Remake - Goukaban (Japan) (Doukyuusei - Original-ban) (Install Disc).iso" size="775520256" crc="215a4089" md5="7fe7871c8c5624487c3cf555e1408598" sha1="ffbdf0e1515fcbcedcb29080d2898288a72b0ef7"/>
 	</game>
-	<game name="Doukyuusei Remake - Gouka-ban (Japan) (Doukyuusei Remake) (Install Disc)">
+	<game name="Doukyuusei Remake - Goukaban (Japan) (Doukyuusei Remake) (Install Disc)">
 		<category>Games</category>
-		<description>Doukyuusei Remake - Gouka-ban (Japan) (Doukyuusei Remake) (Install Disc)</description>
-		<rom name="Doukyuusei Remake - Gouka-ban (Japan) (Doukyuusei Remake) (Install Disc).iso" size="6223790080" crc="91f27316" md5="bf990b5c84ce10d3f9f533ed3e1e813d" sha1="cefbbb8987e3a38bbf7310168d4a29169f5ebec7"/>
+		<description>Doukyuusei Remake - Goukaban (Japan) (Doukyuusei Remake) (Install Disc)</description>
+		<rom name="Doukyuusei Remake - Goukaban (Japan) (Doukyuusei Remake) (Install Disc).iso" size="6223790080" crc="91f27316" md5="bf990b5c84ce10d3f9f533ed3e1e813d" sha1="cefbbb8987e3a38bbf7310168d4a29169f5ebec7"/>
 	</game>
 	<game name="Doushen Wuyu (Taiwan) (Disc 1)">
 		<category>Games</category>
@@ -60311,6 +60348,11 @@
 		<rom name="Gilbert och den Kemystiska Oen (Sweden) (Rerelease).bin" size="697424448" crc="110f9c4e" md5="e1f05f3de980cdb04d1e964ca670b548" sha1="3c2120238943198069607098e6eb8b67ff1752ae"/>
 		<rom name="Gilbert och den Kemystiska Oen (Sweden) (Rerelease).cue" size="140" crc="da6681f2" md5="66a65d83561175df7753e438f7c5a13f" sha1="4956674f875b1d61a845583067caf14ec24ce9c1"/>
 	</game>
+	<game name="Gilde 2, Die (Germany)">
+		<category>Games</category>
+		<description>Gilde 2, Die (Germany)</description>
+		<rom name="Gilde 2, Die (Germany).iso" size="1436581888" crc="8f456f51" md5="ef860de3136e44f2d5d674c8d6386514" sha1="57fc5e29ce6fef2fc35c5105fb6fd1d34d43b2ef"/>
+	</game>
 	<game name="Gilde 2, Die - Die Koenigsedition (Germany)">
 		<category>Games</category>
 		<description>Gilde 2, Die - Die Koenigsedition (Germany)</description>
@@ -65130,39 +65172,39 @@
 		<rom name="Hanabi Shokunin ni Narou no Fukyuuban (Japan) (Track 28).bin" size="28442736" crc="4cf7a06c" md5="26c7364885b7f20890df1686ffc7fd5b" sha1="c6ef672eb21f9a17334264abbd56da92071efff7"/>
 		<rom name="Hanabi Shokunin ni Narou no Fukyuuban (Japan).cue" size="3304" crc="0735aed2" md5="db15d5bbb3a7401cb6b9b5f1a22a410a" sha1="0ce0ded5bc43a203da8200aff868830053e1db55"/>
 	</game>
-	<game name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD)">
+	<game name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD)">
 		<category>Games</category>
-		<description>Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD)</description>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD) (Track 01).bin" size="96925920" crc="10682934" md5="cec32a024df0ead96cf730e13e33a4ef" sha1="6e2bf833c4f015c009472fe5ba0a41d57ec8b712"/>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD) (Track 02).bin" size="15506736" crc="57eaa663" md5="da4626ee73841f42865553a8a153ea8a" sha1="3e633018eae102accde7822642c048d62afc36e5"/>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD) (Track 03).bin" size="16729776" crc="4f1d42d2" md5="b86d19a999561a576bc06535aa986057" sha1="535a51bc63a7420ba44d52649c226d34f5230bf7"/>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD) (Track 04).bin" size="17049648" crc="73549af2" md5="934f3dd531213657cbb81d1e5f0843b1" sha1="2b771d6ad25fa2d00cce7279d03d94bcf311e567"/>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD) (Track 05).bin" size="18618432" crc="6ff9f3c5" md5="6b303dba7339193f37359da36a561f1b" sha1="8d6dd49ed04921d3b4ce3e45888bbb31fa91ba6a"/>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD) (Track 06).bin" size="20732880" crc="a673f36c" md5="1efa45c6c2d1e201f217ff1883303c73" sha1="27ed5a4114d5e97d22ec01f58b38e3cc8eb528fa"/>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD) (Track 07).bin" size="22141728" crc="3d45acc6" md5="ddf5cebdc6813d72875feebd71963b78" sha1="0fe15edf092634385758496b047b61caf0381cc8"/>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD) (Track 08).bin" size="37417968" crc="c0f3e7db" md5="3defa25a6f9ba0baca83e371f15d8aa1" sha1="0e05a318dfa064afff66ea078ee3b8317f2110b0"/>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD) (Track 09).bin" size="29531712" crc="7b537953" md5="ab8907c32f1d04399fe8b64d7c58aad6" sha1="c9ceee195ca9e9a0510b57249acf1d223495fc8d"/>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD) (Track 10).bin" size="7234752" crc="36669139" md5="b3bcbdde9a3231889b6f5ee71b33b3c5" sha1="be052dfd612dae3f58d5b63c1594bda1993cb5f6"/>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD) (Track 11).bin" size="917280" crc="2e295715" md5="762213d43d16856bad6f26b1d8935690" sha1="164b7ab2c848043ac77ea997f03fd2fb504a0fb8"/>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD) (Track 12).bin" size="3382176" crc="764d4c0a" md5="a78340d0f6db0c29b739e92dfb86ad50" sha1="ba72e8c78505644dbbaf4e636877547c37642697"/>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD) (Track 13).bin" size="13434624" crc="f856a7a5" md5="3f33893748e5c941fb6e9361b4b549e1" sha1="116cdf71720bcf4708d5d8b3b5aee91357c8dfb9"/>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD) (Track 14).bin" size="3344544" crc="56fbbd70" md5="a7c9a4d34e81de4f54386e8c524f570d" sha1="5080b0523793166ec64f4a1185749789a476558c"/>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD) (Track 15).bin" size="10852128" crc="832a068b" md5="a329d7b8da2d08c49bd80ecc290c7e8b" sha1="bec1f568958f7974a8a7b85602c3b4a149b2ee6a"/>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD) (Track 16).bin" size="11139072" crc="c765a9d1" md5="9ef452003697bfaf3c1fe33d2093a734" sha1="4e63ed1cbe7170cd499927461800848217176152"/>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD) (Track 17).bin" size="10666320" crc="275bb4c6" md5="b4f593983fdbda81467a721b124ed1a2" sha1="dc4536cef627c4a3c136b9abc693b3bee93b3d1b"/>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD) (Track 18).bin" size="10793328" crc="cb9bd008" md5="6179a1c40c0b9b975c9fc02137520623" sha1="5a9edb07fa986ad4721fc0df48b1d7b6bcc68dd3"/>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD) (Track 19).bin" size="41352864" crc="030613be" md5="f139a82d2ca8014aad2cab5d20b64bac" sha1="9ac838865fe27d0bef6ccd5d934a51620e4db679"/>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD) (Track 20).bin" size="26913936" crc="70940555" md5="6d167bb8393aa976fae995c2a3f1c0c7" sha1="2692070a9492f483697239b4e15c4ffeb9e04b2f"/>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD) (Track 21).bin" size="16939104" crc="4e89e294" md5="9f0e186881097815955a7815ca918386" sha1="60aabc4ceb25540d132edb7814a518dcc2e14fec"/>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD) (Track 22).bin" size="4793376" crc="202ec002" md5="bec3698136d67354b638f7c936a8b72c" sha1="49e73db56f054127ad5ea9a390f70bd74bff6683"/>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD) (Track 23).bin" size="18192720" crc="8a31eef3" md5="60bfb703380f135324de9abd4f9d70af" sha1="052382b832bcb5189d208d9667bee63f2601761c"/>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Game CD).cue" size="2949" crc="a12aad4f" md5="b35426fc03d831e68ff1f541cffa5d20" sha1="1418be9af234a136185cd9d9b00f73be90eae842"/>
+		<description>Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD)</description>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD) (Track 01).bin" size="96925920" crc="10682934" md5="cec32a024df0ead96cf730e13e33a4ef" sha1="6e2bf833c4f015c009472fe5ba0a41d57ec8b712"/>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD) (Track 02).bin" size="15506736" crc="57eaa663" md5="da4626ee73841f42865553a8a153ea8a" sha1="3e633018eae102accde7822642c048d62afc36e5"/>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD) (Track 03).bin" size="16729776" crc="4f1d42d2" md5="b86d19a999561a576bc06535aa986057" sha1="535a51bc63a7420ba44d52649c226d34f5230bf7"/>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD) (Track 04).bin" size="17049648" crc="73549af2" md5="934f3dd531213657cbb81d1e5f0843b1" sha1="2b771d6ad25fa2d00cce7279d03d94bcf311e567"/>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD) (Track 05).bin" size="18618432" crc="6ff9f3c5" md5="6b303dba7339193f37359da36a561f1b" sha1="8d6dd49ed04921d3b4ce3e45888bbb31fa91ba6a"/>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD) (Track 06).bin" size="20732880" crc="a673f36c" md5="1efa45c6c2d1e201f217ff1883303c73" sha1="27ed5a4114d5e97d22ec01f58b38e3cc8eb528fa"/>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD) (Track 07).bin" size="22141728" crc="3d45acc6" md5="ddf5cebdc6813d72875feebd71963b78" sha1="0fe15edf092634385758496b047b61caf0381cc8"/>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD) (Track 08).bin" size="37417968" crc="c0f3e7db" md5="3defa25a6f9ba0baca83e371f15d8aa1" sha1="0e05a318dfa064afff66ea078ee3b8317f2110b0"/>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD) (Track 09).bin" size="29531712" crc="7b537953" md5="ab8907c32f1d04399fe8b64d7c58aad6" sha1="c9ceee195ca9e9a0510b57249acf1d223495fc8d"/>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD) (Track 10).bin" size="7234752" crc="36669139" md5="b3bcbdde9a3231889b6f5ee71b33b3c5" sha1="be052dfd612dae3f58d5b63c1594bda1993cb5f6"/>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD) (Track 11).bin" size="917280" crc="2e295715" md5="762213d43d16856bad6f26b1d8935690" sha1="164b7ab2c848043ac77ea997f03fd2fb504a0fb8"/>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD) (Track 12).bin" size="3382176" crc="764d4c0a" md5="a78340d0f6db0c29b739e92dfb86ad50" sha1="ba72e8c78505644dbbaf4e636877547c37642697"/>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD) (Track 13).bin" size="13434624" crc="f856a7a5" md5="3f33893748e5c941fb6e9361b4b549e1" sha1="116cdf71720bcf4708d5d8b3b5aee91357c8dfb9"/>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD) (Track 14).bin" size="3344544" crc="56fbbd70" md5="a7c9a4d34e81de4f54386e8c524f570d" sha1="5080b0523793166ec64f4a1185749789a476558c"/>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD) (Track 15).bin" size="10852128" crc="832a068b" md5="a329d7b8da2d08c49bd80ecc290c7e8b" sha1="bec1f568958f7974a8a7b85602c3b4a149b2ee6a"/>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD) (Track 16).bin" size="11139072" crc="c765a9d1" md5="9ef452003697bfaf3c1fe33d2093a734" sha1="4e63ed1cbe7170cd499927461800848217176152"/>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD) (Track 17).bin" size="10666320" crc="275bb4c6" md5="b4f593983fdbda81467a721b124ed1a2" sha1="dc4536cef627c4a3c136b9abc693b3bee93b3d1b"/>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD) (Track 18).bin" size="10793328" crc="cb9bd008" md5="6179a1c40c0b9b975c9fc02137520623" sha1="5a9edb07fa986ad4721fc0df48b1d7b6bcc68dd3"/>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD) (Track 19).bin" size="41352864" crc="030613be" md5="f139a82d2ca8014aad2cab5d20b64bac" sha1="9ac838865fe27d0bef6ccd5d934a51620e4db679"/>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD) (Track 20).bin" size="26913936" crc="70940555" md5="6d167bb8393aa976fae995c2a3f1c0c7" sha1="2692070a9492f483697239b4e15c4ffeb9e04b2f"/>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD) (Track 21).bin" size="16939104" crc="4e89e294" md5="9f0e186881097815955a7815ca918386" sha1="60aabc4ceb25540d132edb7814a518dcc2e14fec"/>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD) (Track 22).bin" size="4793376" crc="202ec002" md5="bec3698136d67354b638f7c936a8b72c" sha1="49e73db56f054127ad5ea9a390f70bd74bff6683"/>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD) (Track 23).bin" size="18192720" crc="8a31eef3" md5="60bfb703380f135324de9abd4f9d70af" sha1="052382b832bcb5189d208d9667bee63f2601761c"/>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Game CD).cue" size="2926" crc="96e3a5d4" md5="2b5a4e4e976c0588331f6eb95282f4fe" sha1="e82be8fcc4e20513edbb27539084771034377344"/>
 	</game>
-	<game name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Guide CD)">
+	<game name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Guide CD)">
 		<category>Bonus Discs</category>
-		<description>Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Guide CD)</description>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Guide CD).bin" size="362170368" crc="a8a0a406" md5="356c7f202420e49e8ce8b81ce098b4de" sha1="84716bda4da5ab109c628c0768ece70876d8eb20"/>
-		<rom name="Hanabi Shokunin ni Narou no Gouka-ban (Japan) (Guide CD).cue" size="122" crc="9cd7f25c" md5="687eb69fe221ee7315b847f4162d60d9" sha1="548d1fc515d8eac9fa2432421fe583e7d3661832"/>
+		<description>Hanabi Shokunin ni Narou no Goukaban (Japan) (Guide CD)</description>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Guide CD).bin" size="362170368" crc="a8a0a406" md5="356c7f202420e49e8ce8b81ce098b4de" sha1="84716bda4da5ab109c628c0768ece70876d8eb20"/>
+		<rom name="Hanabi Shokunin ni Narou no Goukaban (Japan) (Guide CD).cue" size="121" crc="93940fd8" md5="8c9f2504cbe7eca86439b0090a50b71a" sha1="f8bf1ae8c9063d13946360bec11bf8ba81ae3b9e"/>
 	</game>
 	<game name="Hanabi Shokunin ni Narou no Kyuukyoku-ban - 2001-nen Natsu (Japan) (Game CD)">
 		<category>Games</category>
@@ -86095,6 +86137,11 @@
 		<rom name="Lieyan Zhanji (China).bin" size="56673792" crc="93730a70" md5="f88f8e3f1d04217f13c59c885a2d7245" sha1="94bb948fcbedbbc4339a11de511d3cdacd4d843b"/>
 		<rom name="Lieyan Zhanji (China).cue" size="102" crc="3c18f376" md5="099a7dcc79732f8579c6d4ed61f43eab" sha1="a18f50dabf4bb2384ddd5c1977092c1fc9d2058d"/>
 	</game>
+	<game name="Life Is Strange (Germany)">
+		<category>Games</category>
+		<description>Life Is Strange (Germany)</description>
+		<rom name="Life Is Strange (Germany).iso" size="8293040128" crc="cb0827d0" md5="f423e703972ca44de021d4c5674a566b" sha1="3a81d07eb2d6bddbbde4930126aee8c8c4997b27"/>
+	</game>
 	<game name="Life Quest &amp; My Tribe (USA)">
 		<category>Games</category>
 		<description>Life Quest &amp; My Tribe (USA)</description>
@@ -91037,58 +91084,58 @@
 		<rom name="Magical Chase (Japan) (Track 21).bin" size="710304" crc="c4346a10" md5="71ff542fdf28f67b628c6f3554bb6e35" sha1="f355b05dd8f77c6061f286826c98730c7da9df5e"/>
 		<rom name="Magical Chase (Japan).cue" size="1981" crc="6c0adbe0" md5="bfdee14a6f390979e7f1d69304fc31a1" sha1="082355a4b2af293c3d31a418ba6ef657bd37f9d5"/>
 	</game>
-	<game name="Magical Drop III - Toretate Zoukan-gou! (Japan)">
+	<game name="Magical Drop III - Toretate Zoukangou! (Japan)">
 		<category>Games</category>
-		<description>Magical Drop III - Toretate Zoukan-gou! (Japan)</description>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 01).bin" size="95644080" crc="63b878f9" md5="d22424b12e07ec316d52ad6b986343c1" sha1="f91e6909be3b627085f46366c98831cf2819dae0"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 02).bin" size="15960672" crc="f34eaaab" md5="6f6f2c25ebf69483d698f5c079f04ce7" sha1="45a3b0df166b5ff66b574f1f9c0eb364d6474e3c"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 03).bin" size="16365216" crc="8e82a617" md5="6f740c16a0382f4d6644a531746d8556" sha1="eb7b3863ec86a3f34f10f5b7ac7829501e1297c5"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 04).bin" size="16134720" crc="4658ac87" md5="1f7712d65b8486dc9bee476b4d97a817" sha1="516644ee7831a665d7ed934503fb23aaffc8f769"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 05).bin" size="16134720" crc="0f411a50" md5="2abf12ce9e007cdd7453f84014a52b89" sha1="2e54484895e804bd9a5300fedf2dc9d61e3f8051"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 06).bin" size="16134720" crc="58e9499e" md5="76bebf50543469264428a8464adbf7cc" sha1="16e041dad5a0fbbc020c0fb285570a7aa28b587a"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 07).bin" size="16365216" crc="18899714" md5="c17df3feb7ddca4c5a7a3707c8aed95c" sha1="2a7098a0e5b45092247306ba2562430ed656d238"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 08).bin" size="16134720" crc="a7abc888" md5="0003993d959b65225430ad5319720952" sha1="6755b12ce922ce1c486b14f1f04f41c60125d741"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 09).bin" size="16134720" crc="45d43791" md5="21ae7cf0fbb712bb86a95cbba29ee304" sha1="3fde8df470e65a319a8d356192417f7ac107b786"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 10).bin" size="16365216" crc="ac6e0641" md5="5c1ec2b3157b38ed9d278d40e2f95bc0" sha1="c4a17cf41dfb276b017d8e91dfa5ebc4b236b82f"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 11).bin" size="16134720" crc="2a7417f1" md5="3740c0e93fcf2e4400aad6e835241011" sha1="7d05ba3959103c10630ae57d611ac96c67bd330e"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 12).bin" size="16365216" crc="e80a7332" md5="0bb0dc26c3f53f66aed7fd725a243d6b" sha1="00727e17b5656050b98dd535d4d12690aea81bf4"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 13).bin" size="16134720" crc="44c707a8" md5="1811a2c1cf96db0372133db1ebe044db" sha1="8c02f80fca83ed9d3d7bba2f9d6eb8468bc3be9f"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 14).bin" size="16365216" crc="4c56f620" md5="ccdaa81437f74b2e2aa99246c48812bd" sha1="e1d7bd0fd55e83b2f8a0f9782632b021fe6345f1"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 15).bin" size="16134720" crc="00438be7" md5="c9f05759d5f52653bba291636153798a" sha1="7c82f1b9512cb53304f8408c175226d93b572190"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 16).bin" size="16365216" crc="e44e5694" md5="e1b297c3c70ab4529d7164fb4847c06c" sha1="0378db77f118efab9b446a3c60f870b907219374"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 17).bin" size="16134720" crc="4f9999f7" md5="0cece09313a407b84cb7421b10c18afd" sha1="857e47435746b2e1c21c1f686481d1b15f0e2527"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 18).bin" size="16134720" crc="a2b19c9a" md5="67734c9961220b41fb62efd8366301c9" sha1="c221ae6ec2635a9b27ae64ea0e62114bf18707e6"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 19).bin" size="16365216" crc="b6a57f6b" md5="d65b1085945ffe187bd8708ee3786ead" sha1="0e492894edff63741b4dd204a14eee58a8609e7b"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 20).bin" size="16365216" crc="3ec0a102" md5="32ef26f959994f84cdd8c0d672a6094e" sha1="c34ce93547707c6f2db0ca8280b8c8e86fe45518"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 21).bin" size="16134720" crc="11f00664" md5="2937217aabef3c1323a97235b199e1dd" sha1="5ecd641cae61c99293c5d7ddfc0a43a529e0ec92"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 22).bin" size="15904224" crc="32fd655c" md5="f7d94590a5df9a0ed7443a10bcf4b55c" sha1="b38ebb31767ae414dd8a815a3834129f33af1642"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 23).bin" size="16826208" crc="d545f93a" md5="48307764d077cbb4898c7cf23f2f9df8" sha1="b847873bc8ca0d4eb962a9bab523ceda78eec73d"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 24).bin" size="16134720" crc="e29025d2" md5="dfe036fdc58c5152773c1e27262f8a4f" sha1="b7de5a6fd0b5cfa821b18187b052a2603f19dad5"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 25).bin" size="16134720" crc="11c98b76" md5="558d05eb076d092f7e4138a7f7841459" sha1="6903592a2f87dacebb14956b63dcf04c1b3df7ab"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 26).bin" size="5762400" crc="c7a44021" md5="34e3ec5f4339b15e85cd017c172d157f" sha1="e7ae71f486ad709e0307a5af7252b612d6789d61"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 27).bin" size="5762400" crc="d40866f3" md5="57dc87f6f44703a9e229d1e45eb09810" sha1="d9fac2e9b061889ea31c764699d601b8fb2d5a08"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 28).bin" size="5531904" crc="8d040634" md5="d8ab5b19657a766512359c59da4ee036" sha1="f45ba462c690c4299ad9158801359c46e7307342"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 29).bin" size="53244576" crc="4a685bc0" md5="10e9bc94c28d398ecfacaae1d842a128" sha1="c4b55564547ba07e9cd462ad919947d7289fcce5"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 30).bin" size="1382976" crc="d5e5e526" md5="e1e8207f87348b6d5c9caab8cb41e65a" sha1="5b80d7b55b971fcbc58057fddbfee0a9d91ff49f"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 31).bin" size="1382976" crc="917045f5" md5="724ae2e2a092c849d51f6ec7853aa749" sha1="ee861801f73e15a7162c36c2784d7a43b453668a"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 32).bin" size="7836864" crc="09aa6ef7" md5="4f753f88b90850feb0f642f2a67ff513" sha1="8e1dbed9a10db0dbe2a605bbddf8cc81ca29c09b"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 33).bin" size="1613472" crc="6e8642fa" md5="15190d3fa41bf1cbc4f7fb5fdeac0fed" sha1="dd8486c970080d15ba1b3f063371ec2c5ec199e4"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 34).bin" size="1382976" crc="161e9791" md5="b4b21334f4d4b6f671aec31c05195966" sha1="0b7c149d371ebf819302a3045f888feaa4718065"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 35).bin" size="16134720" crc="8aab139b" md5="2808b0498a87de6b0c5e202503e95a62" sha1="09f29ad54ab9310e3a2734f707b8784837658929"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 36).bin" size="11063808" crc="b654851a" md5="b3bbe1e052d921ea3c7166a18e70f49e" sha1="bd1568847a1db6012f749fa2d43342a64f48418c"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 37).bin" size="16134720" crc="f8708fd6" md5="6b093a3eeedf6800f8fdfc73182b7f38" sha1="d8b5fba40c9535fc447bbd546bd55dfdd79a7910"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 38).bin" size="2996448" crc="f1e5493d" md5="9640fe89565df68468ef27cd16fb7c36" sha1="0ed05b37fb00da45a9fbdbb216c30bb1d5fd8a09"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 39).bin" size="11063808" crc="7dcccf22" md5="33a76991ac66e85a48d71340be8c247d" sha1="f2bf30b4d12e77f3e376dc1817004ec2ec0a0a16"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 40).bin" size="21436128" crc="5eaf1904" md5="3c88561d127c31f849af2d558d27fc3d" sha1="a30d4ce961a4f21cb4f8f8081fa992fbb608f0a2"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 41).bin" size="32269440" crc="06c7df0c" md5="b003cfed17c3e2c4cccfb74218f4073f" sha1="02074b1126ff4bf312e97c4ff716e93a495671e2"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 42).bin" size="1843968" crc="23f6efaa" md5="4ea68d1a6798ae51612fcae4b49d145b" sha1="50cbd804d4e11e7250fdddc929f0b086a7e5b07c"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 43).bin" size="4609920" crc="1a7e52d9" md5="fdfc6c01f6487b976d94024ba100287d" sha1="1332accb782f8099494e5aa49920f602136e84c7"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 44).bin" size="3918432" crc="31cf1092" md5="cb5fa3aa42ad1d4c2917bf0a28f06a82" sha1="044f78dd0a506303fa960e0492683e453c3f0962"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 45).bin" size="2765952" crc="afced707" md5="70e92272eaffef88f37804eb73a8d64f" sha1="5ea948d3dedc905878b3b547306c844ac0fd56af"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 46).bin" size="1843968" crc="806737b7" md5="f53b0dfe9926273d487f85551c023569" sha1="a561407a725ad4cc42751ca3e7aad0b81c2b34fd"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 47).bin" size="4840416" crc="14d98cc3" md5="e215d2d388b5b0e6671d2d3d909b5405" sha1="233e5cde991b68a08459d3e419fdbc95b301f4d8"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan) (Track 48).bin" size="4743984" crc="adffd1cb" md5="442ac0f73f770b007724ae46ffa8f630" sha1="c11c906d7deb536f8e6915e50de014e1a82b08ab"/>
-		<rom name="Magical Drop III - Toretate Zoukan-gou! (Japan).cue" size="6821" crc="b808177f" md5="af259ec1fc54b0792a2e38d8f5743433" sha1="9cbc5171669ddbd7c37d500898192e60d422605e"/>
+		<description>Magical Drop III - Toretate Zoukangou! (Japan)</description>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 01).bin" size="95644080" crc="63b878f9" md5="d22424b12e07ec316d52ad6b986343c1" sha1="f91e6909be3b627085f46366c98831cf2819dae0"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 02).bin" size="15960672" crc="f34eaaab" md5="6f6f2c25ebf69483d698f5c079f04ce7" sha1="45a3b0df166b5ff66b574f1f9c0eb364d6474e3c"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 03).bin" size="16365216" crc="8e82a617" md5="6f740c16a0382f4d6644a531746d8556" sha1="eb7b3863ec86a3f34f10f5b7ac7829501e1297c5"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 04).bin" size="16134720" crc="4658ac87" md5="1f7712d65b8486dc9bee476b4d97a817" sha1="516644ee7831a665d7ed934503fb23aaffc8f769"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 05).bin" size="16134720" crc="0f411a50" md5="2abf12ce9e007cdd7453f84014a52b89" sha1="2e54484895e804bd9a5300fedf2dc9d61e3f8051"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 06).bin" size="16134720" crc="58e9499e" md5="76bebf50543469264428a8464adbf7cc" sha1="16e041dad5a0fbbc020c0fb285570a7aa28b587a"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 07).bin" size="16365216" crc="18899714" md5="c17df3feb7ddca4c5a7a3707c8aed95c" sha1="2a7098a0e5b45092247306ba2562430ed656d238"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 08).bin" size="16134720" crc="a7abc888" md5="0003993d959b65225430ad5319720952" sha1="6755b12ce922ce1c486b14f1f04f41c60125d741"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 09).bin" size="16134720" crc="45d43791" md5="21ae7cf0fbb712bb86a95cbba29ee304" sha1="3fde8df470e65a319a8d356192417f7ac107b786"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 10).bin" size="16365216" crc="ac6e0641" md5="5c1ec2b3157b38ed9d278d40e2f95bc0" sha1="c4a17cf41dfb276b017d8e91dfa5ebc4b236b82f"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 11).bin" size="16134720" crc="2a7417f1" md5="3740c0e93fcf2e4400aad6e835241011" sha1="7d05ba3959103c10630ae57d611ac96c67bd330e"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 12).bin" size="16365216" crc="e80a7332" md5="0bb0dc26c3f53f66aed7fd725a243d6b" sha1="00727e17b5656050b98dd535d4d12690aea81bf4"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 13).bin" size="16134720" crc="44c707a8" md5="1811a2c1cf96db0372133db1ebe044db" sha1="8c02f80fca83ed9d3d7bba2f9d6eb8468bc3be9f"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 14).bin" size="16365216" crc="4c56f620" md5="ccdaa81437f74b2e2aa99246c48812bd" sha1="e1d7bd0fd55e83b2f8a0f9782632b021fe6345f1"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 15).bin" size="16134720" crc="00438be7" md5="c9f05759d5f52653bba291636153798a" sha1="7c82f1b9512cb53304f8408c175226d93b572190"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 16).bin" size="16365216" crc="e44e5694" md5="e1b297c3c70ab4529d7164fb4847c06c" sha1="0378db77f118efab9b446a3c60f870b907219374"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 17).bin" size="16134720" crc="4f9999f7" md5="0cece09313a407b84cb7421b10c18afd" sha1="857e47435746b2e1c21c1f686481d1b15f0e2527"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 18).bin" size="16134720" crc="a2b19c9a" md5="67734c9961220b41fb62efd8366301c9" sha1="c221ae6ec2635a9b27ae64ea0e62114bf18707e6"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 19).bin" size="16365216" crc="b6a57f6b" md5="d65b1085945ffe187bd8708ee3786ead" sha1="0e492894edff63741b4dd204a14eee58a8609e7b"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 20).bin" size="16365216" crc="3ec0a102" md5="32ef26f959994f84cdd8c0d672a6094e" sha1="c34ce93547707c6f2db0ca8280b8c8e86fe45518"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 21).bin" size="16134720" crc="11f00664" md5="2937217aabef3c1323a97235b199e1dd" sha1="5ecd641cae61c99293c5d7ddfc0a43a529e0ec92"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 22).bin" size="15904224" crc="32fd655c" md5="f7d94590a5df9a0ed7443a10bcf4b55c" sha1="b38ebb31767ae414dd8a815a3834129f33af1642"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 23).bin" size="16826208" crc="d545f93a" md5="48307764d077cbb4898c7cf23f2f9df8" sha1="b847873bc8ca0d4eb962a9bab523ceda78eec73d"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 24).bin" size="16134720" crc="e29025d2" md5="dfe036fdc58c5152773c1e27262f8a4f" sha1="b7de5a6fd0b5cfa821b18187b052a2603f19dad5"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 25).bin" size="16134720" crc="11c98b76" md5="558d05eb076d092f7e4138a7f7841459" sha1="6903592a2f87dacebb14956b63dcf04c1b3df7ab"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 26).bin" size="5762400" crc="c7a44021" md5="34e3ec5f4339b15e85cd017c172d157f" sha1="e7ae71f486ad709e0307a5af7252b612d6789d61"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 27).bin" size="5762400" crc="d40866f3" md5="57dc87f6f44703a9e229d1e45eb09810" sha1="d9fac2e9b061889ea31c764699d601b8fb2d5a08"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 28).bin" size="5531904" crc="8d040634" md5="d8ab5b19657a766512359c59da4ee036" sha1="f45ba462c690c4299ad9158801359c46e7307342"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 29).bin" size="53244576" crc="4a685bc0" md5="10e9bc94c28d398ecfacaae1d842a128" sha1="c4b55564547ba07e9cd462ad919947d7289fcce5"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 30).bin" size="1382976" crc="d5e5e526" md5="e1e8207f87348b6d5c9caab8cb41e65a" sha1="5b80d7b55b971fcbc58057fddbfee0a9d91ff49f"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 31).bin" size="1382976" crc="917045f5" md5="724ae2e2a092c849d51f6ec7853aa749" sha1="ee861801f73e15a7162c36c2784d7a43b453668a"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 32).bin" size="7836864" crc="09aa6ef7" md5="4f753f88b90850feb0f642f2a67ff513" sha1="8e1dbed9a10db0dbe2a605bbddf8cc81ca29c09b"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 33).bin" size="1613472" crc="6e8642fa" md5="15190d3fa41bf1cbc4f7fb5fdeac0fed" sha1="dd8486c970080d15ba1b3f063371ec2c5ec199e4"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 34).bin" size="1382976" crc="161e9791" md5="b4b21334f4d4b6f671aec31c05195966" sha1="0b7c149d371ebf819302a3045f888feaa4718065"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 35).bin" size="16134720" crc="8aab139b" md5="2808b0498a87de6b0c5e202503e95a62" sha1="09f29ad54ab9310e3a2734f707b8784837658929"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 36).bin" size="11063808" crc="b654851a" md5="b3bbe1e052d921ea3c7166a18e70f49e" sha1="bd1568847a1db6012f749fa2d43342a64f48418c"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 37).bin" size="16134720" crc="f8708fd6" md5="6b093a3eeedf6800f8fdfc73182b7f38" sha1="d8b5fba40c9535fc447bbd546bd55dfdd79a7910"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 38).bin" size="2996448" crc="f1e5493d" md5="9640fe89565df68468ef27cd16fb7c36" sha1="0ed05b37fb00da45a9fbdbb216c30bb1d5fd8a09"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 39).bin" size="11063808" crc="7dcccf22" md5="33a76991ac66e85a48d71340be8c247d" sha1="f2bf30b4d12e77f3e376dc1817004ec2ec0a0a16"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 40).bin" size="21436128" crc="5eaf1904" md5="3c88561d127c31f849af2d558d27fc3d" sha1="a30d4ce961a4f21cb4f8f8081fa992fbb608f0a2"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 41).bin" size="32269440" crc="06c7df0c" md5="b003cfed17c3e2c4cccfb74218f4073f" sha1="02074b1126ff4bf312e97c4ff716e93a495671e2"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 42).bin" size="1843968" crc="23f6efaa" md5="4ea68d1a6798ae51612fcae4b49d145b" sha1="50cbd804d4e11e7250fdddc929f0b086a7e5b07c"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 43).bin" size="4609920" crc="1a7e52d9" md5="fdfc6c01f6487b976d94024ba100287d" sha1="1332accb782f8099494e5aa49920f602136e84c7"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 44).bin" size="3918432" crc="31cf1092" md5="cb5fa3aa42ad1d4c2917bf0a28f06a82" sha1="044f78dd0a506303fa960e0492683e453c3f0962"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 45).bin" size="2765952" crc="afced707" md5="70e92272eaffef88f37804eb73a8d64f" sha1="5ea948d3dedc905878b3b547306c844ac0fd56af"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 46).bin" size="1843968" crc="806737b7" md5="f53b0dfe9926273d487f85551c023569" sha1="a561407a725ad4cc42751ca3e7aad0b81c2b34fd"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 47).bin" size="4840416" crc="14d98cc3" md5="e215d2d388b5b0e6671d2d3d909b5405" sha1="233e5cde991b68a08459d3e419fdbc95b301f4d8"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan) (Track 48).bin" size="4743984" crc="adffd1cb" md5="442ac0f73f770b007724ae46ffa8f630" sha1="c11c906d7deb536f8e6915e50de014e1a82b08ab"/>
+		<rom name="Magical Drop III - Toretate Zoukangou! (Japan).cue" size="6773" crc="666d67f6" md5="bb490b0dbcbadb7c36212cc57dee3b9c" sha1="150d804fa5c3b4cf9536906d4cb02c5199eca97d"/>
 	</game>
 	<game name="Magical Shot (Japan)">
 		<category>Games</category>
@@ -118085,11 +118132,11 @@
 		<rom name="Pokemon Card Game Expert Deck - Leafia vs. Metagross + Online (Japan).bin" size="81038160" crc="c4f86d1d" md5="397932463888f585105943a40936e6c7" sha1="b653150238165473b4a0b88efb7df9dacfc4333b"/>
 		<rom name="Pokemon Card Game Expert Deck - Leafia vs. Metagross + Online (Japan).cue" size="135" crc="7aa1f0b6" md5="9943873a9938ce5a432abdf41d9d88a2" sha1="072c26fcf7ff99ca142ff92b5657e685c2fdb4d5"/>
 	</game>
-	<game name="Pokemon Daisuki Club - Pokemon Scoop 2004.Summer Rinji Zoukan-gou Gentai Furoku (Japan)">
+	<game name="Pokemon Daisuki Club - Pokemon Scoop 2004.Summer Rinji Zoukangou Gentai Furoku (Japan)">
 		<category>Bonus Discs</category>
-		<description>Pokemon Daisuki Club - Pokemon Scoop 2004.Summer Rinji Zoukan-gou Gentai Furoku (Japan)</description>
-		<rom name="Pokemon Daisuki Club - Pokemon Scoop 2004.Summer Rinji Zoukan-gou Gentai Furoku (Japan).bin" size="176007216" crc="9e246e41" md5="713a14cc6e9fe6f41508743164a3c94f" sha1="60aa65cb5046db9aafce47a9222e1204c0fd743e"/>
-		<rom name="Pokemon Daisuki Club - Pokemon Scoop 2004.Summer Rinji Zoukan-gou Gentai Furoku (Japan).cue" size="153" crc="99c716b4" md5="32e5a1778a6bbac5108f3e1ef954a529" sha1="884817c29d64b35d5fa9aab0306d5020d4658f0e"/>
+		<description>Pokemon Daisuki Club - Pokemon Scoop 2004.Summer Rinji Zoukangou Gentai Furoku (Japan)</description>
+		<rom name="Pokemon Daisuki Club - Pokemon Scoop 2004.Summer Rinji Zoukangou Gentai Furoku (Japan).bin" size="176007216" crc="9e246e41" md5="713a14cc6e9fe6f41508743164a3c94f" sha1="60aa65cb5046db9aafce47a9222e1204c0fd743e"/>
+		<rom name="Pokemon Daisuki Club - Pokemon Scoop 2004.Summer Rinji Zoukangou Gentai Furoku (Japan).cue" size="152" crc="f6b8f0a1" md5="e0a543f476477280246fc53c8faaa601" sha1="7841b1d58151f016ea309473e840d02a45372cca"/>
 	</game>
 	<game name="Pokemon Masters Arena (USA)">
 		<category>Games</category>
@@ -120406,11 +120453,11 @@
 		<rom name="Princess Memory (Japan).bin" size="626187072" crc="22d01254" md5="3e5312f3a7001c854272def7255c74a9" sha1="31f632c514633ce68bbabc0087fbc89cb73b594e"/>
 		<rom name="Princess Memory (Japan).cue" size="89" crc="afa7f832" md5="30d218fa3bfb60f35898e52e099cdb02" sha1="328cc5047017124488fbc5da6e2d55c86fb2aea6"/>
 	</game>
-	<game name="Princess Princess - Hime-tachi no Abunai Houkago - Special Desktop Accessory CD-ROM (Japan)">
+	<game name="Princess Princess - Himetachi no Abunai Houkago - Special Desktop Accessory CD-ROM (Japan)">
 		<category>Bonus Discs</category>
-		<description>Princess Princess - Hime-tachi no Abunai Houkago - Special Desktop Accessory CD-ROM (Japan)</description>
-		<rom name="Princess Princess - Hime-tachi no Abunai Houkago - Special Desktop Accessory CD-ROM (Japan).bin" size="22548624" crc="4f5269ce" md5="517542b628c21943e7f32bc707b545cb" sha1="19d742ae839e1a79acbb67b4ceda5201f7c7b77f"/>
-		<rom name="Princess Princess - Hime-tachi no Abunai Houkago - Special Desktop Accessory CD-ROM (Japan).cue" size="157" crc="754c3447" md5="7d82a68d04c78e31139b1a4ae11b3883" sha1="ed5601afe865f0f9790062a2ed3955fc7a74fd90"/>
+		<description>Princess Princess - Himetachi no Abunai Houkago - Special Desktop Accessory CD-ROM (Japan)</description>
+		<rom name="Princess Princess - Himetachi no Abunai Houkago - Special Desktop Accessory CD-ROM (Japan).bin" size="22548624" crc="4f5269ce" md5="517542b628c21943e7f32bc707b545cb" sha1="19d742ae839e1a79acbb67b4ceda5201f7c7b77f"/>
+		<rom name="Princess Princess - Himetachi no Abunai Houkago - Special Desktop Accessory CD-ROM (Japan).cue" size="156" crc="ceeced4f" md5="91f449475a7ab289722b9b483ad7fccd" sha1="5ccce97680a53192bab415675a32998772f3f2d7"/>
 	</game>
 	<game name="Princess Waltz (USA)">
 		<category>Games</category>
@@ -178743,10 +178790,10 @@
 		<rom name="Zero Zone (Netherlands).bin" size="734395536" crc="39b679d9" md5="5d5252812661f5d50ea961c29e480da0" sha1="e41c05e8094c00acacad2f70fd5db12ad220a479"/>
 		<rom name="Zero Zone (Netherlands).cue" size="112" crc="3836a286" md5="4a3cf5b91a0d6e6ae84e223e2375c203" sha1="06f514678d5e153d97d0b80ac90d2daec97d8404"/>
 	</game>
-	<game name="Zettai Maou - Boku no Mune-kyun Gakuen Saga - Digital Genga-shuu (Japan) (PC Game Bundle)">
+	<game name="Zettai Maou - Boku no Mune-kyun Gakuen Saga - Digital Gengashuu (Japan) (PC Game Bundle)">
 		<category>Bonus Discs</category>
-		<description>Zettai Maou - Boku no Mune-kyun Gakuen Saga - Digital Genga-shuu (Japan) (PC Game Bundle)</description>
-		<rom name="Zettai Maou - Boku no Mune-kyun Gakuen Saga - Digital Genga-shuu (Japan) (PC Game Bundle).iso" size="2044231680" crc="4750b77b" md5="ebba8e271a78fade8aa87add9c2d73ea" sha1="f389e9286bfad6c61ea2e74b91f7de3421a7be6a"/>
+		<description>Zettai Maou - Boku no Mune-kyun Gakuen Saga - Digital Gengashuu (Japan) (PC Game Bundle)</description>
+		<rom name="Zettai Maou - Boku no Mune-kyun Gakuen Saga - Digital Gengashuu (Japan) (PC Game Bundle).iso" size="2044231680" crc="4750b77b" md5="ebba8e271a78fade8aa87add9c2d73ea" sha1="f389e9286bfad6c61ea2e74b91f7de3421a7be6a"/>
 	</game>
 	<game name="Zettai Nakadashi Haramase Gakuen (Japan)">
 		<category>Games</category>

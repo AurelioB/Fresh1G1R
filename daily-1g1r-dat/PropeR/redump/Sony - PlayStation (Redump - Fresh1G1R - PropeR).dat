@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation (Retool)</name>
-		<description>Sony - PlayStation (4,575) (-y) [-aAbBcdkmMpPuv] (2026-03-24 16-24-38) (Retool)</description>
-		<version>2026-03-24 16-24-38</version>
-		<date>2026-03-25 03-26-21</date>
+		<description>Sony - PlayStation (4,577) (-y) [-aAbBcdkmMpPuv] (2026-03-25 23-44-40) (Retool)</description>
+		<version>2026-03-25 23-44-40</version>
+		<date>2026-03-26 03-30-08</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -7784,6 +7784,12 @@
 		<description>Deep, The - Ushinawareta Shinkai (Japan)</description>
 		<rom name="Deep, The - Ushinawareta Shinkai (Japan).bin" size="271665408" crc="6dbc5b64" md5="cfb23428337a95f1375e8809a0812d97" sha1="f45da0ce000e6b6a83fa0a6c8ac478e1af81db89"/>
 		<rom name="Deep, The - Ushinawareta Shinkai (Japan).cue" size="106" crc="d08253a9" md5="2159ae306b13b5291e8ffb1616176016" sha1="74fd2df64af1bd94db97b6edf53722f4755f78ec"/>
+	</game>
+	<game name="Deep, The - Ushinawareta Shinkai (Japan) (Global Game Selection 2000)">
+		<category>Games</category>
+		<description>Deep, The - Ushinawareta Shinkai (Japan) (Global Game Selection 2000)</description>
+		<rom name="Deep, The - Ushinawareta Shinkai (Japan) (Global Game Selection 2000).bin" size="271665408" crc="5b2dac31" md5="fae6eaf333ffa0e229d722c6353b8722" sha1="e941ca9e471a87a25e9b93e86cd56d7aa99d858a"/>
+		<rom name="Deep, The - Ushinawareta Shinkai (Japan) (Global Game Selection 2000).cue" size="135" crc="76b54cf3" md5="08955e3755cd5d461d432925d34fd72a" sha1="4e98318d846a3ea9c01fa713ab7a2bb82baa9e26"/>
 	</game>
 	<game name="Defcon 5 - Peace Has a Price... (USA)">
 		<category>Games</category>
@@ -20579,6 +20585,12 @@
 		<description>Magical Drop III (Europe) (En,Fr,De,Es,It,Nl) (Disc 2) (Magical Drop +1)</description>
 		<rom name="Magical Drop III (Europe) (En,Fr,De,Es,It,Nl) (Disc 2) (Magical Drop +1).bin" size="517223616" crc="eee8c12c" md5="f9a0757be4e4cc145c59cd442b37ab3a" sha1="d6f8f1299443284f48b2483a7713b29d90ded87b"/>
 		<rom name="Magical Drop III (Europe) (En,Fr,De,Es,It,Nl) (Disc 2) (Magical Drop +1).cue" size="138" crc="d390605a" md5="ad5aee0e47c6f3b6d5b90fcfb6955f11" sha1="f4697282b04b60089b6443e352710308b5af3cc7"/>
+	</game>
+	<game name="Magical Drop III - Yokubari Tokudaigou! (Japan)">
+		<category>Games</category>
+		<description>Magical Drop III - Yokubari Tokudaigou! (Japan)</description>
+		<rom name="Magical Drop III - Yokubari Tokudaigou! (Japan).bin" size="473753952" crc="853d0725" md5="174191ccc03a08d1e4a73996bbf4a752" sha1="9a412f0d29b335d1d95a863057cfc03f8dc69f47"/>
+		<rom name="Magical Drop III - Yokubari Tokudaigou! (Japan).cue" size="113" crc="1f5a82e0" md5="c1572c5a6a7baae6a89e7438e8a2df3a" sha1="4627df5893f91d4372835495fcd4cf2b5751f947"/>
 	</game>
 	<game name="Magical Medical (Japan)">
 		<category>Games</category>
