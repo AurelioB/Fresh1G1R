@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (12,942) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-26 00-46-49) (Retool)</description>
-		<version>2026-03-26 00-46-49</version>
-		<date>2026-03-26 03-23-30</date>
+		<description>IBM - PC compatible (12,944) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-26 20-47-16) (Retool)</description>
+		<version>2026-03-26 20-47-16</version>
+		<date>2026-03-27 03-20-44</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -8360,6 +8360,12 @@
 		<rom name="Bedlam (USA) (Track 7).bin" size="38172960" crc="fae599da" md5="fbb49518a6cfe1fe40478e0711909e45" sha1="1c6440ca2c9f20cdc277336a473b84729b532a3f"/>
 		<rom name="Bedlam (USA) (Track 8).bin" size="36778224" crc="ffd79b1b" md5="e8e6eaf74e636f02f0ca6ceb89d84fb4" sha1="3a018b5ce17f142039879034d64f43a222870fe6"/>
 		<rom name="Bedlam (USA).cue" size="853" crc="a4e74144" md5="9254f6d2d15b83796942de5c7c46a608" sha1="e9de504d16ce490b9f9d09c1876f03290f99cdd3"/>
+	</game>
+	<game name="Beebris (Australia) (Disc 2)">
+		<category>Games</category>
+		<description>Beebris (Australia) (Disc 2)</description>
+		<rom name="Beebris (Australia) (Disc 2).bin" size="60952080" crc="71234668" md5="4f157e179914908ce646985c08476d19" sha1="c49fba4521c180842d40772bd14e0d6b9d029bbf"/>
+		<rom name="Beebris (Australia) (Disc 2).cue" size="94" crc="1528495a" md5="d744a73be6e0d2e593bded9da827ff0f" sha1="367c4b28304507f1e9e15958db5ca6b7ed112579"/>
 	</game>
 	<game name="Beer Tycoon (UK)">
 		<category>Games</category>
@@ -17914,10 +17920,10 @@
 		<description>DTM Race Driver 3 (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="DTM Race Driver 3 (Europe) (En,Fr,De,Es,It).iso" size="4571561984" crc="311db158" md5="575c9f60c06b167336b8882c2ca2132d" sha1="8459cf1bb62bffe53d343f15fa88b0610c62079a"/>
 	</game>
-	<game name="Da Vinci Code, The (Europe) (En,Fr,De,Es,It,Nl)">
+	<game name="Da Vinci Code, The (Europe, Australia) (En,Fr,De,Es,It,Nl)">
 		<category>Games</category>
-		<description>Da Vinci Code, The (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Da Vinci Code, The (Europe) (En,Fr,De,Es,It,Nl).iso" size="1628864512" crc="5985a290" md5="4edc3512e5965ca58fded31b742b0c5d" sha1="b268d6a9db94bc93eb66c97486d93c0ec9fd20e5"/>
+		<description>Da Vinci Code, The (Europe, Australia) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Da Vinci Code, The (Europe, Australia) (En,Fr,De,Es,It,Nl).iso" size="1628864512" crc="5985a290" md5="4edc3512e5965ca58fded31b742b0c5d" sha1="b268d6a9db94bc93eb66c97486d93c0ec9fd20e5"/>
 	</game>
 	<game name="Da Vinci Code, The - Sakrileg (Germany) (En,Fr,De,Es,It,Nl)">
 		<category>Games</category>
@@ -26822,10 +26828,10 @@
 		<rom name="F.E.A.R. - First Encounter Assault Recon (USA) (Disc 5).bin" size="212543184" crc="566220d6" md5="feb90681b7833a113874307694cf4373" sha1="0b664ccfbd8dd20e524fe180b83d6d6423204d4a"/>
 		<rom name="F.E.A.R. - First Encounter Assault Recon (USA) (Disc 5).cue" size="121" crc="ad524c10" md5="303f7a941e9dccc615af52c574096cc3" sha1="6214a876f35ff930987a17c76c4a3e30e61910e7"/>
 	</game>
-	<game name="F.E.A.R. - First Encounter Assault Recon - Gold Edition (USA)">
+	<game name="F.E.A.R. - First Encounter Assault Recon - Gold Edition (USA, Australia)">
 		<category>Games</category>
-		<description>F.E.A.R. - First Encounter Assault Recon - Gold Edition (USA)</description>
-		<rom name="F.E.A.R. - First Encounter Assault Recon - Gold Edition (USA).iso" size="7197523968" crc="725e7a53" md5="f3f2422dc9a60ddd255b94ae3739ebcd" sha1="6b6aa34150a62d56db6557787f793cdc98ae6ad8"/>
+		<description>F.E.A.R. - First Encounter Assault Recon - Gold Edition (USA, Australia)</description>
+		<rom name="F.E.A.R. - First Encounter Assault Recon - Gold Edition (USA, Australia).iso" size="7197523968" crc="725e7a53" md5="f3f2422dc9a60ddd255b94ae3739ebcd" sha1="6b6aa34150a62d56db6557787f793cdc98ae6ad8"/>
 	</game>
 	<game name="F.E.A.R. - First Encounter Assault Recon - Perseus Mandate (USA)">
 		<category>Games</category>
@@ -41720,30 +41726,30 @@
 		<description>Just Cause 2 (World) (En,Fr,De,Es,It,Pl,Ru)</description>
 		<rom name="Just Cause 2 (World) (En,Fr,De,Es,It,Pl,Ru).iso" size="4283760640" crc="0fb6a56e" md5="b716eeeca6602b56304dfd20a857161c" sha1="7040e08501c0e2dd85ee987630456490c5e32041"/>
 	</game>
-	<game name="Just Cause 3 (Europe) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 1)">
+	<game name="Just Cause 3 (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 1)">
 		<category>Games</category>
-		<description>Just Cause 3 (Europe) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 1)</description>
-		<rom name="Just Cause 3 (Europe) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 1).iso" size="8292841472" crc="236bfe0e" md5="c33c84c3283b4817c612266d5ae2dd7a" sha1="47c90cd72ff4825e33bf627a6cb303b0289de3a3"/>
+		<description>Just Cause 3 (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 1)</description>
+		<rom name="Just Cause 3 (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 1).iso" size="8292841472" crc="236bfe0e" md5="c33c84c3283b4817c612266d5ae2dd7a" sha1="47c90cd72ff4825e33bf627a6cb303b0289de3a3"/>
 	</game>
-	<game name="Just Cause 3 (Europe) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 2)">
+	<game name="Just Cause 3 (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 2)">
 		<category>Games</category>
-		<description>Just Cause 3 (Europe) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 2)</description>
-		<rom name="Just Cause 3 (Europe) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 2).iso" size="8283957248" crc="d5009684" md5="f97aedb4ecd3400b7b734e297ea59831" sha1="6050ff5453a95e46d9f3f0db14012ca8679478cc"/>
+		<description>Just Cause 3 (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 2)</description>
+		<rom name="Just Cause 3 (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 2).iso" size="8283957248" crc="d5009684" md5="f97aedb4ecd3400b7b734e297ea59831" sha1="6050ff5453a95e46d9f3f0db14012ca8679478cc"/>
 	</game>
-	<game name="Just Cause 3 (Europe) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 3)">
+	<game name="Just Cause 3 (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 3)">
 		<category>Games</category>
-		<description>Just Cause 3 (Europe) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 3)</description>
-		<rom name="Just Cause 3 (Europe) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 3).iso" size="8283971584" crc="bc80e391" md5="c4c57ac1490420270bce087188b4496e" sha1="1142baabca1d692c2cff238515e07c601595acb9"/>
+		<description>Just Cause 3 (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 3)</description>
+		<rom name="Just Cause 3 (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 3).iso" size="8283971584" crc="bc80e391" md5="c4c57ac1490420270bce087188b4496e" sha1="1142baabca1d692c2cff238515e07c601595acb9"/>
 	</game>
-	<game name="Just Cause 3 (Europe) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 4)">
+	<game name="Just Cause 3 (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 4)">
 		<category>Games</category>
-		<description>Just Cause 3 (Europe) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 4)</description>
-		<rom name="Just Cause 3 (Europe) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 4).iso" size="8284727296" crc="92bf6170" md5="66736d086565860517145c5ffe177bde" sha1="b907176c69cc03815299a47f3f4b8482db40c937"/>
+		<description>Just Cause 3 (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 4)</description>
+		<rom name="Just Cause 3 (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 4).iso" size="8284727296" crc="92bf6170" md5="66736d086565860517145c5ffe177bde" sha1="b907176c69cc03815299a47f3f4b8482db40c937"/>
 	</game>
-	<game name="Just Cause 3 (Europe) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 5)">
+	<game name="Just Cause 3 (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 5)">
 		<category>Games</category>
-		<description>Just Cause 3 (Europe) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 5)</description>
-		<rom name="Just Cause 3 (Europe) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 5).iso" size="6207705088" crc="1ae36d8b" md5="28ae02cdc3a3624141f74a175b6044b8" sha1="eef0d0074e5ddcf4f2292dabf4fde614d90e806b"/>
+		<description>Just Cause 3 (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 5)</description>
+		<rom name="Just Cause 3 (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Ar) (Disc 5).iso" size="6207705088" crc="1ae36d8b" md5="28ae02cdc3a3624141f74a175b6044b8" sha1="eef0d0074e5ddcf4f2292dabf4fde614d90e806b"/>
 	</game>
 	<game name="Just a Chemical Reaction (Canada)">
 		<category>Games</category>
@@ -63789,10 +63795,10 @@
 		<rom name="Rayman Gold (USA) (Track 20).bin" size="6225744" crc="318d59b0" md5="50d6c6e92827696ee7fbc7f4663fd2a0" sha1="849cda177710498cc216f58ebf1cd367d53f5100"/>
 		<rom name="Rayman Gold (USA).cue" size="2222" crc="316cdd53" md5="d0a2ff5aae89e7c19dac9dcd382d258d" sha1="b8e4874e2f236efc19945738b97edaa835dcd593"/>
 	</game>
-	<game name="Rayman Legends (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Fi,Pl,Ru,Cs,Hu)">
+	<game name="Rayman Legends (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Fi,Pl,Ru,Cs,Hu)">
 		<category>Games</category>
-		<description>Rayman Legends (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Fi,Pl,Ru,Cs,Hu)</description>
-		<rom name="Rayman Legends (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Fi,Pl,Ru,Cs,Hu).iso" size="6167789568" crc="d4b7946e" md5="0eb9245ded3d1d59cc129f7a18d60d40" sha1="4572bd35bb3897888421287499e5ca41d0e42be0"/>
+		<description>Rayman Legends (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Fi,Pl,Ru,Cs,Hu)</description>
+		<rom name="Rayman Legends (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Fi,Pl,Ru,Cs,Hu).iso" size="6167789568" crc="d4b7946e" md5="0eb9245ded3d1d59cc129f7a18d60d40" sha1="4572bd35bb3897888421287499e5ca41d0e42be0"/>
 	</game>
 	<game name="Rayman M (World) (En,Fr,De,Es,It,Sv,No,Da,Fi) (Disc 1)">
 		<category>Games</category>
@@ -77483,6 +77489,11 @@
 		<rom name="Supermarket Mania (USA).bin" size="63249984" crc="0351f82a" md5="afc0d8d10a313a8ebce35bcebea2c456" sha1="f557fc97c7ded4b516a38dba0d28ce4ece0767e5"/>
 		<rom name="Supermarket Mania (USA).cue" size="89" crc="78797dff" md5="91787d15f9d0b1b5917b6d1a264222ed" sha1="dd83277239ab63792c4ddb8641db2cb14b109525"/>
 	</game>
+	<game name="Superstars V8 Racing (Turkey) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Superstars V8 Racing (Turkey) (En,Fr,De,Es,It)</description>
+		<rom name="Superstars V8 Racing (Turkey) (En,Fr,De,Es,It).iso" size="1454047232" crc="78f1c01d" md5="ec7aecd6bbd906b047e36c93ae3d5994" sha1="c38377e3329d302aca29eae7eac64a7282fcb965"/>
+	</game>
 	<game name="Supreme Commander (USA) (Rev 1)">
 		<category>Games</category>
 		<description>Supreme Commander (USA) (Rev 1)</description>
@@ -90142,15 +90153,15 @@
 		<description>XCOM - Enemy Unknown (Australia) (Disc 2)</description>
 		<rom name="XCOM - Enemy Unknown (Australia) (Disc 2).iso" size="5812781056" crc="ae8861dd" md5="ea0ca2f1e54e2ab35f04df8d81c36678" sha1="df6d83f7a25fbf3f949a842f72bf7ef0127dfce3"/>
 	</game>
-	<game name="XCOM - Enemy Unknown (USA, Europe) (En,Fr) (Disc 1) (Special Edition)">
-		<category>Games</category>
-		<description>XCOM - Enemy Unknown (USA, Europe) (En,Fr) (Disc 1) (Special Edition)</description>
-		<rom name="XCOM - Enemy Unknown (USA, Europe) (En,Fr) (Disc 1) (Special Edition).iso" size="8077639680" crc="cf5ef018" md5="68b497aa5cbcde3b0daf5bc21586c299" sha1="b29282b1e118c9e18d7c1706bdd3e8e18ab9a6fb"/>
-	</game>
 	<game name="XCOM - Enemy Unknown (USA, Europe) (En,Fr) (Disc 2) (Special Edition)">
 		<category>Games</category>
 		<description>XCOM - Enemy Unknown (USA, Europe) (En,Fr) (Disc 2) (Special Edition)</description>
 		<rom name="XCOM - Enemy Unknown (USA, Europe) (En,Fr) (Disc 2) (Special Edition).iso" size="6489440256" crc="798cc422" md5="26588d613775651599f132e62860535f" sha1="69c0818a5a35875d2727c56484e346cdafa8fb39"/>
+	</game>
+	<game name="XCOM - Enemy Unknown (World) (En,Fr) (Disc 1)">
+		<category>Games</category>
+		<description>XCOM - Enemy Unknown (World) (En,Fr) (Disc 1)</description>
+		<rom name="XCOM - Enemy Unknown (World) (En,Fr) (Disc 1).iso" size="8077639680" crc="cf5ef018" md5="68b497aa5cbcde3b0daf5bc21586c299" sha1="b29282b1e118c9e18d7c1706bdd3e8e18ab9a6fb"/>
 	</game>
 	<game name="XCar - Experimental Racing (USA)">
 		<category>Games</category>
