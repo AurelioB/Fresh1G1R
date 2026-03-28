@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,804) (-y) [-aAbBcefkmMoprv] (2026-03-26 20-47-16) (Retool)</description>
-		<version>2026-03-26 20-47-16</version>
-		<date>2026-03-27 03-14-39</date>
+		<description>IBM - PC compatible (24,813) (-y) [-aAbBcefkmMoprv] (2026-03-27 21-26-01) (Retool)</description>
+		<version>2026-03-27 21-26-01</version>
+		<date>2026-03-28 03-11-44</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -11943,6 +11943,12 @@
 		<rom name="Asterix &amp; Obelix - Contra Cesar (Portugal) (Covermount) (Track 7).bin" size="36150240" crc="5053c073" md5="6678af8c10105599bdd650a84db188ed" sha1="211861acb87613c1ef1e1598627488f695f5dc7f"/>
 		<rom name="Asterix &amp; Obelix - Contra Cesar (Portugal) (Covermount) (Track 8).bin" size="31839024" crc="23e90d7c" md5="2c17d538d18826202f3cf1a3ab57481d" sha1="51021d66963baea04869b5a3974aac4a9461bf6e"/>
 		<rom name="Asterix &amp; Obelix - Contra Cesar (Portugal) (Covermount).cue" size="1174" crc="93b66aaa" md5="0d0bfd4c3d20d09a32d5ebcece6b31cc" sha1="cfea1201ad829a9f2b640fa5de740b9f02eda123"/>
+	</game>
+	<game name="Asterix &amp; Obelix - Die Grosse Reise (Germany)">
+		<category>Games</category>
+		<description>Asterix &amp; Obelix - Die Grosse Reise (Germany)</description>
+		<rom name="Asterix &amp; Obelix - Die Grosse Reise (Germany).bin" size="353063424" crc="a060b801" md5="1a1f2e80af105531ec57cb8c5022867b" sha1="1b8b0cba4e3fb279a41f06e20bbe26d04a68de17"/>
+		<rom name="Asterix &amp; Obelix - Die Grosse Reise (Germany).cue" size="111" crc="b73ce57a" md5="da11313b913322174b91448220700bc9" sha1="3f127d9308a02dd21208f1183ef77703d7a2c432"/>
 	</game>
 	<game name="Asterix &amp; Obelix - Take on Caesar (Portugal)">
 		<category>Games</category>
@@ -44232,6 +44238,42 @@
 		<rom name="Dusty Dimmer (Germany).bin" size="716983680" crc="13f08739" md5="18a39b4e0cba023281e25e59ed43cbdb" sha1="b86023fb9c57a4b327fb0c3e0a31e83e2014c2c6"/>
 		<rom name="Dusty Dimmer (Germany).cue" size="111" crc="03c13bb2" md5="1e8c5eb069b279613486fe47417ca821" sha1="1a4ebde9227f2a342aaf05e2d4168bc0a6efcddf"/>
 	</game>
+	<game name="Dusty Dimmer (Germany) (Disc 1)">
+		<category>Games</category>
+		<description>Dusty Dimmer (Germany) (Disc 1)</description>
+		<rom name="Dusty Dimmer (Germany) (Disc 1).bin" size="766900176" crc="01ed8a38" md5="8608e4a669ff50d32a6eac35989dde6d" sha1="880c219aa480214775c2507298c2115bc0449b59"/>
+		<rom name="Dusty Dimmer (Germany) (Disc 1).cue" size="120" crc="0c3b3279" md5="68bdb1906fe694d0fab79e054bfe83bb" sha1="6a5719a82693086c6feef8e9da9ef24c9c774081"/>
+	</game>
+	<game name="Dusty Dimmer (Germany) (Disc 2)">
+		<category>Games</category>
+		<description>Dusty Dimmer (Germany) (Disc 2)</description>
+		<rom name="Dusty Dimmer (Germany) (Disc 2).bin" size="776663328" crc="8db7f1b9" md5="578b81c86210a106bc8e7dcaed4541bb" sha1="d18c81fa49e4d32a11114a701e34f5b0e8d3fcf1"/>
+		<rom name="Dusty Dimmer (Germany) (Disc 2).cue" size="120" crc="0d6614a8" md5="d78b793555be1cad1a86480f7d07b375" sha1="4502a7a388ea946262f1de338c7a0287e525f154"/>
+	</game>
+	<game name="Dusty Dimmer (Germany) (Disc 3)">
+		<category>Games</category>
+		<description>Dusty Dimmer (Germany) (Disc 3)</description>
+		<rom name="Dusty Dimmer (Germany) (Disc 3).bin" size="765267888" crc="cb8ca0d4" md5="34d51d265b556eaee8114f1ae697b8d4" sha1="9c673aab14c4498c232e0531b0e3c9b8557ac234"/>
+		<rom name="Dusty Dimmer (Germany) (Disc 3).cue" size="120" crc="bb7df4d8" md5="0066accec94686090a188b1a3150c34d" sha1="a2d3793a2ac12f988dcad96e866c685e64048d2a"/>
+	</game>
+	<game name="Dusty Dimmer (Germany) (Disc 4)">
+		<category>Games</category>
+		<description>Dusty Dimmer (Germany) (Disc 4)</description>
+		<rom name="Dusty Dimmer (Germany) (Disc 4).bin" size="684403776" crc="8ee4a9be" md5="6393800d12ff0f85993705ab95d68547" sha1="20e0a72bf3826a029b13a65fab4ec660e23f5284"/>
+		<rom name="Dusty Dimmer (Germany) (Disc 4).cue" size="120" crc="0fdc590a" md5="fcfb7896e8f29550e9a21bdcc2b48be6" sha1="436dd371211189fe7f60622d34104f65ab761b08"/>
+	</game>
+	<game name="Dusty Dimmer (Germany) (Disc 5)">
+		<category>Games</category>
+		<description>Dusty Dimmer (Germany) (Disc 5)</description>
+		<rom name="Dusty Dimmer (Germany) (Disc 5).bin" size="723792720" crc="d7b23694" md5="824d16913d21827643c1ce5289924e13" sha1="adfb9072ce8d755b40e51232f595b68ce5dc8f82"/>
+		<rom name="Dusty Dimmer (Germany) (Disc 5).cue" size="120" crc="b9c7b97a" md5="e87b33610571345250e4b6241f770582" sha1="bd5207aed98b17c037ad3228e523055a6b5598c5"/>
+	</game>
+	<game name="Dusty Dimmer (Germany) (Disc 6)">
+		<category>Games</category>
+		<description>Dusty Dimmer (Germany) (Disc 6)</description>
+		<rom name="Dusty Dimmer (Germany) (Disc 6).bin" size="538916112" crc="ceabf53f" md5="f090f3e6b3e08af1d07ed41635613380" sha1="d180dd3adaad57949627a7d5745ede3c4c83d452"/>
+		<rom name="Dusty Dimmer (Germany) (Disc 6).cue" size="120" crc="b89a9fab" md5="d9cb123c69c0c3dfc715ee811ba429fa" sha1="acd304c2f4340f013c9129485cea7042ada5b3b2"/>
+	</game>
 	<game name="Dva Klika (Russia)">
 		<category>Games</category>
 		<description>Dva Klika (Russia)</description>
@@ -63343,13 +63385,6 @@
 		<rom name="Gute Zeiten, schlechte Zeiten (Germany).bin" size="725138064" crc="c23b1848" md5="d1a5495fbde586721328ca083c13ee0f" sha1="2c3df924edced74207c9890a82f00476509f3749"/>
 		<rom name="Gute Zeiten, schlechte Zeiten (Germany).cue" size="128" crc="c6fa2bd2" md5="15d16a704ee05d0fe7918c58debf49fa" sha1="da1b9b41aaf099628ba5ab6c515bb15e5da31d36"/>
 	</game>
-	<game name="Gute Zeiten, schlechte Zeiten - Fun Pack (Germany)">
-		<category>Games</category>
-		<description>Gute Zeiten, schlechte Zeiten - Fun Pack (Germany)</description>
-		<rom name="Gute Zeiten, schlechte Zeiten - Fun Pack (Germany) (Track 1).bin" size="626796240" crc="d5d3375e" md5="1dd2728ad1c0e3a1772a294c7f6c1362" sha1="486b4ec5cb19fb420c35845d823a85069fb0514c"/>
-		<rom name="Gute Zeiten, schlechte Zeiten - Fun Pack (Germany) (Track 2).bin" size="26184816" crc="67a55de6" md5="6e84de25c032124cb9f3cfea6587ea59" sha1="c5c1dfdc751213236211240d9f76e1ab34fa54ee"/>
-		<rom name="Gute Zeiten, schlechte Zeiten - Fun Pack (Germany).cue" size="252" crc="dd427858" md5="c744e812d2cd006d7480fcca3f50aead" sha1="1c9d3d48ebc4068ef6f2c42e0f51eaa8c13d15dd"/>
-	</game>
 	<game name="Gute Zeiten, schlechte Zeiten Vol. 2 (Germany)">
 		<category>Games</category>
 		<description>Gute Zeiten, schlechte Zeiten Vol. 2 (Germany)</description>
@@ -68111,6 +68146,18 @@
 		<rom name="Highschool Terra Story (Japan) (Demo) (Track 19).bin" size="8274336" crc="d0f663c6" md5="eedc82ac4ec2610fabaa5c65247e9648" sha1="d51aeba1df81c64c8e2357167a52a5aed0a6434b"/>
 		<rom name="Highschool Terra Story (Japan) (Demo) (Track 20).bin" size="8271984" crc="a8c965b6" md5="711d109198ae847c18f30feecd30b874" sha1="95a34d018c0fd7717fb31663b9fba7177f00aa25"/>
 		<rom name="Highschool Terra Story (Japan) (Demo).cue" size="2622" crc="ad285f6b" md5="a6a9fe1c1f0fcff185c3ef53ee84afe7" sha1="b1737744be9837b8c479d15845113f3d53966384"/>
+	</game>
+	<game name="Highscreen Games 1 (Germany)">
+		<category>Demos</category>
+		<description>Highscreen Games 1 (Germany)</description>
+		<rom name="Highscreen Games 1 (Germany).bin" size="105237888" crc="13f9b7b8" md5="b871a3482500d070013fe3977d6544e4" sha1="42d9001e5111bd697137c1b1c827cd97293ad603"/>
+		<rom name="Highscreen Games 1 (Germany).cue" size="94" crc="81a1c99e" md5="3c1a2183c4ae4fbf4ca47c47ad22902b" sha1="5ee1e35ce44f08e0e1e8144824a97ce2ba9e8400"/>
+	</game>
+	<game name="Highscreen Shareware Spiele II (Germany)">
+		<category>Demos</category>
+		<description>Highscreen Shareware Spiele II (Germany)</description>
+		<rom name="Highscreen Shareware Spiele II (Germany).bin" size="192433584" crc="5707e31c" md5="258653559b430703517936c9a3149aaa" sha1="b2ada48bb71f0f13a10451b1977ecb011ee605f1"/>
+		<rom name="Highscreen Shareware Spiele II (Germany).cue" size="129" crc="dce3853b" md5="b7609459011818a1593973d7b5d749e5" sha1="44e78a61012e462ce0b7c01078380148d751683b"/>
 	</game>
 	<game name="Higurashi Daybreak (Japan)">
 		<category>Games</category>
@@ -72930,6 +72977,14 @@
 		<description>Indiana Jack (Germany)</description>
 		<rom name="Indiana Jack (Germany).bin" size="503412672" crc="607a20b8" md5="5390ddad0dd30ce4ae3ffe1af5201b17" sha1="39b1f0966d48691d8eda39d251de2d3b1350545c"/>
 		<rom name="Indiana Jack (Germany).cue" size="88" crc="0d0f83ac" md5="1e21229e18a8a8b501325a1fd48085b1" sha1="239bdd76b0bdadbb8301a4f3ec25879ae72ac04d"/>
+	</game>
+	<game name="Indiana Jones - Adventure Pack (Germany)">
+		<category>Games</category>
+		<description>Indiana Jones - Adventure Pack (Germany)</description>
+		<rom name="Indiana Jones - Adventure Pack (Germany) (Track 1).bin" size="813547392" crc="3dd35c80" md5="21ab1ea95c7a85a56ba528ab3c36259c" sha1="e82bf3ee552872961e5a75ef6da94d1e28764ecf"/>
+		<rom name="Indiana Jones - Adventure Pack (Germany) (Track 2).bin" size="2076816" crc="a215c3aa" md5="8312d6d37744d4cef085f2b6bf1b55f4" sha1="1bf085c13f444a8f3f2fbe86ac001791a92a0fca"/>
+		<rom name="Indiana Jones - Adventure Pack (Germany) (Track 3).bin" size="3290448" crc="b035f6d9" md5="b0483fd51f7f140967fea39ec482bafd" sha1="558d18c5ccb7a8ce8b77bb758b1272e0f0d3a1e0"/>
+		<rom name="Indiana Jones - Adventure Pack (Germany).cue" size="389" crc="03e0c9f8" md5="04c99c0d12605002f7a3303cc121f40e" sha1="debed545c0afeaf1aa2a359e6a473ae9f9665416"/>
 	</game>
 	<game name="Indiana Jones Adventure Kit (Germany)">
 		<category>Games</category>
@@ -170629,7 +170684,7 @@
 	<game name="X - Gold (Germany)">
 		<category>Games</category>
 		<description>X - Gold (Germany)</description>
-		<rom name="X - Gold (Germany) (Track 1).bin" size="817124784" crc="4474ff81" md5="c6fbe9f480e41d391d7e06f3d6f78233" sha1="6dcfced248da30c495239f87ab6cd35c637777c1"/>
+		<rom name="X - Gold (Germany) (Track 1).bin" size="817124784" crc="8f2c7701" md5="c900c1734273d9e511b065f90b76965e" sha1="88554103034cb49ba7974ac1d4851f90f375def9"/>
 		<rom name="X - Gold (Germany) (Track 2).bin" size="2076816" crc="a215c3aa" md5="8312d6d37744d4cef085f2b6bf1b55f4" sha1="1bf085c13f444a8f3f2fbe86ac001791a92a0fca"/>
 		<rom name="X - Gold (Germany) (Track 3).bin" size="3290448" crc="7c1eb45b" md5="37d6e03feb6899ee2083f6f960699c7d" sha1="29dcdd3f1a0407e2c69ccd4ba966e6b80f683894"/>
 		<rom name="X - Gold (Germany).cue" size="323" crc="244710b2" md5="5e97ad0ae1a3adb2354e7deb2a99f7c5" sha1="41d354caa8c12f6a6426948401b320ae066ea27b"/>
