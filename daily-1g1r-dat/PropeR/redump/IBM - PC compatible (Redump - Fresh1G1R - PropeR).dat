@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,352) (-y) [-aAbBcdkmMpPuv] (2026-03-27 21-26-01) (Retool)</description>
-		<version>2026-03-27 21-26-01</version>
-		<date>2026-03-28 03-23-30</date>
+		<description>IBM - PC compatible (25,354) (-y) [-aAbBcdkmMpPuv] (2026-03-29 05-01-01) (Retool)</description>
+		<version>2026-03-29 05-01-01</version>
+		<date>2026-03-29 03-27-34</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -53055,11 +53055,11 @@
 		<rom name="Fenimore Fillmore - The Westerner (Germany).bin" size="577540656" crc="8d7d28e2" md5="2e02dee16e0c88fdc3c77562d6f41c31" sha1="d3dcdd7864545f767428762bd696162381cb7eb5"/>
 		<rom name="Fenimore Fillmore - The Westerner (Germany).cue" size="109" crc="ada15be4" md5="ce0c9c9da1034d739242ae693e85d54e" sha1="999fbe744e317ccf105f8df8f1da7049273e3014"/>
 	</game>
-	<game name="Fenimore Fillmore's Revenge (Europe)">
+	<game name="Fenimore Fillmore's Revenge (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Fenimore Fillmore's Revenge (Europe)</description>
-		<rom name="Fenimore Fillmore's Revenge (Europe).bin" size="786548784" crc="940de529" md5="457141cb1a3411e3710e36a5e22ef1fd" sha1="c6d8bff8de82ca90ee4c2d147b47f4c46fb7f672"/>
-		<rom name="Fenimore Fillmore's Revenge (Europe).cue" size="102" crc="7fde964f" md5="0dff82eccdc9a81964a0f2828e847a3c" sha1="725f80c603f222a623ebc4bb1f633a946f43f342"/>
+		<description>Fenimore Fillmore's Revenge (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Fenimore Fillmore's Revenge (Europe) (En,Fr,De,Es,It).bin" size="786548784" crc="940de529" md5="457141cb1a3411e3710e36a5e22ef1fd" sha1="c6d8bff8de82ca90ee4c2d147b47f4c46fb7f672"/>
+		<rom name="Fenimore Fillmore's Revenge (Europe) (En,Fr,De,Es,It).cue" size="119" crc="4504f40f" md5="4118d0b5712c2bb2070a9b0ec0bf4bb3" sha1="1b04618c2b8756944279e8daa8e9000516236a12"/>
 	</game>
 	<game name="Fernbus Simulator (Germany)">
 		<category>Games</category>
@@ -60044,6 +60044,12 @@
 		<rom name="Geo Light Moon (Japan) (Track 16).bin" size="705600" crc="8c1dd557" md5="9f43885a9ed61a9258f68f29e241f21a" sha1="3f163e51d9f782c478a7a2259e9a5975c0301acb"/>
 		<rom name="Geo Light Moon (Japan).cue" size="1532" crc="94570a6b" md5="847306d5e8a4c49245f9af40908d0d75" sha1="48cb024398f860e1fc4358c1d34e9cf0f676a469"/>
 	</game>
+	<game name="GeoRunner (USA)">
+		<category>Educational</category>
+		<description>GeoRunner (USA)</description>
+		<rom name="GeoRunner (USA).bin" size="225970752" crc="e01d88ac" md5="b5c2b0090af0499e37864c703ef73d1f" sha1="7bcb347e683cffda4c7af086c63bcd8f6fc305ad"/>
+		<rom name="GeoRunner (USA).cue" size="104" crc="2331529a" md5="de6cfbba6bc801193ff612f01b11aaf6" sha1="5e4aa48d9162bab141c5e8a502c2b5411a0fb036"/>
+	</game>
 	<game name="GeoSafari Science (USA)">
 		<category>Educational</category>
 		<description>GeoSafari Science (USA)</description>
@@ -60055,12 +60061,6 @@
 		<description>Geograficus (Germany) (Rerelease) (2007-09-18)</description>
 		<rom name="Geograficus (Germany) (Rerelease) (2007-09-18).bin" size="733546464" crc="9796a5f5" md5="13a0627fc83d34e9f579a876b3830bc4" sha1="259d3ff159db01834e81a19fc26400ca08e91239"/>
 		<rom name="Geograficus (Germany) (Rerelease) (2007-09-18).cue" size="112" crc="d3e0a776" md5="e3d00b1d97f09141953d679ea42ffc9b" sha1="317d9f15e10b5c8a2e5c35951d2eb70038d81330"/>
-	</game>
-	<game name="Georunner (USA)">
-		<category>Educational</category>
-		<description>Georunner (USA)</description>
-		<rom name="Georunner (USA).bin" size="225970752" crc="e01d88ac" md5="b5c2b0090af0499e37864c703ef73d1f" sha1="7bcb347e683cffda4c7af086c63bcd8f6fc305ad"/>
-		<rom name="Georunner (USA).cue" size="104" crc="38766947" md5="846249db32016a536476956b578a127c" sha1="956f32192f80ec337d441c65e4765a69685e1fd8"/>
 	</game>
 	<game name="German Truck Simulator (Germany)">
 		<category>Games</category>
@@ -75823,11 +75823,11 @@
 		<rom name="Jag aelskar katter (Sweden).bin" size="157551072" crc="e088cd88" md5="0a4b3c95b4c6768fa62123a8772cb5f2" sha1="e17c5fc1d51025746ce9d8a1269f1a3c104d3b5f"/>
 		<rom name="Jag aelskar katter (Sweden).cue" size="93" crc="a0382831" md5="ab89680525e3cf85893120c27c69584a" sha1="006b7fa69cb975f6bfecba54672772d49f94f749"/>
 	</game>
-	<game name="Jag kan stava (Sweden) (Rerelease)">
+	<game name="Jag kan stava (Sweden)">
 		<category>Educational</category>
-		<description>Jag kan stava (Sweden) (Rerelease)</description>
-		<rom name="Jag kan stava (Sweden) (Rerelease).bin" size="458517696" crc="a083fbdb" md5="b3b9461904ed5fd4662489a6b1b70fb3" sha1="a023b61a4ee792e792319d49a3ffe759f4bb81bb"/>
-		<rom name="Jag kan stava (Sweden) (Rerelease).cue" size="100" crc="5d4ed5ca" md5="a1f48484d72d2ca587854db80803b466" sha1="121f0eeee15eb908c6a0b0cbfe6e0015b6e9b017"/>
+		<description>Jag kan stava (Sweden)</description>
+		<rom name="Jag kan stava (Sweden).bin" size="456233904" crc="159bcbea" md5="a25e24151bca3adea8f0cb8cecd2ce0f" sha1="fb5680082f817622d68e04d230498eabd11d928f"/>
+		<rom name="Jag kan stava (Sweden).cue" size="111" crc="92c787f3" md5="b20a4af4e459da52632d5a07dc1639c4" sha1="f59cc8c0d6d33b364d577925a170a6427843d613"/>
 	</game>
 	<game name="Jagd auf Roter Oktober (Germany)">
 		<category>Games</category>
@@ -89594,11 +89594,29 @@
 		<rom name="Luxor (USA).bin" size="803645472" crc="247d4274" md5="c37b6e9d020c790f4a567f82cffc8a0e" sha1="20f219f1b824467a24e96bc89f95f6a8e4652b07"/>
 		<rom name="Luxor (USA).cue" size="77" crc="e48cfe1d" md5="ff4e053c17abd5c03020f0b71174e768" sha1="335885fcbfdebdaf8922c755b5843b12e43e4128"/>
 	</game>
+	<game name="Luxor - 5th Passage (USA) (5 Pack)">
+		<category>Games</category>
+		<description>Luxor - 5th Passage (USA) (5 Pack)</description>
+		<rom name="Luxor - 5th Passage (USA) (5 Pack).bin" size="290043936" crc="b5693245" md5="e7fa2579d1d38bbe41f703a70b87adf8" sha1="982f1483539d9c57bca20e64aa524052ff9a1ee7"/>
+		<rom name="Luxor - 5th Passage (USA) (5 Pack).cue" size="100" crc="eb264ab9" md5="b159e2a8e114b9ad1585845db59595fe" sha1="777c323cb0c2db210ab76ec4c9178e490ef53c56"/>
+	</game>
+	<game name="Luxor - 5th Passage (USA) (Rerelease)">
+		<category>Games</category>
+		<description>Luxor - 5th Passage (USA) (Rerelease)</description>
+		<rom name="Luxor - 5th Passage (USA) (Rerelease).bin" size="79074240" crc="fc7e842c" md5="c9fe4476d866aba0ae026b38620eceac" sha1="663c9d34290206010076657c16f12232e30244bc"/>
+		<rom name="Luxor - 5th Passage (USA) (Rerelease).cue" size="103" crc="a12fdb51" md5="6c41a61598398eb5f915a6e10b69cd56" sha1="dfe2e2dbc0bfc478947282daf196e318ccd400f0"/>
+	</game>
 	<game name="Luxor - Amun Rising (USA)">
 		<category>Games</category>
 		<description>Luxor - Amun Rising (USA)</description>
 		<rom name="Luxor - Amun Rising (USA).bin" size="451847424" crc="6413de5b" md5="e2c36339f47384b3ffb3703cf357deaf" sha1="1b21da841639d518b3d6f08693d181d27488112e"/>
 		<rom name="Luxor - Amun Rising (USA).cue" size="91" crc="c928c784" md5="af643a03c6809fdafcf4644cbe172d1c" sha1="dce86741308bb7636c2fdcab3f7d61e3ce28a4a4"/>
+	</game>
+	<game name="Luxor - Mah Jong (USA)">
+		<category>Games</category>
+		<description>Luxor - Mah Jong (USA)</description>
+		<rom name="Luxor - Mah Jong (USA).bin" size="411738768" crc="d9c4d5fe" md5="77accfb0a1f336a48d09bec4bd7c426d" sha1="01070a6c594070a2913d329227105613d1329ac3"/>
+		<rom name="Luxor - Mah Jong (USA).cue" size="88" crc="06d7878a" md5="3bfaf9e0f4a7d37ffbba94a4139e0643" sha1="8abc9d5f6baccf3898912f05a3896b28c21eca5e"/>
 	</game>
 	<game name="Luxor - Quest for the Afterlife (USA)">
 		<category>Games</category>
@@ -89611,6 +89629,12 @@
 		<description>Luxor - The King's Collection - 3 Games in One (Australia)</description>
 		<rom name="Luxor - The King's Collection - 3 Games in One (Australia).bin" size="47524512" crc="d1e11391" md5="f54430ec24f83a47e93fa3bd34ee9e25" sha1="9c8c8d56f06bcfa954a9523fab16e82fba98e75e"/>
 		<rom name="Luxor - The King's Collection - 3 Games in One (Australia).cue" size="124" crc="ba295889" md5="c7fd95f1b3954a2cfbac8a5de2b32026" sha1="22d041e29e9d7dffa324c5cbe4f18308dabeeec5"/>
+	</game>
+	<game name="Luxor - The King's Collection - 4 Games in One (USA)">
+		<category>Games</category>
+		<description>Luxor - The King's Collection - 4 Games in One (USA)</description>
+		<rom name="Luxor - The King's Collection - 4 Games in One (USA).bin" size="229536384" crc="4222f38f" md5="815a9f93cf1da426881796af5ef00cbf" sha1="3178e2a9a2b7d38f13818e0ca4941b2c1d7d54cc"/>
+		<rom name="Luxor - The King's Collection - 4 Games in One (USA).cue" size="118" crc="8653e669" md5="8087fd3c976e8158f9d4c9fddfc46cca" sha1="bdacc5312377526ec406cc17f225d4bb67967ca2"/>
 	</game>
 	<game name="Luxor 2 (USA)">
 		<category>Games</category>
@@ -89635,12 +89659,6 @@
 		<description>Luxor 5 (Russia)</description>
 		<rom name="Luxor 5 (Russia).iso" size="876150784" crc="06013322" md5="5663f8f95c560b066135d2252fb7248a" sha1="ecfe38a5dafc3ade04d4868647ea088cc542851a"/>
 	</game>
-	<game name="Luxor 5th Passage (USA)">
-		<category>Games</category>
-		<description>Luxor 5th Passage (USA)</description>
-		<rom name="Luxor 5th Passage (USA).bin" size="290043936" crc="b5693245" md5="e7fa2579d1d38bbe41f703a70b87adf8" sha1="982f1483539d9c57bca20e64aa524052ff9a1ee7"/>
-		<rom name="Luxor 5th Passage (USA).cue" size="89" crc="3044e9cc" md5="eccb2453f24372f0f55094db5fc4f0b8" sha1="a5e4ae554bfd49d3a8841fc634ad9ee597a1c298"/>
-	</game>
 	<game name="Luxor Adventures (USA) (Rev 1)">
 		<category>Games</category>
 		<description>Luxor Adventures (USA) (Rev 1)</description>
@@ -89652,12 +89670,6 @@
 		<description>Luxor Evolved (USA)</description>
 		<rom name="Luxor Evolved (USA).bin" size="56972496" crc="07eef6bf" md5="bff1058144a0766d864ff8e03a58bde6" sha1="9424ba1a1692a1d1c7a0ca161485fecdc2f33863"/>
 		<rom name="Luxor Evolved (USA).cue" size="85" crc="b9b96282" md5="cea9cfa484095c843949ec0e40bae494" sha1="298f85cef8ef08df60c748713b97dec25e4341b5"/>
-	</game>
-	<game name="Luxor Mahjong (USA)">
-		<category>Games</category>
-		<description>Luxor Mahjong (USA)</description>
-		<rom name="Luxor Mahjong (USA).bin" size="411738768" crc="d9c4d5fe" md5="77accfb0a1f336a48d09bec4bd7c426d" sha1="01070a6c594070a2913d329227105613d1329ac3"/>
-		<rom name="Luxor Mahjong (USA).cue" size="85" crc="9b9080f8" md5="2bfc3844c3aced89201b261caf451f53" sha1="e003208ed1cc1675021be1563c7ce89975396470"/>
 	</game>
 	<game name="Luxuria - The Ultimate Sex Situation Vol. 4 (Italy) (En,It)">
 		<category>Games</category>
@@ -113298,17 +113310,17 @@
 		<rom name="Paintball Heroes (Europe) (X3D).bin" size="31744944" crc="dbfdbfd3" md5="c9bd275a4b1651a2bc95960787427bdc" sha1="c7d66ba2412b1d4bdb62d69d92fa013cf3a0b747"/>
 		<rom name="Paintball Heroes (Europe) (X3D).cue" size="97" crc="df45ede4" md5="8de390e5f6dd16151852ca8a739824f0" sha1="1793c67cb5b85d6c80df4b99390d01b3e20532bc"/>
 	</game>
-	<game name="Painter Bear's Language Bridge French-English (USA) (En,Fr)">
+	<game name="Painter Bear's Language Bridge - Espanol &amp; English (USA) (En,Es)">
 		<category>Educational</category>
-		<description>Painter Bear's Language Bridge French-English (USA) (En,Fr)</description>
-		<rom name="Painter Bear's Language Bridge French-English (USA) (En,Fr).bin" size="370011936" crc="c5787f64" md5="65d382ececd3579000f54395297744f5" sha1="ecac1ba2c976da858fc6b85bce04c149b5930e04"/>
-		<rom name="Painter Bear's Language Bridge French-English (USA) (En,Fr).cue" size="125" crc="d43f42ed" md5="08bc62dd1628cf3912388475d72749b3" sha1="8af2a3a99d12435b1a7e362a7e6476e32db52a53"/>
+		<description>Painter Bear's Language Bridge - Espanol &amp; English (USA) (En,Es)</description>
+		<rom name="Painter Bear's Language Bridge - Espanol &amp; English (USA) (En,Es).bin" size="354770976" crc="f6b4de63" md5="ccf15bef1a2d4de05f04acbffe65c4d9" sha1="a6038b53e40fcd38b0094882e7ec1fd7bc76c297"/>
+		<rom name="Painter Bear's Language Bridge - Espanol &amp; English (USA) (En,Es).cue" size="130" crc="f92aab23" md5="180987473c155804650d99ec08882f77" sha1="6acd7eeb5c22c63110d58692ebc8d75a9eccb496"/>
 	</game>
-	<game name="Painter Bear's Language Bridge Spanish-English (USA) (En,Es)">
+	<game name="Painter Bear's Language Bridge - Francais &amp; English (USA) (En,Fr)">
 		<category>Educational</category>
-		<description>Painter Bear's Language Bridge Spanish-English (USA) (En,Es)</description>
-		<rom name="Painter Bear's Language Bridge Spanish-English (USA) (En,Es).bin" size="354770976" crc="f6b4de63" md5="ccf15bef1a2d4de05f04acbffe65c4d9" sha1="a6038b53e40fcd38b0094882e7ec1fd7bc76c297"/>
-		<rom name="Painter Bear's Language Bridge Spanish-English (USA) (En,Es).cue" size="126" crc="f0703c28" md5="64a8dafd13fdcce921bc692cd2fb4dc8" sha1="68425a625c09a8cecd3c0136ad835ce391c51048"/>
+		<description>Painter Bear's Language Bridge - Francais &amp; English (USA) (En,Fr)</description>
+		<rom name="Painter Bear's Language Bridge - Francais &amp; English (USA) (En,Fr).bin" size="370011936" crc="c5787f64" md5="65d382ececd3579000f54395297744f5" sha1="ecac1ba2c976da858fc6b85bce04c149b5930e04"/>
+		<rom name="Painter Bear's Language Bridge - Francais &amp; English (USA) (En,Fr).cue" size="131" crc="21509d8a" md5="85456bf2e41224ce1d681eedaade569b" sha1="99d707f824ba783a61286ca92b9b41bdaaa5b466"/>
 	</game>
 	<game name="Pajama Sam - De Helse Jacht op de Duistere Nacht (Belgium, Netherlands) (Rerelease)">
 		<category>Games</category>
@@ -152045,11 +152057,11 @@
 		<rom name="Super Collapse Puzzle Gallery 2-3-4 (Germany).bin" size="25775568" crc="d8f80baa" md5="2f9d8951656d5313cb75acb14fd46800" sha1="bdec607851777e35e1b0e2dc26e768c48a49d7b1"/>
 		<rom name="Super Collapse Puzzle Gallery 2-3-4 (Germany).cue" size="111" crc="41429c8b" md5="995bb98050003b3daecc20d52e756263" sha1="fa1697e997d75501ea7deafb4b26a849dccf4432"/>
 	</game>
-	<game name="Super Collapse! 3 (USA)">
+	<game name="Super Collapse! 3 (USA) (v3.11)">
 		<category>Games</category>
-		<description>Super Collapse! 3 (USA)</description>
-		<rom name="Super Collapse! 3 (USA).bin" size="326906832" crc="8b7cc67a" md5="1e339e58dbcbc8dc8f0b667d0fb2a53b" sha1="fd8bb51d2623b1228add8cd3bf942c24b18acc53"/>
-		<rom name="Super Collapse! 3 (USA).cue" size="89" crc="c8afd197" md5="181a457b474ef815321fabc99840fa47" sha1="01cff5bf65820d999b094049cbff9f072cfa58f0"/>
+		<description>Super Collapse! 3 (USA) (v3.11)</description>
+		<rom name="Super Collapse! 3 (USA) (v3.11).bin" size="326906832" crc="8b7cc67a" md5="1e339e58dbcbc8dc8f0b667d0fb2a53b" sha1="fd8bb51d2623b1228add8cd3bf942c24b18acc53"/>
+		<rom name="Super Collapse! 3 (USA) (v3.11).cue" size="97" crc="9852cb22" md5="3c92c661e24c06acc40635f4504f0087" sha1="f6368e359937bd4f52ee15e4d711e36892a89a74"/>
 	</game>
 	<game name="Super Collapse! II (USA)">
 		<category>Games</category>
