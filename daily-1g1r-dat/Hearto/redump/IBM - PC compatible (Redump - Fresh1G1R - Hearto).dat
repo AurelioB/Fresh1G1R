@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,815) (-y) [-aAbBcefkmMoprv] (2026-03-29 05-01-01) (Retool)</description>
-		<version>2026-03-29 05-01-01</version>
-		<date>2026-03-29 03-15-35</date>
+		<description>IBM - PC compatible (24,818) (-y) [-aAbBcefkmMoprv] (2026-03-30 03-54-18) (Retool)</description>
+		<version>2026-03-30 03-54-18</version>
+		<date>2026-03-30 03-16-18</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1461,17 +1461,17 @@
 		<rom name="300 Arcade Games &amp; Ultimate Boxing (USA).bin" size="722522640" crc="df79935c" md5="d275d13ced88b42cedd3cf7c412b4fbc" sha1="b776010e0c9a33dd30b7f96745aac0f3c0086de0"/>
 		<rom name="300 Arcade Games &amp; Ultimate Boxing (USA).cue" size="106" crc="c3b8be17" md5="3c33f7f4c5afd47b3204966696bd58f8" sha1="6329976363c94649519eda432193ceb4f0b9efc7"/>
 	</game>
-	<game name="300 Arcade Games (Europe)">
-		<category>Games</category>
-		<description>300 Arcade Games (Europe)</description>
-		<rom name="300 Arcade Games (Europe).bin" size="758256576" crc="66ccbe9c" md5="ce3c9e03ce1304ef40b2c889de2dd9fd" sha1="8c49c86e216926b8e7dea3087deec90151f2f1d9"/>
-		<rom name="300 Arcade Games (Europe).cue" size="91" crc="f5f6d5d2" md5="2df133581b79d6b1a65f759cf7334302" sha1="b965eec867f4b0d62b76aa34c77ab5132119b1c0"/>
-	</game>
 	<game name="300 Arcade Games (USA)">
 		<category>Demos</category>
 		<description>300 Arcade Games (USA)</description>
 		<rom name="300 Arcade Games (USA).bin" size="758609376" crc="8ef22c62" md5="16cb35f75b19f775dbe69c5b5ec82393" sha1="31fc4b6988d86cc94450183af55f1b27d5ff6f85"/>
 		<rom name="300 Arcade Games (USA).cue" size="88" crc="677fa2f8" md5="f130e90579cfe2bccec7c6ed58700ed9" sha1="a0e3c2524d276c780459de13887b8a86667b4a72"/>
+	</game>
+	<game name="300 Arcade Games (USA, Europe)">
+		<category>Games</category>
+		<description>300 Arcade Games (USA, Europe)</description>
+		<rom name="300 Arcade Games (USA, Europe).bin" size="758256576" crc="66ccbe9c" md5="ce3c9e03ce1304ef40b2c889de2dd9fd" sha1="8c49c86e216926b8e7dea3087deec90151f2f1d9"/>
+		<rom name="300 Arcade Games (USA, Europe).cue" size="96" crc="7da3c31f" md5="eb2d353a9502ed89ce9466e159852216" sha1="23d1647a0eade65ec52cc5c5a452dbace071940e"/>
 	</game>
 	<game name="300+ Way Cool Games for Windows (USA)">
 		<category>Demos</category>
@@ -3464,11 +3464,11 @@
 		<rom name="Ace Ventura (USA).bin" size="409880688" crc="a38124f3" md5="cf5ce04eb2435236fa7b41c3031ba3af" sha1="f40006c2b670d8bb705383b68d0091b3bb13b538"/>
 		<rom name="Ace Ventura (USA).cue" size="106" crc="28520c98" md5="bc57c372f19cc582d98ad22a8ec5a8c4" sha1="f122af9c08089355e7585c5a347f3d8abfbe0fc5"/>
 	</game>
-	<game name="Ace Ventura - Detective de Mascotas (Spain)">
+	<game name="Ace Ventura - Detective de mascotas (Spain)">
 		<category>Games</category>
-		<description>Ace Ventura - Detective de Mascotas (Spain)</description>
-		<rom name="Ace Ventura - Detective de Mascotas (Spain).bin" size="298875696" crc="0c512f03" md5="811952a520b1384f833ee877b7fbbc04" sha1="87ad02cbd73b59c8428cba348a00af5af9ec0b80"/>
-		<rom name="Ace Ventura - Detective de Mascotas (Spain).cue" size="109" crc="56574034" md5="605ae78d7ef71146f92d2fe23ae90063" sha1="ed7208f591ec077cef58fe092985cf9dafec5623"/>
+		<description>Ace Ventura - Detective de mascotas (Spain)</description>
+		<rom name="Ace Ventura - Detective de mascotas (Spain).bin" size="298875696" crc="0c512f03" md5="811952a520b1384f833ee877b7fbbc04" sha1="87ad02cbd73b59c8428cba348a00af5af9ec0b80"/>
+		<rom name="Ace Ventura - Detective de mascotas (Spain).cue" size="109" crc="9f0a3b2f" md5="52dda888d885ce320fb18b47587abac3" sha1="24a8c0420aa66dc38c7b6c6f4b7ed779aa59eb61"/>
 	</game>
 	<game name="Ace Ventura - Pet Detective - The Case of the Serial Shaver (USA)">
 		<category>Games</category>
@@ -23332,6 +23332,12 @@
 		<description>Cameron Files, The - Secret at Loch Ness (USA, Canada) (Disc 2)</description>
 		<rom name="Cameron Files, The - Secret at Loch Ness (USA, Canada) (Disc 2).bin" size="745304112" crc="52561287" md5="9bfb94ea986759ad3277d72e7c54f504" sha1="2ad9674f2a4d6ebb6f922ef5b988e15d87068bca"/>
 		<rom name="Cameron Files, The - Secret at Loch Ness (USA, Canada) (Disc 2).cue" size="129" crc="466ce89d" md5="fb2bf2a686aeaa6c9bfc23714d1b72cd" sha1="f0b5681cc5c43764be2787082af42eb2d0db9089"/>
+	</game>
+	<game name="Camgoo Sixplay (Europe) (En,Fr,De,Es,It,Nl)">
+		<category>Games</category>
+		<description>Camgoo Sixplay (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Camgoo Sixplay (Europe) (En,Fr,De,Es,It,Nl).bin" size="934717728" crc="caab3730" md5="59c4199bea21c20c0cccc40b130eef53" sha1="369158d80e2eff3240d12f234948bb5980c857a7"/>
+		<rom name="Camgoo Sixplay (Europe) (En,Fr,De,Es,It,Nl).cue" size="109" crc="36e96f12" md5="9db3bfe6355361cef4aa1e10b5f655d0" sha1="36466129156ee4ef899a4c2c0e61376264f1502d"/>
 	</game>
 	<game name="Campaign (Europe) (En,Fr,De,Es,It) (Rerelease)">
 		<category>Games</category>
@@ -90720,6 +90726,12 @@
 		<description>Marooned &amp; Campfire Legends - The Hookman (USA)</description>
 		<rom name="Marooned &amp; Campfire Legends - The Hookman (USA).iso" size="774733824" crc="8c04cf3c" md5="0530eff971de7deebfc5f668be06c756" sha1="81b7160996a3f5e6c2412749357ee9bca34b45f7"/>
 	</game>
+	<game name="Marooned (USA)">
+		<category>Games</category>
+		<description>Marooned (USA)</description>
+		<rom name="Marooned (USA).bin" size="142705248" crc="87b4a3f8" md5="4ea5c109ca5e8f9159e6de5d0f4fbba6" sha1="752e184dcb2befb2261cc7f6d26c2cc5f785ce31"/>
+		<rom name="Marooned (USA).cue" size="80" crc="e13bc2f0" md5="46188ffd0b0089a30d7db42f29968855" sha1="dbbaf94c72a3d50c5f015ba532515e064018571b"/>
+	</game>
 	<game name="Marooned - 2 Pack (USA)">
 		<category>Games</category>
 		<description>Marooned - 2 Pack (USA)</description>
@@ -100886,11 +100898,16 @@
 		<rom name="Mysterioese Staedte - Kairo (Germany).bin" size="71928864" crc="955f379c" md5="607220219c83d3c0c4edb6ce8a7913cb" sha1="3158bd7f45db73d340a1cb9c3551ac399a3105ae"/>
 		<rom name="Mysterioese Staedte - Kairo (Germany).cue" size="103" crc="06abb75c" md5="5e1d8ee4c216b37120a121e5a298a278" sha1="05f8525aeae62453cf948ac20c4b0e21f6f0cd95"/>
 	</game>
-	<game name="Mysterious Adventures - 6-Pack (USA)">
+	<game name="Mysterious Adventures - 16 Complete Games! (USA)">
 		<category>Games</category>
-		<description>Mysterious Adventures - 6-Pack (USA)</description>
-		<rom name="Mysterious Adventures - 6-Pack (USA).bin" size="432438720" crc="efac7134" md5="eac1d4370bb91f4beb98baaa12353991" sha1="216af28aa646d7a20024306d836ac334c040fd1d"/>
-		<rom name="Mysterious Adventures - 6-Pack (USA).cue" size="102" crc="ebd69d80" md5="24a2066d1edeccf12a00b5fac7b8efdf" sha1="08e55ff8685e2e711c396a06fcded6e899a50914"/>
+		<description>Mysterious Adventures - 16 Complete Games! (USA)</description>
+		<rom name="Mysterious Adventures - 16 Complete Games! (USA).iso" size="871804928" crc="08b36ea7" md5="56efd8534e3aae202d714c06c8f55d8d" sha1="b31a6f7e9f51a5c4081a5467f99e5173bd76e8c9"/>
+	</game>
+	<game name="Mysterious Adventures - 6 Complete Games! (USA)">
+		<category>Games</category>
+		<description>Mysterious Adventures - 6 Complete Games! (USA)</description>
+		<rom name="Mysterious Adventures - 6 Complete Games! (USA).bin" size="432438720" crc="efac7134" md5="eac1d4370bb91f4beb98baaa12353991" sha1="216af28aa646d7a20024306d836ac334c040fd1d"/>
+		<rom name="Mysterious Adventures - 6 Complete Games! (USA).cue" size="113" crc="514fbac3" md5="735de58a619e5f6c7ac36598c95d2eb4" sha1="f2e0f90818930fc6266c253046520c8c494b1993"/>
 	</game>
 	<game name="Mysterious City, The - Cairo &amp; The Mysterious City - Vegas (USA)">
 		<category>Games</category>
