@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (12,949) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-30 03-54-18) (Retool)</description>
-		<version>2026-03-30 03-54-18</version>
-		<date>2026-03-30 03-22-43</date>
+		<description>IBM - PC compatible (12,961) (-ly) [-aAbBcdDefkmMopPruv] (2026-03-31 02-50-10) (Retool)</description>
+		<version>2026-03-31 02-50-10</version>
+		<date>2026-03-31 03-21-12</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -24880,6 +24880,26 @@
 		<description>Empire - Total War (World) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 2)</description>
 		<rom name="Empire - Total War (World) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 2).iso" size="4450385920" crc="cb8b5814" md5="3efa734a34723d435023029161e90078" sha1="674a3ac6431814ebfcdb9d84254be1cf98eb5991"/>
 	</game>
+	<game name="Empire - Total War - Gold Edition (Australia) (Disc 1)">
+		<category>Games</category>
+		<description>Empire - Total War - Gold Edition (Australia) (Disc 1)</description>
+		<rom name="Empire - Total War - Gold Edition (Australia) (Disc 1).iso" size="7527694336" crc="8b954892" md5="0dbe7b83b6c1d735ac248b4a3d74013e" sha1="4af9db9a7dace18c3cee6fa0aa577b092e04e669"/>
+	</game>
+	<game name="Empire - Total War - Gold Edition (Australia) (Disc 2)">
+		<category>Games</category>
+		<description>Empire - Total War - Gold Edition (Australia) (Disc 2)</description>
+		<rom name="Empire - Total War - Gold Edition (Australia) (Disc 2).iso" size="5912100864" crc="4b407622" md5="a6da75f8dcd54b00e5b4363bc2cbda26" sha1="c841b6800d1a39b42cb226961da693284b69fcf9"/>
+	</game>
+	<game name="Empire - Total War - Gold Edition (Australia) (En,Fr,De,Es,It,Pl,Cs) (Disc 1) (Fivestar Games)">
+		<category>Games</category>
+		<description>Empire - Total War - Gold Edition (Australia) (En,Fr,De,Es,It,Pl,Cs) (Disc 1) (Fivestar Games)</description>
+		<rom name="Empire - Total War - Gold Edition (Australia) (En,Fr,De,Es,It,Pl,Cs) (Disc 1) (Fivestar Games).iso" size="7527399424" crc="118b9120" md5="7f67fd518d8e6831319639eb7e567149" sha1="a6bad246ec10d17f91110e97b2d948152c9eed3d"/>
+	</game>
+	<game name="Empire - Total War - Gold Edition (Australia) (En,Fr,De,Es,It,Pl,Cs) (Disc 2) (Fivestar Games)">
+		<category>Games</category>
+		<description>Empire - Total War - Gold Edition (Australia) (En,Fr,De,Es,It,Pl,Cs) (Disc 2) (Fivestar Games)</description>
+		<rom name="Empire - Total War - Gold Edition (Australia) (En,Fr,De,Es,It,Pl,Cs) (Disc 2) (Fivestar Games).iso" size="5956042752" crc="13caeef4" md5="283e68f068201f2132fdf55d213b336f" sha1="5c157b8f8bfc5ebfbcbe2cf8bec05d685028c9a8"/>
+	</game>
 	<game name="Empire Earth (USA)">
 		<category>Games</category>
 		<description>Empire Earth (USA)</description>
@@ -25269,6 +25289,18 @@
 		<description>Epic Pinball (USA)</description>
 		<rom name="Epic Pinball (USA).bin" size="9727872" crc="2a97c62f" md5="ab5eea0070a46dbdf6455e331af7262b" sha1="06272bc37d20b0c4bef06d726b60ad0f15409f10"/>
 		<rom name="Epic Pinball (USA).cue" size="107" crc="7139f4ec" md5="c65caf4d445cd7b952e0a8a3b567a9a9" sha1="40ddb9f4e6643d579bde30abd78703d8f2f19627"/>
+	</game>
+	<game name="Epicenter Interactive Presents - Dragon's Lair Deluxe Pack (Canada) (Disc 1)">
+		<category>Games</category>
+		<description>Epicenter Interactive Presents - Dragon's Lair Deluxe Pack (Canada) (Disc 1)</description>
+		<rom name="Epicenter Interactive Presents - Dragon's Lair Deluxe Pack (Canada) (Disc 1).bin" size="753599616" crc="111a539e" md5="abb1d83bb32da885fe18202ff12f1ba6" sha1="ac3befd7544d0bc98db2d1698b54052bbe3eacb3"/>
+		<rom name="Epicenter Interactive Presents - Dragon's Lair Deluxe Pack (Canada) (Disc 1).cue" size="165" crc="5cfc77c0" md5="8da50ca7371f51a3bce6a45587728042" sha1="b91dfb6cdf50bd95d9068d6af538823777c60737"/>
+	</game>
+	<game name="Epicenter Interactive Presents - Dragon's Lair Deluxe Pack (Canada) (Disc 2)">
+		<category>Games</category>
+		<description>Epicenter Interactive Presents - Dragon's Lair Deluxe Pack (Canada) (Disc 2)</description>
+		<rom name="Epicenter Interactive Presents - Dragon's Lair Deluxe Pack (Canada) (Disc 2).bin" size="758167200" crc="6e11d2df" md5="6e035d19c2e267bb71df509cdaaa7b73" sha1="c124b2fd417e51af5c7a5de78dd49546159feda0"/>
+		<rom name="Epicenter Interactive Presents - Dragon's Lair Deluxe Pack (Canada) (Disc 2).cue" size="165" crc="5da15111" md5="0c2807c3316b58af69d1c3cdfd6dcb5a" sha1="09f59fc18905bf2cea90117ac38b398394dca0e9"/>
 	</game>
 	<game name="Eracha (Europe)">
 		<category>Games</category>
@@ -31105,6 +31137,24 @@
 		<description>GTR 2 - FIA GT Racing Game (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="GTR 2 - FIA GT Racing Game (Europe) (En,Fr,De,Es,It).iso" size="1592131584" crc="2faae63c" md5="47bc451512bb98696fc787bd3f10b5ca" sha1="35cad6639896ce9a9f8ea00db35177e3553a7404"/>
 	</game>
+	<game name="GTR 2 - FIA GT Racing Game (USA) (Disc 1)">
+		<category>Games</category>
+		<description>GTR 2 - FIA GT Racing Game (USA) (Disc 1)</description>
+		<rom name="GTR 2 - FIA GT Racing Game (USA) (Disc 1).bin" size="434948304" crc="93f8ece9" md5="5b3c194b00e138197ce09edd3ff97135" sha1="836e987570cafdeefad368e8d57c0659ad392118"/>
+		<rom name="GTR 2 - FIA GT Racing Game (USA) (Disc 1).cue" size="107" crc="ebc1890a" md5="fa2d4bf9f2f14d5f86b5d197a4c6a8a1" sha1="629400ac6d75ebf9a721490d27970104ae3187cd"/>
+	</game>
+	<game name="GTR 2 - FIA GT Racing Game (USA) (Disc 2)">
+		<category>Games</category>
+		<description>GTR 2 - FIA GT Racing Game (USA) (Disc 2)</description>
+		<rom name="GTR 2 - FIA GT Racing Game (USA) (Disc 2).bin" size="843380160" crc="d5bf7236" md5="a6e83f2a11f6ddf69dc9667109f3fbee" sha1="73d6cfb0ddb2f0161d4458c5a4de15e755643da3"/>
+		<rom name="GTR 2 - FIA GT Racing Game (USA) (Disc 2).cue" size="107" crc="ea9cafdb" md5="7cb004e3d1ba019ea41a687bf9821631" sha1="c06332601f69a44a2bd99474f15776d8f3cd521c"/>
+	</game>
+	<game name="GTR 2 - FIA GT Racing Game (USA) (Disc 3)">
+		<category>Games</category>
+		<description>GTR 2 - FIA GT Racing Game (USA) (Disc 3)</description>
+		<rom name="GTR 2 - FIA GT Racing Game (USA) (Disc 3).bin" size="523265904" crc="140879da" md5="2a5b0aadce5af5c4f662393b90fca5cf" sha1="14c3c8bb5fb82ecf03955ff13d98e010deb59bd1"/>
+		<rom name="GTR 2 - FIA GT Racing Game (USA) (Disc 3).cue" size="107" crc="5c874fab" md5="3760276f69bf7e368a873b04b1c2ce86" sha1="c48b30fca453f6667efb3bbd49315b7f45fd11fe"/>
+	</game>
 	<game name="GTR Evolution (USA)">
 		<category>Games</category>
 		<description>GTR Evolution (USA)</description>
@@ -36227,11 +36277,11 @@
 		<rom name="Hidden Mysteries - Salem Secrets &amp; Lost Secrets - Caribbean Explorer - Secrets of the Sea (USA).bin" size="497010528" crc="4750a98d" md5="e93b8ff4bbea1112ab837392996fbda5" sha1="715af235ba51b4eeb116b82d7cf3bd82e2fec291"/>
 		<rom name="Hidden Mysteries - Salem Secrets &amp; Lost Secrets - Caribbean Explorer - Secrets of the Sea (USA).cue" size="161" crc="5558833a" md5="aa6953112a5d0d37fb02b41e640a5c28" sha1="218044541f472adb6c525b85a398875b3b6fcdad"/>
 	</game>
-	<game name="Hidden Mysteries - The Fateful Voyage - Titanic &amp; Hollywood - The Director's Cut (USA)">
+	<game name="Hidden Mysteries - The Fateful Voyage - Titanic &amp; Hollywood - The Director's Cut (USA) (Rev 1)">
 		<category>Games</category>
-		<description>Hidden Mysteries - The Fateful Voyage - Titanic &amp; Hollywood - The Director's Cut (USA)</description>
-		<rom name="Hidden Mysteries - The Fateful Voyage - Titanic &amp; Hollywood - The Director's Cut (USA).bin" size="430853472" crc="7d6fb8ed" md5="a8e12e260b3b8c0cf9efc19e71b0b874" sha1="639ca795115fbe5b72a15f82ce94c0da1d619680"/>
-		<rom name="Hidden Mysteries - The Fateful Voyage - Titanic &amp; Hollywood - The Director's Cut (USA).cue" size="152" crc="79574211" md5="782c4fc9808a387e7219e08a455657d3" sha1="36e921ab403bb7baa8f391c776a524771d45c072"/>
+		<description>Hidden Mysteries - The Fateful Voyage - Titanic &amp; Hollywood - The Director's Cut (USA) (Rev 1)</description>
+		<rom name="Hidden Mysteries - The Fateful Voyage - Titanic &amp; Hollywood - The Director's Cut (USA) (Rev 1).bin" size="430808784" crc="dac2dcfb" md5="9f81dd709219583af7a0574a6e0de998" sha1="700f42a9d3f624fbf511cabef8cf1595526b5819"/>
+		<rom name="Hidden Mysteries - The Fateful Voyage - Titanic &amp; Hollywood - The Director's Cut (USA) (Rev 1).cue" size="160" crc="81e6c38e" md5="2c32c493d7124a207ca0fccd8f9a701a" sha1="702365375483c28dfd2fedd95958bc62d07e20e4"/>
 	</game>
 	<game name="Hidden Mysteries - The White House &amp; Lost Secrets - Ancient Mysteries (USA)">
 		<category>Games</category>
@@ -40480,12 +40530,6 @@
 		<rom name="Jane's Combat Simulations - AH-64D Longbow (Europe) (Disc 2).bin" size="680983968" crc="c4a09a0f" md5="a38add30a150681f787cc7e42f05a393" sha1="d11931230bc0aef28e2f013805d8e4c9330f96bb"/>
 		<rom name="Jane's Combat Simulations - AH-64D Longbow (Europe) (Disc 2).cue" size="126" crc="6c45da69" md5="a50a8bcb0d464761a099285e823272ab" sha1="ea356aee33536aab636ab689de485eb5c7ba8aa9"/>
 	</game>
-	<game name="Jane's Combat Simulations - AH-64D Longbow (USA) (Limited Edition)">
-		<category>Games</category>
-		<description>Jane's Combat Simulations - AH-64D Longbow (USA) (Limited Edition)</description>
-		<rom name="Jane's Combat Simulations - AH-64D Longbow (USA) (Limited Edition).bin" size="658305984" crc="2dbd0046" md5="ae9fefaf1725ff553e478df8a0eef10f" sha1="ed59d6c6d13ea1d5a853f634229f542961b548fd"/>
-		<rom name="Jane's Combat Simulations - AH-64D Longbow (USA) (Limited Edition).cue" size="132" crc="5ba1eb58" md5="08b531b9df4686e54728fc482ec60182" sha1="1e47918798f804192b42fb51d2f9f6ed8dfa9ade"/>
-	</game>
 	<game name="Jane's Combat Simulations - AH-64D Longbow FX (USA)">
 		<category>Games</category>
 		<description>Jane's Combat Simulations - AH-64D Longbow FX (USA)</description>
@@ -43943,11 +43987,11 @@
 		<description>Legends from the Other Side (USA)</description>
 		<rom name="Legends from the Other Side (USA).iso" size="3672244224" crc="df59d8d9" md5="ee1f02cb3e0eec47d304a4dbec3da1ff" sha1="8e3257ce6c4e446c47ac46ffe8628c7f4937c2ba"/>
 	</game>
-	<game name="Legends in Time (USA) (v2)">
+	<game name="Legends in Time (USA) (v3.0)">
 		<category>Games</category>
-		<description>Legends in Time (USA) (v2)</description>
-		<rom name="Legends in Time (USA) (v2).bin" size="320998608" crc="c6c2db7f" md5="974df9ffd3c4b342fcdb1688305046d3" sha1="3e06c8eea0bde4d1ec157edbc8a980b60d9808a1"/>
-		<rom name="Legends in Time (USA) (v2).cue" size="92" crc="4a94ade9" md5="80596240491c09d426cc3c3fcf6d69a0" sha1="622ddcee754b71c9b8b7d05cbf97ccb83705c815"/>
+		<description>Legends in Time (USA) (v3.0)</description>
+		<rom name="Legends in Time (USA) (v3.0).bin" size="321029184" crc="6aa8c59f" md5="b509dca5d23c1530ce7c45fd82cc4345" sha1="b6e9da6b76b9b516a5cb29198b4f6fbd1c37b476"/>
+		<rom name="Legends in Time (USA) (v3.0).cue" size="94" crc="dda3ba1d" md5="b60f10dea11e39c4610afb8cd33cc655" sha1="8ea86eef999e0b021a0220982b09ffe76d69220b"/>
 	</game>
 	<game name="Legends of Adventure (USA)">
 		<category>Games</category>
@@ -45073,6 +45117,12 @@
 		<rom name="Loco-Commotion (Italy) (Covermount).bin" size="143599008" crc="d4b74218" md5="e5ba6ac504c3e140cf97cb3648012b83" sha1="0b9ee029e3446b9fc2909944b2bb9d90a90e9dcc"/>
 		<rom name="Loco-Commotion (Italy) (Covermount).cue" size="101" crc="7b74b867" md5="11bb7830fc87155e27ea14f47bde6f6e" sha1="caeca71f688643bebe1547996a9871af53bd6086"/>
 	</game>
+	<game name="Locos por el surf - El Videojuego (Spain) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Locos por el surf - El Videojuego (Spain) (En,Fr,De,Es,It)</description>
+		<rom name="Locos por el surf - El Videojuego (Spain) (En,Fr,De,Es,It).bin" size="184408560" crc="303ad816" md5="e8bf980446a5e02ec076a1fd29901e79" sha1="0d3c5a6b28e9e7f29523fa9460b41528f601166f"/>
+		<rom name="Locos por el surf - El Videojuego (Spain) (En,Fr,De,Es,It).cue" size="124" crc="2fbc7632" md5="b8da938776cb6c78ed6b773c5dba61a7" sha1="88e10c7fc2f65f41a994a2fac16967a8e143e381"/>
+	</game>
 	<game name="Locus (Europe)">
 		<category>Games</category>
 		<description>Locus (Europe)</description>
@@ -45824,6 +45874,12 @@
 		<category>Games</category>
 		<description>Lost Planet 3 (Europe) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru) (Disc 2)</description>
 		<rom name="Lost Planet 3 (Europe) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru) (Disc 2).iso" size="5980094464" crc="695c014d" md5="d898357da63955b56b0c1d5372e69d70" sha1="be85053347c66a74335a1357c6585b3b06202d0e"/>
+	</game>
+	<game name="Lost Secrets - Bermuda Triangle (USA)">
+		<category>Games</category>
+		<description>Lost Secrets - Bermuda Triangle (USA)</description>
+		<rom name="Lost Secrets - Bermuda Triangle (USA).bin" size="217280112" crc="f017ff8a" md5="2b023fad601494a1999c68de2f04f73c" sha1="2ed80effab3f27e71fe8fbcf5e878dff69d40597"/>
+		<rom name="Lost Secrets - Bermuda Triangle (USA).cue" size="103" crc="4717d310" md5="2a1dea5e947684e91014d0ebbad13ee4" sha1="343216eda51c860576ca8e623962ab6967d8711b"/>
 	</game>
 	<game name="Lost Secrets - Caribbean Explorer - Secrets of the Sea &amp; Lost Secrets - Bermuda Triangle (USA)">
 		<category>Games</category>
@@ -62821,7 +62877,7 @@
 	<game name="Quest Trio, The (USA)">
 		<category>Games</category>
 		<description>Quest Trio, The (USA)</description>
-		<rom name="Quest Trio, The (USA).bin" size="204689856" crc="c526844e" md5="2992a2df19d6954cac5a660c26cf87d0" sha1="a336a2803cf29c139d5f12c02514cb65e02fae56"/>
+		<rom name="Quest Trio, The (USA).bin" size="708535296" crc="1abed237" md5="4fc2aac299db449e8f4aed314ad3e4d3" sha1="1d31f5cdf2dec5b29b69de35fc469fd25c2e0e10"/>
 		<rom name="Quest Trio, The (USA).cue" size="87" crc="a7d10fb1" md5="ff1c4b9d4d32815b8dec5c9377a2c89a" sha1="a679eb4393dbebe7232fc13c5f4ac7ada389b26c"/>
 	</game>
 	<game name="Quest Trio, The - Jewels, Cards and Tiles (USA)">
@@ -73228,6 +73284,26 @@
 		<description>Soul Hunt (Europe) (Disc 3)</description>
 		<rom name="Soul Hunt (Europe) (Disc 3).bin" size="706028064" crc="19d3d585" md5="0a179423c9dccb3f33ed85f5471e6380" sha1="8388ca542bc50cc41ebfb89f7c7018ab5be70c37"/>
 		<rom name="Soul Hunt (Europe) (Disc 3).cue" size="93" crc="5eede268" md5="9e83726433185dcebd24040d12030d7f" sha1="7e267856bd824d8f7d27c20667747176b2fe8285"/>
+	</game>
+	<game name="Soul Ride (USA)">
+		<category>Games</category>
+		<description>Soul Ride (USA)</description>
+		<rom name="Soul Ride (USA) (Track 01).bin" size="128833152" crc="715450cd" md5="24360dd7ff3d8379766b9fc8977ef7be" sha1="64fd2e25420e63aedf1b0202eccbb874e331cdcc"/>
+		<rom name="Soul Ride (USA) (Track 02).bin" size="15833664" crc="188dae1a" md5="ecc19d498356f64d8cea7d3b81eea86e" sha1="95657b5b7b58055de07fe8fefc4bdc2bf4da4012"/>
+		<rom name="Soul Ride (USA) (Track 03).bin" size="20347152" crc="61fb39d2" md5="2879dca8c24fe66dde057c6ffe294d13" sha1="dcbc7173d490b98d121c64479e477e233dfaae6b"/>
+		<rom name="Soul Ride (USA) (Track 04).bin" size="27262032" crc="869aa890" md5="8d45409470975c19801ecf127bf4c326" sha1="f79d008109fdd9749755f887597a69ea77c23f60"/>
+		<rom name="Soul Ride (USA) (Track 05).bin" size="34633200" crc="5c5788a7" md5="dda03fd3af050fb4c58786fdd0cdf127" sha1="100185cdfe3df0eae5bb3936d74370ce97daa9a5"/>
+		<rom name="Soul Ride (USA) (Track 06).bin" size="19314624" crc="3b049a94" md5="722861b9d6669a15a1403e59a2695e86" sha1="d02115c910f1cdfa1e6c1ec30f5c5be5ed8949fd"/>
+		<rom name="Soul Ride (USA) (Track 07).bin" size="25232256" crc="60b37744" md5="ff82e2a7a0577d942e21d7bf8c0408ff" sha1="64d4584611283bde74fb34b81106743344b204a3"/>
+		<rom name="Soul Ride (USA) (Track 08).bin" size="23997456" crc="4173f786" md5="27fd4b7049edd6345d6351a9bde31849" sha1="0851f4ff29b4802caa886464a4d8dae759519a2e"/>
+		<rom name="Soul Ride (USA) (Track 09).bin" size="30681840" crc="54d31342" md5="c9460e8dc10a08a03a95fe608cb2fb4c" sha1="940ddef376cf7d93e165ada7b1f263540dbfed18"/>
+		<rom name="Soul Ride (USA) (Track 10).bin" size="16783872" crc="d1d46e5e" md5="b449550f86826c2e9ef7d66e03632aef" sha1="2b6849e8cdd59d103b8af22de7786bb07a003070"/>
+		<rom name="Soul Ride (USA) (Track 11).bin" size="24091536" crc="79d61839" md5="0ac7dd35ddce2ce6c211d5fc012f309a" sha1="d6280f981dc3034fd1aea76c7d3303bd06c16e7f"/>
+		<rom name="Soul Ride (USA) (Track 12).bin" size="14196672" crc="a3c8d73a" md5="5347a1ccadf2df3fc0fb2b121e46e52c" sha1="638b98e984ab1fee2e2cae3d6b0d1db6da74612b"/>
+		<rom name="Soul Ride (USA) (Track 13).bin" size="36251376" crc="612b3788" md5="34a175d03332d35f5baddd1fa8b519f7" sha1="defbe52084b0b9717172618299d63cda67231a32"/>
+		<rom name="Soul Ride (USA) (Track 14).bin" size="21574896" crc="e0ba8e01" md5="7978f292062d15e06c0b13e1d5cabaee" sha1="fde99240d57e7d5b29abb1c6db093c8bb6db3707"/>
+		<rom name="Soul Ride (USA) (Track 15).bin" size="50029392" crc="db4a5988" md5="f915ae57758171591775aa369c91b6a6" sha1="10ba2578885b4fd2d9e2000b72cb56791db32e68"/>
+		<rom name="Soul Ride (USA).cue" size="1356" crc="5ddafc68" md5="3c907e137823e87d380c82e5e53b7b09" sha1="d355937a6411d5069866de6c53aa0612b4753975"/>
 	</game>
 	<game name="Soulbringer (USA) (Disc 1)">
 		<category>Games</category>
@@ -89213,6 +89289,11 @@
 		<description>World of Krondor (USA)</description>
 		<rom name="World of Krondor (USA).bin" size="532104720" crc="3c36d1cd" md5="eee7a2750672774995ab2a2f4d11d731" sha1="a163e3c0bb32d8fa197d29af067323cd9306e6bb"/>
 		<rom name="World of Krondor (USA).cue" size="111" crc="b0f82ffd" md5="9ae7d9dc9872b2123914b65ff5f1ccf8" sha1="63e2078b399c6d56e6ee14008a4011490a29e306"/>
+	</game>
+	<game name="World of Mahjongg (USA)">
+		<category>Games</category>
+		<description>World of Mahjongg (USA)</description>
+		<rom name="World of Mahjongg (USA).iso" size="987777024" crc="c6317f47" md5="130b166e060438faa2026fc6041300b3" sha1="8c67bc539d0af37b4a543876facdfdbebc3d89e2"/>
 	</game>
 	<game name="World of Mahjongg - Deluxe Edition (USA)">
 		<category>Games</category>
