@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,838) (-y) [-aAbBcefkmMoprv] (2026-03-31 02-50-10) (Retool)</description>
-		<version>2026-03-31 02-50-10</version>
-		<date>2026-03-31 03-14-57</date>
+		<description>IBM - PC compatible (24,846) (-y) [-aAbBcefkmMoprv] (2026-04-01 03-57-22) (Retool)</description>
+		<version>2026-04-01 03-57-22</version>
+		<date>2026-04-01 03-14-20</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -22716,11 +22716,11 @@
 		<rom name="Caesar II (USA) (Rerelease) (1997-11-12).bin" size="542058384" crc="0a33ffb3" md5="a46dec9e1ea1a7992fa6057dc683dfce" sha1="70b45584c56dab996329a67c5f7316a48fd316d3"/>
 		<rom name="Caesar II (USA) (Rerelease) (1997-11-12).cue" size="129" crc="3c7618e9" md5="7b4fc3665109ca435417dd6505997aa9" sha1="7cc324f57b6f11fd5c4113b32f459b1bf92aed7a"/>
 	</game>
-	<game name="Caesar III (USA)">
+	<game name="Caesar III (USA) (v1.1)">
 		<category>Games</category>
-		<description>Caesar III (USA)</description>
-		<rom name="Caesar III (USA).bin" size="703751328" crc="993d2367" md5="1591950d3be28a70614c49bc78327ab1" sha1="fdcc59fb1687a0b0427cd6571a40c9d196a9c8eb"/>
-		<rom name="Caesar III (USA).cue" size="105" crc="d8105210" md5="f06894789e318ed63dce7a155ce7428d" sha1="9b35162b9a1911130b674629a9f6217ff0936d3b"/>
+		<description>Caesar III (USA) (v1.1)</description>
+		<rom name="Caesar III (USA) (v1.1).bin" size="760824960" crc="77239f23" md5="d98b4667850e026ff7522b4af4937a60" sha1="aa2dba7b19cebe7da15cce2c0365ff5eda3b2715"/>
+		<rom name="Caesar III (USA) (v1.1).cue" size="112" crc="ede6bcc6" md5="402aace6adf9e91e7c7a8b2d1a3bab57" sha1="3302dbdeb49307f86b2a62fe11aff89dab1a1611"/>
 	</game>
 	<game name="Caesar IV (Europe) (Disc 1) (Rev 1)">
 		<category>Games</category>
@@ -36663,11 +36663,17 @@
 		<rom name="Deus Ex (USA) (Demo).bin" size="439414752" crc="4af7b3f9" md5="706f2ccfa2569d1af46325388f8f5e1d" sha1="f9c433c0c8dd9862ff20d9ba43afeb568a397f8f"/>
 		<rom name="Deus Ex (USA) (Demo).cue" size="86" crc="a3b4003c" md5="5c6d7df2be06f4b2c39ff62211990c53" sha1="49a83f4fb17674c9b2a3a5663227666b5b36b1c7"/>
 	</game>
-	<game name="Deus Ex (USA) (Game of the Year Edition)">
+	<game name="Deus Ex (USA) (Game of the Year Edition) (1112f)">
 		<category>Games</category>
-		<description>Deus Ex (USA) (Game of the Year Edition)</description>
-		<rom name="Deus Ex (USA) (Game of the Year Edition).bin" size="773168256" crc="2f8f39e2" md5="196674293be1a57b64824742698ff1db" sha1="39255d93dcef4dbcd77a6be0fa19aa3ab43ba626"/>
-		<rom name="Deus Ex (USA) (Game of the Year Edition).cue" size="106" crc="8d361831" md5="0b0382251f93dbcc9f57d88e28df7d71" sha1="bdcd9955e67284e1188f40afb28f682f1f98e831"/>
+		<description>Deus Ex (USA) (Game of the Year Edition) (1112f)</description>
+		<rom name="Deus Ex (USA) (Game of the Year Edition) (1112f).bin" size="773168256" crc="2f8f39e2" md5="196674293be1a57b64824742698ff1db" sha1="39255d93dcef4dbcd77a6be0fa19aa3ab43ba626"/>
+		<rom name="Deus Ex (USA) (Game of the Year Edition) (1112f).cue" size="114" crc="6ace7a17" md5="fd5d17385f9940f7c361306a16bbdbe5" sha1="b41ce9e1c7e7e10ee3544242f73d45e03fb1c8fd"/>
+	</game>
+	<game name="Deus Ex (USA) (Game of the Year Edition) (v1109f)">
+		<category>Games</category>
+		<description>Deus Ex (USA) (Game of the Year Edition) (v1109f)</description>
+		<rom name="Deus Ex (USA) (Game of the Year Edition) (v1109f).bin" size="773248224" crc="0c7e2d37" md5="e9c24fe5ed409b5a4d986177ffb20243" sha1="4d6ad10489a2db569c3199485c6dc8870738457d"/>
+		<rom name="Deus Ex (USA) (Game of the Year Edition) (v1109f).cue" size="115" crc="bf8386cf" md5="cea36cfe64d15a3838549918026c28fc" sha1="1a60bea5490252f21e57ca34815b499dfd04a1a8"/>
 	</game>
 	<game name="Deus Ex - Antologia (Poland)">
 		<category>Games</category>
@@ -67354,6 +67360,12 @@
 		<description>Heroes of Might and Magic V (Europe) (Might and Magic Heroes Collection)</description>
 		<rom name="Heroes of Might and Magic V (Europe) (Might and Magic Heroes Collection).iso" size="7166525440" crc="83c7c91d" md5="701a5a9c7eaa9d3ad958c956f34216c8" sha1="7a0db928a92b43943eab53001f957b50a10037f6"/>
 	</game>
+	<game name="Heroes of Might and Magic V (Korea) (Disc 1)">
+		<category>Games</category>
+		<description>Heroes of Might and Magic V (Korea) (Disc 1)</description>
+		<rom name="Heroes of Might and Magic V (Korea) (Disc 1).bin" size="752797584" crc="87d0fe4f" md5="e317e43250b206740bdd6ff583004d70" sha1="e5db04a38c2aaf0a8af5db7894895f7c056e6255"/>
+		<rom name="Heroes of Might and Magic V (Korea) (Disc 1).cue" size="110" crc="91c896b3" md5="5e332fee212ac8f60b052cf3cc73c06f" sha1="610531325c2f5a7ff4a640af87a51a7393116953"/>
+	</game>
 	<game name="Heroes of Might and Magic V (UK) (Demo)">
 		<category>Demos</category>
 		<description>Heroes of Might and Magic V (UK) (Demo)</description>
@@ -76389,11 +76401,11 @@
 		<description>Jewel Quest III &amp; Jewel Quest Mysteries - Curse of the Emerald Tear (USA)</description>
 		<rom name="Jewel Quest III &amp; Jewel Quest Mysteries - Curse of the Emerald Tear (USA).iso" size="1022984192" crc="39b1ffe2" md5="e55765336bd95a2b9b264cb28c0e5481" sha1="9d7c1729f0cea3d25236583e9c7ee84b2e78f1c6"/>
 	</game>
-	<game name="Jewel Quest III (USA)">
+	<game name="Jewel Quest III (USA) (2008-07-18)">
 		<category>Games</category>
-		<description>Jewel Quest III (USA)</description>
-		<rom name="Jewel Quest III (USA).bin" size="580640592" crc="d8845450" md5="b8a8f971fe6cb40182ee9ccc757cf330" sha1="2540f4b81a4dbb6ee7ec9cb293c042830cd6c8b9"/>
-		<rom name="Jewel Quest III (USA).cue" size="87" crc="7bb47c9a" md5="0e448c18cda3f4a413e6854e226b8ec4" sha1="ff2f2489a944821d34292ec87f284d2db864ac81"/>
+		<description>Jewel Quest III (USA) (2008-07-18)</description>
+		<rom name="Jewel Quest III (USA) (2008-07-18).bin" size="580640592" crc="d8845450" md5="b8a8f971fe6cb40182ee9ccc757cf330" sha1="2540f4b81a4dbb6ee7ec9cb293c042830cd6c8b9"/>
+		<rom name="Jewel Quest III (USA) (2008-07-18).cue" size="100" crc="57284a62" md5="22e42fecc9c0c59db1366915b342939b" sha1="3fc7fef8fcb0efce50898c8c6eb869c7520022e7"/>
 	</game>
 	<game name="Jewel Quest IV - Heritage (USA)">
 		<category>Games</category>
@@ -78704,11 +78716,11 @@
 		<rom name="Kawasaki Fantasy Motocross (USA) (Track 11).bin" size="1589952" crc="7f529a03" md5="cdcaf08fef260b098871e43cae96ab78" sha1="75b4ba4415d87d129651f213f271077e96c44c90"/>
 		<rom name="Kawasaki Fantasy Motocross (USA).cue" size="1379" crc="a530b411" md5="ba2cfe2ffa2c9c6844d130659e83af16" sha1="74beeda867dcde3a1df613479cbc93e24a425498"/>
 	</game>
-	<game name="Kayak Extreme (USA)">
+	<game name="Kayak Extreme (Canada)">
 		<category>Games</category>
-		<description>Kayak Extreme (USA)</description>
-		<rom name="Kayak Extreme (USA).bin" size="152743584" crc="f5e2872e" md5="b5abbb87f4f79eb8b35019eee2abf5f8" sha1="c960f69ec1e12f74a17196f3a099a2934bf804ee"/>
-		<rom name="Kayak Extreme (USA).cue" size="85" crc="cf944a80" md5="cef8a0125e320fbb5cb5609a04d256b8" sha1="d3c569b5dd58ea1249e632e8b0967a0c28cdab34"/>
+		<description>Kayak Extreme (Canada)</description>
+		<rom name="Kayak Extreme (Canada).bin" size="152743584" crc="f5e2872e" md5="b5abbb87f4f79eb8b35019eee2abf5f8" sha1="c960f69ec1e12f74a17196f3a099a2934bf804ee"/>
+		<rom name="Kayak Extreme (Canada).cue" size="88" crc="90ec8791" md5="8c683020b0b967ea4ad9c1ba67c0fdd0" sha1="1af1256bb63aae9b233bf1723f33508dba3a9be5"/>
 	</game>
 	<game name="Kazaki - Poslednij dovod korolej (Russia)">
 		<category>Games</category>
@@ -101606,6 +101618,11 @@
 		<rom name="Mystic Weaver (Japan) (Shiro Disc - Shana-hen - The Saint Virgin in the HolyBright).bin" size="601935600" crc="b34d7ff6" md5="1aefa2cfc76ab0f495b43eabd283e96d" sha1="89b1876ae53d3adb0d95281373ae5a5f57618be8"/>
 		<rom name="Mystic Weaver (Japan) (Shiro Disc - Shana-hen - The Saint Virgin in the HolyBright).cue" size="172" crc="01a26e15" md5="adb556b2285f4c97e2a11a61f89ceb1c" sha1="8ae4d82ad9f1f8dd92929f0c2c70b56843084dc5"/>
 	</game>
+	<game name="Mystical Realms 20 Pack (USA)">
+		<category>Games</category>
+		<description>Mystical Realms 20 Pack (USA)</description>
+		<rom name="Mystical Realms 20 Pack (USA).iso" size="7299530752" crc="3e5bf61b" md5="a9253705f9c594629bec77d16fd77544" sha1="df3f1dc8dde8b5603c9d4cb0aeb586d78d1ad8a4"/>
+	</game>
 	<game name="Myth - Antologia (Poland)">
 		<category>Games</category>
 		<description>Myth - Antologia (Poland)</description>
@@ -104932,11 +104949,11 @@
 		<rom name="Nick Arcade Games CD (USA) (SpongeBob SquarePants).bin" size="714330624" crc="145af6c3" md5="4d86b385902ca5ff7934fa0f1801e526" sha1="3393d44a5c8cf941ba7666050a4ce9962c44dd96"/>
 		<rom name="Nick Arcade Games CD (USA) (SpongeBob SquarePants).cue" size="116" crc="14637caa" md5="814dd92907a4250e89e1fa69d353afd1" sha1="db6de83d3c2cfdf1b66f9f867a97031239d55f20"/>
 	</game>
-	<game name="Nick Chase Dual Pack (USA)">
+	<game name="Nick Chase - A Detective Story &amp; Nick Chase and the Deadly Diamond (USA)">
 		<category>Games</category>
-		<description>Nick Chase Dual Pack (USA)</description>
-		<rom name="Nick Chase Dual Pack (USA).bin" size="273001344" crc="35bebaf1" md5="8f519529c54aaab2485e5c2e6fb1d185" sha1="da7195a46deca72a7f025adfbfbee3d7667edae6"/>
-		<rom name="Nick Chase Dual Pack (USA).cue" size="92" crc="8e8046b3" md5="e4858fe32d4f42cb5fb2f0bc611fd5f4" sha1="fac4dcc3b8b16b722108c6ea6649d6c7cd6115c7"/>
+		<description>Nick Chase - A Detective Story &amp; Nick Chase and the Deadly Diamond (USA)</description>
+		<rom name="Nick Chase - A Detective Story &amp; Nick Chase and the Deadly Diamond (USA).bin" size="273001344" crc="35bebaf1" md5="8f519529c54aaab2485e5c2e6fb1d185" sha1="da7195a46deca72a7f025adfbfbee3d7667edae6"/>
+		<rom name="Nick Chase - A Detective Story &amp; Nick Chase and the Deadly Diamond (USA).cue" size="138" crc="0186a12e" md5="68c60b46836a5f31c9baa345cf1faedf" sha1="9f3952b173fdd406c2c36c33c0948da63b688bad"/>
 	</game>
 	<game name="Nick Jr. Dora the Explorer - Dance to the Rescue (Australia)">
 		<category>Games</category>
@@ -129001,6 +129018,12 @@
 		<rom name="Samantha Swift and the Golden Touch (USA).bin" size="511985712" crc="3daf8c7b" md5="a34d0ad03231227af7b317f9d7ec29fd" sha1="1068f5dc3c5575d807f28832743a22b1cac65ea8"/>
 		<rom name="Samantha Swift and the Golden Touch (USA).cue" size="107" crc="532a743c" md5="9ffd31d832f1a082fcc240865811388b" sha1="64afa6ec1e84a5bd1f66e49c77da56d854c0bfeb"/>
 	</game>
+	<game name="Samantha Swift and the Hidden Roses of Athena (USA)">
+		<category>Games</category>
+		<description>Samantha Swift and the Hidden Roses of Athena (USA)</description>
+		<rom name="Samantha Swift and the Hidden Roses of Athena (USA).bin" size="564498816" crc="3508d15f" md5="c441a11523d5dc76702786c6226d2fce" sha1="7dee3f643c35fc371dfc4ef6a63d3a6dda1673f1"/>
+		<rom name="Samantha Swift and the Hidden Roses of Athena (USA).cue" size="117" crc="9d2c4ee2" md5="d070257cb15b416ee481f66f26fe7797" sha1="6be30c9d0e9a97703fa066bfc56f4703aa6a90d7"/>
+	</game>
 	<game name="Samantha Swift and the Roses of Athena (Germany)">
 		<category>Games</category>
 		<description>Samantha Swift and the Roses of Athena (Germany)</description>
@@ -135337,6 +135360,11 @@
 		<rom name="Shinsetsu Kamiya Ukyo 3 - Missing Link (Japan).bin" size="95481792" crc="1f3ea12d" md5="873e1dee85baf39e60f8136cb1014bd9" sha1="2589040df04821a047c2c7df69f2f10931886ef5"/>
 		<rom name="Shinsetsu Kamiya Ukyo 3 - Missing Link (Japan).cue" size="112" crc="92aa00af" md5="4c8e54696fedf1889562893fe3f344fb" sha1="b17682443d3cadc6c74c40c2917bf77173babc8f"/>
 	</game>
+	<game name="Shinsou Seiki Elementia - Kutsujoku no Sennou Saimin (Japan)">
+		<category>Games</category>
+		<description>Shinsou Seiki Elementia - Kutsujoku no Sennou Saimin (Japan)</description>
+		<rom name="Shinsou Seiki Elementia - Kutsujoku no Sennou Saimin (Japan).iso" size="810715136" crc="13799447" md5="520b24080a1d1667da20c193a6c9ac98" sha1="216cf67bed4cf8a3bd2892dc9db447ccb9372c6e"/>
+	</game>
 	<game name="Ship Simulator 2008 (Europe) (Rerelease)">
 		<category>Games</category>
 		<description>Ship Simulator 2008 (Europe) (Rerelease)</description>
@@ -140524,6 +140552,21 @@
 		<rom name="Snowboard Racer (Europe) (En,Fr,De,Es,It,Pt) (Rerelease) (Track 3).bin" size="40101600" crc="21ed5037" md5="d81c882093a1b69595fbfe74d5f41ec2" sha1="dc95a2f5abe2f2bb3c75108cf7300873ad18b987"/>
 		<rom name="Snowboard Racer (Europe) (En,Fr,De,Es,It,Pt) (Rerelease) (Track 4).bin" size="32704560" crc="ad411fd0" md5="78bfcb21c9a6c517adf306e5a7c05c2b" sha1="8479a416964499b56e8f4b44386e578c1937ed15"/>
 		<rom name="Snowboard Racer (Europe) (En,Fr,De,Es,It,Pt) (Rerelease).cue" size="582" crc="88835b11" md5="247789f344e06de2dadd628e19274525" sha1="f307129526de1886d99e8273591acd2298206bcd"/>
+	</game>
+	<game name="Snowmobile Championship 2000 (USA)">
+		<category>Games</category>
+		<description>Snowmobile Championship 2000 (USA)</description>
+		<rom name="Snowmobile Championship 2000 (USA) (Track 01).bin" size="58583616" crc="ce23657b" md5="aa991c0e25c277074d12b4f3094c1f83" sha1="c6a1124a09de8b51b4b944fa51215dba4914f85e"/>
+		<rom name="Snowmobile Championship 2000 (USA) (Track 02).bin" size="21563136" crc="01bc0c8c" md5="14a3665141d25f3d666bb5f766240c38" sha1="e86fef014c8c154a03e6f463d9ed045829a2f163"/>
+		<rom name="Snowmobile Championship 2000 (USA) (Track 03).bin" size="21278544" crc="2b805a02" md5="5b7ea10169714f18a4ff4795466d348e" sha1="89b554ee3c2dbdc90a582ea7cf4b126d0ee09557"/>
+		<rom name="Snowmobile Championship 2000 (USA) (Track 04).bin" size="32017776" crc="ebb5ff12" md5="65675d424495c3f750c9b2918cd97463" sha1="377da3d1c9ee80e8e5e19072ea52953daab7e74e"/>
+		<rom name="Snowmobile Championship 2000 (USA) (Track 05).bin" size="28978992" crc="82eedeee" md5="cd69d741fc673b1725b691ac2349584d" sha1="87c550b6ae12bfd1c9143d8f52b04db3260c9044"/>
+		<rom name="Snowmobile Championship 2000 (USA) (Track 06).bin" size="21391440" crc="1f8ca160" md5="41ad0eaf06a3971545eac4c4fc6565cd" sha1="4b4778f35d7b5c3a15511e8c9c40ffcd85dff962"/>
+		<rom name="Snowmobile Championship 2000 (USA) (Track 07).bin" size="21626640" crc="b726cb31" md5="0bd451c582bf5a6471b88e6e2280b048" sha1="fdcbf3718a8e3207740fa72de19a6e5e5608b77a"/>
+		<rom name="Snowmobile Championship 2000 (USA) (Track 08).bin" size="22071168" crc="dcc293c6" md5="517d36abc018037d79f4c4da80b37034" sha1="55c8edbe029c45e47316f85fe3d8755ccf911e9b"/>
+		<rom name="Snowmobile Championship 2000 (USA) (Track 09).bin" size="21280896" crc="91175246" md5="bf0f6b707cc75a374eaca4bb30019ea1" sha1="940c361db80985376051d9272e4eed224a007c60"/>
+		<rom name="Snowmobile Championship 2000 (USA) (Track 10).bin" size="21120960" crc="f2e92761" md5="4ff04cd3e7890672e56db06c5e171508" sha1="5013328ba3f42270260deaf2ce9d6c639c8ff930"/>
+		<rom name="Snowmobile Championship 2000 (USA).cue" size="1088" crc="6abe88a3" md5="4bcb6b6a4293c6b72dee4fb45f41098c" sha1="358b56c30d8590cd05fae69240d0cfb24737cf4f"/>
 	</game>
 	<game name="Snowmobile Racing (USA)">
 		<category>Games</category>
@@ -155583,6 +155626,11 @@
 		<rom name="Tomb Raider V - Chronicles (Japan) (Rerelease).bin" size="677171376" crc="cbd35d81" md5="123ad889c5546ef4476f955911b31e61" sha1="2192934040581e878ec937058076c58a4da4e7e1"/>
 		<rom name="Tomb Raider V - Chronicles (Japan) (Rerelease).cue" size="112" crc="f7260dab" md5="a01aee434dedb447df8d9d43f50f4b40" sha1="69c7c8eab4ce6602bf3f6db3127575bfd334fc79"/>
 	</game>
+	<game name="Tomb of Zojir - Last Half of Darkness (Turkey)">
+		<category>Games</category>
+		<description>Tomb of Zojir - Last Half of Darkness (Turkey)</description>
+		<rom name="Tomb of Zojir - Last Half of Darkness (Turkey).iso" size="1480425472" crc="24c94bc1" md5="b15baf7e317d14a4f4571888ae8e87e1" sha1="52e92e9bba726e1cdd35ae6a9e0fe0172b537567"/>
+	</game>
 	<game name="Tombstone 1882 (Italy)">
 		<category>Games</category>
 		<description>Tombstone 1882 (Italy)</description>
@@ -159818,6 +159866,12 @@
 		<description>UK Airports - Part 1 - Southern England (UK)</description>
 		<rom name="UK Airports - Part 1 - Southern England (UK).bin" size="223141296" crc="96e56e36" md5="373737dbaf5c0cf166972cbba0b40135" sha1="6f5992f7a4241183a8756444b255f56ffa8e4590"/>
 		<rom name="UK Airports - Part 1 - Southern England (UK).cue" size="110" crc="9ff6996d" md5="bb1432d7a8b85d552a2266084265562a" sha1="9bf49125f4c8c12b50debfcf0d6925d42530a336"/>
+	</game>
+	<game name="UK Truck Simulator (Turkey)">
+		<category>Games</category>
+		<description>UK Truck Simulator (Turkey)</description>
+		<rom name="UK Truck Simulator (Turkey).bin" size="576922080" crc="4a3c5481" md5="36bf928da4b19173147c47fe74237bda" sha1="c3293472f191a6c87cf504fb33fb0e1b651481c3"/>
+		<rom name="UK Truck Simulator (Turkey).cue" size="93" crc="e8845fcf" md5="c100e460b6f0d799e4511fc30c27faa2" sha1="065a4b5f8f1144f19d487372025001c8f10bdd57"/>
 	</game>
 	<game name="UMA Professional Manager 2005 (Australia)">
 		<category>Games</category>
