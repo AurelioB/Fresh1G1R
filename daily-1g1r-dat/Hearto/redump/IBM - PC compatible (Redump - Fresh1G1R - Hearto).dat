@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,846) (-y) [-aAbBcefkmMoprv] (2026-04-01 03-57-22) (Retool)</description>
-		<version>2026-04-01 03-57-22</version>
-		<date>2026-04-01 03-14-20</date>
+		<description>IBM - PC compatible (24,855) (-y) [-aAbBcefkmMoprv] (2026-04-02 01-39-23) (Retool)</description>
+		<version>2026-04-02 01-39-23</version>
+		<date>2026-04-02 03-15-43</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -7666,6 +7666,12 @@
 		<description>Amazing Adventures - The Caribbean Secret (USA)</description>
 		<rom name="Amazing Adventures - The Caribbean Secret (USA).bin" size="604421664" crc="723fcbe3" md5="9f9cae5e393ba73774943746c60df8ca" sha1="334ec40708b39be5f144a8d9110d243ae20cf038"/>
 		<rom name="Amazing Adventures - The Caribbean Secret (USA).cue" size="113" crc="e077b742" md5="ebdd4b09b1a823f788b757f9fbc66f88" sha1="87088b7778fe229d380d55d0d6bf41b85b3291b7"/>
+	</game>
+	<game name="Amazing Adventures - The Forgotten Dynasty (USA)">
+		<category>Games</category>
+		<description>Amazing Adventures - The Forgotten Dynasty (USA)</description>
+		<rom name="Amazing Adventures - The Forgotten Dynasty (USA).bin" size="662530176" crc="1e67c72e" md5="4ef0edb7c370d3e6abd309f64e295c2b" sha1="3cff71362a92fec3b5258674939e3a25afebd22b"/>
+		<rom name="Amazing Adventures - The Forgotten Dynasty (USA).cue" size="114" crc="396d9666" md5="89e931f95dbb637c372b86521c96e554" sha1="42c558c2606e965c8f4dd226ee1a2dcc1c888a74"/>
 	</game>
 	<game name="Amazing Adventures - The Lost Tomb (USA) (Rev 1)">
 		<category>Games</category>
@@ -28104,7 +28110,7 @@
 	<game name="Comanche Gold (USA)">
 		<category>Games</category>
 		<description>Comanche Gold (USA)</description>
-		<rom name="Comanche Gold (USA).bin" size="823061232" crc="55084742" md5="3807eb5201fc369c62ce80618402ead7" sha1="8238966bed798bbe7af3ae9974efca954410fa7f"/>
+		<rom name="Comanche Gold (USA).bin" size="823404624" crc="8dd7a349" md5="ef888245b573f681b300169cc39c298d" sha1="ea3948ba615be94ad5b9faaa1090898015d25372"/>
 		<rom name="Comanche Gold (USA).cue" size="85" crc="5f43b419" md5="8c1841b1033a9c77dfe83783f27038d9" sha1="0a2e4da876a69af9892fda51b329ebe9f96ac434"/>
 	</game>
 	<game name="Combat (Europe)">
@@ -43904,6 +43910,12 @@
 		<rom name="Dungeon Keeper Gold (Europe) (Track 7).bin" size="33330192" crc="81889730" md5="54aa0c0d792c74cb4465d2de443a243e" sha1="702fcc7a1610a4acbf39224b49ad7a84ba6ef36e"/>
 		<rom name="Dungeon Keeper Gold (Europe).cue" size="859" crc="1ca297e2" md5="29420f79c30b53e3adfe1fc23b2d2854" sha1="dc5e017301d458b7cce6c24d2538895750c6307e"/>
 	</game>
+	<game name="Dungeon Keeper Gold (Germany) (Dice)">
+		<category>Games</category>
+		<description>Dungeon Keeper Gold (Germany) (Dice)</description>
+		<rom name="Dungeon Keeper Gold (Germany) (Dice).bin" size="378808416" crc="a5772b72" md5="991a3e7c884995d395164b2f35394021" sha1="9aa14197c057f60ff687ba840da517862371477d"/>
+		<rom name="Dungeon Keeper Gold (Germany) (Dice).cue" size="102" crc="fc271870" md5="9c5b5fedb79e6187c451e0c7f21498af" sha1="62a3ae29c70620a8f8dd5240c11c120e7c033bb0"/>
+	</game>
 	<game name="Dungeon Keeper Premium (Japan) (En,Ja)">
 		<category>Games</category>
 		<description>Dungeon Keeper Premium (Japan) (En,Ja)</description>
@@ -49761,6 +49773,12 @@
 		<description>F1 World Grand Prix - 1999 Season (Europe) (Demo)</description>
 		<rom name="F1 World Grand Prix - 1999 Season (Europe) (Demo).bin" size="76320048" crc="3a946e2d" md5="13240c3ef2a9c56977447b344a634c4d" sha1="3ee8b28a0d1dff6bd39a0bff97dc49efc569e790"/>
 		<rom name="F1 World Grand Prix - 1999 Season (Europe) (Demo).cue" size="115" crc="aca30140" md5="187517f4298b7527a5316fe5245369bf" sha1="39829ffb92e3dc04c3d14943a0b5696bba688a33"/>
+	</game>
+	<game name="F9F Panther (UK)">
+		<category>Add-Ons</category>
+		<description>F9F Panther (UK)</description>
+		<rom name="F9F Panther (UK).bin" size="196907088" crc="62bb3ef9" md5="cfd92c03d01f84cc60d13bc6c33d03a4" sha1="c21fdec6829c73624875e2f2c2bd7a00a7a0a1cf"/>
+		<rom name="F9F Panther (UK).cue" size="82" crc="c4962dac" md5="dee7b73259ee8bf1acdae4a05ec6a42f" sha1="6a911d9b7794e4bd434757f315ae6f16909b4535"/>
 	</game>
 	<game name="FBI - Paranormal Cases (Australia)">
 		<category>Games</category>
@@ -68884,11 +68902,13 @@
 		<rom name="Hollywood High (USA).bin" size="462847728" crc="520beada" md5="0b6a3240de0fdffbc35ed70175a27dab" sha1="ba91d78fcb6e5945dfb7de18c166099427590fc4"/>
 		<rom name="Hollywood High (USA).cue" size="109" crc="0cc4f43d" md5="b9a1744e646126a03e667ec054d1053e" sha1="5a2b3574668f3f511cceece5d7bc177442e82e1e"/>
 	</game>
-	<game name="Hollywood Monsters (Italy)">
+	<game name="Hollywood Monsters (Spain)">
 		<category>Games</category>
-		<description>Hollywood Monsters (Italy)</description>
-		<rom name="Hollywood Monsters (Italy).bin" size="747811344" crc="e2fc02a4" md5="ab73ba922061dafb0ae8ea2dc46dc876" sha1="24e7750aad0a6e3eb0f9f3a8705c5f1fd386afe8"/>
-		<rom name="Hollywood Monsters (Italy).cue" size="92" crc="46677558" md5="cd6c76816574bb8356067f423e58ff99" sha1="5f8d71f3a8f20a7ea7e749431f721dd8a69a000e"/>
+		<description>Hollywood Monsters (Spain)</description>
+		<rom name="Hollywood Monsters (Spain) (Track 1).bin" size="590857680" crc="0a781efa" md5="f12cae9f617acbe5e2ae617b858a0363" sha1="4d0081604c1d9a31285d96a301a65805668dabb0"/>
+		<rom name="Hollywood Monsters (Spain) (Track 2).bin" size="54484080" crc="61b096bc" md5="2605e09b269e4e192a37ca0269035a2b" sha1="c6b2c649312886d2a5651fd5f9bd67a11d5a2751"/>
+		<rom name="Hollywood Monsters (Spain) (Track 3).bin" size="53018784" crc="1fef58c4" md5="8c7ae1416f606a9650b163d32e36a913" sha1="bcba5b165da92eec28751b2ec76e4361df3e35dd"/>
+		<rom name="Hollywood Monsters (Spain).cue" size="342" crc="629e0102" md5="83c0fba9c1a3b7b33bfda4091bcc0cc1" sha1="9c103fc6f58e84059af4b377c7c3170662600607"/>
 	</game>
 	<game name="Hollywood Pictures (Germany) (Rerelease)">
 		<category>Games</category>
@@ -69623,6 +69643,11 @@
 		<description>House in Fata Morgana, The (USA)</description>
 		<rom name="House in Fata Morgana, The (USA).iso" size="448972800" crc="34d7814e" md5="a2363f83d672ff898bedce50e6ade8d2" sha1="7952b38aca872d134f5d9ed0c686252819193eef"/>
 	</game>
+	<game name="House of 1000 Doors - Family Secrets - 4 Pack (USA)">
+		<category>Games</category>
+		<description>House of 1000 Doors - Family Secrets - 4 Pack (USA)</description>
+		<rom name="House of 1000 Doors - Family Secrets - 4 Pack (USA).iso" size="2105671680" crc="d80fbb25" md5="b5cd8b202f9517c1cbfaa2d755ec5dae" sha1="cddec8583b2cc224724a99ad115ebf63f84a595b"/>
+	</game>
 	<game name="House of the Dead 2, The (USA)">
 		<category>Games</category>
 		<description>House of the Dead 2, The (USA)</description>
@@ -70017,6 +70042,11 @@
 		<description>Hoyle Puzzle &amp; Board Games 2008 (USA)</description>
 		<rom name="Hoyle Puzzle &amp; Board Games 2008 (USA).iso" size="1529774080" crc="3903af70" md5="b227333cbb84041aa07d132a4a1d280e" sha1="ae153c8a7c5c60b5f412fb1848db85571c75e25d"/>
 	</game>
+	<game name="Hoyle Puzzle &amp; Board Games 2011 (USA)">
+		<category>Games</category>
+		<description>Hoyle Puzzle &amp; Board Games 2011 (USA)</description>
+		<rom name="Hoyle Puzzle &amp; Board Games 2011 (USA).iso" size="2149056512" crc="fe4f7505" md5="b91ffa52a3e1141b367e05f7e62967ea" sha1="2ddd16ab8cd36082ee09ae0fc40eae4f0fcd5425"/>
+	</game>
 	<game name="Hoyle Puzzle &amp; Board Games 2012 (Australia)">
 		<category>Games</category>
 		<description>Hoyle Puzzle &amp; Board Games 2012 (Australia)</description>
@@ -70079,6 +70109,11 @@
 		<description>Hoyle Solitaire and Mahjong Tiles (USA)</description>
 		<rom name="Hoyle Solitaire and Mahjong Tiles (USA).bin" size="274440768" crc="0a045fc6" md5="0f44c3f4e63c1580cc836fb71c779407" sha1="cba1802e51efc0c1037081ce7488f48fe679107d"/>
 		<rom name="Hoyle Solitaire and Mahjong Tiles (USA).cue" size="105" crc="a3104ead" md5="4964e843b9aaaedc98e1786d6c5c3f69" sha1="f0b7884318dede2e7feedf005cc0b6616136e71a"/>
+	</game>
+	<game name="Hoyle Swashbucklin' Slots 2011 (USA)">
+		<category>Games</category>
+		<description>Hoyle Swashbucklin' Slots 2011 (USA)</description>
+		<rom name="Hoyle Swashbucklin' Slots 2011 (USA).iso" size="2121826304" crc="d4919783" md5="86514714d155bbfb34c4e065688531ee" sha1="55f3b416601c5243be2c74be7e4e0173a8160c74"/>
 	</game>
 	<game name="Hoyle Table Games 2004 (USA)">
 		<category>Games</category>
@@ -75665,6 +75700,12 @@
 		<description>Jane's Combat Simulations - IAF - Israeli Air Force (China)</description>
 		<rom name="Jane's Combat Simulations - IAF - Israeli Air Force (China).bin" size="728997696" crc="6baf84a3" md5="82a293860d2c70547bdcbc088d2a1664" sha1="9791f5905fe406c434090c667cb74514dd198f96"/>
 		<rom name="Jane's Combat Simulations - IAF - Israeli Air Force (China).cue" size="148" crc="6262cff1" md5="3b8d8bc7cdc1f4bb4858a1ef445251b7" sha1="259552210a1b3d69bcf047d9296fbecf075815b0"/>
+	</game>
+	<game name="Jane's Combat Simulations - IAF - Israeli Air Force (USA) (IAF Gameplay CD)">
+		<category>Games</category>
+		<description>Jane's Combat Simulations - IAF - Israeli Air Force (USA) (IAF Gameplay CD)</description>
+		<rom name="Jane's Combat Simulations - IAF - Israeli Air Force (USA) (IAF Gameplay CD).bin" size="759470208" crc="acd13424" md5="48bfe9b47228bfd85ab92ebe56e16a32" sha1="e079e92a243bbed19957a23fe731c43f23ecafe5"/>
+		<rom name="Jane's Combat Simulations - IAF - Israeli Air Force (USA) (IAF Gameplay CD).cue" size="141" crc="092844df" md5="e21155cd3b976f77e72be6ec716a535a" sha1="c130c9ce71cea4432d3fdc5b1e7cb51b6e581e95"/>
 	</game>
 	<game name="Jane's Combat Simulations - Longbow 2 (USA) (Disc 1)">
 		<category>Games</category>
@@ -125274,10 +125315,10 @@
 		<rom name="Rise of Atlantis, The (USA).bin" size="194378688" crc="b999e60b" md5="bdfdc8cbf322f059a9302949e9556c47" sha1="10a3ba3c66339c9a0a5417106c0bd1e9ed5c9ccb"/>
 		<rom name="Rise of Atlantis, The (USA).cue" size="93" crc="6bd0d245" md5="8f8ff81b818d949c79310ab93257d44b" sha1="3fb58ddbd89dc64cbd57654f3a17b66cae1ed637"/>
 	</game>
-	<game name="Rise of Flight - The First Great Air War (Europe)">
+	<game name="Rise of Flight - The First Great Air War (Europe) (En,Fr,De,Es) (v1.021b)">
 		<category>Games</category>
-		<description>Rise of Flight - The First Great Air War (Europe)</description>
-		<rom name="Rise of Flight - The First Great Air War (Europe).iso" size="4047142912" crc="1416caa8" md5="68a36a32af11f3093b7b51113e2e2eb9" sha1="999b38794a73ad6c3f3edb1bd00b44847577e3b2"/>
+		<description>Rise of Flight - The First Great Air War (Europe) (En,Fr,De,Es) (v1.021b)</description>
+		<rom name="Rise of Flight - The First Great Air War (Europe) (En,Fr,De,Es) (v1.021b).iso" size="4294049792" crc="617d97fd" md5="9e2b7fd49d2f1319affa56f738997d3e" sha1="8e7edf0311b4a9b853eaba45c1fae76ed66b756b"/>
 	</game>
 	<game name="Rise of Nations (USA, Europe) (Rerelease)">
 		<category>Games</category>
@@ -139781,6 +139822,12 @@
 		<rom name="SlamTilt Resurrection (Poland) (En,Pl) (Disc 2) (Pirat) (Rerelease).bin" size="674464224" crc="bfd840dc" md5="4b9af22bae5142f5c23141dc6f3ba88b" sha1="a72f77f0b8c2ebfc4f347868e4a2367632090afe"/>
 		<rom name="SlamTilt Resurrection (Poland) (En,Pl) (Disc 2) (Pirat) (Rerelease).cue" size="133" crc="5e2c2dcb" md5="db667c1a41fca6032230deaa3f08e3a7" sha1="0c8a08f88ca502d3688765e8b4ee97a6103de0bb"/>
 	</game>
+	<game name="SlamTilt Resurrection - Crazy Pirate Pinball (Argentina) (Covermount)">
+		<category>Demos</category>
+		<description>SlamTilt Resurrection - Crazy Pirate Pinball (Argentina) (Covermount)</description>
+		<rom name="SlamTilt Resurrection - Crazy Pirate Pinball (Argentina) (Covermount).bin" size="659239728" crc="953c9bcb" md5="9540b9486d7bba9942c712333b274cb0" sha1="85b9f151e07393828cc81af66c6eaa22e94f6a82"/>
+		<rom name="SlamTilt Resurrection - Crazy Pirate Pinball (Argentina) (Covermount).cue" size="135" crc="6df62961" md5="79e81abdf4c6f64ad9cea715b2a4df28" sha1="f6fb97c31f9092077a593726ebe5a6a50c60c23e"/>
+	</game>
 	<game name="Slater &amp; Charlie Go Camping (USA)">
 		<category>Games</category>
 		<description>Slater &amp; Charlie Go Camping (USA)</description>
@@ -144892,6 +144939,18 @@
 		<description>Star Wars - Episode III - Revenge of the Sith - Activity Centre (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Star Wars - Episode III - Revenge of the Sith - Activity Centre (Europe) (En,Fr,De,Es,It).iso" size="1704689664" crc="c5212cc7" md5="e22528da0507b32240c569bc228410dc" sha1="58afbbf5b1f4431b11b66b410150229153e07bdd"/>
 	</game>
+	<game name="Star Wars - Episodio 1 - La Amenaza Fantasma (Spain)">
+		<category>Games</category>
+		<description>Star Wars - Episodio 1 - La Amenaza Fantasma (Spain)</description>
+		<rom name="Star Wars - Episodio 1 - La Amenaza Fantasma (Spain).bin" size="841126944" crc="867a0569" md5="703dce92a1aa18a9f7e6e3a39e9a4381" sha1="d46aa6a1aa6489618df74522dd3e69a5556a8e4a"/>
+		<rom name="Star Wars - Episodio 1 - La Amenaza Fantasma (Spain).cue" size="118" crc="264b0504" md5="10a8ab12a5d68e846fd4ce7b16a31371" sha1="d52bf632ce569a4a7b07ff60c8b35c32cc8ca575"/>
+	</game>
+	<game name="Star Wars - Episodio 1 - Racer (Spain)">
+		<category>Games</category>
+		<description>Star Wars - Episodio 1 - Racer (Spain)</description>
+		<rom name="Star Wars - Episodio 1 - Racer (Spain).bin" size="838492704" crc="cbc4e71f" md5="95ed2f4e993c166641b8598dc3e02a55" sha1="5dedaabdd970027a558a27d7215342af2331f596"/>
+		<rom name="Star Wars - Episodio 1 - Racer (Spain).cue" size="104" crc="8d8df65b" md5="937b8a9fc174d6783eecf79416053a2c" sha1="2be58447073271e42a081fae5021639b6e729d1e"/>
+	</game>
 	<game name="Star Wars - Episodio I - Battle for Naboo (Italy)">
 		<category>Games</category>
 		<description>Star Wars - Episodio I - Battle for Naboo (Italy)</description>
@@ -149696,13 +149755,6 @@
 		<rom name="Taejo Wang Geon II (Korea) (Lotteria Game Set Festival).bin" size="427922880" crc="89f2c8d2" md5="bd86b0e99160ccbf666775e574ffb7e1" sha1="ae8b6a41bb2b34f95a236e8fb5bedd19f266b5d4"/>
 		<rom name="Taejo Wang Geon II (Korea) (Lotteria Game Set Festival).cue" size="121" crc="e1accbb1" md5="040bf58e3c22ebf2beec50ba27b4a4eb" sha1="de7e4e63c0c70c7c8d00272c2650a804f95bd781"/>
 	</game>
-	<game name="Taenk Snabbt (Sweden)">
-		<category>Games</category>
-		<description>Taenk Snabbt (Sweden)</description>
-		<rom name="Taenk Snabbt (Sweden) (Track 1).bin" size="32982096" crc="2dc78dec" md5="564b4c319cb12f0f438ad4a0921d21a7" sha1="cb08bee2d2ed3f127f84c1c16c7542f875838592"/>
-		<rom name="Taenk Snabbt (Sweden) (Track 2).bin" size="41491632" crc="bda32bed" md5="2c84961eff48d53329650533afb34e87" sha1="cb9d01a56512cd5ed4f795a9b3b0e269d2958f05"/>
-		<rom name="Taenk Snabbt (Sweden).cue" size="226" crc="302e8b0b" md5="ef9928390a78688ae4b1d36b50aafb6f" sha1="ab360e000fa4ec9cad0bcfd493ff2d5238ead9a2"/>
-	</game>
 	<game name="Tag Team Wrestling (USA)">
 		<category>Games</category>
 		<description>Tag Team Wrestling (USA)</description>
@@ -154395,10 +154447,10 @@
 		<description>Tom Clancy's H.A.W.X (USA, Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Tom Clancy's H.A.W.X (USA, Europe) (En,Fr,De,Es,It).iso" size="6551339008" crc="a270452b" md5="77f1da7c3a76714a2e990db7d080b54a" sha1="73c6c9e44850af4297dae81e67165ab21b7846b1"/>
 	</game>
-	<game name="Tom Clancy's H.A.W.X. 2 (Australia)">
+	<game name="Tom Clancy's H.A.W.X. 2 (Europe) (En,Fr,De,Es,It,Pl)">
 		<category>Games</category>
-		<description>Tom Clancy's H.A.W.X. 2 (Australia)</description>
-		<rom name="Tom Clancy's H.A.W.X. 2 (Australia).iso" size="6621659136" crc="25d9a4ea" md5="42584ba5cf01a701b892281ffd3fac70" sha1="012b57fedb696820ea8ccb628ab085df1ab608b7"/>
+		<description>Tom Clancy's H.A.W.X. 2 (Europe) (En,Fr,De,Es,It,Pl)</description>
+		<rom name="Tom Clancy's H.A.W.X. 2 (Europe) (En,Fr,De,Es,It,Pl).iso" size="6621462528" crc="06e9a728" md5="5f0fbb6e50d8ea938acba62eb9639362" sha1="00f60f7efbfb615a7656348751d4922ac4e8e1a3"/>
 	</game>
 	<game name="Tom Clancy's Politika (USA)">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (12,965) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-01 03-57-22) (Retool)</description>
-		<version>2026-04-01 03-57-22</version>
-		<date>2026-04-01 03-20-49</date>
+		<description>IBM - PC compatible (12,970) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-02 01-39-23) (Retool)</description>
+		<version>2026-04-02 01-39-23</version>
+		<date>2026-04-02 03-22-01</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -3836,6 +3836,12 @@
 		<description>Amazing Adventures - The Caribbean Secret (USA)</description>
 		<rom name="Amazing Adventures - The Caribbean Secret (USA).bin" size="604421664" crc="723fcbe3" md5="9f9cae5e393ba73774943746c60df8ca" sha1="334ec40708b39be5f144a8d9110d243ae20cf038"/>
 		<rom name="Amazing Adventures - The Caribbean Secret (USA).cue" size="113" crc="e077b742" md5="ebdd4b09b1a823f788b757f9fbc66f88" sha1="87088b7778fe229d380d55d0d6bf41b85b3291b7"/>
+	</game>
+	<game name="Amazing Adventures - The Forgotten Dynasty (USA)">
+		<category>Games</category>
+		<description>Amazing Adventures - The Forgotten Dynasty (USA)</description>
+		<rom name="Amazing Adventures - The Forgotten Dynasty (USA).bin" size="662530176" crc="1e67c72e" md5="4ef0edb7c370d3e6abd309f64e295c2b" sha1="3cff71362a92fec3b5258674939e3a25afebd22b"/>
+		<rom name="Amazing Adventures - The Forgotten Dynasty (USA).cue" size="114" crc="396d9666" md5="89e931f95dbb637c372b86521c96e554" sha1="42c558c2606e965c8f4dd226ee1a2dcc1c888a74"/>
 	</game>
 	<game name="Amazing Adventures - The Lost Tomb (USA) (Rev 1)">
 		<category>Games</category>
@@ -15348,7 +15354,7 @@
 	<game name="Comanche Gold (USA)">
 		<category>Games</category>
 		<description>Comanche Gold (USA)</description>
-		<rom name="Comanche Gold (USA).bin" size="823061232" crc="55084742" md5="3807eb5201fc369c62ce80618402ead7" sha1="8238966bed798bbe7af3ae9974efca954410fa7f"/>
+		<rom name="Comanche Gold (USA).bin" size="823404624" crc="8dd7a349" md5="ef888245b573f681b300169cc39c298d" sha1="ea3948ba615be94ad5b9faaa1090898015d25372"/>
 		<rom name="Comanche Gold (USA).cue" size="85" crc="5f43b419" md5="8c1841b1033a9c77dfe83783f27038d9" sha1="0a2e4da876a69af9892fda51b329ebe9f96ac434"/>
 	</game>
 	<game name="Combat (Europe)">
@@ -37058,6 +37064,11 @@
 		<description>House in Fata Morgana, The (USA)</description>
 		<rom name="House in Fata Morgana, The (USA).iso" size="448972800" crc="34d7814e" md5="a2363f83d672ff898bedce50e6ade8d2" sha1="7952b38aca872d134f5d9ed0c686252819193eef"/>
 	</game>
+	<game name="House of 1000 Doors - Family Secrets - 4 Pack (USA)">
+		<category>Games</category>
+		<description>House of 1000 Doors - Family Secrets - 4 Pack (USA)</description>
+		<rom name="House of 1000 Doors - Family Secrets - 4 Pack (USA).iso" size="2105671680" crc="d80fbb25" md5="b5cd8b202f9517c1cbfaa2d755ec5dae" sha1="cddec8583b2cc224724a99ad115ebf63f84a595b"/>
+	</game>
 	<game name="House of the Dead 2, The (USA)">
 		<category>Games</category>
 		<description>House of the Dead 2, The (USA)</description>
@@ -37428,6 +37439,11 @@
 		<description>Hoyle Puzzle &amp; Board Games 2008 (USA)</description>
 		<rom name="Hoyle Puzzle &amp; Board Games 2008 (USA).iso" size="1529774080" crc="3903af70" md5="b227333cbb84041aa07d132a4a1d280e" sha1="ae153c8a7c5c60b5f412fb1848db85571c75e25d"/>
 	</game>
+	<game name="Hoyle Puzzle &amp; Board Games 2011 (USA)">
+		<category>Games</category>
+		<description>Hoyle Puzzle &amp; Board Games 2011 (USA)</description>
+		<rom name="Hoyle Puzzle &amp; Board Games 2011 (USA).iso" size="2149056512" crc="fe4f7505" md5="b91ffa52a3e1141b367e05f7e62967ea" sha1="2ddd16ab8cd36082ee09ae0fc40eae4f0fcd5425"/>
+	</game>
 	<game name="Hoyle Puzzle &amp; Board Games 2012 (Australia)">
 		<category>Games</category>
 		<description>Hoyle Puzzle &amp; Board Games 2012 (Australia)</description>
@@ -37490,6 +37506,11 @@
 		<description>Hoyle Solitaire and Mahjong Tiles (USA)</description>
 		<rom name="Hoyle Solitaire and Mahjong Tiles (USA).bin" size="274440768" crc="0a045fc6" md5="0f44c3f4e63c1580cc836fb71c779407" sha1="cba1802e51efc0c1037081ce7488f48fe679107d"/>
 		<rom name="Hoyle Solitaire and Mahjong Tiles (USA).cue" size="105" crc="a3104ead" md5="4964e843b9aaaedc98e1786d6c5c3f69" sha1="f0b7884318dede2e7feedf005cc0b6616136e71a"/>
+	</game>
+	<game name="Hoyle Swashbucklin' Slots 2011 (USA)">
+		<category>Games</category>
+		<description>Hoyle Swashbucklin' Slots 2011 (USA)</description>
+		<rom name="Hoyle Swashbucklin' Slots 2011 (USA).iso" size="2121826304" crc="d4919783" md5="86514714d155bbfb34c4e065688531ee" sha1="55f3b416601c5243be2c74be7e4e0173a8160c74"/>
 	</game>
 	<game name="Hoyle Table Games 2004 (USA)">
 		<category>Games</category>
@@ -40607,6 +40628,12 @@
 		<description>Jane's Combat Simulations - IAF - Israeli Air Force (China)</description>
 		<rom name="Jane's Combat Simulations - IAF - Israeli Air Force (China).bin" size="728997696" crc="6baf84a3" md5="82a293860d2c70547bdcbc088d2a1664" sha1="9791f5905fe406c434090c667cb74514dd198f96"/>
 		<rom name="Jane's Combat Simulations - IAF - Israeli Air Force (China).cue" size="148" crc="6262cff1" md5="3b8d8bc7cdc1f4bb4858a1ef445251b7" sha1="259552210a1b3d69bcf047d9296fbecf075815b0"/>
+	</game>
+	<game name="Jane's Combat Simulations - IAF - Israeli Air Force (USA) (IAF Gameplay CD)">
+		<category>Games</category>
+		<description>Jane's Combat Simulations - IAF - Israeli Air Force (USA) (IAF Gameplay CD)</description>
+		<rom name="Jane's Combat Simulations - IAF - Israeli Air Force (USA) (IAF Gameplay CD).bin" size="759470208" crc="acd13424" md5="48bfe9b47228bfd85ab92ebe56e16a32" sha1="e079e92a243bbed19957a23fe731c43f23ecafe5"/>
+		<rom name="Jane's Combat Simulations - IAF - Israeli Air Force (USA) (IAF Gameplay CD).cue" size="141" crc="092844df" md5="e21155cd3b976f77e72be6ec716a535a" sha1="c130c9ce71cea4432d3fdc5b1e7cb51b6e581e95"/>
 	</game>
 	<game name="Jane's Combat Simulations - Longbow 2 (USA) (Disc 1)">
 		<category>Games</category>
@@ -65903,10 +65930,10 @@
 		<rom name="Rise of Atlantis, The (USA).bin" size="194378688" crc="b999e60b" md5="bdfdc8cbf322f059a9302949e9556c47" sha1="10a3ba3c66339c9a0a5417106c0bd1e9ed5c9ccb"/>
 		<rom name="Rise of Atlantis, The (USA).cue" size="93" crc="6bd0d245" md5="8f8ff81b818d949c79310ab93257d44b" sha1="3fb58ddbd89dc64cbd57654f3a17b66cae1ed637"/>
 	</game>
-	<game name="Rise of Flight - The First Great Air War (Europe)">
+	<game name="Rise of Flight - The First Great Air War (Europe) (En,Fr,De,Es) (v1.021b)">
 		<category>Games</category>
-		<description>Rise of Flight - The First Great Air War (Europe)</description>
-		<rom name="Rise of Flight - The First Great Air War (Europe).iso" size="4047142912" crc="1416caa8" md5="68a36a32af11f3093b7b51113e2e2eb9" sha1="999b38794a73ad6c3f3edb1bd00b44847577e3b2"/>
+		<description>Rise of Flight - The First Great Air War (Europe) (En,Fr,De,Es) (v1.021b)</description>
+		<rom name="Rise of Flight - The First Great Air War (Europe) (En,Fr,De,Es) (v1.021b).iso" size="4294049792" crc="617d97fd" md5="9e2b7fd49d2f1319affa56f738997d3e" sha1="8e7edf0311b4a9b853eaba45c1fae76ed66b756b"/>
 	</game>
 	<game name="Rise of Nations (USA, Europe) (Rerelease)">
 		<category>Games</category>
@@ -80493,10 +80520,10 @@
 		<description>Tom Clancy's H.A.W.X (USA, Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Tom Clancy's H.A.W.X (USA, Europe) (En,Fr,De,Es,It).iso" size="6551339008" crc="a270452b" md5="77f1da7c3a76714a2e990db7d080b54a" sha1="73c6c9e44850af4297dae81e67165ab21b7846b1"/>
 	</game>
-	<game name="Tom Clancy's H.A.W.X. 2 (Australia)">
+	<game name="Tom Clancy's H.A.W.X. 2 (Europe) (En,Fr,De,Es,It,Pl)">
 		<category>Games</category>
-		<description>Tom Clancy's H.A.W.X. 2 (Australia)</description>
-		<rom name="Tom Clancy's H.A.W.X. 2 (Australia).iso" size="6621659136" crc="25d9a4ea" md5="42584ba5cf01a701b892281ffd3fac70" sha1="012b57fedb696820ea8ccb628ab085df1ab608b7"/>
+		<description>Tom Clancy's H.A.W.X. 2 (Europe) (En,Fr,De,Es,It,Pl)</description>
+		<rom name="Tom Clancy's H.A.W.X. 2 (Europe) (En,Fr,De,Es,It,Pl).iso" size="6621462528" crc="06e9a728" md5="5f0fbb6e50d8ea938acba62eb9639362" sha1="00f60f7efbfb615a7656348751d4922ac4e8e1a3"/>
 	</game>
 	<game name="Tom Clancy's Politika (USA)">
 		<category>Games</category>
