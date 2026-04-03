@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (12,970) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-02 01-39-23) (Retool)</description>
-		<version>2026-04-02 01-39-23</version>
-		<date>2026-04-02 03-22-01</date>
+		<description>IBM - PC compatible (12,978) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-03 02-23-11) (Retool)</description>
+		<version>2026-04-03 02-23-11</version>
+		<date>2026-04-03 03-21-15</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -36715,6 +36715,12 @@
 		<rom name="Hollywood High (USA).bin" size="462847728" crc="520beada" md5="0b6a3240de0fdffbc35ed70175a27dab" sha1="ba91d78fcb6e5945dfb7de18c166099427590fc4"/>
 		<rom name="Hollywood High (USA).cue" size="109" crc="0cc4f43d" md5="b9a1744e646126a03e667ec054d1053e" sha1="5a2b3574668f3f511cceece5d7bc177442e82e1e"/>
 	</game>
+	<game name="Hologram Time Traveler (USA)">
+		<category>Games</category>
+		<description>Hologram Time Traveler (USA)</description>
+		<rom name="Hologram Time Traveler (USA).bin" size="770080080" crc="a6ae478d" md5="4443e399a0f0e238edb0761ae932da9e" sha1="5e9b2944e81691f8354a7ee84ab740f0e8127b07"/>
+		<rom name="Hologram Time Traveler (USA).cue" size="94" crc="77a35a75" md5="7f6c7e04897631b4d61e5a86adbbf51d" sha1="8e549ba73c42f0f4ff3ffb967500949172b82242"/>
+	</game>
 	<game name="Holzfaeller Simulator (Germany) (En,Fr,De)">
 		<category>Games</category>
 		<description>Holzfaeller Simulator (Germany) (En,Fr,De)</description>
@@ -39121,10 +39127,22 @@
 		<rom name="Industry Giant II (Europe).bin" size="790424880" crc="81c5651b" md5="d3eb883d0d52e3c69618f015acfdceab" sha1="ae0da6d8e5b9a889d6dd0d30215197bed8728e1b"/>
 		<rom name="Industry Giant II (Europe).cue" size="92" crc="b51331f0" md5="a3bbac769a5e55ca9ba737d344d445c6" sha1="fc5eee6ddca99bec13acdf686177ce410e0ecacc"/>
 	</game>
-	<game name="Industry Giant II Gold Edition (Europe)">
+	<game name="Industry Giant II - Gold Edition (Europe)">
 		<category>Games</category>
-		<description>Industry Giant II Gold Edition (Europe)</description>
-		<rom name="Industry Giant II Gold Edition (Europe).iso" size="939229184" crc="e5eca52e" md5="32490ce09298630add44048ae4118677" sha1="06e2bc6563c55e8d474c2cdda857e863f578c588"/>
+		<description>Industry Giant II - Gold Edition (Europe)</description>
+		<rom name="Industry Giant II - Gold Edition (Europe).iso" size="939229184" crc="e5eca52e" md5="32490ce09298630add44048ae4118677" sha1="06e2bc6563c55e8d474c2cdda857e863f578c588"/>
+	</game>
+	<game name="Industry Giant II - Gold Edition (UK) (Disc 1)">
+		<category>Games</category>
+		<description>Industry Giant II - Gold Edition (UK) (Disc 1)</description>
+		<rom name="Industry Giant II - Gold Edition (UK) (Disc 1).bin" size="832520976" crc="0eb25b29" md5="3983bcd7500aaf24c09fe0b21d97b1d2" sha1="0588661bfceeb7ba8f9c8040930af3a8697fea15"/>
+		<rom name="Industry Giant II - Gold Edition (UK) (Disc 1).cue" size="112" crc="6e9464eb" md5="6ae3358ff3051d94ce16697daf6375d7" sha1="3887f3490dda0a512a4c67b4caeb4a473d6ce02e"/>
+	</game>
+	<game name="Industry Giant II - Gold Edition (UK) (Disc 2)">
+		<category>Games</category>
+		<description>Industry Giant II - Gold Edition (UK) (Disc 2)</description>
+		<rom name="Industry Giant II - Gold Edition (UK) (Disc 2).bin" size="788886672" crc="50364966" md5="6026bc04b6635119cc3e9ea91210decd" sha1="4f223c8eb80488b7a342330d537e4de0ccdf9f93"/>
+		<rom name="Industry Giant II - Gold Edition (UK) (Disc 2).cue" size="112" crc="6fc9423a" md5="f368b200b831870afb7fb69e3d7f1370" sha1="4f7dd758252d8f933919c878070b95ee1719dacd"/>
 	</game>
 	<game name="IndyCar Racing &amp; Track Pack + Formula One Grand Prix (Europe)">
 		<category>Games</category>
@@ -53679,6 +53697,12 @@
 		<rom name="Mystery of the Druids, The (USA) (The Present).bin" size="843156720" crc="93d8c242" md5="56dd842f0fd072ca506f748540f69553" sha1="b3c665383f15dd345ed856a32c3a84521506ec92"/>
 		<rom name="Mystery of the Druids, The (USA) (The Present).cue" size="112" crc="3f66d66a" md5="006329732a600227ed4428042fb727a3" sha1="55846a00fc0483469d0ab54a2affb62bf240679f"/>
 	</game>
+	<game name="Mystery of the Mary Celeste, The (USA)">
+		<category>Games</category>
+		<description>Mystery of the Mary Celeste, The (USA)</description>
+		<rom name="Mystery of the Mary Celeste, The (USA).bin" size="257609856" crc="81d0ace9" md5="97a82d98ed5574678428305964017bd5" sha1="405d49512a8d21980e899ac4d5d0b766f9dafde1"/>
+		<rom name="Mystery of the Mary Celeste, The (USA).cue" size="104" crc="3682c2fe" md5="14ee6df10e89739d17385034e944f562" sha1="e3e1b667780e7c12bf5f75d93e9c097ec0ba89fa"/>
+	</game>
 	<game name="Mystery of the Mummy, The (USA)">
 		<category>Games</category>
 		<description>Mystery of the Mummy, The (USA)</description>
@@ -57884,6 +57908,18 @@
 		<rom name="Pacific Storm (USA).bin" size="764985648" crc="218f42e6" md5="b182500b03dd5a18d26e5e9c2b3ca430" sha1="563221014179283c3b4b382c8c5c307b2803cd95"/>
 		<rom name="Pacific Storm (USA).cue" size="85" crc="97b0dae1" md5="70b00fd8c6861d8eee9cd09dceb89023" sha1="80fd19beec3d55c7a125bd0873a110ed4dfe1ff8"/>
 	</game>
+	<game name="Pacific Storm - Allies (Europe) (Disc 1)">
+		<category>Games</category>
+		<description>Pacific Storm - Allies (Europe) (Disc 1)</description>
+		<rom name="Pacific Storm - Allies (Europe) (Disc 1).bin" size="788435088" crc="bd320d6e" md5="de617e7546c4698b9a1025c1c4143b27" sha1="0430f64f418e42c23109c80413f820fe6524940f"/>
+		<rom name="Pacific Storm - Allies (Europe) (Disc 1).cue" size="106" crc="a4652779" md5="e89dd53519d7098e5f3e2a9ec66170f1" sha1="fd23fc10381eacb9dd17ab044f065bb1dfab4dde"/>
+	</game>
+	<game name="Pacific Storm - Allies (Europe) (Disc 2)">
+		<category>Games</category>
+		<description>Pacific Storm - Allies (Europe) (Disc 2)</description>
+		<rom name="Pacific Storm - Allies (Europe) (Disc 2).bin" size="789239472" crc="9523a732" md5="5d2c036c18be66e8331e2c336e7409eb" sha1="882d1ef170d8079d4522e49a32b5f91742b3d04c"/>
+		<rom name="Pacific Storm - Allies (Europe) (Disc 2).cue" size="106" crc="a53801a8" md5="572ecfb311e838d760fd6c19a7314c56" sha1="71b3a467f352fb28f8d294331fd2f4d1c38ab03c"/>
+	</game>
 	<game name="Pacific Warriors - Air Combat Action (Germany) (En,Fr,De,Es,It,Nl)">
 		<category>Games</category>
 		<description>Pacific Warriors - Air Combat Action (Germany) (En,Fr,De,Es,It,Nl)</description>
@@ -58385,6 +58421,12 @@
 		<description>Panzer General II (USA) (v1.01)</description>
 		<rom name="Panzer General II (USA) (v1.01).bin" size="764357664" crc="8e73e604" md5="716554c9525e4d8b86e4b67e169a3263" sha1="cec1aaee41c841dd5469f6abaa6121d90c7b2c6f"/>
 		<rom name="Panzer General II (USA) (v1.01).cue" size="97" crc="83b628b8" md5="ecc3d8df997f93682263a23651b53219" sha1="bd4dd295d62afaa859bfa9a5168f22c7fde7af40"/>
+	</game>
+	<game name="Panzer General III - Scorched Earth (USA)">
+		<category>Games</category>
+		<description>Panzer General III - Scorched Earth (USA)</description>
+		<rom name="Panzer General III - Scorched Earth (USA).bin" size="696029712" crc="cdec7995" md5="d95fd902183722f2bba565983c02dab2" sha1="657a0b0381305bb116ebb43f6ed97c06a2c53487"/>
+		<rom name="Panzer General III - Scorched Earth (USA).cue" size="107" crc="28580fa3" md5="a489b2245d611887b5ffce9aceda86fa" sha1="b10a1a2404f98571a00bbb8f9974d2eeddf07b17"/>
 	</game>
 	<game name="Paparazzi (USA)">
 		<category>Games</category>
@@ -65164,6 +65206,12 @@
 		<description>Retro Gamer - Classic Puzzle Games - Volume 1 (UK)</description>
 		<rom name="Retro Gamer - Classic Puzzle Games - Volume 1 (UK).bin" size="247717344" crc="bc720b18" md5="828fdee01da23f2d595f046de76de8f3" sha1="2fced28777e8bc06fc8c569f71e3586474daa1d9"/>
 		<rom name="Retro Gamer - Classic Puzzle Games - Volume 1 (UK).cue" size="116" crc="f531d9bd" md5="d739b33a60e1250924cb21a67e0a7fd2" sha1="de68c334e1e1d15fa78e8153553281093e20316c"/>
+	</game>
+	<game name="Retro Gold (Europe)">
+		<category>Games</category>
+		<description>Retro Gold (Europe)</description>
+		<rom name="Retro Gold (Europe).bin" size="505164912" crc="9d950e20" md5="91cf1a67ea711228f6fab1157774db94" sha1="55c52c885af8a5ff9b807f461990e1e795914f74"/>
+		<rom name="Retro Gold (Europe).cue" size="108" crc="28cde6ef" md5="b8d33d93ec7b75cedd46d3007ba44318" sha1="f31a9c3842ff11f8b3ceb59f20050744461ebe53"/>
 	</game>
 	<game name="Return Fire (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -72200,6 +72248,12 @@
 		<rom name="Sleep Walker (Netherlands) (En,Es).bin" size="55130880" crc="13b80cd4" md5="86d8611524fb18fb87c12b6cfeb0de80" sha1="7ae77689856a6014bf72c8b0f8bc709e49a175df"/>
 		<rom name="Sleep Walker (Netherlands) (En,Es).cue" size="100" crc="031a12c5" md5="a5c8bd163d78d3433c01e252a138f6e3" sha1="08d19f36ae817663226c940985f7893f3bc68428"/>
 	</game>
+	<game name="SleepWalker (USA)">
+		<category>Games</category>
+		<description>SleepWalker (USA)</description>
+		<rom name="SleepWalker (USA).bin" size="5602464" crc="284e9cb2" md5="cbbcc0e5f715ee5c4ddf3228495a3227" sha1="ffa93ff5a673d9657ab229d050dca852538708ad"/>
+		<rom name="SleepWalker (USA).cue" size="106" crc="d56f18a9" md5="fb8dbbd1af982cbb18f9b6a34dc52704" sha1="2f476145a40df7c9244f1b320afe34f2eb49f473"/>
+	</game>
 	<game name="Sleeping Dogs (Europe) (En,Fr,De,Es,It,Pl,Ru)">
 		<category>Games</category>
 		<description>Sleeping Dogs (Europe) (En,Fr,De,Es,It,Pl,Ru)</description>
@@ -72214,12 +72268,6 @@
 		<category>Games</category>
 		<description>Sleeping Dogs - Definitive Edition (Europe) (Disc 2)</description>
 		<rom name="Sleeping Dogs - Definitive Edition (Europe) (Disc 2).iso" size="7936016384" crc="f5040ffb" md5="595e03c57a73d2225b19f540f91d41f6" sha1="13d0423d1f006d72389ce8f1587e1c7998693d58"/>
-	</game>
-	<game name="Sleepwalker (USA)">
-		<category>Games</category>
-		<description>Sleepwalker (USA)</description>
-		<rom name="Sleepwalker (USA).bin" size="5602464" crc="284e9cb2" md5="cbbcc0e5f715ee5c4ddf3228495a3227" sha1="ffa93ff5a673d9657ab229d050dca852538708ad"/>
-		<rom name="Sleepwalker (USA).cue" size="106" crc="ce282374" md5="0025ac637d2dfb7905d7291f3fbd4658" sha1="983cffc0be7f9c9e97e4c8c10dc3348df991c5d2"/>
 	</game>
 	<game name="Slingo (USA)">
 		<category>Games</category>
