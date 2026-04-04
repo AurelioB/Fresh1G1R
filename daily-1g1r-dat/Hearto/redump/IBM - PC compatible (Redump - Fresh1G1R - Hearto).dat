@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,869) (-y) [-aAbBcefkmMoprv] (2026-04-03 02-23-11) (Retool)</description>
-		<version>2026-04-03 02-23-11</version>
-		<date>2026-04-03 03-15-04</date>
+		<description>IBM - PC compatible (24,900) (-y) [-aAbBcefkmMoprv] (2026-04-04 02-35-46) (Retool)</description>
+		<version>2026-04-04 02-35-46</version>
+		<date>2026-04-04 03-13-15</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -3141,6 +3141,12 @@
 		<description>AI Mahjong - Fresh (Japan)</description>
 		<rom name="AI Mahjong - Fresh (Japan).bin" size="15306816" crc="94484abe" md5="35fc62d35734a17e2f5396278485f1dd" sha1="53aaec81e4d2b593537ac7a085118357a3f316d2"/>
 		<rom name="AI Mahjong - Fresh (Japan).cue" size="92" crc="c0f3fa13" md5="5d4522d4316e22f2836592377ca4012c" sha1="d0a24ff153a5a0f28a1dc2d56818beda356eac2d"/>
+	</game>
+	<game name="AI Shougi 3 (Japan)">
+		<category>Games</category>
+		<description>AI Shougi 3 (Japan)</description>
+		<rom name="AI Shougi 3 (Japan).bin" size="25578000" crc="c84696c4" md5="0028b8d66e982623a98863bfb3f37cd3" sha1="6c1a249410ba15f6a3bc5b7a9eaccd2d6d54b9f6"/>
+		<rom name="AI Shougi 3 (Japan).cue" size="108" crc="5b27e53c" md5="84daff706c5b761a3440abeeeb04c41c" sha1="309af5873b24117622c7b84bc354b37cce057b8e"/>
 	</game>
 	<game name="AIV Network$ (France)">
 		<category>Games</category>
@@ -12812,6 +12818,11 @@
 		<description>Austria Professional X (Europe) (En,De)</description>
 		<rom name="Austria Professional X (Europe) (En,De).iso" size="4403986432" crc="41012f5c" md5="b260ac6ccb5e25531bc48f78da24c00b" sha1="5b0b49bb9ec85a3495342cc9fbab534d62d66c17"/>
 	</game>
+	<game name="Auto Assault (USA) (En,Fr,De)">
+		<category>Games</category>
+		<description>Auto Assault (USA) (En,Fr,De)</description>
+		<rom name="Auto Assault (USA) (En,Fr,De).iso" size="2913665024" crc="0b04599d" md5="5f5ca11ff3a93f62e5ab4b5620104202" sha1="ec5917a84f2200d19635974b7b1a968954be338e"/>
+	</game>
 	<game name="Autobahn (USA)">
 		<category>Games</category>
 		<description>Autobahn (USA)</description>
@@ -15757,6 +15768,12 @@
 		<description>Battlefield 2142 - Deluxe Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Sv,Da,Fi,Zh,Ko,Pl,Ru,Cs,Th)</description>
 		<rom name="Battlefield 2142 - Deluxe Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Sv,Da,Fi,Zh,Ko,Pl,Ru,Cs,Th).iso" size="4241195008" crc="e26fdf99" md5="bf8b2ab1f3af22e1401b1c57fadc78ec" sha1="186607cb64c6f4670a45fab2d691c209b2b150f5"/>
 	</game>
+	<game name="Battlefield 2142 - Northern Strike Booster Pack (Japan)">
+		<category>Add-Ons</category>
+		<description>Battlefield 2142 - Northern Strike Booster Pack (Japan)</description>
+		<rom name="Battlefield 2142 - Northern Strike Booster Pack (Japan).bin" size="2747136" crc="4005715b" md5="ea7f3be080cd5339173712787aa7596a" sha1="605a29ee1aa93bf604cb1a28d03ee7cb8c850f3a"/>
+		<rom name="Battlefield 2142 - Northern Strike Booster Pack (Japan).cue" size="121" crc="4b1043ad" md5="8343e51fa8b3461c6e07ed2ea24a400a" sha1="babd4d1d5293c8e194e456c9866dfd42c801466c"/>
+	</game>
 	<game name="Battlefield 3 (USA) (Disc 1) (Rev 1)">
 		<category>Games</category>
 		<description>Battlefield 3 (USA) (Disc 1) (Rev 1)</description>
@@ -16187,11 +16204,11 @@
 		<rom name="Beach Head 2000 (USA).bin" size="51501744" crc="df47909a" md5="00eebae80f8ab34d052ccaf5fbd71115" sha1="662fae4166ca22a03ed12aa3cdc8a2b5c277eebf"/>
 		<rom name="Beach Head 2000 (USA).cue" size="87" crc="436c7dc4" md5="3f8158a59f7f2ca470fd20eb792cd924" sha1="556376e8cee175ac2b5f445f7cc9f09ec90c94c2"/>
 	</game>
-	<game name="Beach Head 2002 (Argentina)">
+	<game name="Beach Head 2002 (USA)">
 		<category>Games</category>
-		<description>Beach Head 2002 (Argentina)</description>
-		<rom name="Beach Head 2002 (Argentina).bin" size="120380064" crc="73687418" md5="5a0d26c2d56273f1218690a1c9d32cb1" sha1="573bd1e46ffdc3919cb099961678a26dcddc2184"/>
-		<rom name="Beach Head 2002 (Argentina).cue" size="93" crc="f0f95407" md5="fccfd900a06be26b104e4dbf891ba2f1" sha1="58bf0d2fae2d7ca76b971f91272840784902a128"/>
+		<description>Beach Head 2002 (USA)</description>
+		<rom name="Beach Head 2002 (USA).bin" size="120380064" crc="73687418" md5="5a0d26c2d56273f1218690a1c9d32cb1" sha1="573bd1e46ffdc3919cb099961678a26dcddc2184"/>
+		<rom name="Beach Head 2002 (USA).cue" size="87" crc="829eb335" md5="ef811492a528af33ec4ca5682a8efbde" sha1="a150d53dd1cb3911ac34148497ea0e2b691e9bbb"/>
 	</game>
 	<game name="Beach King Stunt Racer (Europe) (En,Fr,De,Nl)">
 		<category>Games</category>
@@ -24954,6 +24971,12 @@
 		<rom name="Challenge Price 398 Series - Hanafuda (Japan).bin" size="4783968" crc="0d3d42bf" md5="2a82f59fa9fdef320f5256e35cfd2661" sha1="3036dca5f9f3b3b96000ac5254163e64d974d853"/>
 		<rom name="Challenge Price 398 Series - Hanafuda (Japan).cue" size="134" crc="50af7628" md5="06b001e328a12d5b2936c901df8b5bef" sha1="2250ffc0ee9d5c79f1a4d12659b6d632cc58ec9f"/>
 	</game>
+	<game name="Challenge Price 398 Series - Mahjong (Japan)">
+		<category>Games</category>
+		<description>Challenge Price 398 Series - Mahjong (Japan)</description>
+		<rom name="Challenge Price 398 Series - Mahjong (Japan).bin" size="3391584" crc="8197fe78" md5="f719b47a140a8fbd144e07e4afb82053" sha1="60c0808cef45052eeec5387f29de59b77643597e"/>
+		<rom name="Challenge Price 398 Series - Mahjong (Japan).cue" size="133" crc="af0b66b9" md5="3707fa3b2998546f9ab2b90f75a2b0a3" sha1="35f1a6804b072a62fb28c8339db4f775844e44c1"/>
+	</game>
 	<game name="Challenge Price 498 - Hanafuda (Japan)">
 		<category>Games</category>
 		<description>Challenge Price 498 - Hanafuda (Japan)</description>
@@ -29133,6 +29156,12 @@
 		<description>Commandos - Im Auftrag der Ehre (Germany)</description>
 		<rom name="Commandos - Im Auftrag der Ehre (Germany).bin" size="788886672" crc="951476b3" md5="4887ebb2d1370cd32991ef0402881a58" sha1="7ae52bd4ea4ea1bc695516046c487c0df8d445f5"/>
 		<rom name="Commandos - Im Auftrag der Ehre (Germany).cue" size="107" crc="96802222" md5="a096430e5f07bac6e6d7d42a8c53ffc1" sha1="296392fe9a3f0a4648490af8241d5e4aaee8c7e2"/>
+	</game>
+	<game name="Commandos - Mas Alla del Deber (Spain)">
+		<category>Games</category>
+		<description>Commandos - Mas Alla del Deber (Spain)</description>
+		<rom name="Commandos - Mas Alla del Deber (Spain).bin" size="458484768" crc="dd62c99a" md5="5e007044a46a79110578b2a0eb6d0241" sha1="16c0063df16c0c9dc35dc3cce81eab298ad03a8c"/>
+		<rom name="Commandos - Mas Alla del Deber (Spain).cue" size="104" crc="f53feede" md5="772acc1b29acd89e9287c4d569943364" sha1="3b18e4e9156c1f01dc64c85a75e3e304113c9821"/>
 	</game>
 	<game name="Commandos - Strike Force (USA) (En,Fr,De,Es,It) (Rerelease)">
 		<category>Games</category>
@@ -34000,7 +34029,7 @@
 	<game name="Dark Souls III (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 2)">
 		<category>Games</category>
 		<description>Dark Souls III (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 2)</description>
-		<rom name="Dark Souls III (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 2).iso" size="7339761664" crc="d2db7f69" md5="5404468445d1954d3ec3390fc4c16a99" sha1="1b594f62e4dc48cdf688306584ba57ac82e22b29"/>
+		<rom name="Dark Souls III (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 2).iso" size="7340021760" crc="08f04186" md5="c4e6f4995e2dfcd462b9e372e58b3602" sha1="867ac44a7137665380f2dff10ed6480ba739fabb"/>
 	</game>
 	<game name="Dark Souls III (Europe) (En,Fr,De,Es,It,Pl,Ru) (Disc 3)">
 		<category>Games</category>
@@ -38893,6 +38922,12 @@
 		<rom name="Disney Donald in Cold Shadow (Italy) (Track 20).bin" size="17110800" crc="6bc0e63b" md5="d2c7b8b241fc3fc034917f807192d0c7" sha1="bf9d7adbf499a03c8e70d1a7522d7c3cc1052752"/>
 		<rom name="Disney Donald in Cold Shadow (Italy) (Track 21).bin" size="2135616" crc="653aec7d" md5="f93e1595ec5d95d6486faff8c093aefb" sha1="8e6d0b103c9fa267396463580af29bbf2cc940e2"/>
 		<rom name="Disney Donald in Cold Shadow (Italy).cue" size="2296" crc="a56bdba0" md5="4cb00838b16ac9e58ea5da68f250dda4" sha1="cfd0d4c0045af419092f5a011af2b50331a6d95e"/>
+	</game>
+	<game name="Disney El Rey Leon II - El Tesoro de Simba - Gamebreak! (Spain)">
+		<category>Games</category>
+		<description>Disney El Rey Leon II - El Tesoro de Simba - Gamebreak! (Spain)</description>
+		<rom name="Disney El Rey Leon II - El Tesoro de Simba - Gamebreak! (Spain).bin" size="407225280" crc="121b0946" md5="4b9adb44ee4747b1bc0ca344d58cfba1" sha1="5257519728dda1816a3c0f3acd91aa7914ad5115"/>
+		<rom name="Disney El Rey Leon II - El Tesoro de Simba - Gamebreak! (Spain).cue" size="129" crc="dd129b7c" md5="fde2b9cf5e0bde8e30edb4791117c754" sha1="a845da2b74f56ca28f46526657467970bf2a93e7"/>
 	</game>
 	<game name="Disney Frenesia Volante (Italy)">
 		<category>Games</category>
@@ -71629,6 +71664,12 @@
 		<rom name="Ice Age 2 - The Meltdown (Europe) (Disc 2).bin" size="517265952" crc="99e28831" md5="8a1b264245e336ae8cfa8208c8b4048a" sha1="a145dc8b116239634bb52d655c040ce4b3ee9632"/>
 		<rom name="Ice Age 2 - The Meltdown (Europe) (Disc 2).cue" size="108" crc="cbaf74f1" md5="3e378c9921ea8741f9da50e4c1e26cc5" sha1="76865e663b9938920ec1b566b575e0e3dcc7a8a8"/>
 	</game>
+	<game name="Ice Land (Poland) (Covermount)">
+		<category>Games</category>
+		<description>Ice Land (Poland) (Covermount)</description>
+		<rom name="Ice Land (Poland) (Covermount).bin" size="27551328" crc="ca23b052" md5="c395ba6748dea155eb96e22058979deb" sha1="0e41cef6645e040c457d2b459b285e139dbd1056"/>
+		<rom name="Ice Land (Poland) (Covermount).cue" size="96" crc="380e8874" md5="aed48ca6c42f5ec71b0024bbe40a418c" sha1="34f8d86caca6e077baa61800e96da9915b948a01"/>
+	</game>
 	<game name="Ice Land 2 (Poland)">
 		<category>Games</category>
 		<description>Ice Land 2 (Poland)</description>
@@ -73897,23 +73938,23 @@
 		<rom name="International Poker Tour (USA).bin" size="112825440" crc="60b7d3ec" md5="b442c54bc0a38a14fac8b1e4a32b55de" sha1="75c5d9157c366c0b9240f342216c0f0e92cd196b"/>
 		<rom name="International Poker Tour (USA).cue" size="111" crc="8223aee1" md5="93f51e0aeed16b0b017f925b292990c3" sha1="579de68366ed659178a9222b9e018f0e5ff49e8d"/>
 	</game>
-	<game name="International Rally Championship (USA) (Rerelease)">
+	<game name="International Rally Championship (USA)">
 		<category>Games</category>
-		<description>International Rally Championship (USA) (Rerelease)</description>
-		<rom name="International Rally Championship (USA) (Rerelease) (Track 01).bin" size="294783216" crc="b9719e1d" md5="a10a4ebf7de6429e6d90c977160ae08a" sha1="bdfd65553245df0cd41f90596d3f2f2afc7b912b"/>
-		<rom name="International Rally Championship (USA) (Rerelease) (Track 02).bin" size="38217648" crc="ff4a8d21" md5="8ed887f94b802c39b1f40a2e4472caa5" sha1="50a4a4e941a6a8c4aac61fb45f896520b49c6608"/>
-		<rom name="International Rally Championship (USA) (Rerelease) (Track 03).bin" size="35305872" crc="15dca496" md5="999a3161b6a9c9e648df0b09922b1c46" sha1="5b0b3adc698095c85cd31d087b9afbfa53dfe792"/>
-		<rom name="International Rally Championship (USA) (Rerelease) (Track 04).bin" size="8554224" crc="0b78e8d0" md5="183a115193d96e7ec700af47d92d9c13" sha1="28c13d1be9e40e28e18d8d090d8ab259fe3b6039"/>
-		<rom name="International Rally Championship (USA) (Rerelease) (Track 05).bin" size="2069760" crc="09320df6" md5="cb8d9aea50b46b4a0eeeecca55102482" sha1="e2532f989a28f944182ba78ccc89fd88ee1b4363"/>
-		<rom name="International Rally Championship (USA) (Rerelease) (Track 06).bin" size="44829120" crc="25886d02" md5="c78c6044dc5a39e9b9646c9c7b15b9c4" sha1="a1ac87e76443dd0ffd09c6026ff760c8a7199de0"/>
-		<rom name="International Rally Championship (USA) (Rerelease) (Track 07).bin" size="41322288" crc="5a733b11" md5="224f7df10dbd3013a95ff189f04c33f1" sha1="ba506ee4c9bb51410829b179ffad181c45267714"/>
-		<rom name="International Rally Championship (USA) (Rerelease) (Track 08).bin" size="36025584" crc="c005e989" md5="fe5fb053c5303090e91c5693438b85bf" sha1="252ac4db925b71db9839c643fe7a587c6f400692"/>
-		<rom name="International Rally Championship (USA) (Rerelease) (Track 09).bin" size="56452704" crc="ffd12984" md5="a801d30006496d5d3983b9a16930fd66" sha1="8543beef0d1ea822721c76c24ebeaebafb7e8c2d"/>
-		<rom name="International Rally Championship (USA) (Rerelease) (Track 10).bin" size="31258080" crc="b871ae54" md5="25ef120f7271e4b942018bd678153d2d" sha1="2b31e0256ea499b1a506ba21caf143667bfb6dd2"/>
-		<rom name="International Rally Championship (USA) (Rerelease) (Track 11).bin" size="31312176" crc="5f2137fb" md5="92003037f2265fd917295718b1b6a864" sha1="c80be75c8b0979014600ff15a2ff3d4fd1a72358"/>
-		<rom name="International Rally Championship (USA) (Rerelease) (Track 12).bin" size="36211392" crc="6c41a8ba" md5="78bb91c630d99472fdd72bb175cff61a" sha1="5099263fc549621d0007142f66a4557424a33712"/>
-		<rom name="International Rally Championship (USA) (Rerelease) (Track 13).bin" size="41277600" crc="da812b4a" md5="44270f51603e5bcbdab551dbfe9b9a93" sha1="545fbb3cdb8f615b28f752524162e4d579873a27"/>
-		<rom name="International Rally Championship (USA) (Rerelease).cue" size="1614" crc="678d5ac7" md5="de1120bd24181db41a858e593f169f01" sha1="ae3c3f9b17153337036ea8586aa8f99d37887bb3"/>
+		<description>International Rally Championship (USA)</description>
+		<rom name="International Rally Championship (USA) (Track 01).bin" size="294783216" crc="b9719e1d" md5="a10a4ebf7de6429e6d90c977160ae08a" sha1="bdfd65553245df0cd41f90596d3f2f2afc7b912b"/>
+		<rom name="International Rally Championship (USA) (Track 02).bin" size="38217648" crc="76d06aee" md5="df400f74d51a095f7d346591dda588d1" sha1="30415c5f42585fbad8c95214be91aaccc439a384"/>
+		<rom name="International Rally Championship (USA) (Track 03).bin" size="35305872" crc="6f8a3705" md5="1996efe859da1cc16fadc66f3282e7f4" sha1="34cde8b7feaf65e1f7cee259470849216f4a15b7"/>
+		<rom name="International Rally Championship (USA) (Track 04).bin" size="8554224" crc="6f14bb97" md5="cd0d3091cf79f5880eece0582ee2d5f4" sha1="d700c3cdbd3ef95bad7f937d3592a2d2589b02d5"/>
+		<rom name="International Rally Championship (USA) (Track 05).bin" size="2069760" crc="89a0a097" md5="ac52cc24bdd11920c3251de844fe62a9" sha1="7d5c5bac7805bfb884198f5266d829a75ed89d82"/>
+		<rom name="International Rally Championship (USA) (Track 06).bin" size="44829120" crc="eede3807" md5="bbf4eee4e83a24aa0714e3e134b53349" sha1="6462b061a805b34068e81b1eda98c37168c11c1c"/>
+		<rom name="International Rally Championship (USA) (Track 07).bin" size="41322288" crc="f744af83" md5="a9d3351c0fb236b5b24476ea309655e7" sha1="aedd70364ce427bf60e91401788e86e9b87ca020"/>
+		<rom name="International Rally Championship (USA) (Track 08).bin" size="36025584" crc="08037e47" md5="4da077767577c2022fb79b6e6d55b9d0" sha1="5a56846ceaf4e11710dcb5162958f1da63347bb4"/>
+		<rom name="International Rally Championship (USA) (Track 09).bin" size="56452704" crc="82eb10aa" md5="4101f6e93742b6a8ff173b1318d44e68" sha1="6e5daed8d70a95be503369b16515ee76bb8d7352"/>
+		<rom name="International Rally Championship (USA) (Track 10).bin" size="31258080" crc="2029652a" md5="813e85e39401a0a8405662ce709b8d3b" sha1="efcfe5c181f1826414d3a22d700e1e35d30c5a64"/>
+		<rom name="International Rally Championship (USA) (Track 11).bin" size="31312176" crc="dcaba12f" md5="3244b927fd01e272705e4b6305597519" sha1="eaa9d8c2dced2aef9ae57e433cca958310711a66"/>
+		<rom name="International Rally Championship (USA) (Track 12).bin" size="36211392" crc="396b4d60" md5="998c86c6cd230bd853b95ced979d6b38" sha1="a7b4e9817f413f6f03a9d81077c1c9ae554d9997"/>
+		<rom name="International Rally Championship (USA) (Track 13).bin" size="41277600" crc="82b06595" md5="6a3d04c4f4634785c2c08388404d4bae" sha1="e4150e3d08f914d92c3fbfe8200c3d684cb1a05a"/>
+		<rom name="International Rally Championship (USA).cue" size="1458" crc="22778653" md5="bcf0d33a13e72c8d621f65eeed9880d8" sha1="86f52f50799431ac1116ad2f502d3536158722a3"/>
 	</game>
 	<game name="International Rugby League (Europe)">
 		<category>Games</category>
@@ -75665,6 +75706,12 @@
 		<rom name="Jane's Combat Simulations - AH-64D Longbow FX (USA).bin" size="688703232" crc="b035b9c9" md5="2a99675fafe6bee1f794e3393c267db1" sha1="4f86e097268dc51334f4003bd25c6620bd212152"/>
 		<rom name="Jane's Combat Simulations - AH-64D Longbow FX (USA).cue" size="140" crc="ad650ccd" md5="239e1001a729ae5a0783555cde651369" sha1="ad003e734751ddf924889cbca53620ba941bb996"/>
 	</game>
+	<game name="Jane's Combat Simulations - ATF - Advanced Tactical Fighters (USA) (Rerelease)">
+		<category>Games</category>
+		<description>Jane's Combat Simulations - ATF - Advanced Tactical Fighters (USA) (Rerelease)</description>
+		<rom name="Jane's Combat Simulations - ATF - Advanced Tactical Fighters (USA) (Rerelease).bin" size="714909216" crc="dcfd1613" md5="d66216b5722b957d626d2249fa17c0a5" sha1="c68a6f93136dd3185be78e507431197a946a5c56"/>
+		<rom name="Jane's Combat Simulations - ATF - Advanced Tactical Fighters (USA) (Rerelease).cue" size="167" crc="f3a36de6" md5="ff5f032e3e60ea9fd90e1ad54d8413e8" sha1="a103a7a076ff2dbf402a541f1dd76b012e4955ed"/>
+	</game>
 	<game name="Jane's Combat Simulations - ATF - Nato Fighters (Germany)">
 		<category>Add-Ons</category>
 		<description>Jane's Combat Simulations - ATF - Nato Fighters (Germany)</description>
@@ -77065,8 +77112,8 @@
 	<game name="Jones in the Fast Lane (USA)">
 		<category>Games</category>
 		<description>Jones in the Fast Lane (USA)</description>
-		<rom name="Jones in the Fast Lane (USA) (Track 1).bin" size="34802544" crc="7fd8aa9f" md5="31fc117f237b9fe9c9db98c7bda416cc" sha1="4dc4b4ea2cb8ec09b70a450ade494a874dcd9546"/>
-		<rom name="Jones in the Fast Lane (USA) (Track 2).bin" size="400705536" crc="44fcfa65" md5="a724fdcfe992464b98827a03131c7176" sha1="4aeea5f6a29383f480911d860f553d48bd0e0284"/>
+		<rom name="Jones in the Fast Lane (USA) (Track 1).bin" size="34821360" crc="3e7a25a9" md5="f62c8d2b82f6e4c9d5c43fcb23761e52" sha1="dbc68d2222731cb8cf4728bc437d4ca24f752fbf"/>
+		<rom name="Jones in the Fast Lane (USA) (Track 2).bin" size="390321456" crc="d40fde9a" md5="1ff783b775a95275dc16980b444862e0" sha1="2dd05531fb8da5839c857498ccd525cb3a55e855"/>
 		<rom name="Jones in the Fast Lane (USA).cue" size="226" crc="b17b7359" md5="3c9e885cf67b04fe1e846fa5fb870492" sha1="1882727859056e3273e6636c6ef077f646b55626"/>
 	</game>
 	<game name="Josefin (Sweden) (Sv,No,Da,Fi)">
@@ -78526,6 +78573,12 @@
 		<description>Kapten Sabeltand (Sweden)</description>
 		<rom name="Kapten Sabeltand (Sweden).bin" size="788886672" crc="0b2dd75f" md5="8ada2e3d83bba610dbf1816d032baebb" sha1="5444c1ccd7dd26ec15013c753d80956b6f31dcf3"/>
 		<rom name="Kapten Sabeltand (Sweden).cue" size="91" crc="085bb2bb" md5="18fde9462044f5045ca0729be96381bd" sha1="adb5d2f302daa1e56de951949a97834c12318ec0"/>
+	</game>
+	<game name="Kar Racing &amp; Mini Golf (Europe)">
+		<category>Games</category>
+		<description>Kar Racing &amp; Mini Golf (Europe)</description>
+		<rom name="Kar Racing &amp; Mini Golf (Europe).bin" size="465427872" crc="d9f4fe96" md5="9c8910feed63733324250ddbda2677ad" sha1="ff1f63e4f5b6747ed92a31e7a38540a62c65f26c"/>
+		<rom name="Kar Racing &amp; Mini Golf (Europe).cue" size="97" crc="239bb9fa" md5="1d9bec8e46dc2f0851dae88a8fa11b05" sha1="29b417d84c0b24ce35df6ebdd1d6adac28ba22da"/>
 	</game>
 	<game name="Kara no Shojo (USA)">
 		<category>Games</category>
@@ -84469,6 +84522,12 @@
 		<rom name="Library Train (Japan).bin" size="195352416" crc="6e263f05" md5="f2c4f08e358257b24b989c125a3f840a" sha1="1c4c64c651a178c53438517d61400218561e235c"/>
 		<rom name="Library Train (Japan).cue" size="87" crc="36fb83be" md5="d3232238b76248b2d5eb51b767d9d9ef" sha1="6ebacd6c833537c96c04cdc51314629fa9a35ca5"/>
 	</game>
+	<game name="Licze z Reksiem (Poland)">
+		<category>Games</category>
+		<description>Licze z Reksiem (Poland)</description>
+		<rom name="Licze z Reksiem (Poland).bin" size="796462464" crc="059d83cb" md5="d1bd2ec7f14d94ad65dc71363b91ff5e" sha1="82bd24a92a7cbe5cd7c45d050966c86d701b6174"/>
+		<rom name="Licze z Reksiem (Poland).cue" size="90" crc="d1bdc9e0" md5="70beb4fac1e183e9556cad1e0b50efcd" sha1="7da9d0ef99da2c0bfc396ecbae9bad5bab6fb054"/>
+	</game>
 	<game name="Liesha Qianhang II (China)">
 		<category>Games</category>
 		<description>Liesha Qianhang II (China)</description>
@@ -89647,6 +89706,12 @@
 		<description>Mahjong Mania! (Germany)</description>
 		<rom name="Mahjong Mania! (Germany).bin" size="13947360" crc="d33d5e0d" md5="363a8576c1a8d01d9d7e2c19646444cc" sha1="14b74f3992775a3cf6f9f248bdd2a97f988f6e00"/>
 		<rom name="Mahjong Mania! (Germany).cue" size="90" crc="3e5bda6f" md5="65e541d3a79b6c2e7b164bdb61e92767" sha1="9840db8990494f8c1b3cccc873a089a6ab5c77bd"/>
+	</game>
+	<game name="Mahjong Pirates MJ - Gesen Kibun de Taisen Mahjong (Japan)">
+		<category>Games</category>
+		<description>Mahjong Pirates MJ - Gesen Kibun de Taisen Mahjong (Japan)</description>
+		<rom name="Mahjong Pirates MJ - Gesen Kibun de Taisen Mahjong (Japan).bin" size="11607120" crc="f0122d4e" md5="094c316db6cffb20ff5f0aebbc1981ab" sha1="b26aded952f038a34635d0a4b3389f9888e897db"/>
+		<rom name="Mahjong Pirates MJ - Gesen Kibun de Taisen Mahjong (Japan).cue" size="147" crc="364bf399" md5="7c580fce878d66e77a663c33640500c5" sha1="5f9cd4de75b29f6ae661509ad2c1dbbc6a6dc3bf"/>
 	</game>
 	<game name="Mahjong Secrets (Australia)">
 		<category>Games</category>
@@ -99473,6 +99538,50 @@
 		<rom name="Morskie Titany (Russia).bin" size="770381136" crc="6564fbf8" md5="55ee24e223e64755e458f1a4b54a99be" sha1="f850e0f25602b70e3d762ad688304d60f8968642"/>
 		<rom name="Morskie Titany (Russia).cue" size="89" crc="0e92b5cd" md5="e117429dee1dc2d95d6092d86542de34" sha1="16c3bc662c145cfe6555bb9aa4a93846120000ec"/>
 	</game>
+	<game name="Mortadelo y Filemon - El escarabajo de Cleopatra (Spain)">
+		<category>Games</category>
+		<description>Mortadelo y Filemon - El escarabajo de Cleopatra (Spain)</description>
+		<rom name="Mortadelo y Filemon - El escarabajo de Cleopatra (Spain) (Track 01).bin" size="563814384" crc="8cffcc59" md5="4ec10955afc94e6be6fe9c4529c5d313" sha1="6bfcbae966626cd9112062974e38ccae5a207992"/>
+		<rom name="Mortadelo y Filemon - El escarabajo de Cleopatra (Spain) (Track 02).bin" size="20953968" crc="9f537ba7" md5="3412159525897a5900a8e5129bebcb1b" sha1="4ed511499a80867672c99de214dd34f2e7d41140"/>
+		<rom name="Mortadelo y Filemon - El escarabajo de Cleopatra (Spain) (Track 03).bin" size="1688736" crc="c83726ee" md5="b6940482f46e5e56c9763f87adb82728" sha1="5aef64a0a55692369fbe2491d5ed683248278702"/>
+		<rom name="Mortadelo y Filemon - El escarabajo de Cleopatra (Spain) (Track 04).bin" size="1465296" crc="744e8e13" md5="35a18d460ca9808bfb230251b38f6ff0" sha1="dd68f8921149cc9d247fba1a863944dbed62ffa8"/>
+		<rom name="Mortadelo y Filemon - El escarabajo de Cleopatra (Spain) (Track 05).bin" size="7183008" crc="62c9a33f" md5="841db4253c4fb6e898da8f1470276b83" sha1="6d61d983f9c7de99523a66590317a9f815edfee2"/>
+		<rom name="Mortadelo y Filemon - El escarabajo de Cleopatra (Spain) (Track 06).bin" size="27280848" crc="4905d522" md5="450e77506597a2f6667334f2c3bf2f19" sha1="cbd92c0c49c789770114ea104473208dc447e1e7"/>
+		<rom name="Mortadelo y Filemon - El escarabajo de Cleopatra (Spain) (Track 07).bin" size="9523248" crc="240c7312" md5="8e81118fa738923bc520a97e2adb3845" sha1="7b37996640ee11507a34add550a84f78bf34ee96"/>
+		<rom name="Mortadelo y Filemon - El escarabajo de Cleopatra (Spain) (Track 08).bin" size="26398848" crc="19067f48" md5="007caf66364e602a75bd636d1277fcd2" sha1="49914daf91ffd0d6d4a7e913c047adeab1853962"/>
+		<rom name="Mortadelo y Filemon - El escarabajo de Cleopatra (Spain) (Track 09).bin" size="14688240" crc="9ef92b0d" md5="a44d1ac2df61332c9680fb8de40aebf0" sha1="3af884ae538c225c960753c1469bcdf754fdf6fa"/>
+		<rom name="Mortadelo y Filemon - El escarabajo de Cleopatra (Spain) (Track 10).bin" size="2782416" crc="ba6d8175" md5="2a225e3fabd3b7fa05250cb49120ee18" sha1="5875d5454d5e816797a6cc0e6e2f8b67f6386ba1"/>
+		<rom name="Mortadelo y Filemon - El escarabajo de Cleopatra (Spain) (Track 11).bin" size="16591008" crc="694d1fa4" md5="2b70e9df5f13d5241ec364a061dddc31" sha1="53244969392066c127a33bda22d831b4d278c314"/>
+		<rom name="Mortadelo y Filemon - El escarabajo de Cleopatra (Spain) (Track 12).bin" size="27120912" crc="78763c9a" md5="5dcd7aed3475a04aae4482790ca205da" sha1="98fc032e50fe7b48ce2ff80bfd5cc14038139918"/>
+		<rom name="Mortadelo y Filemon - El escarabajo de Cleopatra (Spain) (Track 13).bin" size="16581600" crc="99619e14" md5="8ed35469be46e12911354556ff24edf9" sha1="8b747f1c982cc91f5436da48d69c76492d77b803"/>
+		<rom name="Mortadelo y Filemon - El escarabajo de Cleopatra (Spain) (Track 14).bin" size="4833360" crc="20b147d3" md5="8960273b36892f220195488d629ceab2" sha1="6aaff5759187218fe4515f946e6189c4958af229"/>
+		<rom name="Mortadelo y Filemon - El escarabajo de Cleopatra (Spain).cue" size="1820" crc="a181a95f" md5="e03372eda4ff342509eaa64698c9245f" sha1="465f0137cd8dac3e10de3263b278391d81e5520c"/>
+	</game>
+	<game name="Mortadelo y Filemon - La Maquina Meteoroloca (Spain)">
+		<category>Games</category>
+		<description>Mortadelo y Filemon - La Maquina Meteoroloca (Spain)</description>
+		<rom name="Mortadelo y Filemon - La Maquina Meteoroloca (Spain).bin" size="742872144" crc="d3758b62" md5="8a4baaab91ae656ac7238d3f555ae912" sha1="f292f041489da66913cf444a6a34efc9ea5459ea"/>
+		<rom name="Mortadelo y Filemon - La Maquina Meteoroloca (Spain).cue" size="118" crc="66cc8834" md5="a7b075bfc49a010b68d35b246246f827" sha1="82c2c6921f1abd2a14e5837b8f2087dc7551e36d"/>
+	</game>
+	<game name="Mortadelo y Filemon - Operacion Moscu (Spain)">
+		<category>Games</category>
+		<description>Mortadelo y Filemon - Operacion Moscu (Spain)</description>
+		<rom name="Mortadelo y Filemon - Operacion Moscu (Spain) (Track 01).bin" size="398701632" crc="f9743fff" md5="cea4c5207aa15b8bc364cc7fe2271132" sha1="d64e3a59140281a8a626db4f563f873721ed2b17"/>
+		<rom name="Mortadelo y Filemon - Operacion Moscu (Spain) (Track 02).bin" size="20946912" crc="073beeb9" md5="045e88366329eecce3e863c549ea6141" sha1="8ab7999f695709dceb1fb0f14177a0d7818a13be"/>
+		<rom name="Mortadelo y Filemon - Operacion Moscu (Spain) (Track 03).bin" size="1639344" crc="b5e9bbe5" md5="6b4e49c37b25cafc34a930b873264f1c" sha1="e1800540695b48d15f05cc7de9af6d81e53a3c49"/>
+		<rom name="Mortadelo y Filemon - Operacion Moscu (Spain) (Track 04).bin" size="1446480" crc="4f40617a" md5="a625cb15f7494200e6ee995dc0ae1c7c" sha1="8a96695b718272c581c59bf9ca36e35964e82828"/>
+		<rom name="Mortadelo y Filemon - Operacion Moscu (Spain) (Track 05).bin" size="7192416" crc="283db060" md5="7a2aa57a69933e8d170e6edfd393988a" sha1="1282ede1ae0f2c27c1ca2480b2d5c3e80bce6d79"/>
+		<rom name="Mortadelo y Filemon - Operacion Moscu (Spain) (Track 06).bin" size="11007360" crc="92f9a2f0" md5="c1230a9708b9b592caa90a5d906931a3" sha1="dffac77b71f5545c5ada22ffca37c818f3ef4ac1"/>
+		<rom name="Mortadelo y Filemon - Operacion Moscu (Spain) (Track 07).bin" size="21993552" crc="f8f04f49" md5="1db8215e95b97e197f7005e40c1c03c1" sha1="e889509594d9aba4d191c2da65f95473c23b94f6"/>
+		<rom name="Mortadelo y Filemon - Operacion Moscu (Spain) (Track 08).bin" size="17861088" crc="484ab757" md5="df2a30fc2aa830080b1be62ae246966f" sha1="5412c07d356272f75db6902b38c83bbd086105e1"/>
+		<rom name="Mortadelo y Filemon - Operacion Moscu (Spain) (Track 09).bin" size="26528208" crc="f364b981" md5="4c4943d2e811d17053454414ed14f47c" sha1="e31d4531cda8a24e8add134b8aec21d7cf98e1e6"/>
+		<rom name="Mortadelo y Filemon - Operacion Moscu (Spain) (Track 10).bin" size="14326032" crc="b7543f4c" md5="263ef50b51e52c548b76ae2080b21043" sha1="8fb69e81701f2470f89ac57d46915bfd364404df"/>
+		<rom name="Mortadelo y Filemon - Operacion Moscu (Spain) (Track 11).bin" size="18759552" crc="5c5d91c5" md5="f13053226089f7c9357c063a5bbe6493" sha1="9b8ea7794f69b00a8e4155eaf6d961030104fa00"/>
+		<rom name="Mortadelo y Filemon - Operacion Moscu (Spain) (Track 12).bin" size="14250768" crc="c67d25d6" md5="6341c8bc7f983c6444169ad343c95465" sha1="80b53977257fe2b19e3b78e238440c1f3b6ebaaa"/>
+		<rom name="Mortadelo y Filemon - Operacion Moscu (Spain) (Track 13).bin" size="15240960" crc="6b5cc577" md5="d3a8a9ce97cf95dc504c36ee6bde3022" sha1="00c53d505ebbb6ba8f9a9a7dbf492188748a3064"/>
+		<rom name="Mortadelo y Filemon - Operacion Moscu (Spain) (Track 14).bin" size="11931696" crc="59a13e80" md5="f7c40539414da6e735743d2153c94394" sha1="5ec498aabbf1ac5638369f9cc7d0f5aa33fc1f6c"/>
+		<rom name="Mortadelo y Filemon - Operacion Moscu (Spain).cue" size="1666" crc="5fabd7eb" md5="5ed536f197b008c0c35653cca14a0ca2" sha1="54cf01e0f822231206274584013bd46293c39782"/>
+	</game>
 	<game name="Mortal Coil (Germany)">
 		<category>Games</category>
 		<description>Mortal Coil (Germany)</description>
@@ -108849,6 +108958,33 @@
 		<description>Ougon Musou Kyoku Cross (Japan)</description>
 		<rom name="Ougon Musou Kyoku Cross (Japan).iso" size="2050168832" crc="628f4fea" md5="da102a89ec2e847d03a5a424c7a1bedc" sha1="014fde22294c2392a8b84ff879bead6543c26de7"/>
 	</game>
+	<game name="Oujisama Lv 1.5 (Japan)">
+		<category>Games</category>
+		<description>Oujisama Lv 1.5 (Japan)</description>
+		<rom name="Oujisama Lv 1.5 (Japan) (Track 01).bin" size="263840304" crc="ee623ad1" md5="e7021e0130d8894d4da6993b4cc9e43b" sha1="cc4622697bd9e5b7b966614fdf6a392978df0946"/>
+		<rom name="Oujisama Lv 1.5 (Japan) (Track 02).bin" size="24747744" crc="661b7543" md5="4b74560788347f56ff5098c4d1e32f5d" sha1="f0b0bedad90e0a8ee80a85e9978b68f976b2369d"/>
+		<rom name="Oujisama Lv 1.5 (Japan) (Track 03).bin" size="20328336" crc="e612ab79" md5="1f566f20f0e161f569db8592b4433704" sha1="6b49d9d2d076f7e7b64788befa262cc76767757c"/>
+		<rom name="Oujisama Lv 1.5 (Japan) (Track 04).bin" size="9309216" crc="c59d8b82" md5="a95db0976c66578bcbaf845f61b2c02f" sha1="d955a1120b78c449f45d4536ca9066efa1384344"/>
+		<rom name="Oujisama Lv 1.5 (Japan) (Track 05).bin" size="8740032" crc="02241708" md5="7b24291df41790bc513a72282829d0e7" sha1="a1bf22f7003c4e8cba10ef3b4f5ac5d3a1d913ba"/>
+		<rom name="Oujisama Lv 1.5 (Japan) (Track 06).bin" size="22299312" crc="e123797e" md5="6101d1312202e7bb1a5828499f3ee644" sha1="d21cd9033ce03bc45ea7b67b0ba7f9d1e0c7777a"/>
+		<rom name="Oujisama Lv 1.5 (Japan) (Track 07).bin" size="24084480" crc="c8d1b5e5" md5="cb73a8e93d4329c089cd048fa9610d50" sha1="b6abcb3ebb4c6edb7385684363cabb8e0de10f5e"/>
+		<rom name="Oujisama Lv 1.5 (Japan) (Track 08).bin" size="21462000" crc="fd52c61f" md5="efdbc26367c3c5e0f7ad66afe09b68c7" sha1="679d52bfae11979033c37bba7418364c1dce5211"/>
+		<rom name="Oujisama Lv 1.5 (Japan) (Track 09).bin" size="23719920" crc="83e82fb0" md5="98ff83e55d78dc2eb79d1c326b4c56ed" sha1="348847c4667749439dade66e0c5acb77a8a4e720"/>
+		<rom name="Oujisama Lv 1.5 (Japan) (Track 10).bin" size="20810496" crc="c4f9f8db" md5="6e5b10ce899f4d257eeaa986e8563d9a" sha1="976719f7f6ebe0c86a8f0cd24152a91a70dd4393"/>
+		<rom name="Oujisama Lv 1.5 (Japan) (Track 11).bin" size="28590912" crc="e4654a66" md5="b1ed8084c832d8f9009d945cb18d2ab3" sha1="0b146b55a247dafbafd67d8e1038c65d717c1ce7"/>
+		<rom name="Oujisama Lv 1.5 (Japan) (Track 12).bin" size="25359264" crc="74b01958" md5="62c24a1137920ddfea28e0c23aab4af6" sha1="8f0575d6883930dea78ab935e46aa4d0e32ca54d"/>
+		<rom name="Oujisama Lv 1.5 (Japan) (Track 13).bin" size="19272288" crc="f80b2603" md5="8122a819d91579162cbefcf2152b3031" sha1="fb3b130eaebcd9f32583e66c8ae362671cf990ff"/>
+		<rom name="Oujisama Lv 1.5 (Japan) (Track 14).bin" size="27908832" crc="0837f937" md5="058514f397182e24cade94dd5b0fe6ad" sha1="3eb547a3fd1b130e9c08fe099caca5a121b1cb54"/>
+		<rom name="Oujisama Lv 1.5 (Japan) (Track 15).bin" size="29792784" crc="6ab2a31c" md5="5314895562f64f847f1298aa8065fed7" sha1="1391950ae8d2d3b52fc14cc5a58cc6c3be26b9ce"/>
+		<rom name="Oujisama Lv 1.5 (Japan) (Track 16).bin" size="29856288" crc="7de33660" md5="0538184b14448b44e4847c90570216b9" sha1="75031d265501b1088e199a2e783012ed12ffe13e"/>
+		<rom name="Oujisama Lv 1.5 (Japan) (Track 17).bin" size="24985296" crc="4e65e7a3" md5="947e7c15216a61e2e55922e1ba23e925" sha1="4b380d7396b58a1c87b3efde9fdd3fa55267c320"/>
+		<rom name="Oujisama Lv 1.5 (Japan) (Track 18).bin" size="26448240" crc="2a881539" md5="39dc4bae74c0c8815814394eb25d5740" sha1="b1073691f09c5eb510e69ca859cb26924256cdee"/>
+		<rom name="Oujisama Lv 1.5 (Japan) (Track 19).bin" size="25201680" crc="69cf4e5e" md5="c793a129b31c0977a0792902ab51f012" sha1="e0d6d4357d0036d83a7c2cb091b8d8ae63e0396e"/>
+		<rom name="Oujisama Lv 1.5 (Japan) (Track 20).bin" size="21088032" crc="099b546b" md5="0777d5ec5fb08b36abfefae1913d3eee" sha1="9781f4828626a4f81412cde9507950343dab27f8"/>
+		<rom name="Oujisama Lv 1.5 (Japan) (Track 21).bin" size="37333296" crc="3a6663b8" md5="13950d93565a941de84cf88af6e23ac0" sha1="e06a9c2948f3fb72be43a2e76aaf4144eb02a3fa"/>
+		<rom name="Oujisama Lv 1.5 (Japan) (Track 22).bin" size="25055856" crc="215e9e69" md5="b77b11faafc49fe51184db38e42e38b8" sha1="fce9d1da095c82cb278085a17392b67c7cbd7bf9"/>
+		<rom name="Oujisama Lv 1.5 (Japan).cue" size="2578" crc="e00c215e" md5="89291c84c6c83ea6f80d422f7ed67629" sha1="8d87e852799286cc77cf6c84b78d5ecaf9ff241c"/>
+	</game>
 	<game name="Oujisama Lv1 (Japan)">
 		<category>Games</category>
 		<description>Oujisama Lv1 (Japan)</description>
@@ -110733,6 +110869,18 @@
 		<rom name="Panoramic Panel 777 (UK).bin" size="46579008" crc="372bfd78" md5="ce5342deeb74e7f9ba3f4e99f1b0618d" sha1="afdc099bb0fe3da4d8101bc35bcac9db4ba01cea"/>
 		<rom name="Panoramic Panel 777 (UK).cue" size="90" crc="fe7e8790" md5="1872867ddfafe73f28b50e447ceffcda" sha1="6eed9290eeb8dd80b5e1cf6b5fdb73d7e83f86ad"/>
 	</game>
+	<game name="Pantera Rosa, La - Abracadabra Rosa (Spain)">
+		<category>Games</category>
+		<description>Pantera Rosa, La - Abracadabra Rosa (Spain)</description>
+		<rom name="Pantera Rosa, La - Abracadabra Rosa (Spain).bin" size="618790032" crc="a838692e" md5="10973befcda94670da242906eabf7a56" sha1="cbbf71dd028a5049d176a11700dd4aee67ae99e1"/>
+		<rom name="Pantera Rosa, La - Abracadabra Rosa (Spain).cue" size="109" crc="a5ffc76e" md5="306aef986de67b3a9b88cf5998919ebd" sha1="475e91c83c90a9603d0ed5177aba2879cd936fec"/>
+	</game>
+	<game name="Pantera Rosa, La - Mision PeligRosa (Spain)">
+		<category>Games</category>
+		<description>Pantera Rosa, La - Mision PeligRosa (Spain)</description>
+		<rom name="Pantera Rosa, La - Mision PeligRosa (Spain).bin" size="754260528" crc="684ddea8" md5="8789d2bd08e104f1c8d9e83d400ddc85" sha1="41d6013df206a84bc6024346038646fff689af10"/>
+		<rom name="Pantera Rosa, La - Mision PeligRosa (Spain).cue" size="109" crc="8022ba31" md5="ae3152e22592783b64bc69a970cced97" sha1="b70e6fa3623cf4833cc9ee426c1687ebf67cc04a"/>
+	</game>
 	<game name="Panthalassa - The Alternative Noah (Korea)">
 		<category>Games</category>
 		<description>Panthalassa - The Alternative Noah (Korea)</description>
@@ -110818,11 +110966,11 @@
 		<rom name="Panzer Elite (USA) (Track 2).bin" size="1063104" crc="e760a5a9" md5="cf8e1469d90870e3b5b39eb84334550c" sha1="acc45eefd887464d6c9d16a7982324bc4a0029f7"/>
 		<rom name="Panzer Elite (USA).cue" size="236" crc="fc94eb0f" md5="01a80383d97377c49995dea0f9db4996" sha1="b05a1edb7d1ec19d29780118f7b91275b844fdcc"/>
 	</game>
-	<game name="Panzer Elite (USA, Europe) (Bonus-CD) (Special Edition)">
+	<game name="Panzer Elite (USA, Europe) (Bonus-CD) (Special Edition) (v1.1)">
 		<category>Add-Ons</category>
-		<description>Panzer Elite (USA, Europe) (Bonus-CD) (Special Edition)</description>
-		<rom name="Panzer Elite (USA, Europe) (Bonus-CD) (Special Edition).bin" size="635566848" crc="2b6c8e29" md5="25fdf608a5a7fae77acd29deb702d3dd" sha1="e107b8047298c0672e8640d79f7b6977a257154c"/>
-		<rom name="Panzer Elite (USA, Europe) (Bonus-CD) (Special Edition).cue" size="121" crc="15df06f0" md5="f18883fc582a1185a52ccd10c6a39914" sha1="b967383472c910d4a214a9a7f204abb66ac2dabf"/>
+		<description>Panzer Elite (USA, Europe) (Bonus-CD) (Special Edition) (v1.1)</description>
+		<rom name="Panzer Elite (USA, Europe) (Bonus-CD) (Special Edition) (v1.1).bin" size="712077408" crc="4e8c3229" md5="a5f1b2d716f3330c14d46b443a4e831f" sha1="07c65376a3431e489d33bfbc4d2d033b37f26d43"/>
+		<rom name="Panzer Elite (USA, Europe) (Bonus-CD) (Special Edition) (v1.1).cue" size="128" crc="dbd31986" md5="7aefc0304586fbaa3c1283f79ab236c9" sha1="c1a06efb712f0533112588c8d377fcf3ca9dd7ba"/>
 	</game>
 	<game name="Panzer Elite (USA, Europe) (Special Edition)">
 		<category>Games</category>
@@ -112224,12 +112372,12 @@
 		<rom name="Pet'ka i Vasilij Ivanovich 2 - Sudnyj den' (Russia).bin" size="640818864" crc="949f113f" md5="4f6e7c615ad979f9df24f0019f3ecd4d" sha1="d3a20cf0619f413e972f0003dfa1553157d6f71a"/>
 		<rom name="Pet'ka i Vasilij Ivanovich 2 - Sudnyj den' (Russia).cue" size="117" crc="65b97109" md5="af696c6b6dc12c0d979330a928bb3049" sha1="362d7f39d1faadd4497f3219238ccada6a06b9c0"/>
 	</game>
-	<game name="Pete Sampras Tennis 97 (Europe)">
+	<game name="Pete Sampras Tennis 97 (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Pete Sampras Tennis 97 (Europe)</description>
-		<rom name="Pete Sampras Tennis 97 (Europe) (Track 1).bin" size="553265664" crc="6884cd62" md5="e6a321a66446952c46f16ec096daadef" sha1="56de0d4ad4a47d12f5f031b893b0da62419b82be"/>
-		<rom name="Pete Sampras Tennis 97 (Europe) (Track 2).bin" size="68908896" crc="0de72998" md5="7d3cd5b3e128e031570f8d980f8a507c" sha1="68acdbbaa35286f9f131484a730edf3b3b6f21b2"/>
-		<rom name="Pete Sampras Tennis 97 (Europe).cue" size="262" crc="13f9f6e5" md5="e908859bb2f291b2c538e798f6046cd2" sha1="dc1c549eb1e3a030abd0e417ee1699fc11919c41"/>
+		<description>Pete Sampras Tennis 97 (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Pete Sampras Tennis 97 (Europe) (En,Fr,De,Es,It) (Track 1).bin" size="553246848" crc="bb78d977" md5="3f18dd13572b22eb28b3106c76b8307c" sha1="d04183afe608b08b273862d8be3c038bb21e62ae"/>
+		<rom name="Pete Sampras Tennis 97 (Europe) (En,Fr,De,Es,It) (Track 2).bin" size="68906544" crc="886a3c29" md5="d2a55549b3118a29256dbb890f2bc4c4" sha1="53f54324c84cdf4e4bd271c300007edb1742293e"/>
+		<rom name="Pete Sampras Tennis 97 (Europe) (En,Fr,De,Es,It).cue" size="289" crc="5447719a" md5="2900d91b6bb393ccb054d9ca23f21c43" sha1="73a2a6670b089b0065a3235a819515f355675ff4"/>
 	</game>
 	<game name="Peter Jackson Dianying King Kong - Guanfang Youxi (China)">
 		<category>Games</category>
@@ -117896,6 +118044,12 @@
 		<rom name="Pro Rugby Manager 2 (Europe).bin" size="819225120" crc="44f39922" md5="df07e72d5d8ce45a02a267d9d3a59cd7" sha1="5d639f5946a27f22af9a8e2bfd8f0e412ec86d3f"/>
 		<rom name="Pro Rugby Manager 2 (Europe).cue" size="94" crc="2ee8850b" md5="966a726cf6044f19902c2050d5dcc3f5" sha1="f008c101f266a21ca005bc2e1bd8063b0b36b30b"/>
 	</game>
+	<game name="Pro Shougi, The - Dai-2-kan Yagura no Tatakai-hen (Japan)">
+		<category>Games</category>
+		<description>Pro Shougi, The - Dai-2-kan Yagura no Tatakai-hen (Japan)</description>
+		<rom name="Pro Shougi, The - Dai-2-kan Yagura no Tatakai-hen (Japan).bin" size="407554560" crc="6843ff43" md5="8dc7a817039c18554d9ad472099af609" sha1="142ab3ff07608e130c6ebd06f374f7e57375797c"/>
+		<rom name="Pro Shougi, The - Dai-2-kan Yagura no Tatakai-hen (Japan).cue" size="146" crc="a213ca53" md5="9650c98382f36536fac16f4bfb2da66e" sha1="ddc809284660dea9a46ce8dd832f035895f966c1"/>
+	</game>
 	<game name="Pro Soccer Cup 2003 (Argentina)">
 		<category>Games</category>
 		<description>Pro Soccer Cup 2003 (Argentina)</description>
@@ -118390,6 +118544,12 @@
 		<description>Przygody Guliwera (Poland)</description>
 		<rom name="Przygody Guliwera (Poland).bin" size="222743808" crc="6cb98dae" md5="8229e500c9802a52c9af57a7f22d3ba6" sha1="30d58921dd79b71a4e6199ccca079d9188ccaf1d"/>
 		<rom name="Przygody Guliwera (Poland).cue" size="92" crc="e7c002ab" md5="9116dc7bff1d32365f20f84ba7618cdc" sha1="cd448c902c6a2319879babdfc63975ffb8b6f6c8"/>
+	</game>
+	<game name="Przygody Misia (Poland) (Covermount)">
+		<category>Games</category>
+		<description>Przygody Misia (Poland) (Covermount)</description>
+		<rom name="Przygody Misia (Poland) (Covermount).bin" size="26422368" crc="c04fb743" md5="a7e3a0bc3482bd129d81db09fd81412e" sha1="9445a2277efe72cf2882b89ebfb67479cc81d99e"/>
+		<rom name="Przygody Misia (Poland) (Covermount).cue" size="102" crc="7a086375" md5="68955f28811103f4ce9421533ff48755" sha1="339952e9bbd43e4fb83b8b0bb520ef2fffe855ba"/>
 	</game>
 	<game name="Przygody Smoka Danonka (Poland)">
 		<category>Games</category>
@@ -123647,6 +123807,12 @@
 		<rom name="Reise nach Nordland - Geschichten aus der Cultures Welt (Germany) (Rerelease) (2004-07-18) (Track 09).bin" size="25742640" crc="530d2502" md5="2f27177ced4a62ae3b53e25366b6e0ff" sha1="e3a5e97f53ddcdadaeb18b64d301c7a73090d1f2"/>
 		<rom name="Reise nach Nordland - Geschichten aus der Cultures Welt (Germany) (Rerelease) (2004-07-18) (Track 10).bin" size="22440432" crc="2c5fb02d" md5="5c964e041ebded67fba697ea82828582" sha1="f1f1b5d65cd418548104b9febb1afe01bb9426d1"/>
 		<rom name="Reise nach Nordland - Geschichten aus der Cultures Welt (Germany) (Rerelease) (2004-07-18).cue" size="1648" crc="cdab6949" md5="94c02b4f619e7e9e9d884f5ee028d024" sha1="f826c93e216d4fb4d0268a39df6ebbd8b1779596"/>
+	</game>
+	<game name="Reksio i ortografia (Poland)">
+		<category>Games</category>
+		<description>Reksio i ortografia (Poland)</description>
+		<rom name="Reksio i ortografia (Poland).bin" size="566636784" crc="5ff7ee56" md5="83ff540fcc1c5300c159839c837110ad" sha1="b6a20cf46ef52fd113d5223d76453fd5fbf2c1e8"/>
+		<rom name="Reksio i ortografia (Poland).cue" size="94" crc="8df371c2" md5="c3e55e82209a2dab49cd60062019d387" sha1="30fd20dccdf38b4514cf9fe83817f6516b328b58"/>
 	</game>
 	<game name="Relentless - Twinsen's Adventure (USA) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -133612,6 +133778,11 @@
 		<description>Settlers, The - Rise of an Empire (USA) (En,Fr,Es)</description>
 		<rom name="Settlers, The - Rise of an Empire (USA) (En,Fr,Es).iso" size="3373115392" crc="723f78f1" md5="4feb2ac54c533aeff508e21ac36f0035" sha1="dc810a124d5c79a72b0b352de54a0cf7ab9d9f3e"/>
 	</game>
+	<game name="Settlers, The - Rise of an Empire - Gold Edition (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Settlers, The - Rise of an Empire - Gold Edition (USA) (En,Fr,Es)</description>
+		<rom name="Settlers, The - Rise of an Empire - Gold Edition (USA) (En,Fr,Es).iso" size="4200824832" crc="724a8cb7" md5="8a88003d0248837903b8d05166c31b8a" sha1="30e59548c8c986ea8536c9b58835aa3453b3569a"/>
+	</game>
 	<game name="Settlers, The - Rise of an Empire - The Eastern Realm (Europe) (En,Fr,De)">
 		<category>Add-Ons</category>
 		<description>Settlers, The - Rise of an Empire - The Eastern Realm (Europe) (En,Fr,De)</description>
@@ -135761,6 +135932,12 @@
 		<description>Shock Price 500 Game Series - Mahjong II (Japan) (Rev 1)</description>
 		<rom name="Shock Price 500 Game Series - Mahjong II (Japan) (Rev 1).bin" size="304097136" crc="d870944f" md5="3e634cfb74d453547525be6af8e4a452" sha1="6dd30ca05f2ad1f60d63b60611deefa6c3efea02"/>
 		<rom name="Shock Price 500 Game Series - Mahjong II (Japan) (Rev 1).cue" size="122" crc="5db996c0" md5="f0e643d1b1a35b6693629118231d2c5f" sha1="2e3813aaed30dfba4ce827db8a75acf856082423"/>
+	</game>
+	<game name="Shock Price 500 Game Series - Nikakudori (Japan)">
+		<category>Games</category>
+		<description>Shock Price 500 Game Series - Nikakudori (Japan)</description>
+		<rom name="Shock Price 500 Game Series - Nikakudori (Japan).bin" size="283604160" crc="8b141e1b" md5="c8a3030a4806f6a2551db8bf32efc66c" sha1="b340071fbd4c026a806695d33cbed1ac57385704"/>
+		<rom name="Shock Price 500 Game Series - Nikakudori (Japan).cue" size="114" crc="d65e574f" md5="41f910bc59cecd66a1c4e4e55580ab7a" sha1="02ab574f3a1f6cd6cd238978c720cc8c464f5d3f"/>
 	</game>
 	<game name="Shock Price 500 Game Series - Pachinko (Japan)">
 		<category>Games</category>
@@ -138491,11 +138668,11 @@
 		<rom name="Sims 2, The - An Introduction (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu,Th).bin" size="831229728" crc="d2d28d1c" md5="53c1e2371a1a3ad81804ef3c14b5de43" sha1="4fd1ed3d8922df3c764b4dab45be82565484c9cf"/>
 		<rom name="Sims 2, The - An Introduction (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu,Th).cue" size="163" crc="15f711fe" md5="b186360e6ef53356a9e54211cdc6313b" sha1="30301687c45c791132e88c64fef22757b2c4dab9"/>
 	</game>
-	<game name="Sims 2, The - An Introduction (Poland) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu,Th) (Demo)">
+	<game name="Sims 2, The - An Introduction (Poland) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu,Th) (IKEA)">
 		<category>Demos</category>
-		<description>Sims 2, The - An Introduction (Poland) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu,Th) (Demo)</description>
-		<rom name="Sims 2, The - An Introduction (Poland) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu,Th) (Demo).bin" size="833577024" crc="08116f97" md5="a75629ccb4291cc7a90e854e31d39c4f" sha1="964925ccb3f725ba3bb00d70b119aa4c91ef985f"/>
-		<rom name="Sims 2, The - An Introduction (Poland) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu,Th) (Demo).cue" size="170" crc="5d2cfe4f" md5="ea40fb081df1295096bbbd946945d2d3" sha1="4683054759b3920f343a1477b640e466a39e8f92"/>
+		<description>Sims 2, The - An Introduction (Poland) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu,Th) (IKEA)</description>
+		<rom name="Sims 2, The - An Introduction (Poland) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu,Th) (IKEA).bin" size="833577024" crc="08116f97" md5="a75629ccb4291cc7a90e854e31d39c4f" sha1="964925ccb3f725ba3bb00d70b119aa4c91ef985f"/>
+		<rom name="Sims 2, The - An Introduction (Poland) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu,Th) (IKEA).cue" size="170" crc="5dbf2ffa" md5="b7210bd0eb2dd91d4742a0d5fa62d8dc" sha1="af489989476df495fc11169f7d013792fa830c74"/>
 	</game>
 	<game name="Sims 2, The - Apartment Life (Expansion Pack) (USA) (En,Es)">
 		<category>Add-Ons</category>
@@ -139946,11 +140123,11 @@
 		<rom name="Sleep Walker (Netherlands) (En,Es).bin" size="55130880" crc="13b80cd4" md5="86d8611524fb18fb87c12b6cfeb0de80" sha1="7ae77689856a6014bf72c8b0f8bc709e49a175df"/>
 		<rom name="Sleep Walker (Netherlands) (En,Es).cue" size="100" crc="031a12c5" md5="a5c8bd163d78d3433c01e252a138f6e3" sha1="08d19f36ae817663226c940985f7893f3bc68428"/>
 	</game>
-	<game name="SleepWalker (USA)">
+	<game name="SleepWalker (Europe) (En,Es) (2002)">
 		<category>Games</category>
-		<description>SleepWalker (USA)</description>
-		<rom name="SleepWalker (USA).bin" size="5602464" crc="284e9cb2" md5="cbbcc0e5f715ee5c4ddf3228495a3227" sha1="ffa93ff5a673d9657ab229d050dca852538708ad"/>
-		<rom name="SleepWalker (USA).cue" size="106" crc="d56f18a9" md5="fb8dbbd1af982cbb18f9b6a34dc52704" sha1="2f476145a40df7c9244f1b320afe34f2eb49f473"/>
+		<description>SleepWalker (Europe) (En,Es) (2002)</description>
+		<rom name="SleepWalker (Europe) (En,Es) (2002).bin" size="23628192" crc="9aee7dd1" md5="bbbd9a8ef0a163460f3b6e1b6db232a3" sha1="85385a96dc55e29c978589cbc43cadf3ec2f43cc"/>
+		<rom name="SleepWalker (Europe) (En,Es) (2002).cue" size="101" crc="2d61f901" md5="d76030ea6445fb07f38968bd53abb9b7" sha1="c9c4ed17b2c53d648cac9e4fd674b60068686ec0"/>
 	</game>
 	<game name="Sleeping Dogs (Europe) (En,Fr,De,Es,It,Pl,Ru)">
 		<category>Games</category>
@@ -139971,6 +140148,12 @@
 		<category>Games</category>
 		<description>Sleeping Dogs - Hong Kong Himitsu Keisatsu (Japan)</description>
 		<rom name="Sleeping Dogs - Hong Kong Himitsu Keisatsu (Japan).iso" size="5990121472" crc="3b597eca" md5="1d28908ae22033bff923fee26ae4125b" sha1="64d4aee0887765c392973a121ea1ef59d373ef85"/>
+	</game>
+	<game name="Sleepwalker (USA)">
+		<category>Games</category>
+		<description>Sleepwalker (USA)</description>
+		<rom name="Sleepwalker (USA).bin" size="5602464" crc="284e9cb2" md5="cbbcc0e5f715ee5c4ddf3228495a3227" sha1="ffa93ff5a673d9657ab229d050dca852538708ad"/>
+		<rom name="Sleepwalker (USA).cue" size="106" crc="ce282374" md5="0025ac637d2dfb7905d7291f3fbd4658" sha1="983cffc0be7f9c9e97e4c8c10dc3348df991c5d2"/>
 	</game>
 	<game name="Slingo (USA)">
 		<category>Games</category>
@@ -143296,6 +143479,12 @@
 		<description>Spiderwick Chronicles, The (USA)</description>
 		<rom name="Spiderwick Chronicles, The (USA).iso" size="2802262016" crc="d785899f" md5="371d1286e859aed84b3dd50714f675bb" sha1="e9f54767c779cd944d0fddbcdf9170314ef31843"/>
 	</game>
+	<game name="Spidi (Poland) (Covermount)">
+		<category>Games</category>
+		<description>Spidi (Poland) (Covermount)</description>
+		<rom name="Spidi (Poland) (Covermount).bin" size="30938208" crc="68d4a29a" md5="081e6d738f2df8612b0fdc2b696779c9" sha1="05f7b2f66e87e3cc462d6fc76be4832554aa5c06"/>
+		<rom name="Spidi (Poland) (Covermount).cue" size="93" crc="3bfbd107" md5="dfdc2d7397f5c1b816922dfef654ed60" sha1="0b3e4d8a21dc1f44cac6f1280d42f0461a65907d"/>
+	</game>
 	<game name="Spiel des Lebens (Germany)">
 		<category>Games</category>
 		<description>Spiel des Lebens (Germany)</description>
@@ -144270,6 +144459,12 @@
 		<rom name="Star Trek - 25th Anniversary Enhanced CD-ROM (USA) (1994-05-03) (Track 2).bin" size="5536608" crc="055adf0c" md5="152f7c314db417a3bdd843481864615d" sha1="6937d90abb09889893d10364904cca41ab5754db"/>
 		<rom name="Star Trek - 25th Anniversary Enhanced CD-ROM (USA) (1994-05-03) (Track 3).bin" size="5404896" crc="11eae9ff" md5="56a8cd4d1fd839af2de67d6f2cfd8c31" sha1="d3340b39794b085d1d5b399d35c6762bbc6d4973"/>
 		<rom name="Star Trek - 25th Anniversary Enhanced CD-ROM (USA) (1994-05-03).cue" size="453" crc="36a8646a" md5="186fdde552c2193e0d8a243118fbbad9" sha1="0dc207c73bede22c4f40c68c14218a2d612cdfe1"/>
+	</game>
+	<game name="Star Trek - 3 Demo Pack (UK)">
+		<category>Demos</category>
+		<description>Star Trek - 3 Demo Pack (UK)</description>
+		<rom name="Star Trek - 3 Demo Pack (UK).bin" size="321763008" crc="debf795b" md5="022b5032fde9e9975ffbca1f54a1926c" sha1="1e44f0b8dd757bd4317494b9b844dff63c2df3a4"/>
+		<rom name="Star Trek - 3 Demo Pack (UK).cue" size="94" crc="edd52264" md5="934bde0324463609d1b366362126f5d4" sha1="34d27913d10e58d07889d94b14cc51c574a46ea3"/>
 	</game>
 	<game name="Star Trek - Armada (USA) (v1.1)">
 		<category>Games</category>
@@ -148424,7 +148619,7 @@
 	<game name="Super Shanghai - Dragon's Eye (Japan)">
 		<category>Games</category>
 		<description>Super Shanghai - Dragon's Eye (Japan)</description>
-		<rom name="Super Shanghai - Dragon's Eye (Japan).bin" size="64376592" crc="9cae0394" md5="61b96bdea4fc9a0e7f35493eaabd8040" sha1="cfed3c7c606c9a0bbb3441b4842dba4af238b185"/>
+		<rom name="Super Shanghai - Dragon's Eye (Japan).bin" size="75492144" crc="dc6fcbe4" md5="10c66ecb20eda4e38deedcccebbbe5a8" sha1="1e2b16fcffee3d945347c25c232de3fcd1b4fb61"/>
 		<rom name="Super Shanghai - Dragon's Eye (Japan).cue" size="103" crc="76fba84e" md5="001890d955ca688da0f175fdd288d3cc" sha1="32ad9bfb262efea71fd69d521e2f08a2e7d5273e"/>
 	</game>
 	<game name="Super Ski II (Australia)">
@@ -148562,6 +148757,12 @@
 		<description>Super Trailer City (Argentina)</description>
 		<rom name="Super Trailer City (Argentina).bin" size="233602992" crc="7e49f7ed" md5="fb109f21d265d3718afcd5208e1aa17d" sha1="55c08c7545941eda961e042c132db622b24a8263"/>
 		<rom name="Super Trailer City (Argentina).cue" size="96" crc="e4f1e786" md5="d691019c25b6d96b1567fa0ef1723911" sha1="df287c79564049ea58d703f547dbf453436b8e23"/>
+	</game>
+	<game name="Super Trump (Japan)">
+		<category>Games</category>
+		<description>Super Trump (Japan)</description>
+		<rom name="Super Trump (Japan).bin" size="2871792" crc="525c0039" md5="b35b2e3c5dd2557b22a6f573ee720638" sha1="41f4e779a53af952373b8eff77567787526708eb"/>
+		<rom name="Super Trump (Japan).cue" size="123" crc="433dad73" md5="91ad8fa99a53938550b19059c06879a5" sha1="0f4ebdeefeffdb54cfcae41ad6b0b3c2c9100e4f"/>
 	</game>
 	<game name="Super Twister 3D (Germany)">
 		<category>Games</category>
@@ -148750,6 +148951,12 @@
 		<category>Games</category>
 		<description>Supersemejka (Russia)</description>
 		<rom name="Supersemejka (Russia).iso" size="1168506880" crc="c6319a84" md5="b4e679932b300cb4529c3292bd29a9ea" sha1="4d691b4761f89599955765ef2920cf4888f3019b"/>
+	</game>
+	<game name="Superski Pro (Spain) (Covermount)">
+		<category>Games</category>
+		<description>Superski Pro (Spain) (Covermount)</description>
+		<rom name="Superski Pro (Spain) (Covermount).bin" size="132789216" crc="fc355b19" md5="031314b8e9d27068d29b22fd205df738" sha1="6796ed12acac4a42e0e1f17cb35d05ff144a7553"/>
+		<rom name="Superski Pro (Spain) (Covermount).cue" size="99" crc="5b6c6143" md5="fc79a1a001b13a88d2de3840ea3fe763" sha1="6be5ceaf51962fd7687d32d4c394c0255661110a"/>
 	</game>
 	<game name="Superspy - Das Omega-Projekt (Germany)">
 		<category>Games</category>
@@ -154157,6 +154364,12 @@
 		<rom name="Toeff-Toeff und Peppis Stockspringen (Germany).bin" size="134896608" crc="c2f47b61" md5="67b5eaaf9e5a3cfff1b9fff51c532e1a" sha1="62ce474b079ebb19e4e69cfabbaa35fc819d9386"/>
 		<rom name="Toeff-Toeff und Peppis Stockspringen (Germany).cue" size="135" crc="55388d3f" md5="6e5bb99e8773e7d8c1f9cef56ef26783" sha1="10493f0288022b844156eb01f03ba2addbe9aba2"/>
 	</game>
+	<game name="Togainu no Chi (Japan)">
+		<category>Games</category>
+		<description>Togainu no Chi (Japan)</description>
+		<rom name="Togainu no Chi (Japan).bin" size="678051024" crc="3032f6d4" md5="83754ba7ffe0b84b4227880f7a9e416f" sha1="732f5d42da850ed8b00b8f277898ada7d65113e7"/>
+		<rom name="Togainu no Chi (Japan).cue" size="88" crc="ed81cc1b" md5="6fb884ad641e1ac8fa2583778b39436e" sha1="5a579f3404efd25334750d1e2e68a17bf119c91f"/>
+	</game>
 	<game name="Toho Dodgeball Club (Japan)">
 		<category>Games</category>
 		<description>Toho Dodgeball Club (Japan)</description>
@@ -157737,6 +157950,11 @@
 		<description>Trainz Railroad Simulator 2004 - Deluxe Edition (Switzerland) (Disc 4) (Bonus Edition)</description>
 		<rom name="Trainz Railroad Simulator 2004 - Deluxe Edition (Switzerland) (Disc 4) (Bonus Edition).bin" size="50629152" crc="36d4ff6a" md5="7023044551b65bfb57c00af5122ab6f1" sha1="c49ca5fb6eda28cec2acb478c5883690f4937857"/>
 		<rom name="Trainz Railroad Simulator 2004 - Deluxe Edition (Switzerland) (Disc 4) (Bonus Edition).cue" size="152" crc="bf8a28b6" md5="d40bb18b0932f40ee0ff756f351b054e" sha1="b3cf182b1fa9231560e7f9fc1a26734430daecd6"/>
+	</game>
+	<game name="Trainz Railroad Simulator 2006 (USA) (DVD-ROM)">
+		<category>Games</category>
+		<description>Trainz Railroad Simulator 2006 (USA) (DVD-ROM)</description>
+		<rom name="Trainz Railroad Simulator 2006 (USA) (DVD-ROM).iso" size="4216717312" crc="e1866655" md5="d4f353d252fa30a06a16920e90c27068" sha1="969752ef48e7be61c84cea59440cc2277990693d"/>
 	</game>
 	<game name="Trainz Railway Simulator - Ultimate Collection (Europe) (Disc 1) (Rerelease)">
 		<category>Games</category>
@@ -172996,6 +173214,12 @@
 		<description>Yakuza Revenge (Italy) (Rerelease)</description>
 		<rom name="Yakuza Revenge (Italy) (Rerelease).iso" size="1124073472" crc="af3ab562" md5="7f6cb5a313e6f64a108c4029badadea9" sha1="b40313b60b6f6c7f303f9e84d8c85c14f32b648d"/>
 	</game>
+	<game name="Yakyuudou 3 EX (Japan)">
+		<category>Games</category>
+		<description>Yakyuudou 3 EX (Japan)</description>
+		<rom name="Yakyuudou 3 EX (Japan).bin" size="229813920" crc="431ff810" md5="72adc7e4bc7c6e6e92b688a7a170e9e5" sha1="374ba21e8b91a6454e9bc3ac318496182ef5c68a"/>
+		<rom name="Yakyuudou 3 EX (Japan).cue" size="88" crc="098b78db" md5="43c2c8c85a075d7a25ee1698a7a29630" sha1="5d8d39b6a1124967b84c6c65f17c6ee08923f1a2"/>
+	</game>
 	<game name="Yama no Kappa Koubou (Japan) (Taikenban)">
 		<category>Demos</category>
 		<description>Yama no Kappa Koubou (Japan) (Taikenban)</description>
@@ -174693,6 +174917,12 @@
 		<description>ZanZarah - The Hidden Portal (USA)</description>
 		<rom name="ZanZarah - The Hidden Portal (USA).bin" size="721600656" crc="a26d7ac5" md5="fcb09ed0668804bde9ed3f32eb971e87" sha1="54785535e5bde54353ed05e9eb0161c867d18bf2"/>
 		<rom name="ZanZarah - The Hidden Portal (USA).cue" size="100" crc="a904c925" md5="e6e3bf934517304758f606301199cfa4" sha1="393857d5829141b2ab8a0b2b0c5c7c769365b0db"/>
+	</game>
+	<game name="Zanda - Bakumatsu Shinsengumi (Japan) (Rerelease)">
+		<category>Games</category>
+		<description>Zanda - Bakumatsu Shinsengumi (Japan) (Rerelease)</description>
+		<rom name="Zanda - Bakumatsu Shinsengumi (Japan) (Rerelease).bin" size="497316288" crc="e9c244c2" md5="36b9ef941d94f217969e21449e0ee81e" sha1="03fbc4195733bf309454e328fded6cce3bc39f00"/>
+		<rom name="Zanda - Bakumatsu Shinsengumi (Japan) (Rerelease).cue" size="115" crc="2e92dfa0" md5="0f5d38151e8e3ea42600eb35348bcd07" sha1="1fbffeb27c702133dbcf2b9c11eaa37539e5c00d"/>
 	</game>
 	<game name="Zangeki Warp (Japan)">
 		<category>Games</category>
