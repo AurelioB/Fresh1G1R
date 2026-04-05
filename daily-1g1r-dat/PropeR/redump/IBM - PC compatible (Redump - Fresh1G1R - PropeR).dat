@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,443) (-y) [-aAbBcdkmMpPuv] (2026-04-04 02-35-46) (Retool)</description>
-		<version>2026-04-04 02-35-46</version>
-		<date>2026-04-04 03-25-24</date>
+		<description>IBM - PC compatible (25,449) (-y) [-aAbBcdkmMpPuv] (2026-04-05 04-10-31) (Retool)</description>
+		<version>2026-04-05 04-10-31</version>
+		<date>2026-04-05 03-28-41</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -3168,6 +3168,16 @@
 		<description>Abracadabra (Belgium, Netherlands)</description>
 		<rom name="Abracadabra (Belgium, Netherlands).bin" size="129985632" crc="5c57bb43" md5="e7cdc151819ffc23fe1e0ce70a048e61" sha1="9fae6508f4cc4b779b7684e22abf5543b2ec46d0"/>
 		<rom name="Abracadabra (Belgium, Netherlands).cue" size="100" crc="23c7ad2c" md5="87b0cecd2f5c31e321903c5addc362d5" sha1="0ef54dd0065da96a357daa4667c10cbc88b232a9"/>
+	</game>
+	<game name="Abrafaxe, Die - Das Geheimnis der Goldenen Schale (Germany)">
+		<category>Games</category>
+		<description>Abrafaxe, Die - Das Geheimnis der Goldenen Schale (Germany)</description>
+		<rom name="Abrafaxe, Die - Das Geheimnis der Goldenen Schale (Germany) (Track 1).bin" size="417131904" crc="22382ef7" md5="199fd611783523eb993c9becc33ac2b7" sha1="931c957a9e89467f3d5d9379123cbdd19547a450"/>
+		<rom name="Abrafaxe, Die - Das Geheimnis der Goldenen Schale (Germany) (Track 2).bin" size="10943856" crc="c0c800eb" md5="b4fe73bdb48d87509476f7ad8f134793" sha1="8ba7c3a0a5be210491a8fadf6b7b016104bc972b"/>
+		<rom name="Abrafaxe, Die - Das Geheimnis der Goldenen Schale (Germany) (Track 3).bin" size="5306112" crc="ac2356f1" md5="b28bfa7b97661a435c4189dc97e29e96" sha1="3d8ffdc84a247ef6ff2b39afb9f0185e2cf3ceaa"/>
+		<rom name="Abrafaxe, Die - Das Geheimnis der Goldenen Schale (Germany) (Track 4).bin" size="548016" crc="58e49488" md5="469a26e615c10876698195dd1d122528" sha1="f4ee6b2e611105eb82d446bce92993f1f88c10ad"/>
+		<rom name="Abrafaxe, Die - Das Geheimnis der Goldenen Schale (Germany) (Track 5).bin" size="7956816" crc="86aab02d" md5="0035b137bcbd656d9bbcd916eef5f571" sha1="efc30ae6b9239bf6cbd20af418f4aba86cc9e799"/>
+		<rom name="Abrafaxe, Die - Das Geheimnis der Goldenen Schale (Germany).cue" size="747" crc="9fc56fa2" md5="aec5d90c7b9745a97aa0a2eb9ba32b5d" sha1="7ade509ee6af22a1233810bd593206f69b5b9d1d"/>
 	</game>
 	<game name="Abschlepp Simulator (Germany) (En,Fr,De,Sk)">
 		<category>Games</category>
@@ -25963,6 +25973,12 @@
 		<rom name="Chess Wars - A Medieval Fantasy (USA) (Disc 1).bin" size="754599216" crc="b9edf768" md5="d26de1a777972cdb316a55c54a2e5397" sha1="d7dffb4f19e5fc9a825e2f119a11a52896abab69"/>
 		<rom name="Chess Wars - A Medieval Fantasy (USA) (Disc 1).cue" size="112" crc="883ed7f6" md5="ecfb55c7150e9aedf9ed811974acd809" sha1="4e095681ab148c12a2913060e14ed9ac7306e199"/>
 	</game>
+	<game name="Chess, The - Saikyou no Chess (Japan)">
+		<category>Games</category>
+		<description>Chess, The - Saikyou no Chess (Japan)</description>
+		<rom name="Chess, The - Saikyou no Chess (Japan).bin" size="27984096" crc="cf7b9d4f" md5="f6a946d5c0d2d7fa18a418ec2c3b7f83" sha1="251ad786ef5d6a5b09ce136c1fb94e9d47bc0c5f"/>
+		<rom name="Chess, The - Saikyou no Chess (Japan).cue" size="103" crc="5b889b08" md5="b5d5be55b240069b1a6b2348cb57dfa9" sha1="32df5fd84f5840c678d8a43c5730ee67f49baad5"/>
+	</game>
 	<game name="Chessmaster - Grandmaster Edition (Russia)">
 		<category>Games</category>
 		<description>Chessmaster - Grandmaster Edition (Russia)</description>
@@ -30470,6 +30486,12 @@
 		<description>Cosmopolitan Virtual Makeover - The Collection (Australia)</description>
 		<rom name="Cosmopolitan Virtual Makeover - The Collection (Australia).bin" size="632979648" crc="d9e7fe1c" md5="036e451457ceb28afee2940782661d86" sha1="32d593599d7008e3d559602d34848462555cf3ae"/>
 		<rom name="Cosmopolitan Virtual Makeover - The Collection (Australia).cue" size="124" crc="444d68a0" md5="b605f1d917bde51049e15aadeae8ec60" sha1="2263f6fe43c540ae0836a6f60050e52a88cb82c6"/>
+	</game>
+	<game name="Cosmopolitan Virtual Makeover 2002 (USA)">
+		<category>Games</category>
+		<description>Cosmopolitan Virtual Makeover 2002 (USA)</description>
+		<rom name="Cosmopolitan Virtual Makeover 2002 (USA).bin" size="644332752" crc="02d274b0" md5="39739aaeb26ebddeed4b0affebb34415" sha1="24d144385790e4e51391766b977876e88ed2bf9e"/>
+		<rom name="Cosmopolitan Virtual Makeover 2002 (USA).cue" size="106" crc="23352a9b" md5="19f22a2dc6c582e23615e95a7fdfc2cd" sha1="12ccee6f2e29585839ce827bfc685618a463dcca"/>
 	</game>
 	<game name="Cosplay Fetish Academy (USA)">
 		<category>Games</category>
@@ -55911,23 +55933,23 @@
 		<rom name="Formula Challenge (Australia).bin" size="165046896" crc="ee1edd9c" md5="ef5bc62883102689e969492031f88510" sha1="de6edac2501034d85f7ad245012c8eab5c5de667"/>
 		<rom name="Formula Challenge (Australia).cue" size="95" crc="583a4245" md5="ccf813acf7385c96dce9720cbcec54d5" sha1="099a8c65360d03b808db747098cc74a148704a83"/>
 	</game>
-	<game name="Formula Karts (Europe)">
+	<game name="Formula Karts (Europe) (Xplosiv)">
 		<category>Games</category>
-		<description>Formula Karts (Europe)</description>
-		<rom name="Formula Karts (Europe) (Track 01).bin" size="79904496" crc="b42d566c" md5="6aff94489a445c678d4ed66447026790" sha1="a29fafa00023ea41bf9bec932ce7febe46386bf8"/>
-		<rom name="Formula Karts (Europe) (Track 02).bin" size="58644768" crc="365e01a3" md5="3e55f6542b266deae9c34017721123fb" sha1="4b58e5baaf972818c51f3bed5fecb0e7aabc1566"/>
-		<rom name="Formula Karts (Europe) (Track 03).bin" size="37483824" crc="9022ba5d" md5="053f40ba4d9aa91de8f4e3eba5147d12" sha1="1790a37ff3b7f52a55d9be27e3bb95efa3549cd4"/>
-		<rom name="Formula Karts (Europe) (Track 04).bin" size="53780832" crc="8278c286" md5="d431777c2978d07ed64c06029250b37a" sha1="86d2b6d7d01773a090c6b4eebd34a735a1d2c38f"/>
-		<rom name="Formula Karts (Europe) (Track 05).bin" size="37878960" crc="0d6ab721" md5="b3c5160f2c0c2ec6eb7e8b32b002a710" sha1="de3fefb8ca41b23badc7e26067375ec36a78b586"/>
-		<rom name="Formula Karts (Europe) (Track 06).bin" size="68605488" crc="6c007949" md5="0ae5810645fd2168ccabd935e224ecd7" sha1="0405d9c342273ea162ba04eaf8202f442230cc66"/>
-		<rom name="Formula Karts (Europe) (Track 07).bin" size="59766672" crc="fc54a171" md5="4ace417a70b8469b41a1450b81a387c4" sha1="1d35046d34756a8338efa495609ba116e8197a44"/>
-		<rom name="Formula Karts (Europe) (Track 08).bin" size="53604432" crc="52ef6f15" md5="2c4808016afd086db8aa713e61f68690" sha1="d38aeab830c9a10a6e41700fcc24ba44fbacc639"/>
-		<rom name="Formula Karts (Europe) (Track 09).bin" size="73692864" crc="e5ff4c38" md5="cc0765b51f240e9fc933ff23ca54fb9e" sha1="2a8373d1db504271a8840880134db7de6a1999fb"/>
-		<rom name="Formula Karts (Europe) (Track 10).bin" size="71863008" crc="000e5527" md5="8f6ad356502d863c47cde030bf30cead" sha1="0da737ac05436e0818100030ed49906a5c1d7f36"/>
-		<rom name="Formula Karts (Europe) (Track 11).bin" size="50678544" crc="61bdc69d" md5="272c04336b65d81bb95ccec4ed63c187" sha1="f20de7566a60fd455c8434ba86aac7f991e7d8d9"/>
-		<rom name="Formula Karts (Europe) (Track 12).bin" size="37483824" crc="72417e66" md5="2f6abbd322286084204dcb664eae4981" sha1="9f498a3fc4349e5a29d0a22d0ff3eab67ff7ce88"/>
-		<rom name="Formula Karts (Europe) (Track 13).bin" size="33520704" crc="d5d5ad16" md5="60a691be6814e87c639c88640ba270fc" sha1="73f200898390b90c8454d97a156101787130b3c9"/>
-		<rom name="Formula Karts (Europe).cue" size="1273" crc="06ac0f01" md5="6298c937c529204278c59bd5bc968db7" sha1="b64711b1ed3e5dbf5f00ddb9f20abe51718d532b"/>
+		<description>Formula Karts (Europe) (Xplosiv)</description>
+		<rom name="Formula Karts (Europe) (Xplosiv) (Track 01).bin" size="65919504" crc="a3fd1035" md5="380bfb1814bd64d6a4f20d5cd1ab4e06" sha1="c424b9dbd37b4e0e3bd28d320aae5fe5f65a26e5"/>
+		<rom name="Formula Karts (Europe) (Xplosiv) (Track 02).bin" size="58644768" crc="ff317b36" md5="2b37398ebedd5dae22289f1aac61dfb0" sha1="df1878492af3ddbbfbde850cf0926f5a956c77d3"/>
+		<rom name="Formula Karts (Europe) (Xplosiv) (Track 03).bin" size="49255584" crc="adae1c9d" md5="3ef41bdfc03ae66b5733ee7811991c72" sha1="3d919526e95fb98b06f4c18c4ee64f68139853f5"/>
+		<rom name="Formula Karts (Europe) (Xplosiv) (Track 04).bin" size="53780832" crc="b7237c9a" md5="40ec71bb742d48da3496a22c420ceebb" sha1="3348ea74f180dbdbddc53cdea2c31d44a8d7b150"/>
+		<rom name="Formula Karts (Europe) (Xplosiv) (Track 05).bin" size="37878960" crc="6cd406a0" md5="f3c0474251068191c0775275cddbc076" sha1="bfe4f5f6244fd59e948e1ec1f9a8a1e1ada5060f"/>
+		<rom name="Formula Karts (Europe) (Xplosiv) (Track 06).bin" size="68605488" crc="5f87466a" md5="1e2990d6cae7986d9ef6b8b211e024d6" sha1="6193045e9cef697e83168436e52df237b7733e32"/>
+		<rom name="Formula Karts (Europe) (Xplosiv) (Track 07).bin" size="59766672" crc="8a0aa1c3" md5="c2d976f4ad96e684b30eba1487567d5d" sha1="87a8ca86af9b02db6bef89447c4f430a6f6d1949"/>
+		<rom name="Formula Karts (Europe) (Xplosiv) (Track 08).bin" size="69953184" crc="2e1fb1cc" md5="20afd940cf660b4a4b7f49e0ee10aafe" sha1="2cc0b097417900a11257fae69b4ca19bdf16a01a"/>
+		<rom name="Formula Karts (Europe) (Xplosiv) (Track 09).bin" size="73692864" crc="238891ea" md5="d73e2afb8fe301472b8f5553424a8aba" sha1="0f03e8cddd948cdea1f6a86433bb6771d9cc7971"/>
+		<rom name="Formula Karts (Europe) (Xplosiv) (Track 10).bin" size="73135440" crc="8a1ce562" md5="b31bf23f6f4c19c1de644a6511e5a0bd" sha1="3a2250f02129222f58655ec7edc45abe029abf2d"/>
+		<rom name="Formula Karts (Europe) (Xplosiv) (Track 11).bin" size="55048560" crc="81072fe5" md5="efda92f72ca443bac4b80d6fd3070ccd" sha1="11d24a734182bd35d0773b2ee18d2cdee0d00ef7"/>
+		<rom name="Formula Karts (Europe) (Xplosiv) (Track 12).bin" size="38144736" crc="30d94e30" md5="b996ca8129003ec9c81515d1472915da" sha1="b6ad9c7c3a3692e565cf88534294bd5ace79ecaa"/>
+		<rom name="Formula Karts (Europe) (Xplosiv) (Track 13).bin" size="37791936" crc="f593df24" md5="b81caf65d1cdb6ea1e31e1c62329bec5" sha1="e3e40c92478bf35a0a5b69868831b475b7f67094"/>
+		<rom name="Formula Karts (Europe) (Xplosiv).cue" size="1380" crc="c6b06573" md5="aaf1b6514162436fc2633a89d804cbf1" sha1="b76fc89a92460a03fcc10585b0f1bf5fc2d70389"/>
 	</game>
 	<game name="Formula One 99 (USA) (En,Fr,De,Es,It,Fi)">
 		<category>Games</category>
@@ -76512,17 +76534,23 @@
 		<rom name="Jane's Combat Simulations - IAF (Europe) (50th Anniversary CD).bin" size="752270736" crc="e9329438" md5="ee5cb13b05fd0bbff9ebe7dcf9b591ff" sha1="ecfafb838c0182240eafdb038618344ed4cc90bc"/>
 		<rom name="Jane's Combat Simulations - IAF (Europe) (50th Anniversary CD).cue" size="128" crc="aaae6943" md5="f37dcdac01d06b6566f7a794b98b5b06" sha1="007fc7a8af50f80d92037870760671210ac6b6b1"/>
 	</game>
-	<game name="Jane's Combat Simulations - IAF (USA)">
+	<game name="Jane's Combat Simulations - IAF (Germany)">
 		<category>Games</category>
-		<description>Jane's Combat Simulations - IAF (USA)</description>
-		<rom name="Jane's Combat Simulations - IAF (USA).bin" size="752623536" crc="5964afa0" md5="c5f5b2d2480e4d34122b241d91e22f12" sha1="89ba0a88dc868c1ffb49f97e2499cf1c1fd2029b"/>
-		<rom name="Jane's Combat Simulations - IAF (USA).cue" size="103" crc="9417b29d" md5="edde2d4b7dc30f0ce28bfb391926bb50" sha1="0f94caa452bc198a7cf97031e657b7c122215dde"/>
+		<description>Jane's Combat Simulations - IAF (Germany)</description>
+		<rom name="Jane's Combat Simulations - IAF (Germany).bin" size="735564480" crc="7a2b1285" md5="829f9df3d518e23670ab7a4123c67279" sha1="40a52ff945a3ccd271ddb77b7d914c935e23e1f5"/>
+		<rom name="Jane's Combat Simulations - IAF (Germany).cue" size="107" crc="f6fd48b1" md5="534dc2b54942bf5317486ade3733dacc" sha1="7cf33332c52e08e729d28dca0bfb9cae68568498"/>
 	</game>
 	<game name="Jane's Combat Simulations - IAF - Israeli Air Force (China)">
 		<category>Games</category>
 		<description>Jane's Combat Simulations - IAF - Israeli Air Force (China)</description>
 		<rom name="Jane's Combat Simulations - IAF - Israeli Air Force (China).bin" size="728997696" crc="6baf84a3" md5="82a293860d2c70547bdcbc088d2a1664" sha1="9791f5905fe406c434090c667cb74514dd198f96"/>
 		<rom name="Jane's Combat Simulations - IAF - Israeli Air Force (China).cue" size="148" crc="6262cff1" md5="3b8d8bc7cdc1f4bb4858a1ef445251b7" sha1="259552210a1b3d69bcf047d9296fbecf075815b0"/>
+	</game>
+	<game name="Jane's Combat Simulations - IAF - Israeli Air Force (USA) (IAF 50th Anniversary CD)">
+		<category>Bonus Discs</category>
+		<description>Jane's Combat Simulations - IAF - Israeli Air Force (USA) (IAF 50th Anniversary CD)</description>
+		<rom name="Jane's Combat Simulations - IAF - Israeli Air Force (USA) (IAF 50th Anniversary CD).bin" size="752623536" crc="5964afa0" md5="c5f5b2d2480e4d34122b241d91e22f12" sha1="89ba0a88dc868c1ffb49f97e2499cf1c1fd2029b"/>
+		<rom name="Jane's Combat Simulations - IAF - Israeli Air Force (USA) (IAF 50th Anniversary CD).cue" size="172" crc="3e666028" md5="c889c846ad3ac7d80e981f22c669b0f0" sha1="3b1a0591095e3c00e96b87f3bd902c44e4722a90"/>
 	</game>
 	<game name="Jane's Combat Simulations - IAF - Israeli Air Force (USA) (IAF Gameplay CD)">
 		<category>Games</category>
@@ -137391,17 +137419,17 @@
 		<rom name="Serious Sam - The First Encounter (USA).bin" size="576287040" crc="ae15688d" md5="6698ca2e9684be4580717dfa40c74ab4" sha1="d7b86a26a388d7398775d51b6a9e9405c7d8f396"/>
 		<rom name="Serious Sam - The First Encounter (USA).cue" size="105" crc="4989bf38" md5="d39c6b2d27f3de0da7f349687de7e602" sha1="458ed8c8ee14fa69f638c2bc767fc66a4fa2c18c"/>
 	</game>
+	<game name="Serious Sam - The Second Encounter (Asia, USA)">
+		<category>Games</category>
+		<description>Serious Sam - The Second Encounter (Asia, USA)</description>
+		<rom name="Serious Sam - The Second Encounter (Asia, USA).bin" size="616555632" crc="90a17fc4" md5="2299a45ba0dc4d436a8951b4b8ba1cd7" sha1="3c00b871515e6a690191ba855f3baa9b052d9a54"/>
+		<rom name="Serious Sam - The Second Encounter (Asia, USA).cue" size="112" crc="b3135da8" md5="f34bd7c6a154fa47f70a3c80ce80cba3" sha1="aaa6c8cd5504f3bd36b77b99cf5cb85afa0d4770"/>
+	</game>
 	<game name="Serious Sam - The Second Encounter (Europe) (En,Fr,De,Es,It) (Gold Edition)">
 		<category>Games</category>
 		<description>Serious Sam - The Second Encounter (Europe) (En,Fr,De,Es,It) (Gold Edition)</description>
 		<rom name="Serious Sam - The Second Encounter (Europe) (En,Fr,De,Es,It) (Gold Edition).bin" size="726222336" crc="dc79cae3" md5="fa1bebe4bf3b2eaeaf5e341126a2cae4" sha1="3ebb13a8101f206e75d30b00bd97037710eca4bc"/>
 		<rom name="Serious Sam - The Second Encounter (Europe) (En,Fr,De,Es,It) (Gold Edition).cue" size="141" crc="ef6ce03c" md5="971f2932c4b3ab240cb7e8dbde9e5272" sha1="a8ade127a2c9c18134eb38a0dfb9c35201d2ed34"/>
-	</game>
-	<game name="Serious Sam - The Second Encounter (USA)">
-		<category>Games</category>
-		<description>Serious Sam - The Second Encounter (USA)</description>
-		<rom name="Serious Sam - The Second Encounter (USA).bin" size="616543872" crc="ff9e8905" md5="1eb3684e5fc373932b19302cb15a2421" sha1="28fe7aebea8b80d5b2a51ef30a2a3886b6b046b6"/>
-		<rom name="Serious Sam - The Second Encounter (USA).cue" size="106" crc="64f18a5f" md5="a7d2d81bd2398a241ae4213ca7d38657" sha1="db943beb9df612ab7153eb3072a35c2fcca65821"/>
 	</game>
 	<game name="Serious Sam 3 - BFE (Europe)">
 		<category>Games</category>
@@ -142866,11 +142894,11 @@
 		<rom name="Simon the Sorcerer Double Pack (Europe).bin" size="753164496" crc="7979dd92" md5="3ca55910dc415e5ff125cc86ba3b5a03" sha1="eb54362b553583b0f7594cd86640365b4d3a1c4d"/>
 		<rom name="Simon the Sorcerer Double Pack (Europe).cue" size="105" crc="3d08b5b2" md5="ade4e16ff2d73d216a0fd1ca3aa20d4f" sha1="1f8e205ede3960e37b391d595ff13ba134eca5a4"/>
 	</game>
-	<game name="Simon the Sorcerer II (Germany)">
+	<game name="Simon the Sorcerer II (Spain)">
 		<category>Games</category>
-		<description>Simon the Sorcerer II (Germany)</description>
-		<rom name="Simon the Sorcerer II (Germany).bin" size="205442496" crc="58559e2f" md5="5b0a857e828a5e008220ae2fc7ad27fa" sha1="1e42853aa319861784e1b8922c19cd0536d03e65"/>
-		<rom name="Simon the Sorcerer II (Germany).cue" size="120" crc="e978a7d8" md5="c4a86de34b8d141deeb5452d1f1a3950" sha1="55ec1d9e4c55e545a0466538f05d86988ad695a6"/>
+		<description>Simon the Sorcerer II (Spain)</description>
+		<rom name="Simon the Sorcerer II (Spain).bin" size="195667584" crc="f17d6334" md5="4274e5f4d939d18fbdc2305a19edb8aa" sha1="32e88d8e33529703cdbacfd5b02015eb5e31d046"/>
+		<rom name="Simon the Sorcerer II (Spain).cue" size="95" crc="96503ca0" md5="dbf3cb6ce305d2b4e4aed2695a83a98d" sha1="71187cc6880f1cbb43d8fdae8103ee060f5dc659"/>
 	</game>
 	<game name="Simon the Sorcerer II - The Lion, the Wizard and the Wardrobe (Europe)">
 		<category>Games</category>
@@ -143156,6 +143184,12 @@
 		<description>Sims 2, The - Glamour Life Stuff (USA) (En,Es)</description>
 		<rom name="Sims 2, The - Glamour Life Stuff (USA) (En,Es).bin" size="354418176" crc="e2ea5b20" md5="59cb3442838b1bcb4fe8795cb3dcbe80" sha1="46df1ff95a2c341ecdad525c13da297d1704081f"/>
 		<rom name="Sims 2, The - Glamour Life Stuff (USA) (En,Es).cue" size="112" crc="042fbb7d" md5="4eb1e927243d5e310b1b6ace0b944588" sha1="a0d92933077ea2809069fac41675fc66ed93d92d"/>
+	</game>
+	<game name="Sims 2, The - H&amp;M Fashion Pack (Japan)">
+		<category>Add-Ons</category>
+		<description>Sims 2, The - H&amp;M Fashion Pack (Japan)</description>
+		<rom name="Sims 2, The - H&amp;M Fashion Pack (Japan).bin" size="484728384" crc="3ec0bbbe" md5="50dd40fd430ad78d72004b6abd43ed57" sha1="eb21751becf5681de8117bf6be6b6b79979790f8"/>
+		<rom name="Sims 2, The - H&amp;M Fashion Pack (Japan).cue" size="104" crc="89b3a738" md5="7c3b9643c7068004c011a985f6070e5f" sha1="06619432325eef94d32b94140f29f1710f889f11"/>
 	</game>
 	<game name="Sims 2, The - H&amp;M Fashion Stuff (USA)">
 		<category>Add-Ons</category>
@@ -176193,10 +176227,10 @@
 		<rom name="X3D's Model Trains (USA).bin" size="87407376" crc="cd69e056" md5="f048c78d697a0d6d8a9abf430c790c43" sha1="1bba3aebb175b6a3ae502466f6090318b50c2856"/>
 		<rom name="X3D's Model Trains (USA).cue" size="90" crc="9e9868b7" md5="cd8e89b44a491b980749b0debfb7ac80" sha1="4988b6eeab4e02d8096cb9711c31b0b1c9136c12"/>
 	</game>
-	<game name="XCOM - Enemy Unknown (Australia) (Disc 2)">
+	<game name="XCOM - Enemy Unknown (Europe, Australia) (Disc 2)">
 		<category>Games</category>
-		<description>XCOM - Enemy Unknown (Australia) (Disc 2)</description>
-		<rom name="XCOM - Enemy Unknown (Australia) (Disc 2).iso" size="5812781056" crc="ae8861dd" md5="ea0ca2f1e54e2ab35f04df8d81c36678" sha1="df6d83f7a25fbf3f949a842f72bf7ef0127dfce3"/>
+		<description>XCOM - Enemy Unknown (Europe, Australia) (Disc 2)</description>
+		<rom name="XCOM - Enemy Unknown (Europe, Australia) (Disc 2).iso" size="5812781056" crc="ae8861dd" md5="ea0ca2f1e54e2ab35f04df8d81c36678" sha1="df6d83f7a25fbf3f949a842f72bf7ef0127dfce3"/>
 	</game>
 	<game name="XCOM - Enemy Unknown (Russia) (Disc 3)">
 		<category>Games</category>
@@ -177035,6 +177069,12 @@
 		<description>Xtreme Accuracy Shooting (USA)</description>
 		<rom name="Xtreme Accuracy Shooting (USA).bin" size="333781728" crc="2463b236" md5="58dec4798ad7b6fefc09b507726bf4f6" sha1="374ca0ecb901f3e473f18feeb56f939ed3d26b8f"/>
 		<rom name="Xtreme Accuracy Shooting (USA).cue" size="96" crc="4b20d0e6" md5="b4488a635761db7da8a19b4db694d4e6" sha1="92161d9b0ab4350d6717fcd5f887eccf1855a39b"/>
+	</game>
+	<game name="Xtreme Air Racing (USA)">
+		<category>Games</category>
+		<description>Xtreme Air Racing (USA)</description>
+		<rom name="Xtreme Air Racing (USA).bin" size="667911552" crc="3077718c" md5="f3ddc5ec280f75c5a8b51474596480a5" sha1="1e913ad5880f8fae16204d748dee2fc2564b9cac"/>
+		<rom name="Xtreme Air Racing (USA).cue" size="89" crc="eb412343" md5="f38d2a2afa86f581895cfd357e772354" sha1="a4320142cd0d6bf59be56b1ac0337838ea3fa63e"/>
 	</game>
 	<game name="Xtreme Airports Vol. 1 - Stansted + London City (UK)">
 		<category>Add-Ons</category>
