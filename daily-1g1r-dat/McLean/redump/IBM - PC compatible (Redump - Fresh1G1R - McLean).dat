@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (12,985) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-05 04-10-31) (Retool)</description>
-		<version>2026-04-05 04-10-31</version>
-		<date>2026-04-05 03-23-03</date>
+		<description>IBM - PC compatible (12,990) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-06 03-27-35) (Retool)</description>
+		<version>2026-04-06 03-27-35</version>
+		<date>2026-04-06 03-23-20</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -10274,6 +10274,12 @@
 		<rom name="Boabite 3D (Europe).bin" size="69442800" crc="cf1fbce9" md5="0718a52db216da9406ac04550b6b1e5a" sha1="2cdbb92a9586d4e7003ca543a81d87ed3e4df354"/>
 		<rom name="Boabite 3D (Europe).cue" size="85" crc="216c81b0" md5="9d402d8752d1106cf616b1d28b514379" sha1="76fcdb15c77ed7b61722e655be50d81e987ea202"/>
 	</game>
+	<game name="Board Games &amp; Chessmaster 8000 (USA) (Disc 1)">
+		<category>Games</category>
+		<description>Board Games &amp; Chessmaster 8000 (USA) (Disc 1)</description>
+		<rom name="Board Games &amp; Chessmaster 8000 (USA) (Disc 1).bin" size="670780992" crc="f0a49dd1" md5="2998c7229661f2751bf4ff0c52c4b7fa" sha1="8b2db91d5137015c80a51a650735c0c4c68ff3ad"/>
+		<rom name="Board Games &amp; Chessmaster 8000 (USA) (Disc 1).cue" size="111" crc="36c39156" md5="808d975a208a02ccb8ab9243f80dc359" sha1="89e9c1bea7244434dad95c7796f1bd6a064f970a"/>
+	</game>
 	<game name="Board Games (USA)">
 		<category>Games</category>
 		<description>Board Games (USA)</description>
@@ -13930,17 +13936,17 @@
 		<rom name="Chessmaster 7000 (USA) (Disc 2).bin" size="700656096" crc="579a3d04" md5="2cd5124da4ab2e8a6e54f2ae3102d905" sha1="af26fe75adfee1b35419c93978078160b8819421"/>
 		<rom name="Chessmaster 7000 (USA) (Disc 2).cue" size="97" crc="1cda6ea0" md5="e8f3cdae137b71e00a9093150cf6ced9" sha1="7ae24f31fdeac4a2ca00d9d51adc13537a589946"/>
 	</game>
-	<game name="Chessmaster 8000 (Europe) (Disc 2)">
-		<category>Games</category>
-		<description>Chessmaster 8000 (Europe) (Disc 2)</description>
-		<rom name="Chessmaster 8000 (Europe) (Disc 2).bin" size="648086544" crc="085761c9" md5="57d67f71af1a8a9fd332c0f6844627d8" sha1="0eca38b2c689c740d2a85e558e92d37fce31ba0f"/>
-		<rom name="Chessmaster 8000 (Europe) (Disc 2).cue" size="100" crc="947e1567" md5="32e5015ca520b0fb410b0228dac13399" sha1="a54f73fbcc33c04a86d4045e8272592fa30fc96d"/>
-	</game>
 	<game name="Chessmaster 8000 (UK) (Disc 1)">
 		<category>Games</category>
 		<description>Chessmaster 8000 (UK) (Disc 1)</description>
 		<rom name="Chessmaster 8000 (UK) (Disc 1).bin" size="630136080" crc="eb84a49c" md5="df028eeafef5c84b4858f47bfdfccdb1" sha1="c7cda055bc106f062095f1b719f1c7fa5ea946b5"/>
 		<rom name="Chessmaster 8000 (UK) (Disc 1).cue" size="96" crc="e6bb5657" md5="2f1276d1a8d76b0475198f0f6181accc" sha1="b141da2bbd01cdb5e147d12ed7dbb9db5ebcfc3c"/>
+	</game>
+	<game name="Chessmaster 8000 (USA) (Disc 2)">
+		<category>Games</category>
+		<description>Chessmaster 8000 (USA) (Disc 2)</description>
+		<rom name="Chessmaster 8000 (USA) (Disc 2).bin" size="647757264" crc="0feffecc" md5="bf041370759f725ac7364e7434705b5c" sha1="418b0b983f56f31952e0a2ee10833f3ba5974268"/>
+		<rom name="Chessmaster 8000 (USA) (Disc 2).cue" size="97" crc="061d9c1d" md5="69f61ea0b42c488db2e8509098494a24" sha1="000aa0db5dffa563b8224321ea2fa402904a4506"/>
 	</game>
 	<game name="Chessmaster Grandmaster Edition (USA) (En,Fr)">
 		<category>Games</category>
@@ -20269,6 +20275,12 @@
 		<description>Diablo II (USA) (Install Disc) (Rev 1)</description>
 		<rom name="Diablo II (USA) (Install Disc) (Rev 1).bin" size="666632064" crc="63c3a090" md5="23e0c4a37472140d423093e12d370316" sha1="c86e455a4c855792e0a49f8e7ff4ca6ce70d68fb"/>
 		<rom name="Diablo II (USA) (Install Disc) (Rev 1).cue" size="104" crc="97d0d44f" md5="1f71c142dc23418b9d212b90c7be6008" sha1="41053198d677094ea67e0ee69a00623d6db58187"/>
+	</game>
+	<game name="Diablo II (USA) (Play Disc) (Rerelease) (2003-01-23) (Dupe 1)">
+		<category>Games</category>
+		<description>Diablo II (USA) (Play Disc) (Rerelease) (2003-01-23) (Dupe 1)</description>
+		<rom name="Diablo II (USA) (Play Disc) (Rerelease) (2003-01-23).bin" size="773050656" crc="555136f8" md5="a8927c0b8fe11726f7a9c95296c782af" sha1="3765ceb64b81de9064c1261a27939f36babad612"/>
+		<rom name="Diablo II (USA) (Play Disc) (Rerelease) (2003-01-23).cue" size="118" crc="57ff76f4" md5="4ef62d17da5acdda826a1e6c8670116c" sha1="fdaac765027bf1076416decfdcd7a851c37e417d"/>
 	</game>
 	<game name="Diablo II (USA) (Play Disc) (Rev 1)">
 		<category>Games</category>
@@ -51898,17 +51910,23 @@
 		<description>Monopoly &amp; The Game of Life (USA) (En,Ja,Fr,De,Es,It,Zh,Ko)</description>
 		<rom name="Monopoly &amp; The Game of Life (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).iso" size="1457258496" crc="22bcfe0b" md5="3cfc6a2c8649fe83db81034534a83553" sha1="1befda88f8d93d8dc109ef90e1533c98c7bada20"/>
 	</game>
+	<game name="Monopoly (Europe) (Rerelease) (1998-05-21)">
+		<category>Games</category>
+		<description>Monopoly (Europe) (Rerelease) (1998-05-21)</description>
+		<rom name="Monopoly (Europe) (Rerelease) (1998-05-21).bin" size="274878240" crc="c636526d" md5="87d4351ddcd15312eb90c66a53b011b3" sha1="8521756a4ab0d5ec349425f3db85eb4ee924fdf0"/>
+		<rom name="Monopoly (Europe) (Rerelease) (1998-05-21).cue" size="108" crc="656b44d1" md5="8cd69c9e5216921b4692c2dcf021176f" sha1="008e3917ab212a384ea6e0ae42e766fcf9231904"/>
+	</game>
 	<game name="Monopoly (UK) (2007) (Covermount)">
 		<category>Games</category>
 		<description>Monopoly (UK) (2007) (Covermount)</description>
 		<rom name="Monopoly (UK) (2007) (Covermount).bin" size="23788128" crc="997c9be5" md5="1e7b8bf60bf0d228bc1f75609c422a6c" sha1="8a5e77f9b8d7039c87e8b5ecb413702887e99e7c"/>
 		<rom name="Monopoly (UK) (2007) (Covermount).cue" size="99" crc="f9484609" md5="e70aa8d0c8606a5bacc21a2cf604517c" sha1="b1320ee5cea8736edd07a71f9fba3d9c665aeef5"/>
 	</game>
-	<game name="Monopoly (USA)">
+	<game name="Monopoly (USA) (1995)">
 		<category>Games</category>
-		<description>Monopoly (USA)</description>
-		<rom name="Monopoly (USA).bin" size="266159376" crc="6ee5c4f7" md5="6f207b80e9d51e58bce618d28b3ea2b4" sha1="87059a012fccacd3f52ba5ce208d079fa04cfced"/>
-		<rom name="Monopoly (USA).cue" size="103" crc="5d8c40eb" md5="00d1e11ed9efe9a7eb05edb4fa45e431" sha1="fb94ae7a37901ddc58c3a52a72f58caef9250409"/>
+		<description>Monopoly (USA) (1995)</description>
+		<rom name="Monopoly (USA) (1995).bin" size="266159376" crc="6ee5c4f7" md5="6f207b80e9d51e58bce618d28b3ea2b4" sha1="87059a012fccacd3f52ba5ce208d079fa04cfced"/>
+		<rom name="Monopoly (USA) (1995).cue" size="110" crc="1eef19d7" md5="0108319a357e64d55a89d03588a5ee1b" sha1="4d20383d49dd85b5745b9df2687014cff0457b3a"/>
 	</game>
 	<game name="Monopoly (USA) (1999)">
 		<category>Games</category>
@@ -51922,11 +51940,11 @@
 		<rom name="Monopoly (USA) (2002).bin" size="419041728" crc="fe76d27f" md5="1aeae36652ae31b670a1eb558efb3faf" sha1="ae649e5f38fb655ab3a9a339e470aef1b1ee914b"/>
 		<rom name="Monopoly (USA) (2002).cue" size="87" crc="4e156b73" md5="ee26f4ac2ec4d07556dbb0a5370171d0" sha1="df4f6dba01577490508065c13ad1f794d45aa880"/>
 	</game>
-	<game name="Monopoly (USA, Canada) (1999) (General Mills)">
+	<game name="Monopoly (USA, Canada) (1999) (General Mills) (2001-08-20)">
 		<category>Games</category>
-		<description>Monopoly (USA, Canada) (1999) (General Mills)</description>
-		<rom name="Monopoly (USA, Canada) (1999) (General Mills).bin" size="438464544" crc="4f4a9f13" md5="04f2c4fa330d5633792fdeb823663b1d" sha1="f231f5d7bb190ba2ca81c35b6b248de1c580be03"/>
-		<rom name="Monopoly (USA, Canada) (1999) (General Mills).cue" size="111" crc="1ba7a6d5" md5="57c13eb472b7debcbce77b14dfdc7c42" sha1="d302c1c4100b05c100d93e9bf1e70bc059cd96a2"/>
+		<description>Monopoly (USA, Canada) (1999) (General Mills) (2001-08-20)</description>
+		<rom name="Monopoly (USA, Canada) (1999) (General Mills) (2001-08-20).bin" size="438464544" crc="4f4a9f13" md5="04f2c4fa330d5633792fdeb823663b1d" sha1="f231f5d7bb190ba2ca81c35b6b248de1c580be03"/>
+		<rom name="Monopoly (USA, Canada) (1999) (General Mills) (2001-08-20).cue" size="124" crc="a392cc0b" md5="5e91188a9bab560aec78c153756db00b" sha1="a94728f931240628da0a23bb0f766dd73acfba17"/>
 	</game>
 	<game name="Monopoly - New Edition (Europe) (En,Fr,Nl)">
 		<category>Games</category>
@@ -61879,6 +61897,18 @@
 		<rom name="Pro Pinball - Timeshock! (USA) (Track 33).bin" size="3784368" crc="52c7ba1b" md5="0621da5cd4dde59dc910af2872072b1b" sha1="6230de57631097a636f9e32596f98de047e3059e"/>
 		<rom name="Pro Pinball - Timeshock! (USA).cue" size="4130" crc="f3516720" md5="e7488843ca03923e0f5fbdab3f264148" sha1="ec8255d05eae3df2bca147ccf4fc337cccb0ca09"/>
 	</game>
+	<game name="Pro Race Driver (USA) (Disc 1) (Disque du Jeu)">
+		<category>Games</category>
+		<description>Pro Race Driver (USA) (Disc 1) (Disque du Jeu)</description>
+		<rom name="Pro Race Driver (USA) (Disc 1) (Disque du Jeu).bin" size="771672384" crc="7f6fd9f9" md5="5725374eabbfef13302a35cace871af9" sha1="0e0ea89859ef48be6622227ed3797e6369c91e2c"/>
+		<rom name="Pro Race Driver (USA) (Disc 1) (Disque du Jeu).cue" size="112" crc="4294566f" md5="1faa45abfaa03b692b48cfbc06ba434a" sha1="f5fdd1ae0a10a39329bc177f4402dbad593845a2"/>
+	</game>
+	<game name="Pro Race Driver (USA) (Disc 1) (Game Disc)">
+		<category>Games</category>
+		<description>Pro Race Driver (USA) (Disc 1) (Game Disc)</description>
+		<rom name="Pro Race Driver (USA) (Disc 1) (Game Disc).bin" size="761911584" crc="6492ec32" md5="4e5021f4e0b5efce1bf4969df066369e" sha1="69ecb34b4b1983d0647eba1cb0eccb3acb7249cf"/>
+		<rom name="Pro Race Driver (USA) (Disc 1) (Game Disc).cue" size="108" crc="e48882ba" md5="4c8d6797579f87c3e8581c37ccd8f402" sha1="14c4b1bc5e8f6d9de0d7f56d1f48dc8afce3e9a5"/>
+	</game>
 	<game name="Pro Rally 2001 (Europe) (En,Fr,De,Es,It) (Limited Edition)">
 		<category>Games</category>
 		<description>Pro Rally 2001 (Europe) (En,Fr,De,Es,It) (Limited Edition)</description>
@@ -69462,11 +69492,11 @@
 		<rom name="Serious Sam - The First Encounter (Europe) (En,De,Es,It) (Gold Edition).bin" size="608163696" crc="f0893226" md5="0989766a92602a1792fb4be6361a5a53" sha1="05d1af509c1f97a82b590a3e4b8db8901042b425"/>
 		<rom name="Serious Sam - The First Encounter (Europe) (En,De,Es,It) (Gold Edition).cue" size="137" crc="59c85034" md5="d8ff12e63b6c0da08b2abfad9d726fe5" sha1="6d4b2df45ffb3d3c6e671f0adb936fc2c13d027e"/>
 	</game>
-	<game name="Serious Sam - The First Encounter (USA)">
+	<game name="Serious Sam - The First Encounter (USA, Canada)">
 		<category>Games</category>
-		<description>Serious Sam - The First Encounter (USA)</description>
-		<rom name="Serious Sam - The First Encounter (USA).bin" size="576287040" crc="ae15688d" md5="6698ca2e9684be4580717dfa40c74ab4" sha1="d7b86a26a388d7398775d51b6a9e9405c7d8f396"/>
-		<rom name="Serious Sam - The First Encounter (USA).cue" size="105" crc="4989bf38" md5="d39c6b2d27f3de0da7f349687de7e602" sha1="458ed8c8ee14fa69f638c2bc767fc66a4fa2c18c"/>
+		<description>Serious Sam - The First Encounter (USA, Canada)</description>
+		<rom name="Serious Sam - The First Encounter (USA, Canada).bin" size="576287040" crc="ae15688d" md5="6698ca2e9684be4580717dfa40c74ab4" sha1="d7b86a26a388d7398775d51b6a9e9405c7d8f396"/>
+		<rom name="Serious Sam - The First Encounter (USA, Canada).cue" size="113" crc="5c1ff179" md5="98049cd30a628df6b3f906af2f8d8b10" sha1="b3c283bb23b16112b1530a16527a5c6e7a5c41e0"/>
 	</game>
 	<game name="Serious Sam - The Second Encounter (Asia, USA)">
 		<category>Games</category>
@@ -78209,11 +78239,11 @@
 		<rom name="TOCA Race Driver (Europe) (En,Fr,De,Es,It) (Disc 1).bin" size="761911584" crc="ec190b84" md5="e884fdca89e8748ebaa656b31083394b" sha1="c65e7f32a3ab819261eb7758695d3f3bd0d61900"/>
 		<rom name="TOCA Race Driver (Europe) (En,Fr,De,Es,It) (Disc 1).cue" size="117" crc="b9e54b91" md5="547beebbedd16912e567c366d9159298" sha1="5836a536631724e3c07d25e8e07aec1b29d20fd1"/>
 	</game>
-	<game name="TOCA Race Driver (Europe) (En,Fr,De,Es,It) (Disc 2)">
+	<game name="TOCA Race Driver (USA, Europe) (En,Fr,De,Es,It) (Disc 2)">
 		<category>Games</category>
-		<description>TOCA Race Driver (Europe) (En,Fr,De,Es,It) (Disc 2)</description>
-		<rom name="TOCA Race Driver (Europe) (En,Fr,De,Es,It) (Disc 2).bin" size="648185328" crc="afc77183" md5="6417c222a448c222c0230d7b178e082e" sha1="5a6dbc795d6a49effd1ddd5cd50f91c03f9ea8d3"/>
-		<rom name="TOCA Race Driver (Europe) (En,Fr,De,Es,It) (Disc 2).cue" size="117" crc="b8b86d40" md5="4d5b49569ad663cd0f2e51cbf89f821e" sha1="bf39a79336bb551e3f10dc2df446b07a1fe6d899"/>
+		<description>TOCA Race Driver (USA, Europe) (En,Fr,De,Es,It) (Disc 2)</description>
+		<rom name="TOCA Race Driver (USA, Europe) (En,Fr,De,Es,It) (Disc 2).bin" size="648185328" crc="afc77183" md5="6417c222a448c222c0230d7b178e082e" sha1="5a6dbc795d6a49effd1ddd5cd50f91c03f9ea8d3"/>
+		<rom name="TOCA Race Driver (USA, Europe) (En,Fr,De,Es,It) (Disc 2).cue" size="122" crc="da7bdab9" md5="e36d3550309c70ce21fc1d8b664512ad" sha1="e03f0fd62fa5165bffbd16195da359467966615b"/>
 	</game>
 	<game name="TOCA Race Driver 2 (Europe) (Sold Out Software)">
 		<category>Games</category>
