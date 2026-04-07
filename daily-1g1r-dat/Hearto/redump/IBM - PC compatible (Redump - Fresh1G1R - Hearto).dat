@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,912) (-y) [-aAbBcefkmMoprv] (2026-04-06 03-27-35) (Retool)</description>
-		<version>2026-04-06 03-27-35</version>
-		<date>2026-04-06 03-17-20</date>
+		<description>IBM - PC compatible (24,921) (-y) [-aAbBcefkmMoprv] (2026-04-06 23-04-02) (Retool)</description>
+		<version>2026-04-06 23-04-02</version>
+		<date>2026-04-07 03-17-10</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -6048,11 +6048,11 @@
 		<rom name="Akademia Gwiazd - Muzyka, Taniec i Styl (Poland).bin" size="450996000" crc="12ab49ca" md5="2a30a5c1c6d6ac5f929d184b9da2432a" sha1="55c7b60586c0dc9fa70b3209a4b51b052939b327"/>
 		<rom name="Akademia Gwiazd - Muzyka, Taniec i Styl (Poland).cue" size="114" crc="28dad882" md5="63eb916eed118f2d65dd29d15309f76e" sha1="3c5f521dcc3f0af3b22f6b628e5c18744616291f"/>
 	</game>
-	<game name="Akagawa Jirou - Majo-tachi no Nemuri Kanzenban (Japan)">
+	<game name="Akagawa Jirou - Majotachi no Nemuri Kanzenban (Japan)">
 		<category>Games</category>
-		<description>Akagawa Jirou - Majo-tachi no Nemuri Kanzenban (Japan)</description>
-		<rom name="Akagawa Jirou - Majo-tachi no Nemuri Kanzenban (Japan).bin" size="610713264" crc="577f5fdf" md5="49f35cc9078ab047de9bfcfdd4beef63" sha1="d3889e54821d39a20f601854122565abca63f244"/>
-		<rom name="Akagawa Jirou - Majo-tachi no Nemuri Kanzenban (Japan).cue" size="143" crc="e5be1076" md5="13ad0dae6dcda13d7d18a65ee6c118a0" sha1="63c73a9e2f80c14187ca98b6850d1999a4096ee3"/>
+		<description>Akagawa Jirou - Majotachi no Nemuri Kanzenban (Japan)</description>
+		<rom name="Akagawa Jirou - Majotachi no Nemuri Kanzenban (Japan).bin" size="610713264" crc="577f5fdf" md5="49f35cc9078ab047de9bfcfdd4beef63" sha1="d3889e54821d39a20f601854122565abca63f244"/>
+		<rom name="Akagawa Jirou - Majotachi no Nemuri Kanzenban (Japan).cue" size="142" crc="aa902b08" md5="99f8475e1b92f453930a6bc0713ffee6" sha1="f710dbaa8c7ff900988b48192736c60cc943d932"/>
 	</game>
 	<game name="Akaki Isakai Me (Japan) (Disc 1) (Game Disk)">
 		<category>Games</category>
@@ -21072,6 +21072,18 @@
 		<description>Broken Sword - Aniol Smierci (Poland)</description>
 		<rom name="Broken Sword - Aniol Smierci (Poland).iso" size="1658322944" crc="42e1c5d1" md5="e8a8c3917486b885e8a64a5056d4b03f" sha1="cc8439fe64253e91fc998d414e1f78cf05cc123f"/>
 	</game>
+	<game name="Broken Sword - La Leyenda de los Templarios (Spain) (Disk 1)">
+		<category>Games</category>
+		<description>Broken Sword - La Leyenda de los Templarios (Spain) (Disk 1)</description>
+		<rom name="Broken Sword - La Leyenda de los Templarios (Spain) (Disk 1).bin" size="706380864" crc="3b22d61a" md5="ea5585bcfd8dc2e8f2bbf408f31bbaef" sha1="de742f2a6034b86a468000f31d3ad8dba2c11142"/>
+		<rom name="Broken Sword - La Leyenda de los Templarios (Spain) (Disk 1).cue" size="126" crc="a788388e" md5="2d7ae7538e8ee78a116ef9d586973565" sha1="8e2455578e7b9fd0004ae846dae7fec6721af76f"/>
+	</game>
+	<game name="Broken Sword - La Leyenda de los Templarios (Spain) (Disk 2)">
+		<category>Games</category>
+		<description>Broken Sword - La Leyenda de los Templarios (Spain) (Disk 2)</description>
+		<rom name="Broken Sword - La Leyenda de los Templarios (Spain) (Disk 2).bin" size="659028048" crc="b1652716" md5="938cc6f52c2ae91313763a6daf04715e" sha1="81b5dda17d84c0d24407f9ff97240fcaf08d74e7"/>
+		<rom name="Broken Sword - La Leyenda de los Templarios (Spain) (Disk 2).cue" size="126" crc="a6d51e5f" md5="73363be920024ed0919dae2abf5938f8" sha1="25b581b1726a706fbf85815e51c8200bbbe80d3f"/>
+	</game>
 	<game name="Broken Sword - The Angel of Death (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Broken Sword - The Angel of Death (Europe) (En,Fr,De,Es,It)</description>
@@ -21144,6 +21156,18 @@
 		<description>Broken Sword II - La Profezia dei Maya (Italy) (Disc 2)</description>
 		<rom name="Broken Sword II - La Profezia dei Maya (Italy) (Disc 2).bin" size="724924032" crc="22b3d1da" md5="b6ca69563f21e01eddf8edf0ccfcd56c" sha1="200dbc4af78c4899c2b9013b08aa9cad4ac4210f"/>
 		<rom name="Broken Sword II - La Profezia dei Maya (Italy) (Disc 2).cue" size="144" crc="8b20366c" md5="86350821c49991ab718fa6af9a2c6cdf" sha1="96666d295d5c628face37075229c403e1f645655"/>
+	</game>
+	<game name="Broken Sword II - Las Fuerzas del Mal (Spain) (Disco 1)">
+		<category>Games</category>
+		<description>Broken Sword II - Las Fuerzas del Mal (Spain) (Disco 1)</description>
+		<rom name="Broken Sword II - Las Fuerzas del Mal (Spain) (Disco 1).bin" size="626810352" crc="70b41832" md5="22752f59ef893ba7cad0f2c5ee1607fe" sha1="6e1429ad755b6f4e2dceb26a9e5ea7e2cf613143"/>
+		<rom name="Broken Sword II - Las Fuerzas del Mal (Spain) (Disco 1).cue" size="144" crc="c70df8ec" md5="eb7749d0880b36e1027ba5d99d7c0ac2" sha1="602dc58697cb54edd7a47171fa25f70f1e95970b"/>
+	</game>
+	<game name="Broken Sword II - Las Fuerzas del Mal (Spain) (Disco 2)">
+		<category>Games</category>
+		<description>Broken Sword II - Las Fuerzas del Mal (Spain) (Disco 2)</description>
+		<rom name="Broken Sword II - Las Fuerzas del Mal (Spain) (Disco 2).bin" size="679248192" crc="dd407746" md5="4018c74952e1928ad56d8951ef0438e7" sha1="25ad822423ae97f84fc733e1c6687dd51ddbb6f5"/>
+		<rom name="Broken Sword II - Las Fuerzas del Mal (Spain) (Disco 2).cue" size="144" crc="c650de3d" md5="cce53d5874dfc4a5bf86d4551a996e2b" sha1="3504c3565791cd39b314e2af174f92317d4a6588"/>
 	</game>
 	<game name="Broken Sword II - The Smoking Mirror (Czech) (Rerelease)">
 		<category>Games</category>
@@ -37382,12 +37406,6 @@
 		<rom name="Diablo II (USA) (Install Disc) (Rev 1).bin" size="666632064" crc="63c3a090" md5="23e0c4a37472140d423093e12d370316" sha1="c86e455a4c855792e0a49f8e7ff4ca6ce70d68fb"/>
 		<rom name="Diablo II (USA) (Install Disc) (Rev 1).cue" size="104" crc="97d0d44f" md5="1f71c142dc23418b9d212b90c7be6008" sha1="41053198d677094ea67e0ee69a00623d6db58187"/>
 	</game>
-	<game name="Diablo II (USA) (Play Disc) (Rerelease) (2003-01-23) (Dupe 1)">
-		<category>Games</category>
-		<description>Diablo II (USA) (Play Disc) (Rerelease) (2003-01-23) (Dupe 1)</description>
-		<rom name="Diablo II (USA) (Play Disc) (Rerelease) (2003-01-23).bin" size="773055360" crc="c4ceef90" md5="739034277913f7f8acf29e42f06bcb43" sha1="30c1a7f14de128a4f7eb000607c82b9355a11a1e"/>
-		<rom name="Diablo II (USA) (Play Disc) (Rerelease) (2003-01-23).cue" size="118" crc="57ff76f4" md5="4ef62d17da5acdda826a1e6c8670116c" sha1="fdaac765027bf1076416decfdcd7a851c37e417d"/>
-	</game>
 	<game name="Diablo II (USA) (Play Disc) (Rev 1)">
 		<category>Games</category>
 		<description>Diablo II (USA) (Play Disc) (Rev 1)</description>
@@ -47533,6 +47551,12 @@
 		<rom name="Escape the Emerald Star (USA).bin" size="684130944" crc="a834e8e3" md5="e35451a1d1ae7f3d2a2c33d03cc62c8a" sha1="e86572b617c902ce7cfcc646f70fb04e9d35dc93"/>
 		<rom name="Escape the Emerald Star (USA).cue" size="95" crc="9863dc2e" md5="28ac9f4c5f23ec5bea59ccfa442deb44" sha1="d5951db802be10451030cb39dcb70461901f90c3"/>
 	</game>
+	<game name="Escape the Lost Kingdom - Collector's Edition (UK)">
+		<category>Games</category>
+		<description>Escape the Lost Kingdom - Collector's Edition (UK)</description>
+		<rom name="Escape the Lost Kingdom - Collector's Edition (UK).bin" size="802627056" crc="03b3cc6e" md5="24a3bf1a8ca0a7d87472b690c581efcf" sha1="16f35a9a8245fef31f2b514ca8acfed7b3a1edfe"/>
+		<rom name="Escape the Lost Kingdom - Collector's Edition (UK).cue" size="116" crc="38e82fd5" md5="cc66de2b300f0a3714497208a17b6f3b" sha1="59aee8601da9cf3017dffde0a1aacf2d236d3b9e"/>
+	</game>
 	<game name="Escape the Museum (USA)">
 		<category>Games</category>
 		<description>Escape the Museum (USA)</description>
@@ -54191,11 +54215,11 @@
 		<rom name="Flojd (Poland) (Disc 2).bin" size="778483776" crc="04618f11" md5="7c4fe5b39d492b02f25c49179135e8d6" sha1="bd55e90e6473513b8099210e42be351eb2fbe85a"/>
 		<rom name="Flojd (Poland) (Disc 2).cue" size="89" crc="16770d58" md5="9ae0857ebef19b10fc1f8acc1fec7944" sha1="48607fbaac0827b047cf86a07c26df52e6c50400"/>
 	</game>
-	<game name="Floria Festa! Saikyoo Tag Kettei-sen (Japan)">
+	<game name="Floria Festa! Saikyoo Tag Ketteisen (Japan)">
 		<category>Games</category>
-		<description>Floria Festa! Saikyoo Tag Kettei-sen (Japan)</description>
-		<rom name="Floria Festa! Saikyoo Tag Kettei-sen (Japan).bin" size="191960832" crc="ce6c9cbc" md5="c01d76276599120ba9df85b996e1155a" sha1="54611876e765c11e9c6a5e1cb5a28a3d312a4804"/>
-		<rom name="Floria Festa! Saikyoo Tag Kettei-sen (Japan).cue" size="110" crc="2a3dd135" md5="e10ca59e2f35d5482285a4a9346bc797" sha1="b2e6a4ad047c1e12e0fba2ed0f558ae0c3710660"/>
+		<description>Floria Festa! Saikyoo Tag Ketteisen (Japan)</description>
+		<rom name="Floria Festa! Saikyoo Tag Ketteisen (Japan).bin" size="191960832" crc="ce6c9cbc" md5="c01d76276599120ba9df85b996e1155a" sha1="54611876e765c11e9c6a5e1cb5a28a3d312a4804"/>
+		<rom name="Floria Festa! Saikyoo Tag Ketteisen (Japan).cue" size="109" crc="e0e2de5a" md5="6f4c471351aa51e905150925901945e2" sha1="749d6cc1afb3bbc73cb56570cdef0ac7428f361c"/>
 	</game>
 	<game name="Flower Paradise (USA)">
 		<category>Games</category>
@@ -61601,11 +61625,11 @@
 		<rom name="GrailQuest (Europe).bin" size="7225344" crc="8700f54d" md5="ae5a9d58b84d27a27178861c22a6dd37" sha1="2398f75a58959f6d6645db0c096a5c7486bb2d69"/>
 		<rom name="GrailQuest (Europe).cue" size="108" crc="d4d3e2d3" md5="d3d895397085577da653eea0b3d2f8dd" sha1="f5d8268e388c10dcf5ee7d9f0ee181d1cb649155"/>
 	</game>
-	<game name="Grana Embrace Chapter 1 - Guranveruditto no Kodomo-tachi (Japan)">
+	<game name="Grana Embrace Chapter 1 - Guranveruditto no Kodomotachi (Japan)">
 		<category>Games</category>
-		<description>Grana Embrace Chapter 1 - Guranveruditto no Kodomo-tachi (Japan)</description>
-		<rom name="Grana Embrace Chapter 1 - Guranveruditto no Kodomo-tachi (Japan).bin" size="241157616" crc="c4467bda" md5="9953c975923038c07d9a5578ad4d74d6" sha1="ef17e7b86637403572fec8a3adaf3b5d6a35eea3"/>
-		<rom name="Grana Embrace Chapter 1 - Guranveruditto no Kodomo-tachi (Japan).cue" size="130" crc="152dd130" md5="631f0404df572224aa69e58020d2c825" sha1="772afd523f93b7200afb126c3258066452cd2a80"/>
+		<description>Grana Embrace Chapter 1 - Guranveruditto no Kodomotachi (Japan)</description>
+		<rom name="Grana Embrace Chapter 1 - Guranveruditto no Kodomotachi (Japan).bin" size="241157616" crc="c4467bda" md5="9953c975923038c07d9a5578ad4d74d6" sha1="ef17e7b86637403572fec8a3adaf3b5d6a35eea3"/>
+		<rom name="Grana Embrace Chapter 1 - Guranveruditto no Kodomotachi (Japan).cue" size="129" crc="0f17c65d" md5="bba771b2970038fc009d04297d84f696" sha1="fd5ec88ae0701d8a81247b473105fc9852e3051c"/>
 	</game>
 	<game name="Grand Ages - Rome (USA)">
 		<category>Games</category>
@@ -69433,11 +69457,11 @@
 		<rom name="Horsez (USA) (Disc 3).bin" size="339586464" crc="d6be24e2" md5="4110fe859419c530a02e009d77e548b9" sha1="c6cbb8e50a01424e0d6ed2426ede04d2e9b34b0b"/>
 		<rom name="Horsez (USA) (Disc 3).cue" size="87" crc="026409ea" md5="51cfbb48106e7727d4138a7fdd2d76c5" sha1="b48b849944dcd6da3aab4171cf4de97e0ac4e37d"/>
 	</game>
-	<game name="Hoshi no Nai Machi - Shoujo-tachi no Yoake (Japan)">
+	<game name="Hoshi no Nai Machi - Shoujotachi no Yoake (Japan)">
 		<category>Games</category>
-		<description>Hoshi no Nai Machi - Shoujo-tachi no Yoake (Japan)</description>
-		<rom name="Hoshi no Nai Machi - Shoujo-tachi no Yoake (Japan).bin" size="77305536" crc="334da6c4" md5="cef7f09457cac32ad386e14cbb690511" sha1="6327b55622fd19102f0c33ad53ab76c86693d37b"/>
-		<rom name="Hoshi no Nai Machi - Shoujo-tachi no Yoake (Japan).cue" size="116" crc="779f9efb" md5="c5fe2e9b093b991e7bb3d5886670d786" sha1="5c3027097391290bd2e05e8884413de68e06cefe"/>
+		<description>Hoshi no Nai Machi - Shoujotachi no Yoake (Japan)</description>
+		<rom name="Hoshi no Nai Machi - Shoujotachi no Yoake (Japan).bin" size="77305536" crc="334da6c4" md5="cef7f09457cac32ad386e14cbb690511" sha1="6327b55622fd19102f0c33ad53ab76c86693d37b"/>
+		<rom name="Hoshi no Nai Machi - Shoujotachi no Yoake (Japan).cue" size="115" crc="71b54552" md5="e2834f27f3707df29e8f8af09f7ba584" sha1="e0e40740dfd358886c3acaa0cc030869945f2881"/>
 	</game>
 	<game name="Hoshi no Oujo - Hikari no Tsubasa - 18-kin Tsuika Disc (Japan)">
 		<category>Add-Ons</category>
@@ -73744,6 +73768,12 @@
 		<rom name="Iniemamocni - Rodzinka na ktora nie ma mocnych (Poland).bin" size="530566512" crc="9e9e46d3" md5="6c7ff5904a9d9034c4d9b6729ecbcf75" sha1="07f149990d28d28fc6ab7d462262cd40b1467e7e"/>
 		<rom name="Iniemamocni - Rodzinka na ktora nie ma mocnych (Poland).cue" size="121" crc="140cdfb7" md5="c07034b4515bb2e36573e58ef377a19d" sha1="577438daba166f11f09293d299d2549bf7d4f201"/>
 	</game>
+	<game name="Initial D - Mountain Vengeance (USA, Canada)">
+		<category>Games</category>
+		<description>Initial D - Mountain Vengeance (USA, Canada)</description>
+		<rom name="Initial D - Mountain Vengeance (USA, Canada).bin" size="179396448" crc="5b419b90" md5="bce5e7dac5d1210c88c3772489d6e956" sha1="c06e766c0601ebf49b53975271797e8f8fcda433"/>
+		<rom name="Initial D - Mountain Vengeance (USA, Canada).cue" size="110" crc="a41c061b" md5="a2a647a766d8220d4d001b1712ebd0fe" sha1="1499f59386d37097220092a6582093263f141beb"/>
+	</game>
 	<game name="Initiation - The Sacred Monuments of Giza and the Chambers of the Deep (USA)">
 		<category>Games</category>
 		<description>Initiation - The Sacred Monuments of Giza and the Chambers of the Deep (USA)</description>
@@ -75147,11 +75177,11 @@
 		<rom name="J. B. Harold no Jikenbo - Murder Club - Satsujin Club (Japan) (Track 7).bin" size="24576048" crc="e61a481d" md5="031800abc124f78819904e84755979fb" sha1="d0783c8149ff0c884ac32e29e3a52334da216538"/>
 		<rom name="J. B. Harold no Jikenbo - Murder Club - Satsujin Club (Japan).cue" size="1067" crc="d4bb7b54" md5="8d7450f7e27a3ea869c8298e125028b2" sha1="86e445fc44fb30f2dc76b8ee340325539e07fa04"/>
 	</game>
-	<game name="J.B. Harold no Jikenbo - Manhattan Requiem - Yami ni Tobu Tenshi-tachi (Japan)">
+	<game name="J.B. Harold no Jikenbo - Manhattan Requiem - Yami ni Tobu Tenshitachi (Japan)">
 		<category>Games</category>
-		<description>J.B. Harold no Jikenbo - Manhattan Requiem - Yami ni Tobu Tenshi-tachi (Japan)</description>
-		<rom name="J.B. Harold no Jikenbo - Manhattan Requiem - Yami ni Tobu Tenshi-tachi (Japan).bin" size="749243712" crc="378ab201" md5="3f6b3ba0d5cfec7614fa225e13e278c1" sha1="5bc109d897b1ecfb102a88e9125145dbad80b683"/>
-		<rom name="J.B. Harold no Jikenbo - Manhattan Requiem - Yami ni Tobu Tenshi-tachi (Japan).cue" size="167" crc="11540314" md5="f00c400efdcd5c1aa5ceaed4c6be574f" sha1="8d65efa5e82db61dd9fdec9b5c4af7b8c34b5820"/>
+		<description>J.B. Harold no Jikenbo - Manhattan Requiem - Yami ni Tobu Tenshitachi (Japan)</description>
+		<rom name="J.B. Harold no Jikenbo - Manhattan Requiem - Yami ni Tobu Tenshitachi (Japan).bin" size="749243712" crc="378ab201" md5="3f6b3ba0d5cfec7614fa225e13e278c1" sha1="5bc109d897b1ecfb102a88e9125145dbad80b683"/>
+		<rom name="J.B. Harold no Jikenbo - Manhattan Requiem - Yami ni Tobu Tenshitachi (Japan).cue" size="166" crc="ade3f7db" md5="73b3602f2f54a23281e83e3e64a662e7" sha1="d4d7f81f64b3b212b2169799274c4eee83ecaa01"/>
 	</game>
 	<game name="J.U.L.I.A. (Europe)">
 		<category>Games</category>
@@ -90842,23 +90872,23 @@
 		<rom name="Maria - Jiamian Rensheng (Taiwan) (Disc 3).bin" size="729174096" crc="106c8b11" md5="ca0aed22e0a0b93c5365638117dbb664" sha1="a0778b486dc0a7ce9ae609f95ef3b29ee7944748"/>
 		<rom name="Maria - Jiamian Rensheng (Taiwan) (Disc 3).cue" size="108" crc="a7869e40" md5="3d9be3946ca2afadf4b5da232a462392" sha1="7d7c45e9f9e9d17bcfd38150313737c5bb8b7aef"/>
 	</game>
-	<game name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1)">
+	<game name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 1)">
 		<category>Games</category>
-		<description>Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1)</description>
-		<rom name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1).bin" size="693797664" crc="b671bdbb" md5="062273acee98f1366a7a1dcc1c48ca92" sha1="be1d0c653d64d75ead7051d2b801a82e93a377b8"/>
-		<rom name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1).cue" size="140" crc="2095312c" md5="a12072ac39ca676759669796364fe7f1" sha1="ee174f13f0d63a1b0033ecb05e54751a1194cdac"/>
+		<description>Maria - Kimitachi ga Umareta Wake (Japan) (Disc 1)</description>
+		<rom name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 1).bin" size="693797664" crc="b671bdbb" md5="062273acee98f1366a7a1dcc1c48ca92" sha1="be1d0c653d64d75ead7051d2b801a82e93a377b8"/>
+		<rom name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 1).cue" size="139" crc="31afa440" md5="09d489d58dcb70c1bce9154fed608ca0" sha1="6c798f3754146f62412f90e9fb436db175df63df"/>
 	</game>
-	<game name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 2)">
+	<game name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 2)">
 		<category>Games</category>
-		<description>Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 2)</description>
-		<rom name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 2).bin" size="624432480" crc="0ef7a965" md5="13f251afa2fabbc3fb096a9e4ba15743" sha1="18812af4001c060a0c12a670a6cc2d7cce381c0f"/>
-		<rom name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 2).cue" size="140" crc="21c817fd" md5="4a22a2dd70a9fc129ed92e9594a7822f" sha1="2e1dc2ddfc93d511e9b8e0f8157f9995f2e4116a"/>
+		<description>Maria - Kimitachi ga Umareta Wake (Japan) (Disc 2)</description>
+		<rom name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 2).bin" size="624432480" crc="0ef7a965" md5="13f251afa2fabbc3fb096a9e4ba15743" sha1="18812af4001c060a0c12a670a6cc2d7cce381c0f"/>
+		<rom name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 2).cue" size="139" crc="30f28291" md5="d8424adc997fb6626b9d0a5417a30ace" sha1="03eb355bd8e784ff8c97a28f52e086d27c2be4c0"/>
 	</game>
-	<game name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 3)">
+	<game name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 3)">
 		<category>Games</category>
-		<description>Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 3)</description>
-		<rom name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 3).bin" size="746494224" crc="8ab1bde7" md5="847ee918a5c6dfeaafde9f9301ca6ff9" sha1="2aa5eb450ceac0a21f09ec891c663b30e633ccfb"/>
-		<rom name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 3).cue" size="140" crc="97d3f78d" md5="d47abfcc55572648c83cbbb0564ba2c3" sha1="1cdbd255d15773f23ffe53f2f6fb2c14c7838574"/>
+		<description>Maria - Kimitachi ga Umareta Wake (Japan) (Disc 3)</description>
+		<rom name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 3).bin" size="746494224" crc="8ab1bde7" md5="847ee918a5c6dfeaafde9f9301ca6ff9" sha1="2aa5eb450ceac0a21f09ec891c663b30e633ccfb"/>
+		<rom name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 3).cue" size="139" crc="86e962e1" md5="fa90180f2c74c6188159e5c6601fc399" sha1="472b2833c9f204d2206c78072fc4e9eeebb46c79"/>
 	</game>
 	<game name="Maria - Tenshi no Kiss to Akuma no Hanayome (Japan)">
 		<category>Games</category>
@@ -92271,11 +92301,11 @@
 		<rom name="MechCommander - Desperate Measures (USA).bin" size="763080528" crc="ed39bdda" md5="4b63c47ed62df6fee3821d4eb78aa64f" sha1="b8013fab137d9ae2ea6f239199915816672f11f0"/>
 		<rom name="MechCommander - Desperate Measures (USA).cue" size="106" crc="c19671d2" md5="275ab1f1cd2d58e598e3e5232530c1c8" sha1="5687997ab0e99d5a1e5e7f6685a94975ef95c19f"/>
 	</game>
-	<game name="MechCommander 2 (USA)">
+	<game name="MechCommander 2 (USA) (Rev 2)">
 		<category>Games</category>
-		<description>MechCommander 2 (USA)</description>
-		<rom name="MechCommander 2 (USA).bin" size="683646432" crc="0cd4d056" md5="2216f572e676dd78ef74175ff507f91d" sha1="46a7ca3cdf2918e08e5887275b9c0189e52dc6c9"/>
-		<rom name="MechCommander 2 (USA).cue" size="87" crc="8183e73e" md5="c49c1891b65fd45712dd5b0364b19915" sha1="fb06134c9d75f70a48c0dc116b9a1a32e896ec47"/>
+		<description>MechCommander 2 (USA) (Rev 2)</description>
+		<rom name="MechCommander 2 (USA) (Rev 2).bin" size="695232384" crc="d895bd84" md5="179626b1c6d09abebde25cae6e6c67b2" sha1="875f03c67430449170563ed7de84aa834ac6c231"/>
+		<rom name="MechCommander 2 (USA) (Rev 2).cue" size="95" crc="44952cc9" md5="a91898eb03c76bdc44920b0f2244deac" sha1="63dedb61adc824855ecb0dcda6b3c30955721bd9"/>
 	</game>
 	<game name="MechCommander Gold (Europe)">
 		<category>Games</category>
@@ -93480,6 +93510,11 @@
 		<category>Add-Ons</category>
 		<description>Medieval II - Total War - Kingdoms Expansion Pack (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Medieval II - Total War - Kingdoms Expansion Pack (Europe) (En,Fr,De,Es,It).iso" size="7635402752" crc="774579ef" md5="05676e148097d9e204c7c3e0dec10a5d" sha1="f203de5866e2aeeff22e234fb60071e395a69834"/>
+	</game>
+	<game name="Medieval II - Total War - Krolestwa (Poland)">
+		<category>Add-Ons</category>
+		<description>Medieval II - Total War - Krolestwa (Poland)</description>
+		<rom name="Medieval II - Total War - Krolestwa (Poland).iso" size="7812448256" crc="eda713ed" md5="13de7014b0c3d4211d3cf9cf86e22274" sha1="ce4f47118457d8ef5882bcc3d048091d1a10fd33"/>
 	</game>
 	<game name="Medieval Lords - Bauen, Verteidigen, Erobern (Germany)">
 		<category>Games</category>
@@ -112614,6 +112649,16 @@
 		<rom name="Petz Vet (USA) (Disc 2).bin" size="459347952" crc="92b96a0c" md5="6ede901420d0e0fe28e3d037c105df35" sha1="bd42e94d3572a22feb59d4a182c893a708501ccc"/>
 		<rom name="Petz Vet (USA) (Disc 2).cue" size="89" crc="7296e7a2" md5="c164899e374ef37159bbce1ea295de27" sha1="ec55a6caeb63ecec13544f1557decbf1439e0f25"/>
 	</game>
+	<game name="Pfefferkoerner, Die - Abenteuer im Internet - Cem unter Verdacht (Germany)">
+		<category>Games</category>
+		<description>Pfefferkoerner, Die - Abenteuer im Internet - Cem unter Verdacht (Germany)</description>
+		<rom name="Pfefferkoerner, Die - Abenteuer im Internet - Cem unter Verdacht (Germany) (Track 1).bin" size="616684992" crc="8800ac56" md5="798b8789834c3cb704a13f221e54d4c1" sha1="2d6d66e1ce7fc889b7b80ac3d36752fb0faf849a"/>
+		<rom name="Pfefferkoerner, Die - Abenteuer im Internet - Cem unter Verdacht (Germany) (Track 2).bin" size="26819856" crc="8ee0c0bf" md5="cd99da223149be6ebbdf87cb0dd415b4" sha1="2dcff2f0c8520c11b2bf4ca34cd7a622c02c698d"/>
+		<rom name="Pfefferkoerner, Die - Abenteuer im Internet - Cem unter Verdacht (Germany) (Track 3).bin" size="5306112" crc="ac2356f1" md5="b28bfa7b97661a435c4189dc97e29e96" sha1="3d8ffdc84a247ef6ff2b39afb9f0185e2cf3ceaa"/>
+		<rom name="Pfefferkoerner, Die - Abenteuer im Internet - Cem unter Verdacht (Germany) (Track 4).bin" size="548016" crc="58e49488" md5="469a26e615c10876698195dd1d122528" sha1="f4ee6b2e611105eb82d446bce92993f1f88c10ad"/>
+		<rom name="Pfefferkoerner, Die - Abenteuer im Internet - Cem unter Verdacht (Germany) (Track 5).bin" size="21391440" crc="ce4653a0" md5="01fd8664955bc904e019789b80b0f2fb" sha1="7a37c2fdc6a731639f03b60ca2852b18e07b3064"/>
+		<rom name="Pfefferkoerner, Die - Abenteuer im Internet - Cem unter Verdacht (Germany).cue" size="822" crc="2133b7b6" md5="0757b557617299dbf1a7822fa133d59a" sha1="3ea7c2c44b4efbc3954c917a290e061e124ad3f2"/>
+	</game>
 	<game name="Pferd &amp; Pony - Best Friends - Mein Pferd (Germany)">
 		<category>Games</category>
 		<description>Pferd &amp; Pony - Best Friends - Mein Pferd (Germany)</description>
@@ -123570,6 +123615,18 @@
 		<description>Reel Deal - Casino Quest! (USA)</description>
 		<rom name="Reel Deal - Casino Quest! (USA).bin" size="505715280" crc="68a2418e" md5="40454aad05e28b60d8a921add7018e0f" sha1="f90179227b4c4d6a72d5836480535efb0fc7c6b7"/>
 		<rom name="Reel Deal - Casino Quest! (USA).cue" size="97" crc="caf506ca" md5="a1dce14a0469d3cd691f374e9aa19a34" sha1="a470421f58cc6b9796200c0ed0c3bfccdf5a86e6"/>
+	</game>
+	<game name="Reel Deal Card Games '09 (USA) (Disc 1)">
+		<category>Games</category>
+		<description>Reel Deal Card Games '09 (USA) (Disc 1)</description>
+		<rom name="Reel Deal Card Games '09 (USA) (Disc 1).bin" size="783916896" crc="530aabf3" md5="3e18be44aabaa329694811cfe896346f" sha1="3f68884f21d985aa58b94c31c3e9c9b389a1875e"/>
+		<rom name="Reel Deal Card Games '09 (USA) (Disc 1).cue" size="105" crc="f170ee3c" md5="4e1dd1ce9d63f9fffde54565604e7619" sha1="fc69759112902548f550378f2ae01c6a05e0857c"/>
+	</game>
+	<game name="Reel Deal Card Games '09 (USA) (Disc 2)">
+		<category>Games</category>
+		<description>Reel Deal Card Games '09 (USA) (Disc 2)</description>
+		<rom name="Reel Deal Card Games '09 (USA) (Disc 2).bin" size="501839184" crc="9a541f09" md5="2612f73673325aa1101d13f30fd3d30f" sha1="c6e55438569547526f87f0598fd306afde8a63c8"/>
+		<rom name="Reel Deal Card Games '09 (USA) (Disc 2).cue" size="105" crc="f02dc8ed" md5="6cea845753214464fa44bf68bb4729eb" sha1="444403877a03650afb35a8f3860b630de97d1c6f"/>
 	</game>
 	<game name="Reel Deal Casino - Championship Edition (USA) (v1.6)">
 		<category>Games</category>
@@ -148139,17 +148196,17 @@
 		<rom name="Sum of All Fears, The (USA).bin" size="788891376" crc="c27b8c05" md5="9918054ce0e3af901b46cc337f4b48ac" sha1="a27eb3f36d20ff2d2bf28a1cbded8a7583b5dfef"/>
 		<rom name="Sum of All Fears, The (USA).cue" size="93" crc="8532c641" md5="597e0f35709157ede787ef5dff035d54" sha1="278aff45f6e8e46e3866329101a5a1a92371776b"/>
 	</game>
-	<game name="Sumeragi no Miko-tachi (Japan) (Disc 1) (Install Disc)">
+	<game name="Sumeragi no Mikotachi (Japan) (Disc 1) (Install Disc)">
 		<category>Games</category>
-		<description>Sumeragi no Miko-tachi (Japan) (Disc 1) (Install Disc)</description>
-		<rom name="Sumeragi no Miko-tachi (Japan) (Disc 1) (Install Disc).bin" size="819469728" crc="6913c644" md5="b3ec30f72655b50cc4c46186209d4675" sha1="cc5322817cd2ea945f67ba73e548a2fcc0175373"/>
-		<rom name="Sumeragi no Miko-tachi (Japan) (Disc 1) (Install Disc).cue" size="143" crc="5f9483a3" md5="2b5f955c9e992cc0c3db81871d112f9e" sha1="353e29ffe836b2a69e3abf0317ba05d19effc0ac"/>
+		<description>Sumeragi no Mikotachi (Japan) (Disc 1) (Install Disc)</description>
+		<rom name="Sumeragi no Mikotachi (Japan) (Disc 1) (Install Disc).bin" size="819469728" crc="6913c644" md5="b3ec30f72655b50cc4c46186209d4675" sha1="cc5322817cd2ea945f67ba73e548a2fcc0175373"/>
+		<rom name="Sumeragi no Mikotachi (Japan) (Disc 1) (Install Disc).cue" size="142" crc="b6eb8856" md5="ee20911c135c6119f16a232fa58a8d56" sha1="eea9d13d11482a8504851b5c45eea72f81c79c29"/>
 	</game>
-	<game name="Sumeragi no Miko-tachi (Japan) (Disc 2) (Install Disc)">
+	<game name="Sumeragi no Mikotachi (Japan) (Disc 2) (Install Disc)">
 		<category>Games</category>
-		<description>Sumeragi no Miko-tachi (Japan) (Disc 2) (Install Disc)</description>
-		<rom name="Sumeragi no Miko-tachi (Japan) (Disc 2) (Install Disc).bin" size="800672544" crc="f96d4098" md5="ae89570c18f02d18e3c5be421e8d8b89" sha1="2408bf29c0ecf8e14ac5f10c915d9acb889ff291"/>
-		<rom name="Sumeragi no Miko-tachi (Japan) (Disc 2) (Install Disc).cue" size="120" crc="7f1a14a2" md5="631b1ca1ba6973273604ecea77eeebba" sha1="3c33a140e5b7dea1125d981edaf9f03754a4d179"/>
+		<description>Sumeragi no Mikotachi (Japan) (Disc 2) (Install Disc)</description>
+		<rom name="Sumeragi no Mikotachi (Japan) (Disc 2) (Install Disc).bin" size="800672544" crc="f96d4098" md5="ae89570c18f02d18e3c5be421e8d8b89" sha1="2408bf29c0ecf8e14ac5f10c915d9acb889ff291"/>
+		<rom name="Sumeragi no Mikotachi (Japan) (Disc 2) (Install Disc).cue" size="119" crc="870f084f" md5="233a9f95be7a50f324215edfa5222a2a" sha1="d54fc4592ebd5708c8fcfc129cbd380f46bb2610"/>
 	</game>
 	<game name="Sumerki lyubvi (Russia)">
 		<category>Games</category>
@@ -153481,11 +153538,11 @@
 		<rom name="Tiger Hunt (USA).bin" size="360272304" crc="1d98e106" md5="d8b78e1f6454e778244270b531499f57" sha1="16932759e250d0cfecf06cdc76052d044607d704"/>
 		<rom name="Tiger Hunt (USA).cue" size="82" crc="94aefdf8" md5="197ac0f5ea9526450752f2e2ecba4603" sha1="f177620b2afee17ce5402bf405fcc17755cf444d"/>
 	</game>
-	<game name="Tiger Quest IV - Michibikareshi Shisha-tachi (Japan)">
+	<game name="Tiger Quest IV - Michibikareshi Shishatachi (Japan)">
 		<category>Games</category>
-		<description>Tiger Quest IV - Michibikareshi Shisha-tachi (Japan)</description>
-		<rom name="Tiger Quest IV - Michibikareshi Shisha-tachi (Japan).bin" size="324707712" crc="46a0dae6" md5="bbf1c97d70c7cc0de9ba44bcc91f2e1f" sha1="77f78dda0ead329a3d64520309d5f54af777c214"/>
-		<rom name="Tiger Quest IV - Michibikareshi Shisha-tachi (Japan).cue" size="118" crc="70cbbc8f" md5="1f5de9d875dbcc2de4205566a25cc9cf" sha1="1e107f5714b2e6047e39321b2a0258fd4f63005b"/>
+		<description>Tiger Quest IV - Michibikareshi Shishatachi (Japan)</description>
+		<rom name="Tiger Quest IV - Michibikareshi Shishatachi (Japan).bin" size="324707712" crc="46a0dae6" md5="bbf1c97d70c7cc0de9ba44bcc91f2e1f" sha1="77f78dda0ead329a3d64520309d5f54af777c214"/>
+		<rom name="Tiger Quest IV - Michibikareshi Shishatachi (Japan).cue" size="117" crc="59a3bf05" md5="aeeaeedae251a6a3f2828195cc924860" sha1="68bd765710202bb20f9526aec9b509f3eb591b91"/>
 	</game>
 	<game name="Tiger Woods 99 PGA Tour Golf (Europe, Australia) (Auxiliary Disk)">
 		<category>Games</category>

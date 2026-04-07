@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (12,990) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-06 03-27-35) (Retool)</description>
-		<version>2026-04-06 03-27-35</version>
-		<date>2026-04-06 03-23-20</date>
+		<description>IBM - PC compatible (12,993) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-06 23-04-02) (Retool)</description>
+		<version>2026-04-06 23-04-02</version>
+		<date>2026-04-07 03-23-24</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -20276,12 +20276,6 @@
 		<rom name="Diablo II (USA) (Install Disc) (Rev 1).bin" size="666632064" crc="63c3a090" md5="23e0c4a37472140d423093e12d370316" sha1="c86e455a4c855792e0a49f8e7ff4ca6ce70d68fb"/>
 		<rom name="Diablo II (USA) (Install Disc) (Rev 1).cue" size="104" crc="97d0d44f" md5="1f71c142dc23418b9d212b90c7be6008" sha1="41053198d677094ea67e0ee69a00623d6db58187"/>
 	</game>
-	<game name="Diablo II (USA) (Play Disc) (Rerelease) (2003-01-23) (Dupe 1)">
-		<category>Games</category>
-		<description>Diablo II (USA) (Play Disc) (Rerelease) (2003-01-23) (Dupe 1)</description>
-		<rom name="Diablo II (USA) (Play Disc) (Rerelease) (2003-01-23).bin" size="773050656" crc="555136f8" md5="a8927c0b8fe11726f7a9c95296c782af" sha1="3765ceb64b81de9064c1261a27939f36babad612"/>
-		<rom name="Diablo II (USA) (Play Disc) (Rerelease) (2003-01-23).cue" size="118" crc="57ff76f4" md5="4ef62d17da5acdda826a1e6c8670116c" sha1="fdaac765027bf1076416decfdcd7a851c37e417d"/>
-	</game>
 	<game name="Diablo II (USA) (Play Disc) (Rev 1)">
 		<category>Games</category>
 		<description>Diablo II (USA) (Play Disc) (Rev 1)</description>
@@ -25475,6 +25469,12 @@
 		<description>Escape the Emerald Star (USA)</description>
 		<rom name="Escape the Emerald Star (USA).bin" size="684130944" crc="a834e8e3" md5="e35451a1d1ae7f3d2a2c33d03cc62c8a" sha1="e86572b617c902ce7cfcc646f70fb04e9d35dc93"/>
 		<rom name="Escape the Emerald Star (USA).cue" size="95" crc="9863dc2e" md5="28ac9f4c5f23ec5bea59ccfa442deb44" sha1="d5951db802be10451030cb39dcb70461901f90c3"/>
+	</game>
+	<game name="Escape the Lost Kingdom - Collector's Edition (UK)">
+		<category>Games</category>
+		<description>Escape the Lost Kingdom - Collector's Edition (UK)</description>
+		<rom name="Escape the Lost Kingdom - Collector's Edition (UK).bin" size="802627056" crc="03b3cc6e" md5="24a3bf1a8ca0a7d87472b690c581efcf" sha1="16f35a9a8245fef31f2b514ca8acfed7b3a1edfe"/>
+		<rom name="Escape the Lost Kingdom - Collector's Edition (UK).cue" size="116" crc="38e82fd5" md5="cc66de2b300f0a3714497208a17b6f3b" sha1="59aee8601da9cf3017dffde0a1aacf2d236d3b9e"/>
 	</game>
 	<game name="Escape the Museum (USA)">
 		<category>Games</category>
@@ -39269,6 +39269,12 @@
 		<rom name="Inherit the Earth - Quest for the Orb (USA) (Track 9).bin" size="5233200" crc="713c14e2" md5="12662cfa9fe27315b3f2e2c070ce77f5" sha1="6f7fd3124cd17df3f92f84020eee651e7027d5c8"/>
 		<rom name="Inherit the Earth - Quest for the Orb (USA).cue" size="1077" crc="46a4a88a" md5="6a5c33696de8c322433ead242cfe38c5" sha1="d683b4fe025a41419e4faf0f78eac7b8b9c2fa5a"/>
 	</game>
+	<game name="Initial D - Mountain Vengeance (USA, Canada)">
+		<category>Games</category>
+		<description>Initial D - Mountain Vengeance (USA, Canada)</description>
+		<rom name="Initial D - Mountain Vengeance (USA, Canada).bin" size="179396448" crc="5b419b90" md5="bce5e7dac5d1210c88c3772489d6e956" sha1="c06e766c0601ebf49b53975271797e8f8fcda433"/>
+		<rom name="Initial D - Mountain Vengeance (USA, Canada).cue" size="110" crc="a41c061b" md5="a2a647a766d8220d4d001b1712ebd0fe" sha1="1499f59386d37097220092a6582093263f141beb"/>
+	</game>
 	<game name="Initiation - The Sacred Monuments of Giza and the Chambers of the Deep (USA)">
 		<category>Games</category>
 		<description>Initiation - The Sacred Monuments of Giza and the Chambers of the Deep (USA)</description>
@@ -48582,11 +48588,11 @@
 		<rom name="MechCommander - Desperate Measures (USA).bin" size="763080528" crc="ed39bdda" md5="4b63c47ed62df6fee3821d4eb78aa64f" sha1="b8013fab137d9ae2ea6f239199915816672f11f0"/>
 		<rom name="MechCommander - Desperate Measures (USA).cue" size="106" crc="c19671d2" md5="275ab1f1cd2d58e598e3e5232530c1c8" sha1="5687997ab0e99d5a1e5e7f6685a94975ef95c19f"/>
 	</game>
-	<game name="MechCommander 2 (USA)">
+	<game name="MechCommander 2 (USA) (Rev 2)">
 		<category>Games</category>
-		<description>MechCommander 2 (USA)</description>
-		<rom name="MechCommander 2 (USA).bin" size="683646432" crc="0cd4d056" md5="2216f572e676dd78ef74175ff507f91d" sha1="46a7ca3cdf2918e08e5887275b9c0189e52dc6c9"/>
-		<rom name="MechCommander 2 (USA).cue" size="87" crc="8183e73e" md5="c49c1891b65fd45712dd5b0364b19915" sha1="fb06134c9d75f70a48c0dc116b9a1a32e896ec47"/>
+		<description>MechCommander 2 (USA) (Rev 2)</description>
+		<rom name="MechCommander 2 (USA) (Rev 2).bin" size="695232384" crc="d895bd84" md5="179626b1c6d09abebde25cae6e6c67b2" sha1="875f03c67430449170563ed7de84aa834ac6c231"/>
+		<rom name="MechCommander 2 (USA) (Rev 2).cue" size="95" crc="44952cc9" md5="a91898eb03c76bdc44920b0f2244deac" sha1="63dedb61adc824855ecb0dcda6b3c30955721bd9"/>
 	</game>
 	<game name="MechCommander Gold (Europe)">
 		<category>Games</category>
@@ -64750,6 +64756,18 @@
 		<description>Reel Deal - Casino Quest! (USA)</description>
 		<rom name="Reel Deal - Casino Quest! (USA).bin" size="505715280" crc="68a2418e" md5="40454aad05e28b60d8a921add7018e0f" sha1="f90179227b4c4d6a72d5836480535efb0fc7c6b7"/>
 		<rom name="Reel Deal - Casino Quest! (USA).cue" size="97" crc="caf506ca" md5="a1dce14a0469d3cd691f374e9aa19a34" sha1="a470421f58cc6b9796200c0ed0c3bfccdf5a86e6"/>
+	</game>
+	<game name="Reel Deal Card Games '09 (USA) (Disc 1)">
+		<category>Games</category>
+		<description>Reel Deal Card Games '09 (USA) (Disc 1)</description>
+		<rom name="Reel Deal Card Games '09 (USA) (Disc 1).bin" size="783916896" crc="530aabf3" md5="3e18be44aabaa329694811cfe896346f" sha1="3f68884f21d985aa58b94c31c3e9c9b389a1875e"/>
+		<rom name="Reel Deal Card Games '09 (USA) (Disc 1).cue" size="105" crc="f170ee3c" md5="4e1dd1ce9d63f9fffde54565604e7619" sha1="fc69759112902548f550378f2ae01c6a05e0857c"/>
+	</game>
+	<game name="Reel Deal Card Games '09 (USA) (Disc 2)">
+		<category>Games</category>
+		<description>Reel Deal Card Games '09 (USA) (Disc 2)</description>
+		<rom name="Reel Deal Card Games '09 (USA) (Disc 2).bin" size="501839184" crc="9a541f09" md5="2612f73673325aa1101d13f30fd3d30f" sha1="c6e55438569547526f87f0598fd306afde8a63c8"/>
+		<rom name="Reel Deal Card Games '09 (USA) (Disc 2).cue" size="105" crc="f02dc8ed" md5="6cea845753214464fa44bf68bb4729eb" sha1="444403877a03650afb35a8f3860b630de97d1c6f"/>
 	</game>
 	<game name="Reel Deal Casino - Championship Edition (USA) (v1.6)">
 		<category>Games</category>

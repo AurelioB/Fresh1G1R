@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation (Retool)</name>
-		<description>Sony - PlayStation (5,667) (-y) [-aAbBcefkmMoprv] (2026-04-05 01-39-46) (Retool)</description>
-		<version>2026-04-05 01-39-46</version>
-		<date>2026-04-06 03-17-58</date>
+		<description>Sony - PlayStation (5,673) (-y) [-aAbBcefkmMoprv] (2026-04-06 23-29-59) (Retool)</description>
+		<version>2026-04-06 23-29-59</version>
+		<date>2026-04-07 03-17-50</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1203,12 +1203,12 @@
 		<rom name="Aitakute... - Your Smiles in My Heart - Oroshitate no Diary - Introduction Disc (Japan) (Track 2).bin" size="54542880" crc="ece179b8" md5="eaeb18fd4144ec45bd6a6d91df081898" sha1="0f0c7997207ff342f7930247bba0dc91c0d24ff1"/>
 		<rom name="Aitakute... - Your Smiles in My Heart - Oroshitate no Diary - Introduction Disc (Japan).cue" size="374" crc="23206d85" md5="089f67730440e2e374fa91cd8cfa17c3" sha1="c8d89c6cc8e80a8842e0da5da13d3a0e10136c46"/>
 	</game>
-	<game name="Akagawa Jirou - Majo-tachi no Nemuri - Fukkatsusai (Japan)">
+	<game name="Akagawa Jirou - Majotachi no Nemuri - Fukkatsusai (Japan)">
 		<category>Games</category>
-		<description>Akagawa Jirou - Majo-tachi no Nemuri - Fukkatsusai (Japan)</description>
-		<rom name="Akagawa Jirou - Majo-tachi no Nemuri - Fukkatsusai (Japan) (Track 1).bin" size="179071872" crc="cfcad40f" md5="00208fc1319de95e23f2d0232b959a50" sha1="1a8803a08115a911e5d18a5e435b568ef5466879"/>
-		<rom name="Akagawa Jirou - Majo-tachi no Nemuri - Fukkatsusai (Japan) (Track 2).bin" size="32104800" crc="9b94ea54" md5="65aea234c174ee35fb574d981fe3fc4f" sha1="bd1fde88c2b79e3cf8821c969373460d51f3155a"/>
-		<rom name="Akagawa Jirou - Majo-tachi no Nemuri - Fukkatsusai (Japan).cue" size="286" crc="a82f9cb5" md5="ce9b74a081d743ddd3af256a6235befd" sha1="7dc2a0996a9cdf19ed68ea4d657879a1f57688a5"/>
+		<description>Akagawa Jirou - Majotachi no Nemuri - Fukkatsusai (Japan)</description>
+		<rom name="Akagawa Jirou - Majotachi no Nemuri - Fukkatsusai (Japan) (Track 1).bin" size="179071872" crc="cfcad40f" md5="00208fc1319de95e23f2d0232b959a50" sha1="1a8803a08115a911e5d18a5e435b568ef5466879"/>
+		<rom name="Akagawa Jirou - Majotachi no Nemuri - Fukkatsusai (Japan) (Track 2).bin" size="32104800" crc="9b94ea54" md5="65aea234c174ee35fb574d981fe3fc4f" sha1="bd1fde88c2b79e3cf8821c969373460d51f3155a"/>
+		<rom name="Akagawa Jirou - Majotachi no Nemuri - Fukkatsusai (Japan).cue" size="284" crc="a0f955e7" md5="4fb27fc758f1c23bdc1c4659c98502ed" sha1="5612c7fc278fc97e1be7a7529d64b5d1b04dc18e"/>
 	</game>
 	<game name="Akagawa Jirou - Yasoukyoku (Japan) (Shokai Genteiban)">
 		<category>Games</category>
@@ -3036,29 +3036,29 @@
 		<rom name="Back to School Special - PlayStation Demo Disc (Asia) (Track 3).bin" size="42789936" crc="a2cc3bd5" md5="26d92549b65c142e1f9dfcf9cb50d188" sha1="3db2ed0464ac53c6f1da35bdcc0c08694d91788a"/>
 		<rom name="Back to School Special - PlayStation Demo Disc (Asia).cue" size="423" crc="e1f39564" md5="41764bedfedfaf530f94854d3412ded6" sha1="e9ba05826524db09665030a8aa90ad77403bdd2a"/>
 	</game>
-	<game name="BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1)">
+	<game name="BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1)">
 		<category>Games</category>
-		<description>BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1)</description>
-		<rom name="BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1).bin" size="738024672" crc="38aa0173" md5="603633152d5a67d7212575adb00d367a" sha1="5600903d511872086f039e58a9b50fda44f602f8"/>
-		<rom name="BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1).cue" size="151" crc="c5379cb7" md5="3e0eda7b8996da085342012c6b7324ee" sha1="3b3195cfd20369674fd8bfbd6d51a231d75d1dd3"/>
+		<description>BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1)</description>
+		<rom name="BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1).bin" size="738024672" crc="38aa0173" md5="603633152d5a67d7212575adb00d367a" sha1="5600903d511872086f039e58a9b50fda44f602f8"/>
+		<rom name="BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1).cue" size="150" crc="b01a2c42" md5="e3ec6f8dc29b2ea1c86ccd9496ada55b" sha1="6404aa5cbcb35f1c464e10af05244c0ccca4508c"/>
 	</game>
-	<game name="BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2)">
+	<game name="BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2)">
 		<category>Games</category>
-		<description>BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2)</description>
-		<rom name="BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2).bin" size="705816384" crc="9df4cddd" md5="e3b79ff9e430da79bebdb959a73da428" sha1="c7b2fa82bc914ff70280e6105a993acc072db37a"/>
-		<rom name="BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2).cue" size="151" crc="c46aba66" md5="0ba16101b6987a30c2fbbd4d3d7fc5e1" sha1="71dde425fd0444e97f713c23f00e997cad948203"/>
+		<description>BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2)</description>
+		<rom name="BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2).bin" size="705816384" crc="9df4cddd" md5="e3b79ff9e430da79bebdb959a73da428" sha1="c7b2fa82bc914ff70280e6105a993acc072db37a"/>
+		<rom name="BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2).cue" size="150" crc="b1470a93" md5="41d9ddc1a23e0fee00fe6ca607fcc4e2" sha1="676fa5ebac33a55b1b95bde23c7dc369197aeb4c"/>
 	</game>
-	<game name="BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1)">
+	<game name="BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1)">
 		<category>Games</category>
-		<description>BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1)</description>
-		<rom name="BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1).bin" size="741007008" crc="269b6a9f" md5="6f914aaba899f7ce69e6cdfc9e4e1b68" sha1="847f599a4966e4ee706572e6a5078a4c68a42ee7"/>
-		<rom name="BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1).cue" size="148" crc="350fa28c" md5="1dfa9183ed0327213655bd4ab44fd525" sha1="6d9051a188d241d1bec272c3c7e9d67688f754e2"/>
+		<description>BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1)</description>
+		<rom name="BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1).bin" size="741007008" crc="269b6a9f" md5="6f914aaba899f7ce69e6cdfc9e4e1b68" sha1="847f599a4966e4ee706572e6a5078a4c68a42ee7"/>
+		<rom name="BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1).cue" size="147" crc="4221322d" md5="ddee5e14f6121bc1fd478a70b63a0a87" sha1="669fafe23fc439ad1aa4dc1f4f84d87d2c65e670"/>
 	</game>
-	<game name="BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2)">
+	<game name="BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2)">
 		<category>Games</category>
-		<description>BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2)</description>
-		<rom name="BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2).bin" size="720779808" crc="a30fb7af" md5="17a97a5626246e1601b9ec3b0551b650" sha1="45ab6ce32712af716627b86004854359e0065258"/>
-		<rom name="BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2).cue" size="148" crc="3452845d" md5="07764f334a27df31d08441d26246a0d2" sha1="0371cce121ab05a1c1aaffd70acd222c3227994f"/>
+		<description>BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2)</description>
+		<rom name="BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2).bin" size="720779808" crc="a30fb7af" md5="17a97a5626246e1601b9ec3b0551b650" sha1="45ab6ce32712af716627b86004854359e0065258"/>
+		<rom name="BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2).cue" size="147" crc="437c14fc" md5="444db7ec15db70195e11a6a24870dcc7" sha1="1b28443a69a3112ce30bc17560294c1e44b74086"/>
 	</game>
 	<game name="Backgammon 2000 (Japan)">
 		<category>Games</category>
@@ -3109,11 +3109,11 @@
 		<rom name="Bakuretsu Hunter - Sorezore no Omoi ... Nowaanchatte (Japan).bin" size="744612624" crc="7b1f6e32" md5="295ada011e08d29bb38f3543bdd3b2cc" sha1="68b01e4ded49da5ebd375bd88e3c5edd2ee11ba6"/>
 		<rom name="Bakuretsu Hunter - Sorezore no Omoi ... Nowaanchatte (Japan).cue" size="126" crc="b210871b" md5="14dd416040aa1817c1156460309086a4" sha1="60313d97c4ffa232b8a46bb0405991063efdc891"/>
 	</game>
-	<game name="Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX (Japan)">
+	<game name="Bakushou!! All Yoshimoto Quiz-ou Ketteisen DX (Japan)">
 		<category>Games</category>
-		<description>Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX (Japan)</description>
-		<rom name="Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX (Japan).bin" size="634026288" crc="eaf1273e" md5="8162f971fa5205a9e76f4e5097b5fb69" sha1="139641f2c92728ad5e289a444bed717c022bded8"/>
-		<rom name="Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX (Japan).cue" size="120" crc="058da369" md5="4cf45e410e954a11e686fe5a5f7a2307" sha1="7ad3ae924686666f19d2546cbed299ca1122b5d2"/>
+		<description>Bakushou!! All Yoshimoto Quiz-ou Ketteisen DX (Japan)</description>
+		<rom name="Bakushou!! All Yoshimoto Quiz-ou Ketteisen DX (Japan).bin" size="634026288" crc="eaf1273e" md5="8162f971fa5205a9e76f4e5097b5fb69" sha1="139641f2c92728ad5e289a444bed717c022bded8"/>
+		<rom name="Bakushou!! All Yoshimoto Quiz-ou Ketteisen DX (Japan).cue" size="119" crc="246d8802" md5="e6f4ed2cf95e9fc569de22668ee1f5d2" sha1="fc0edccbaf4ec3c43a66cde521204e5d45af8058"/>
 	</game>
 	<game name="Bakusou Dekotora Densetsu - Otoko Ippiki Yume Kaidou (Japan)">
 		<category>Games</category>
@@ -4060,13 +4060,13 @@
 		<rom name="Bishoujo Senshi Sailor Moon SuperS - Shin Shuyaku Soudatsusen (Japan) (Shokai Genteiban) (Track 21).bin" size="34223952" crc="320b9a1b" md5="85b2c0c6b213137c7dbb2ae90591c219" sha1="057ff03b422e22d5cd4608eae407c2e26beb0b8a"/>
 		<rom name="Bishoujo Senshi Sailor Moon SuperS - Shin Shuyaku Soudatsusen (Japan) (Shokai Genteiban).cue" size="3825" crc="0448c3f4" md5="27a53a70d8f2462eaca7e17c1803f6ab" sha1="835ec632f02b202c575abb860766c33286f56832"/>
 	</game>
-	<game name="Bistro, The - Ryouri &amp; Wine no Shokunin-tachi (Japan)">
+	<game name="Bistro, The - Ryouri &amp; Wine no Shokunintachi (Japan)">
 		<category>Games</category>
-		<description>Bistro, The - Ryouri &amp; Wine no Shokunin-tachi (Japan)</description>
-		<rom name="Bistro, The - Ryouri &amp; Wine no Shokunin-tachi (Japan) (Track 1).bin" size="105306096" crc="d0e7d4d9" md5="3bf9a935d991059bfb8e96d2cde6f430" sha1="36f417029abfa72d27fb812c2f974f2ce7ebfb11"/>
-		<rom name="Bistro, The - Ryouri &amp; Wine no Shokunin-tachi (Japan) (Track 2).bin" size="23181312" crc="317e6736" md5="ef92b48fb8480ddf6029ab9ab3afb233" sha1="fdde93a93c1042e861656794bb22c60e58da1430"/>
-		<rom name="Bistro, The - Ryouri &amp; Wine no Shokunin-tachi (Japan) (Track 3).bin" size="50885520" crc="986a6d45" md5="3cce97fc792dbcc2921d71c6ce46f119" sha1="d5610aa26d456e0a0aec55bb861ffbba6e503028"/>
-		<rom name="Bistro, The - Ryouri &amp; Wine no Shokunin-tachi (Japan).cue" size="423" crc="b544001b" md5="402fa4b9da63ad998b6c40c44a27e40b" sha1="2287486ae93cda811419aacd0233bdc042084230"/>
+		<description>Bistro, The - Ryouri &amp; Wine no Shokunintachi (Japan)</description>
+		<rom name="Bistro, The - Ryouri &amp; Wine no Shokunintachi (Japan) (Track 1).bin" size="105306096" crc="d0e7d4d9" md5="3bf9a935d991059bfb8e96d2cde6f430" sha1="36f417029abfa72d27fb812c2f974f2ce7ebfb11"/>
+		<rom name="Bistro, The - Ryouri &amp; Wine no Shokunintachi (Japan) (Track 2).bin" size="23181312" crc="317e6736" md5="ef92b48fb8480ddf6029ab9ab3afb233" sha1="fdde93a93c1042e861656794bb22c60e58da1430"/>
+		<rom name="Bistro, The - Ryouri &amp; Wine no Shokunintachi (Japan) (Track 3).bin" size="50885520" crc="986a6d45" md5="3cce97fc792dbcc2921d71c6ce46f119" sha1="d5610aa26d456e0a0aec55bb861ffbba6e503028"/>
+		<rom name="Bistro, The - Ryouri &amp; Wine no Shokunintachi (Japan).cue" size="420" crc="76828bff" md5="ceed195ac2f68b00db9868a55e38a645" sha1="f108c889271ba3e06b8f8692f5741bddc9ede4fc"/>
 	</game>
 	<game name="Black Bass with Blue Marlin (USA)">
 		<category>Games</category>
@@ -5708,6 +5708,13 @@
 		<rom name="California Watersports (Europe) (En,Fr,De) (Track 8).bin" size="24898272" crc="1803246e" md5="b55789e7807ccaaef59ff90e3e832dc9" sha1="d0724f8e4f6c687998a57a4fbe4d4506a2ba3673"/>
 		<rom name="California Watersports (Europe) (En,Fr,De) (Track 9).bin" size="57247680" crc="bbd67734" md5="30e19e1e887fc8d199fed42713b6dd4a" sha1="2684ab2829aed371913c6f942f5a2024c338523e"/>
 		<rom name="California Watersports (Europe) (En,Fr,De).cue" size="1206" crc="12148a33" md5="c2f50738da2c095a531334ba934ce2cc" sha1="0e5274961a22834efeba8f4de3bdb4135ba3449a"/>
+	</game>
+	<game name="Capcom Generation - Dai-5-shuu Kakutoukatachi (Japan)">
+		<category>Games</category>
+		<description>Capcom Generation - Dai-5-shuu Kakutoukatachi (Japan)</description>
+		<rom name="Capcom Generation - Dai-5-shuu Kakutoukatachi (Japan) (Track 1).bin" size="458181360" crc="1230599c" md5="9b7fe9d5f3b4381df6f1cf181df880c2" sha1="c9179d34ddf904cd308869bf89311c997d7d2885"/>
+		<rom name="Capcom Generation - Dai-5-shuu Kakutoukatachi (Japan) (Track 2).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538"/>
+		<rom name="Capcom Generation - Dai-5-shuu Kakutoukatachi (Japan).cue" size="276" crc="e0341ca7" md5="9477064852e17626682e8d2c956ad94c" sha1="3468c63a1d0067aa35369b17bea4c5f8ae1c000a"/>
 	</game>
 	<game name="Capcom Generations (Europe) (Disc 1) (Wings of Destiny)">
 		<category>Games</category>
@@ -10783,17 +10790,29 @@
 		<rom name="Dragon Quest Characters - Torneko no Daibouken 2 - Fushigi no Dungeon (Japan) (Demo).bin" size="190756608" crc="77c8028f" md5="329d08eb5871345d0a23be1007fadf18" sha1="0500381514112c18157a66fc03499851e46d0273"/>
 		<rom name="Dragon Quest Characters - Torneko no Daibouken 2 - Fushigi no Dungeon (Japan) (Demo).cue" size="150" crc="35051679" md5="c9cc0c258ccf5d590ef7892911888ca2" sha1="fd32393f0a512ca5f89b1c3a33296d2ba8f79f03"/>
 	</game>
-	<game name="Dragon Quest IV - Michibikareshi Mono-tachi (Japan)">
+	<game name="Dragon Quest IV - Michibikareshi Monotachi (Japan)">
 		<category>Games</category>
-		<description>Dragon Quest IV - Michibikareshi Mono-tachi (Japan)</description>
-		<rom name="Dragon Quest IV - Michibikareshi Mono-tachi (Japan).bin" size="368057424" crc="3d67c858" md5="f3d566cce1ae08a9ffa4699efdf1590e" sha1="85064625afa12219880fc8d07047a3cc1c595cb9"/>
-		<rom name="Dragon Quest IV - Michibikareshi Mono-tachi (Japan).cue" size="117" crc="2f6bf359" md5="c6b1d294b26a5f76f50d72d503134892" sha1="4cf68c6aa9989f3e16649c63d174c06210edae24"/>
+		<description>Dragon Quest IV - Michibikareshi Monotachi (Japan)</description>
+		<rom name="Dragon Quest IV - Michibikareshi Monotachi (Japan).bin" size="368057424" crc="3d67c858" md5="f3d566cce1ae08a9ffa4699efdf1590e" sha1="85064625afa12219880fc8d07047a3cc1c595cb9"/>
+		<rom name="Dragon Quest IV - Michibikareshi Monotachi (Japan).cue" size="116" crc="abed7d57" md5="2f27ceee9e7c9f07fb8270a8fa648837" sha1="a123e9a690f48c633d9cd0c0d1d9d265263978ad"/>
 	</game>
 	<game name="Dragon Quest Monsters 1 &amp; 2 - Hoshifuri no Yuusha to Bokujou no Nakamatachi (Japan)">
 		<category>Games</category>
 		<description>Dragon Quest Monsters 1 &amp; 2 - Hoshifuri no Yuusha to Bokujou no Nakamatachi (Japan)</description>
 		<rom name="Dragon Quest Monsters 1 &amp; 2 - Hoshifuri no Yuusha to Bokujou no Nakamatachi (Japan).bin" size="260975568" crc="aced2a81" md5="bbfe2d982557401536874c856b555ad0" sha1="433ee5ace196f509a1a1fb1992cd621124e57c3a"/>
 		<rom name="Dragon Quest Monsters 1 &amp; 2 - Hoshifuri no Yuusha to Bokujou no Nakamatachi (Japan).cue" size="149" crc="df02f8d3" md5="e418a9e33ee339f59ce062c12ee59295" sha1="9c9b76e3d2db5a8c61e504abed3d58b76bf773b4"/>
+	</game>
+	<game name="Dragon Quest VII - Eden no Senshitachi (Japan) (Disc 1) (Rev 1)">
+		<category>Games</category>
+		<description>Dragon Quest VII - Eden no Senshitachi (Japan) (Disc 1) (Rev 1)</description>
+		<rom name="Dragon Quest VII - Eden no Senshitachi (Japan) (Disc 1) (Rev 1).bin" size="713189904" crc="65320aa5" md5="9b42b12ac5e45672c79d7c61ec22ab95" sha1="555e499bd4f9e0ef39e4ad4e8791edefa5e2685a"/>
+		<rom name="Dragon Quest VII - Eden no Senshitachi (Japan) (Disc 1) (Rev 1).cue" size="129" crc="0a396d7e" md5="b9597824a657944e21d08aab9f4a739f" sha1="6fac348f2e51f614b53975e736d0a0dfe88f96e5"/>
+	</game>
+	<game name="Dragon Quest VII - Eden no Senshitachi (Japan) (Disc 2) (Rev 1)">
+		<category>Games</category>
+		<description>Dragon Quest VII - Eden no Senshitachi (Japan) (Disc 2) (Rev 1)</description>
+		<rom name="Dragon Quest VII - Eden no Senshitachi (Japan) (Disc 2) (Rev 1).bin" size="678439104" crc="c0fc283e" md5="ffe5729a7230ab71ccc81d58ea85cb93" sha1="12d6bb004362c3914f94ebde40aa0a041722ce7e"/>
+		<rom name="Dragon Quest VII - Eden no Senshitachi (Japan) (Disc 2) (Rev 1).cue" size="129" crc="e19325c3" md5="b74793c5a36445ca626e1b98fdd7e2fe" sha1="b96f6690e1a1bd517c2a8a1c8a3045c75d3f398d"/>
 	</game>
 	<game name="Dragon Seeds (USA)">
 		<category>Games</category>
@@ -16567,11 +16586,11 @@
 		<rom name="Gekitou! Crush Gear Turbo - Comic Bom Bom Special Disc (Japan) (Demo).bin" size="210525168" crc="7e68710a" md5="53a8728a185668ae97605e1e31df0ea4" sha1="27c907c733de41d4bd2456d5f508f7c68599f1aa"/>
 		<rom name="Gekitou! Crush Gear Turbo - Comic Bom Bom Special Disc (Japan) (Demo).cue" size="135" crc="a2abca1b" md5="950aeba703950ede0629fb233fc72429" sha1="5c786bf9c85d34a14fa0c50eea4269ceb93e7c11"/>
 	</game>
-	<game name="Gekka no Kishi - Ouryuu-sen (Japan)">
+	<game name="Gekka no Kishi - Ouryuusen (Japan)">
 		<category>Games</category>
-		<description>Gekka no Kishi - Ouryuu-sen (Japan)</description>
-		<rom name="Gekka no Kishi - Ouryuu-sen (Japan).bin" size="116518080" crc="c3cec49f" md5="c9cad025535ac175d2bf290cd6536d9d" sha1="37d7e499e22cb30856de67fd712a8015846e6253"/>
-		<rom name="Gekka no Kishi - Ouryuu-sen (Japan).cue" size="101" crc="0a7aa13a" md5="e51093e123987744187a1e40afb59438" sha1="08e829fb50d586d1e26aad01f5fc90f2b3b60f0d"/>
+		<description>Gekka no Kishi - Ouryuusen (Japan)</description>
+		<rom name="Gekka no Kishi - Ouryuusen (Japan).bin" size="116518080" crc="c3cec49f" md5="c9cad025535ac175d2bf290cd6536d9d" sha1="37d7e499e22cb30856de67fd712a8015846e6253"/>
+		<rom name="Gekka no Kishi - Ouryuusen (Japan).cue" size="100" crc="9f9e7e44" md5="76546e8107e92af1e50228c07feda5cf" sha1="acb31bff7a81d68b52242017406aa80aee37730b"/>
 	</game>
 	<game name="Gen'ei Tougi - Shadow Struggle (Japan)">
 		<category>Games</category>
@@ -18195,23 +18214,23 @@
 		<rom name="Harvest Moon - Back to Nature (USA) (Trade Demo).bin" size="213989664" crc="ca3e522d" md5="17589b3cf7ea705aea9f9477d3137980" sha1="3869cd05340ba3c9494aa1128af7f16800117fa0"/>
 		<rom name="Harvest Moon - Back to Nature (USA) (Trade Demo).cue" size="114" crc="464e03fe" md5="879ae5edfd521934de23050e5b18f94d" sha1="87d0fc3bec0b5855d40d2a1d15e49fdf2faf811c"/>
 	</game>
-	<game name="Hashiriya - Ookami-tachi no Densetsu (Japan)">
+	<game name="Hashiriya - Ookamitachi no Densetsu (Japan)">
 		<category>Games</category>
-		<description>Hashiriya - Ookami-tachi no Densetsu (Japan)</description>
-		<rom name="Hashiriya - Ookami-tachi no Densetsu (Japan) (Track 01).bin" size="69586272" crc="6b9a57db" md5="4538dfadcd41408a7231a31409ea5690" sha1="f4d65bf7ce26317c030b3a43490cf45916d6a7d5"/>
-		<rom name="Hashiriya - Ookami-tachi no Densetsu (Japan) (Track 02).bin" size="18159792" crc="80a2727b" md5="587383214b24be5f5f442aebf0828a6f" sha1="541366d53048419446ccfcb697b2ffdbbda807be"/>
-		<rom name="Hashiriya - Ookami-tachi no Densetsu (Japan) (Track 03).bin" size="33377232" crc="de33789e" md5="ee4309b9cd9c14430f50cd2e4b64b027" sha1="c0865a4fe1f149af06476d13d842f5a63e0af119"/>
-		<rom name="Hashiriya - Ookami-tachi no Densetsu (Japan) (Track 04).bin" size="33492480" crc="43f819e0" md5="4b64e0959bd480a5990c69b51b49d0a4" sha1="9d0504d05dc794e51bcd93191ecf1e1b4c729e91"/>
-		<rom name="Hashiriya - Ookami-tachi no Densetsu (Japan) (Track 05).bin" size="33546576" crc="abb154c9" md5="8af47f7d927e0c53cae98a4daceceedb" sha1="687244a90a510f4954c8a217e02844c8fc3158ad"/>
-		<rom name="Hashiriya - Ookami-tachi no Densetsu (Japan) (Track 06).bin" size="34216896" crc="728dabc6" md5="59ce64bd4d9fe2a841d0876cd32f9aa8" sha1="752dd146d1aee59fba6779aca14c182794a4b0be"/>
-		<rom name="Hashiriya - Ookami-tachi no Densetsu (Japan) (Track 07).bin" size="29145984" crc="0f7b9a9b" md5="baaca6e35ad0494c0ecf68166ad2e496" sha1="26a54c176c8ba3aafbd1bfc15067924600cd9917"/>
-		<rom name="Hashiriya - Ookami-tachi no Densetsu (Japan) (Track 08).bin" size="34962480" crc="38edf6bf" md5="2708d90d79f91c53914062bc859d0d0a" sha1="bfe9d5bb13cb8fceb401ba2a7c0ca94ec69836a3"/>
-		<rom name="Hashiriya - Ookami-tachi no Densetsu (Japan) (Track 09).bin" size="22739136" crc="d44fc59d" md5="e5bf93189836d5bdeec4d66ccbb79db1" sha1="c2c948603e01034d5c739ed822cb5d0191a53baa"/>
-		<rom name="Hashiriya - Ookami-tachi no Densetsu (Japan) (Track 10).bin" size="25112304" crc="ab4e07f5" md5="b62738724291aebb16f6f0e71af3ede0" sha1="fa549da97816ed3ef186a8b0110d5bff808d7d4d"/>
-		<rom name="Hashiriya - Ookami-tachi no Densetsu (Japan) (Track 11).bin" size="7542864" crc="49178b0b" md5="aa355d5b56b3825bd8e68590e0dcad6b" sha1="06e45d7444336fac293d48ad98dc73afab5cd16f"/>
-		<rom name="Hashiriya - Ookami-tachi no Densetsu (Japan) (Track 12).bin" size="7542864" crc="49178b0b" md5="aa355d5b56b3825bd8e68590e0dcad6b" sha1="06e45d7444336fac293d48ad98dc73afab5cd16f"/>
-		<rom name="Hashiriya - Ookami-tachi no Densetsu (Japan) (Track 13).bin" size="33546576" crc="abb154c9" md5="8af47f7d927e0c53cae98a4daceceedb" sha1="687244a90a510f4954c8a217e02844c8fc3158ad"/>
-		<rom name="Hashiriya - Ookami-tachi no Densetsu (Japan).cue" size="1789" crc="00dc2769" md5="e850394d34d99a1b86afe9bde2357dea" sha1="53f4ae2117b6b8d39ee11c3477375e586cb24e46"/>
+		<description>Hashiriya - Ookamitachi no Densetsu (Japan)</description>
+		<rom name="Hashiriya - Ookamitachi no Densetsu (Japan) (Track 01).bin" size="69586272" crc="6b9a57db" md5="4538dfadcd41408a7231a31409ea5690" sha1="f4d65bf7ce26317c030b3a43490cf45916d6a7d5"/>
+		<rom name="Hashiriya - Ookamitachi no Densetsu (Japan) (Track 02).bin" size="18159792" crc="80a2727b" md5="587383214b24be5f5f442aebf0828a6f" sha1="541366d53048419446ccfcb697b2ffdbbda807be"/>
+		<rom name="Hashiriya - Ookamitachi no Densetsu (Japan) (Track 03).bin" size="33377232" crc="de33789e" md5="ee4309b9cd9c14430f50cd2e4b64b027" sha1="c0865a4fe1f149af06476d13d842f5a63e0af119"/>
+		<rom name="Hashiriya - Ookamitachi no Densetsu (Japan) (Track 04).bin" size="33492480" crc="43f819e0" md5="4b64e0959bd480a5990c69b51b49d0a4" sha1="9d0504d05dc794e51bcd93191ecf1e1b4c729e91"/>
+		<rom name="Hashiriya - Ookamitachi no Densetsu (Japan) (Track 05).bin" size="33546576" crc="abb154c9" md5="8af47f7d927e0c53cae98a4daceceedb" sha1="687244a90a510f4954c8a217e02844c8fc3158ad"/>
+		<rom name="Hashiriya - Ookamitachi no Densetsu (Japan) (Track 06).bin" size="34216896" crc="728dabc6" md5="59ce64bd4d9fe2a841d0876cd32f9aa8" sha1="752dd146d1aee59fba6779aca14c182794a4b0be"/>
+		<rom name="Hashiriya - Ookamitachi no Densetsu (Japan) (Track 07).bin" size="29145984" crc="0f7b9a9b" md5="baaca6e35ad0494c0ecf68166ad2e496" sha1="26a54c176c8ba3aafbd1bfc15067924600cd9917"/>
+		<rom name="Hashiriya - Ookamitachi no Densetsu (Japan) (Track 08).bin" size="34962480" crc="38edf6bf" md5="2708d90d79f91c53914062bc859d0d0a" sha1="bfe9d5bb13cb8fceb401ba2a7c0ca94ec69836a3"/>
+		<rom name="Hashiriya - Ookamitachi no Densetsu (Japan) (Track 09).bin" size="22739136" crc="d44fc59d" md5="e5bf93189836d5bdeec4d66ccbb79db1" sha1="c2c948603e01034d5c739ed822cb5d0191a53baa"/>
+		<rom name="Hashiriya - Ookamitachi no Densetsu (Japan) (Track 10).bin" size="25112304" crc="ab4e07f5" md5="b62738724291aebb16f6f0e71af3ede0" sha1="fa549da97816ed3ef186a8b0110d5bff808d7d4d"/>
+		<rom name="Hashiriya - Ookamitachi no Densetsu (Japan) (Track 11).bin" size="7542864" crc="49178b0b" md5="aa355d5b56b3825bd8e68590e0dcad6b" sha1="06e45d7444336fac293d48ad98dc73afab5cd16f"/>
+		<rom name="Hashiriya - Ookamitachi no Densetsu (Japan) (Track 12).bin" size="7542864" crc="49178b0b" md5="aa355d5b56b3825bd8e68590e0dcad6b" sha1="06e45d7444336fac293d48ad98dc73afab5cd16f"/>
+		<rom name="Hashiriya - Ookamitachi no Densetsu (Japan) (Track 13).bin" size="33546576" crc="abb154c9" md5="8af47f7d927e0c53cae98a4daceceedb" sha1="687244a90a510f4954c8a217e02844c8fc3158ad"/>
+		<rom name="Hashiriya - Ookamitachi no Densetsu (Japan).cue" size="1776" crc="fcb09ba7" md5="375bcc8f82e79787459c665f45031c25" sha1="edb4bf24ea9d627da6a5865a4f0290d727de2faa"/>
 	</game>
 	<game name="Hatsukoi Valentine Special (Japan)">
 		<category>Games</category>
@@ -18779,17 +18798,17 @@
 		<rom name="Hissatsu Pachinko Station 9 - Ushiwaka to Lemi (Japan).bin" size="88406976" crc="9f951d7c" md5="8e480e1ae4006090787aff2ac73021cd" sha1="5d3f935f9ea0e9a8e7b4217a00191af7e8961288"/>
 		<rom name="Hissatsu Pachinko Station 9 - Ushiwaka to Lemi (Japan).cue" size="120" crc="cd017838" md5="3a1941e7486ca7bdc8c26e861e3bf26d" sha1="7e711c8a3a163e39a93c4bc0d4b2c6a820cdaa9c"/>
 	</game>
-	<game name="Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meiki-tachi (Japan)">
+	<game name="Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meikitachi (Japan)">
 		<category>Games</category>
-		<description>Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meiki-tachi (Japan)</description>
-		<rom name="Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meiki-tachi (Japan) (Track 1).bin" size="85036560" crc="40847eb2" md5="8b61e8c370393f37392212b3dd23e324" sha1="9c94527f96fb4969df2dcc33d9cfb707f7712ec1"/>
-		<rom name="Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meiki-tachi (Japan) (Track 2).bin" size="42691152" crc="7f4c1d12" md5="8f6e17777bb9b3dbeb3cbcc65e19c8ba" sha1="66785afc6e1d23b01dc22fb4709a01f0a5730d14"/>
-		<rom name="Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meiki-tachi (Japan) (Track 3).bin" size="42691152" crc="9059994d" md5="dc32640c97a0f4abc44b5b7a7b0994f2" sha1="84c544378094e88a04d932ca857fc7fb9d6f9049"/>
-		<rom name="Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meiki-tachi (Japan) (Track 4).bin" size="42688800" crc="04dfb429" md5="b7b5cdad347e352decaaecda7e554376" sha1="9f542b62d583670adabf10a5b3c364570d9452a2"/>
-		<rom name="Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meiki-tachi (Japan) (Track 5).bin" size="42688800" crc="25ae7713" md5="f40c69f131a1791c0f0d366fd10ceb8f" sha1="a0b987c7869c89816d357450fd9cf04ab7289cec"/>
-		<rom name="Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meiki-tachi (Japan) (Track 6).bin" size="42691152" crc="263c83b3" md5="95636aadfb01cb8ba263b5d867cd3214" sha1="ba741308895bfcd608b0995ec15ec5638ca36175"/>
-		<rom name="Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meiki-tachi (Japan) (Track 7).bin" size="42691152" crc="7f4c1d12" md5="8f6e17777bb9b3dbeb3cbcc65e19c8ba" sha1="66785afc6e1d23b01dc22fb4709a01f0a5730d14"/>
-		<rom name="Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meiki-tachi (Japan).cue" size="1193" crc="7fc60a81" md5="e21d5f7d0475f297848f932110cfebb6" sha1="40ccd29e05a2077f34b20514d21a247084aa0124"/>
+		<description>Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meikitachi (Japan)</description>
+		<rom name="Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meikitachi (Japan) (Track 1).bin" size="85036560" crc="40847eb2" md5="8b61e8c370393f37392212b3dd23e324" sha1="9c94527f96fb4969df2dcc33d9cfb707f7712ec1"/>
+		<rom name="Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meikitachi (Japan) (Track 2).bin" size="42691152" crc="7f4c1d12" md5="8f6e17777bb9b3dbeb3cbcc65e19c8ba" sha1="66785afc6e1d23b01dc22fb4709a01f0a5730d14"/>
+		<rom name="Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meikitachi (Japan) (Track 3).bin" size="42691152" crc="9059994d" md5="dc32640c97a0f4abc44b5b7a7b0994f2" sha1="84c544378094e88a04d932ca857fc7fb9d6f9049"/>
+		<rom name="Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meikitachi (Japan) (Track 4).bin" size="42688800" crc="04dfb429" md5="b7b5cdad347e352decaaecda7e554376" sha1="9f542b62d583670adabf10a5b3c364570d9452a2"/>
+		<rom name="Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meikitachi (Japan) (Track 5).bin" size="42688800" crc="25ae7713" md5="f40c69f131a1791c0f0d366fd10ceb8f" sha1="a0b987c7869c89816d357450fd9cf04ab7289cec"/>
+		<rom name="Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meikitachi (Japan) (Track 6).bin" size="42691152" crc="263c83b3" md5="95636aadfb01cb8ba263b5d867cd3214" sha1="ba741308895bfcd608b0995ec15ec5638ca36175"/>
+		<rom name="Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meikitachi (Japan) (Track 7).bin" size="42691152" crc="7f4c1d12" md5="8f6e17777bb9b3dbeb3cbcc65e19c8ba" sha1="66785afc6e1d23b01dc22fb4709a01f0a5730d14"/>
+		<rom name="Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meikitachi (Japan).cue" size="1186" crc="18a9645f" md5="32596fb3bd681bda3ace31dbfd47803f" sha1="2fd68b23098511de3981ff594629369da01e0948"/>
 	</game>
 	<game name="Hissatsu Pachinko Station Classic 2 - Tsui ni yomigaeru!! Bakuretsu Meiki Fukkatsu (Japan)">
 		<category>Games</category>
@@ -22888,6 +22907,12 @@
 		<rom name="Klonoa - Door to Phantomile (USA).bin" size="736197168" crc="77e279e8" md5="ecb502ce253246899d23db80847c56dc" sha1="cb2dc62789092d8b480971427f9c85815e815dce"/>
 		<rom name="Klonoa - Door to Phantomile (USA).cue" size="99" crc="b2af1628" md5="b805b7681c637b4374b4ef69398e65ce" sha1="39aed53e756025289f88676086b8205782ec001d"/>
 	</game>
+	<game name="Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan)">
+		<category>Games</category>
+		<description>Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan)</description>
+		<rom name="Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan).bin" size="661575264" crc="9034da3c" md5="d53b245a3638341779578dee5a73e335" sha1="4cd2c71da49e9ae82be3ee41056280134b45c22c"/>
+		<rom name="Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan).cue" size="119" crc="2a50d2a4" md5="eb89a07ebf0b56494d61b2c2fbbd423b" sha1="cb7d69cd6df228b246052cd4228dc05b20ee5ff2"/>
+	</game>
 	<game name="Klonoa Beach Volleyball (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Klonoa Beach Volleyball (Europe) (En,Fr,De,Es,It)</description>
@@ -24000,11 +24025,11 @@
 		<rom name="Legend of Heroes I &amp; II, The - Eiyuu Densetsu (Japan).bin" size="252498960" crc="4bdcbf59" md5="7b7cf3a179cf65adbc62201808fbdd88" sha1="269032ba730f4dbe80b798a2c4c3b415e094f359"/>
 		<rom name="Legend of Heroes I &amp; II, The - Eiyuu Densetsu (Japan).cue" size="119" crc="cb177860" md5="05048195fb9bb92b7f841ff4d9b46e06" sha1="f691474881f7efc9b81c831ee5574bb47044ea60"/>
 	</game>
-	<game name="Legend of Heroes III, The - Shiroki Majo - Mou Hitotsu no Eiyuu-tachi no Monogatari (Japan)">
+	<game name="Legend of Heroes III, The - Shiroki Majo - Mou Hitotsu no Eiyuutachi no Monogatari (Japan)">
 		<category>Games</category>
-		<description>Legend of Heroes III, The - Shiroki Majo - Mou Hitotsu no Eiyuu-tachi no Monogatari (Japan)</description>
-		<rom name="Legend of Heroes III, The - Shiroki Majo - Mou Hitotsu no Eiyuu-tachi no Monogatari (Japan).bin" size="473742192" crc="10805100" md5="3661074303cab6330f342992ed82643e" sha1="1e9e1d83d0fac933e2499a3ee8bda810bfbb98ab"/>
-		<rom name="Legend of Heroes III, The - Shiroki Majo - Mou Hitotsu no Eiyuu-tachi no Monogatari (Japan).cue" size="157" crc="3281bf23" md5="aded4d16396aa8124a7cd4f4fd759e5b" sha1="8fcbe0c42b5c7d28a3f3d24c4bff60b8e20f23f8"/>
+		<description>Legend of Heroes III, The - Shiroki Majo - Mou Hitotsu no Eiyuutachi no Monogatari (Japan)</description>
+		<rom name="Legend of Heroes III, The - Shiroki Majo - Mou Hitotsu no Eiyuutachi no Monogatari (Japan).bin" size="473742192" crc="10805100" md5="3661074303cab6330f342992ed82643e" sha1="1e9e1d83d0fac933e2499a3ee8bda810bfbb98ab"/>
+		<rom name="Legend of Heroes III, The - Shiroki Majo - Mou Hitotsu no Eiyuutachi no Monogatari (Japan).cue" size="156" crc="973d56a7" md5="76027465b96b009ae7e8428103a315b7" sha1="89d082076c8285cc26deeaf81c5498d6b17479de"/>
 	</game>
 	<game name="Legend of Heroes IV, The - Akai Shizuku (Japan)">
 		<category>Games</category>
@@ -25682,12 +25707,12 @@
 		<rom name="Mahjong Toriatama Kikou (Japan).bin" size="329225904" crc="54c819c1" md5="74a492fa56a8169d9c2aa9bf0020a5f5" sha1="5281353e813585eebef0812f38d2a2bf8372254f"/>
 		<rom name="Mahjong Toriatama Kikou (Japan).cue" size="97" crc="73471896" md5="2a7f10a3410050b6ed64b8a84eae527f" sha1="3f96bdc492f77c626ffa6725ec51b47c30d65d67"/>
 	</game>
-	<game name="Mahjong Uranai Fortuna - Tsuki no Megami-tachi (Japan)">
+	<game name="Mahjong Uranai Fortuna - Tsuki no Megamitachi (Japan)">
 		<category>Games</category>
-		<description>Mahjong Uranai Fortuna - Tsuki no Megami-tachi (Japan)</description>
-		<rom name="Mahjong Uranai Fortuna - Tsuki no Megami-tachi (Japan) (Track 1).bin" size="477030288" crc="2ea66f26" md5="d2882e2ab38fe96240bd90fb656a9051" sha1="08fb47b117c34ff3ed232bf9244a49a13ac04dfe"/>
-		<rom name="Mahjong Uranai Fortuna - Tsuki no Megami-tachi (Japan) (Track 2).bin" size="32109504" crc="d6082695" md5="eebc5927d7afe9ce8ac003e7f37fbe93" sha1="0bd43fbb148a3c048a59411b4f7633aa27e7280d"/>
-		<rom name="Mahjong Uranai Fortuna - Tsuki no Megami-tachi (Japan).cue" size="278" crc="457462e0" md5="96c8ded73828b28da251887d8d43bc9d" sha1="67889c7d79197fc4a84d327b48f7d99e933ae07a"/>
+		<description>Mahjong Uranai Fortuna - Tsuki no Megamitachi (Japan)</description>
+		<rom name="Mahjong Uranai Fortuna - Tsuki no Megamitachi (Japan) (Track 1).bin" size="477030288" crc="2ea66f26" md5="d2882e2ab38fe96240bd90fb656a9051" sha1="08fb47b117c34ff3ed232bf9244a49a13ac04dfe"/>
+		<rom name="Mahjong Uranai Fortuna - Tsuki no Megamitachi (Japan) (Track 2).bin" size="32109504" crc="d6082695" md5="eebc5927d7afe9ce8ac003e7f37fbe93" sha1="0bd43fbb148a3c048a59411b4f7633aa27e7280d"/>
+		<rom name="Mahjong Uranai Fortuna - Tsuki no Megamitachi (Japan).cue" size="276" crc="913561b3" md5="90576258e8f7e8fa677a8e0c8269d96c" sha1="66bbb6efb98c8c34b383cd67250b82655c84168e"/>
 	</game>
 	<game name="Mahjong Xiezhenguan Taiwan 16 Zhang (Taiwan) (Unl)">
 		<category>Games</category>
@@ -25903,29 +25928,29 @@
 		<rom name="March Madness '98 (USA).bin" size="568165584" crc="e338845c" md5="b2f1e95a38a23eb2524065aaf33ad2c7" sha1="322d15496d1deb3e357ee55bf152cc9e6ce078ca"/>
 		<rom name="March Madness '98 (USA).cue" size="89" crc="68289754" md5="de2ab28ea8f7f7e5f9c7c9be35079809" sha1="25fcfa5b506deb3503847668285647be4907944e"/>
 	</game>
-	<game name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Demo)">
+	<game name="Maria - Kimitachi ga Umareta Wake (Japan) (Demo)">
 		<category>Demos</category>
-		<description>Maria - Kimi-tachi ga Umareta Wake (Japan) (Demo)</description>
-		<rom name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Demo).bin" size="137916576" crc="ac2766de" md5="efd34f9033087ac1226c50f396d3e820" sha1="e6dca9142e6353384cbe936972a2138f4f85d057"/>
-		<rom name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Demo).cue" size="115" crc="25ac5bdf" md5="77819cac4906916e89f7340d8f088c9a" sha1="84c4c3ecc8f56fb3a1e28b6b25d0be3433b8036f"/>
+		<description>Maria - Kimitachi ga Umareta Wake (Japan) (Demo)</description>
+		<rom name="Maria - Kimitachi ga Umareta Wake (Japan) (Demo).bin" size="137916576" crc="ac2766de" md5="efd34f9033087ac1226c50f396d3e820" sha1="e6dca9142e6353384cbe936972a2138f4f85d057"/>
+		<rom name="Maria - Kimitachi ga Umareta Wake (Japan) (Demo).cue" size="114" crc="9d324452" md5="7bddec52bddfa2c37d6a0fdbdb367765" sha1="1f95934fb160c3d2913498d74ba7441d175f6a26"/>
 	</game>
-	<game name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1)">
+	<game name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 1)">
 		<category>Games</category>
-		<description>Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1)</description>
-		<rom name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1).bin" size="272669712" crc="b1dbde4c" md5="778ab1fae98fa2992ca8c1ea00243359" sha1="58c769cf552efa10fd1950d47f235e570a779b63"/>
-		<rom name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1).cue" size="117" crc="871004a2" md5="61d048edf388028f3dbe9c888cd7fc13" sha1="9cc3241a1c959547ba353451aa5fddcbdb6abea3"/>
+		<description>Maria - Kimitachi ga Umareta Wake (Japan) (Disc 1)</description>
+		<rom name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 1).bin" size="272669712" crc="b1dbde4c" md5="778ab1fae98fa2992ca8c1ea00243359" sha1="58c769cf552efa10fd1950d47f235e570a779b63"/>
+		<rom name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 1).cue" size="116" crc="843557cf" md5="3f99cfc3cc8937af1839f3cb3be2c6e2" sha1="cf1af431fb298438610094c6ce0e5930f60d5fb3"/>
 	</game>
-	<game name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 2)">
+	<game name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 2)">
 		<category>Games</category>
-		<description>Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 2)</description>
-		<rom name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 2).bin" size="675303888" crc="51f39b0d" md5="490d3e432542749f425ead6fecf4ad4e" sha1="a0ca206564a33601078c64796f7415ff34320502"/>
-		<rom name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 2).cue" size="117" crc="864d2273" md5="eea3b530af29b68ed230e39b851af8ba" sha1="081726f48bfb5a5aa32454f1fd29a964678dff8d"/>
+		<description>Maria - Kimitachi ga Umareta Wake (Japan) (Disc 2)</description>
+		<rom name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 2).bin" size="675303888" crc="51f39b0d" md5="490d3e432542749f425ead6fecf4ad4e" sha1="a0ca206564a33601078c64796f7415ff34320502"/>
+		<rom name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 2).cue" size="116" crc="8568711e" md5="a50f1ab909afc3cc6d33070af63a57a7" sha1="695a3a8ab9b5b9412398fc8cf9dcb23db7221141"/>
 	</game>
-	<game name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 3)">
+	<game name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 3)">
 		<category>Games</category>
-		<description>Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 3)</description>
-		<rom name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 3).bin" size="652066128" crc="4416b372" md5="e8ecefd4a70184f40f2922b4850ad42a" sha1="b0bd245a704f6c682676ce35d1dd71d22ed93264"/>
-		<rom name="Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 3).cue" size="117" crc="3056c203" md5="0c91ab7ea92aeeb483509e1f3aa18793" sha1="f0e7fd78f3e47db344efdc52a85c3678a85becf5"/>
+		<description>Maria - Kimitachi ga Umareta Wake (Japan) (Disc 3)</description>
+		<rom name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 3).bin" size="652066128" crc="4416b372" md5="e8ecefd4a70184f40f2922b4850ad42a" sha1="b0bd245a704f6c682676ce35d1dd71d22ed93264"/>
+		<rom name="Maria - Kimitachi ga Umareta Wake (Japan) (Disc 3).cue" size="116" crc="3373916e" md5="31c4d1658a97374f99511cf3c7311a66" sha1="022aef24edaccfd0cc69c55656fc766144b05ac2"/>
 	</game>
 	<game name="Maria 2 - Jutai Kokuchi no Nazo (Japan) (Demo)">
 		<category>Demos</category>
@@ -26125,6 +26150,17 @@
 		<rom name="Mass Destruction (USA) (Track 12).bin" size="20483568" crc="a6094273" md5="bf538accfae0ff8f8b3154ab9f1a2b14" sha1="faaddd6dcdae798b1862db6e201a04ec4a8e1198"/>
 		<rom name="Mass Destruction (USA) (Track 13).bin" size="45353616" crc="50f5bd58" md5="260e692612ce998bea531f20774439a7" sha1="b49ef92014da78478bb2e8466518a9e178a20d52"/>
 		<rom name="Mass Destruction (USA).cue" size="1503" crc="df3181af" md5="1763b2e8a2661ec7847267e2080dc90f" sha1="86296520b76442fcdef33bcef788b38e83789556"/>
+	</game>
+	<game name="Master of Monsters - Akatsuki no Kenjatachi (Japan) (Major Wave)">
+		<category>Games</category>
+		<description>Master of Monsters - Akatsuki no Kenjatachi (Japan) (Major Wave)</description>
+		<rom name="Master of Monsters - Akatsuki no Kenjatachi (Japan) (Major Wave) (Track 1).bin" size="183185520" crc="c1e37ffe" md5="2f268e990e2847315597a3e09b66d362" sha1="c9dadd40e7e9648c5ef7a241ad4490efbd1b3a52"/>
+		<rom name="Master of Monsters - Akatsuki no Kenjatachi (Japan) (Major Wave) (Track 2).bin" size="21163296" crc="b49ac0e5" md5="41cf6d78630f3cb67e218cd487302102" sha1="91b6bb44f56476fae2814f509465b621619eb123"/>
+		<rom name="Master of Monsters - Akatsuki no Kenjatachi (Japan) (Major Wave) (Track 3).bin" size="18797184" crc="f490eab2" md5="ea6384562f2a2dd7ec1723865922614c" sha1="db3e9a2567850e886cb52f95c564880f80f6f75e"/>
+		<rom name="Master of Monsters - Akatsuki no Kenjatachi (Japan) (Major Wave) (Track 4).bin" size="16840320" crc="fb7d376a" md5="eac2566b0226482dfb728e7525de6924" sha1="a657a9516ea2016dc6afbe17dac6c32ee6d7d34f"/>
+		<rom name="Master of Monsters - Akatsuki no Kenjatachi (Japan) (Major Wave) (Track 5).bin" size="14154336" crc="a1eabd13" md5="0842db3b2151d0c356f784dff76bf062" sha1="128f8cfbebd055e5e879a7148ec39c9fbe02ef53"/>
+		<rom name="Master of Monsters - Akatsuki no Kenjatachi (Japan) (Major Wave) (Track 6).bin" size="33581856" crc="57118004" md5="3c199996f55c839479098238f60255cf" sha1="27017b737bf5565b07d86cecc92cff72a60ed3f9"/>
+		<rom name="Master of Monsters - Akatsuki no Kenjatachi (Japan) (Major Wave).cue" size="930" crc="7d51904b" md5="ccb0ba87c7fd4d9264245ab52a0a1b84" sha1="6ed368cb04fee090760086bdc8818265ad4e4f34"/>
 	</game>
 	<game name="Master of Monsters - Disciples of Gaia (USA)">
 		<category>Games</category>
@@ -30847,18 +30883,18 @@
 		<rom name="Nihon Sumou Kyoukai Kounin - Nihon Oozumou (Japan).bin" size="324999360" crc="74a163c3" md5="ccbeabe306c5c508cd82da9e32653f10" sha1="1cdc540551e0146630d1c36144d083c3f7fd1bd6"/>
 		<rom name="Nihon Sumou Kyoukai Kounin - Nihon Oozumou (Japan).cue" size="116" crc="e0214662" md5="4c64887526e364108bdc492b650cd3b7" sha1="304c7a72409310f782c0928df12d45d6ed74f442"/>
 	</game>
-	<game name="Nijiiro Dodgeball - Otome-tachi no Seishun (Japan)">
+	<game name="Nijiiro Dodgeball - Otometachi no Seishun (Japan)">
 		<category>Games</category>
-		<description>Nijiiro Dodgeball - Otome-tachi no Seishun (Japan)</description>
-		<rom name="Nijiiro Dodgeball - Otome-tachi no Seishun (Japan) (Track 1).bin" size="259063392" crc="29a72d41" md5="28716d2447dafc7acd49c46e1ab017d3" sha1="ce99129f19b58480c30a513eff4958efd5b87aa2"/>
-		<rom name="Nijiiro Dodgeball - Otome-tachi no Seishun (Japan) (Track 2).bin" size="63816816" crc="38352a32" md5="eb5bf0845cde4f8aca09144c350f8079" sha1="e7ea838b56c00348b3023c5e82f3282d519e1561"/>
-		<rom name="Nijiiro Dodgeball - Otome-tachi no Seishun (Japan) (Track 3).bin" size="61928160" crc="12c0ef45" md5="077b0b24aa855c90b48f2c8393939dcf" sha1="e97919c312e6cdd8347d4e3a72f6676637bd974c"/>
-		<rom name="Nijiiro Dodgeball - Otome-tachi no Seishun (Japan) (Track 4).bin" size="53336304" crc="92c6d6b3" md5="93b72203a2c74e263dacf159219df4ea" sha1="5d72f875cfe0f51a4e3c42c6fcb9a71ec50e0733"/>
-		<rom name="Nijiiro Dodgeball - Otome-tachi no Seishun (Japan) (Track 5).bin" size="1345344" crc="3078e756" md5="eade16426e2fb3b2fe2267521c76feaf" sha1="57bfb9457010391c0216cd2831895d4c408dc45b"/>
-		<rom name="Nijiiro Dodgeball - Otome-tachi no Seishun (Japan) (Track 6).bin" size="1239504" crc="3ef898f0" md5="8f63f815fdeeaee769d75c09f7f9ef8b" sha1="432960a044f88bbbdd1ace8cc75ba73399450bfc"/>
-		<rom name="Nijiiro Dodgeball - Otome-tachi no Seishun (Japan) (Track 7).bin" size="1241856" crc="802d5f95" md5="0162633cf8b16c0c6243a2fea54b1df6" sha1="e38db190b2546b7d8a9fcfaa154359c61ae4d012"/>
-		<rom name="Nijiiro Dodgeball - Otome-tachi no Seishun (Japan) (Track 8).bin" size="33908784" crc="857edda8" md5="369ff3006396bbca8d9a1fb9cc125af9" sha1="28a06c34d53442f736fed283c086340d7c56321e"/>
-		<rom name="Nijiiro Dodgeball - Otome-tachi no Seishun (Japan).cue" size="1134" crc="70d9f520" md5="605827c709013d8d7b15801e04b312e4" sha1="d3380f5ea3121ddf9a8d64234d8158a051572d4a"/>
+		<description>Nijiiro Dodgeball - Otometachi no Seishun (Japan)</description>
+		<rom name="Nijiiro Dodgeball - Otometachi no Seishun (Japan) (Track 1).bin" size="259063392" crc="29a72d41" md5="28716d2447dafc7acd49c46e1ab017d3" sha1="ce99129f19b58480c30a513eff4958efd5b87aa2"/>
+		<rom name="Nijiiro Dodgeball - Otometachi no Seishun (Japan) (Track 2).bin" size="63816816" crc="38352a32" md5="eb5bf0845cde4f8aca09144c350f8079" sha1="e7ea838b56c00348b3023c5e82f3282d519e1561"/>
+		<rom name="Nijiiro Dodgeball - Otometachi no Seishun (Japan) (Track 3).bin" size="61928160" crc="12c0ef45" md5="077b0b24aa855c90b48f2c8393939dcf" sha1="e97919c312e6cdd8347d4e3a72f6676637bd974c"/>
+		<rom name="Nijiiro Dodgeball - Otometachi no Seishun (Japan) (Track 4).bin" size="53336304" crc="92c6d6b3" md5="93b72203a2c74e263dacf159219df4ea" sha1="5d72f875cfe0f51a4e3c42c6fcb9a71ec50e0733"/>
+		<rom name="Nijiiro Dodgeball - Otometachi no Seishun (Japan) (Track 5).bin" size="1345344" crc="3078e756" md5="eade16426e2fb3b2fe2267521c76feaf" sha1="57bfb9457010391c0216cd2831895d4c408dc45b"/>
+		<rom name="Nijiiro Dodgeball - Otometachi no Seishun (Japan) (Track 6).bin" size="1239504" crc="3ef898f0" md5="8f63f815fdeeaee769d75c09f7f9ef8b" sha1="432960a044f88bbbdd1ace8cc75ba73399450bfc"/>
+		<rom name="Nijiiro Dodgeball - Otometachi no Seishun (Japan) (Track 7).bin" size="1241856" crc="802d5f95" md5="0162633cf8b16c0c6243a2fea54b1df6" sha1="e38db190b2546b7d8a9fcfaa154359c61ae4d012"/>
+		<rom name="Nijiiro Dodgeball - Otometachi no Seishun (Japan) (Track 8).bin" size="33908784" crc="857edda8" md5="369ff3006396bbca8d9a1fb9cc125af9" sha1="28a06c34d53442f736fed283c086340d7c56321e"/>
+		<rom name="Nijiiro Dodgeball - Otometachi no Seishun (Japan).cue" size="1126" crc="339d134a" md5="464cc4b7ce2ab557892a0d7e3322f940" sha1="969703c58b42e23987814bed5789ed25a819f3bc"/>
 	</game>
 	<game name="Nijiiro Twinkle - Guru Guru Daisakusen (Japan)">
 		<category>Games</category>
@@ -35875,27 +35911,27 @@
 		<rom name="Pro Mahjong Tsuwamono 3 (Japan) (Track 17).bin" size="40553184" crc="ac75dae1" md5="b7ada421f3627fbc0fcfc8ae73c0daec" sha1="cc1635e3a61620e8f420764a816288c2b28875a7"/>
 		<rom name="Pro Mahjong Tsuwamono 3 (Japan).cue" size="2124" crc="6ff41830" md5="1b02d466266e64d513b48a307b686db8" sha1="e0e6452cbf852d8cbcdc25b6f7235513fafe6cc7"/>
 	</game>
-	<game name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne! (Japan)">
+	<game name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashitachi ni Chousen Shite ne! (Japan)">
 		<category>Games</category>
-		<description>Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne! (Japan)</description>
-		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne! (Japan) (Track 01).bin" size="9859584" crc="69691ca3" md5="a5e1da06750e293d94a01c1a2fbebeb8" sha1="fe5ea903b91fac3b816ce7331ab076c0240319db"/>
-		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne! (Japan) (Track 02).bin" size="8196720" crc="d509d4b3" md5="d1cffd3ab380f35321ebb5c2df524f1e" sha1="7e2c6af3a7c8f817958d284edcd99c4ef36846ca"/>
-		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne! (Japan) (Track 03).bin" size="8062656" crc="e5ab1d73" md5="68b52fbfcc5d14e00ec878fbfd9b6a5a" sha1="70784777d441bd059df3937b7863e34c49e03e98"/>
-		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne! (Japan) (Track 04).bin" size="6877248" crc="e517ff54" md5="db88ec9fd4e7bf34fa8195d5ffa69c33" sha1="d5841a0c5ebfc5e3acc7f4507322a1f5307324ea"/>
-		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne! (Japan) (Track 05).bin" size="13660416" crc="1665fdce" md5="4c0dcab1ff9240abe793952760c794d3" sha1="7f86d18db00cba62b6adba5e050973e0f4901724"/>
-		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne! (Japan) (Track 06).bin" size="14702352" crc="08349245" md5="c0e4d78d28b2e2dfafe4dacd689bc476" sha1="d9702b782f2391636c63133a0e926afc24dbd714"/>
-		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne! (Japan) (Track 07).bin" size="14871696" crc="23fcd3f0" md5="8e050c90d155f0f7cac9104ac28c9036" sha1="a59096fa99517fd07d45bba04891820833d59829"/>
-		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne! (Japan) (Track 08).bin" size="17294256" crc="035e3ab4" md5="5b9989684288bab514080d2595e86536" sha1="00098bfb8fca8705d9be14f11953823a1a60d0cf"/>
-		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne! (Japan) (Track 09).bin" size="11428368" crc="f23e5a03" md5="53a6c33a1cd9d10f1d883ffe998cf0fb" sha1="3fd44c0927388199a710c903a46f59d3fd4e93ca"/>
-		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne! (Japan) (Track 10).bin" size="16623936" crc="3a5f5bb7" md5="38c7774462ed809c1debfe3d6e713cc0" sha1="0bfa7d620ca78a1a71f5a6ad53df3878a0a746db"/>
-		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne! (Japan) (Track 11).bin" size="15751344" crc="82722135" md5="b570255c092ef82056566b88b7559925" sha1="829b1e65b4d9b2a5ed19b4a8a38a42c738a636ba"/>
-		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne! (Japan) (Track 12).bin" size="15083376" crc="b9af9bf4" md5="be3bc1ca9f0bf680c46c56f77f7e1db2" sha1="7d1b2e0679d83f42b8036bdadb2789b09593589c"/>
-		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne! (Japan) (Track 13).bin" size="12587904" crc="a8e8c7e1" md5="a1776522ec56f3e4af495a1a9d453e67" sha1="cc939d1745d4f55cdbb6abb435e038e07ebc838a"/>
-		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne! (Japan) (Track 14).bin" size="15598464" crc="fa400309" md5="8b1417e0af1daa6891cce5a7fd46984e" sha1="7d395205b9f86a69ae815db0ce93875510938047"/>
-		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne! (Japan) (Track 15).bin" size="14587104" crc="7c407df3" md5="53197caf71f6af10fb7af0931450149b" sha1="4a49ad79138dca92b56f43545f363aced18e259c"/>
-		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne! (Japan) (Track 16).bin" size="40553184" crc="ac75dae1" md5="b7ada421f3627fbc0fcfc8ae73c0daec" sha1="cc1635e3a61620e8f420764a816288c2b28875a7"/>
-		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne! (Japan) (Track 17).bin" size="40553184" crc="ac75dae1" md5="b7ada421f3627fbc0fcfc8ae73c0daec" sha1="cc1635e3a61620e8f420764a816288c2b28875a7"/>
-		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne! (Japan).cue" size="3297" crc="5944b4c7" md5="0d5976910b32c0ee9a28cea3a3911366" sha1="41cd4976cf9298ce6f6fe11115227c14d6b6b1e5"/>
+		<description>Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashitachi ni Chousen Shite ne! (Japan)</description>
+		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashitachi ni Chousen Shite ne! (Japan) (Track 01).bin" size="9859584" crc="69691ca3" md5="a5e1da06750e293d94a01c1a2fbebeb8" sha1="fe5ea903b91fac3b816ce7331ab076c0240319db"/>
+		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashitachi ni Chousen Shite ne! (Japan) (Track 02).bin" size="8196720" crc="d509d4b3" md5="d1cffd3ab380f35321ebb5c2df524f1e" sha1="7e2c6af3a7c8f817958d284edcd99c4ef36846ca"/>
+		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashitachi ni Chousen Shite ne! (Japan) (Track 03).bin" size="8062656" crc="e5ab1d73" md5="68b52fbfcc5d14e00ec878fbfd9b6a5a" sha1="70784777d441bd059df3937b7863e34c49e03e98"/>
+		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashitachi ni Chousen Shite ne! (Japan) (Track 04).bin" size="6877248" crc="e517ff54" md5="db88ec9fd4e7bf34fa8195d5ffa69c33" sha1="d5841a0c5ebfc5e3acc7f4507322a1f5307324ea"/>
+		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashitachi ni Chousen Shite ne! (Japan) (Track 05).bin" size="13660416" crc="1665fdce" md5="4c0dcab1ff9240abe793952760c794d3" sha1="7f86d18db00cba62b6adba5e050973e0f4901724"/>
+		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashitachi ni Chousen Shite ne! (Japan) (Track 06).bin" size="14702352" crc="08349245" md5="c0e4d78d28b2e2dfafe4dacd689bc476" sha1="d9702b782f2391636c63133a0e926afc24dbd714"/>
+		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashitachi ni Chousen Shite ne! (Japan) (Track 07).bin" size="14871696" crc="23fcd3f0" md5="8e050c90d155f0f7cac9104ac28c9036" sha1="a59096fa99517fd07d45bba04891820833d59829"/>
+		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashitachi ni Chousen Shite ne! (Japan) (Track 08).bin" size="17294256" crc="035e3ab4" md5="5b9989684288bab514080d2595e86536" sha1="00098bfb8fca8705d9be14f11953823a1a60d0cf"/>
+		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashitachi ni Chousen Shite ne! (Japan) (Track 09).bin" size="11428368" crc="f23e5a03" md5="53a6c33a1cd9d10f1d883ffe998cf0fb" sha1="3fd44c0927388199a710c903a46f59d3fd4e93ca"/>
+		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashitachi ni Chousen Shite ne! (Japan) (Track 10).bin" size="16623936" crc="3a5f5bb7" md5="38c7774462ed809c1debfe3d6e713cc0" sha1="0bfa7d620ca78a1a71f5a6ad53df3878a0a746db"/>
+		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashitachi ni Chousen Shite ne! (Japan) (Track 11).bin" size="15751344" crc="82722135" md5="b570255c092ef82056566b88b7559925" sha1="829b1e65b4d9b2a5ed19b4a8a38a42c738a636ba"/>
+		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashitachi ni Chousen Shite ne! (Japan) (Track 12).bin" size="15083376" crc="b9af9bf4" md5="be3bc1ca9f0bf680c46c56f77f7e1db2" sha1="7d1b2e0679d83f42b8036bdadb2789b09593589c"/>
+		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashitachi ni Chousen Shite ne! (Japan) (Track 13).bin" size="12587904" crc="a8e8c7e1" md5="a1776522ec56f3e4af495a1a9d453e67" sha1="cc939d1745d4f55cdbb6abb435e038e07ebc838a"/>
+		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashitachi ni Chousen Shite ne! (Japan) (Track 14).bin" size="15598464" crc="fa400309" md5="8b1417e0af1daa6891cce5a7fd46984e" sha1="7d395205b9f86a69ae815db0ce93875510938047"/>
+		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashitachi ni Chousen Shite ne! (Japan) (Track 15).bin" size="14587104" crc="7c407df3" md5="53197caf71f6af10fb7af0931450149b" sha1="4a49ad79138dca92b56f43545f363aced18e259c"/>
+		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashitachi ni Chousen Shite ne! (Japan) (Track 16).bin" size="40553184" crc="ac75dae1" md5="b7ada421f3627fbc0fcfc8ae73c0daec" sha1="cc1635e3a61620e8f420764a816288c2b28875a7"/>
+		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashitachi ni Chousen Shite ne! (Japan) (Track 17).bin" size="40553184" crc="ac75dae1" md5="b7ada421f3627fbc0fcfc8ae73c0daec" sha1="cc1635e3a61620e8f420764a816288c2b28875a7"/>
+		<rom name="Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashitachi ni Chousen Shite ne! (Japan).cue" size="3280" crc="3a15addb" md5="37847444f351078bc419e86fc0c302da" sha1="163a30d64f01f30052ea0de201c77a46e37e546f"/>
 	</game>
 	<game name="Pro Mahjong, The - Menkyo Kaiden (Japan)">
 		<category>Games</category>
@@ -39576,23 +39612,23 @@
 		<rom name="Sanyo Pachinko Paradise 5 - Uki Uki Tairyoubata (Japan).bin" size="199134432" crc="986ed3b5" md5="6ceba2832dae7828ed1b62f44e96d66c" sha1="09c10a1df75bd2a8a7606228596cf2202d60df90"/>
 		<rom name="Sanyo Pachinko Paradise 5 - Uki Uki Tairyoubata (Japan).cue" size="121" crc="bc30b5f7" md5="671051e8ab66055dec0dd826621b22b9" sha1="2cebeadffbb29ed40a38cbdcdf48b8927fe0c35d"/>
 	</game>
-	<game name="Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 1)">
+	<game name="Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 1)">
 		<category>Games</category>
-		<description>Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 1)</description>
-		<rom name="Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 1).bin" size="566991936" crc="06913b9c" md5="d9ee508d7f2679fef38f3fd39783757b" sha1="e7852330f45228d9539345d7b0265274b44a5f88"/>
-		<rom name="Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 1).cue" size="130" crc="f2e6d959" md5="141556355a9e388ca99ef3b9babf7718" sha1="f74cdafc355f644025525d44ad0da7dd9857ef3b"/>
+		<description>Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 1)</description>
+		<rom name="Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 1).bin" size="566991936" crc="06913b9c" md5="d9ee508d7f2679fef38f3fd39783757b" sha1="e7852330f45228d9539345d7b0265274b44a5f88"/>
+		<rom name="Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 1).cue" size="129" crc="549a030a" md5="e9700689242d581f2cb394e4f6e0ebec" sha1="5ce4fe8ea7932fb5cea926e34ec162c99384e27b"/>
 	</game>
-	<game name="Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 2)">
+	<game name="Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 2)">
 		<category>Games</category>
-		<description>Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 2)</description>
-		<rom name="Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 2).bin" size="673424640" crc="9488096e" md5="60f65c590c45024d3c5eeec1b1e15f27" sha1="608046c4fd473177e6b507a9d81d848239fab835"/>
-		<rom name="Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 2).cue" size="130" crc="f3bbff88" md5="6fa3855e01cd55efe1af656943bde6d8" sha1="8aa2f114450e36c93d9b281b4e49b5bfbf96b8dd"/>
+		<description>Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 2)</description>
+		<rom name="Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 2).bin" size="673424640" crc="9488096e" md5="60f65c590c45024d3c5eeec1b1e15f27" sha1="608046c4fd473177e6b507a9d81d848239fab835"/>
+		<rom name="Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 2).cue" size="129" crc="55c725db" md5="a6b22db674c6ab076b38d2f54dd99b11" sha1="846e6d2298ee5e412107a126fd77d7bffa90cf76"/>
 	</game>
-	<game name="Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 3)">
+	<game name="Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 3)">
 		<category>Games</category>
-		<description>Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 3)</description>
-		<rom name="Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 3).bin" size="581992992" crc="e7282712" md5="2fcb5036e25939621f8ecb962af7145c" sha1="97711e99d92bbd1466ac54d4556684b9cd84234a"/>
-		<rom name="Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 3).cue" size="130" crc="45a01ff8" md5="7f69e26cad8341c3fa40fe6d3eff9c87" sha1="b72997de26ae8efb86b91c5038d50e4f52ca4a0d"/>
+		<description>Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 3)</description>
+		<rom name="Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 3).bin" size="581992992" crc="e7282712" md5="2fcb5036e25939621f8ecb962af7145c" sha1="97711e99d92bbd1466ac54d4556684b9cd84234a"/>
+		<rom name="Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 3).cue" size="129" crc="e3dcc5ab" md5="001849110c7ce10d51c974f03ab4e539" sha1="883a4fae2ba1947ccd9a4a4f3525e1c9232ffc0a"/>
 	</game>
 	<game name="Saru! Get You! (Japan) (Demo 2)">
 		<category>Demos</category>
@@ -40257,12 +40293,12 @@
 		<rom name="Shin DX Okuman Chouja Game - Tsukutte! Utte! Oomouke! (Japan) (Track 2).bin" size="33819408" crc="716bd880" md5="5cf013d68eb919c53c590798c2e56b4a" sha1="31b9f0c77d2377adc6c5bf7bf56ceb1704c48782"/>
 		<rom name="Shin DX Okuman Chouja Game - Tsukutte! Utte! Oomouke! (Japan).cue" size="292" crc="4235009e" md5="6280a33c4111a3db9cf76c1e6658ba68" sha1="1d05dfb6cf30b1d42b61088531fe87b668d6e780"/>
 	</game>
-	<game name="Shin Fortune Quest - Shokutaku no Kishi-tachi (Japan)">
+	<game name="Shin Fortune Quest - Shokutaku no Kishitachi (Japan)">
 		<category>Games</category>
-		<description>Shin Fortune Quest - Shokutaku no Kishi-tachi (Japan)</description>
-		<rom name="Shin Fortune Quest - Shokutaku no Kishi-tachi (Japan) (Track 1).bin" size="128193408" crc="0fbded02" md5="ca8fc3fe37e2f94a20d3a0dedeb4bc78" sha1="6f9a2475be5e3c628c1a7c28777d60b990d1c2f1"/>
-		<rom name="Shin Fortune Quest - Shokutaku no Kishi-tachi (Japan) (Track 2).bin" size="24564288" crc="88af6a33" md5="4a80da8eb311b8698a3d8edfca3681e7" sha1="b253650e3899697f89570282d425f63ac2995ddb"/>
-		<rom name="Shin Fortune Quest - Shokutaku no Kishi-tachi (Japan).cue" size="276" crc="6aaaf114" md5="240e894b42838169d7501e252f8734a7" sha1="632f7c9f2dc103d311572daa2e4e9d8e2d722a93"/>
+		<description>Shin Fortune Quest - Shokutaku no Kishitachi (Japan)</description>
+		<rom name="Shin Fortune Quest - Shokutaku no Kishitachi (Japan) (Track 1).bin" size="128193408" crc="0fbded02" md5="ca8fc3fe37e2f94a20d3a0dedeb4bc78" sha1="6f9a2475be5e3c628c1a7c28777d60b990d1c2f1"/>
+		<rom name="Shin Fortune Quest - Shokutaku no Kishitachi (Japan) (Track 2).bin" size="24564288" crc="88af6a33" md5="4a80da8eb311b8698a3d8edfca3681e7" sha1="b253650e3899697f89570282d425f63ac2995ddb"/>
+		<rom name="Shin Fortune Quest - Shokutaku no Kishitachi (Japan).cue" size="274" crc="4c57fb7d" md5="d268bb8e3c45ba56ab27af1dc3b20927" sha1="17650a00f82f01a5206410619ebf7bb897153333"/>
 	</game>
 	<game name="Shin Masou Kishin - Panzer Warfare (Japan)">
 		<category>Games</category>
@@ -41798,11 +41834,11 @@
 		<rom name="Simple 1500 Series Vol. 7 - The Card (Japan) (Culture Publishers) (Track 6).bin" size="27805344" crc="2f797e8e" md5="e09de9364d5aef77000a25dab9526ff6" sha1="578c5e4e485ab9a77b1a6bf6adc835aa11f66b30"/>
 		<rom name="Simple 1500 Series Vol. 7 - The Card (Japan) (Culture Publishers).cue" size="936" crc="79a52e22" md5="8d73a60a9522e4807785d2c56aca1b86" sha1="d543b038e264708ae37fed19d60085cfac9c7ca8"/>
 	</game>
-	<game name="Simple 1500 Series Vol. 70 - The War Simulation - Hito no Tsukurishi Mono-tachi (Japan)">
+	<game name="Simple 1500 Series Vol. 70 - The War Simulation - Hito no Tsukurishi Monotachi (Japan)">
 		<category>Games</category>
-		<description>Simple 1500 Series Vol. 70 - The War Simulation - Hito no Tsukurishi Mono-tachi (Japan)</description>
-		<rom name="Simple 1500 Series Vol. 70 - The War Simulation - Hito no Tsukurishi Mono-tachi (Japan).bin" size="472269840" crc="f7f05327" md5="6e74f9aa8f3878b1b5c9c24907c2f3ea" sha1="dcea69a0310afaf2ab9bd49e9db1bd16747facdb"/>
-		<rom name="Simple 1500 Series Vol. 70 - The War Simulation - Hito no Tsukurishi Mono-tachi (Japan).cue" size="153" crc="807853a2" md5="599209e7614fe133f32c7026dc33234c" sha1="831217546891597d001a05d6f87152692685aaf4"/>
+		<description>Simple 1500 Series Vol. 70 - The War Simulation - Hito no Tsukurishi Monotachi (Japan)</description>
+		<rom name="Simple 1500 Series Vol. 70 - The War Simulation - Hito no Tsukurishi Monotachi (Japan).bin" size="472269840" crc="f7f05327" md5="6e74f9aa8f3878b1b5c9c24907c2f3ea" sha1="dcea69a0310afaf2ab9bd49e9db1bd16747facdb"/>
+		<rom name="Simple 1500 Series Vol. 70 - The War Simulation - Hito no Tsukurishi Monotachi (Japan).cue" size="152" crc="b256cafe" md5="89f332d9d1693ad96517004778c74488" sha1="9c25de7d4fece761c20b216140cea1a105cee7c1"/>
 	</game>
 	<game name="Simple 1500 Series Vol. 71 - The Ren'ai Simulation 2 - Fureai (Japan)">
 		<category>Games</category>
@@ -45449,6 +45485,13 @@
 		<description>SuperLite 1500 Series - Mahjong II (Japan)</description>
 		<rom name="SuperLite 1500 Series - Mahjong II (Japan).bin" size="34917792" crc="f064c89f" md5="5cdcbf8c0488cf547cb85ae64d446756" sha1="48337e536f85d10aa60db1ec202809d36313c05a"/>
 		<rom name="SuperLite 1500 Series - Mahjong II (Japan).cue" size="108" crc="ff294e9b" md5="831660bd12e25bfa54332672bbc900a8" sha1="0ec3fbd5d4d2780abe74a8bccdd6da56e688fd8f"/>
+	</game>
+	<game name="SuperLite 1500 Series - Mahjong Uranai Fortuna - Tsuki no Megamitachi (Japan)">
+		<category>Games</category>
+		<description>SuperLite 1500 Series - Mahjong Uranai Fortuna - Tsuki no Megamitachi (Japan)</description>
+		<rom name="SuperLite 1500 Series - Mahjong Uranai Fortuna - Tsuki no Megamitachi (Japan) (Track 1).bin" size="477044400" crc="62bf459c" md5="658e45df8e0aca5171b793be99d9b831" sha1="90646c10bf3783e0823cb0d06a068838ecc1b2c9"/>
+		<rom name="SuperLite 1500 Series - Mahjong Uranai Fortuna - Tsuki no Megamitachi (Japan) (Track 2).bin" size="32111856" crc="23492c6d" md5="59add0a2c8edb31726129efe91e17d40" sha1="5304669b0c27ce1d30a07b4c40db3f544f5da65d"/>
+		<rom name="SuperLite 1500 Series - Mahjong Uranai Fortuna - Tsuki no Megamitachi (Japan).cue" size="324" crc="f3242d0b" md5="d28b3ab7c0988cd6d6e14200e5549e2c" sha1="05e70eaade976a82af1467e1294e1b530d505f62"/>
 	</game>
 	<game name="SuperLite 1500 Series - Makikou (Japan)">
 		<category>Games</category>
