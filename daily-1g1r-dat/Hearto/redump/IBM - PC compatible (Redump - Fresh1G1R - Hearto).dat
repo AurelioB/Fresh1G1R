@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,921) (-y) [-aAbBcefkmMoprv] (2026-04-06 23-04-02) (Retool)</description>
-		<version>2026-04-06 23-04-02</version>
-		<date>2026-04-07 03-17-10</date>
+		<description>IBM - PC compatible (24,933) (-y) [-aAbBcefkmMoprv] (2026-04-08 03-24-16) (Retool)</description>
+		<version>2026-04-08 03-24-16</version>
+		<date>2026-04-08 03-15-38</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -5037,6 +5037,12 @@
 		<description>Age of Empires III (USA, Europe) (Disc 3) (Game Disc) (Rerelease)</description>
 		<rom name="Age of Empires III (USA, Europe) (Disc 3) (Game Disc) (Rerelease).bin" size="653260944" crc="46c36ce1" md5="401a9cc1543808e178923878ebabb88e" sha1="430e514efbb459de0c535803fdda9ebc884ec234"/>
 		<rom name="Age of Empires III (USA, Europe) (Disc 3) (Game Disc) (Rerelease).cue" size="131" crc="5cd5b26c" md5="6dd83ee8ef48d189217091dd8f1950a3" sha1="72c95c544bf1214a1cad8cf82f78c8c7b217dbfc"/>
+	</game>
+	<game name="Age of Empires III - Asian Dynasties (Poland)">
+		<category>Add-Ons</category>
+		<description>Age of Empires III - Asian Dynasties (Poland)</description>
+		<rom name="Age of Empires III - Asian Dynasties (Poland).bin" size="708337728" crc="d46ff9d5" md5="9a54aae63a296caa72cba46f9a8dbe16" sha1="5b521de10a45f528413d46403869270b789597b4"/>
+		<rom name="Age of Empires III - Asian Dynasties (Poland).cue" size="111" crc="5aa0aaab" md5="21f17bcee7efec59698f01f98fdd33f7" sha1="fbb2237373b9438b142afad4f3414c042c2f7f6a"/>
 	</game>
 	<game name="Age of Empires III - Complete Collection (UK)">
 		<category>Games</category>
@@ -28327,6 +28333,12 @@
 		<description>Combat Mission II - Barbarossa to Berlin (USA) (Mod Disc)</description>
 		<rom name="Combat Mission II - Barbarossa to Berlin (USA) (Mod Disc).bin" size="787491936" crc="ca08a3b4" md5="23110a223f214d9c45df118b06395a56" sha1="d90efb41b3861cf4052f2e873d8e94ddd3fd67fc"/>
 		<rom name="Combat Mission II - Barbarossa to Berlin (USA) (Mod Disc).cue" size="123" crc="6d5a4a3b" md5="cdc9da6341648b6639ed2a9acbe838da" sha1="565b2f1653a9ff7b02aed90767355c71430126fb"/>
+	</game>
+	<game name="Combat Pilot - No. 1 Attack Squadron (UK)">
+		<category>Add-Ons</category>
+		<description>Combat Pilot - No. 1 Attack Squadron (UK)</description>
+		<rom name="Combat Pilot - No. 1 Attack Squadron (UK).bin" size="38598672" crc="ffa5985d" md5="4a6660007202aec069267423c4b3c8cd" sha1="1e01b2542dfbdbe0d128941929c4b3e36c092f79"/>
+		<rom name="Combat Pilot - No. 1 Attack Squadron (UK).cue" size="107" crc="71477279" md5="5a2311f11b8d7718178344f456a25f83" sha1="25e11ec2ac8401d5a044f65df0123b7a2a87ea65"/>
 	</game>
 	<game name="Combat Wings (Germany)">
 		<category>Games</category>
@@ -54299,6 +54311,12 @@
 		<rom name="Flughafen Manager (Germany) (Track 8).bin" size="53418624" crc="79959cd1" md5="85fd2f1798be82b40eae9e36cbc1a265" sha1="e1c30c26b485759708f9434bc6759bc1a7c8c93d"/>
 		<rom name="Flughafen Manager (Germany) (Track 9).bin" size="42884016" crc="750701a8" md5="84ba17e53db0d2bd9bf4766560e19bab" sha1="0a41a5234119352914d7bd7e47a48891f897a41e"/>
 		<rom name="Flughafen Manager (Germany).cue" size="910" crc="3806e440" md5="950fff9b24d5a6d1b50c01d967964bc2" sha1="889f397d9cf2d448691ca7d3adcac4c20a5ea556"/>
+	</game>
+	<game name="Flugsimulator fuer Airbus A320 (Germany)">
+		<category>Games</category>
+		<description>Flugsimulator fuer Airbus A320 (Germany)</description>
+		<rom name="Flugsimulator fuer Airbus A320 (Germany).bin" size="729559824" crc="de252be4" md5="e579fe8a38519c45efbb3281889ed829" sha1="1dee36b30c517bbfa7597bf0b307234f129e0ba5"/>
+		<rom name="Flugsimulator fuer Airbus A320 (Germany).cue" size="106" crc="c7dbc786" md5="0149b76cac454ac50a8ecc39ab6c514f" sha1="a733014d8e13ab1026e69af5fcbf13fa315ffde2"/>
 	</game>
 	<game name="Flunkerne - Kaos og Kalypso (Denmark)">
 		<category>Games</category>
@@ -91930,6 +91948,24 @@
 		<description>Max Payne 2 - The Fall of Max Payne (Russia) (Disc 3)</description>
 		<rom name="Max Payne 2 - The Fall of Max Payne (Russia) (Disc 3).bin" size="334106304" crc="3f32de43" md5="34a7b3f60bf2ff14cf38b520c31bb648" sha1="5f96b25122a871cff5647069b1311722f3783908"/>
 		<rom name="Max Payne 2 - The Fall of Max Payne (Russia) (Disc 3).cue" size="119" crc="0f635ea8" md5="39be0b70213d3385c7cfd0ba93e57c71" sha1="0187ede3c6798ad7e905c445b8965c36f770a64b"/>
+	</game>
+	<game name="Max Payne 2 - The Fall of Max Payne (Spain) (En,Es) (Disco de Instalacion 1)">
+		<category>Games</category>
+		<description>Max Payne 2 - The Fall of Max Payne (Spain) (En,Es) (Disco de Instalacion 1)</description>
+		<rom name="Max Payne 2 - The Fall of Max Payne (Spain) (En,Es) (Disco de Instalacion 1).bin" size="840402528" crc="3e7fc23e" md5="fb8260461060886ba4c275842115cad4" sha1="a062733b5dcb1ee2f0828f2fff5933f866b5b5d8"/>
+		<rom name="Max Payne 2 - The Fall of Max Payne (Spain) (En,Es) (Disco de Instalacion 1).cue" size="142" crc="e90c0e50" md5="59686f7dca3bb324dd697bd3b04c2b26" sha1="facd36583fb5b09b177d82af7926a984efbee0f4"/>
+	</game>
+	<game name="Max Payne 2 - The Fall of Max Payne (Spain) (En,Es) (Disco de Instalacion 2)">
+		<category>Games</category>
+		<description>Max Payne 2 - The Fall of Max Payne (Spain) (En,Es) (Disco de Instalacion 2)</description>
+		<rom name="Max Payne 2 - The Fall of Max Payne (Spain) (En,Es) (Disco de Instalacion 2).bin" size="841305696" crc="b134eb0d" md5="5e88d6a2dce74fb4042af176cd659313" sha1="2989e73d44d2dac6dc6218f063b7e18198e44431"/>
+		<rom name="Max Payne 2 - The Fall of Max Payne (Spain) (En,Es) (Disco de Instalacion 2).cue" size="142" crc="e8512881" md5="906962f6e4140f84b70e588d0df128ca" sha1="5097d59c0f0f6ed0f0ccdaf9fadd9fbd751e8f48"/>
+	</game>
+	<game name="Max Payne 2 - The Fall of Max Payne (Spain) (En,Es) (Juego)">
+		<category>Games</category>
+		<description>Max Payne 2 - The Fall of Max Payne (Spain) (En,Es) (Juego)</description>
+		<rom name="Max Payne 2 - The Fall of Max Payne (Spain) (En,Es) (Juego).bin" size="228054624" crc="916c12f0" md5="30c749fa5432eca77570bea9bd73cb99" sha1="da84c8107f0c79c9b4799cd3622da216f806831f"/>
+		<rom name="Max Payne 2 - The Fall of Max Payne (Spain) (En,Es) (Juego).cue" size="125" crc="6e1860f2" md5="45141adc1f7aeb20eb221f1705c2ace3" sha1="2bc76d86d67a0836cd929b06c0d23a5a94a49879"/>
 	</game>
 	<game name="Max Payne 2 - The Fall of Max Payne (USA) (Install)">
 		<category>Games</category>
@@ -140487,6 +140523,12 @@
 		<description>Small Town Terrors - Pilgrim's Hook (Germany)</description>
 		<rom name="Small Town Terrors - Pilgrim's Hook (Germany).iso" size="1285357568" crc="ceb3adf2" md5="562ccfe710b9fe48fd4ba0f400f765ba" sha1="f2777a0ce67ad3946eb106faa008715fa42023f3"/>
 	</game>
+	<game name="Smart Games - Brain Box (Germany)">
+		<category>Games</category>
+		<description>Smart Games - Brain Box (Germany)</description>
+		<rom name="Smart Games - Brain Box (Germany).bin" size="45198384" crc="8c5c608d" md5="b100b803cad293e8e81568c36fce7619" sha1="508b5d3efd3b07669e2d83a8cf010b178c5e1bfb"/>
+		<rom name="Smart Games - Brain Box (Germany).cue" size="99" crc="1108d9da" md5="de2942859c1bab358ee3c74d9f97a7ea" sha1="92cb4ba5251782d66ed8b111d93dff746f22ad79"/>
+	</game>
 	<game name="Smart Games - Challenge 1 (USA)">
 		<category>Games</category>
 		<description>Smart Games - Challenge 1 (USA)</description>
@@ -143634,6 +143676,12 @@
 		<description>Spiele Sammlung - Abenteuer (Germany)</description>
 		<rom name="Spiele Sammlung - Abenteuer (Germany).bin" size="330912288" crc="70070123" md5="cb0b6f30024e91318e785edf56435526" sha1="4caa33e76d3fb32b191d8f85a00d009abbdd2278"/>
 		<rom name="Spiele Sammlung - Abenteuer (Germany).cue" size="103" crc="db58ad4e" md5="6983c5b060924d136aaf4a84c4d4c239" sha1="63d1563b58486b9c3ff79b0776d0ec2787e1bcc5"/>
+	</game>
+	<game name="Spiele der Welt (Germany)">
+		<category>Games</category>
+		<description>Spiele der Welt (Germany)</description>
+		<rom name="Spiele der Welt (Germany).bin" size="561088416" crc="48157418" md5="4de347b84055c9b5b09d352990951ad2" sha1="724ecb462ae2c6811d099c53477f9470943ebef5"/>
+		<rom name="Spiele der Welt (Germany).cue" size="114" crc="32932b13" md5="58ab22112710929b257a1a8b642c1dd7" sha1="450a28d9bba73837e29015acd1e925a37897c588"/>
 	</game>
 	<game name="Spiele fuer Windows 7, XP &amp; Vista (Germany)">
 		<category>Games</category>
@@ -149025,6 +149073,12 @@
 		<rom name="Superdead (USA).bin" size="99698928" crc="e4faa7bc" md5="87768e3af36dc9d832d56218f50b8de8" sha1="65ec1d980399882c6ccf3c0cad264a69c620b3a0"/>
 		<rom name="Superdead (USA).cue" size="81" crc="83d4c912" md5="e4564338d97c7853e4440a8ecd423b69" sha1="9adf57cc55ebbe912fa298beb6a4b0457b4e9721"/>
 	</game>
+	<game name="Supergames - Volume 2 (Europe)">
+		<category>Demos</category>
+		<description>Supergames - Volume 2 (Europe)</description>
+		<rom name="Supergames - Volume 2 (Europe).bin" size="108991680" crc="9bd659a5" md5="deb4c47e51dd9d20c5fc98ec75cfefff" sha1="6a9cceaf712867131b76fead4e3942a04f337c21"/>
+		<rom name="Supergames - Volume 2 (Europe).cue" size="96" crc="cee58bbb" md5="c74bf6935fad96f2d72710355037285a" sha1="57caebb24aa0063c67987808b23d38ef1d164efb"/>
+	</game>
 	<game name="Supergames 12 (Europe)">
 		<category>Demos</category>
 		<description>Supergames 12 (Europe)</description>
@@ -149042,12 +149096,6 @@
 		<description>Supergames Volume 10 (Europe)</description>
 		<rom name="Supergames Volume 10 (Europe).bin" size="260712144" crc="4b31a5a6" md5="8c0096d1f558a0e558d4599920aa06d2" sha1="0e0bff4db3987d04c69c7fffefeefd7a7683097c"/>
 		<rom name="Supergames Volume 10 (Europe).cue" size="95" crc="335ce2eb" md5="7828f0f71dedf2770cd151bd204cefe8" sha1="15562e0838ed7f972735de8f7f6b1d2b473ee1ae"/>
-	</game>
-	<game name="Supergames Volume 2 (Europe)">
-		<category>Demos</category>
-		<description>Supergames Volume 2 (Europe)</description>
-		<rom name="Supergames Volume 2 (Europe).bin" size="108991680" crc="186abe5d" md5="327ce4ee4a8a0ab704a4944700f56879" sha1="ed07fa9eb6e9a47a91129ba26cd7cf0adeb83953"/>
-		<rom name="Supergames Volume 2 (Europe).cue" size="94" crc="f39ec52a" md5="95d4ee8eea75e4ce7ca634129195b9bf" sha1="099fc2f0c6c09b66de51bd17940f292370f128dd"/>
 	</game>
 	<game name="Supergames Volume 5 (Europe)">
 		<category>Demos</category>
@@ -156040,6 +156088,21 @@
 		<rom name="Tomb Raider III - Adventures of Lara Croft (USA) (Rev 1) (Track 3).bin" size="175372176" crc="3fc3ff01" md5="a3815b92b2389b870871870ff2dec30d" sha1="b7f60e9b96e9f418ac665be4b83fc40968677173"/>
 		<rom name="Tomb Raider III - Adventures of Lara Croft (USA) (Rev 1) (Track 4).bin" size="3363360" crc="4cd99e8f" md5="bda1c1aa0fe4d632d0ca220f4c84306e" sha1="f1affb012fc00a40cd2bc6855663d0c6618029f3"/>
 		<rom name="Tomb Raider III - Adventures of Lara Croft (USA) (Rev 1).cue" size="610" crc="b78c2493" md5="51a2acb2ed3c0d9361a900c8a17699aa" sha1="a0e5ba14e3157bb7ddc13caed6a3e01e80ae6b99"/>
+	</game>
+	<game name="Tomb Raider III - Le Dernier Artefact (France) (Disc 1)">
+		<category>Games</category>
+		<description>Tomb Raider III - Le Dernier Artefact (France) (Disc 1)</description>
+		<rom name="Tomb Raider III - Le Dernier Artefact (France) (Disc 1) (Track 1).bin" size="641672640" crc="59c40746" md5="e04151800216c588c32112b638561612" sha1="18f7ac16beabddcf5f8d17865c82c2d66b555a86"/>
+		<rom name="Tomb Raider III - Le Dernier Artefact (France) (Disc 1) (Track 2).bin" size="3880800" crc="56903d96" md5="039286cd61d33ac2a516334949672529" sha1="5baa34fe7687fe35e2b20baa307180850335bb07"/>
+		<rom name="Tomb Raider III - Le Dernier Artefact (France) (Disc 1) (Track 3).bin" size="158124960" crc="6b92228a" md5="ee5f8b2f3393ada3154af8aa96cff192" sha1="2f03cc1a03e3153911a37adb5e262e37d8682d4d"/>
+		<rom name="Tomb Raider III - Le Dernier Artefact (France) (Disc 1) (Track 4).bin" size="2834160" crc="0847cb9e" md5="f6418398c3581b8d0539748134bcab99" sha1="28aced442d7e586d6e7683e89440e9e930894181"/>
+		<rom name="Tomb Raider III - Le Dernier Artefact (France) (Disc 1).cue" size="606" crc="ff2874c2" md5="6cbf2c1a0e1133a0d31fc2e5c7a4a47a" sha1="393ab01cc454019348e582e63e07d57a0e47f44d"/>
+	</game>
+	<game name="Tomb Raider III - Le Dernier Artefact (France) (Disc 2)">
+		<category>Games</category>
+		<description>Tomb Raider III - Le Dernier Artefact (France) (Disc 2)</description>
+		<rom name="Tomb Raider III - Le Dernier Artefact (France) (Disc 2).bin" size="443467248" crc="89452c41" md5="0a0f954d93344f1ab1cf629168cdd939" sha1="ee7bd6a7d576a434d793c2762919e6236a991fa4"/>
+		<rom name="Tomb Raider III - Le Dernier Artefact (France) (Disc 2).cue" size="144" crc="3bb41524" md5="a4200a55e7c45d060949de841e518bd8" sha1="dab6d43fc441a9c7bfa3b11cb63bc8f0e95a6f08"/>
 	</game>
 	<game name="Tomb Raider III - Les Aventures de Lara Croft (France)">
 		<category>Games</category>
@@ -173120,6 +173183,12 @@
 		<rom name="Xtreme Brain Games (Europe).bin" size="64367184" crc="21644a0f" md5="42b0ee23e337a43372fd02ca84aa588b" sha1="93965120e0197697fa8f4199a5ca0c6ff0671582"/>
 		<rom name="Xtreme Brain Games (Europe).cue" size="108" crc="11680466" md5="37dfad52758afb56a28c0bf6085fc4fb" sha1="a92b3be835d775e6b6959f4290ae09a5bc6bc389"/>
 	</game>
+	<game name="Xtreme Sports Arcade - Summer Edition (USA)">
+		<category>Games</category>
+		<description>Xtreme Sports Arcade - Summer Edition (USA)</description>
+		<rom name="Xtreme Sports Arcade - Summer Edition (USA).bin" size="100665600" crc="6d2b579b" md5="8ece6afaa6b7d6f10af3a58a53aba76a" sha1="89954b61a0168ea63436b9a848cd80933b0026fe"/>
+		<rom name="Xtreme Sports Arcade - Summer Edition (USA).cue" size="109" crc="8f57332b" md5="071a43fd94a87d26ed2f2c2663ecefbb" sha1="a7ad64ae226a5aee22a04515c17fd46f0e0bf46e"/>
+	</game>
 	<game name="Xuan-Yuan Jian 3 - Yun He Shan De Bi Duan (China) (Disc 1) (Anzhuangpan)">
 		<category>Games</category>
 		<description>Xuan-Yuan Jian 3 - Yun He Shan De Bi Duan (China) (Disc 1) (Anzhuangpan)</description>
@@ -173962,6 +174031,12 @@
 		<description>Yogosareta Natsu - Juppon no Te de Naburareta Shoujo (Japan) (Taikenban)</description>
 		<rom name="Yogosareta Natsu - Juppon no Te de Naburareta Shoujo (Japan) (Taikenban).bin" size="668530128" crc="39518331" md5="3e013c8550bafbb97ef94074ce54e385" sha1="6cda5b417c65c692a13d77c08b5ee0c804b39e00"/>
 		<rom name="Yogosareta Natsu - Juppon no Te de Naburareta Shoujo (Japan) (Taikenban).cue" size="138" crc="1b6747fc" md5="619009aceeb1e77bc61be05e6ea47d07" sha1="2184d609fff00d8d979ad94e4222ae6a3a42d271"/>
+	</game>
+	<game name="Yoko Mimi - Isekai Inkouroku (Japan)">
+		<category>Games</category>
+		<description>Yoko Mimi - Isekai Inkouroku (Japan)</description>
+		<rom name="Yoko Mimi - Isekai Inkouroku (Japan).bin" size="425276880" crc="9cd505e9" md5="16dba2a4b12c3fa3db9f7b18c6c23bb5" sha1="96f02b95545b1eccd6d1405a9cace4c65e36a433"/>
+		<rom name="Yoko Mimi - Isekai Inkouroku (Japan).cue" size="102" crc="3ff06f9e" md5="aa53a806edea639562702e9fcb08d767" sha1="6a81e28d300ed75d8a849a3d6191441619993cd6"/>
 	</game>
 	<game name="Yokujou Kyonyuu Youkaitachi no Meikyuu (Japan)">
 		<category>Games</category>
