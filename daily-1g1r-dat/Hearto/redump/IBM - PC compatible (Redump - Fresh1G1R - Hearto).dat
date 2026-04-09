@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,933) (-y) [-aAbBcefkmMoprv] (2026-04-08 03-24-16) (Retool)</description>
-		<version>2026-04-08 03-24-16</version>
-		<date>2026-04-08 03-15-38</date>
+		<description>IBM - PC compatible (24,937) (-y) [-aAbBcefkmMoprv] (2026-04-09 01-58-08) (Retool)</description>
+		<version>2026-04-09 01-58-08</version>
+		<date>2026-04-09 03-14-56</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -93550,6 +93550,11 @@
 	<game name="Medieval II - Total War - Krolestwa (Poland)">
 		<category>Add-Ons</category>
 		<description>Medieval II - Total War - Krolestwa (Poland)</description>
+		<rom name="Medieval II - Total War - Krolestwa (Poland).iso" size="5876776960" crc="78e9017e" md5="fdc06df10acf252bd5666cefa9d018ad" sha1="f0c1f8f397d781b10045ed0e5bfdfb423ae0af1e"/>
+	</game>
+	<game name="Medieval II - Total War - Krolestwa (Poland) (Dupe 1)">
+		<category>Add-Ons</category>
+		<description>Medieval II - Total War - Krolestwa (Poland) (Dupe 1)</description>
 		<rom name="Medieval II - Total War - Krolestwa (Poland).iso" size="7812448256" crc="eda713ed" md5="13de7014b0c3d4211d3cf9cf86e22274" sha1="ce4f47118457d8ef5882bcc3d048091d1a10fd33"/>
 	</game>
 	<game name="Medieval Lords - Bauen, Verteidigen, Erobern (Germany)">
@@ -143484,6 +143489,11 @@
 		<rom name="SpellForce 2 - Shadow Wars (USA) (Disc 4).bin" size="291234048" crc="d0046b88" md5="060d5c3c8877b938e273da8411eadd3b" sha1="a001ce31324a15c8b05c01b4b5a67fcbf2f09f1f"/>
 		<rom name="SpellForce 2 - Shadow Wars (USA) (Disc 4).cue" size="107" crc="8001edc5" md5="3b4492aeebf85b9b3bb70bc3afe7546c" sha1="1d065fc05974708e63bd951bf10ad0f0342b3212"/>
 	</game>
+	<game name="SpellForce 2 - Wladca Smokow (Poland)">
+		<category>Add-Ons</category>
+		<description>SpellForce 2 - Wladca Smokow (Poland)</description>
+		<rom name="SpellForce 2 - Wladca Smokow (Poland).iso" size="1554415616" crc="e20f716d" md5="6ab5c2ff5aa553123c5369a7265d1f7f" sha1="7abfae74b414b93555a3cadd74c5bd126a3382c4"/>
+	</game>
 	<game name="Spellcasting - Party Pak (USA)">
 		<category>Games</category>
 		<description>Spellcasting - Party Pak (USA)</description>
@@ -160040,6 +160050,11 @@
 		<description>Two Worlds (USA) (Rev 1)</description>
 		<rom name="Two Worlds (USA) (Rev 1).iso" size="4262363136" crc="571f38fb" md5="43ba23096712174e5a517397e19fb80e" sha1="f5fa7de4e403085c8d7eb178a7170fb63aedc589"/>
 	</game>
+	<game name="Two Worlds - Game of the Year Edition (Poland)">
+		<category>Games</category>
+		<description>Two Worlds - Game of the Year Edition (Poland)</description>
+		<rom name="Two Worlds - Game of the Year Edition (Poland).iso" size="4450746368" crc="f6022849" md5="d981fdb74cf38ed92228e52327eae384" sha1="ec929bda785dc6959d465e9e18ce58fe011d9a09"/>
+	</game>
 	<game name="Two Worlds II (Europe)">
 		<category>Games</category>
 		<description>Two Worlds II (Europe)</description>
@@ -163961,6 +163976,12 @@
 		<rom name="Vietnam 2 - Special Assignment (USA) (v1.1) (Track 23).bin" size="20996304" crc="f6279622" md5="7560e7128970a4346f232661c3e80653" sha1="23b74167efe1c839f02f8975ba706faa67132c81"/>
 		<rom name="Vietnam 2 - Special Assignment (USA) (v1.1) (Track 24).bin" size="32455248" crc="b0851118" md5="87b91266c60515a2952b704bc630da62" sha1="746e7f17665f3b038aed1512cb343db63de2371e"/>
 		<rom name="Vietnam 2 - Special Assignment (USA) (v1.1).cue" size="3110" crc="4f638584" md5="33a4cb1bfda16ec88780e846a187a878" sha1="8413ff67c4acfb30dcfd25f6c7e365d5b153a398"/>
+	</game>
+	<game name="Vietnam Air War - Tour of Duty (Europe) (En,Fr,De)">
+		<category>Add-Ons</category>
+		<description>Vietnam Air War - Tour of Duty (Europe) (En,Fr,De)</description>
+		<rom name="Vietnam Air War - Tour of Duty (Europe) (En,Fr,De).bin" size="788533872" crc="4c77fe8b" md5="1f04d48b5fd3ef9ce8716cf9f007f09c" sha1="7cf3932ed72a65c0ce7c1b44f7d103bfab27034f"/>
+		<rom name="Vietnam Air War - Tour of Duty (Europe) (En,Fr,De).cue" size="116" crc="fd94a0c8" md5="dc81b911ecc6bb62518db30c0b742da2" sha1="e9a191fc395a4af1b85a482abdfc47c05962c9b7"/>
 	</game>
 	<game name="Vietnam Med + Evac (Germany)">
 		<category>Games</category>
