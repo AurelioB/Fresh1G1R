@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,937) (-y) [-aAbBcefkmMoprv] (2026-04-09 01-58-08) (Retool)</description>
-		<version>2026-04-09 01-58-08</version>
-		<date>2026-04-09 03-14-56</date>
+		<description>IBM - PC compatible (24,938) (-y) [-aAbBcefkmMoprv] (2026-04-10 00-07-39) (Retool)</description>
+		<version>2026-04-10 00-07-39</version>
+		<date>2026-04-10 03-15-24</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -38729,6 +38729,12 @@
 		<rom name="Disney - Pixar Toy Story 2 - Disneys Action-Spiel (Germany) (Rerelease).bin" size="772662576" crc="ea321626" md5="4ece5f6c3662ab61814a3788862d26cb" sha1="51f2a37a2fb34cf9d9a20d5a4bd47de83ae0aa1d"/>
 		<rom name="Disney - Pixar Toy Story 2 - Disneys Action-Spiel (Germany) (Rerelease).cue" size="152" crc="b4b6a165" md5="760dc92d3a16e906e262fe614d6402cc" sha1="2cc197fb32b639d00b97768c7103a9bb42b8be0a"/>
 	</game>
+	<game name="Disney - Pixar Toy Story 2 - Juego de Accion (Spain)">
+		<category>Games</category>
+		<description>Disney - Pixar Toy Story 2 - Juego de Accion (Spain)</description>
+		<rom name="Disney - Pixar Toy Story 2 - Juego de Accion (Spain).bin" size="744622032" crc="5e328b3b" md5="985d0dd63aa4fb41a1c038dd5d32ea0a" sha1="0e796300cd1785f0d7c29220f63245cec1dc699f"/>
+		<rom name="Disney - Pixar Toy Story 2 - Juego de Accion (Spain).cue" size="118" crc="cea4616d" md5="8657e022a198f72f517fb07408e1bed2" sha1="91cca3127e2cd490350ebd6f4cbb656befd04106"/>
+	</game>
 	<game name="Disney - Pixar Toy Story 3 (Europe) (En,Fr,De,Es,It,Nl)">
 		<category>Games</category>
 		<description>Disney - Pixar Toy Story 3 (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -60134,6 +60140,12 @@
 		<category>Games</category>
 		<description>Giotail (Japan)</description>
 		<rom name="Giotail (Japan).iso" size="3423709184" crc="dab64d35" md5="6cfcfd3e59b866de8679b44b773e58ed" sha1="b701b4993ccd78b3763927888bd942fac7499e28"/>
+	</game>
+	<game name="Girl Talk - Awesome (UK)">
+		<category>Games</category>
+		<description>Girl Talk - Awesome (UK)</description>
+		<rom name="Girl Talk - Awesome (UK).bin" size="639078384" crc="93463744" md5="ed153ac6158bdbfa0c9711f5909b11f5" sha1="03e29088c2464304b6d0614eb4d58ab1a423b72a"/>
+		<rom name="Girl Talk - Awesome (UK).cue" size="90" crc="9d07d02e" md5="db25ec2050da991abed17e195ba46b05" sha1="a4d994737ea62cb1753faf9b36b3c97a671f9122"/>
 	</game>
 	<game name="Giten Megami Tensei (Japan)">
 		<category>Games</category>
@@ -93550,11 +93562,6 @@
 	<game name="Medieval II - Total War - Krolestwa (Poland)">
 		<category>Add-Ons</category>
 		<description>Medieval II - Total War - Krolestwa (Poland)</description>
-		<rom name="Medieval II - Total War - Krolestwa (Poland).iso" size="5876776960" crc="78e9017e" md5="fdc06df10acf252bd5666cefa9d018ad" sha1="f0c1f8f397d781b10045ed0e5bfdfb423ae0af1e"/>
-	</game>
-	<game name="Medieval II - Total War - Krolestwa (Poland) (Dupe 1)">
-		<category>Add-Ons</category>
-		<description>Medieval II - Total War - Krolestwa (Poland) (Dupe 1)</description>
 		<rom name="Medieval II - Total War - Krolestwa (Poland).iso" size="7812448256" crc="eda713ed" md5="13de7014b0c3d4211d3cf9cf86e22274" sha1="ce4f47118457d8ef5882bcc3d048091d1a10fd33"/>
 	</game>
 	<game name="Medieval Lords - Bauen, Verteidigen, Erobern (Germany)">
@@ -151376,11 +151383,11 @@
 		<rom name="Team Apache - Helicopter Combat (Australia).bin" size="508612944" crc="6ca490c9" md5="b97cb50664bd3d0a316fe0e3bd647528" sha1="7d7fadc30de88252453e5bf5caac635c51f69b4a"/>
 		<rom name="Team Apache - Helicopter Combat (Australia).cue" size="109" crc="c19c1981" md5="faa833ddd95db1dca2ce28ba75b8e1e9" sha1="8bb8016432b25ffd56f76c1c0da52e891c542f0c"/>
 	</game>
-	<game name="Team Factor (Europe)">
+	<game name="Team Factor (Europe) (En,Fr,De,Es,It,Ru) (v1.1)">
 		<category>Games</category>
-		<description>Team Factor (Europe)</description>
-		<rom name="Team Factor (Europe).bin" size="441395136" crc="4ce13a1a" md5="11dce4670cc5613e6d05e8f80124bac9" sha1="3af51e02f811f263916d9bda945049b785093acd"/>
-		<rom name="Team Factor (Europe).cue" size="86" crc="308108d8" md5="d90bf63fa5b068833e8839425b2d2f31" sha1="847a366c78d1de2b7017179757f16554e7432e50"/>
+		<description>Team Factor (Europe) (En,Fr,De,Es,It,Ru) (v1.1)</description>
+		<rom name="Team Factor (Europe) (En,Fr,De,Es,It,Ru) (v1.1).bin" size="329545776" crc="31f2b350" md5="183a25662e1ab9b7f3ae5262e379831b" sha1="4288f09146867b7aba5811df9020669783bb6421"/>
+		<rom name="Team Factor (Europe) (En,Fr,De,Es,It,Ru) (v1.1).cue" size="113" crc="68c9450f" md5="ccf4fad5b96e6152dc40956e016e8d8f" sha1="e24ca82c2351c4eb5fe5e2883487f3fca7b4438e"/>
 	</game>
 	<game name="Team Fortress 2 (USA)">
 		<category>Games</category>
