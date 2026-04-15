@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,019) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-13 19-45-47) (Retool)</description>
-		<version>2026-04-13 19-45-47</version>
-		<date>2026-04-14 03-22-00</date>
+		<description>IBM - PC compatible (13,031) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-15 01-51-41) (Retool)</description>
+		<version>2026-04-15 01-51-41</version>
+		<date>2026-04-15 03-23-17</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -21409,6 +21409,12 @@
 		<rom name="Disney's Hot Shots - Timon &amp; Pumbaa's Jungle Pinball (Europe, Australia).bin" size="237512016" crc="54ed8d2f" md5="698e6f566ce33cbe3180a93ca600aa3d" sha1="d2466b95824e79069939686e045a662d180beead"/>
 		<rom name="Disney's Hot Shots - Timon &amp; Pumbaa's Jungle Pinball (Europe, Australia).cue" size="138" crc="d7d7ce82" md5="65833c92a2857567c2552d137374f43d" sha1="c2a806f507ac80eafcab80492223e89e4857c920"/>
 	</game>
+	<game name="Disney's Hot Shots - Upsy Daisy (USA)">
+		<category>Games</category>
+		<description>Disney's Hot Shots - Upsy Daisy (USA)</description>
+		<rom name="Disney's Hot Shots - Upsy Daisy (USA).bin" size="209041056" crc="be9d92a5" md5="efe9f26ab8345f5f41e1a08230e24909" sha1="33eb6f233dccf34236ad04b22a83e41a4672b6b0"/>
+		<rom name="Disney's Hot Shots - Upsy Daisy (USA).cue" size="103" crc="885bd7e7" md5="b2a941033fb969b4f1f2c646b26f463c" sha1="4d4691f8ec47a0547af46645a38a6fadf61fb238"/>
+	</game>
 	<game name="Disney's Hunchback of Notre Dame - Topsy Turvy Games (USA)">
 		<category>Games</category>
 		<description>Disney's Hunchback of Notre Dame - Topsy Turvy Games (USA)</description>
@@ -36698,10 +36704,10 @@
 		<rom name="Hitman 2 - Silent Assassin (USA).bin" size="647792544" crc="f551de81" md5="f8cd0ff175b077c94def9635bde00dd6" sha1="002d454d8850250cb600772dca226e27a8d53394"/>
 		<rom name="Hitman 2 - Silent Assassin (USA).cue" size="98" crc="9a4d7cee" md5="416a7be2ff15f1bc0b5745c1f9d31b03" sha1="fa5a42b155c528a5fe9fb088e63f727313582b38"/>
 	</game>
-	<game name="Hitman Collection (Europe) (En,Fr,De,Es,It)">
+	<game name="Hitman Collection (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Hitman Collection (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Hitman Collection (Europe) (En,Fr,De,Es,It).iso" size="1752530944" crc="5b4371ee" md5="9d66ddf9c27c8b33cd3081c949813bf8" sha1="ec9e245d44ffdc9d5485bd102b34053d8c9ca034"/>
+		<description>Hitman Collection (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="Hitman Collection (Europe, Australia) (En,Fr,De,Es,It).iso" size="1752530944" crc="5b4371ee" md5="9d66ddf9c27c8b33cd3081c949813bf8" sha1="ec9e245d44ffdc9d5485bd102b34053d8c9ca034"/>
 	</game>
 	<game name="Hitomi - My Stepsister (USA) (Game Disc)">
 		<category>Games</category>
@@ -36852,6 +36858,12 @@
 		<description>Homeland - The Stone of Night (USA)</description>
 		<rom name="Homeland - The Stone of Night (USA).bin" size="441084672" crc="1661bd2f" md5="38579cd0e6dced8aa7a1d94934a64c11" sha1="366a395051f16540e4c175e5acc4ff24e66001d2"/>
 		<rom name="Homeland - The Stone of Night (USA).cue" size="101" crc="bec9bb25" md5="4266ac581a40685b3e950d57368d98d8" sha1="d9e88758ec12d73a19d65ed8b2830804bd540fba"/>
+	</game>
+	<game name="Homeland Defense - National Security Patrol (USA)">
+		<category>Games</category>
+		<description>Homeland Defense - National Security Patrol (USA)</description>
+		<rom name="Homeland Defense - National Security Patrol (USA).bin" size="308572992" crc="119ab423" md5="3af003158f85772ff119278ffd2ca2d5" sha1="cd637cee90e4acd4ba0e08ac8113ee02eda04e06"/>
+		<rom name="Homeland Defense - National Security Patrol (USA).cue" size="115" crc="2d470056" md5="a72e0a7064c0be62a482d10e9121c4f9" sha1="41d70798648b0032dd28fa30b699f9f3c0fd4268"/>
 	</game>
 	<game name="Homeland Defense - Natonal Security Patrol (Europe)">
 		<category>Games</category>
@@ -37010,6 +37022,12 @@
 		<category>Games</category>
 		<description>Hospital Tycoon (USA) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Hospital Tycoon (USA) (En,Fr,De,Es,It,Nl).iso" size="759431168" crc="bdd161e9" md5="0efa2598a1f542e759540f1529e96781" sha1="99edfe10a1188e48d8b576e5bce19df393430fe4"/>
+	</game>
+	<game name="Hostile Makeover (USA)">
+		<category>Games</category>
+		<description>Hostile Makeover (USA)</description>
+		<rom name="Hostile Makeover (USA).bin" size="423042480" crc="8f369832" md5="942ef79c601e2ae684bc1a23399f885d" sha1="7dae7ef096c56ff58bf16ec93e56d1a14730c31d"/>
+		<rom name="Hostile Makeover (USA).cue" size="88" crc="08e06fc3" md5="026434bc5f6c10a77a8eafd1c35607c1" sha1="767b827a5fe62c96e516fb98f5bbe72a7bd9df59"/>
 	</game>
 	<game name="Hostile Waters (Europe) (Sold Out Software)">
 		<category>Games</category>
@@ -54061,6 +54079,12 @@
 		<rom name="NASCAR Thunder 2003 (USA).bin" size="631321488" crc="8e46a714" md5="7a1a8d8eb7a95fb8c806626e362e908c" sha1="57bdb711064e675ba6e71947133221eac7d7b34a"/>
 		<rom name="NASCAR Thunder 2003 (USA).cue" size="91" crc="15423044" md5="445afcc9e98709656f56e1a8fd1e647d" sha1="45b7dd058d4e67c2e9598cab67ef676c5d91ebca"/>
 	</game>
+	<game name="NASCAR Thunder 2004 (USA)">
+		<category>Games</category>
+		<description>NASCAR Thunder 2004 (USA)</description>
+		<rom name="NASCAR Thunder 2004 (USA).bin" size="795373488" crc="07601ffd" md5="b794adabc338eeaa33c9dce00262baa3" sha1="ec4b87fd4ac08d92333f27d7017f60da58a6759d"/>
+		<rom name="NASCAR Thunder 2004 (USA).cue" size="91" crc="0165814e" md5="06b9443f602a0caf7b6df126b2fa4355" sha1="9ca5446d692c524058e13fb16de805161d1761b0"/>
+	</game>
 	<game name="NBA 2K11 (USA)">
 		<category>Games</category>
 		<description>NBA 2K11 (USA)</description>
@@ -58940,6 +58964,12 @@
 		<rom name="Penumbra - Temnyj mir (Russia) (En,Fr,De,Es,It,Ru).bin" size="819225120" crc="fe8432fb" md5="af4a71d7eb77186bc836d6a91fe06a6e" sha1="ad273ea11470f8170f88cfc92bfa2a12df79c527"/>
 		<rom name="Penumbra - Temnyj mir (Russia) (En,Fr,De,Es,It,Ru).cue" size="116" crc="5e6c471a" md5="10d3d7d160ca99a9d2ffe69ef7a75e62" sha1="dcd12a6f87bea8c7784ca0be96c2b33675a58e21"/>
 	</game>
+	<game name="People's General (USA)">
+		<category>Games</category>
+		<description>People's General (USA)</description>
+		<rom name="People's General (USA).bin" size="468499584" crc="439583dd" md5="7f73d07c1ce91e22ae032b7d9e7bcc92" sha1="a50422e816736006881bf733ee56676ae983af47"/>
+		<rom name="People's General (USA).cue" size="88" crc="f99e173d" md5="d1cf13d08b7527d10ef550d348906184" sha1="4560d40c1caa837d056d902190109ff7d5ddd176"/>
+	</game>
 	<game name="Peppa Pig - Puddles of Fun (Europe)">
 		<category>Games</category>
 		<description>Peppa Pig - Puddles of Fun (Europe)</description>
@@ -59896,6 +59926,24 @@
 		<category>Games</category>
 		<description>Pippa Funnell - Secrets of the Ranch (Europe) (En,Es,It)</description>
 		<rom name="Pippa Funnell - Secrets of the Ranch (Europe) (En,Es,It).iso" size="4143120384" crc="81de9bcd" md5="7fe1f44afd0a94052e0347ba1e52a375" sha1="bf5b52d11d2eff43d840c8e7fe3f2da0588f3fab"/>
+	</game>
+	<game name="Pippa Funnell - The Golden Stirrup Challenge (Europe) (Disc 1)">
+		<category>Games</category>
+		<description>Pippa Funnell - The Golden Stirrup Challenge (Europe) (Disc 1)</description>
+		<rom name="Pippa Funnell - The Golden Stirrup Challenge (Europe) (Disc 1).bin" size="768252576" crc="f9d690e6" md5="173874940db8702759264bff8d5b4990" sha1="6740f9a57045dbce142a3f6fa9cbcf32cbece1d8"/>
+		<rom name="Pippa Funnell - The Golden Stirrup Challenge (Europe) (Disc 1).cue" size="128" crc="51783264" md5="8b25eca80e3eba33034baa62be7e922a" sha1="8679abe4a8606102699b5497031f43ff53c8204a"/>
+	</game>
+	<game name="Pippa Funnell - The Golden Stirrup Challenge (Europe) (Disc 2)">
+		<category>Games</category>
+		<description>Pippa Funnell - The Golden Stirrup Challenge (Europe) (Disc 2)</description>
+		<rom name="Pippa Funnell - The Golden Stirrup Challenge (Europe) (Disc 2).bin" size="764811600" crc="bfe20839" md5="79f3f8d3c408ce45644b7170668baf48" sha1="43143dd53da15567b431513cc6e1310bec9917cf"/>
+		<rom name="Pippa Funnell - The Golden Stirrup Challenge (Europe) (Disc 2).cue" size="128" crc="502514b5" md5="316b7a23b31c1fa3e3cd2bbe8625ff89" sha1="a244c4aa1c5306ba1fcb9575fe582cc4e0fcc92c"/>
+	</game>
+	<game name="Pippa Funnell - The Golden Stirrup Challenge (Europe) (Disc 3)">
+		<category>Games</category>
+		<description>Pippa Funnell - The Golden Stirrup Challenge (Europe) (Disc 3)</description>
+		<rom name="Pippa Funnell - The Golden Stirrup Challenge (Europe) (Disc 3).bin" size="340543728" crc="16a82330" md5="893238d655f5d3a2087965d576755db3" sha1="b7625bf97472ae4703be3b95e4c4804cec605912"/>
+		<rom name="Pippa Funnell - The Golden Stirrup Challenge (Europe) (Disc 3).cue" size="128" crc="e63ef4c5" md5="31296b95a3b28be39580ec915bdeffe7" sha1="12925079e62ccdf7764c711e34795a1ed8f5344a"/>
 	</game>
 	<game name="Pippa Funnell - The Stud Farm Inheritance (Europe)">
 		<category>Games</category>
@@ -61709,6 +61757,12 @@
 		<description>Prison Tycoon (USA) (Rev 1)</description>
 		<rom name="Prison Tycoon (USA) (Rev 1).bin" size="502340160" crc="9ab0d605" md5="bb764a085eeefb3dcb96d723c6e58099" sha1="f5f034b379e04d828e0915a4f839743c91f86b51"/>
 		<rom name="Prison Tycoon (USA) (Rev 1).cue" size="93" crc="65d715b9" md5="97ce417a8f2979a700afb5ab6da8f19e" sha1="b8e82fe372333e244ed884e056bb1fa818b96754"/>
+	</game>
+	<game name="Prison Tycoon - Alcatraz (USA)">
+		<category>Games</category>
+		<description>Prison Tycoon - Alcatraz (USA)</description>
+		<rom name="Prison Tycoon - Alcatraz (USA).bin" size="280309008" crc="4db01b80" md5="5264920c6fb00188029f8294fb285336" sha1="6a361f1fa24edeabc7184c2b0ce8312e9f794636"/>
+		<rom name="Prison Tycoon - Alcatraz (USA).cue" size="96" crc="5f187d92" md5="69130e25e8c0d5191880015b2318cb04" sha1="67e6cb529700fbf21b3f10eba142c10e0a5fe29c"/>
 	</game>
 	<game name="Prison Tycoon - Gold Edition (USA)">
 		<category>Games</category>
@@ -66129,10 +66183,10 @@
 		<rom name="Rise of Atlantis, The (USA).bin" size="194378688" crc="b999e60b" md5="bdfdc8cbf322f059a9302949e9556c47" sha1="10a3ba3c66339c9a0a5417106c0bd1e9ed5c9ccb"/>
 		<rom name="Rise of Atlantis, The (USA).cue" size="93" crc="6bd0d245" md5="8f8ff81b818d949c79310ab93257d44b" sha1="3fb58ddbd89dc64cbd57654f3a17b66cae1ed637"/>
 	</game>
-	<game name="Rise of Flight - The First Great Air War (Europe) (En,Fr,De,Es) (v1.021b)">
+	<game name="Rise of Flight - The First Great Air War (USA) (En,Fr,De,Es,Ru)">
 		<category>Games</category>
-		<description>Rise of Flight - The First Great Air War (Europe) (En,Fr,De,Es) (v1.021b)</description>
-		<rom name="Rise of Flight - The First Great Air War (Europe) (En,Fr,De,Es) (v1.021b).iso" size="4294049792" crc="617d97fd" md5="9e2b7fd49d2f1319affa56f738997d3e" sha1="8e7edf0311b4a9b853eaba45c1fae76ed66b756b"/>
+		<description>Rise of Flight - The First Great Air War (USA) (En,Fr,De,Es,Ru)</description>
+		<rom name="Rise of Flight - The First Great Air War (USA) (En,Fr,De,Es,Ru).iso" size="3758227456" crc="93234e5d" md5="82f0858cfcc29165e02bf236999bd921" sha1="ee11ca7af565e3374dd4e936184f191f49c2b16c"/>
 	</game>
 	<game name="Rise of Nations (USA, Europe) (Rerelease)">
 		<category>Games</category>
@@ -70568,10 +70622,10 @@
 		<description>Shift 2 - Unleashed (USA) (En,Fr,De,Es,It,Pl,Ru)</description>
 		<rom name="Shift 2 - Unleashed (USA) (En,Fr,De,Es,It,Pl,Ru).iso" size="7243726848" crc="e39592d3" md5="fffc30e333f772c1c2312a996ae0df9b" sha1="427265773f8fdb3590a742bf78e1ea96f0aab001"/>
 	</game>
-	<game name="Ship Simulator 2008 (Europe) (Rerelease)">
+	<game name="Ship Simulator 2008 (USA)">
 		<category>Games</category>
-		<description>Ship Simulator 2008 (Europe) (Rerelease)</description>
-		<rom name="Ship Simulator 2008 (Europe) (Rerelease).iso" size="792690688" crc="a2c321eb" md5="396d4782f656c156d5edf78844253cfa" sha1="b2ff8b7b4878a4e24ccb91f128813bbba71e6b06"/>
+		<description>Ship Simulator 2008 (USA)</description>
+		<rom name="Ship Simulator 2008 (USA).iso" size="693764096" crc="233cd8d7" md5="f206b24b68459e7803bc6b47e470b513" sha1="74f3ce6741454b3ef1fe831368dc16a2c7fcf3f6"/>
 	</game>
 	<game name="Ship, The (USA)">
 		<category>Games</category>
@@ -72621,6 +72675,12 @@
 		<rom name="Snap! 400 Word Searches (USA).bin" size="8264928" crc="120b1669" md5="e21109dd2dcf1fc0c0843dd978b26322" sha1="e4e3e58e56353720b5941b1b2c26c383f33fc4ee"/>
 		<rom name="Snap! 400 Word Searches (USA).cue" size="95" crc="d7d4f491" md5="c7dc1676aa6471a6db90e9bc3395e86e" sha1="77de7464946f089e28a3c37f8c8026fc33f57f35"/>
 	</game>
+	<game name="Snap! Multiplication (USA)">
+		<category>Games</category>
+		<description>Snap! Multiplication (USA)</description>
+		<rom name="Snap! Multiplication (USA).bin" size="797518512" crc="29f8c94a" md5="42e45d7d539fb9902bf01c47456f598c" sha1="a915023dbba629d86f7686810c556e5bb747ccf3"/>
+		<rom name="Snap! Multiplication (USA).cue" size="92" crc="9b999a84" md5="a1f2ef02362a36b191c0973bd666f24d" sha1="3dba8d403774256d30f7c615d37ad91a0e75d28d"/>
+	</game>
 	<game name="Snap! Pool (USA)">
 		<category>Games</category>
 		<description>Snap! Pool (USA)</description>
@@ -72648,6 +72708,11 @@
 		<category>Games</category>
 		<description>Sniper - Ghost Warrior (USA)</description>
 		<rom name="Sniper - Ghost Warrior (USA).iso" size="5007310848" crc="edc7e5fd" md5="eeaf0e831b3fd7ed65d22a4993b7a491" sha1="792195e46a00a5d9e20ffd361731caecd5c2b14c"/>
+	</game>
+	<game name="Sniper - Ghost Warrior 2 (USA)">
+		<category>Games</category>
+		<description>Sniper - Ghost Warrior 2 (USA)</description>
+		<rom name="Sniper - Ghost Warrior 2 (USA).iso" size="6582239232" crc="129b13ec" md5="a61165725767470cb7a0db9f6a5e0223" sha1="7c671ee7d31b7830fdfee955aeaacfa72f704177"/>
 	</game>
 	<game name="Sniper - Ghost Warrior 3 (USA) (Disc 1)">
 		<category>Games</category>
@@ -73786,11 +73851,11 @@
 		<rom name="Space Dudes (USA).bin" size="243034512" crc="a0bfc25e" md5="ad9f505e2f1d57fdb5d1fd8718cb9cc0" sha1="0b9d48054280c476f5dae20412eaf68d0c00ea69"/>
 		<rom name="Space Dudes (USA).cue" size="106" crc="f55e172e" md5="58d7c3d9b106a1d6dcd5db5cd9de59e9" sha1="d0f09d83712f3be4d6c1d1b565f3d30d137dea2e"/>
 	</game>
-	<game name="Space Empires V (Europe)">
+	<game name="Space Empires V (USA)">
 		<category>Games</category>
-		<description>Space Empires V (Europe)</description>
-		<rom name="Space Empires V (Europe).bin" size="375113424" crc="f7138435" md5="485c9b1b624bd397fa41bc3cfabecd6a" sha1="221f1a9c01a0b0b1851bd3797502aa62d84302b5"/>
-		<rom name="Space Empires V (Europe).cue" size="90" crc="79aa2d19" md5="2666af5c5eb0b677c9022e83c0a49992" sha1="48f024298e522027ee9dff6b41c8ac4ee515a05f"/>
+		<description>Space Empires V (USA)</description>
+		<rom name="Space Empires V (USA).bin" size="399092064" crc="bb2c46e8" md5="f120ee7cd23ff7c98f639491886c7bb1" sha1="2dd9ce0adc08bbb661d58d3649992dbc5f1ce2d6"/>
+		<rom name="Space Empires V (USA).cue" size="87" crc="deb058e7" md5="a0947af456fe33728fdf41f91153aaf1" sha1="f803f7b17dde7447ef65656a9d1cd71545e384db"/>
 	</game>
 	<game name="Space Engineers (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu,Ar,Th)">
 		<category>Games</category>
@@ -73997,11 +74062,11 @@
 		<rom name="Spaceship Warlock (USA).bin" size="544483296" crc="47cfd227" md5="6e732070a20e99751774c3bed0e30029" sha1="e1b578c3cf304a75793364b92d5dd62325853c5b"/>
 		<rom name="Spaceship Warlock (USA).cue" size="89" crc="150bd460" md5="8e684aa604667fb105a4ccde9be99de6" sha1="2ea8a9ce9e2429db8f7854f83d2086647e78cf45"/>
 	</game>
-	<game name="Spartan (Europe) (Sold Out Software)">
+	<game name="Spartan (USA)">
 		<category>Games</category>
-		<description>Spartan (Europe) (Sold Out Software)</description>
-		<rom name="Spartan (Europe) (Sold Out Software).bin" size="788886672" crc="8501199a" md5="968ce232ad9d69ae28dc49e75a716213" sha1="8dc267cc42162fe32a3a10815bc7a9970a6dea33"/>
-		<rom name="Spartan (Europe) (Sold Out Software).cue" size="102" crc="3dd1ea3f" md5="18a9a1cb51f0ec2901229cb0075c75a7" sha1="55773c265eb421febbefb542a175784810a4375f"/>
+		<description>Spartan (USA)</description>
+		<rom name="Spartan (USA).bin" size="788886672" crc="fe1d3ffa" md5="dd26a1e615548c8f96ecdb58337da143" sha1="5777bb379993b734a562574a9d92fade055133ae"/>
+		<rom name="Spartan (USA).cue" size="79" crc="f7e62f33" md5="9f2417c90702fda98c8a16b05979e434" sha1="ffda65e899f4e3edd09a0d2633d2954b4c19e824"/>
 	</game>
 	<game name="Spear of Destiny (USA) (1995-02-07)">
 		<category>Games</category>
@@ -81839,6 +81904,13 @@
 		<rom name="Tony La Russa Baseball 4 1997 Edition (USA).bin" size="738440976" crc="7d3615aa" md5="644db182931586d46cacbc12b8555cc6" sha1="7f22aff922314a7744e600e46efab35c929259cf"/>
 		<rom name="Tony La Russa Baseball 4 1997 Edition (USA).cue" size="132" crc="5a53b557" md5="4200bcabd5331be89d96d70cbe2f8cea" sha1="440d066141efd5a692e0c9d0ebc493869ca06f84"/>
 	</game>
+	<game name="Tony La Russa Baseball II (USA)">
+		<category>Games</category>
+		<description>Tony La Russa Baseball II (USA)</description>
+		<rom name="Tony La Russa Baseball II (USA) (Track 1).bin" size="39842880" crc="21cf2ab1" md5="cd4f1d3fe36a391c55133342b0ba87f1" sha1="93d42ac1ba5a4c926c516c382414ca2d9b0f3c1a"/>
+		<rom name="Tony La Russa Baseball II (USA) (Track 2).bin" size="99273216" crc="40b1489f" md5="9b24f018b583d2c190023b5097220cd2" sha1="be25d53d29b760a4656c6cfae9d8aefbcff2bfc3"/>
+		<rom name="Tony La Russa Baseball II (USA).cue" size="255" crc="c344aacb" md5="c556d7803ca0f0018dc1db2de15a60ca" sha1="04b30dd2073d45cb91e7c673cc29eb1972875433"/>
+	</game>
 	<game name="Tony Tough and the Night of Roasted Moths (USA)">
 		<category>Games</category>
 		<description>Tony Tough and the Night of Roasted Moths (USA)</description>
@@ -87521,11 +87593,11 @@
 		<rom name="Warlords Battlecry II (USA).bin" size="788886672" crc="3ffa271c" md5="df7f010c62240289e7855c404c67cd80" sha1="d81c8cc5ca2452c30c43407145e90f9be994482b"/>
 		<rom name="Warlords Battlecry II (USA).cue" size="93" crc="7d458f4a" md5="552d0a772c86fa7446011bb81a089235" sha1="cc0175b28aaa5462a297194cabcbe5799f799f5c"/>
 	</game>
-	<game name="Warlords Battlecry III (Europe)">
+	<game name="Warlords Battlecry III (USA)">
 		<category>Games</category>
-		<description>Warlords Battlecry III (Europe)</description>
-		<rom name="Warlords Battlecry III (Europe).bin" size="830926320" crc="bd6e85bc" md5="783a0149b819c998f972c32eeb8f31de" sha1="4742e063a63577fabdb9662d8cfb7e47b289c2e2"/>
-		<rom name="Warlords Battlecry III (Europe).cue" size="97" crc="8347c09c" md5="54b314a84773a9afbd7561eab7138076" sha1="d69926d4f67e8a7c2663ecedf11e2c20cda4a6f0"/>
+		<description>Warlords Battlecry III (USA)</description>
+		<rom name="Warlords Battlecry III (USA).bin" size="786106608" crc="6ac557a7" md5="c706677418516ac49ec4bc459980a99e" sha1="c5e40e1783e33a5298a156dc1b8c6fa4b4f4b95c"/>
+		<rom name="Warlords Battlecry III (USA).cue" size="94" crc="9f096935" md5="ddb55ce58ec3c9106abbfffb6b983758" sha1="b152304e77639d344dc8721c288b108626ba2f3c"/>
 	</game>
 	<game name="Warlords II Deluxe (Europe)">
 		<category>Games</category>
