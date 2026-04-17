@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (24,990) (-y) [-aAbBcefkmMoprv] (2026-04-15 01-51-41) (Retool)</description>
-		<version>2026-04-15 01-51-41</version>
-		<date>2026-04-15 03-17-06</date>
+		<description>IBM - PC compatible (24,996) (-y) [-aAbBcefkmMoprv] (2026-04-16 22-26-28) (Retool)</description>
+		<version>2026-04-16 22-26-28</version>
+		<date>2026-04-17 03-17-36</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -8730,11 +8730,11 @@
 		<rom name="Andretti Racing (USA).bin" size="594298656" crc="8ec1626b" md5="22c6e1d0da955154b418f93806481d32" sha1="52f8903f10d0f7f1cace3fc5b179fbb9149bade2"/>
 		<rom name="Andretti Racing (USA).cue" size="110" crc="dc88fe15" md5="c7bfc7ffc00161a182bcad44133a54b5" sha1="05e67ef93dbfc1c585bc62eb13f1f4ad06378f61"/>
 	</game>
-	<game name="Ane Hara Mix - Ane &amp; Shinigami Onee-san to 1 Shuukan (Japan)">
+	<game name="Ane Hara Mix - Ane &amp; Shinigami Oneesan to 1 Shuukan (Japan)">
 		<category>Games</category>
-		<description>Ane Hara Mix - Ane &amp; Shinigami Onee-san to 1 Shuukan (Japan)</description>
-		<rom name="Ane Hara Mix - Ane &amp; Shinigami Onee-san to 1 Shuukan (Japan).bin" size="183531264" crc="c232188f" md5="72785b97d64aba082cb70d5f590ad1c6" sha1="a97116df9e2aff39df61217897cade06cb096b41"/>
-		<rom name="Ane Hara Mix - Ane &amp; Shinigami Onee-san to 1 Shuukan (Japan).cue" size="126" crc="df5bbee6" md5="3424e4220fe519e48c91ee0fe9401254" sha1="772f3150558f9e0705969b573f2f2816c3252a6b"/>
+		<description>Ane Hara Mix - Ane &amp; Shinigami Oneesan to 1 Shuukan (Japan)</description>
+		<rom name="Ane Hara Mix - Ane &amp; Shinigami Oneesan to 1 Shuukan (Japan).bin" size="183531264" crc="c232188f" md5="72785b97d64aba082cb70d5f590ad1c6" sha1="a97116df9e2aff39df61217897cade06cb096b41"/>
+		<rom name="Ane Hara Mix - Ane &amp; Shinigami Oneesan to 1 Shuukan (Japan).cue" size="125" crc="7b7b7d6c" md5="b9098398904aa79fffacad8d6c0c6461" sha1="319386f444b064ec81799f9bdf62c1cca464957b"/>
 	</game>
 	<game name="Ane to Boin (Japan)">
 		<category>Games</category>
@@ -16485,6 +16485,12 @@
 		<category>Games</category>
 		<description>Beat Blades Haruka (USA)</description>
 		<rom name="Beat Blades Haruka (USA).iso" size="1043365888" crc="9bd478f7" md5="df0b95dc9ad7bd72c8ea7ef45bfca827" sha1="a60cc16be0a66bcbcb4a9d6cf500d230caa96600"/>
+	</game>
+	<game name="Beat Cop (Poland)">
+		<category>Games</category>
+		<description>Beat Cop (Poland)</description>
+		<rom name="Beat Cop (Poland).bin" size="260262912" crc="8adaade9" md5="cf9acc291021a732667978872ba268fa" sha1="69a9e7f0aee8b95d9c8272ee5a0aa1c69e27601e"/>
+		<rom name="Beat Cop (Poland).cue" size="83" crc="ee6357bb" md5="033a20402d4d2b45acaa3a91a9a95dbc" sha1="b94a0dd036ed10953ccfbbf95b91a745b43d8002"/>
 	</game>
 	<game name="Beat Hazard (USA)">
 		<category>Games</category>
@@ -59715,11 +59721,11 @@
 		<rom name="Geograficus (Germany) (Rerelease) (2007-09-18).bin" size="733546464" crc="9796a5f5" md5="13a0627fc83d34e9f579a876b3830bc4" sha1="259d3ff159db01834e81a19fc26400ca08e91239"/>
 		<rom name="Geograficus (Germany) (Rerelease) (2007-09-18).cue" size="112" crc="d3e0a776" md5="e3d00b1d97f09141953d679ea42ffc9b" sha1="317d9f15e10b5c8a2e5c35951d2eb70038d81330"/>
 	</game>
-	<game name="German Truck Simulator (Germany)">
+	<game name="German Truck Simulator (Turkey) (En,Fr,It)">
 		<category>Games</category>
-		<description>German Truck Simulator (Germany)</description>
-		<rom name="German Truck Simulator (Germany).bin" size="436319520" crc="d7a28166" md5="5c83386c3985a00bba790fa6d452f8f0" sha1="408969f4a323312f608c5bdf94b9c847fb68baf9"/>
-		<rom name="German Truck Simulator (Germany).cue" size="98" crc="80fced07" md5="f89e9dcdec7921baa6356924ceb1cdf5" sha1="fb624831ba5de2e0a53f571fc2417ddffbc9bb59"/>
+		<description>German Truck Simulator (Turkey) (En,Fr,It)</description>
+		<rom name="German Truck Simulator (Turkey) (En,Fr,It).bin" size="552000288" crc="04a8caec" md5="fe01f6e5759bc11c29ec073e0148bf7a" sha1="fefa212a9be41c9148f62b7434fe0d0127934ba9"/>
+		<rom name="German Truck Simulator (Turkey) (En,Fr,It).cue" size="108" crc="aaaef4f4" md5="946eb86c6a8ac3c30e04fbe334c054eb" sha1="f29e42fabb2d0e0d6d73831d25b5b60df2cba0bc"/>
 	</game>
 	<game name="Germany's Next Topmodel (Germany) (Disc 1)">
 		<category>Games</category>
@@ -72275,6 +72281,11 @@
 		<rom name="Imagine - Fashion Designer (USA) (En,Fr) (Disc 2).bin" size="525290976" crc="3e673fc7" md5="b95e0d87a1be719bbdaa74305ae09eeb" sha1="64bcc10967086bde50ca61e5fff873f3e412eeba"/>
 		<rom name="Imagine - Fashion Designer (USA) (En,Fr) (Disc 2).cue" size="115" crc="cec190b0" md5="730d938efc61d2980976879f817ae71c" sha1="27ba2603074faadd91ecc7c1534b3e91eb846941"/>
 	</game>
+	<game name="Imagine Pet Vet at the Zoo (Europe)">
+		<category>Games</category>
+		<description>Imagine Pet Vet at the Zoo (Europe)</description>
+		<rom name="Imagine Pet Vet at the Zoo (Europe).iso" size="1888583680" crc="22eef77b" md5="e0c53086c0d00540bed8a45e16653dcb" sha1="6faef082450fc628743137c5b97e95f7e3d092e0"/>
+	</game>
 	<game name="Imaginext - De slag om het Draken Kasteel (Netherlands)">
 		<category>Games</category>
 		<description>Imaginext - De slag om het Draken Kasteel (Netherlands)</description>
@@ -73369,22 +73380,22 @@
 		<rom name="Independence War - Deluxe Edition (USA) (En,Fr,De) (Disc 4) (Independence War - Defiance).bin" size="578620224" crc="3f3887fe" md5="b507cc7b6ec54beacd65d31e7c43da59" sha1="d16c1bdab2bd0de324434e0d01b3addbdfb1ef33"/>
 		<rom name="Independence War - Deluxe Edition (USA) (En,Fr,De) (Disc 4) (Independence War - Defiance).cue" size="178" crc="d422b7b0" md5="e302661083876702a307724db3355b61" sha1="e45ec499b9c312b8b453d7917ace9102d6e7078c"/>
 	</game>
-	<game name="Independence War 2 - Edge of Chaos (USA) (Disc 1) (Installation)">
-		<category>Games</category>
-		<description>Independence War 2 - Edge of Chaos (USA) (Disc 1) (Installation)</description>
-		<rom name="Independence War 2 - Edge of Chaos (USA) (Disc 1) (Installation).bin" size="526932672" crc="1e5a9b83" md5="6dd0334d47bb37ec25aba73342db4e38" sha1="bff86e9e231407640b02fb13b656863d27f31145"/>
-		<rom name="Independence War 2 - Edge of Chaos (USA) (Disc 1) (Installation).cue" size="130" crc="03cd1c2d" md5="f2db3f54c9e90ed09f73b49b43a8516c" sha1="86070e11d7ce1d9a4e23dae8c4fd24da8e273b20"/>
-	</game>
-	<game name="Independence War 2 - Edge of Chaos (USA) (Disc 2) (Play)">
-		<category>Games</category>
-		<description>Independence War 2 - Edge of Chaos (USA) (Disc 2) (Play)</description>
-		<rom name="Independence War 2 - Edge of Chaos (USA) (Disc 2) (Play).bin" size="739525248" crc="7e7afdf5" md5="4793c3c3b80e46ad35cbe640f7aeb807" sha1="fb7e70ea8595058a1438e26da51901b847937b23"/>
-		<rom name="Independence War 2 - Edge of Chaos (USA) (Disc 2) (Play).cue" size="122" crc="663c8415" md5="07fa77e27f2c202618fda6eefcb1011f" sha1="4c08543d9d817f21ab48509b3ffacb0297701738"/>
-	</game>
 	<game name="Independence War 2 - Edge of Chaos (USA) (Rerelease) (DVD-ROM)">
 		<category>Games</category>
 		<description>Independence War 2 - Edge of Chaos (USA) (Rerelease) (DVD-ROM)</description>
 		<rom name="Independence War 2 - Edge of Chaos (USA) (Rerelease) (DVD-ROM).iso" size="993984512" crc="47cc07eb" md5="82b97bba7106381886e13cbd875019a7" sha1="a5fdc36b1ddecf01138dbe923975d8722b24baa1"/>
+	</game>
+	<game name="Independence War 2 - Edge of Chaos (USA, Korea) (Disc 1) (Installation)">
+		<category>Games</category>
+		<description>Independence War 2 - Edge of Chaos (USA, Korea) (Disc 1) (Installation)</description>
+		<rom name="Independence War 2 - Edge of Chaos (USA, Korea) (Disc 1) (Installation).bin" size="526932672" crc="1e5a9b83" md5="6dd0334d47bb37ec25aba73342db4e38" sha1="bff86e9e231407640b02fb13b656863d27f31145"/>
+		<rom name="Independence War 2 - Edge of Chaos (USA, Korea) (Disc 1) (Installation).cue" size="137" crc="9133d8a9" md5="4e03ed9691442188efd2532cf396bd37" sha1="85d93ea8c42ba4aa0f7809db7b832b9261caef3c"/>
+	</game>
+	<game name="Independence War 2 - Edge of Chaos (USA, Korea) (Disc 2) (Play)">
+		<category>Games</category>
+		<description>Independence War 2 - Edge of Chaos (USA, Korea) (Disc 2) (Play)</description>
+		<rom name="Independence War 2 - Edge of Chaos (USA, Korea) (Disc 2) (Play).bin" size="739525248" crc="7e7afdf5" md5="4793c3c3b80e46ad35cbe640f7aeb807" sha1="fb7e70ea8595058a1438e26da51901b847937b23"/>
+		<rom name="Independence War 2 - Edge of Chaos (USA, Korea) (Disc 2) (Play).cue" size="129" crc="033acd4f" md5="956ca3a14cabe33486ab8e27385d2ea3" sha1="0b20a3a7e2245797fccf50f82243dc6fb015a605"/>
 	</game>
 	<game name="Independent, The - Grand Master Sudoku (UK)">
 		<category>Games</category>
@@ -75564,7 +75575,7 @@
 	<game name="Jade Empire - Edycja Specjalna (Poland)">
 		<category>Games</category>
 		<description>Jade Empire - Edycja Specjalna (Poland)</description>
-		<rom name="Jade Empire - Edycja Specjalna (Poland).iso" size="6465388544" crc="0dba28e8" md5="a3a10a96c6885ee553a417e1482fe944" sha1="3c42a161f0797818e3da176a0111400eb0e8fcea"/>
+		<rom name="Jade Empire - Edycja Specjalna (Poland).iso" size="6444941312" crc="c33c120f" md5="773def9de5019997c8e79d3d6a5c6938" sha1="ca306fb12b0974ae41e7cef4fcc805e0281e5441"/>
 	</game>
 	<game name="Jade Empire - Special Edition (Canada) (En,Es,It)">
 		<category>Games</category>
@@ -87089,10 +87100,10 @@
 		<rom name="Lost One, The - Last Chapter of Eve (Japan) (Disc 4).bin" size="598673376" crc="4fc52b03" md5="9bae236df928b02331386e375a5f9f55" sha1="0cf19328f2c8b02eb143c69d60b32856e45d4445"/>
 		<rom name="Lost One, The - Last Chapter of Eve (Japan) (Disc 4).cue" size="141" crc="c772f4fb" md5="cdab230e2b184ab0cec43dcae3a88811" sha1="9aa3a042dd2edfb95199327558369a070c396efe"/>
 	</game>
-	<game name="Lost Planet - Extreme Condition (USA, Europe) (En,Ja,Fr,De,Es,It,Ko)">
+	<game name="Lost Planet - Extreme Condition (World) (En,Ja,Fr,De,Es,It,Ko)">
 		<category>Games</category>
-		<description>Lost Planet - Extreme Condition (USA, Europe) (En,Ja,Fr,De,Es,It,Ko)</description>
-		<rom name="Lost Planet - Extreme Condition (USA, Europe) (En,Ja,Fr,De,Es,It,Ko).iso" size="7688585216" crc="6dc6d825" md5="c0c9f33eb9298b88cef56cad6bde21c0" sha1="5371b8ab3d368f39b798a38770548f2bc0fbd57f"/>
+		<description>Lost Planet - Extreme Condition (World) (En,Ja,Fr,De,Es,It,Ko)</description>
+		<rom name="Lost Planet - Extreme Condition (World) (En,Ja,Fr,De,Es,It,Ko).iso" size="7688585216" crc="6dc6d825" md5="c0c9f33eb9298b88cef56cad6bde21c0" sha1="5371b8ab3d368f39b798a38770548f2bc0fbd57f"/>
 	</game>
 	<game name="Lost Planet - Extreme Condition - Colonies Edition (Russia) (Disc 2)">
 		<category>Games</category>
@@ -107342,6 +107353,12 @@
 		<rom name="OIO - The Game - Enlarged (Germany).bin" size="699042624" crc="d3e7f03e" md5="ef22e90ae638c5e9b89cb9ae71ab97cc" sha1="84df41ad6a32ad49469f444d6d65ccdd5443bbbd"/>
 		<rom name="OIO - The Game - Enlarged (Germany).cue" size="101" crc="35f4d2a1" md5="2b18dbbda921e9f2f57318b749030483" sha1="2c33892c5b650eee0328b8298b3de3ea61f71cbd"/>
 	</game>
+	<game name="OMG! High School (USA)">
+		<category>Games</category>
+		<description>OMG! High School (USA)</description>
+		<rom name="OMG! High School (USA).bin" size="409135104" crc="f91f2172" md5="0f2db830195d38560737c42ce37900b2" sha1="bd042ee706847b028b1e82ca858a2436a676b9e2"/>
+		<rom name="OMG! High School (USA).cue" size="88" crc="48da6026" md5="73e614c6c27f7d75ddc1a820ed1e9b65" sha1="df42ff1861a67f8801962a9c4d4c8faba7108e5b"/>
+	</game>
 	<game name="OMSI - Der Omnibussimulator (Germany)">
 		<category>Games</category>
 		<description>OMSI - Der Omnibussimulator (Germany)</description>
@@ -108265,11 +108282,11 @@
 		<description>Onible'jd (Russia)</description>
 		<rom name="Onible'jd (Russia).iso" size="4205117440" crc="f25044b7" md5="efbd7ae2babee5c6def6b02867b796c2" sha1="253b8397b89ab8c285a526953e6573278dc00172"/>
 	</game>
-	<game name="Onii-chan Jushin-chuu (Japan)">
+	<game name="Oniichan Jushinchuu (Japan)">
 		<category>Games</category>
-		<description>Onii-chan Jushin-chuu (Japan)</description>
-		<rom name="Onii-chan Jushin-chuu (Japan).bin" size="350102256" crc="dc5c19f0" md5="8be31037105fa6428f39a6738262d367" sha1="6849b04a1fc2fa1fd7f04fad20be66ae434feb9e"/>
-		<rom name="Onii-chan Jushin-chuu (Japan).cue" size="95" crc="830b2398" md5="495347d54b175acc9b3a68a7ac17dbe6" sha1="e69511b7e3febacad8842c53bdb3f9b4c57c4047"/>
+		<description>Oniichan Jushinchuu (Japan)</description>
+		<rom name="Oniichan Jushinchuu (Japan).bin" size="350102256" crc="dc5c19f0" md5="8be31037105fa6428f39a6738262d367" sha1="6849b04a1fc2fa1fd7f04fad20be66ae434feb9e"/>
+		<rom name="Oniichan Jushinchuu (Japan).cue" size="93" crc="5954fbc6" md5="418786736ded12898d334d8aa2abb3ac" sha1="0faf66ba3232a6329dd16a5bdea9e33a8c135c93"/>
 	</game>
 	<game name="Onikiri-den (Japan)">
 		<category>Games</category>
@@ -133541,6 +133558,12 @@
 		<description>Serdce Vechnosti (Russia)</description>
 		<rom name="Serdce Vechnosti (Russia).iso" size="4624220160" crc="c03ef013" md5="eeada15cead8086cd82048338b4d8f38" sha1="4fc2821008318833acbd33a3bd981f4f936faa40"/>
 	</game>
+	<game name="Serial Cleaner (Poland)">
+		<category>Games</category>
+		<description>Serial Cleaner (Poland)</description>
+		<rom name="Serial Cleaner (Poland).bin" size="756177408" crc="a83b71c6" md5="74133871d1e3ea2465500641f7f7c600" sha1="ac86db74d2a8c771f834052578ee312344672a01"/>
+		<rom name="Serial Cleaner (Poland).cue" size="89" crc="4cb31ec5" md5="e019585715f740a30a7cfe8910e9c119" sha1="d0325b7497fb615cf43c9c14c95382ed716f255a"/>
+	</game>
 	<game name="Serious Sam - Drugie Starcie (Poland) (En,Pl)">
 		<category>Games</category>
 		<description>Serious Sam - Drugie Starcie (Poland) (En,Pl)</description>
@@ -142859,6 +142882,12 @@
 		<description>Space Engineers (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu,Ar,Th)</description>
 		<rom name="Space Engineers (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu,Ar,Th).iso" size="2171928576" crc="aeeae8cf" md5="3f56793bbbc6fb6bf0129c45b4d6b1ef" sha1="2c9b43cd18d93b91e55b10ed1eccd1fe94860359"/>
 	</game>
+	<game name="Space Games - Direkt Starter Games (Germany)">
+		<category>Demos</category>
+		<description>Space Games - Direkt Starter Games (Germany)</description>
+		<rom name="Space Games - Direkt Starter Games (Germany).bin" size="248542896" crc="be8887ec" md5="fdcd304fb1f3ef31474aeee5b361a49f" sha1="c3bfc9b1b28355323dc9c07dc7cee725d264c524"/>
+		<rom name="Space Games - Direkt Starter Games (Germany).cue" size="133" crc="82328435" md5="c705a3789504c86a2964e6369d849e09" sha1="af2861984055c122ee878fe069e209cfa498d594"/>
+	</game>
 	<game name="Space Hack (Poland) (Covermount)">
 		<category>Games</category>
 		<description>Space Hack (Poland) (Covermount)</description>
@@ -143753,10 +143782,10 @@
 		<rom name="Spellcross - Posledni Bitva (Czech) (Covermount) (Track 7).bin" size="59806656" crc="63392270" md5="53537843d94ea9e41ceb300f5ab514ee" sha1="6e3c3b185712936c903afa760403b82e66f2060d"/>
 		<rom name="Spellcross - Posledni Bitva (Czech) (Covermount).cue" size="999" crc="694902a8" md5="991326bc7427a44f6d61488a2576c2f3" sha1="fa13139a4eb2a28178023bd1fa1d554948472ede"/>
 	</game>
-	<game name="Spellforce 2 - Zlota Edycja (Poland) (Covermount)">
+	<game name="Spellforce 2 - Zlota Edycja (Poland)">
 		<category>Games</category>
-		<description>Spellforce 2 - Zlota Edycja (Poland) (Covermount)</description>
-		<rom name="Spellforce 2 - Zlota Edycja (Poland) (Covermount).iso" size="5508792320" crc="d4237b95" md5="eafe3bd1e9c952de71a23fd86deb4333" sha1="beaf852a8e0508201432021b7828e599a1d20c97"/>
+		<description>Spellforce 2 - Zlota Edycja (Poland)</description>
+		<rom name="Spellforce 2 - Zlota Edycja (Poland).iso" size="5508792320" crc="d4237b95" md5="eafe3bd1e9c952de71a23fd86deb4333" sha1="beaf852a8e0508201432021b7828e599a1d20c97"/>
 	</game>
 	<game name="Spelling Jungle (USA)">
 		<category>Games</category>
@@ -147253,10 +147282,10 @@
 		<description>Step into Liquid (USA) (Disc 2)</description>
 		<rom name="Step into Liquid (USA) (Disc 2).iso" size="8363677696" crc="eafe715c" md5="98c837f6e61ed9941817458ecdba146d" sha1="9d005b7d4cdf287f59f0f9fd879d74a8880229ae"/>
 	</game>
-	<game name="StepMania (Japan)">
+	<game name="StepMania (China)">
 		<category>Games</category>
-		<description>StepMania (Japan)</description>
-		<rom name="StepMania (Japan).iso" size="640778240" crc="89a3d079" md5="e99344f5145d89c9b12054d9c881a61c" sha1="dd390cfcf9c4f7ef9778c703fb32066c6beff2de"/>
+		<description>StepMania (China)</description>
+		<rom name="StepMania (China).iso" size="640778240" crc="89a3d079" md5="e99344f5145d89c9b12054d9c881a61c" sha1="dd390cfcf9c4f7ef9778c703fb32066c6beff2de"/>
 	</game>
 	<game name="Stephen King's F13 (USA)">
 		<category>Games</category>
@@ -166863,6 +166892,11 @@
 		<description>Warhammer - Mark of Chaos (USA) (Disc 6)</description>
 		<rom name="Warhammer - Mark of Chaos (USA) (Disc 6).bin" size="768913488" crc="63154d49" md5="e0a952079e469028130d184d3c76294e" sha1="e90dc2b440324f592d095ba024610323e29f968c"/>
 		<rom name="Warhammer - Mark of Chaos (USA) (Disc 6).cue" size="106" crc="41ff6160" md5="be42b88814c33adcc41d915343bff701" sha1="ac5bbb672b81d36021e36031bb483a6f4ec72533"/>
+	</game>
+	<game name="Warhammer - Mark of Chaos - Battle March (Poland)">
+		<category>Add-Ons</category>
+		<description>Warhammer - Mark of Chaos - Battle March (Poland)</description>
+		<rom name="Warhammer - Mark of Chaos - Battle March (Poland).iso" size="3652616192" crc="8e27f605" md5="d159eb040bf4aee8a37995b30c662219" sha1="439426daae1e5c9ff4154998712bb00bd36173d1"/>
 	</game>
 	<game name="Warhammer - Mark of Chaos - Battle March (USA) (Disc 2)">
 		<category>Games</category>

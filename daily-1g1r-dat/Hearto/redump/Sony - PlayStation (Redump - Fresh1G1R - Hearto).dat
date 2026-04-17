@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation (Retool)</name>
-		<description>Sony - PlayStation (5,673) (-y) [-aAbBcefkmMoprv] (2026-04-14 01-58-01) (Retool)</description>
-		<version>2026-04-14 01-58-01</version>
-		<date>2026-04-15 03-17-45</date>
+		<description>Sony - PlayStation (5,674) (-y) [-aAbBcefkmMoprv] (2026-04-16 20-15-30) (Retool)</description>
+		<version>2026-04-16 20-15-30</version>
+		<date>2026-04-17 03-18-15</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -27469,6 +27469,13 @@
 		<rom name="MiruMiru PlayStation Vol. 43 (Japan) (Track 1).bin" size="273956256" crc="d62623ac" md5="23c9b66899e04d04dc13cf8756c2fc53" sha1="efeaa0e5436601744ea95d6799fc488c9907cf1a"/>
 		<rom name="MiruMiru PlayStation Vol. 43 (Japan) (Track 2).bin" size="33908784" crc="857edda8" md5="369ff3006396bbca8d9a1fb9cc125af9" sha1="28a06c34d53442f736fed283c086340d7c56321e"/>
 		<rom name="MiruMiru PlayStation Vol. 43 (Japan).cue" size="242" crc="3b40c869" md5="af635b7a47ee95776509e3928dcc36e7" sha1="33cf0b5ba79b7bcaf30f301066d27b0c00fc1c0d"/>
+	</game>
+	<game name="MiruMiru PlayStation Vol. 44 (Japan)">
+		<category>Demos</category>
+		<description>MiruMiru PlayStation Vol. 44 (Japan)</description>
+		<rom name="MiruMiru PlayStation Vol. 44 (Japan) (Track 1).bin" size="198675792" crc="6edea91c" md5="aa8312de4d051d4589c27c70535d6441" sha1="edc5e506705e311d5d77fa93c5ce1502b18f0be4"/>
+		<rom name="MiruMiru PlayStation Vol. 44 (Japan) (Track 2).bin" size="42789936" crc="a2cc3bd5" md5="26d92549b65c142e1f9dfcf9cb50d188" sha1="3db2ed0464ac53c6f1da35bdcc0c08694d91788a"/>
+		<rom name="MiruMiru PlayStation Vol. 44 (Japan).cue" size="242" crc="779af888" md5="01b8428f118de59777b72559d72f61ee" sha1="0f79b8acd286cee354ab77c96b3d39d04242ef80"/>
 	</game>
 	<game name="MiruMiru PlayStation Vol. 9 (Japan)">
 		<category>Demos</category>
