@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,033) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-16 22-26-28) (Retool)</description>
-		<version>2026-04-16 22-26-28</version>
-		<date>2026-04-17 03-23-43</date>
+		<description>IBM - PC compatible (13,037) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-19 01-09-05) (Retool)</description>
+		<version>2026-04-19 01-09-05</version>
+		<date>2026-04-19 03-20-00</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -24321,11 +24321,23 @@
 		<rom name="Edge of Chaos - Independence War 2 (Europe) (Install Disc) (Rerelease).bin" size="570011904" crc="224bd81a" md5="0150eede1bb43f78cd12dc0b6cd51c91" sha1="5422d30aa1727f74547d4bdb5a89c5e1f4195746"/>
 		<rom name="Edge of Chaos - Independence War 2 (Europe) (Install Disc) (Rerelease).cue" size="136" crc="f9669951" md5="8ac98dd8add090abc17485d4260ea916" sha1="2afc2805f8e4d23044b4a556aabe790b68380c7a"/>
 	</game>
+	<game name="Edge of Chaos - Independence War 2 (Europe) (Install Disk)">
+		<category>Games</category>
+		<description>Edge of Chaos - Independence War 2 (Europe) (Install Disk)</description>
+		<rom name="Edge of Chaos - Independence War 2 (Europe) (Install Disk).bin" size="511581168" crc="f548e95e" md5="624a2e3d73b53cce9cbe23dc91233df2" sha1="bfac82f692797843f2157d96de0bdb8e9f817151"/>
+		<rom name="Edge of Chaos - Independence War 2 (Europe) (Install Disk).cue" size="124" crc="b0756848" md5="f1a34909135fde536c528f913f85324a" sha1="a7392856a64f913ec196c845859fb2a62f690b04"/>
+	</game>
 	<game name="Edge of Chaos - Independence War 2 (Europe) (Play Disc) (Rerelease)">
 		<category>Games</category>
 		<description>Edge of Chaos - Independence War 2 (Europe) (Play Disc) (Rerelease)</description>
 		<rom name="Edge of Chaos - Independence War 2 (Europe) (Play Disc) (Rerelease).bin" size="739826304" crc="bf96930b" md5="908641cbebda6f9260d455cd6db8395e" sha1="d12c66fb854d8f2f227b7e3853f9891c437c9dcc"/>
 		<rom name="Edge of Chaos - Independence War 2 (Europe) (Play Disc) (Rerelease).cue" size="133" crc="820c7b47" md5="644928a7bb6faa68a0ad18d9d556b648" sha1="482d68ec988f68027e943428e2dd2e795df911c2"/>
+	</game>
+	<game name="Edge of Chaos - Independence War 2 (Europe) (Play Disk)">
+		<category>Games</category>
+		<description>Edge of Chaos - Independence War 2 (Europe) (Play Disk)</description>
+		<rom name="Edge of Chaos - Independence War 2 (Europe) (Play Disk).bin" size="739795728" crc="5c64f6ab" md5="2893bacdb6e452b57beacd72ed4ee013" sha1="f440afb4ce2f3a1f51bdef53d4ed2b348efd80b2"/>
+		<rom name="Edge of Chaos - Independence War 2 (Europe) (Play Disk).cue" size="121" crc="43584f91" md5="8215b011d8d0661a6c97d1276829eabf" sha1="f901c7e0006acc30b3ea0dc13ca509e08e4d274b"/>
 	</game>
 	<game name="Edna &amp; Harvey - The Breakout (Europe)">
 		<category>Games</category>
@@ -78170,6 +78182,11 @@
 		<rom name="Sword of the Stars (USA).bin" size="715127952" crc="f1a27fc1" md5="d650dbdafdeb8b43046c4954015d5066" sha1="be2a373cf258dced6aa934388e188671b6ebf7a2"/>
 		<rom name="Sword of the Stars (USA).cue" size="90" crc="bbb3a84b" md5="92c925217f3c4467dedd1f4a03414478" sha1="b4468319de0eef288e327ae91be43f51420a90da"/>
 	</game>
+	<game name="Sword of the Stars - Complete Collection (Europe)">
+		<category>Games</category>
+		<description>Sword of the Stars - Complete Collection (Europe)</description>
+		<rom name="Sword of the Stars - Complete Collection (Europe).iso" size="1979351040" crc="c3ed08ad" md5="c700b1edc34f7503b281c9dff2ae359d" sha1="8730c3aed6fc02fd8d1646d6f2a5d704b4a49db1"/>
+	</game>
 	<game name="Sword of the Stars - Ultimate Collection (USA)">
 		<category>Games</category>
 		<description>Sword of the Stars - Ultimate Collection (USA)</description>
@@ -78861,6 +78878,11 @@
 		<description>Target Earth (Europe) (En,Fr,De,Es,It,Nl,Pt)</description>
 		<rom name="Target Earth (Europe) (En,Fr,De,Es,It,Nl,Pt).bin" size="124757136" crc="f87ad716" md5="5e71426dde9c43567deac66ef19c7fe0" sha1="905f0e0ca55f0b4ca1a2cd25f733b07c8a6fb273"/>
 		<rom name="Target Earth (Europe) (En,Fr,De,Es,It,Nl,Pt).cue" size="110" crc="324f371d" md5="3fd65f033cd78d0f28eb0c0b283498a3" sha1="a2a2b073d08e392174dbac3e0a36b69442f2bb2c"/>
+	</game>
+	<game name="Tarr Chronicles (Europe)">
+		<category>Games</category>
+		<description>Tarr Chronicles (Europe)</description>
+		<rom name="Tarr Chronicles (Europe).iso" size="1163722752" crc="b277754a" md5="87dc406270e8914d1cfe312dba04d489" sha1="d922b54a8f9c324d5eb5697f336991bf1757cce6"/>
 	</game>
 	<game name="Task Force 1942 &amp; Red Storm Rising (USA)">
 		<category>Games</category>
