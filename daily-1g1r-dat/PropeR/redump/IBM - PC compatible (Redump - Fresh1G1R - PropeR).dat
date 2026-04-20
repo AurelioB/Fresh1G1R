@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,559) (-y) [-aAbBcdkmMpPuv] (2026-04-19 01-09-05) (Retool)</description>
-		<version>2026-04-19 01-09-05</version>
-		<date>2026-04-19 03-21-42</date>
+		<description>IBM - PC compatible (25,559) (-y) [-aAbBcdkmMpPuv] (2026-04-20 00-36-00) (Retool)</description>
+		<version>2026-04-20 00-36-00</version>
+		<date>2026-04-20 03-29-33</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -108362,10 +108362,10 @@
 		<description>Neverwinter Nights 2 - Plyta dodatkowa (Poland)</description>
 		<rom name="Neverwinter Nights 2 - Plyta dodatkowa (Poland).iso" size="1461420032" crc="44e5aa8b" md5="94f19433d1620da39f14b52fbc710495" sha1="d77aa1843168b6a5448d1682f1c20706c57c14e8"/>
 	</game>
-	<game name="Neverwinter Nights 2 - Storm of Zehir (Europe) (En,Fr,De,Es,It)">
+	<game name="Neverwinter Nights 2 - Storm of Zehir (USA) (En,Fr,De,Es,It)">
 		<category>Add-Ons</category>
-		<description>Neverwinter Nights 2 - Storm of Zehir (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Neverwinter Nights 2 - Storm of Zehir (Europe) (En,Fr,De,Es,It).iso" size="6175752192" crc="f4459dbd" md5="94b687672200c58148f0ae89ab88bed4" sha1="73d48eaabe973f98eff0bcc9d0d286808371489e"/>
+		<description>Neverwinter Nights 2 - Storm of Zehir (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Neverwinter Nights 2 - Storm of Zehir (USA) (En,Fr,De,Es,It).iso" size="6174605312" crc="ecaa2718" md5="f5f7b1682b6756c87efc5b7b3cfd0439" sha1="9c733dc9b91514bb57377357f0d28518c98f6623"/>
 	</game>
 	<game name="Neverwinter Nights 2 - Wrota Zachodu (Poland)">
 		<category>Add-Ons</category>
