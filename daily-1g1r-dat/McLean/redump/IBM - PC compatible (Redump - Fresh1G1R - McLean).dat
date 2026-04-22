@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,037) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-20 15-23-52) (Retool)</description>
-		<version>2026-04-20 15-23-52</version>
-		<date>2026-04-21 03-23-09</date>
+		<description>IBM - PC compatible (13,038) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-21 22-24-43) (Retool)</description>
+		<version>2026-04-21 22-24-43</version>
+		<date>2026-04-22 03-28-22</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -67550,6 +67550,11 @@
 		<description>SODA Off-Road Racing (USA)</description>
 		<rom name="SODA Off-Road Racing (USA).bin" size="161688240" crc="3058f76f" md5="2e45c726b826a634d1d63426e5cf2030" sha1="e1b92fe4424e960ddd408a06a9114f6a2e65ac35"/>
 		<rom name="SODA Off-Road Racing (USA).cue" size="92" crc="b90042d9" md5="7558e5e2fe8c8dd686e7f113784dd842" sha1="3d5629dd4741aaea2826d79113aed1970a970af9"/>
+	</game>
+	<game name="SOL - Exodus (Europe)">
+		<category>Games</category>
+		<description>SOL - Exodus (Europe)</description>
+		<rom name="SOL - Exodus (Europe).iso" size="2300968960" crc="217fba30" md5="1b8e81317687ca2d949c8929a2140ac1" sha1="f2eb76b1bc0d4d1d8766219c36b30cc747b4cff3"/>
 	</game>
 	<game name="SPQR - The Empire's Darkest Hour (USA, Australia)">
 		<category>Games</category>
