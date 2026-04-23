@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Encrypted) (3,710) (-y) [-aAbBcdkmMpPuv] (20260420-125123) (Retool)</description>
-		<version>20260420-125123</version>
-		<date>2026-04-22 03-39-15</date>
+		<description>Nintendo - Nintendo DS (Encrypted) (3,708) (-y) [-aAbBcdkmMpPuv] (20260421-113513) (Retool)</description>
+		<version>20260421-113513</version>
+		<date>2026-04-23 03-32-47</date>
 		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -689,7 +689,7 @@
 	<game name="Animal Life - Dinosaurs (Europe) (En,Fr,De,Es,It) (NDSi Enhanced)" id="6216">
 		<category>Games</category>
 		<description>Animal Life - Dinosaurs (Europe) (En,Fr,De,Es,It) (NDSi Enhanced)</description>
-		<rom name="Animal Life - Dinosaurs (Europe) (En,Fr,De,Es,It) (NDSi Enhanced).nds" size="33554432" crc="9545f290" md5="bee95472265fce93e79f633aed562f01" sha1="4e9fc3ab4415d20ebb0c90067b7989e0a9b18dcd"/>
+		<rom name="Animal Life - Dinosaurs (Europe) (En,Fr,De,Es,It) (NDSi Enhanced).nds" size="33554432" crc="9545f290" md5="bee95472265fce93e79f633aed562f01" sha1="4e9fc3ab4415d20ebb0c90067b7989e0a9b18dcd" sha256="23e5bca0d1662e7a9556fe62a1c52194a302bd2e61713bef8ea0e47b55355eca"/>
 	</game>
 	<game name="Animal Life - Eurasia (Europe) (En,Fr,De,Es,It) (NDSi Enhanced)" id="6217">
 		<category>Games</category>
@@ -729,7 +729,7 @@
 	<game name="Animal World - Big Cats (Europe) (En,Fr,De,Es,It)" id="4779">
 		<category>Games</category>
 		<description>Animal World - Big Cats (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Animal World - Big Cats (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="07873431" md5="43b08e1759a1bc821ba8c1f4761a7db9" sha1="4c08d0e191ea3ab6612273251edafa3e4e3de241"/>
+		<rom name="Animal World - Big Cats (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="07873431" md5="43b08e1759a1bc821ba8c1f4761a7db9" sha1="4c08d0e191ea3ab6612273251edafa3e4e3de241" sha256="13427e16694741a69ee48460de6901e202eb65668870d40a1e52867291348289"/>
 	</game>
 	<game name="Animal World - Dinosaurs (Europe) (En,Fr,De,Es,It)" id="4780">
 		<category>Games</category>
@@ -1375,11 +1375,6 @@
 		<category>Games</category>
 		<description>Bee Movie Game (USA)</description>
 		<rom name="Bee Movie Game (USA).nds" size="33554432" crc="688e6c3c" md5="1a7249ee43e0ea587777b6a53ec90fa1" sha1="352b044d84fc754ac36ccdfec6f1b7826f4c6f17"/>
-	</game>
-	<game name="Beetle Junior DS (Europe) (En,Fr,De)" id="2071">
-		<category>Games</category>
-		<description>Beetle Junior DS (Europe) (En,Fr,De)</description>
-		<rom name="Beetle Junior DS (Europe) (En,Fr,De).nds" size="8388608" crc="c6a9220b" md5="725337fe60056f6794e41bb1453ac9ea" sha1="9d13c31ee780be853130089691c79783079267fc"/>
 	</game>
 	<game name="Beetle King (Europe)" id="1910">
 		<category>Games</category>
@@ -4404,7 +4399,7 @@
 	<game name="Elvenland (Europe) (En,Fr,De)" id="2211">
 		<category>Games</category>
 		<description>Elvenland (Europe) (En,Fr,De)</description>
-		<rom name="Elvenland (Europe) (En,Fr,De).nds" size="8388608" crc="bb5e6566" md5="1d338a352804599200ef024a48690358" sha1="82701947d82c2e90d626b74957889dc271b158e7"/>
+		<rom name="Elvenland (Europe) (En,Fr,De).nds" size="8388608" crc="bb5e6566" md5="1d338a352804599200ef024a48690358" sha1="82701947d82c2e90d626b74957889dc271b158e7" sha256="1aa5a90060b4b2b73de61194078fcf43755e0fd8ada146ce553ec47d7ee45b6f"/>
 	</game>
 	<game name="Emblem of Gundam (Japan)" id="2270">
 		<category>Games</category>
@@ -7604,7 +7599,7 @@
 	<game name="Kakuromaniacs (Europe) (En,Fr,De,Es,It)" id="1131">
 		<category>Games</category>
 		<description>Kakuromaniacs (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Kakuromaniacs (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="8ef2a0c4" md5="655ae50e8bfbeaac214381684c2f25cf" sha1="ed3f8f2095b8cff9873b738d1bf4bb93f5240ee8"/>
+		<rom name="Kakuromaniacs (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="8ef2a0c4" md5="655ae50e8bfbeaac214381684c2f25cf" sha1="ed3f8f2095b8cff9873b738d1bf4bb93f5240ee8" sha256="1859f4251af32232e16cbb78a9b51b796df2ec6ab340a11d92f2c16d0f4123e4"/>
 	</game>
 	<game name="Kakushi E Mystery - Riku to Yohan - Kieta 2-mai no E (Japan)" id="2436">
 		<category>Games</category>
@@ -8959,7 +8954,7 @@
 	<game name="Love Is... in Bloom - The Flower Shop Garden (Europe) (En,Fr,De,Es,It,Nl,Ru)" id="3645">
 		<category>Games</category>
 		<description>Love Is... in Bloom - The Flower Shop Garden (Europe) (En,Fr,De,Es,It,Nl,Ru)</description>
-		<rom name="Love Is... in Bloom - The Flower Shop Garden (Europe) (En,Fr,De,Es,It,Nl,Ru).nds" size="16777216" crc="ebf11379" md5="87080fe906b6b8ebf2c16182824e56d0" sha1="994ea9ef03d29eef7f200ce9df2139d4e6b7217a"/>
+		<rom name="Love Is... in Bloom - The Flower Shop Garden (Europe) (En,Fr,De,Es,It,Nl,Ru).nds" size="16777216" crc="ebf11379" md5="87080fe906b6b8ebf2c16182824e56d0" sha1="994ea9ef03d29eef7f200ce9df2139d4e6b7217a" sha256="d05cfaff89735c6645293f780b67ea94d2bca3bc08c896a7f0e90c5c6c412710"/>
 	</game>
 	<game name="Love Plus (Japan)" id="4152">
 		<category>Games</category>
@@ -10114,7 +10109,7 @@
 	<game name="Mind Your Language - Apprends le Francais! (Europe) (En,Fr,De,Es,It)" id="3700">
 		<category>Games</category>
 		<description>Mind Your Language - Apprends le Francais! (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Mind Your Language - Apprends le Francais! (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="3b0d9b33" md5="e14b19d48a1554b32c32efa6ce971eb9" sha1="8974744c88d7f4a542fe34d3d7b5d61eed44b4ba"/>
+		<rom name="Mind Your Language - Apprends le Francais! (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="3b0d9b33" md5="e14b19d48a1554b32c32efa6ce971eb9" sha1="8974744c88d7f4a542fe34d3d7b5d61eed44b4ba" sha256="35fd1f12d0cc3e973c1db87e559b56d350ae04e25e575e5294cced7b7a742480"/>
 	</game>
 	<game name="Mind Your Language - Aprende Espanol! (Europe) (En,Fr,De,Es,It)" id="3820">
 		<category>Games</category>
@@ -10475,11 +10470,6 @@
 		<category>Games</category>
 		<description>Moon (USA)</description>
 		<rom name="Moon (USA).nds" size="67108864" crc="e23ebd49" md5="4ee4712d132ef269eef25595e0a0f46b" sha1="8ec2bdd7b966e9e9925cf2b45cbb146e7abd2a5e"/>
-	</game>
-	<game name="Moorhuhn - Jewel of Darkness (Europe) (En,Fr,De)" id="2197">
-		<category>Games</category>
-		<description>Moorhuhn - Jewel of Darkness (Europe) (En,Fr,De)</description>
-		<rom name="Moorhuhn - Jewel of Darkness (Europe) (En,Fr,De).nds" size="8388608" crc="ea1ea1f2" md5="5d78d7bf08d544ffb8c0f96bbc902e3c" sha1="edbf17cfb3245acba381e2a4dc8e223d23a172a0" sha256="a8a703182aa6222d60697415f0f9c426d17897df661598829eee1cb70e7c0a8f"/>
 	</game>
 	<game name="Mori no Cafeteria DS - Oshare na Cafe Recipe (Japan)" id="3641">
 		<category>Games</category>
@@ -16080,7 +16070,7 @@
 	<game name="Tangram Mania (Europe) (En,Fr,De,Es,It)" id="2021">
 		<category>Games</category>
 		<description>Tangram Mania (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Tangram Mania (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="dbfb4da5" md5="f26c17c7b818799fe4e6d1ef67cac624" sha1="40b83b7823956bf113673e4113c09b4319c1dba1"/>
+		<rom name="Tangram Mania (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="dbfb4da5" md5="f26c17c7b818799fe4e6d1ef67cac624" sha1="40b83b7823956bf113673e4113c09b4319c1dba1" sha256="15fcfa4a0af5fcc02ee7e23fe66f374e4adbb5c812a4fd99cd031a6758f5a6e3"/>
 	</game>
 	<game name="Tank Beat (USA)" id="1118">
 		<category>Games</category>
@@ -16745,7 +16735,7 @@
 	<game name="Tootuff - Mission Nadia (Europe) (En,Fr,De,Es,It)" id="0231">
 		<category>Games</category>
 		<description>Tootuff - Mission Nadia (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Tootuff - Mission Nadia (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="36c03fdc" md5="1b5c9d1f7bc9e8ef23deaa1490932850" sha1="01de46d6badd3bc6a1da47b557916af7632ad46b"/>
+		<rom name="Tootuff - Mission Nadia (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="36c03fdc" md5="1b5c9d1f7bc9e8ef23deaa1490932850" sha1="01de46d6badd3bc6a1da47b557916af7632ad46b" sha256="4e18efe645fe082f2e221f7ca9c7aa874c023685fdaa5460db68a9fcc613d164"/>
 	</game>
 	<game name="Top Agents (Europe) (En,Fr,De,Es,It)" id="5416">
 		<category>Games</category>
@@ -17165,7 +17155,7 @@
 	<game name="Treasures of Montezuma 2, The (Europe) (En,Fr,De,Nl)" id="6254">
 		<category>Games</category>
 		<description>Treasures of Montezuma 2, The (Europe) (En,Fr,De,Nl)</description>
-		<rom name="Treasures of Montezuma 2, The (Europe) (En,Fr,De,Nl).nds" size="8388608" crc="41ff158c" md5="2d91903117a90cce471a421db8b8e6c9" sha1="a84075fc015648a332f382fc3373d9409d1d5b1a"/>
+		<rom name="Treasures of Montezuma 2, The (Europe) (En,Fr,De,Nl).nds" size="8388608" crc="41ff158c" md5="2d91903117a90cce471a421db8b8e6c9" sha1="a84075fc015648a332f382fc3373d9409d1d5b1a" sha256="3f88b5b19fb2f56e0053b6400d36f93814055b3d35d93f308bd983d78fb8187c"/>
 	</game>
 	<game name="Treasures of Montezuma, The (USA)" id="5710">
 		<category>Games</category>

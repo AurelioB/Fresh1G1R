@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,561) (-y) [-aAbBcdkmMpPuv] (2026-04-21 22-24-43) (Retool)</description>
-		<version>2026-04-21 22-24-43</version>
-		<date>2026-04-22 03-34-06</date>
+		<description>IBM - PC compatible (25,565) (-y) [-aAbBcdkmMpPuv] (2026-04-22 23-39-29) (Retool)</description>
+		<version>2026-04-22 23-39-29</version>
+		<date>2026-04-23 03-28-46</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -9134,6 +9134,11 @@
 		<category>Add-Ons</category>
 		<description>Anno 1404 - Venedig (Germany)</description>
 		<rom name="Anno 1404 - Venedig (Germany).iso" size="829587456" crc="24f4cb5c" md5="375ae2157ab10e2972554c9e4605c02a" sha1="4a63b7ac90036d02fc0c0c793a3b18507a650cd7"/>
+	</game>
+	<game name="Anno 1404 - Wenecja (Poland)">
+		<category>Add-Ons</category>
+		<description>Anno 1404 - Wenecja (Poland)</description>
+		<rom name="Anno 1404 - Wenecja (Poland).iso" size="931397632" crc="fdc1423f" md5="c6decbe1ecccb718fd8c8dc096c73590" sha1="f1a4648f1279573cfc7c2e2a13d30f4329ce2d9e"/>
 	</game>
 	<game name="Anno 1503 (Germany) (Disc 1) (Installations-CD)">
 		<category>Games</category>
@@ -59342,6 +59347,11 @@
 		<rom name="Game of Life, The - Path to Success (USA).bin" size="248265360" crc="91dc44f1" md5="9e8f4696db77692adc30c8612406ceca" sha1="2ac8437d50106b8eb83bd19194278e44de088f48"/>
 		<rom name="Game of Life, The - Path to Success (USA).cue" size="107" crc="f67c1936" md5="30a29ab180b717d8970a55e000891aad" sha1="05f0be9ffbd8fb15ff1e8b6c8fd81b5da772f393"/>
 	</game>
+	<game name="Game of Thrones (Poland)">
+		<category>Games</category>
+		<description>Game of Thrones (Poland)</description>
+		<rom name="Game of Thrones (Poland).iso" size="3681714176" crc="e4cda340" md5="a11ae72a46d300dd06a04a36b0259435" sha1="710e7468912915527c3e25005ea2af0653378450"/>
+	</game>
 	<game name="Game, Net &amp; Match! (Europe)">
 		<category>Games</category>
 		<description>Game, Net &amp; Match! (Europe)</description>
@@ -71056,6 +71066,12 @@
 		<description>Hracuv raj - Arkady (Czech)</description>
 		<rom name="Hracuv raj - Arkady (Czech).bin" size="773422272" crc="ecca872a" md5="d49d08698faca43381d99423c19c7396" sha1="36dd64f042ca5865a2060b1569d85ada41d31e85"/>
 		<rom name="Hracuv raj - Arkady (Czech).cue" size="116" crc="88a4cecd" md5="f968d5333eb3f04d84aed8300c2ba43a" sha1="03caab1d2b39fd4130de8709807cdf545af9a1d4"/>
+	</game>
+	<game name="Hrot (Germany)">
+		<category>Games</category>
+		<description>Hrot (Germany)</description>
+		<rom name="Hrot (Germany).bin" size="573737472" crc="8ff945ba" md5="0323549fb438f8a9e40bb9bbfa4165da" sha1="1afa380130fe6253178f7f0c39d590dc045b14ed"/>
+		<rom name="Hrot (Germany).cue" size="80" crc="83b8423f" md5="18c0de5975feb1b8378b3adc0f05ea0f" sha1="51a1833e7eb81f6bce54b7abe04dd246a373ff2f"/>
 	</game>
 	<game name="Hua Shen Chuan Shuo (Taiwan) (Disc 1) (Install)">
 		<category>Games</category>
@@ -157186,6 +157202,11 @@
 		<description>Thandor - The Invasion (Europe)</description>
 		<rom name="Thandor - The Invasion (Europe).bin" size="683023152" crc="fae4487e" md5="e9fe0ad87d116fbaf9b5e1eee51e71f9" sha1="55ca44344d1548f33dd1c2c86d3826e8ee932f30"/>
 		<rom name="Thandor - The Invasion (Europe).cue" size="97" crc="a2e9bc13" md5="bacc80c5340097068573ada5acc0f211" sha1="a07592739db664f3e0a8541f18a523ca81a9910a"/>
+	</game>
+	<game name="The Settlers - Narodziny Imperium &amp; Wschodnie Krolestwa (Poland)">
+		<category>Games</category>
+		<description>The Settlers - Narodziny Imperium &amp; Wschodnie Krolestwa (Poland)</description>
+		<rom name="The Settlers - Narodziny Imperium &amp; Wschodnie Krolestwa (Poland).iso" size="3950084096" crc="7181a11d" md5="f6d0fc8f143573f87cb14fc49857aa89" sha1="d5875df2da7ba6c91e871c9305242735b88214f0"/>
 	</game>
 	<game name="TheHunter - Call of the Wild (USA) (Disc 1)">
 		<category>Games</category>
