@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,565) (-y) [-aAbBcdkmMpPuv] (2026-04-22 23-39-29) (Retool)</description>
-		<version>2026-04-22 23-39-29</version>
-		<date>2026-04-23 03-28-46</date>
+		<description>IBM - PC compatible (25,580) (-y) [-aAbBcdkmMpPuv] (2026-04-24 17-35-30) (Retool)</description>
+		<version>2026-04-24 17-35-30</version>
+		<date>2026-04-25 03-22-37</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -6340,6 +6340,12 @@
 		<description>Ali Baba and the 40 Thieves (Europe)</description>
 		<rom name="Ali Baba and the 40 Thieves (Europe).bin" size="477357216" crc="1ef74466" md5="36e90f04430023bbba224179abfc7ee3" sha1="cb706f085d09122af1ca93357684df285fc460d7"/>
 		<rom name="Ali Baba and the 40 Thieves (Europe).cue" size="102" crc="504cc45c" md5="cbeb8b198b2a74ca9acb24590c323761" sha1="cf9553f6b02c676ec0891c324eabc95d54da1ba9"/>
+	</game>
+	<game name="Ali Baba e os quarenta ladroes (Brazil) (En,Es,Pt) (Rerelease)">
+		<category>Games</category>
+		<description>Ali Baba e os quarenta ladroes (Brazil) (En,Es,Pt) (Rerelease)</description>
+		<rom name="Ali Baba e os quarenta ladroes (Brazil) (En,Es,Pt) (Rerelease).bin" size="788886672" crc="8f1ada7b" md5="f74b30322d93983a52f6bdef2b2979ba" sha1="d30cfff66b8786c40064edeedccd4b77b3154081"/>
+		<rom name="Ali Baba e os quarenta ladroes (Brazil) (En,Es,Pt) (Rerelease).cue" size="128" crc="4bdaacfb" md5="e36b3e078b0b52a697dfab21d3df08e4" sha1="d9d4a6f8d6437cf66130a147442dc9df1b6445f8"/>
 	</game>
 	<game name="Ali De Huanle Muchang (China)">
 		<category>Games</category>
@@ -13809,6 +13815,12 @@
 		<description>Bad Boys II (Europe) (Disc 2) (Rerelease)</description>
 		<rom name="Bad Boys II (Europe) (Disc 2) (Rerelease).bin" size="701345232" crc="d6382c1b" md5="6f41eaf0b393405a17c90151fbd231ef" sha1="3cfe594b5e3a28ffb439cbf3f809b5ce35441bd8"/>
 		<rom name="Bad Boys II (Europe) (Disc 2) (Rerelease).cue" size="107" crc="c6066c0a" md5="78b8d47c27f856cc69ca5ed735d61996" sha1="5baf7f9e484769a6aacf60b7be1cfb89a4b662cc"/>
+	</game>
+	<game name="Bad Dudes (USA)">
+		<category>Games</category>
+		<description>Bad Dudes (USA)</description>
+		<rom name="Bad Dudes (USA).bin" size="1592304" crc="742ff343" md5="226628417306d59b53e9fdd1632d2fa5" sha1="41d08b713bfba5c4388042d2598a257d8977752c"/>
+		<rom name="Bad Dudes (USA).cue" size="81" crc="a75ad16c" md5="bd634868424af76ac8c2c81aa3de581e" sha1="e626876627e0d2d47322b726efe51229114bdb78"/>
 	</game>
 	<game name="Bad Medicine - Infectious Teachers (Japan) (Disc 2) (Game Disc)">
 		<category>Games</category>
@@ -42730,6 +42742,12 @@
 		<rom name="Dr. Brain Gehirn Jogging Vol. 2 - Erfolgreich lernen! (Germany) (En,De).bin" size="70430640" crc="994e80f3" md5="0b2b8681d3d248f62f197f1343ff0e15" sha1="7c70b94d6abb14f9669e817254b0d57a45a1bba0"/>
 		<rom name="Dr. Brain Gehirn Jogging Vol. 2 - Erfolgreich lernen! (Germany) (En,De).cue" size="137" crc="633d9fbc" md5="8fce74c605e80737718ac5bc9b097ca0" sha1="5d140afa9a15571ed1e7f363c1dc108bbafe9775"/>
 	</game>
+	<game name="Dr. Brain Nonogram PC (Germany)">
+		<category>Games</category>
+		<description>Dr. Brain Nonogram PC (Germany)</description>
+		<rom name="Dr. Brain Nonogram PC (Germany).bin" size="59237472" crc="005d48da" md5="4d1ce0cec7f3e13f690033b3433a2ecb" sha1="6022fbafab05f42fb0f31ed25e56754fad803b28"/>
+		<rom name="Dr. Brain Nonogram PC (Germany).cue" size="97" crc="4a5c4a89" md5="1dd310a0d9e26d7f4135c9573565b610" sha1="85d55c3f3ab70678174312e2290d485ce7a47d9c"/>
+	</game>
 	<game name="Dr. Brain Thinking Games - I.Q. Adventure (USA)">
 		<category>Games</category>
 		<description>Dr. Brain Thinking Games - I.Q. Adventure (USA)</description>
@@ -64372,6 +64390,11 @@
 		<description>Guitar Hero III - Legends of Rock (USA)</description>
 		<rom name="Guitar Hero III - Legends of Rock (USA).iso" size="3429087232" crc="af3de4f6" md5="a8c7c5e99152feaefd790f553a7f11d8" sha1="1888a4099f2dbf5508ae7b207fedebd47a01f8a4"/>
 	</game>
+	<game name="Guitar Hero World Tour (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Guitar Hero World Tour (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Guitar Hero World Tour (Europe) (En,Fr,De,Es,It).iso" size="6587285504" crc="eb388765" md5="be7ccfc9f02fee063b48508cca21c484" sha1="fd83ac8cf0f01fee9af9df8dbc351f0b0b9794a8"/>
+	</game>
 	<game name="Guiwu Moying - Siwang Jiexian (Taiwan)">
 		<category>Games</category>
 		<description>Guiwu Moying - Siwang Jiexian (Taiwan)</description>
@@ -67056,6 +67079,12 @@
 		<rom name="Heaven's Dawn (Taiwan) (Track 13).bin" size="19817952" crc="30495c08" md5="a6161336bdf32729dfd48a8809c95892" sha1="72d06dfc8b099cee514815cdac4f205f98b46dbe"/>
 		<rom name="Heaven's Dawn (Taiwan) (Track 14).bin" size="32170656" crc="30435d98" md5="14d24c1e55106044489784b10fb863ae" sha1="26a52d51ee7e5bd37a610fe7b6b3e6e4274ecd72"/>
 		<rom name="Heaven's Dawn (Taiwan).cue" size="1620" crc="03a631fb" md5="970dceb17856048ecc13cbb82f12dd72" sha1="26313c570a206d3d26a740bb9608bbc4fe7d5693"/>
+	</game>
+	<game name="Heavy Barrel (USA)">
+		<category>Games</category>
+		<description>Heavy Barrel (USA)</description>
+		<rom name="Heavy Barrel (USA).bin" size="1422960" crc="9f4e113a" md5="5fdbb34e6ff39cc1d642f4cbca8c1b18" sha1="a4db1428b901b11d96407d86703d17d3d708b50b"/>
+		<rom name="Heavy Barrel (USA).cue" size="84" crc="150c61e3" md5="1dffb7178d0f0b43e1484be7b341b9fa" sha1="94e18792b17b896de7d6effdbf698e82b018c8bc"/>
 	</game>
 	<game name="Heavy Gear (Australia) (Disc 1)">
 		<category>Games</category>
@@ -76591,6 +76620,12 @@
 		<description>Jagged Alliance World (Russia) (En,Ru) (Disc 2)</description>
 		<rom name="Jagged Alliance World (Russia) (En,Ru) (Disc 2).bin" size="769579104" crc="d4a5c5b9" md5="13f1b409a4f44d4b0a331557ca470eb7" sha1="28adfe42a466b4d0678d644888937431dc765396"/>
 		<rom name="Jagged Alliance World (Russia) (En,Ru) (Disc 2).cue" size="113" crc="d192b7bc" md5="9eb74e0c905e28da111b24d2620895b4" sha1="5bff28e9ef94486bd432f1ad6573f4a8a84bb64b"/>
+	</game>
+	<game name="Jahrmarkt Manager (Germany) (En,Fr,De)">
+		<category>Games</category>
+		<description>Jahrmarkt Manager (Germany) (En,Fr,De)</description>
+		<rom name="Jahrmarkt Manager (Germany) (En,Fr,De).bin" size="609080976" crc="018726d1" md5="b47321e853a84f9e034603246d03d37e" sha1="69c0d03e3f44bc79a477008aace8fdfad91b8781"/>
+		<rom name="Jahrmarkt Manager (Germany) (En,Fr,De).cue" size="104" crc="e401735a" md5="57c150afa2a7768c2c06d05565b3df9a" sha1="92eeab8deb99d8e9dfe1c8b4bd0a72204918ec2f"/>
 	</game>
 	<game name="Jake Burst (Japan)">
 		<category>Games</category>
@@ -103446,15 +103481,15 @@
 		<rom name="Mount &amp; Blade (USA).bin" size="553839552" crc="209c0f36" md5="3cd46b8863dac140c86226aeda319bba" sha1="2b3687f2343f2bcb698e73325930bcf3ada9e1c8"/>
 		<rom name="Mount &amp; Blade (USA).cue" size="85" crc="89886d4c" md5="a891153a3bd1324d7f28d4cd16643c79" sha1="9314889efe83e75b97755d87e4b331ecb303eb8d"/>
 	</game>
-	<game name="Mount &amp; Blade - Collection (Turkey) (En,Tr) (Disc 1)">
+	<game name="Mount &amp; Blade - Collection (Turkey) (Disc 1)">
 		<category>Games</category>
-		<description>Mount &amp; Blade - Collection (Turkey) (En,Tr) (Disc 1)</description>
-		<rom name="Mount &amp; Blade - Collection (Turkey) (En,Tr) (Disc 1).iso" size="1526595584" crc="fb081295" md5="dd71d3bf33f99bd59825d6884d2a3a0f" sha1="5cc83170c0a8eddd2640fcec6086a57a4567edbe"/>
+		<description>Mount &amp; Blade - Collection (Turkey) (Disc 1)</description>
+		<rom name="Mount &amp; Blade - Collection (Turkey) (Disc 1).iso" size="1526595584" crc="fb081295" md5="dd71d3bf33f99bd59825d6884d2a3a0f" sha1="5cc83170c0a8eddd2640fcec6086a57a4567edbe"/>
 	</game>
-	<game name="Mount &amp; Blade - Collection (Turkey) (En,Tr) (Disc 2)">
+	<game name="Mount &amp; Blade - Collection (Turkey) (Disc 2)">
 		<category>Games</category>
-		<description>Mount &amp; Blade - Collection (Turkey) (En,Tr) (Disc 2)</description>
-		<rom name="Mount &amp; Blade - Collection (Turkey) (En,Tr) (Disc 2).iso" size="1423900672" crc="3e8420e6" md5="7fd486722218aa47cb6fc7da77d30ae2" sha1="7c94096126f11124e231cb69b783b63ffa0eb3ba"/>
+		<description>Mount &amp; Blade - Collection (Turkey) (Disc 2)</description>
+		<rom name="Mount &amp; Blade - Collection (Turkey) (Disc 2).iso" size="1423900672" crc="3e8420e6" md5="7fd486722218aa47cb6fc7da77d30ae2" sha1="7c94096126f11124e231cb69b783b63ffa0eb3ba"/>
 	</game>
 	<game name="Mount &amp; Blade - Istoriya Geroya (Russia)">
 		<category>Games</category>
@@ -106451,6 +106486,11 @@
 		<rom name="Nanatsu no Hikan (Japan) (Disc 3) (Track 7).bin" size="8890560" crc="31972eda" md5="bf0e418256321a5bbb10d74bf7ff0300" sha1="173599f696479a572a56f94ade3478dd8b13618f"/>
 		<rom name="Nanatsu no Hikan (Japan) (Disc 3) (Track 8).bin" size="2276736" crc="16553827" md5="9ba091d52dcef75ff885d415281314b1" sha1="d506f11ac19ab911ab737808bf8b32389cb5bb2a"/>
 		<rom name="Nanatsu no Hikan (Japan) (Disc 3).cue" size="1021" crc="36f82874" md5="b2fd44b6955c9d74d9812b1e355112de" sha1="df1f3831995663cfb384ee6641399913b9a19b40"/>
+	</game>
+	<game name="Nanatsuiro Drops (Japan)">
+		<category>Games</category>
+		<description>Nanatsuiro Drops (Japan)</description>
+		<rom name="Nanatsuiro Drops (Japan).iso" size="2949976064" crc="c197e82a" md5="16f950f168744d1d5ddd0b62e00ea4fe" sha1="c9abb947815950ffd70d7ae110ac6e80c806b5b0"/>
 	</game>
 	<game name="Nancy Drew - Alibi in Ashes (USA)">
 		<category>Games</category>
@@ -128875,6 +128915,11 @@
 		<rom name="Retruco 3D (Argentina).bin" size="688312800" crc="79dfbdff" md5="d01324e961adbdd5ced7a925e1d18420" sha1="a76204c1b1e7d227ca2233f7bc9ee616815145ac"/>
 		<rom name="Retruco 3D (Argentina).cue" size="88" crc="fc334ad7" md5="23c34b4065b6253ac53c5d23295d5f85" sha1="42b2c5cb5e44b446a1f9ae252e28ccd0b0c150eb"/>
 	</game>
+	<game name="Retter im Einsatz - 112 (Germany)">
+		<category>Games</category>
+		<description>Retter im Einsatz - 112 (Germany)</description>
+		<rom name="Retter im Einsatz - 112 (Germany).iso" size="935198720" crc="cda0ffc4" md5="9f97e9541ee66760d5852e7b21520141" sha1="16f92f073fa893266c45573ef2884b54d8e9be9c"/>
+	</game>
 	<game name="Return Fire (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Return Fire (Europe) (En,Fr,De,Es,It)</description>
@@ -138639,6 +138684,11 @@
 		<category>Games</category>
 		<description>Settlers, The - Heritage of Kings - Gold Edition (Europe) (En,Fr,Es,It,Nl)</description>
 		<rom name="Settlers, The - Heritage of Kings - Gold Edition (Europe) (En,Fr,Es,It,Nl).iso" size="2622390272" crc="d9d4e0a1" md5="4280ab6c71658b4e1c126db383d20337" sha1="bfb114ea52cc2cf4bdbf8f0151b32e32f20ad1bc"/>
+	</game>
+	<game name="Settlers, The - Narodziny Imperium &amp; Wschodnie Krolestwa (Poland)">
+		<category>Games</category>
+		<description>Settlers, The - Narodziny Imperium &amp; Wschodnie Krolestwa (Poland)</description>
+		<rom name="Settlers, The - Narodziny Imperium &amp; Wschodnie Krolestwa (Poland).iso" size="3950084096" crc="7181a11d" md5="f6d0fc8f143573f87cb14fc49857aa89" sha1="d5875df2da7ba6c91e871c9305242735b88214f0"/>
 	</game>
 	<game name="Settlers, The - Narodziny Kultur (Poland)">
 		<category>Games</category>
@@ -150101,6 +150151,12 @@
 		<rom name="Star Wars - DroidWorks (USA) (Track 13).bin" size="12936000" crc="67a2007f" md5="fe0efc10eece0fcafc9d17232add862e" sha1="31bde6166f18fab1b42a6de2998cd8df88ab7a31"/>
 		<rom name="Star Wars - DroidWorks (USA).cue" size="1581" crc="95d9be5c" md5="c1b2ba1fcf8f820b4748e150233a1dd2" sha1="e4822014f0d788202c7df84d845c627fc224b84f"/>
 	</game>
+	<game name="Star Wars - Droids (Germany)">
+		<category>Games</category>
+		<description>Star Wars - Droids (Germany)</description>
+		<rom name="Star Wars - Droids (Germany).bin" size="788889024" crc="400d25f2" md5="a97eb38fb9903d1ef8d86165bd21593e" sha1="ccdf492264264359608719b91ee4514104db653e"/>
+		<rom name="Star Wars - Droids (Germany).cue" size="94" crc="09e0ce20" md5="5f2d5805e9a7bbb35b36971efdb5ddac" sha1="eae3ed0694e62a62ff24af11188ca264880e7f59"/>
+	</game>
 	<game name="Star Wars - Empire at War (Europe) (En,Es,It)">
 		<category>Games</category>
 		<description>Star Wars - Empire at War (Europe) (En,Es,It)</description>
@@ -153844,6 +153900,12 @@
 		<description>Superstars V8 Racing (Turkey) (En,Fr,De,Es,It)</description>
 		<rom name="Superstars V8 Racing (Turkey) (En,Fr,De,Es,It).iso" size="1454047232" crc="78f1c01d" md5="ec7aecd6bbd906b047e36c93ae3d5994" sha1="c38377e3329d302aca29eae7eac64a7282fcb965"/>
 	</game>
+	<game name="Supple (Germany)">
+		<category>Games</category>
+		<description>Supple (Germany)</description>
+		<rom name="Supple (Germany).bin" size="294606816" crc="9de944d7" md5="1c0835c6cb3d201b0c69d4321d1b1f43" sha1="8fe271839f617ccd581c95569c93dbfc44f83207"/>
+		<rom name="Supple (Germany).cue" size="82" crc="02014750" md5="5ccb78535e5284086a3c75379f6d87ad" sha1="ae79d8f6e4fb8de71b5291bed7b99b58e3af78b6"/>
+	</game>
 	<game name="Supreme Commander (USA) (Bonus Disc)">
 		<category>Bonus Discs</category>
 		<description>Supreme Commander (USA) (Bonus Disc)</description>
@@ -154838,6 +154900,12 @@
 		<description>TV Land Presents More Blast from the Past! (USA)</description>
 		<rom name="TV Land Presents More Blast from the Past! (USA).bin" size="631335600" crc="22b49f92" md5="158415544fdee5e0f4475005422bbacf" sha1="f50f5e823e353fc7d3595f467979d4d1696e0a5b"/>
 		<rom name="TV Land Presents More Blast from the Past! (USA).cue" size="114" crc="17548e2f" md5="aa1584c5a874c832fedfcb75b9eec894" sha1="cd024b0c5defb0a0a1487b5be0fa66aab307dc30"/>
+	</game>
+	<game name="TV Manager 2 (Germany) (En,De)">
+		<category>Games</category>
+		<description>TV Manager 2 (Germany) (En,De)</description>
+		<rom name="TV Manager 2 (Germany) (En,De).bin" size="172194624" crc="f70cef23" md5="cfd82912750b6b5d15213a8d26eb3dd2" sha1="16edaf19c7ff4dcaeb9bfa64af06e2aa60ed5500"/>
+		<rom name="TV Manager 2 (Germany) (En,De).cue" size="96" crc="8db0dea8" md5="63e62fab4e00c53024eb2836c58cf1fd" sha1="fdafcb745c0c4dfce7843c7e0cba4114e280103a"/>
 	</game>
 	<game name="TV Sports Football (Europe)">
 		<category>Games</category>
@@ -157203,11 +157271,6 @@
 		<rom name="Thandor - The Invasion (Europe).bin" size="683023152" crc="fae4487e" md5="e9fe0ad87d116fbaf9b5e1eee51e71f9" sha1="55ca44344d1548f33dd1c2c86d3826e8ee932f30"/>
 		<rom name="Thandor - The Invasion (Europe).cue" size="97" crc="a2e9bc13" md5="bacc80c5340097068573ada5acc0f211" sha1="a07592739db664f3e0a8541f18a523ca81a9910a"/>
 	</game>
-	<game name="The Settlers - Narodziny Imperium &amp; Wschodnie Krolestwa (Poland)">
-		<category>Games</category>
-		<description>The Settlers - Narodziny Imperium &amp; Wschodnie Krolestwa (Poland)</description>
-		<rom name="The Settlers - Narodziny Imperium &amp; Wschodnie Krolestwa (Poland).iso" size="3950084096" crc="7181a11d" md5="f6d0fc8f143573f87cb14fc49857aa89" sha1="d5875df2da7ba6c91e871c9305242735b88214f0"/>
-	</game>
 	<game name="TheHunter - Call of the Wild (USA) (Disc 1)">
 		<category>Games</category>
 		<description>TheHunter - Call of the Wild (USA) (Disc 1)</description>
@@ -159566,6 +159629,12 @@
 		<rom name="Tom Clancy's Rainbow Six (USA) (v1.03) (Track 15).bin" size="7771008" crc="6eabfe81" md5="af2c9cde835617f480ffda6784758e7d" sha1="143c00a31d65ad57ff5ba94cb39d574d5f350cc2"/>
 		<rom name="Tom Clancy's Rainbow Six (USA) (v1.03) (Track 16).bin" size="6712608" crc="21d88a09" md5="76d758c0a69ee9c07bff28c3b11d7248" sha1="897c6699ce054d349c49bf3f55424d9caa7481ee"/>
 		<rom name="Tom Clancy's Rainbow Six (USA) (v1.03).cue" size="2110" crc="7377a72a" md5="a91faff8b7866ffe695efa92199483da" sha1="376c8e45b8e5595796d3e30263021e11a1391434"/>
+	</game>
+	<game name="Tom Clancy's Rainbow Six - Covert Ops Essentials (Korea) (Training Disc)">
+		<category>Games</category>
+		<description>Tom Clancy's Rainbow Six - Covert Ops Essentials (Korea) (Training Disc)</description>
+		<rom name="Tom Clancy's Rainbow Six - Covert Ops Essentials (Korea) (Training Disc).bin" size="782263440" crc="a7433cfd" md5="18e77ddc8a9ce47276ffd5e838c6b37c" sha1="7e7d21f6bb5174bc0303b529a1c196194faad06e"/>
+		<rom name="Tom Clancy's Rainbow Six - Covert Ops Essentials (Korea) (Training Disc).cue" size="138" crc="7aa03129" md5="c6ba20f0ef3a78a7e0072a647136b9a4" sha1="9d96af2b1d6ecbbdddb83ae3ea02d502771928e4"/>
 	</game>
 	<game name="Tom Clancy's Rainbow Six - Covert Ops Essentials (Netherlands) (Rerelease)">
 		<category>Games</category>
@@ -164470,6 +164539,12 @@
 		<description>Two Worlds II - Game of the Year Edition (Europe) (En,Fr,De) (Bonus Disc)</description>
 		<rom name="Two Worlds II - Game of the Year Edition (Europe) (En,Fr,De) (Bonus Disc).iso" size="6438977536" crc="4b4ae9f4" md5="a454211afcc7f6ad3c60c58aa5ffc29f" sha1="11776e469daee84d53dcac8d14649227ff57ae85"/>
 	</game>
+	<game name="Twoj komputer bez tajemnic 9 (Poland)">
+		<category>Games</category>
+		<description>Twoj komputer bez tajemnic 9 (Poland)</description>
+		<rom name="Twoj komputer bez tajemnic 9 (Poland).bin" size="325707312" crc="5918415d" md5="bb274028b752f211f046c70e98fd4d3c" sha1="0aca2269c9adbe4c2c2d442a322ed52f3c5b4f90"/>
+		<rom name="Twoj komputer bez tajemnic 9 (Poland).cue" size="103" crc="d07a3190" md5="b20a1f54776789fe59ade8660a7904a0" sha1="1f766f4e1b3ffde9c23b3704033c47c13408c706"/>
+	</game>
 	<game name="Tycoon City - New York (Europe)">
 		<category>Games</category>
 		<description>Tycoon City - New York (Europe)</description>
@@ -165058,6 +165133,12 @@
 		<description>Uli Stein Kuss-Shooter (Germany)</description>
 		<rom name="Uli Stein Kuss-Shooter (Germany).bin" size="120288336" crc="6c5734f4" md5="4be1c92e26b14e897312accbbe8b6624" sha1="9a39f4e4b30c4b3a5446f09c8343fbc82dfdb2db"/>
 		<rom name="Uli Stein Kuss-Shooter (Germany).cue" size="98" crc="c31bc1fe" md5="ca6a00fcbb7e613af938a2088f1db84d" sha1="4ed36e33816193768674e4a9494f3b35653e3760"/>
+	</game>
+	<game name="Uli Stein Pinball Elfmeter (Germany)">
+		<category>Games</category>
+		<description>Uli Stein Pinball Elfmeter (Germany)</description>
+		<rom name="Uli Stein Pinball Elfmeter (Germany).bin" size="38680992" crc="4343c697" md5="da951430c602bf3b89ae216ec1a085df" sha1="002035eee0fd88a14e57119625219e8ea75b4b45"/>
+		<rom name="Uli Stein Pinball Elfmeter (Germany).cue" size="102" crc="6edf64dc" md5="8e833e02a59f22fa377141324ba19580" sha1="d3ed261f99011c0ea79e84ddf5338ccda0636e7c"/>
 	</game>
 	<game name="Uli Stein Vol. 2 - 3D Mahjongg (Germany)">
 		<category>Games</category>
@@ -174839,6 +174920,12 @@
 		<description>Words of Ibis (Japan)</description>
 		<rom name="Words of Ibis (Japan).bin" size="97257552" crc="4e59d6d6" md5="4c2a05fbc1bac0fbb75fc933770027ef" sha1="b0dfdbe235338e3dffe01157e0770b5cd038089a"/>
 		<rom name="Words of Ibis (Japan).cue" size="87" crc="d91e39ca" md5="b68af0a48d44cde751024bd40245f71f" sha1="3b0ea2db25cd8b06ae303d1025f2659767a31830"/>
+	</game>
+	<game name="Wordshark 2L (UK)">
+		<category>Educational</category>
+		<description>Wordshark 2L (UK)</description>
+		<rom name="Wordshark 2L (UK).bin" size="673332912" crc="05d60c2e" md5="d611aef56b999d3993224935a9726f28" sha1="d4fe483046f4ab8e7ccbb6c8d3c4da3fcedc5adc"/>
+		<rom name="Wordshark 2L (UK).cue" size="83" crc="5c838d3d" md5="5fe0709c5376fe4b95c61eee4909e0e5" sha1="6f85ae382de0aa4a3d1e92f5734ffbaccef6a279"/>
 	</game>
 	<game name="Wordshark 3s (UK)">
 		<category>Games</category>

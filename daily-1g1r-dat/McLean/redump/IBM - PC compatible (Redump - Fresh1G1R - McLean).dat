@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,038) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-22 23-39-29) (Retool)</description>
-		<version>2026-04-22 23-39-29</version>
-		<date>2026-04-23 03-22-52</date>
+		<description>IBM - PC compatible (13,042) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-24 17-35-30) (Retool)</description>
+		<version>2026-04-24 17-35-30</version>
+		<date>2026-04-25 03-20-56</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -3105,6 +3105,12 @@
 		<description>Ali Baba and the 40 Thieves (Europe)</description>
 		<rom name="Ali Baba and the 40 Thieves (Europe).bin" size="477357216" crc="1ef74466" md5="36e90f04430023bbba224179abfc7ee3" sha1="cb706f085d09122af1ca93357684df285fc460d7"/>
 		<rom name="Ali Baba and the 40 Thieves (Europe).cue" size="102" crc="504cc45c" md5="cbeb8b198b2a74ca9acb24590c323761" sha1="cf9553f6b02c676ec0891c324eabc95d54da1ba9"/>
+	</game>
+	<game name="Ali Baba e os quarenta ladroes (Brazil) (En,Es,Pt) (Rerelease)">
+		<category>Games</category>
+		<description>Ali Baba e os quarenta ladroes (Brazil) (En,Es,Pt) (Rerelease)</description>
+		<rom name="Ali Baba e os quarenta ladroes (Brazil) (En,Es,Pt) (Rerelease).bin" size="788886672" crc="8f1ada7b" md5="f74b30322d93983a52f6bdef2b2979ba" sha1="d30cfff66b8786c40064edeedccd4b77b3154081"/>
+		<rom name="Ali Baba e os quarenta ladroes (Brazil) (En,Es,Pt) (Rerelease).cue" size="128" crc="4bdaacfb" md5="e36b3e078b0b52a697dfab21d3df08e4" sha1="d9d4a6f8d6437cf66130a147442dc9df1b6445f8"/>
 	</game>
 	<game name="Alias (USA) (Disc 1)">
 		<category>Games</category>
@@ -6808,6 +6814,12 @@
 		<description>Bad Boys II (Europe) (Disc 2) (Rerelease)</description>
 		<rom name="Bad Boys II (Europe) (Disc 2) (Rerelease).bin" size="701345232" crc="d6382c1b" md5="6f41eaf0b393405a17c90151fbd231ef" sha1="3cfe594b5e3a28ffb439cbf3f809b5ce35441bd8"/>
 		<rom name="Bad Boys II (Europe) (Disc 2) (Rerelease).cue" size="107" crc="c6066c0a" md5="78b8d47c27f856cc69ca5ed735d61996" sha1="5baf7f9e484769a6aacf60b7be1cfb89a4b662cc"/>
+	</game>
+	<game name="Bad Dudes (USA)">
+		<category>Games</category>
+		<description>Bad Dudes (USA)</description>
+		<rom name="Bad Dudes (USA).bin" size="1592304" crc="742ff343" md5="226628417306d59b53e9fdd1632d2fa5" sha1="41d08b713bfba5c4388042d2598a257d8977752c"/>
+		<rom name="Bad Dudes (USA).cue" size="81" crc="a75ad16c" md5="bd634868424af76ac8c2c81aa3de581e" sha1="e626876627e0d2d47322b726efe51229114bdb78"/>
 	</game>
 	<game name="Bad Mojo - The Roach Game (USA)">
 		<category>Games</category>
@@ -33875,6 +33887,11 @@
 		<description>Guitar Hero III - Legends of Rock (USA)</description>
 		<rom name="Guitar Hero III - Legends of Rock (USA).iso" size="3429087232" crc="af3de4f6" md5="a8c7c5e99152feaefd790f553a7f11d8" sha1="1888a4099f2dbf5508ae7b207fedebd47a01f8a4"/>
 	</game>
+	<game name="Guitar Hero World Tour (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Guitar Hero World Tour (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Guitar Hero World Tour (Europe) (En,Fr,De,Es,It).iso" size="6587285504" crc="eb388765" md5="be7ccfc9f02fee063b48508cca21c484" sha1="fd83ac8cf0f01fee9af9df8dbc351f0b0b9794a8"/>
+	</game>
 	<game name="Gun (Europe) (En,Fr,Es,It)">
 		<category>Games</category>
 		<description>Gun (Europe) (En,Fr,Es,It)</description>
@@ -35099,6 +35116,12 @@
 		<description>Heaven Quest (USA)</description>
 		<rom name="Heaven Quest (USA).bin" size="300592656" crc="df799287" md5="f755934577b420184049f79909cd4d9b" sha1="2fa25625ca049f5b932ff3b1a21afbc967dae969"/>
 		<rom name="Heaven Quest (USA).cue" size="84" crc="14802cf3" md5="06011997b137af05479adc5fc661da83" sha1="7be5d86a1c51a4147b8d180d179f8bfae45c8771"/>
+	</game>
+	<game name="Heavy Barrel (USA)">
+		<category>Games</category>
+		<description>Heavy Barrel (USA)</description>
+		<rom name="Heavy Barrel (USA).bin" size="1422960" crc="9f4e113a" md5="5fdbb34e6ff39cc1d642f4cbca8c1b18" sha1="a4db1428b901b11d96407d86703d17d3d708b50b"/>
+		<rom name="Heavy Barrel (USA).cue" size="84" crc="150c61e3" md5="1dffb7178d0f0b43e1484be7b341b9fa" sha1="94e18792b17b896de7d6effdbf698e82b018c8bc"/>
 	</game>
 	<game name="Heavy Gear (Australia) (Disc 1)">
 		<category>Games</category>
@@ -40619,6 +40642,12 @@
 		<description>Jagged Alliance World (Russia) (En,Ru) (Disc 2)</description>
 		<rom name="Jagged Alliance World (Russia) (En,Ru) (Disc 2).bin" size="769579104" crc="d4a5c5b9" md5="13f1b409a4f44d4b0a331557ca470eb7" sha1="28adfe42a466b4d0678d644888937431dc765396"/>
 		<rom name="Jagged Alliance World (Russia) (En,Ru) (Disc 2).cue" size="113" crc="d192b7bc" md5="9eb74e0c905e28da111b24d2620895b4" sha1="5bff28e9ef94486bd432f1ad6573f4a8a84bb64b"/>
+	</game>
+	<game name="Jahrmarkt Manager (Germany) (En,Fr,De)">
+		<category>Games</category>
+		<description>Jahrmarkt Manager (Germany) (En,Fr,De)</description>
+		<rom name="Jahrmarkt Manager (Germany) (En,Fr,De).bin" size="609080976" crc="018726d1" md5="b47321e853a84f9e034603246d03d37e" sha1="69c0d03e3f44bc79a477008aace8fdfad91b8781"/>
+		<rom name="Jahrmarkt Manager (Germany) (En,Fr,De).cue" size="104" crc="e401735a" md5="57c150afa2a7768c2c06d05565b3df9a" sha1="92eeab8deb99d8e9dfe1c8b4bd0a72204918ec2f"/>
 	</game>
 	<game name="Jam Party Remixed (USA)">
 		<category>Games</category>
@@ -52913,16 +52942,6 @@
 		<description>Mount &amp; Blade (USA)</description>
 		<rom name="Mount &amp; Blade (USA).bin" size="553839552" crc="209c0f36" md5="3cd46b8863dac140c86226aeda319bba" sha1="2b3687f2343f2bcb698e73325930bcf3ada9e1c8"/>
 		<rom name="Mount &amp; Blade (USA).cue" size="85" crc="89886d4c" md5="a891153a3bd1324d7f28d4cd16643c79" sha1="9314889efe83e75b97755d87e4b331ecb303eb8d"/>
-	</game>
-	<game name="Mount &amp; Blade - Collection (Turkey) (En,Tr) (Disc 1)">
-		<category>Games</category>
-		<description>Mount &amp; Blade - Collection (Turkey) (En,Tr) (Disc 1)</description>
-		<rom name="Mount &amp; Blade - Collection (Turkey) (En,Tr) (Disc 1).iso" size="1526595584" crc="fb081295" md5="dd71d3bf33f99bd59825d6884d2a3a0f" sha1="5cc83170c0a8eddd2640fcec6086a57a4567edbe"/>
-	</game>
-	<game name="Mount &amp; Blade - Collection (Turkey) (En,Tr) (Disc 2)">
-		<category>Games</category>
-		<description>Mount &amp; Blade - Collection (Turkey) (En,Tr) (Disc 2)</description>
-		<rom name="Mount &amp; Blade - Collection (Turkey) (En,Tr) (Disc 2).iso" size="1423900672" crc="3e8420e6" md5="7fd486722218aa47cb6fc7da77d30ae2" sha1="7c94096126f11124e231cb69b783b63ffa0eb3ba"/>
 	</game>
 	<game name="Mount &amp; Blade - Warband (USA) (En,Fr,De,Es,Pl,Cs,Hu)">
 		<category>Games</category>
@@ -78496,6 +78515,12 @@
 		<description>TV Land Presents More Blast from the Past! (USA)</description>
 		<rom name="TV Land Presents More Blast from the Past! (USA).bin" size="631335600" crc="22b49f92" md5="158415544fdee5e0f4475005422bbacf" sha1="f50f5e823e353fc7d3595f467979d4d1696e0a5b"/>
 		<rom name="TV Land Presents More Blast from the Past! (USA).cue" size="114" crc="17548e2f" md5="aa1584c5a874c832fedfcb75b9eec894" sha1="cd024b0c5defb0a0a1487b5be0fa66aab307dc30"/>
+	</game>
+	<game name="TV Manager 2 (Germany) (En,De)">
+		<category>Games</category>
+		<description>TV Manager 2 (Germany) (En,De)</description>
+		<rom name="TV Manager 2 (Germany) (En,De).bin" size="172194624" crc="f70cef23" md5="cfd82912750b6b5d15213a8d26eb3dd2" sha1="16edaf19c7ff4dcaeb9bfa64af06e2aa60ed5500"/>
+		<rom name="TV Manager 2 (Germany) (En,De).cue" size="96" crc="8db0dea8" md5="63e62fab4e00c53024eb2836c58cf1fd" sha1="fdafcb745c0c4dfce7843c7e0cba4114e280103a"/>
 	</game>
 	<game name="TV Sports Football (Europe)">
 		<category>Games</category>
