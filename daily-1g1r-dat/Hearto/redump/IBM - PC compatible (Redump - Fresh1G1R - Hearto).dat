@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,027) (-y) [-aAbBcefkmMoprv] (2026-04-24 17-35-30) (Retool)</description>
-		<version>2026-04-24 17-35-30</version>
-		<date>2026-04-25 03-19-13</date>
+		<description>IBM - PC compatible (25,031) (-y) [-aAbBcefkmMoprv] (2026-04-26 02-43-17) (Retool)</description>
+		<version>2026-04-26 02-43-17</version>
+		<date>2026-04-26 03-16-46</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -18745,6 +18745,11 @@
 		<description>Black Magic (Japan)</description>
 		<rom name="Black Magic (Japan).bin" size="75656784" crc="80289150" md5="7f6e530f414e3bf9573cea7e8a184fa7" sha1="90bade1553a4ba15fbdf904bfa37cc531693716e"/>
 		<rom name="Black Magic (Japan).cue" size="85" crc="28cbfc94" md5="db8fcae258d41792816cfe43d0fb6ef0" sha1="e3ad5551082abec4d1ca67ffebbc2c9390683f58"/>
+	</game>
+	<game name="Black Mirror - Der dunkle Spiegel der Seele (Germany)">
+		<category>Games</category>
+		<description>Black Mirror - Der dunkle Spiegel der Seele (Germany)</description>
+		<rom name="Black Mirror - Der dunkle Spiegel der Seele (Germany).iso" size="1383563264" crc="2169af46" md5="5bfae734e1e6e3e96ff66e7591d2e3f1" sha1="af53534b165b48795a8b271eae4a1f6f3a628b01"/>
 	</game>
 	<game name="Black Mirror II (Europe)">
 		<category>Games</category>
@@ -40861,6 +40866,12 @@
 		<description>Disneys Aladdin - Nasiras Rache (Germany)</description>
 		<rom name="Disneys Aladdin - Nasiras Rache (Germany).bin" size="611409456" crc="4f7e086f" md5="86872c66529215d3567faa42ae40bcea" sha1="3e72e1dd1e562df1aae50e719fa22669dbf66c97"/>
 		<rom name="Disneys Aladdin - Nasiras Rache (Germany).cue" size="107" crc="a53e043f" md5="169df38b7058ec4912b54b16dd8ad453" sha1="1dff812658f944456fc89517a4f4af431f5d570b"/>
+	</game>
+	<game name="Disneys Aladdin - Nasiras haemnd (Sweden)">
+		<category>Games</category>
+		<description>Disneys Aladdin - Nasiras haemnd (Sweden)</description>
+		<rom name="Disneys Aladdin - Nasiras haemnd (Sweden).bin" size="611150736" crc="36fd013f" md5="b7126fa8d34fdf3723ce4c97622fb67a" sha1="0645fd201aff8b335efb9f0961a213cf46ced8fb"/>
+		<rom name="Disneys Aladdin - Nasiras haemnd (Sweden).cue" size="107" crc="9817aca1" md5="147ca7a4718937f2675b3d699c28f9e9" sha1="b148ae4aa7bf62742a2d1db3b4d6fd0d70704de8"/>
 	</game>
 	<game name="Disneys Arielle, die Meerjungfrau 2 - Sehnsucht nach dem Meer (Germany)">
 		<category>Games</category>
@@ -84694,17 +84705,17 @@
 		<rom name="Levelpack 8 - Additions for Carmageddon (Europe).bin" size="238128240" crc="91920af8" md5="61a17d8896e655964e079bebc527b425" sha1="160df605868aded31be5ba8041ee51e42e8ef455"/>
 		<rom name="Levelpack 8 - Additions for Carmageddon (Europe).cue" size="114" crc="862f93f3" md5="8c25919336d2a3b127c9a022d93c9329" sha1="94355605364889dd80dab34a6e5c56abb8f45eff"/>
 	</game>
+	<game name="Levels &amp; Add-Ons fuer WarCraft II (Germany)">
+		<category>Add-Ons</category>
+		<description>Levels &amp; Add-Ons fuer WarCraft II (Germany)</description>
+		<rom name="Levels &amp; Add-Ons fuer WarCraft II (Germany).bin" size="208227264" crc="0eb2f27d" md5="a8224209b0130f1972f46e89bea019c6" sha1="1c60b4d0a1ae1438fa85aaf83682d5d1b38ff548"/>
+		<rom name="Levels &amp; Add-Ons fuer WarCraft II (Germany).cue" size="147" crc="f9f719f4" md5="95090bbd9cb55f7aef59330d68e8567b" sha1="4e3c060d4d528f0f45e2f6d6ee8dca969358491b"/>
+	</game>
 	<game name="Levels &amp; Add-Ons fuer WarCraft II - Volume 2 (Germany)">
 		<category>Add-Ons</category>
 		<description>Levels &amp; Add-Ons fuer WarCraft II - Volume 2 (Germany)</description>
 		<rom name="Levels &amp; Add-Ons fuer WarCraft II - Volume 2 (Germany).bin" size="488416320" crc="6e4251a6" md5="62a2a78c15352840007e27f091328d7f" sha1="18515d4c1db434aa1be9f3ddc37235eb6011f418"/>
 		<rom name="Levels &amp; Add-Ons fuer WarCraft II - Volume 2 (Germany).cue" size="143" crc="21f761d0" md5="b364f07748ff9a2efa53441d0bf4fc36" sha1="135f353e48ff755ff307e3374fe64d75b421d694"/>
-	</game>
-	<game name="Levels &amp; Add-Ons fuer Warcraft II (Germany)">
-		<category>Add-Ons</category>
-		<description>Levels &amp; Add-Ons fuer Warcraft II (Germany)</description>
-		<rom name="Levels &amp; Add-Ons fuer Warcraft II (Germany).bin" size="208227264" crc="0eb2f27d" md5="a8224209b0130f1972f46e89bea019c6" sha1="1c60b4d0a1ae1438fa85aaf83682d5d1b38ff548"/>
-		<rom name="Levels &amp; Add-Ons fuer Warcraft II (Germany).cue" size="147" crc="c09a7d5a" md5="f72515e7adf3e11daca7761ad95a150b" sha1="dc35712319f0256628d3e83de34e2c2c52425ae3"/>
 	</game>
 	<game name="Levels fuer Civilization 2 (Germany) (En,De)">
 		<category>Add-Ons</category>
@@ -104633,6 +104644,12 @@
 		<description>Neo Atlas II - Voyage to PC Evolution (Japan)</description>
 		<rom name="Neo Atlas II - Voyage to PC Evolution (Japan).bin" size="340181520" crc="7b50dd85" md5="283fc89f0b65a12825f0464a60270452" sha1="4aadca6e801b6d001849676a6e641cf0a8d2d601"/>
 		<rom name="Neo Atlas II - Voyage to PC Evolution (Japan).cue" size="111" crc="a5ff860d" md5="2e2dfa66fcac432cac184c701b505f34" sha1="b3df0fb676d7374136b8e2157f97d3fe0a0ba0d5"/>
+	</game>
+	<game name="Neo Hunter (USA)">
+		<category>Games</category>
+		<description>Neo Hunter (USA)</description>
+		<rom name="Neo Hunter (USA).bin" size="470654016" crc="092d39b3" md5="69206506dae4bb8d3bbd60b2964f7583" sha1="69021278e4c7987f9c29b91db3302477f0574b4c"/>
+		<rom name="Neo Hunter (USA).cue" size="82" crc="860c1bc3" md5="ebe51460f4926c7b703300e55029e391" sha1="811c4a7b2b36cc9bcf5575948eb0718b8f6270c8"/>
 	</game>
 	<game name="Neocron 2 - Beyond Dome of York (Germany) (En,De) (Disc 1)">
 		<category>Games</category>
@@ -146971,6 +146988,12 @@
 		<rom name="Starshine Legacy - Episode 4 - The Riddle of the Dark Core (USA) (En,De,Sv,No,Fi,Cs,Hu).bin" size="257132400" crc="69aa1709" md5="274a08babec00056984a6671a196c637" sha1="1070534e34e81b810a4be07af63f5184f0e7582e"/>
 		<rom name="Starshine Legacy - Episode 4 - The Riddle of the Dark Core (USA) (En,De,Sv,No,Fi,Cs,Hu).cue" size="153" crc="2b9924bd" md5="f7ad7bb9b00da2ee61da81b1571bd220" sha1="74f79cc3d95ab3a874b66c1ad5fdac5db986e70e"/>
 	</game>
+	<game name="Starshine Legacy - Les aventures de Lisa la cavaliere (France)">
+		<category>Games</category>
+		<description>Starshine Legacy - Les aventures de Lisa la cavaliere (France)</description>
+		<rom name="Starshine Legacy - Les aventures de Lisa la cavaliere (France).bin" size="781569600" crc="0287e56a" md5="d330b0e2037747cc49260c3ab6b2b24d" sha1="15a1e2b276ac4314865525b93d458e8f5e9ae0bf"/>
+		<rom name="Starshine Legacy - Les aventures de Lisa la cavaliere (France).cue" size="128" crc="703a49a3" md5="324269796fccfe50aa34573fc8c80807" sha1="dd5384f8b6b03644bcdd263911a88fc3762cbefe"/>
+	</game>
 	<game name="Starship Battle - Pervoe srazhenie (Russia)">
 		<category>Games</category>
 		<description>Starship Battle - Pervoe srazhenie (Russia)</description>
@@ -166819,6 +166842,12 @@
 		<rom name="WarCraft II - Tides of Darkness (USA) (Demo).bin" size="51485280" crc="030744e0" md5="f83210215694cfc3f41d86b8d8f0e54d" sha1="73b79bda1674a290a4e275d75850ea2c90a21384"/>
 		<rom name="WarCraft II - Tides of Darkness (USA) (Demo).cue" size="133" crc="6a858247" md5="e227c6f7e5bc3441eda265728d683252" sha1="1f7475f8151d7dde482451c85d2573ff5c6f98bc"/>
 	</game>
+	<game name="WarCraft III - Frozen Throne (Poland)">
+		<category>Add-Ons</category>
+		<description>WarCraft III - Frozen Throne (Poland)</description>
+		<rom name="WarCraft III - Frozen Throne (Poland).bin" size="700206864" crc="bbf521d0" md5="2e8f16f1415133e85a9dc39d665214ed" sha1="d003907bd5ff09c484f5f0c7554e7ef153a15a45"/>
+		<rom name="WarCraft III - Frozen Throne (Poland).cue" size="103" crc="4bec6cb2" md5="0ca9516c060669f649a2cb8501bd092d" sha1="d461f983c5c25139b81ec2fb6fd5317854ba4c79"/>
+	</game>
 	<game name="WarCraft III - Reign of Chaos (USA, Europe)">
 		<category>Games</category>
 		<description>WarCraft III - Reign of Chaos (USA, Europe)</description>
@@ -166868,12 +166897,6 @@
 		<description>Warbirds Extreme - Warriors in the Sky (UK)</description>
 		<rom name="Warbirds Extreme - Warriors in the Sky (UK).bin" size="177282000" crc="cf6823ac" md5="410e724a336b3daf09ea9514db2f95c6" sha1="e1843615bc45c195b9c981ce2aebfc9bd00249f5"/>
 		<rom name="Warbirds Extreme - Warriors in the Sky (UK).cue" size="109" crc="1dfb26bd" md5="6c4074b9284158d192cef69191c177b4" sha1="9d63672311f344c3c165f9a99251a80161f37f40"/>
-	</game>
-	<game name="Warcraft III - Frozen Throne (Poland)">
-		<category>Add-Ons</category>
-		<description>Warcraft III - Frozen Throne (Poland)</description>
-		<rom name="Warcraft III - Frozen Throne (Poland).bin" size="700206864" crc="bbf521d0" md5="2e8f16f1415133e85a9dc39d665214ed" sha1="d003907bd5ff09c484f5f0c7554e7ef153a15a45"/>
-		<rom name="Warcraft III - Frozen Throne (Poland).cue" size="103" crc="7abb8f39" md5="21786caae4b71ffe850e58ba6bea8a53" sha1="5b1181217f8a4f744c282127745aafad9fd8b147"/>
 	</game>
 	<game name="Ward, The (USA) (Disc 1)">
 		<category>Games</category>
@@ -171397,6 +171420,26 @@
 		<description>World of WarCraft - Trial Edition (USA) (En,Es) (v3.1.0)</description>
 		<rom name="World of WarCraft - Trial Edition (USA) (En,Es) (v3.1.0).iso" size="8238530560" crc="254bdabd" md5="5f61c21a734c6045c57c65d59defd8e2" sha1="0f293473b102a973dfebafa6437df59f076b5ceb"/>
 	</game>
+	<game name="World of WarCraft - Warlords of Draenor (Europe) (Disc 1)">
+		<category>Add-Ons</category>
+		<description>World of WarCraft - Warlords of Draenor (Europe) (Disc 1)</description>
+		<rom name="World of WarCraft - Warlords of Draenor (Europe) (Disc 1).iso" size="8332181504" crc="e68dda79" md5="7d54e6a6b96735d3a637f735c7af3364" sha1="17b1f4d259eda2c5f03ec03e8d14b392190aa2ee"/>
+	</game>
+	<game name="World of WarCraft - Warlords of Draenor (Europe) (Disc 2)">
+		<category>Add-Ons</category>
+		<description>World of WarCraft - Warlords of Draenor (Europe) (Disc 2)</description>
+		<rom name="World of WarCraft - Warlords of Draenor (Europe) (Disc 2).iso" size="8456437760" crc="91acc038" md5="7fd56c6bc81895d53e8ccfad17309278" sha1="8c985060e1a8dc02e889a6de0ef496b93fe53b1a"/>
+	</game>
+	<game name="World of WarCraft - Warlords of Draenor (Europe) (Disc 3)">
+		<category>Add-Ons</category>
+		<description>World of WarCraft - Warlords of Draenor (Europe) (Disc 3)</description>
+		<rom name="World of WarCraft - Warlords of Draenor (Europe) (Disc 3).iso" size="8463384576" crc="d1f512ed" md5="535df77e2df6002ba3ac2a536788d250" sha1="9290b00f9f34d1c5b6b8223b8b77de2ead7e43a6"/>
+	</game>
+	<game name="World of WarCraft - Warlords of Draenor (Europe) (Disc 4)">
+		<category>Add-Ons</category>
+		<description>World of WarCraft - Warlords of Draenor (Europe) (Disc 4)</description>
+		<rom name="World of WarCraft - Warlords of Draenor (Europe) (Disc 4).iso" size="8355282944" crc="28514130" md5="d4ff5812105d6682c42ee52d3fd85af9" sha1="f1ca172d5d59e14615b2cd20ab19bb4762a7d8fd"/>
+	</game>
 	<game name="World of WarCraft - Wrath of the Lich King (Russia) (Disc 1) (Igrovoj disk) (v3.2.0.10192)">
 		<category>Add-Ons</category>
 		<description>World of WarCraft - Wrath of the Lich King (Russia) (Disc 1) (Igrovoj disk) (v3.2.0.10192)</description>
@@ -171426,26 +171469,6 @@
 		<category>Add-Ons</category>
 		<description>World of WarCraft - Wrath of the Lich King (USA) (v3.1.0.9767)</description>
 		<rom name="World of WarCraft - Wrath of the Lich King (USA) (v3.1.0.9767).iso" size="8238628864" crc="df139a43" md5="d2955e0db2eca499f206061f90068fab" sha1="6ad9e4e9dfd658338fa1bbe1f5101a5a221dd36e"/>
-	</game>
-	<game name="World of Warcraft - Warlords of Draenor (Europe) (Disc 1)">
-		<category>Add-Ons</category>
-		<description>World of Warcraft - Warlords of Draenor (Europe) (Disc 1)</description>
-		<rom name="World of Warcraft - Warlords of Draenor (Europe) (Disc 1).iso" size="8332181504" crc="e68dda79" md5="7d54e6a6b96735d3a637f735c7af3364" sha1="17b1f4d259eda2c5f03ec03e8d14b392190aa2ee"/>
-	</game>
-	<game name="World of Warcraft - Warlords of Draenor (Europe) (Disc 2)">
-		<category>Add-Ons</category>
-		<description>World of Warcraft - Warlords of Draenor (Europe) (Disc 2)</description>
-		<rom name="World of Warcraft - Warlords of Draenor (Europe) (Disc 2).iso" size="8456437760" crc="91acc038" md5="7fd56c6bc81895d53e8ccfad17309278" sha1="8c985060e1a8dc02e889a6de0ef496b93fe53b1a"/>
-	</game>
-	<game name="World of Warcraft - Warlords of Draenor (Europe) (Disc 3)">
-		<category>Add-Ons</category>
-		<description>World of Warcraft - Warlords of Draenor (Europe) (Disc 3)</description>
-		<rom name="World of Warcraft - Warlords of Draenor (Europe) (Disc 3).iso" size="8463384576" crc="d1f512ed" md5="535df77e2df6002ba3ac2a536788d250" sha1="9290b00f9f34d1c5b6b8223b8b77de2ead7e43a6"/>
-	</game>
-	<game name="World of Warcraft - Warlords of Draenor (Europe) (Disc 4)">
-		<category>Add-Ons</category>
-		<description>World of Warcraft - Warlords of Draenor (Europe) (Disc 4)</description>
-		<rom name="World of Warcraft - Warlords of Draenor (Europe) (Disc 4).iso" size="8355282944" crc="28514130" md5="d4ff5812105d6682c42ee52d3fd85af9" sha1="f1ca172d5d59e14615b2cd20ab19bb4762a7d8fd"/>
 	</game>
 	<game name="World of Warplanes (Russia) (Covermount)">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,042) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-24 17-35-30) (Retool)</description>
-		<version>2026-04-24 17-35-30</version>
-		<date>2026-04-25 03-20-56</date>
+		<description>IBM - PC compatible (13,043) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-26 02-43-17) (Retool)</description>
+		<version>2026-04-26 02-43-17</version>
+		<date>2026-04-26 03-18-34</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -55367,6 +55367,12 @@
 		<description>Nemesis of the Roman Empire (USA)</description>
 		<rom name="Nemesis of the Roman Empire (USA).bin" size="772784880" crc="d86d7284" md5="966d3530d42f20d653b0977c7f9e1b4d" sha1="8a660806ec146df81f71f279ffd7d6dec693cba9"/>
 		<rom name="Nemesis of the Roman Empire (USA).cue" size="99" crc="9eca31dc" md5="beb45f8dc910a1ab9c2af8269c3ef17e" sha1="67144e7c44d15246cafa0e6c64f861bc4398f011"/>
+	</game>
+	<game name="Neo Hunter (USA)">
+		<category>Games</category>
+		<description>Neo Hunter (USA)</description>
+		<rom name="Neo Hunter (USA).bin" size="470654016" crc="092d39b3" md5="69206506dae4bb8d3bbd60b2964f7583" sha1="69021278e4c7987f9c29b91db3302477f0574b4c"/>
+		<rom name="Neo Hunter (USA).cue" size="82" crc="860c1bc3" md5="ebe51460f4926c7b703300e55029e391" sha1="811c4a7b2b36cc9bcf5575948eb0718b8f6270c8"/>
 	</game>
 	<game name="Neocron 2 - Beyond Dome of York (Germany) (En,De) (Disc 1)">
 		<category>Games</category>
