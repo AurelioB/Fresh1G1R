@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,043) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-26 02-43-17) (Retool)</description>
-		<version>2026-04-26 02-43-17</version>
-		<date>2026-04-26 03-18-34</date>
+		<description>IBM - PC compatible (13,046) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-27 02-16-15) (Retool)</description>
+		<version>2026-04-27 02-16-15</version>
+		<date>2026-04-27 03-18-59</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -20374,6 +20374,12 @@
 		<rom name="Dick Johnson V8 Challenge (Australia) (Track 1).bin" size="215626656" crc="3418df27" md5="92f00ce5542e316ff32bc65b9366a00d" sha1="b59c0f62800720c07696e65c2f792360d096b27e"/>
 		<rom name="Dick Johnson V8 Challenge (Australia) (Track 2).bin" size="22800288" crc="b73d63b2" md5="5f7169cd73defc3b98cd927487201c4e" sha1="1dd36cccc0e975706d396957d8425d675d21f892"/>
 		<rom name="Dick Johnson V8 Challenge (Australia).cue" size="244" crc="5fcf1297" md5="9bf6571c98e8e9271022ee28f878f554" sha1="4dabc57f369ec2c20cfa5c3121816f810189548d"/>
+	</game>
+	<game name="Dick Sucks - Terror in Titfield (Germany) (En,De)">
+		<category>Games</category>
+		<description>Dick Sucks - Terror in Titfield (Germany) (En,De)</description>
+		<rom name="Dick Sucks - Terror in Titfield (Germany) (En,De).bin" size="397429200" crc="ff95cade" md5="187eec8ec2ff214bc1f4a7baae3555fb" sha1="165a2f9a172b962a6a2cdeeb60fedd55c1e9f29b"/>
+		<rom name="Dick Sucks - Terror in Titfield (Germany) (En,De).cue" size="115" crc="d1a021ad" md5="df08f25eceab576451d2a48508859606" sha1="93d4ef808a9e3c5daa0fe1c5996657f3453f8adb"/>
 	</game>
 	<game name="Die Hard - Nakatomi Plaza (USA)">
 		<category>Games</category>
@@ -64812,6 +64818,18 @@
 		<category>Games</category>
 		<description>Redemption Cemetery - Grave Testimony (USA) (Collector's Edition)</description>
 		<rom name="Redemption Cemetery - Grave Testimony (USA) (Collector's Edition).iso" size="892305408" crc="1dde25ea" md5="4ce3249236be7dc63c2a86f647eb5ac9" sha1="baec9163e63c35269a7c6bfab9a66937d3e087d8"/>
+	</game>
+	<game name="Redfire's Game Fever - Hottest Games Vol. 1 (Germany) (En,De) (Disc 1) (Inside Chessie &amp; Chicken Farm)">
+		<category>Games</category>
+		<description>Redfire's Game Fever - Hottest Games Vol. 1 (Germany) (En,De) (Disc 1) (Inside Chessie &amp; Chicken Farm)</description>
+		<rom name="Redfire's Game Fever - Hottest Games Vol. 1 (Germany) (En,De) (Disc 1) (Inside Chessie &amp; Chicken Farm).bin" size="708803424" crc="daf99b02" md5="623d0586d88a31f25ef5cc5a8d1b8032" sha1="bedb659166b1478135a1ee3c80108ba26116fd89"/>
+		<rom name="Redfire's Game Fever - Hottest Games Vol. 1 (Germany) (En,De) (Disc 1) (Inside Chessie &amp; Chicken Farm).cue" size="168" crc="0a9f6050" md5="0d85a6f4c381375c336b863019e67524" sha1="83a8e588bb6b0f4bcb9157cfc1ca3cc99c3e52e2"/>
+	</game>
+	<game name="Redfire's Game Fever - Hottest Games Vol. 1 (Germany) (En,De) (Disc 2) (Ibiza Babewatch)">
+		<category>Games</category>
+		<description>Redfire's Game Fever - Hottest Games Vol. 1 (Germany) (En,De) (Disc 2) (Ibiza Babewatch)</description>
+		<rom name="Redfire's Game Fever - Hottest Games Vol. 1 (Germany) (En,De) (Disc 2) (Ibiza Babewatch).bin" size="713914320" crc="e8b6e0c8" md5="2a30477e7d2380c36853b61e7f875f02" sha1="7c51c339ea32eff2ffb5cfa3934670fffbe9bf68"/>
+		<rom name="Redfire's Game Fever - Hottest Games Vol. 1 (Germany) (En,De) (Disc 2) (Ibiza Babewatch).cue" size="154" crc="2511d63e" md5="5e7ff431accd8cc7951a680060a3e7ab" sha1="3574c2bbeac6a1eadbad931f49a6ac3fb0a3a098"/>
 	</game>
 	<game name="Redjack - Revenge of the Brethren (USA) (Disc 1)">
 		<category>Games</category>
