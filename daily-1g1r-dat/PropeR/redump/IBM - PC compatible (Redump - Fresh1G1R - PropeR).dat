@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,588) (-y) [-aAbBcdkmMpPuv] (2026-04-27 02-16-15) (Retool)</description>
-		<version>2026-04-27 02-16-15</version>
-		<date>2026-04-27 03-20-41</date>
+		<description>IBM - PC compatible (25,598) (-y) [-aAbBcdkmMpPuv] (2026-04-28 20-46-19) (Retool)</description>
+		<version>2026-04-28 20-46-19</version>
+		<date>2026-04-29 03-22-53</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -5561,12 +5561,12 @@
 		<rom name="Air Offensive - The Art of Flying (Europe).bin" size="148747536" crc="c5666b8c" md5="27ce481855a5f8e61304406c458344aa" sha1="3cf202e647ea9fad6fa758ce6d1df20451bc31a7"/>
 		<rom name="Air Offensive - The Art of Flying (Europe).cue" size="123" crc="4e790849" md5="c65f48fad2b2e4d4a981bfb18409966e" sha1="c4503f3b8e9926a6dfeede190c8fd4355933db6c"/>
 	</game>
-	<game name="Air Power (Germany)">
+	<game name="Air Power (Europe)">
 		<category>Games</category>
-		<description>Air Power (Germany)</description>
-		<rom name="Air Power (Germany) (Track 1).bin" size="166166448" crc="4c3592ef" md5="19ffdb1ea797281dcb3a08abb79f3f45" sha1="1bf2bbfed7baa71602c14d6d8f28ff7d13702eb6"/>
-		<rom name="Air Power (Germany) (Track 2).bin" size="92007888" crc="a65f7890" md5="dff10f618984fe6c7054634c9e10fbf6" sha1="65e31dd836eb83da3cf8b76f6c7eb2b72b8e4757"/>
-		<rom name="Air Power (Germany).cue" size="231" crc="71f127e8" md5="c9878820715798cccee92f8b874178ed" sha1="2df2c03e804e6bd8d719f3f139fdb6d88c7a474c"/>
+		<description>Air Power (Europe)</description>
+		<rom name="Air Power (Europe) (Track 1).bin" size="163026528" crc="adcdee69" md5="e008392c667d42123e165edf39a5fbd6" sha1="a42ff552e88926a7da91e0dea188ab852db9e24f"/>
+		<rom name="Air Power (Europe) (Track 2).bin" size="94889088" crc="62040ae5" md5="fdbb6f7cc71ad26bae47b24fce10b61b" sha1="6154f52b1a775d6cc87edc4596276faca807ce9f"/>
+		<rom name="Air Power (Europe).cue" size="229" crc="2d6b37ad" md5="87af35855acbac26ef249eb481b8950d" sha1="083ba33987c8de98d49fe73eb4f2c9e9f6b23781"/>
 	</game>
 	<game name="Air Power - Battle in the Skies (USA)">
 		<category>Games</category>
@@ -20659,6 +20659,12 @@
 		<rom name="Brain Bytes - Reading Roller Coaster (USA).bin" size="228452112" crc="83952597" md5="d875b41a79343cfd67cb0537f04e3db4" sha1="64d8cb60a8216eaa9f00065f31f9b5e1a9bc4761"/>
 		<rom name="Brain Bytes - Reading Roller Coaster (USA).cue" size="131" crc="93c37c0b" md5="5201bcd6efdb0e7d017f1ab36d45944f" sha1="e0559e3192af41f26fb1be1a3c6e662ab2f95c09"/>
 	</game>
+	<game name="Brain College - Aztec Adventures (Italy)">
+		<category>Games</category>
+		<description>Brain College - Aztec Adventures (Italy)</description>
+		<rom name="Brain College - Aztec Adventures (Italy).bin" size="104402928" crc="edd851b4" md5="6c9fb2e50e6f5b9958fd2af725e8d1b9" sha1="7c90f9115a0fe8af6a893d4a0dd561f361d7c838"/>
+		<rom name="Brain College - Aztec Adventures (Italy).cue" size="106" crc="0a435cf2" md5="a245f89a6c46229004b54120149d1528" sha1="0e80b64d569e8a395cd5b742aba77507f379191e"/>
+	</game>
 	<game name="Brain College - Chinese Temple (Germany)">
 		<category>Games</category>
 		<description>Brain College - Chinese Temple (Germany)</description>
@@ -31221,6 +31227,12 @@
 		<category>Games</category>
 		<description>Crazy Machines - Golden Gears (Germany)</description>
 		<rom name="Crazy Machines - Golden Gears (Germany).iso" size="376930304" crc="760a304f" md5="69ad84927d368448bdf130ef34a4b62a" sha1="a5fb6df9ffe0fd2069c35c7d4e92aae280fad81a"/>
+	</game>
+	<game name="Crazy Machines - Neues aus dem Labor (Germany)">
+		<category>Games</category>
+		<description>Crazy Machines - Neues aus dem Labor (Germany)</description>
+		<rom name="Crazy Machines - Neues aus dem Labor (Germany).bin" size="784693056" crc="4342c19f" md5="7be4dd346fc04a37fb0cf5f72cf81bac" sha1="80bd0cc7c40d1fcd690fd7cae9f187cd7bff585e"/>
+		<rom name="Crazy Machines - Neues aus dem Labor (Germany).cue" size="112" crc="9169f77c" md5="58ae9ab3de8d1cab72cfc1bf6728b2d1" sha1="1c2582abcd56fac790d44d874768c0279bed5bb5"/>
 	</game>
 	<game name="Crazy Machines 1.0 + 1.5 Complete (Europe)">
 		<category>Games</category>
@@ -61228,6 +61240,12 @@
 		<category>Games</category>
 		<description>Glass Staircase, The (USA)</description>
 		<rom name="Glass Staircase, The (USA).iso" size="3720314880" crc="361a52a6" md5="c8d141941109493d6ed3f887211692ca" sha1="49cee2478f3ac0f04b49c4cfa624c67fbecef4d5"/>
+	</game>
+	<game name="Glassanoid (Italy)">
+		<category>Games</category>
+		<description>Glassanoid (Italy)</description>
+		<rom name="Glassanoid (Italy).bin" size="58487184" crc="14edc2a0" md5="70c4c7659bfdcd3353634daadea30954" sha1="90d6c1abbe127aa0b01de08c3c6d10c16fe277af"/>
+		<rom name="Glassanoid (Italy).cue" size="84" crc="29a7d188" md5="0a9eee7149861cc26fb7bb6cf47165ab" sha1="ef9f8811c4d1a9e64d65e767a1d3f768e2fffa56"/>
 	</game>
 	<game name="Glider 4.0 (USA)">
 		<category>Games</category>
@@ -111534,6 +111552,12 @@
 		<rom name="Omnia Junior 3 - Il Mondo degli Animali (Italy) (Covermount).bin" size="781357920" crc="724847e1" md5="87a939a0c8e249b90de340e9a25e9a72" sha1="c59f9687d70493f3120c12586e4876bf9e6fd4ec"/>
 		<rom name="Omnia Junior 3 - Il Mondo degli Animali (Italy) (Covermount).cue" size="126" crc="8efa9dcf" md5="e8b24c533a71968051081b6b457f48b5" sha1="b24e10397ff6d9a5c1efbb407403cb489d1cc39f"/>
 	</game>
+	<game name="Omnigames 1 (Italy) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Omnigames 1 (Italy) (En,Fr,De,Es,It)</description>
+		<rom name="Omnigames 1 (Italy) (En,Fr,De,Es,It).bin" size="52745952" crc="595dc77f" md5="5f46db3f8c1fd1cb6e958c9546ddb244" sha1="799971a7a0184f86cfbcb58c0c5df8daf095c6e2"/>
+		<rom name="Omnigames 1 (Italy) (En,Fr,De,Es,It).cue" size="125" crc="022c7d2e" md5="b981e7d49139213f58a4d01b10eeab11" sha1="9a812233e041da8700de7709cf6e5db9e44f2801"/>
+	</game>
 	<game name="Omocha no Chachacha Vol. 4 - Misaka Shimai Hen (Japan)">
 		<category>Games</category>
 		<description>Omocha no Chachacha Vol. 4 - Misaka Shimai Hen (Japan)</description>
@@ -115518,6 +115542,12 @@
 		<description>Pearl Harbor II - The Navy Strikes Back (Germany)</description>
 		<rom name="Pearl Harbor II - The Navy Strikes Back (Germany).bin" size="203963088" crc="32ddac1f" md5="63f80c7bc5f6f156f356c50e03edd942" sha1="490437d6796d37b60058849af1b6b1ed84315bb2"/>
 		<rom name="Pearl Harbor II - The Navy Strikes Back (Germany).cue" size="115" crc="e8611456" md5="3270919ef1061c202e5326ddee882d3b" sha1="34b1c3cc0076bb940ca07c1af64b1fd41e7d4934"/>
+	</game>
+	<game name="Pearl Harbour - Shadows Over Oahu (Australia)">
+		<category>Games</category>
+		<description>Pearl Harbour - Shadows Over Oahu (Australia)</description>
+		<rom name="Pearl Harbour - Shadows Over Oahu (Australia).bin" size="354389952" crc="bbd3a289" md5="0a7d4d25844cf42f9bfa461576569f0b" sha1="6d23eaca47867a53113a4cbfa824e1a9a56e8ea5"/>
+		<rom name="Pearl Harbour - Shadows Over Oahu (Australia).cue" size="111" crc="8fcb1c0d" md5="b1124edc06b56268cbedf11990c157c1" sha1="543b630395036e23566448ffbea20e0e51dd7af7"/>
 	</game>
 	<game name="Pebble Beach - PGA Tour Pro Course Disc (USA)">
 		<category>Add-Ons</category>
@@ -133540,10 +133570,10 @@
 		<description>Saints Row - The Third (USA, Europe) (En,Fr,De,Es,It,Nl,Ko,Pl,Ru,Cs) (Disc 2)</description>
 		<rom name="Saints Row - The Third (USA, Europe) (En,Fr,De,Es,It,Nl,Ko,Pl,Ru,Cs) (Disc 2).iso" size="2467346432" crc="0302f6dd" md5="1b85cd48342db0b7e8e31983400259a1" sha1="50ed05d1c3e86bf5e7b62bdde4d63f6a97f07ded"/>
 	</game>
-	<game name="Saints Row 2 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)">
+	<game name="Saints Row 2 (USA, Europe) (En,Fr,Es)">
 		<category>Games</category>
-		<description>Saints Row 2 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)</description>
-		<rom name="Saints Row 2 (USA) (En,Fr,De,Es,It,Nl,Sv,Da).iso" size="7244906496" crc="0be4ce62" md5="de81ba90acbe964abf20bb28bb243230" sha1="ba894d212b9b490e4451680fd1c0b52e5f057976"/>
+		<description>Saints Row 2 (USA, Europe) (En,Fr,Es)</description>
+		<rom name="Saints Row 2 (USA, Europe) (En,Fr,Es).iso" size="7244906496" crc="0be4ce62" md5="de81ba90acbe964abf20bb28bb243230" sha1="ba894d212b9b490e4451680fd1c0b52e5f057976"/>
 	</game>
 	<game name="Saints Row IV (USA, Europe)">
 		<category>Games</category>
@@ -138834,6 +138864,11 @@
 		<description>Seven Kingdoms - Conquest (USA)</description>
 		<rom name="Seven Kingdoms - Conquest (USA).iso" size="739508224" crc="1661772f" md5="2a3c6363729aabc8bd2afd50a7d02a45" sha1="a04f4c943cbc7a66a3906427be99e497931c5383"/>
 	</game>
+	<game name="Seven Kingdoms Conquest (Poland)">
+		<category>Games</category>
+		<description>Seven Kingdoms Conquest (Poland)</description>
+		<rom name="Seven Kingdoms Conquest (Poland).iso" size="749305856" crc="dba41d31" md5="48cb480fa4f4c8957f4d81a44f619541" sha1="29e541f82bf24814ebbd9899dea270a51df679fb"/>
+	</game>
 	<game name="Seven Kingdoms II - The Fryhtan Wars (USA) (Rerelease)">
 		<category>Games</category>
 		<description>Seven Kingdoms II - The Fryhtan Wars (USA) (Rerelease)</description>
@@ -140830,6 +140865,62 @@
 		<rom name="Shock Price 500 Game Series - Hit the Block (Japan).bin" size="53272800" crc="e1a923c2" md5="8e7a1598949389577d71af1995360ee4" sha1="107b17e18e92d74b49baae0be46cb7c2714c00aa"/>
 		<rom name="Shock Price 500 Game Series - Hit the Block (Japan).cue" size="117" crc="7d77acb7" md5="60c58bade887a4301900a327fc589966" sha1="dccc7df0e903b45dc973a8881fa0f50fe9cb725e"/>
 	</game>
+	<game name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1)">
+		<category>Games</category>
+		<description>Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1)</description>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 01).bin" size="292238352" crc="15d46679" md5="1ba65a67a16897b511266cd2ffb75d8a" sha1="94e484dcf23b64defdf29567eb9f77419d18b0f1"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 02).bin" size="5310816" crc="8ea14efa" md5="8fa9b707b3019ae8285fbc3f475bc899" sha1="e8168dddc3b56e284a24c5d07262eb54698f0689"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 03).bin" size="5117952" crc="f0856fc2" md5="7a0736d7091be8e32b21c2909e5d883e" sha1="ec6befe42e6a4a299d9122791f2b152248d37b4b"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 04).bin" size="5035632" crc="2d789c02" md5="52e27fccb990ffebd97d2acca6494f1f" sha1="a5d0dfec6a062c99f6359b8761b7d3c496780871"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 05).bin" size="5019168" crc="fa6c0d31" md5="b1355d78859e0a1f9d0f2023442219e6" sha1="371bd5c114297acede08eb15c4224b52985a6c6a"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 06).bin" size="4934496" crc="83c61303" md5="a772879ee2d74a1d7394e3745c757f8a" sha1="2c46de36338c74500dbe5833361d10ca2e7cf3a5"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 07).bin" size="4682832" crc="6ff88467" md5="c70bc14058a0d428fde235d9f34fea61" sha1="c6b3daa5f37fa2033cda67d5dc9dccd5d658d678"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 08).bin" size="5117952" crc="57ffc02c" md5="0a403dae841c06231019a14e5f917399" sha1="d56bc6e2d0b9feeebd1cf4f57234a0b89a0e2eee"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 09).bin" size="4746336" crc="2fec26f6" md5="2772c2d2e502e687106324d34fcf09e7" sha1="c12fdb53b4cdbb47c7331561a53994224a9fbe12"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 10).bin" size="5223792" crc="b9b5b2c7" md5="042362f3506eb1736bd1ddd3d217e4e6" sha1="61a9cb1c3054a0873acf83bbab0fd726754a3462"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 11).bin" size="4835712" crc="c501e569" md5="8e8ab5793d9bd0835ee5925a927bc649" sha1="0a806424c5b728f87d50cd91d2649988dea3c6ce"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 12).bin" size="5092080" crc="a56ebbc7" md5="d4a2c5f1073068763cafc886462cd7d3" sha1="d746973e9426e6a087dae9204fe9d505c7e1fb50"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 13).bin" size="5181456" crc="1e55e6a0" md5="0736f4eff25f089956ba2a4bb73c8795" sha1="6cae153949f765cb0b95a8c78d07f054841bb14d"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 14).bin" size="5082672" crc="dabb4cd4" md5="1b7420f9cea8c5f1658565df0d39190c" sha1="17875754fe4c75fb89d5d952eef1d5c86ad3c0cc"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 15).bin" size="5063856" crc="ddd5b498" md5="3cf9a99fe14a8eec0e7a8d7ed9d173f8" sha1="2360ac44837f37d5d8e59483f5fe055f424424a0"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 16).bin" size="4673424" crc="190cdc1b" md5="0be6af28928f3d66922ba0c2e82d773d" sha1="b1143d323d983dd3f79c292bee32ea5063d08744"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 17).bin" size="4939200" crc="09851c6a" md5="65f388b261c5d788068ae47139abd93f" sha1="fcdab9e738d27744d085d49348e87b7b0e2ae865"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 18).bin" size="4946256" crc="f72237ba" md5="66036dbd283d89b32be7d19daf9543e1" sha1="cacb39cfe1d087b814a56fa20d3994d09c67426a"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 19).bin" size="4758096" crc="3e21e6ec" md5="66f8195c25bd730c53ff3588e6f22778" sha1="52726373714ed5ffd565a4162360f6c23d44955c"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 20).bin" size="5094432" crc="cf0bae52" md5="a8c05847f6d3d953dbae82f40b573aa7" sha1="11f64df7b463dc5c4fc679549ff4e35278197318"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 21).bin" size="5125008" crc="ca5b3668" md5="b2cf85fdea0a54f9d2ed0de586c8eb1f" sha1="3ff098c941320a509838cb86f6410b1f47247bc3"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 22).bin" size="4899216" crc="1da263cb" md5="2007bd4bf60ba05c4c63e8418c39b876" sha1="854bf5fd3509541d460147649983c3f54c4ffeea"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 23).bin" size="5247312" crc="45b16f00" md5="4bf25b67553479858262740956326045" sha1="3f64b8bc211cffd25d58e385e379ed6bab7ec5de"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 24).bin" size="4910976" crc="5ed5f2a2" md5="10d6ff7c549a5af8d25d28e4b546976f" sha1="9e6bbbf62da3b79167c28bf34e614fb24ac3457c"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 25).bin" size="5221440" crc="b8b493de" md5="d3468e0a92223e996c0ff90ae6e2a83d" sha1="fdbbceffe8a2940c52622c13bc806b85f4a07b8a"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 26).bin" size="4896864" crc="b8c278fe" md5="3b87632fe720b7bccb45199623d50418" sha1="0c90696c7422724eedc558407927f133286f11ac"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 27).bin" size="4704000" crc="e7534578" md5="2eb3fa4082c24125ccb200b5c3e84d43" sha1="437bdf6bf8b39e1212f46926bf213ab42773f5a5"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 28).bin" size="4793376" crc="f7a1e9eb" md5="f2b3cf9b3bd5bd9f92b183483adb9cfb" sha1="fee4dd60a63173298ba16798065da31a50ed2412"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 29).bin" size="4633440" crc="53ce2a1a" md5="fa8e039c0f5a0699fc1db6b97f184473" sha1="10978312b84c129fb67b7c1f9f46df73c415a2ac"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 30).bin" size="4870992" crc="0bd7b7a0" md5="f0ad8cfd0412abe58bd460032279a760" sha1="f79a3243828158d103ac48ec8f2723f0566d6930"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 31).bin" size="5068560" crc="b55b0434" md5="7c47c0a774009f7805d0e56476543306" sha1="b29c080eca5304c410e173c71486b662ada64569"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 32).bin" size="5063856" crc="b4dd4596" md5="b1715b3ca70f62c248f402e44b0ccd75" sha1="3c75bbd96d222161478e71b6bfdb9c260ef62dd3"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 33).bin" size="4889808" crc="982d427a" md5="b20b5a4c094e135a68715776f4b15610" sha1="be1f4a9efc976cd1b3ec7d05a7c060d9c8f5ee8e"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 34).bin" size="4972128" crc="17abf145" md5="ba851f714f27586fd91514cedd424102" sha1="93a340565b396a7e4a1a6526d4a9c6ed7d385885"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 35).bin" size="4788672" crc="2594a41e" md5="29c6575ba21f4b501db059d74350a4cf" sha1="b4ce7a74a49a54d2bf7d9b28e5ea0d1c1e0a6826"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 36).bin" size="4901568" crc="18d7363d" md5="240fd8a06c0a8dcfc06504fcaaaf3fd4" sha1="7eca2a150190895244cc4c94c5e6dd33cd3ca5e9"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 37).bin" size="4915680" crc="3ded9667" md5="d8a5c5e4a43903d2e45e3b8f57ebe12c" sha1="8f4baf78cb1eba63a228e254b330d0d50ef59546"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 38).bin" size="4833360" crc="afbbe80d" md5="a7a154fe7f53715e7898901ed2176fab" sha1="1ad5d145923fc201825d7c2349cbffb7ef3bb551"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 39).bin" size="4887456" crc="dca75d99" md5="4c066b31d5f069c6aec358008a25b158" sha1="401f46baf697b083a83b5419a2e55916088974fb"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 40).bin" size="4661664" crc="0b7af4ca" md5="fe946065a4805198f671d0d1eeb26cd5" sha1="3220e9730a386f80efb13a01a3f39add1171525b"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 41).bin" size="5014464" crc="d472c608" md5="a035cfb0828507b0bfb39fbaa354b4fe" sha1="ed6ebcc4e4d2e4bc4ffb600f8b8895ea991da140"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 42).bin" size="4910976" crc="73cdf29c" md5="b442ca345bc7aea3e67eecff933079ab" sha1="3748112d5e7503c649314679d82d2adf56a36e99"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 43).bin" size="4826304" crc="3570fa98" md5="165e55e196ae1313aa1c2c0577f7b7d9" sha1="b84e8f11717e7182b0ee70c7b4d2ad65636e0d54"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 44).bin" size="4910976" crc="8b19a007" md5="2860efb749751aa566c74890a9c181c6" sha1="f244acaa08716f635d8181f406aff211142b04ff"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 45).bin" size="4692240" crc="fed4d87d" md5="4675f16017bdc6efef6c4dfcfe3f2467" sha1="4400fb42d4578c201e141f01a726e132109706c8"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 46).bin" size="5075616" crc="3b0a3813" md5="58f46b074cedcaf3b9b3a9b66dd89a2e" sha1="e4aee938e904c0a7b2fb21073a1962e48d494bf2"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 47).bin" size="4878048" crc="e6f66736" md5="805a8d6237142175a97483fb309be234" sha1="a3d7624d87f844e59a52ec4f235551c4717e45c0"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 48).bin" size="5040336" crc="e7a0703b" md5="728bb78cddbea96707efc7cfafcb33bc" sha1="2d7b8c9af57f080296cd1110219b2b28895fcc4a"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 49).bin" size="4875696" crc="78a66127" md5="88a2fee60fa77cfc65aa50f7f2b8107c" sha1="d71b8a450af806b7c3559ab1b9b93a6c3fcc594d"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 50).bin" size="4727520" crc="9b1b4111" md5="24bc4f7761e6e7121dc84edf15b8dab7" sha1="de61d0f87ad82d0886379f427f23e6748abc3d0b"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1) (Track 51).bin" size="5101488" crc="3bd3ca5f" md5="82a7fe5ff222c8703c9d889d5b0e98cb" sha1="65c498028795beb967d180c46cb5e781bea28ebf"/>
+		<rom name="Shock Price 500 Game Series - Hyakunin Isshu (Japan) (Rev 1).cue" size="6760" crc="9fed8432" md5="58658e4bb36edcde1fa544a4d3ec0629" sha1="9fc1c4ef6583bb33278ca4e14af8f41939c9c8c7"/>
+	</game>
 	<game name="Shock Price 500 Game Series - Igo (Japan)">
 		<category>Games</category>
 		<description>Shock Price 500 Game Series - Igo (Japan)</description>
@@ -140842,11 +140933,11 @@
 		<rom name="Shock Price 500 Game Series - Kick Boy (Japan) (En,Ja).bin" size="325465056" crc="9095593a" md5="000032bd4e1a5ba8edc533db086ef695" sha1="ac9f35433a93d7fcc8e9d84b4966e1405b21e8a7"/>
 		<rom name="Shock Price 500 Game Series - Kick Boy (Japan) (En,Ja).cue" size="120" crc="f36513ac" md5="5349ec4aaf40e13a0d56a84ce8aef770" sha1="446faf29963d6ad3c9f6936124960aed15fffee8"/>
 	</game>
-	<game name="Shock Price 500 Game Series - Mahjong (Japan)">
+	<game name="Shock Price 500 Game Series - Mahjong (Japan) (Rev 1)">
 		<category>Games</category>
-		<description>Shock Price 500 Game Series - Mahjong (Japan)</description>
-		<rom name="Shock Price 500 Game Series - Mahjong (Japan).bin" size="5997600" crc="8220f739" md5="c6a13f4da0d64d76a94dc155a73cd7ab" sha1="f1941025530b68a34d48fc6545826fd6b802a9d9"/>
-		<rom name="Shock Price 500 Game Series - Mahjong (Japan).cue" size="111" crc="766440bb" md5="8081dbdea29d360d7f731e52d8733d6c" sha1="0584af901ba3ad65bd43473772162929841bc8d4"/>
+		<description>Shock Price 500 Game Series - Mahjong (Japan) (Rev 1)</description>
+		<rom name="Shock Price 500 Game Series - Mahjong (Japan) (Rev 1).bin" size="143443776" crc="20ed0769" md5="ceaad7870fabc0aba6f0f6f9a05d519a" sha1="279bc7916698d163b755b53de1416ffc6fbaa03b"/>
+		<rom name="Shock Price 500 Game Series - Mahjong (Japan) (Rev 1).cue" size="119" crc="2d4acb31" md5="95e3a2988388ff81249f1201aed83b3b" sha1="127b26ca19193aefd112179cc6f444e2af2c0ccd"/>
 	</game>
 	<game name="Shock Price 500 Game Series - Mahjong II (Japan) (Rev 1)">
 		<category>Games</category>
@@ -149388,6 +149479,12 @@
 		<description>Standard 1500 - The Pinball - Golden Logres (Japan)</description>
 		<rom name="Standard 1500 - The Pinball - Golden Logres (Japan).bin" size="82992672" crc="331137c0" md5="87b20ad8c5bd65ffbafb6cf870c2886a" sha1="9dc941efcba14564cc355cc993009ffbb69a35ce"/>
 		<rom name="Standard 1500 - The Pinball - Golden Logres (Japan).cue" size="140" crc="e9937b8c" md5="4336ca419017790de993a7ea819955e8" sha1="e336c6398a386b44bfd41c173db25ca23950230a"/>
+	</game>
+	<game name="Standard 1500 - The Reversi (Japan)">
+		<category>Games</category>
+		<description>Standard 1500 - The Reversi (Japan)</description>
+		<rom name="Standard 1500 - The Reversi (Japan).bin" size="5035632" crc="247b4f03" md5="3cd693bb46c8fb39e3087776120472f3" sha1="07a06e4ea22279dadfa468326e1f52ac1a95e297"/>
+		<rom name="Standard 1500 - The Reversi (Japan).cue" size="124" crc="423c38f1" md5="63f7599a0d148c1ad7ea8255bd9aa3e8" sha1="dc59a9bf3ba3f1d298720a4caf0cd75060ef9715"/>
 	</game>
 	<game name="Stanley Parable, The (USA)">
 		<category>Games</category>
@@ -161355,6 +161452,12 @@
 		<rom name="Toro Farcito e la Maledizione della Piramide - Episodio 4 (Italy).bin" size="49236768" crc="b6b6cbc4" md5="faa5e30516761d292c7f60fa47c4a198" sha1="9dccebf7a8e177a6214ea5ae0dd65bf1b3a451da"/>
 		<rom name="Toro Farcito e la Maledizione della Piramide - Episodio 4 (Italy).cue" size="131" crc="57dcbf1d" md5="85c5182b01e43592b95879b7d47916cb" sha1="c2cb8b011e6710707201e6974472424e82b5e692"/>
 	</game>
+	<game name="Toro Farcito e la Maledizione della Piramide - Episodio 5 (Italy)">
+		<category>Games</category>
+		<description>Toro Farcito e la Maledizione della Piramide - Episodio 5 (Italy)</description>
+		<rom name="Toro Farcito e la Maledizione della Piramide - Episodio 5 (Italy).bin" size="135089472" crc="7dc6379a" md5="d93f6bb2f7687a3ad1dc74bff5ded776" sha1="77e32396b813d4f73885d4ce86728a78b82ec4ca"/>
+		<rom name="Toro Farcito e la Maledizione della Piramide - Episodio 5 (Italy).cue" size="131" crc="82d9c361" md5="6bdb2a7181fc0c9448206ebd6d6dd770" sha1="00b8ca7fb9d2fea3425ba1c0f8d160a743ce6216"/>
+	</game>
 	<game name="Toro Farcito e la Maledizione della Piramide - Episodio 6 (Italy)">
 		<category>Games</category>
 		<description>Toro Farcito e la Maledizione della Piramide - Episodio 6 (Italy)</description>
@@ -166005,6 +166108,12 @@
 		<description>Ultra Fighters - The Future of Dogfighting (USA)</description>
 		<rom name="Ultra Fighters - The Future of Dogfighting (USA).bin" size="768633600" crc="5e213d3d" md5="8e37836533ef458f38f0c305996da40a" sha1="e581ac616df4f403862ce7d57feeb19c3ce846bf"/>
 		<rom name="Ultra Fighters - The Future of Dogfighting (USA).cue" size="114" crc="52e25d86" md5="1fac674c68e119e85f2bb55eff1c318d" sha1="8e5cb949131354ad9d3d5cbdb3b6a2fd69fd9408"/>
+	</game>
+	<game name="Ultra Games 2 (Italy) (En,It)">
+		<category>Games</category>
+		<description>Ultra Games 2 (Italy) (En,It)</description>
+		<rom name="Ultra Games 2 (Italy) (En,It).bin" size="340235616" crc="c3f90bf5" md5="8ede2614ad58d6d9c3cde23e804addb3" sha1="07a1310c8be086fa042eb3b7a8b54d36bfc224a6"/>
+		<rom name="Ultra Games 2 (Italy) (En,It).cue" size="118" crc="34e06c20" md5="b6bfe5387bd59bfa0b53efe8e2ab8605" sha1="8f5a956ada9bfe7071f8825438531bc4d56d3234"/>
 	</game>
 	<game name="Ultra Mahou Shoujo Manana Vol. 1 (Japan)">
 		<category>Games</category>

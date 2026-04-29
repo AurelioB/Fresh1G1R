@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,046) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-27 02-16-15) (Retool)</description>
-		<version>2026-04-27 02-16-15</version>
-		<date>2026-04-27 03-18-59</date>
+		<description>IBM - PC compatible (13,050) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-28 20-46-19) (Retool)</description>
+		<version>2026-04-28 20-46-19</version>
+		<date>2026-04-29 03-21-14</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -2771,6 +2771,13 @@
 		<description>Air Offensive - The Art of Flying (Europe)</description>
 		<rom name="Air Offensive - The Art of Flying (Europe).bin" size="148747536" crc="c5666b8c" md5="27ce481855a5f8e61304406c458344aa" sha1="3cf202e647ea9fad6fa758ce6d1df20451bc31a7"/>
 		<rom name="Air Offensive - The Art of Flying (Europe).cue" size="123" crc="4e790849" md5="c65f48fad2b2e4d4a981bfb18409966e" sha1="c4503f3b8e9926a6dfeede190c8fd4355933db6c"/>
+	</game>
+	<game name="Air Power (Europe)">
+		<category>Games</category>
+		<description>Air Power (Europe)</description>
+		<rom name="Air Power (Europe) (Track 1).bin" size="163026528" crc="adcdee69" md5="e008392c667d42123e165edf39a5fbd6" sha1="a42ff552e88926a7da91e0dea188ab852db9e24f"/>
+		<rom name="Air Power (Europe) (Track 2).bin" size="94889088" crc="62040ae5" md5="fdbb6f7cc71ad26bae47b24fce10b61b" sha1="6154f52b1a775d6cc87edc4596276faca807ce9f"/>
+		<rom name="Air Power (Europe).cue" size="229" crc="2d6b37ad" md5="87af35855acbac26ef249eb481b8950d" sha1="083ba33987c8de98d49fe73eb4f2c9e9f6b23781"/>
 	</game>
 	<game name="Air Power - Battle in the Skies (USA)">
 		<category>Games</category>
@@ -57057,6 +57064,12 @@
 		<rom name="Ominous Horizons (USA) (Track 16).bin" size="17823456" crc="f11a2410" md5="0eabee9ed63dd5a560a5d8bb73c031e2" sha1="e0326a27023749de020212426939da7babe69e5a"/>
 		<rom name="Ominous Horizons (USA).cue" size="1854" crc="f138bd05" md5="27acc42b9bfa490e3011adb8f3438d96" sha1="2620abf545cb4c64f811abacdaa5ed38d7b23d4b"/>
 	</game>
+	<game name="Omnigames 1 (Italy) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Omnigames 1 (Italy) (En,Fr,De,Es,It)</description>
+		<rom name="Omnigames 1 (Italy) (En,Fr,De,Es,It).bin" size="52745952" crc="595dc77f" md5="5f46db3f8c1fd1cb6e958c9546ddb244" sha1="799971a7a0184f86cfbcb58c0c5df8daf095c6e2"/>
+		<rom name="Omnigames 1 (Italy) (En,Fr,De,Es,It).cue" size="125" crc="022c7d2e" md5="b981e7d49139213f58a4d01b10eeab11" sha1="9a812233e041da8700de7709cf6e5db9e44f2801"/>
+	</game>
 	<game name="On the Ball - League Edition (Europe)">
 		<category>Games</category>
 		<description>On the Ball - League Edition (Europe)</description>
@@ -58957,6 +58970,12 @@
 		<rom name="Pearl Harbor - Zero Hour (USA) (Rev 1) (Track 14).bin" size="27504288" crc="c32480cd" md5="c03197b6c9c3305929b3b90fa21b716e" sha1="e6ffdd60dcf54a85c8a3d6c85ad8e6ea3eaae264"/>
 		<rom name="Pearl Harbor - Zero Hour (USA) (Rev 1) (Track 15).bin" size="119079408" crc="fde0262c" md5="b7caedf842ed7ca75dc8ea5bf72be58b" sha1="536a45a5f249f608a0318c766559177e55d23fd9"/>
 		<rom name="Pearl Harbor - Zero Hour (USA) (Rev 1).cue" size="1678" crc="e61da3bf" md5="cacb69f9c5ba26675438408f2b2684c4" sha1="a51f84bff01d4cabca30e168a777fdff88036ebf"/>
+	</game>
+	<game name="Pearl Harbour - Shadows Over Oahu (Australia)">
+		<category>Games</category>
+		<description>Pearl Harbour - Shadows Over Oahu (Australia)</description>
+		<rom name="Pearl Harbour - Shadows Over Oahu (Australia).bin" size="354389952" crc="bbd3a289" md5="0a7d4d25844cf42f9bfa461576569f0b" sha1="6d23eaca47867a53113a4cbfa824e1a9a56e8ea5"/>
+		<rom name="Pearl Harbour - Shadows Over Oahu (Australia).cue" size="111" crc="8fcb1c0d" md5="b1124edc06b56268cbedf11990c157c1" sha1="543b630395036e23566448ffbea20e0e51dd7af7"/>
 	</game>
 	<game name="Peggle Deluxe (USA) (v1.01)">
 		<category>Games</category>
@@ -68066,10 +68085,10 @@
 		<description>Saints Row - The Third (USA, Europe) (En,Fr,De,Es,It,Nl,Ko,Pl,Ru,Cs) (Disc 2)</description>
 		<rom name="Saints Row - The Third (USA, Europe) (En,Fr,De,Es,It,Nl,Ko,Pl,Ru,Cs) (Disc 2).iso" size="2467346432" crc="0302f6dd" md5="1b85cd48342db0b7e8e31983400259a1" sha1="50ed05d1c3e86bf5e7b62bdde4d63f6a97f07ded"/>
 	</game>
-	<game name="Saints Row 2 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)">
+	<game name="Saints Row 2 (USA, Europe) (En,Fr,Es)">
 		<category>Games</category>
-		<description>Saints Row 2 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)</description>
-		<rom name="Saints Row 2 (USA) (En,Fr,De,Es,It,Nl,Sv,Da).iso" size="7244906496" crc="0be4ce62" md5="de81ba90acbe964abf20bb28bb243230" sha1="ba894d212b9b490e4451680fd1c0b52e5f057976"/>
+		<description>Saints Row 2 (USA, Europe) (En,Fr,Es)</description>
+		<rom name="Saints Row 2 (USA, Europe) (En,Fr,Es).iso" size="7244906496" crc="0be4ce62" md5="de81ba90acbe964abf20bb28bb243230" sha1="ba894d212b9b490e4451680fd1c0b52e5f057976"/>
 	</game>
 	<game name="Saints Row IV (USA, Europe)">
 		<category>Games</category>
@@ -84846,6 +84865,12 @@
 		<description>Ultra Fighters - The Future of Dogfighting (USA)</description>
 		<rom name="Ultra Fighters - The Future of Dogfighting (USA).bin" size="768633600" crc="5e213d3d" md5="8e37836533ef458f38f0c305996da40a" sha1="e581ac616df4f403862ce7d57feeb19c3ce846bf"/>
 		<rom name="Ultra Fighters - The Future of Dogfighting (USA).cue" size="114" crc="52e25d86" md5="1fac674c68e119e85f2bb55eff1c318d" sha1="8e5cb949131354ad9d3d5cbdb3b6a2fd69fd9408"/>
+	</game>
+	<game name="Ultra Games 2 (Italy) (En,It)">
+		<category>Games</category>
+		<description>Ultra Games 2 (Italy) (En,It)</description>
+		<rom name="Ultra Games 2 (Italy) (En,It).bin" size="340235616" crc="c3f90bf5" md5="8ede2614ad58d6d9c3cde23e804addb3" sha1="07a1310c8be086fa042eb3b7a8b54d36bfc224a6"/>
+		<rom name="Ultra Games 2 (Italy) (En,It).cue" size="118" crc="34e06c20" md5="b6bfe5387bd59bfa0b53efe8e2ab8605" sha1="8f5a956ada9bfe7071f8825438531bc4d56d3234"/>
 	</game>
 	<game name="Ultra Street Fighter IV (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs)">
 		<category>Games</category>

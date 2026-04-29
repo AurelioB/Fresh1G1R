@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation (Retool)</name>
-		<description>Sony - PlayStation (5,674) (-y) [-aAbBcefkmMoprv] (2026-04-22 02-06-04) (Retool)</description>
-		<version>2026-04-22 02-06-04</version>
-		<date>2026-04-27 03-17-57</date>
+		<description>Sony - PlayStation (5,676) (-y) [-aAbBcefkmMoprv] (2026-04-29 01-51-38) (Retool)</description>
+		<version>2026-04-29 01-51-38</version>
+		<date>2026-04-29 03-20-13</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -27435,6 +27435,13 @@
 		<rom name="MiruMiru PlayStation Vol. 39 (Japan) (Track 2).bin" size="42789936" crc="a2cc3bd5" md5="26d92549b65c142e1f9dfcf9cb50d188" sha1="3db2ed0464ac53c6f1da35bdcc0c08694d91788a"/>
 		<rom name="MiruMiru PlayStation Vol. 39 (Japan).cue" size="242" crc="56dde082" md5="6a259def83e04196bfc17e5aead18461" sha1="a70bcc3a975f87b2a7675ab677a48b47406a6b39"/>
 	</game>
+	<game name="MiruMiru PlayStation Vol. 4 (Japan) (Disc 1)">
+		<category>Demos</category>
+		<description>MiruMiru PlayStation Vol. 4 (Japan) (Disc 1)</description>
+		<rom name="MiruMiru PlayStation Vol. 4 (Japan) (Disc 1) (Track 1).bin" size="625963632" crc="235da3fa" md5="3696b9232a9025a12a11deda90643d33" sha1="6310595edcd569d8f313735e4a3aec0408a57f4a"/>
+		<rom name="MiruMiru PlayStation Vol. 4 (Japan) (Disc 1) (Track 2).bin" size="33908784" crc="857edda8" md5="369ff3006396bbca8d9a1fb9cc125af9" sha1="28a06c34d53442f736fed283c086340d7c56321e"/>
+		<rom name="MiruMiru PlayStation Vol. 4 (Japan) (Disc 1).cue" size="258" crc="bbfcd993" md5="0e0a91b6e975e2e18850e441f77b9567" sha1="595c512309977228f7c2136578050e0fd1ce2a53"/>
+	</game>
 	<game name="MiruMiru PlayStation Vol. 4 (Japan) (Disc 2)">
 		<category>Demos</category>
 		<description>MiruMiru PlayStation Vol. 4 (Japan) (Disc 2)</description>
@@ -37441,6 +37448,18 @@
 		<rom name="Real Robots - Final Attack (Japan) (Track 12).bin" size="17091984" crc="d32931f9" md5="f48786a43ca4b0bc960e6cf9259478de" sha1="c732767044f157c947e699a21bee930d2e66a723"/>
 		<rom name="Real Robots - Final Attack (Japan) (Track 13).bin" size="38168256" crc="be737e9e" md5="23e1bc69b59bb10c16e58876c712cc15" sha1="6a598ebe3fe1de65d6aa33ccc9357006906f3fff"/>
 		<rom name="Real Robots - Final Attack (Japan).cue" size="1659" crc="464060bf" md5="01778d2559d2f2668e75c623b3ed9a9b" sha1="48f3bdd4b406fbbfac840e3a071a3e724c6d8d33"/>
+	</game>
+	<game name="Recipro Heat 5000 (Japan) (Taikenban)">
+		<category>Demos</category>
+		<description>Recipro Heat 5000 (Japan) (Taikenban)</description>
+		<rom name="Recipro Heat 5000 (Japan) (Taikenban) (Track 1).bin" size="31839024" crc="bb970b91" md5="6272c75cd1464d14812f50cceaadfc32" sha1="eaad9fe4ef6f12a276601a1c6fc02026f1c54598"/>
+		<rom name="Recipro Heat 5000 (Japan) (Taikenban) (Track 2).bin" size="78949584" crc="410c617f" md5="6cd7efbbd10f4834f0f6d219787421c7" sha1="1ad5ed5d47db0603187c9036c206148721160eb0"/>
+		<rom name="Recipro Heat 5000 (Japan) (Taikenban) (Track 3).bin" size="60180624" crc="ae7ee2ce" md5="7f47abbc98709706b3aceed06cb49d7a" sha1="15dc08d477481e20cd1b102ba1e40194486fd821"/>
+		<rom name="Recipro Heat 5000 (Japan) (Taikenban) (Track 4).bin" size="62687856" crc="48aba40e" md5="24b057432c2e8198304bebcc5de83beb" sha1="edbba54ea5978bc3d489dd68a0615aa6c45ed738"/>
+		<rom name="Recipro Heat 5000 (Japan) (Taikenban) (Track 5).bin" size="23221296" crc="866c80ba" md5="b772d7d7a1b5b7c10b3f47e62ad1faa7" sha1="b5d2e40f9be7ec7ab43ed4fc6c9dae76a3dd5f0d"/>
+		<rom name="Recipro Heat 5000 (Japan) (Taikenban) (Track 6).bin" size="21520800" crc="1fcd8e20" md5="a5b9901bd6383fb524a2c25156560f3c" sha1="5aaa6263517795b01fa8fe66302fa23f79b07a58"/>
+		<rom name="Recipro Heat 5000 (Japan) (Taikenban) (Track 7).bin" size="70004928" crc="723fd549" md5="ee207198423c747cc16455312ce010ec" sha1="3057f7eae947b6fddb2585e62ba05223cd87c133"/>
+		<rom name="Recipro Heat 5000 (Japan) (Taikenban).cue" size="899" crc="cd49b0b9" md5="4e5528f6bf177fca360619e3b554276e" sha1="da68d9f398a0f7ca13350856dc31280efc317abd"/>
 	</game>
 	<game name="Red Asphalt (USA)">
 		<category>Games</category>
