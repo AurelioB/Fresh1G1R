@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,598) (-y) [-aAbBcdkmMpPuv] (2026-04-28 20-46-19) (Retool)</description>
-		<version>2026-04-28 20-46-19</version>
-		<date>2026-04-29 03-22-53</date>
+		<description>IBM - PC compatible (25,598) (-y) [-aAbBcdkmMpPuv] (2026-04-30 01-14-41) (Retool)</description>
+		<version>2026-04-30 01-14-41</version>
+		<date>2026-04-30 03-20-49</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -158825,11 +158825,11 @@
 		<rom name="Time Treks (USA).bin" size="4240656" crc="bf992ade" md5="288c8495129306afcb496e8f58dc1b9e" sha1="5c80f74c85725cc568dc98fa3cad19529d1b9695"/>
 		<rom name="Time Treks (USA).cue" size="105" crc="f60d3aa0" md5="8d6bd793f7997d668336b5313c63b690" sha1="468f1e6fb7ba82aee1403ec0e3d010dff91507b0"/>
 	</game>
-	<game name="Time Warp of Dr. Brain, The (USA) (En,Fr,De)">
+	<game name="Time Warp of Dr. Brain, The (USA) (Rev 1)">
 		<category>Games</category>
-		<description>Time Warp of Dr. Brain, The (USA) (En,Fr,De)</description>
-		<rom name="Time Warp of Dr. Brain, The (USA) (En,Fr,De).bin" size="723745680" crc="85937391" md5="1bfa7bfd14b3b8b71df3621bad96c373" sha1="8382bd260b6a0dc77f566ea7c1b8c5c3bf0733f8"/>
-		<rom name="Time Warp of Dr. Brain, The (USA) (En,Fr,De).cue" size="110" crc="c73a07fc" md5="83adf0425b53c4cb2d4360b8ca69c29a" sha1="aca30f79bdebdf6232480ecd2623ca6834f2b18b"/>
+		<description>Time Warp of Dr. Brain, The (USA) (Rev 1)</description>
+		<rom name="Time Warp of Dr. Brain, The (USA) (Rev 1).bin" size="713486256" crc="ba1b83c6" md5="dfaacbef8a0e729c9bb334fd92555e67" sha1="3ba5bc0a1f2b88ec56553f4ea34183c19d1119a5"/>
+		<rom name="Time Warp of Dr. Brain, The (USA) (Rev 1).cue" size="130" crc="d6543deb" md5="05739036ff5347966297e9bbd06e02a2" sha1="6e743a948c1ac8bcf6d302b84f7b870e1d73a76c"/>
 	</game>
 	<game name="Time Warrior Starlight (UK)">
 		<category>Games</category>
