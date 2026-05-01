@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,050) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-30 01-14-41) (Retool)</description>
-		<version>2026-04-30 01-14-41</version>
-		<date>2026-04-30 03-19-10</date>
+		<description>IBM - PC compatible (13,050) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-30 10-37-55) (Retool)</description>
+		<version>2026-04-30 10-37-55</version>
+		<date>2026-05-01 03-20-46</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -45825,17 +45825,17 @@
 		<rom name="Lord of the Rings, The - The Fellowship of the Ring - Activity Studio (UK).bin" size="788886672" crc="cd2c98e9" md5="a4d79f2af3067af8defa4cf69087faae" sha1="487761fec57b246232f69532054314deeda64b73"/>
 		<rom name="Lord of the Rings, The - The Fellowship of the Ring - Activity Studio (UK).cue" size="140" crc="e739f99b" md5="beef094086b6b3db4885e6a0af9cc88a" sha1="c5c5112d54f39ba2e2c704c16c8657136794b912"/>
 	</game>
-	<game name="Lord of the Rings, The - The Return of the King (Europe) (Install Disc 1)">
+	<game name="Lord of the Rings, The - The Return of the King (Europe) (En,Nl,Pt,Sv,Pl) (Install Disc 1) (Rerelease)">
 		<category>Games</category>
-		<description>Lord of the Rings, The - The Return of the King (Europe) (Install Disc 1)</description>
-		<rom name="Lord of the Rings, The - The Return of the King (Europe) (Install Disc 1).bin" size="754761504" crc="2c4fc5c2" md5="70ecb79ea9983f9f944d49d1a6ce9654" sha1="2d14e5a2f310be3ba1ba6b8fa0bbc8cc998a6ab7"/>
-		<rom name="Lord of the Rings, The - The Return of the King (Europe) (Install Disc 1).cue" size="139" crc="e14fc939" md5="49359373cfafda82eebac2afb0ae37d3" sha1="d1889ec5cc527a36ad14aa2b061a1da3ad563c33"/>
+		<description>Lord of the Rings, The - The Return of the King (Europe) (En,Nl,Pt,Sv,Pl) (Install Disc 1) (Rerelease)</description>
+		<rom name="Lord of the Rings, The - The Return of the King (Europe) (En,Nl,Pt,Sv,Pl) (Install Disc 1) (Rerelease).bin" size="755081376" crc="7034555b" md5="ebb6f7d9340a38a313c2faaad073449f" sha1="29cdbd7ac5408ff7279ade3220c60f17a62fbce3"/>
+		<rom name="Lord of the Rings, The - The Return of the King (Europe) (En,Nl,Pt,Sv,Pl) (Install Disc 1) (Rerelease).cue" size="168" crc="de75c1db" md5="4c5060a42add5820da9ec4d04b9fbfa8" sha1="8a584ac1910b07fa0d2205babcd2964b7c3e7480"/>
 	</game>
-	<game name="Lord of the Rings, The - The Return of the King (Europe) (Install Disc 2)">
+	<game name="Lord of the Rings, The - The Return of the King (Europe) (En,Nl,Pt,Sv,Pl) (Install Disc 2) (Rerelease)">
 		<category>Games</category>
-		<description>Lord of the Rings, The - The Return of the King (Europe) (Install Disc 2)</description>
-		<rom name="Lord of the Rings, The - The Return of the King (Europe) (Install Disc 2).bin" size="762513696" crc="801e2c34" md5="0d12af9664419b604b2a564dd738d2d9" sha1="7fb2458eb50654920336f6589cdd3dcdeaa3e11a"/>
-		<rom name="Lord of the Rings, The - The Return of the King (Europe) (Install Disc 2).cue" size="139" crc="e012efe8" md5="1e86205854a471e1b7f52381bf96b44c" sha1="0e86cd8ab8b0a7746271aab3b10f297ceae7cd05"/>
+		<description>Lord of the Rings, The - The Return of the King (Europe) (En,Nl,Pt,Sv,Pl) (Install Disc 2) (Rerelease)</description>
+		<rom name="Lord of the Rings, The - The Return of the King (Europe) (En,Nl,Pt,Sv,Pl) (Install Disc 2) (Rerelease).bin" size="762443136" crc="057c1a6f" md5="bd9e6464bf7bcecbd83ca2f70a4f879e" sha1="56ec48685c4cf63e633e173eb20168df262f3817"/>
+		<rom name="Lord of the Rings, The - The Return of the King (Europe) (En,Nl,Pt,Sv,Pl) (Install Disc 2) (Rerelease).cue" size="168" crc="2cd4e477" md5="e88428bf719144db3ed0f36b087fc561" sha1="7479b957083c18e07c5503b092785d674205e9d9"/>
 	</game>
 	<game name="Lord of the Rings, The - The Return of the King (USA) (Install Disc One)">
 		<category>Games</category>
