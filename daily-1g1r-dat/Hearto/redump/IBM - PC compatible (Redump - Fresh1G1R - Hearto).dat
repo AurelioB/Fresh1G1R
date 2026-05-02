@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,045) (-y) [-aAbBcefkmMoprv] (2026-04-30 10-37-55) (Retool)</description>
-		<version>2026-04-30 10-37-55</version>
-		<date>2026-05-01 03-19-07</date>
+		<description>IBM - PC compatible (25,050) (-y) [-aAbBcefkmMoprv] (2026-05-02 01-52-08) (Retool)</description>
+		<version>2026-05-02 01-52-08</version>
+		<date>2026-05-02 03-18-58</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -21829,6 +21829,12 @@
 		<rom name="Bundesliga Manager X - Edition 2002 (Germany).bin" size="639816912" crc="431e23f4" md5="b88407c474d24f40286dfcc90c8b6303" sha1="d9f9750152bed321d1b5fdcf962617857d64f933"/>
 		<rom name="Bundesliga Manager X - Edition 2002 (Germany).cue" size="111" crc="8cf7324d" md5="41035ebec01b38b2d8966811b7a4db03" sha1="12424961da387ab4a2d7d8a3fa6644a5bb278fe8"/>
 	</game>
+	<game name="Bundesliga Stars 2001 (Germany)">
+		<category>Games</category>
+		<description>Bundesliga Stars 2001 (Germany)</description>
+		<rom name="Bundesliga Stars 2001 (Germany).bin" size="547063440" crc="88de5973" md5="a54e59dcf7f3db879947e55e2500030b" sha1="c0ff2f7e6983a107dc29ec33bdb11630e199c9cd"/>
+		<rom name="Bundesliga Stars 2001 (Germany).cue" size="97" crc="31ecd82b" md5="0afb3df635adba754c6c8215406812f7" sha1="03a4cf1b48472b8a2a20f664e74af7f12e64f252"/>
+	</game>
 	<game name="Buon Compleanno, Timmy (Italy)">
 		<category>Games</category>
 		<description>Buon Compleanno, Timmy (Italy)</description>
@@ -36722,11 +36728,11 @@
 		<rom name="Destiny (Japan) (Track 11).bin" size="26942160" crc="c4df124a" md5="fb332f06ae7839854c0e3ddc119e0dae" sha1="c7cbba2df765b19d5fc9b2e11db5d5ef1afccac8"/>
 		<rom name="Destiny (Japan).cue" size="1357" crc="d34119dc" md5="dde55b64ac0bf0ce735517335835656c" sha1="e9801625fc984d9d431d0d6d0c755e8f6131fbf1"/>
 	</game>
-	<game name="Destroyer Command (Europe)">
+	<game name="Destroyer Command (Russia)">
 		<category>Games</category>
-		<description>Destroyer Command (Europe)</description>
-		<rom name="Destroyer Command (Europe).bin" size="788886672" crc="b1f7a877" md5="c2c8311de62c58d5b49d1f95d7237596" sha1="98089f558ecb4d8aadd718fab549f49f7879536d"/>
-		<rom name="Destroyer Command (Europe).cue" size="92" crc="997477ec" md5="1b34d7aa2633c172d5596298e767eeb3" sha1="0ca0e88c98d769522806621f9b2c466f15180c19"/>
+		<description>Destroyer Command (Russia)</description>
+		<rom name="Destroyer Command (Russia).bin" size="673631616" crc="8a462abf" md5="a9c53839dcec4ebdddb2f82a333dbe2b" sha1="c7e2f9059f22f95fc283b8e763ffac9bb3a3516b"/>
+		<rom name="Destroyer Command (Russia).cue" size="92" crc="df1bce92" md5="87b748eba64799cb86413ef095084138" sha1="92f8629b1410a8208176523844317b48a69b3ce6"/>
 	</game>
 	<game name="Destroyer Command - WWII Naval Combat Simulator (USA, Asia)">
 		<category>Games</category>
@@ -50781,10 +50787,34 @@
 		<rom name="Fable - The Lost Chapters (USA, Australia) (Disc 4).bin" size="698409936" crc="61cf3b45" md5="98b101bf033ff75dbcd6af8f32cefd6a" sha1="975fc880e07f5cbdf434e1951c05528b926ddb33"/>
 		<rom name="Fable - The Lost Chapters (USA, Australia) (Disc 4).cue" size="117" crc="24943f6e" md5="4abe9e2e67163be236bcf5d1e775430f" sha1="acbdbab42e8bb1eca8faa461bb7efd7ae6add9b7"/>
 	</game>
-	<game name="Fable - Zapomniane Opowiesci (Poland)">
+	<game name="Fable - Zapomniane Opowiesci (Poland) (Disc 1)">
 		<category>Games</category>
-		<description>Fable - Zapomniane Opowiesci (Poland)</description>
-		<rom name="Fable - Zapomniane Opowiesci (Poland).iso" size="2285830144" crc="8cf2941d" md5="be2a58dbc8d2136cc40254567d6d6b99" sha1="b53b6af2224b10382940be89670f533204231f11"/>
+		<description>Fable - Zapomniane Opowiesci (Poland) (Disc 1)</description>
+		<rom name="Fable - Zapomniane Opowiesci (Poland) (Disc 1).bin" size="649130832" crc="6d987b61" md5="76eb26ddc3d3d1a117617be414880ba9" sha1="a34323099a7d67996f10325c77a49e87c908aa19"/>
+		<rom name="Fable - Zapomniane Opowiesci (Poland) (Disc 1).cue" size="112" crc="76ee9949" md5="bbda4cce809f2e7bd9ceaadbb881b65b" sha1="b3a467a3fccc47e67fbabc2aa58b34a45debe4e1"/>
+	</game>
+	<game name="Fable - Zapomniane Opowiesci (Poland) (Disc 2)">
+		<category>Games</category>
+		<description>Fable - Zapomniane Opowiesci (Poland) (Disc 2)</description>
+		<rom name="Fable - Zapomniane Opowiesci (Poland) (Disc 2).bin" size="742451136" crc="f5c5ad08" md5="f9c9428033af0a3cfd4f47b2b41dce54" sha1="a23df71742495df8bb97ff06adf8d627c23ad96f"/>
+		<rom name="Fable - Zapomniane Opowiesci (Poland) (Disc 2).cue" size="112" crc="77b3bf98" md5="16b4c5f23afdf179c2bda803f27390a5" sha1="45f5f6a5312a51fe6b317d9130e1d86ab15b0b47"/>
+	</game>
+	<game name="Fable - Zapomniane Opowiesci (Poland) (Disc 3)">
+		<category>Games</category>
+		<description>Fable - Zapomniane Opowiesci (Poland) (Disc 3)</description>
+		<rom name="Fable - Zapomniane Opowiesci (Poland) (Disc 3).bin" size="555485952" crc="c5a39835" md5="b56a2a95e45ead4ea02300c2638f46a2" sha1="590fb7294c5bfdbd0aef961423baae47329b1a3e"/>
+		<rom name="Fable - Zapomniane Opowiesci (Poland) (Disc 3).cue" size="112" crc="c1a85fe8" md5="c91369d650db75ecd9a45fe2ad2136cd" sha1="3aefc3a63dcfd9a8f7469879939091c11319e8d1"/>
+	</game>
+	<game name="Fable - Zapomniane Opowiesci (Poland) (Disc 4)">
+		<category>Games</category>
+		<description>Fable - Zapomniane Opowiesci (Poland) (Disc 4)</description>
+		<rom name="Fable - Zapomniane Opowiesci (Poland) (Disc 4).bin" size="698586336" crc="79cb0e3e" md5="3d499a3b699a8408546692c199781078" sha1="f54d7d5f5b7365abaa7c14d839b26b5b622d11a5"/>
+		<rom name="Fable - Zapomniane Opowiesci (Poland) (Disc 4).cue" size="112" crc="7509f23a" md5="8d76d9a946d7ca0aa8d9fedc88e81779" sha1="991bce490ea35da58c21c8f50d6192724c9d569a"/>
+	</game>
+	<game name="Fable - Zapomniane Opowiesci (Poland) (Rerelease) (DVD-ROM)">
+		<category>Games</category>
+		<description>Fable - Zapomniane Opowiesci (Poland) (Rerelease) (DVD-ROM)</description>
+		<rom name="Fable - Zapomniane Opowiesci (Poland) (Rerelease) (DVD-ROM).iso" size="2285830144" crc="8cf2941d" md5="be2a58dbc8d2136cc40254567d6d6b99" sha1="b53b6af2224b10382940be89670f533204231f11"/>
 	</game>
 	<game name="Fable III (USA, Europe) (En,Zh,Ko,Pl,Ru,Cs,Hu,Sk)">
 		<category>Games</category>

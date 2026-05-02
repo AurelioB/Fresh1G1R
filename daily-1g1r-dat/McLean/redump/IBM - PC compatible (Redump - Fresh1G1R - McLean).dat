@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,050) (-ly) [-aAbBcdDefkmMopPruv] (2026-04-30 10-37-55) (Retool)</description>
-		<version>2026-04-30 10-37-55</version>
-		<date>2026-05-01 03-20-46</date>
+		<description>IBM - PC compatible (13,049) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-02 01-52-08) (Retool)</description>
+		<version>2026-05-02 01-52-08</version>
+		<date>2026-05-02 03-20-41</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -19909,12 +19909,6 @@
 		<description>Destination - Treasure Island (USA) (Disc 1)</description>
 		<rom name="Destination - Treasure Island (USA) (Disc 1).bin" size="828602544" crc="4d3a4e50" md5="2d8cb72df47ebdebaeddc776f032708f" sha1="f8a0c4dcdf310f077fce50254f863838de806978"/>
 		<rom name="Destination - Treasure Island (USA) (Disc 1).cue" size="110" crc="115de9fa" md5="6639115d88bd50ed59f8aeb3f6508693" sha1="39092f22e979c923dff5868bbb58641409fd07b2"/>
-	</game>
-	<game name="Destroyer Command (Europe)">
-		<category>Games</category>
-		<description>Destroyer Command (Europe)</description>
-		<rom name="Destroyer Command (Europe).bin" size="788886672" crc="b1f7a877" md5="c2c8311de62c58d5b49d1f95d7237596" sha1="98089f558ecb4d8aadd718fab549f49f7879536d"/>
-		<rom name="Destroyer Command (Europe).cue" size="92" crc="997477ec" md5="1b34d7aa2633c172d5596298e767eeb3" sha1="0ca0e88c98d769522806621f9b2c466f15180c19"/>
 	</game>
 	<game name="Destroyer Command - WWII Naval Combat Simulator (USA, Asia)">
 		<category>Games</category>
