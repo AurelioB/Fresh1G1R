@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,604) (-y) [-aAbBcdkmMpPuv] (2026-05-02 01-52-08) (Retool)</description>
-		<version>2026-05-02 01-52-08</version>
-		<date>2026-05-02 03-22-24</date>
+		<description>IBM - PC compatible (25,616) (-y) [-aAbBcdkmMpPuv] (2026-05-03 17-34-43) (Retool)</description>
+		<version>2026-05-03 17-34-43</version>
+		<date>2026-05-03 17-42-14</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -18170,6 +18170,12 @@
 		<description>Big WIG Software Locker (USA)</description>
 		<rom name="Big WIG Software Locker (USA).iso" size="3885236224" crc="7e92a842" md5="87ef5bb04c083d473e959f54aa7bafec" sha1="a17917715da57872c5028df68163c5f541b4132e"/>
 	</game>
+	<game name="Biggest Names The Best Games 3, The (Europe) (Documentation and Updates)">
+		<category>Bonus Discs</category>
+		<description>Biggest Names The Best Games 3, The (Europe) (Documentation and Updates)</description>
+		<rom name="Biggest Names The Best Games 3, The (Europe) (Documentation and Updates).bin" size="9320976" crc="0060283b" md5="7d011fdae22cb68dbfeb732c1c5f42c9" sha1="2d4853a57bfd28de0428115da70765a29d13275e"/>
+		<rom name="Biggest Names The Best Games 3, The (Europe) (Documentation and Updates).cue" size="153" crc="d4c91445" md5="7ccd29faba6e0316f455b86e4bc52a1d" sha1="7a5f4b9460eaac1faa42c6ed0bb2a061eb8fb7e0"/>
+	</game>
 	<game name="Biing! 2 - Sonne, Strand und heisse Naechte (Germany)">
 		<category>Games</category>
 		<description>Biing! 2 - Sonne, Strand und heisse Naechte (Germany)</description>
@@ -22639,10 +22645,10 @@
 		<rom name="CSCD20.5 - Creative Staff Allstars (Japan).bin" size="254467584" crc="e721e3b7" md5="16aedc0d390e6933bd2c370421c6e507" sha1="4ab3ef23bacb7dcf6e0ba7c7f8fea8bc63e19cca"/>
 		<rom name="CSCD20.5 - Creative Staff Allstars (Japan).cue" size="108" crc="4349f215" md5="3085b5fef2c8df256ec4b8e15f98c988" sha1="a8d59a38ab5a258106b3b49310648df91cc25505"/>
 	</game>
-	<game name="CSI - Crime Scene Investigation (Europe) (En,Fr,De,It) (Rerelease) (2005-11-09)">
+	<game name="CSI - Crime Scene Investigation (Europe) (En,Fr,De,It) (Rerelease) (2005-05-03)">
 		<category>Games</category>
-		<description>CSI - Crime Scene Investigation (Europe) (En,Fr,De,It) (Rerelease) (2005-11-09)</description>
-		<rom name="CSI - Crime Scene Investigation (Europe) (En,Fr,De,It) (Rerelease) (2005-11-09).iso" size="1741180928" crc="1990593c" md5="5363cacd0d46bf5249ba74c4829fcf2b" sha1="86cf7fc49c2238f9716321bbc3c1405705bde2a0"/>
+		<description>CSI - Crime Scene Investigation (Europe) (En,Fr,De,It) (Rerelease) (2005-05-03)</description>
+		<rom name="CSI - Crime Scene Investigation (Europe) (En,Fr,De,It) (Rerelease) (2005-05-03).iso" size="1810432000" crc="8836df92" md5="ae43239e1379a7f74bd990c11c447a99" sha1="7a70dd610fbbca57584dd0533cada967c05af0c0"/>
 	</game>
 	<game name="CSI - Crime Scene Investigation (USA) (DVD-ROM)">
 		<category>Games</category>
@@ -22724,10 +22730,10 @@
 		<description>CSI - Crime Scene Investigation - Dark Motives (USA, Europe) (En,Fr,De,It) (Rerelease)</description>
 		<rom name="CSI - Crime Scene Investigation - Dark Motives (USA, Europe) (En,Fr,De,It) (Rerelease).iso" size="1999765504" crc="eac4f6fc" md5="8c8d6076b7a17d8d4010a61d4dad9b4b" sha1="31fe255851586dc395ed8721bbce6e3d4e6c4fa0"/>
 	</game>
-	<game name="CSI - Crime Scene Investigation - Deadly Intent (USA, Germany)">
+	<game name="CSI - Crime Scene Investigation - Deadly Intent (USA, Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>CSI - Crime Scene Investigation - Deadly Intent (USA, Germany)</description>
-		<rom name="CSI - Crime Scene Investigation - Deadly Intent (USA, Germany).iso" size="3721035776" crc="2f69b716" md5="aeea63978665e6263ba5fa23ec56b305" sha1="40fc293859e082b69eb3c948411fa9ab59253013"/>
+		<description>CSI - Crime Scene Investigation - Deadly Intent (USA, Europe) (En,Fr,De,Es,It)</description>
+		<rom name="CSI - Crime Scene Investigation - Deadly Intent (USA, Europe) (En,Fr,De,Es,It).iso" size="3721035776" crc="2f69b716" md5="aeea63978665e6263ba5fa23ec56b305" sha1="40fc293859e082b69eb3c948411fa9ab59253013"/>
 	</game>
 	<game name="CSI - Crime Scene Investigation - Fatal Conspiracy (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -31239,6 +31245,12 @@
 		<description>Crazy Machines - Neues aus dem Labor (Germany)</description>
 		<rom name="Crazy Machines - Neues aus dem Labor (Germany).bin" size="784693056" crc="4342c19f" md5="7be4dd346fc04a37fb0cf5f72cf81bac" sha1="80bd0cc7c40d1fcd690fd7cae9f187cd7bff585e"/>
 		<rom name="Crazy Machines - Neues aus dem Labor (Germany).cue" size="112" crc="9169f77c" md5="58ae9ab3de8d1cab72cfc1bf6728b2d1" sha1="1c2582abcd56fac790d44d874768c0279bed5bb5"/>
+	</game>
+	<game name="Crazy Machines - Neues aus dem Labor - Add-On (Germany)">
+		<category>Add-Ons</category>
+		<description>Crazy Machines - Neues aus dem Labor - Add-On (Germany)</description>
+		<rom name="Crazy Machines - Neues aus dem Labor - Add-On (Germany).bin" size="56165760" crc="5da432ec" md5="5c34d791a9ccfa079bfbac89f9752a98" sha1="cd0209f012fd1beca261d3e920303aa86c71ae65"/>
+		<rom name="Crazy Machines - Neues aus dem Labor - Add-On (Germany).cue" size="121" crc="9b69dc66" md5="e0855d3881bfdcf8ee8308a3b92a7b21" sha1="f5c315b4fbd47f205593a4fb71f4b10c8349a6d8"/>
 	</game>
 	<game name="Crazy Machines 1.0 + 1.5 Complete (Europe)">
 		<category>Games</category>
@@ -46393,6 +46405,11 @@
 		<category>Games</category>
 		<description>Eien no Aselia - Kono Daichi no Hate de (Japan)</description>
 		<rom name="Eien no Aselia - Kono Daichi no Hate de (Japan).iso" size="1874526208" crc="e873eb48" md5="1fe3c2514134c479b078cf63bfa3efb8" sha1="b691ba485723fa3afb561d0f22ba355b0331baaf"/>
+	</game>
+	<game name="Eien no Owari ni (Japan)">
+		<category>Games</category>
+		<description>Eien no Owari ni (Japan)</description>
+		<rom name="Eien no Owari ni (Japan).iso" size="4323639296" crc="b10036db" md5="bc464096276c6ecf27b62699527c908b" sha1="cb7c75e2003e0750841149e02301c3bdb17d6266"/>
 	</game>
 	<game name="Eiga Gotoubun no Hanayome - Kimi to Sugoshita Itsutsu no Omoide - Souki Kounyuu Tokuten Digital Visual-shuu (Japan) (PS4 Game Bundle)">
 		<category>Bonus Discs</category>
@@ -65710,6 +65727,11 @@
 		<rom name="Hammer &amp; Sickle (USA) (Disc 3) (Game Disc).bin" size="822837792" crc="74db777d" md5="a37e1a2567c4d7aa312b893d62612cdc" sha1="72722420caf53a5848094e15286813d315d84013"/>
 		<rom name="Hammer &amp; Sickle (USA) (Disc 3) (Game Disc).cue" size="108" crc="f6ed7974" md5="73f07bb2e0231f567f1071273e279c51" sha1="41f567c9c8ce7ba693b8a619bfdb8074040d0fe8"/>
 	</game>
+	<game name="Hammer &amp; Sickle - Czerwony Sztorm (Poland) (Rerelease)">
+		<category>Games</category>
+		<description>Hammer &amp; Sickle - Czerwony Sztorm (Poland) (Rerelease)</description>
+		<rom name="Hammer &amp; Sickle - Czerwony Sztorm (Poland) (Rerelease).iso" size="1812398080" crc="5fe18acf" md5="b187d9b4e2165bf1da759bc122e9f792" sha1="f599efc31bf4fa339a4be79cd4be27a0a20eb9c3"/>
+	</game>
 	<game name="Hammer of the Gods (USA)">
 		<category>Games</category>
 		<description>Hammer of the Gods (USA)</description>
@@ -71572,6 +71594,12 @@
 		<description>Hugo ist nicht zu Bremsen (Germany)</description>
 		<rom name="Hugo ist nicht zu Bremsen (Germany).bin" size="710534496" crc="7ed37ba0" md5="79038b4a8454ebb3bf88546f12673e4d" sha1="701cd6f0e1b7964b371ea325f8a3f25459224c2f"/>
 		<rom name="Hugo ist nicht zu Bremsen (Germany).cue" size="124" crc="7fd3e2a8" md5="aaef4538adb24c58b3bd1ffc14071cb6" sha1="0a4be23980b576eac2aa3ce32c146d7f1c456177"/>
+	</game>
+	<game name="Hugo n. 4 - Cueva de hielo (Argentina)">
+		<category>Games</category>
+		<description>Hugo n. 4 - Cueva de hielo (Argentina)</description>
+		<rom name="Hugo n. 4 - Cueva de hielo (Argentina).bin" size="37864848" crc="ba16b50f" md5="7a53ad1716b0f222932cd17359fedc35" sha1="20606b5eb23bf9a3778bf3a589550a287c151302"/>
+		<rom name="Hugo n. 4 - Cueva de hielo (Argentina).cue" size="104" crc="e16fcd2e" md5="64528ee69bbc3160b9c5c1937cef4870" sha1="0ef6048617f9c0e3f9f2af93221dd8f50541c7cd"/>
 	</game>
 	<game name="Hugo na Neve (Portugal)">
 		<category>Games</category>
@@ -92578,6 +92606,12 @@
 		<rom name="Mainzelkick (Germany).bin" size="9426816" crc="8119069f" md5="41f500f09f14ee1b18e47fabc587b45f" sha1="2080dc922271326427a76bfb728c7383db8e7ed5"/>
 		<rom name="Mainzelkick (Germany).cue" size="87" crc="85eadc75" md5="19d620b47b8a965fa34e0b65f0f7d913" sha1="499e5fdf2c7b72dd9c6d3813b95f022fa67add76"/>
 	</game>
+	<game name="Mais ou se cache Carmen Sandiego Version 2 (France)">
+		<category>Games</category>
+		<description>Mais ou se cache Carmen Sandiego Version 2 (France)</description>
+		<rom name="Mais ou se cache Carmen Sandiego Version 2 (France).bin" size="766187520" crc="a8d39202" md5="59f8a138b14da7211c5fc2edfbacd760" sha1="23ed1297f2ac84e82ef07881585b92fc47b42ddf"/>
+		<rom name="Mais ou se cache Carmen Sandiego Version 2 (France).cue" size="117" crc="47f12950" md5="ab1a45476c150a9e1a90348f45cde10a" sha1="bb7e5035158b080de13a67e1df39cb67393a40ab"/>
+	</game>
 	<game name="Maison Ikkoku - Kanketsu-hen - Sayonara, Soshite (Japan)">
 		<category>Games</category>
 		<description>Maison Ikkoku - Kanketsu-hen - Sayonara, Soshite (Japan)</description>
@@ -97978,12 +98012,6 @@
 		<rom name="Miami Powerboat Racer (Europe) (En,Fr,De,Es,It,Nl) (Track 4).bin" size="73721088" crc="ff827231" md5="f85af4bb0199e50e45ceaa0606e76f84" sha1="8fbf8d4595a8a71421a9ea9eb80b9642448502c0"/>
 		<rom name="Miami Powerboat Racer (Europe) (En,Fr,De,Es,It,Nl).cue" size="512" crc="3e4ff1ef" md5="6fc8cbced824dde2a7ce5e7b3e5b4d2e" sha1="f81f511c2726f7d88ddc43cbfccb8e0a79e38c0b"/>
 	</game>
-	<game name="Miami Vice (Europe) (En,Fr,De,Es,It,Nl)">
-		<category>Games</category>
-		<description>Miami Vice (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Miami Vice (Europe) (En,Fr,De,Es,It,Nl).bin" size="788886672" crc="e6cdfdb6" md5="68b1b1effa08f92da3d288b35b96a58a" sha1="10c7c8005785d361ca4eac11ff1784f21184e6b4"/>
-		<rom name="Miami Vice (Europe) (En,Fr,De,Es,It,Nl).cue" size="105" crc="37cf6207" md5="35b8236bb78ed2de89598714bb1c7207" sha1="d21432c9b44e614cc66d852f992267b4d456373f"/>
-	</game>
 	<game name="Mianyang Chuanqi (China)">
 		<category>Games</category>
 		<description>Mianyang Chuanqi (China)</description>
@@ -98309,6 +98337,12 @@
 		<description>Microsoft Flight Simulator 2000 (USA, Europe) (Disc 3) (Professional Edition)</description>
 		<rom name="Microsoft Flight Simulator 2000 (USA, Europe) (Disc 3) (Professional Edition).bin" size="432041232" crc="76dda40a" md5="62e5b7b73d8dc2fb0f0fd63988f51b1e" sha1="fcb75a3f2663776ef704f3dc697abd11c379ce7c"/>
 		<rom name="Microsoft Flight Simulator 2000 (USA, Europe) (Disc 3) (Professional Edition).cue" size="166" crc="0ac9f3a0" md5="13884e32372294a726e32b2488797963" sha1="096df84d4d6726db3104b5d5d1675a3845aa7a17"/>
+	</game>
+	<game name="Microsoft Flight Simulator 2002 (France) (Disc 1) (Edition Professionnelle)">
+		<category>Games</category>
+		<description>Microsoft Flight Simulator 2002 (France) (Disc 1) (Edition Professionnelle)</description>
+		<rom name="Microsoft Flight Simulator 2002 (France) (Disc 1) (Edition Professionnelle).bin" size="693181440" crc="20c02ea5" md5="d98fa61e87ddb856472c31992f7bd41a" sha1="324016a626dec1c93c2eeed5b7d30108f4d34d31"/>
+		<rom name="Microsoft Flight Simulator 2002 (France) (Disc 1) (Edition Professionnelle).cue" size="141" crc="99821ae1" md5="cae9e855aaedb99bfea51fbf4a8e9499" sha1="744df050ee78e5070dbcca26c1e1e84349e1ac33"/>
 	</game>
 	<game name="Microsoft Flight Simulator 2002 (Poland) (Disc 4) (Patch PL)">
 		<category>Add-Ons</category>
@@ -113416,6 +113450,12 @@
 		<description>PC Atletica Oro (Italy)</description>
 		<rom name="PC Atletica Oro (Italy).bin" size="795568704" crc="329babcc" md5="e8768d223a1addac56ada3e545049d7b" sha1="99df4055c901686db85aa2048ec9d16d981f45bc"/>
 		<rom name="PC Atletica Oro (Italy).cue" size="89" crc="c061b15f" md5="3ba4d6a7a76c997ca7d3356c4256dba6" sha1="4e4dae35183663c9d8b4564dd5712aec9e264c35"/>
+	</game>
+	<game name="PC Basket 4.5 (Spain)">
+		<category>Games</category>
+		<description>PC Basket 4.5 (Spain)</description>
+		<rom name="PC Basket 4.5 (Spain).bin" size="144175248" crc="9658985e" md5="07fefabb51c5b5e46d8938a671f16016" sha1="9ecd1b15ff3d7b780a3271631bf6fb6c8716b206"/>
+		<rom name="PC Basket 4.5 (Spain).cue" size="110" crc="ec447a17" md5="bd39fbb025d52f4fd4ab466a7a103f25" sha1="1f3300ae33fb3a76f054dd7f6a52b4252c455753"/>
 	</game>
 	<game name="PC Calciatori 2004 (Italy)">
 		<category>Games</category>
@@ -138040,6 +138080,12 @@
 		<description>Serdce Vechnosti (Russia)</description>
 		<rom name="Serdce Vechnosti (Russia).iso" size="4624220160" crc="c03ef013" md5="eeada15cead8086cd82048338b4d8f38" sha1="4fc2821008318833acbd33a3bd981f4f936faa40"/>
 	</game>
+	<game name="Sergei Bubka's Millennium Games (Argentina)">
+		<category>Games</category>
+		<description>Sergei Bubka's Millennium Games (Argentina)</description>
+		<rom name="Sergei Bubka's Millennium Games (Argentina).bin" size="451177104" crc="39ee2b97" md5="48f3ee6de82ca089ea8f18afc381026a" sha1="925384fd5e6c396b941b9d2c2cebaf3e83e3a9c7"/>
+		<rom name="Sergei Bubka's Millennium Games (Argentina).cue" size="109" crc="8a56054d" md5="617955fbe49dc5bed77fbfd5fd715f84" sha1="3394a3b00a0f33632b8bccc48abb8a5afb775fc1"/>
+	</game>
 	<game name="Serial Cleaner (Poland)">
 		<category>Games</category>
 		<description>Serial Cleaner (Poland)</description>
@@ -153548,6 +153594,12 @@
 		<rom name="Super EF2000 (Italy) (Covermount) (Track 6).bin" size="44269344" crc="80026bee" md5="b501f357ad2ebdcc25d3422263873e48" sha1="38848f42a74419290206ce228f56cbf0d520588c"/>
 		<rom name="Super EF2000 (Italy) (Covermount) (Track 7).bin" size="83032656" crc="b6781b13" md5="7eb2d6221194fc12443bae91cceae5f5" sha1="e13ece447b76bcb0efd2d8ddddc32968cebae87e"/>
 		<rom name="Super EF2000 (Italy) (Covermount).cue" size="756" crc="29078965" md5="b3b88bc67984c36d973b0ed3b6bcd042" sha1="50a76269c931f4d54d0e958ccc5cfa8fb4387c9d"/>
+	</game>
+	<game name="Super Escriptori, El (Spain)">
+		<category>Games</category>
+		<description>Super Escriptori, El (Spain)</description>
+		<rom name="Super Escriptori, El (Spain).bin" size="158042640" crc="8b3fe8cd" md5="c93a1849369d1f8c7e9ad6e914774912" sha1="7c4e33775892ae0a7fd9376b223a6e76a62229d3"/>
+		<rom name="Super Escriptori, El (Spain).cue" size="94" crc="843bd047" md5="ba7c00fc219a0e0c8a746989360c7a5f" sha1="6a5b51666f3dfa20ebf817c00354883162ef5da4"/>
 	</game>
 	<game name="Super GameHouse Collection (USA)">
 		<category>Games</category>
@@ -170381,6 +170433,16 @@
 		<description>Walking Dead, The - A Telltale Games Series (Australia)</description>
 		<rom name="Walking Dead, The - A Telltale Games Series (Australia).iso" size="3813933056" crc="d1b7db68" md5="14fdb23ceefd4214271eac11c438b260" sha1="bae52b5e5f35949b1bf98c7e2af97bed05645599"/>
 	</game>
+	<game name="Walking Dead, The - A Telltale Games Series - Game of the Year Edition (Germany)">
+		<category>Games</category>
+		<description>Walking Dead, The - A Telltale Games Series - Game of the Year Edition (Germany)</description>
+		<rom name="Walking Dead, The - A Telltale Games Series - Game of the Year Edition (Germany).iso" size="4562550784" crc="0368d55e" md5="83705ce20463376d0949f86f815f22c3" sha1="17cddb287af775452486bfe4c9e84f50c1aad34c"/>
+	</game>
+	<game name="Walking Dead, The - Season Two - A Telltale Games Series (Germany)">
+		<category>Games</category>
+		<description>Walking Dead, The - Season Two - A Telltale Games Series (Germany)</description>
+		<rom name="Walking Dead, The - Season Two - A Telltale Games Series (Germany).iso" size="4258820096" crc="81c1a6ef" md5="9d1c005fb578aa55f7d22226f71d44ba" sha1="7cfa8d8eda32a1dbe46ff6be4ae3a66927ce1a5e"/>
+	</game>
 	<game name="Wall $treet Trader 98 - Boersenfieber (Germany)">
 		<category>Games</category>
 		<description>Wall $treet Trader 98 - Boersenfieber (Germany)</description>
@@ -181321,6 +181383,12 @@
 		<description>Zoombinies - Ontsnapping uit de Puzzelberg (Belgium, Netherlands)</description>
 		<rom name="Zoombinies - Ontsnapping uit de Puzzelberg (Belgium, Netherlands).bin" size="788891376" crc="6a3cb445" md5="2d679a0b5057e3a3c3040fc9523e810a" sha1="e8df28118f37a0bd7d3f77aaab593ad3c16561ca"/>
 		<rom name="Zoombinies - Ontsnapping uit de Puzzelberg (Belgium, Netherlands).cue" size="131" crc="d85067c4" md5="4133fb66337bd0ce472ce14a1f2016d0" sha1="9c8c4b8a25ecb2c5318b5fdb8376dbbcf1eb9699"/>
+	</game>
+	<game name="Zoombinis - Archipel en Danger (France)">
+		<category>Games</category>
+		<description>Zoombinis - Archipel en Danger (France)</description>
+		<rom name="Zoombinis - Archipel en Danger (France).bin" size="550175136" crc="f3fa98eb" md5="1604044d8ae549694c965f7211214dd7" sha1="06357fe7d32966c10592c5ce65f3385c0ae3a002"/>
+		<rom name="Zoombinis - Archipel en Danger (France).cue" size="105" crc="1e8185d6" md5="4b3533335da3236d520a9d6cfcecd9fc" sha1="7e30ffa84fb21f3ccaf453776dd27a30187c8211"/>
 	</game>
 	<game name="Zoombinis - Expedition fjaerilsoen (Sweden)">
 		<category>Games</category>

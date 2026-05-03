@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,049) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-02 01-52-08) (Retool)</description>
-		<version>2026-05-02 01-52-08</version>
-		<date>2026-05-02 03-20-41</date>
+		<description>IBM - PC compatible (13,048) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-03 17-34-43) (Retool)</description>
+		<version>2026-05-03 17-34-43</version>
+		<date>2026-05-03 17-40-54</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -11834,10 +11834,10 @@
 		<rom name="CIA Operative - Solo Missions (USA) (Track 5).bin" size="27095040" crc="df67fa5a" md5="9fe349465ea7268a723b35b43760584a" sha1="5c38e6a3afe4b0e42ea4648bfe79fef49940b7b8"/>
 		<rom name="CIA Operative - Solo Missions (USA).cue" size="627" crc="0b32da13" md5="c1df9d46594ea782a2a5afa0ae610f4e" sha1="b4245e4f2cbbc7560130f6f39feb0b6ae3f21ff8"/>
 	</game>
-	<game name="CSI - Crime Scene Investigation (Europe) (En,Fr,De,It) (Rerelease) (2005-11-09)">
+	<game name="CSI - Crime Scene Investigation (Europe) (En,Fr,De,It) (Rerelease) (2005-05-03)">
 		<category>Games</category>
-		<description>CSI - Crime Scene Investigation (Europe) (En,Fr,De,It) (Rerelease) (2005-11-09)</description>
-		<rom name="CSI - Crime Scene Investigation (Europe) (En,Fr,De,It) (Rerelease) (2005-11-09).iso" size="1741180928" crc="1990593c" md5="5363cacd0d46bf5249ba74c4829fcf2b" sha1="86cf7fc49c2238f9716321bbc3c1405705bde2a0"/>
+		<description>CSI - Crime Scene Investigation (Europe) (En,Fr,De,It) (Rerelease) (2005-05-03)</description>
+		<rom name="CSI - Crime Scene Investigation (Europe) (En,Fr,De,It) (Rerelease) (2005-05-03).iso" size="1810432000" crc="8836df92" md5="ae43239e1379a7f74bd990c11c447a99" sha1="7a70dd610fbbca57584dd0533cada967c05af0c0"/>
 	</game>
 	<game name="CSI - Crime Scene Investigation (USA) (DVD-ROM)">
 		<category>Games</category>
@@ -11901,10 +11901,10 @@
 		<description>CSI - Crime Scene Investigation - Dark Motives (USA, Europe) (En,Fr,De,It) (Rerelease)</description>
 		<rom name="CSI - Crime Scene Investigation - Dark Motives (USA, Europe) (En,Fr,De,It) (Rerelease).iso" size="1999765504" crc="eac4f6fc" md5="8c8d6076b7a17d8d4010a61d4dad9b4b" sha1="31fe255851586dc395ed8721bbce6e3d4e6c4fa0"/>
 	</game>
-	<game name="CSI - Crime Scene Investigation - Deadly Intent (USA, Germany)">
+	<game name="CSI - Crime Scene Investigation - Deadly Intent (USA, Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>CSI - Crime Scene Investigation - Deadly Intent (USA, Germany)</description>
-		<rom name="CSI - Crime Scene Investigation - Deadly Intent (USA, Germany).iso" size="3721035776" crc="2f69b716" md5="aeea63978665e6263ba5fa23ec56b305" sha1="40fc293859e082b69eb3c948411fa9ab59253013"/>
+		<description>CSI - Crime Scene Investigation - Deadly Intent (USA, Europe) (En,Fr,De,Es,It)</description>
+		<rom name="CSI - Crime Scene Investigation - Deadly Intent (USA, Europe) (En,Fr,De,Es,It).iso" size="3721035776" crc="2f69b716" md5="aeea63978665e6263ba5fa23ec56b305" sha1="40fc293859e082b69eb3c948411fa9ab59253013"/>
 	</game>
 	<game name="CSI - Crime Scene Investigation - Fatal Conspiracy (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -50054,12 +50054,6 @@
 		<rom name="Miami Powerboat Racer (Europe) (En,Fr,De,Es,It,Nl) (Track 3).bin" size="72966096" crc="91ef2746" md5="a27b19479d72927b4e398ef5d9a7b99f" sha1="fe385f5356a49e1754926b9f3ab27218f04d8dac"/>
 		<rom name="Miami Powerboat Racer (Europe) (En,Fr,De,Es,It,Nl) (Track 4).bin" size="73721088" crc="ff827231" md5="f85af4bb0199e50e45ceaa0606e76f84" sha1="8fbf8d4595a8a71421a9ea9eb80b9642448502c0"/>
 		<rom name="Miami Powerboat Racer (Europe) (En,Fr,De,Es,It,Nl).cue" size="512" crc="3e4ff1ef" md5="6fc8cbced824dde2a7ce5e7b3e5b4d2e" sha1="f81f511c2726f7d88ddc43cbfccb8e0a79e38c0b"/>
-	</game>
-	<game name="Miami Vice (Europe) (En,Fr,De,Es,It,Nl)">
-		<category>Games</category>
-		<description>Miami Vice (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Miami Vice (Europe) (En,Fr,De,Es,It,Nl).bin" size="788886672" crc="e6cdfdb6" md5="68b1b1effa08f92da3d288b35b96a58a" sha1="10c7c8005785d361ca4eac11ff1784f21184e6b4"/>
-		<rom name="Miami Vice (Europe) (En,Fr,De,Es,It,Nl).cue" size="105" crc="37cf6207" md5="35b8236bb78ed2de89598714bb1c7207" sha1="d21432c9b44e614cc66d852f992267b4d456373f"/>
 	</game>
 	<game name="Michael Jordan in Flight (Italy)">
 		<category>Games</category>
