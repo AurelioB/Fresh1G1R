@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation (Retool)</name>
-		<description>Sony - PlayStation (4,583) (-y) [-aAbBcdkmMpPuv] (2026-05-03 02-55-15) (Retool)</description>
-		<version>2026-05-03 02-55-15</version>
-		<date>2026-05-04 03-43-53</date>
+		<description>Sony - PlayStation (4,583) (-y) [-aAbBcdkmMpPuv] (2026-05-07 00-44-15) (Retool)</description>
+		<version>2026-05-07 00-44-15</version>
+		<date>2026-05-08 03-38-57</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -9811,19 +9811,19 @@
 		<rom name="Engacho! (Japan) (Track 2).bin" size="34223952" crc="b6ec4301" md5="ea42ade43e77fa27d8f4baf8e79498c7" sha1="af145c528ebfdaec5de70dbd57e1ccaefabdda0f"/>
 		<rom name="Engacho! (Japan).cue" size="202" crc="277754a3" md5="67c406af96ddbb482ccc45b4231c3d88" sha1="743e4786c3d9e9ad10486f81624c4483efb6a4fd"/>
 	</game>
-	<game name="Enigma (Japan) (Disc 1)">
+	<game name="Enigma (Japan, Asia) (Disc 1)">
 		<category>Games</category>
-		<description>Enigma (Japan) (Disc 1)</description>
-		<rom name="Enigma (Japan) (Disc 1) (Track 1).bin" size="621494832" crc="fe1e8e10" md5="aa7c758b7595e7f5e01e073ae0699a2b" sha1="1d5ae5e1fc60b9a817442b235b2ab460709fd7e0"/>
-		<rom name="Enigma (Japan) (Disc 1) (Track 2).bin" size="32107152" crc="24cad39b" md5="947f682e2ceb918118e1bfe6b6355105" sha1="d9e35f62bb3dfa6e9539cb4829d5cd40958fc8c0"/>
-		<rom name="Enigma (Japan) (Disc 1).cue" size="216" crc="9013f54a" md5="0d682489806170a68190e041b6a5896e" sha1="c12dbdd34c07b1b9915422126088555620a49223"/>
+		<description>Enigma (Japan, Asia) (Disc 1)</description>
+		<rom name="Enigma (Japan, Asia) (Disc 1) (Track 1).bin" size="621494832" crc="fe1e8e10" md5="aa7c758b7595e7f5e01e073ae0699a2b" sha1="1d5ae5e1fc60b9a817442b235b2ab460709fd7e0"/>
+		<rom name="Enigma (Japan, Asia) (Disc 1) (Track 2).bin" size="32107152" crc="24cad39b" md5="947f682e2ceb918118e1bfe6b6355105" sha1="d9e35f62bb3dfa6e9539cb4829d5cd40958fc8c0"/>
+		<rom name="Enigma (Japan, Asia) (Disc 1).cue" size="228" crc="ad979894" md5="0bff68a7674f6c7c2a9fbae75b7e9b37" sha1="7b69c17af09adbf7c0551b777bfe146c6e242210"/>
 	</game>
-	<game name="Enigma (Japan) (Disc 2)">
+	<game name="Enigma (Japan, Asia) (Disc 2)">
 		<category>Games</category>
-		<description>Enigma (Japan) (Disc 2)</description>
-		<rom name="Enigma (Japan) (Disc 2) (Track 1).bin" size="718837056" crc="26bb6a10" md5="92adb5247ffb4e40ce05758ce9192903" sha1="e2be11e788bc741ac4e12deeba6150b244615345"/>
-		<rom name="Enigma (Japan) (Disc 2) (Track 2).bin" size="32107152" crc="24cad39b" md5="947f682e2ceb918118e1bfe6b6355105" sha1="d9e35f62bb3dfa6e9539cb4829d5cd40958fc8c0"/>
-		<rom name="Enigma (Japan) (Disc 2).cue" size="216" crc="449046a5" md5="71ef74c9fdaf4d4ced6c42694923b020" sha1="b47f9bf70e69c3abfa99aa4f30dc8023cdf4c741"/>
+		<description>Enigma (Japan, Asia) (Disc 2)</description>
+		<rom name="Enigma (Japan, Asia) (Disc 2) (Track 1).bin" size="718837056" crc="26bb6a10" md5="92adb5247ffb4e40ce05758ce9192903" sha1="e2be11e788bc741ac4e12deeba6150b244615345"/>
+		<rom name="Enigma (Japan, Asia) (Disc 2) (Track 2).bin" size="32107152" crc="24cad39b" md5="947f682e2ceb918118e1bfe6b6355105" sha1="d9e35f62bb3dfa6e9539cb4829d5cd40958fc8c0"/>
+		<rom name="Enigma (Japan, Asia) (Disc 2).cue" size="228" crc="2c8c08f9" md5="c47d1ec328ac98d7e3efbc33882ff054" sha1="1f44d01f63ac3c958d39acd6977cd4ac4c1a275e"/>
 	</game>
 	<game name="Enomoto Kanako no Boke Shindan Game (Japan)">
 		<category>Games</category>
@@ -18393,11 +18393,11 @@
 		<rom name="Klonoa - Door to Phantomile (USA).bin" size="736197168" crc="77e279e8" md5="ecb502ce253246899d23db80847c56dc" sha1="cb2dc62789092d8b480971427f9c85815e815dce"/>
 		<rom name="Klonoa - Door to Phantomile (USA).cue" size="99" crc="b2af1628" md5="b805b7681c637b4374b4ef69398e65ce" sha1="39aed53e756025289f88676086b8205782ec001d"/>
 	</game>
-	<game name="Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan)">
+	<game name="Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan, Asia)">
 		<category>Games</category>
-		<description>Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan)</description>
-		<rom name="Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan).bin" size="661575264" crc="9034da3c" md5="d53b245a3638341779578dee5a73e335" sha1="4cd2c71da49e9ae82be3ee41056280134b45c22c"/>
-		<rom name="Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan).cue" size="119" crc="2a50d2a4" md5="eb89a07ebf0b56494d61b2c2fbbd423b" sha1="cb7d69cd6df228b246052cd4228dc05b20ee5ff2"/>
+		<description>Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan, Asia)</description>
+		<rom name="Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan, Asia).bin" size="661575264" crc="9034da3c" md5="d53b245a3638341779578dee5a73e335" sha1="4cd2c71da49e9ae82be3ee41056280134b45c22c"/>
+		<rom name="Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan, Asia).cue" size="125" crc="3e5bff0a" md5="e98683dade49eeaa8ccb13d880f48cbc" sha1="fe55589474f45663b32c1f74b02da7c759c3a550"/>
 	</game>
 	<game name="Klonoa Beach Volleyball (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>

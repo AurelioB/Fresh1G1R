@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,061) (-y) [-aAbBcefkmMoprv] (2026-05-03 17-34-43) (Retool)</description>
-		<version>2026-05-03 17-34-43</version>
-		<date>2026-05-03 17-39-35</date>
+		<description>IBM - PC compatible (25,077) (-y) [-aAbBcefkmMoprv] (2026-05-08 03-09-58) (Retool)</description>
+		<version>2026-05-08 03-09-58</version>
+		<date>2026-05-08 03-35-10</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -8884,6 +8884,11 @@
 		<description>Angeln 2009 (Germany)</description>
 		<rom name="Angeln 2009 (Germany).bin" size="657565104" crc="7a8ff274" md5="f7bec02d2760df52ba5d883e6eeab870" sha1="62a0e7ad2d69f9527543a48fcede33e7db3313e1"/>
 		<rom name="Angeln 2009 (Germany).cue" size="87" crc="2c67e420" md5="0085416bc9c032c1bd69e6a01182fd33" sha1="c000ddf733eb08c18211d889dd98c8548115e82c"/>
+	</game>
+	<game name="Angels &amp; Despair (UK)">
+		<category>Games</category>
+		<description>Angels &amp; Despair (UK)</description>
+		<rom name="Angels &amp; Despair (UK).iso" size="3287744512" crc="cde36bde" md5="79408328ad489414ef0805eb3fd1989f" sha1="7b2cfe6ab989312a0e1dedb74899a5f08c0cebb8"/>
 	</game>
 	<game name="Angels vs Devils (Europe)">
 		<category>Games</category>
@@ -18632,6 +18637,11 @@
 		<rom name="Black &amp; White 2 - Battle of the Gods (USA).bin" size="788886672" crc="b9068f17" md5="cc9c594c10b1cc009e95c329f45a7d45" sha1="43daf1001eb3983ce86d156b9eb4dbc31b65eb74"/>
 		<rom name="Black &amp; White 2 - Battle of the Gods (USA).cue" size="108" crc="6df15ad0" md5="18c60f950dd9e21126ed55fc00f66fe0" sha1="2ad45f5b839b7d1c041ec56953c319191c2296ed"/>
 	</game>
+	<game name="Black Buccaneer (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Black Buccaneer (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Black Buccaneer (USA) (En,Fr,De,Es,It).iso" size="3204120576" crc="abd986fd" md5="2bd5c5b143c2cd0f27bda7bc3f1d6a1a" sha1="c4e25ff606daf0836e7ca7a5777e92b05e7abe8a"/>
+	</game>
 	<game name="Black Cats and Pointed Hats (Belgium, Netherlands) (En,Nl)">
 		<category>Games</category>
 		<description>Black Cats and Pointed Hats (Belgium, Netherlands) (En,Nl)</description>
@@ -20038,6 +20048,12 @@
 		<category>Games</category>
 		<description>Boiling Point - Road to Hell (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Boiling Point - Road to Hell (Europe) (En,Fr,De,Es,It).iso" size="2593882112" crc="5427bc64" md5="f7a74b904d1eb9d223924cba3035d1b9" sha1="51bc9938bbf3347a40fa1a6f406bd1f3fc58c0bc"/>
+	</game>
+	<game name="Boite a Bidules de l'oncle Ernest, La (France)">
+		<category>Games</category>
+		<description>Boite a Bidules de l'oncle Ernest, La (France)</description>
+		<rom name="Boite a Bidules de l'oncle Ernest, La (France).bin" size="828861264" crc="5e1d84e5" md5="89d5678ea467d7d1779889ca5dad5e49" sha1="10dd530f115d228e17f5ef5c19a85342db44a458"/>
+		<rom name="Boite a Bidules de l'oncle Ernest, La (France).cue" size="112" crc="1c415765" md5="f4265663b5dbc7efa10301b495dcaf0c" sha1="acc3c97901a9d3d9f658b3ef47de0c889a1cc724"/>
 	</game>
 	<game name="Boku no Hitozuma Onee-san - M na Hitozuma x S na Miboujin (Japan)">
 		<category>Games</category>
@@ -25938,11 +25954,11 @@
 		<rom name="Chessmaster 7000 (USA) (Disc 2).bin" size="700656096" crc="579a3d04" md5="2cd5124da4ab2e8a6e54f2ae3102d905" sha1="af26fe75adfee1b35419c93978078160b8819421"/>
 		<rom name="Chessmaster 7000 (USA) (Disc 2).cue" size="97" crc="1cda6ea0" md5="e8f3cdae137b71e00a9093150cf6ced9" sha1="7ae24f31fdeac4a2ca00d9d51adc13537a589946"/>
 	</game>
-	<game name="Chessmaster 8000 (UK) (Disc 1)">
+	<game name="Chessmaster 8000 (Europe) (Disc 1)">
 		<category>Games</category>
-		<description>Chessmaster 8000 (UK) (Disc 1)</description>
-		<rom name="Chessmaster 8000 (UK) (Disc 1).bin" size="630136080" crc="eb84a49c" md5="df028eeafef5c84b4858f47bfdfccdb1" sha1="c7cda055bc106f062095f1b719f1c7fa5ea946b5"/>
-		<rom name="Chessmaster 8000 (UK) (Disc 1).cue" size="96" crc="e6bb5657" md5="2f1276d1a8d76b0475198f0f6181accc" sha1="b141da2bbd01cdb5e147d12ed7dbb9db5ebcfc3c"/>
+		<description>Chessmaster 8000 (Europe) (Disc 1)</description>
+		<rom name="Chessmaster 8000 (Europe) (Disc 1).bin" size="645452304" crc="450258cb" md5="d19c419c04a1879383b96df6fe5390d0" sha1="9ffd968ba896ec58dccadd78543ffdc9c2fcb0d5"/>
+		<rom name="Chessmaster 8000 (Europe) (Disc 1).cue" size="100" crc="952333b6" md5="8f85aa793748935b4af2000518295775" sha1="c26a69857b1bbb9b17d550afe267b5aed176c337"/>
 	</game>
 	<game name="Chessmaster 8000 (USA) (Disc 2)">
 		<category>Games</category>
@@ -34242,6 +34258,52 @@
 		<rom name="Dark Sun - Shattered Lands (USA).bin" size="16365216" crc="51c73ba7" md5="7d7facb05b07348be101ad5588b1283f" sha1="43c10547200c1d01144058e0035b5fa4baea694a"/>
 		<rom name="Dark Sun - Shattered Lands (USA).cue" size="121" crc="9c0ea03f" md5="835eb536241bd4587d951765d6532c34" sha1="f3ba901a96e3f3b6674c64497c4896a19df64006"/>
 	</game>
+	<game name="Dark Sun - Wake of the Ravager (USA)">
+		<category>Games</category>
+		<description>Dark Sun - Wake of the Ravager (USA)</description>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 01).bin" size="108182592" crc="482e1861" md5="7b137157239bfd08ce4efc4c012c35b0" sha1="5bc9f87c38f207b38c0797bcacb2c6398999d76c"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 02).bin" size="20786976" crc="e3f96d7b" md5="67a6decf1f7592472c4bb45ea74a600a" sha1="99d6a50d84024f6a59018bacac0b0d9204da1d63"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 03).bin" size="21076272" crc="a1b13aa6" md5="8178b30630fd75aeda3e3e66fbea3acc" sha1="d4f995900c9f6187ae774e1f192ea3b043bd100e"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 04).bin" size="18663120" crc="9b9a615a" md5="3348660976fec7157111cc4b01ebdf48" sha1="9a7ddd3dd3d2376827d3f57ea3a5ab15b53a034d"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 05).bin" size="29200080" crc="d1c0428b" md5="3fdc586eefe266b2ff481e976b80c30e" sha1="1c5f262aba487b484a87ab35824f231234d4382b"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 06).bin" size="30959376" crc="bc96ce94" md5="b4cd50fb53e89287dfe2eaa0e98eecdb" sha1="0d3405c02877d4c17497d02662c00aaf4ce26795"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 07).bin" size="26925696" crc="a4d3f70b" md5="1b6dc6b1522c1da088fbdcca3d2e5617" sha1="432fda14d0d9f22ad5c70d7fbf3fe24c72cab55e"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 08).bin" size="21104496" crc="5fa4e488" md5="ed25678009ec071634f27040cd599872" sha1="12455356e7fe14b0cbe5e960f0ae0b1e18c323e8"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 09).bin" size="23188368" crc="ab7c5615" md5="20f142093ea40adfbfb028ec0423ea2e" sha1="26c6f6a6d4dd172d422b68a2c183384080b99ab4"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 10).bin" size="20568240" crc="bbb40775" md5="2aa42a11a0f7311508519b7edab2f503" sha1="ef301dc5823b194da584e846e1beef7c4d893a06"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 11).bin" size="18679584" crc="d9bf62c5" md5="c0b5826d6d545003e48167f7b0583a74" sha1="6c04fc63fdaf13df04c932cb2e0067efeef4db04"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 12).bin" size="19159392" crc="0263426b" md5="26882baa76ffcc98564b7248624eae77" sha1="a3cea7ef564af51a0cce87fb7d8bf58bb01baeea"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 13).bin" size="18246816" crc="09dc0eb7" md5="302c8b542fc2268f6f8ee5cf980af169" sha1="7013b4f50761cf11d84a625464416bde0d7a7bee"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 14).bin" size="16682736" crc="46d21794" md5="6b302bb7398daa9d19ae8d9b31c11cde" sha1="7319f0a9c6150919f3e20e33e4b8c9bbf3aa5fab"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 15).bin" size="16647456" crc="dc425c8e" md5="4c6ff6cae6f07b6326d512b33f8b6d49" sha1="a5b773c607ea427ccd7e0367d99396caf4441a6f"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 16).bin" size="17289552" crc="ac323261" md5="3f1f591a95abbfb42eee3398f0eff723" sha1="be2fc41bddb280d21cb828c89885b30a8a6901ad"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 17).bin" size="18728976" crc="fa7f3418" md5="c2b139eb73f13372242350c4aedb0848" sha1="6f0f1e2783782e264e8fcbc54dff2470b4ecc0cf"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 18).bin" size="13905024" crc="2cbb6253" md5="2375be2c902c4337c0684359c29623df" sha1="819560376cd2ab6aadf75394a8b2daff3791155a"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 19).bin" size="20925744" crc="41e14c50" md5="fa13cb5bfcc09a4181d37a8862a12509" sha1="c94c4af322fd17494db154cc5c041fd516306dcd"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 20).bin" size="20123712" crc="02f333ca" md5="a159d75b9fdce4ea6466867b03a32cd8" sha1="0bd4476cfed3cf0de9c7190fb9111444f5beb379"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 21).bin" size="19211136" crc="ef1df058" md5="38f9e1915947959a1c94c9d2e4a35f9a" sha1="4d9a6d919e5fa0c15b7f1692128c0e4bf1e61858"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 22).bin" size="10588704" crc="84cc8994" md5="0172b981cdd2edb9607c6e1861acdebb" sha1="db6ff756e88ebe8ab0fef0056070e106b6bfd312"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 23).bin" size="10586352" crc="c3bfe5df" md5="b0721a83a05049532c85c35a05fee67d" sha1="2e7c29c8618db1076a34cba470107f9885141b25"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 24).bin" size="10586352" crc="185e3f6f" md5="0e22d37c370677e8bb22c68e217f4ad2" sha1="fbedad07bd38968b99f3482607e3f5121529c9bd"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 25).bin" size="10586352" crc="fb9f7ac3" md5="9f571ef1dcfc712a047bb31e3906df52" sha1="e2aa7c0ca5e8e55f4953fe28647c35a8acc4b984"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 26).bin" size="10584000" crc="a457b4d8" md5="ea467254e7d8cbbcf27f73fccd125731" sha1="f120cf39896d8203ee3788b104733e820c064c86"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 27).bin" size="10588704" crc="db1aaf2b" md5="24c35acc9b720d34722681da8f36fc06" sha1="4678b86d417bb887ab011cde1f62a252725dd9d8"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 28).bin" size="10586352" crc="38c0146b" md5="c341218131420c3dcf6206ee3e32e70a" sha1="733a91e059f9bbcc63be00350aa2672b078fe636"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 29).bin" size="10586352" crc="19ea6420" md5="2cbc77d53e2bc40dd365abce37785bb8" sha1="44a90d58d392a4949e1c0630547b645dc55ca730"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 30).bin" size="10586352" crc="d887d523" md5="dcb6421b1fc4f4d534f198bdc95ad428" sha1="089e03bf96da3779ba9d1891ae750a44b6a3b395"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 31).bin" size="11616528" crc="6b4a544b" md5="28945aba8ed34a84b7d6c8e42288d915" sha1="79efff82579096ccf9e5c572073d9d372f1eae6e"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 32).bin" size="11562432" crc="91d8d8f0" md5="c78371b22716acf03eedd7f3de75be3d" sha1="0dde9d13361d99e5e47ba09414ef9424a4bb3d4b"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 33).bin" size="10584000" crc="174df840" md5="608fb3334b838c8e5b6663d62b528d6a" sha1="4f9d11c4728d871be5fcb6d419f59660f782ac9c"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 34).bin" size="10586352" crc="3e66ceb4" md5="9fe6a117c914ebbbef04e42e076cba4d" sha1="29d787f514cbc406dd226d8950555ecb56b8df04"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 35).bin" size="10586352" crc="e1d20426" md5="417556a0e7b3bb2393ae0ca74d09c3e3" sha1="a3e8a4b1d55a818ad344596528f0014510f4e17b"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 36).bin" size="10586352" crc="24ce7deb" md5="5cca350803c8d869898078e358721e20" sha1="97cb14f8f3053bab117000e5b5af23eacb2b16ae"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 37).bin" size="22640352" crc="a5186515" md5="2203dc2be82cfaea20dd1db15987a577" sha1="edb0e96d9fe0ef015ec38e7e6041191e0c78434a"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 38).bin" size="6900768" crc="e84b5a50" md5="7cb8e2bf60eef783b6beb3c4f0982017" sha1="d78054e2fc2790f5afedad799b2c4f6d1808e8d2"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 39).bin" size="11792928" crc="3f1bab8f" md5="678a40512a0c4db6cda6579e4e423e1e" sha1="2aeeb171a8e2f20afb517e542c33e3356ddd3dd1"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 40).bin" size="6009360" crc="819e72b2" md5="47c3d952f86a6b97ec32769925046622" sha1="78417c334dcebb33b095562e606527ae1d6518d6"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA) (Track 41).bin" size="28367472" crc="a315475b" md5="27347fc26a09478bd2572e0cf629ad2b" sha1="956d17f4eadba79e3372af37d44d5a765ca15208"/>
+		<rom name="Dark Sun - Wake of the Ravager (USA).cue" size="4479" crc="d5314919" md5="79be4dd0745ea51ef4059f6f1c837d92" sha1="8ca2a49f0c5128cd387c48a4eb547e2ee8d2c4d9"/>
+	</game>
 	<game name="Dark Tales - Edgar Allan Poe's Murders in the Rue Morgue (USA) (Collector's Edition)">
 		<category>Games</category>
 		<description>Dark Tales - Edgar Allan Poe's Murders in the Rue Morgue (USA) (Collector's Edition)</description>
@@ -37416,6 +37478,12 @@
 		<rom name="Diablo (USA, Europe).bin" size="688870224" crc="edf6b970" md5="09de94c03de84c6b90ca6aa77bb42de5" sha1="8f61c3cc7c493f88539a914856d412870b6493e8"/>
 		<rom name="Diablo (USA, Europe).cue" size="109" crc="6ccba1a6" md5="466f6801075fa490d1c34891feeb17e9" sha1="44e1492cdecc4d94ffffa1a63270cb226f774de0"/>
 	</game>
+	<game name="Diablo - Hellfire (Korea)">
+		<category>Add-Ons</category>
+		<description>Diablo - Hellfire (Korea)</description>
+		<rom name="Diablo - Hellfire (Korea).bin" size="496589520" crc="76b4d439" md5="2e090b85bd391531aa0fa002cae063b8" sha1="5cd850049642a558f3d9578128adc1e6e671ffda"/>
+		<rom name="Diablo - Hellfire (Korea).cue" size="114" crc="95927fbf" md5="1e4b0c4727095a0ce195273148217065" sha1="e465acd9c5fe9783284c85ca4852b9493912fdd3"/>
+	</game>
 	<game name="Diablo II (Europe) (Disc 1) (Install Disc) (Rev 1)">
 		<category>Games</category>
 		<description>Diablo II (Europe) (Disc 1) (Install Disc) (Rev 1)</description>
@@ -39565,6 +39633,12 @@
 		<category>Games</category>
 		<description>Disney Sing It - High School Musical 3 - Senior Year (Russia)</description>
 		<rom name="Disney Sing It - High School Musical 3 - Senior Year (Russia).iso" size="2676850688" crc="40e768a8" md5="10fbe7f4d4e44b6cfe03ff5953339a80" sha1="2cde21c793758afb3a64d114bc0a4820ef522c80"/>
+	</game>
+	<game name="Disney Taller de Juegos - Aladdin (Spain)">
+		<category>Games</category>
+		<description>Disney Taller de Juegos - Aladdin (Spain)</description>
+		<rom name="Disney Taller de Juegos - Aladdin (Spain).bin" size="524787648" crc="7f3a6ba2" md5="3ea033349ed8d28f73aecfca6a437085" sha1="f7ab808903abbed151efed30b2da8efa9d67d3a5"/>
+		<rom name="Disney Taller de Juegos - Aladdin (Spain).cue" size="130" crc="fc4f1311" md5="5e70bdc669d7f7b4b19bc97a79a7fccb" sha1="acc1e87eced91d45f2d68b2f66bbb334d1fc7a7f"/>
 	</game>
 	<game name="Disney Tarzan (Russia)">
 		<category>Games</category>
@@ -53742,6 +53816,12 @@
 		<rom name="First Queen - The New World (Japan).bin" size="85142400" crc="3a608ae2" md5="c7dcb51f6aa54413ea1164ec7bf949b1" sha1="b01a25b384727cc2f1a53ea458a94ff489c6b131"/>
 		<rom name="First Queen - The New World (Japan).cue" size="101" crc="324cccd8" md5="f745779fd02cfc7c41f91b91c71aadde" sha1="eafb59dee9b7382c8b268052078c80cd52e6e585"/>
 	</game>
+	<game name="First Queen II - Sabaku no Joou (Japan)">
+		<category>Games</category>
+		<description>First Queen II - Sabaku no Joou (Japan)</description>
+		<rom name="First Queen II - Sabaku no Joou (Japan).bin" size="97165824" crc="a488aa87" md5="7591d7b3f8e58134c4589881b49e3cdd" sha1="a473eb81fc49c74b50517a22e3074811cba9c601"/>
+		<rom name="First Queen II - Sabaku no Joou (Japan).cue" size="128" crc="1392bb0f" md5="213b3260f0cc05a9ec3d42fe92532ecc" sha1="af8f1a20cf21d3b61a6cc4ad5fe554f85f1d94f9"/>
+	</game>
 	<game name="First Samurai (Europe)">
 		<category>Games</category>
 		<description>First Samurai (Europe)</description>
@@ -63799,7 +63879,7 @@
 	<game name="Gunpad 2000 (Europe)">
 		<category>Games</category>
 		<description>Gunpad 2000 (Europe)</description>
-		<rom name="Gunpad 2000 (Europe).bin" size="42234864" crc="3f3ed153" md5="d6436fd05ef3d8abd1fe29aee279edca" sha1="6a18467490c2cd4dca83eeba2cc2635bf7edbf2b"/>
+		<rom name="Gunpad 2000 (Europe).bin" size="45273648" crc="2be4283b" md5="6f872287fe78d1cc30426ea454cd114e" sha1="0a7ba2ea2576d9f48fe57a176634c65e5667ef80"/>
 		<rom name="Gunpad 2000 (Europe).cue" size="86" crc="1cbda01f" md5="f21d4a18eb83fe556db4e4173fba7ef6" sha1="6822604000a918bcb1d354d48f6a2cd8768d375d"/>
 	</game>
 	<game name="Guns &amp; Ammo (USA)">
@@ -68360,6 +68440,12 @@
 		<description>Hidden Mystery Collectives, The - Azada 3 &amp; 4 (UK)</description>
 		<rom name="Hidden Mystery Collectives, The - Azada 3 &amp; 4 (UK).iso" size="1345421312" crc="6c06ef97" md5="9041b452ea0ad559237a3eda771cb44c" sha1="42b720fa8f02c108a6ecf4a7d35f0a26e8b620f8"/>
 	</game>
+	<game name="Hidden Mystery Collectives, The - Haunted Hotel 1 &amp; 2 (UK)">
+		<category>Games</category>
+		<description>Hidden Mystery Collectives, The - Haunted Hotel 1 &amp; 2 (UK)</description>
+		<rom name="Hidden Mystery Collectives, The - Haunted Hotel 1 &amp; 2 (UK).bin" size="185782128" crc="38945844" md5="bacf6e64cb3eca5d4d1d63bd1970649d" sha1="e78bb8a663e624d4540c63220c985844d1e7318b"/>
+		<rom name="Hidden Mystery Collectives, The - Haunted Hotel 1 &amp; 2 (UK).cue" size="124" crc="b0151af5" md5="4ceae48d5c1612ca19ca44b045d7598a" sha1="44b3686bcce247e3bfa052523a1727e6f1997c43"/>
+	</game>
 	<game name="Hidden Mystery Triple Pack (UK)">
 		<category>Games</category>
 		<description>Hidden Mystery Triple Pack (UK)</description>
@@ -68385,6 +68471,12 @@
 		<category>Games</category>
 		<description>Hidden Object Classic Adventures II (USA)</description>
 		<rom name="Hidden Object Classic Adventures II (USA).iso" size="2248966144" crc="17fd89dd" md5="53ab30256610d02d52456a22313c7791" sha1="7f289f216bdb09e50d2830c18b412a8bb535354c"/>
+	</game>
+	<game name="Hidden Object Classic Collection Vol.2 - Triple Pack (Europe)">
+		<category>Games</category>
+		<description>Hidden Object Classic Collection Vol.2 - Triple Pack (Europe)</description>
+		<rom name="Hidden Object Classic Collection Vol.2 - Triple Pack (Europe).bin" size="421153824" crc="0def2a67" md5="85c64384b3aaa83a18fa55a88c2d7fc3" sha1="c72e88b76b971e3b17af81b906026c08a6e57858"/>
+		<rom name="Hidden Object Classic Collection Vol.2 - Triple Pack (Europe).cue" size="127" crc="b824bf38" md5="fb1a8c944a113263115a3d7cee09c2a9" sha1="b5521bc1eb12113285476f7da86584047a1fcab7"/>
 	</game>
 	<game name="Hidden Object Classic Legends (USA)">
 		<category>Games</category>
@@ -69657,11 +69749,11 @@
 		<rom name="Horror Tour (Japan).bin" size="412573728" crc="4fb81a1a" md5="6139173a71f39cee24dcdbc3689da8bd" sha1="a5f0df1755f9e414e230475eea8c716e038b3ae8"/>
 		<rom name="Horror Tour (Japan).cue" size="108" crc="95bc5761" md5="4e6a15c0a8258c1f1c211d8abab922ad" sha1="afab024cfeae38987c4f76dd4972b1564fbac6d0"/>
 	</game>
-	<game name="Horse &amp; Pony - Riding Camp (Sweden) (En,Sv,No,Fi)">
+	<game name="Horse &amp; Pony - Riding Camp (Sweden) (En,Sv,No,Fi) (Rev 1)">
 		<category>Games</category>
-		<description>Horse &amp; Pony - Riding Camp (Sweden) (En,Sv,No,Fi)</description>
-		<rom name="Horse &amp; Pony - Riding Camp (Sweden) (En,Sv,No,Fi).bin" size="555866976" crc="baf1ce84" md5="ee3173a1cda910788c89817aa49dfe6a" sha1="ae5b8d37b25b4b1555fc89e4449a75f1519ab38a"/>
-		<rom name="Horse &amp; Pony - Riding Camp (Sweden) (En,Sv,No,Fi).cue" size="115" crc="e5ec20fc" md5="dc4ccf511ec13a643d9c3cb226643776" sha1="499bd7484aab150c774ae5e2c738760ad0a09fe3"/>
+		<description>Horse &amp; Pony - Riding Camp (Sweden) (En,Sv,No,Fi) (Rev 1)</description>
+		<rom name="Horse &amp; Pony - Riding Camp (Sweden) (En,Sv,No,Fi) (Rev 1).bin" size="843309600" crc="809681b4" md5="6605ebc5586cdafed778ac3d8c778c41" sha1="181b7a2310ad467d52b42567477e94ac38f5d4a6"/>
+		<rom name="Horse &amp; Pony - Riding Camp (Sweden) (En,Sv,No,Fi) (Rev 1).cue" size="123" crc="327a9bae" md5="0e5381d8b82661859e640e7bf3fe275c" sha1="2f2c62f3c45f9bbe5ffd06f068b65ab6316bce15"/>
 	</game>
 	<game name="Horse Breaker (Japan) (Game Disc)">
 		<category>Games</category>
@@ -77516,6 +77608,12 @@
 		<rom name="Josefin (Sweden) (Sv,No,Da,Fi).bin" size="284841312" crc="039fd63e" md5="b5e0810e81c632cf9d6a0cad258d7b1c" sha1="0c1587619812fbb5f1ef36a13d079e0279ff59f9"/>
 		<rom name="Josefin (Sweden) (Sv,No,Da,Fi).cue" size="119" crc="a83dbbcf" md5="fd800470e6b1d004f9b84a67349ee7de" sha1="2294b7158a68f1ce26d298ae7240c7f19205f29c"/>
 	</game>
+	<game name="Josefin - Resan till kroppens inre (Sweden)">
+		<category>Games</category>
+		<description>Josefin - Resan till kroppens inre (Sweden)</description>
+		<rom name="Josefin - Resan till kroppens inre (Sweden).bin" size="391064688" crc="9488e3a7" md5="eaeaf54ecf941d13859bcb022dcba43d" sha1="b1147ce3378ab29cb1231a6577d424c3fcca3e8b"/>
+		<rom name="Josefin - Resan till kroppens inre (Sweden).cue" size="109" crc="dee0365b" md5="0aad384b25a6b8582c622d1ae174716f" sha1="ff6cc521948d16985ead605ff5c1d1c36eafcc4e"/>
+	</game>
 	<game name="Josephine on Holiday (Scandinavia) (En,Sv,No,Da,Fi)">
 		<category>Games</category>
 		<description>Josephine on Holiday (Scandinavia) (En,Sv,No,Da,Fi)</description>
@@ -82690,6 +82788,11 @@
 		<category>Demos</category>
 		<description>LEGO The Hobbit (Poland) (Demo)</description>
 		<rom name="LEGO The Hobbit (Poland) (Demo).iso" size="782565376" crc="b6d8e093" md5="578fbd059750c977afcecb935cffa932" sha1="16f957a337f30c66407952038df2bbfcbd319851"/>
+	</game>
+	<game name="LEGO The Lord of the Rings (Poland) (Demo)">
+		<category>Demos</category>
+		<description>LEGO The Lord of the Rings (Poland) (Demo)</description>
+		<rom name="LEGO The Lord of the Rings (Poland) (Demo).iso" size="859766784" crc="e6f6f562" md5="1eefa03cf095ff1d159d7d6e43671d6e" sha1="18577686ef8cc9db3006dcdfc2728c15e04a7623"/>
 	</game>
 	<game name="LEGO The Lord of the Rings (USA) (En,Fr,De,Es,It,Nl,Pt,Da,Pl,Ru)">
 		<category>Games</category>
@@ -97275,6 +97378,11 @@
 		<rom name="MindRover - The Europa Project (USA) (Linux) (Track 15).bin" size="7488768" crc="47c4efc4" md5="3086b6d1b18e9bd8c9b4d8f6478c8108" sha1="5ceab6b61a9de480db4065d89ce5530f32c97a43"/>
 		<rom name="MindRover - The Europa Project (USA) (Linux).cue" size="2067" crc="307a3b0b" md5="cbf8fd841dd0213dbb0935db3a8707e7" sha1="788f4b7a6f44bfef873d7b2ddaebaa3f56c20315"/>
 	</game>
+	<game name="Minds &amp; Mystery (UK)">
+		<category>Games</category>
+		<description>Minds &amp; Mystery (UK)</description>
+		<rom name="Minds &amp; Mystery (UK).iso" size="3337224192" crc="9d151cd8" md5="d67082872b9cfc30e67b1283de4b6e2f" sha1="fffb0e537aca35fda74fab16692d5b3726ad6699"/>
+	</game>
 	<game name="Mindscape CD-ROM Challenge Pack 2 (USA)">
 		<category>Games</category>
 		<description>Mindscape CD-ROM Challenge Pack 2 (USA)</description>
@@ -101098,6 +101206,12 @@
 		<description>Mummy, The (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Mummy, The (Europe) (En,Fr,De,Es,It,Nl).bin" size="820975008" crc="9d1320b4" md5="0018a093ff0d3d3048a37341e6e496af" sha1="d4dcc74d1c75f69cd94a4ead30e606236446a0f2"/>
 		<rom name="Mummy, The (Europe) (En,Fr,De,Es,It,Nl).cue" size="105" crc="84c99ae3" md5="27f319cee446fd7635de4d6f66c7acf0" sha1="f0f49114a5da43e96f7f3273ccc3ff984e5d11a5"/>
+	</game>
+	<game name="Mundiales-98 (Spain) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Mundiales-98 (Spain) (En,Fr,De,Es,It)</description>
+		<rom name="Mundiales-98 (Spain) (En,Fr,De,Es,It).bin" size="103817280" crc="a99e2895" md5="86a9967183cf49de72ee15766ad18c38" sha1="9a1ee1449874d62d4c8fbeb3e36fc752eb82f853"/>
+		<rom name="Mundiales-98 (Spain) (En,Fr,De,Es,It).cue" size="103" crc="8ead719b" md5="ff2bf3d331f47c57877ce1e0e7b6981a" sha1="f00fd8f662d3e06f483866dd8196814e9d04739c"/>
 	</game>
 	<game name="Munin (Germany) (En,Fr,De,Es,It,Pt,Ru)">
 		<category>Games</category>
@@ -110119,6 +110233,12 @@
 		<description>PC Atletica Oro (Italy)</description>
 		<rom name="PC Atletica Oro (Italy).bin" size="795568704" crc="329babcc" md5="e8768d223a1addac56ada3e545049d7b" sha1="99df4055c901686db85aa2048ec9d16d981f45bc"/>
 		<rom name="PC Atletica Oro (Italy).cue" size="89" crc="c061b15f" md5="3ba4d6a7a76c997ca7d3356c4256dba6" sha1="4e4dae35183663c9d8b4564dd5712aec9e264c35"/>
+	</game>
+	<game name="PC Barca (Spain) (Es,Ca)">
+		<category>Games</category>
+		<description>PC Barca (Spain) (Es,Ca)</description>
+		<rom name="PC Barca (Spain) (Es,Ca).bin" size="563271072" crc="dc8dd735" md5="dba6db7cf809d440bacfe332e98a6d91" sha1="e235a28759d52ce3e0b4cb831d61a58a6363ba23"/>
+		<rom name="PC Barca (Spain) (Es,Ca).cue" size="113" crc="e0da49ea" md5="05e2d619a2f497893387614579b5d65a" sha1="b9ca32f823055e52bd1b75210d571f54ca2016fe"/>
 	</game>
 	<game name="PC Basket 4.5 (Spain)">
 		<category>Games</category>
@@ -135630,6 +135750,12 @@
 		<category>Games</category>
 		<description>Shenming De Yitian Shijie (China) (Youxi Guangpan DVD)</description>
 		<rom name="Shenming De Yitian Shijie (China) (Youxi Guangpan DVD).iso" size="1805910016" crc="f0937032" md5="abbaf3273edcf08bad1b86f99d6b4a4d" sha1="0410a567de6cb9912b713a61799c05cfd8781f8e"/>
+	</game>
+	<game name="Shenmue III (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Shenmue III (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Shenmue III (USA) (En,Fr,De,Es,It).bin" size="40920096" crc="19ca5232" md5="07962a8152aa33ca319b5c3346eb28e4" sha1="68f48247ab134e791cd7b140b87c3ca4bf5175a5"/>
+		<rom name="Shenmue III (USA) (En,Fr,De,Es,It).cue" size="100" crc="cfd3c945" md5="7c72f8d296df9912253e68d327df56af" sha1="fa9d5ca9b09885622d49c50a878df7d408cfe70a"/>
 	</game>
 	<game name="Shenshui Yugang (China)">
 		<category>Games</category>
@@ -167310,6 +167436,11 @@
 		<category>Add-Ons</category>
 		<description>Warhammer - Mark of Chaos - Battle March (Poland)</description>
 		<rom name="Warhammer - Mark of Chaos - Battle March (Poland).iso" size="3652616192" crc="8e27f605" md5="d159eb040bf4aee8a37995b30c662219" sha1="439426daae1e5c9ff4154998712bb00bd36173d1"/>
+	</game>
+	<game name="Warhammer - Mark of Chaos - Battle March (USA) (Disc 1)">
+		<category>Games</category>
+		<description>Warhammer - Mark of Chaos - Battle March (USA) (Disc 1)</description>
+		<rom name="Warhammer - Mark of Chaos - Battle March (USA) (Disc 1).iso" size="3695640576" crc="6b18ece4" md5="b764db6f9a99313e9fd3e3491bd051ea" sha1="1d067f8077fe29900362f8f9d1cadec5a7708b5b"/>
 	</game>
 	<game name="Warhammer - Mark of Chaos - Battle March (USA) (Disc 2)">
 		<category>Games</category>
