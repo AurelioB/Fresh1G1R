@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,057) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-08 03-09-58) (Retool)</description>
-		<version>2026-05-08 03-09-58</version>
-		<date>2026-05-08 03-36-43</date>
+		<description>IBM - PC compatible (13,060) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-10 03-26-26) (Retool)</description>
+		<version>2026-05-10 03-26-26</version>
+		<date>2026-05-10 03-20-51</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -5637,11 +5637,11 @@
 		<rom name="Arx Fatalis (Europe) (En,Fr,De) (52D18519).bin" size="759559584" crc="52d18519" md5="6bb9206f401517cfae8981cfbb330419" sha1="5166af24175d63d28f5c3c0d9afa2d1df53dfc83"/>
 		<rom name="Arx Fatalis (Europe) (En,Fr,De) (52D18519).cue" size="108" crc="23b7fbab" md5="9e3926996fbaff92a87a08ce6b639600" sha1="00f29f9feb520db27f615240985964fcb0dae6e8"/>
 	</game>
-	<game name="Arx Fatalis (USA)">
+	<game name="Arx Fatalis (World)">
 		<category>Games</category>
-		<description>Arx Fatalis (USA)</description>
-		<rom name="Arx Fatalis (USA).bin" size="693675360" crc="21252526" md5="558c5fc0e85d542b13cfa0cabc4668f1" sha1="4c65795c197fd4521099e03b81305c998d556052"/>
-		<rom name="Arx Fatalis (USA).cue" size="83" crc="211dc961" md5="2b099daa43ba85d75708fcee8b80d513" sha1="22e6ab6a13e901ddc310fc3ec4361e5a812c5d16"/>
+		<description>Arx Fatalis (World)</description>
+		<rom name="Arx Fatalis (World).bin" size="693675360" crc="21252526" md5="558c5fc0e85d542b13cfa0cabc4668f1" sha1="4c65795c197fd4521099e03b81305c998d556052"/>
+		<rom name="Arx Fatalis (World).cue" size="85" crc="5aa3aca8" md5="683c7333f66b4677c651a5e125fae2d7" sha1="ada0fa34774e205f4b932750b713e6f2203f15b0"/>
 	</game>
 	<game name="Ascendancy (USA)">
 		<category>Games</category>
@@ -18300,10 +18300,10 @@
 		<rom name="Dark Hills of Cherai, The (Australia).bin" size="269329872" crc="0de423f8" md5="efa4c3067b59078bc2df91e31917e429" sha1="ce31669a6abfc307793e1e5e88c0480cbd1f6f92"/>
 		<rom name="Dark Hills of Cherai, The (Australia).cue" size="103" crc="613849db" md5="7f696234f208d1f8d9954179d9055629" sha1="b4b6dd19b61b15717e99fd1c4481c71b8e3db529"/>
 	</game>
-	<game name="Dark Horizon (USA)">
+	<game name="Dark Horizon (USA, Europe)">
 		<category>Games</category>
-		<description>Dark Horizon (USA)</description>
-		<rom name="Dark Horizon (USA).iso" size="1068367872" crc="9bf9d7b7" md5="397ab6a3ea63faeb16040169ddcf39cd" sha1="45385fe88f27cd85cc2f8d8c347261dd64aa4a33"/>
+		<description>Dark Horizon (USA, Europe)</description>
+		<rom name="Dark Horizon (USA, Europe).iso" size="1068367872" crc="9bf9d7b7" md5="397ab6a3ea63faeb16040169ddcf39cd" sha1="45385fe88f27cd85cc2f8d8c347261dd64aa4a33"/>
 	</game>
 	<game name="Dark Legions (USA)">
 		<category>Games</category>
@@ -25066,14 +25066,26 @@
 	<game name="Empire Earth II (USA) (Disc 1)">
 		<category>Games</category>
 		<description>Empire Earth II (USA) (Disc 1)</description>
-		<rom name="Empire Earth II (USA) (Disc 1).bin" size="756781872" crc="e0cd433b" md5="afe2c618d4d29e8458ee98a6da30ea56" sha1="d6a37727b221f320afdcc1e4aa8c75dfd94d6a47"/>
+		<rom name="Empire Earth II (USA) (Disc 1).bin" size="756781872" crc="09ba3333" md5="bcc00d51d6590d92804d10e9dd7725f4" sha1="4641017e739b00a7cd58301d7e71f765eab815e2"/>
 		<rom name="Empire Earth II (USA) (Disc 1).cue" size="96" crc="9ca3a1ad" md5="6fff1298cfba2d6ba14b053bc241b6a1" sha1="f7b5598c3268bd17d4a1bf18aad59bd51ceb6028"/>
+	</game>
+	<game name="Empire Earth II (USA) (Disc 1) (Platinum Edition)">
+		<category>Games</category>
+		<description>Empire Earth II (USA) (Disc 1) (Platinum Edition)</description>
+		<rom name="Empire Earth II (USA) (Disc 1) (Platinum Edition).bin" size="756781872" crc="e0cd433b" md5="afe2c618d4d29e8458ee98a6da30ea56" sha1="d6a37727b221f320afdcc1e4aa8c75dfd94d6a47"/>
+		<rom name="Empire Earth II (USA) (Disc 1) (Platinum Edition).cue" size="115" crc="56eeac28" md5="94a973dad2aa9dc61d49d053e1a638f4" sha1="9ee68488b01342c1230f956713cdfaa2312c37db"/>
 	</game>
 	<game name="Empire Earth II (USA) (Disc 2)">
 		<category>Games</category>
 		<description>Empire Earth II (USA) (Disc 2)</description>
-		<rom name="Empire Earth II (USA) (Disc 2).bin" size="483481824" crc="c617ab86" md5="b3571a2f816ce154d768407fe0aa86e0" sha1="eec5a9dcfec418885e4c700dc01f7838c5b54f1c"/>
+		<rom name="Empire Earth II (USA) (Disc 2).bin" size="566251056" crc="437c75ae" md5="b0e5921a708f94bdf46d842bfbd57447" sha1="f71139be1f64e77815a0cf33b915d9f76c4fdc8e"/>
 		<rom name="Empire Earth II (USA) (Disc 2).cue" size="96" crc="9dfe877c" md5="8f368a8cbd79943dc7d8bd422d7cf3e1" sha1="04e403330398f5d38dc7768ab372fec26d57b555"/>
+	</game>
+	<game name="Empire Earth II (USA) (Disc 2) (Platinum Edition)">
+		<category>Games</category>
+		<description>Empire Earth II (USA) (Disc 2) (Platinum Edition)</description>
+		<rom name="Empire Earth II (USA) (Disc 2) (Platinum Edition).bin" size="483481824" crc="c617ab86" md5="b3571a2f816ce154d768407fe0aa86e0" sha1="eec5a9dcfec418885e4c700dc01f7838c5b54f1c"/>
+		<rom name="Empire Earth II (USA) (Disc 2) (Platinum Edition).cue" size="115" crc="e0ace9bd" md5="fd76f5dc62ff72cb1fd3ed38df796776" sha1="4211e51bb0c5cce683e0807ddb26d4287f35004a"/>
 	</game>
 	<game name="Empire Earth III (USA)">
 		<category>Games</category>
@@ -50123,6 +50135,12 @@
 		<rom name="Miami Powerboat Racer (Europe) (En,Fr,De,Es,It,Nl) (Track 4).bin" size="73721088" crc="ff827231" md5="f85af4bb0199e50e45ceaa0606e76f84" sha1="8fbf8d4595a8a71421a9ea9eb80b9642448502c0"/>
 		<rom name="Miami Powerboat Racer (Europe) (En,Fr,De,Es,It,Nl).cue" size="512" crc="3e4ff1ef" md5="6fc8cbced824dde2a7ce5e7b3e5b4d2e" sha1="f81f511c2726f7d88ddc43cbfccb8e0a79e38c0b"/>
 	</game>
+	<game name="Miami Vice (Europe) (En,Fr,De,Es,It,Nl)">
+		<category>Games</category>
+		<description>Miami Vice (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Miami Vice (Europe) (En,Fr,De,Es,It,Nl).bin" size="788886672" crc="48abe256" md5="4585e6d35c657f6236aaf61fa382de4a" sha1="9d80085bde7ff2399facab28be9185da5a4295e8"/>
+		<rom name="Miami Vice (Europe) (En,Fr,De,Es,It,Nl).cue" size="105" crc="37cf6207" md5="35b8236bb78ed2de89598714bb1c7207" sha1="d21432c9b44e614cc66d852f992267b4d456373f"/>
+	</game>
 	<game name="Michael Jordan in Flight (Italy)">
 		<category>Games</category>
 		<description>Michael Jordan in Flight (Italy)</description>
@@ -68752,11 +68770,11 @@
 		<rom name="Scrabble Interactive - 2003 Edition (Europe) (En,Fr,De,Nl).bin" size="465973536" crc="2d04c82b" md5="461d2aeeb9c86e031164e92b28d945fa" sha1="bd7fd6424fb64deae80a6f5a2833105bebf47664"/>
 		<rom name="Scrabble Interactive - 2003 Edition (Europe) (En,Fr,De,Nl).cue" size="124" crc="16628b9e" md5="b78f94e65d382036d9ec66b6791eedca" sha1="1a06551cfdec4544af3732666aee6c0c324cd05c"/>
 	</game>
-	<game name="Scrabble Interactive - 2005 Edition (UK) (Covermount)">
+	<game name="Scrabble Interactive - 2005 Edition (UK)">
 		<category>Games</category>
-		<description>Scrabble Interactive - 2005 Edition (UK) (Covermount)</description>
-		<rom name="Scrabble Interactive - 2005 Edition (UK) (Covermount).bin" size="365987664" crc="9d69f8e4" md5="74182bc8d586c7083641a33edf761892" sha1="96d99e404d56fd524773c3b74c01e6dbb30545ac"/>
-		<rom name="Scrabble Interactive - 2005 Edition (UK) (Covermount).cue" size="119" crc="97b3a401" md5="4bd9b6a8370e842ce3547b00335f5a98" sha1="4d8bc1748d126ba3063e94c8faeee0e74da87e36"/>
+		<description>Scrabble Interactive - 2005 Edition (UK)</description>
+		<rom name="Scrabble Interactive - 2005 Edition (UK).bin" size="788533872" crc="d0d1211a" md5="cd75e66889f92e78f77bf247187f8e8e" sha1="dc0510b2eac61da75bbac4e08cbeadbfceacbcf4"/>
+		<rom name="Scrabble Interactive - 2005 Edition (UK).cue" size="106" crc="da51d300" md5="085d5d63f3359f3985ee1b56bbcb2502" sha1="724bef258e2566407856c689efbbd0defaa6bc55"/>
 	</game>
 	<game name="Scrabble Interactive - 2007 Edition (Europe)">
 		<category>Games</category>
@@ -74231,11 +74249,11 @@
 		<rom name="Spaceship Warlock (USA).bin" size="544483296" crc="47cfd227" md5="6e732070a20e99751774c3bed0e30029" sha1="e1b578c3cf304a75793364b92d5dd62325853c5b"/>
 		<rom name="Spaceship Warlock (USA).cue" size="89" crc="150bd460" md5="8e684aa604667fb105a4ccde9be99de6" sha1="2ea8a9ce9e2429db8f7854f83d2086647e78cf45"/>
 	</game>
-	<game name="Spartan (USA)">
+	<game name="Spartan (Europe) (Sold Out Software)">
 		<category>Games</category>
-		<description>Spartan (USA)</description>
-		<rom name="Spartan (USA).bin" size="788886672" crc="fe1d3ffa" md5="dd26a1e615548c8f96ecdb58337da143" sha1="5777bb379993b734a562574a9d92fade055133ae"/>
-		<rom name="Spartan (USA).cue" size="79" crc="f7e62f33" md5="9f2417c90702fda98c8a16b05979e434" sha1="ffda65e899f4e3edd09a0d2633d2954b4c19e824"/>
+		<description>Spartan (Europe) (Sold Out Software)</description>
+		<rom name="Spartan (Europe) (Sold Out Software).bin" size="788886672" crc="8501199a" md5="968ce232ad9d69ae28dc49e75a716213" sha1="8dc267cc42162fe32a3a10815bc7a9970a6dea33"/>
+		<rom name="Spartan (Europe) (Sold Out Software).cue" size="102" crc="3dd1ea3f" md5="18a9a1cb51f0ec2901229cb0075c75a7" sha1="55773c265eb421febbefb542a175784810a4375f"/>
 	</game>
 	<game name="Spear of Destiny (USA) (1995-02-07)">
 		<category>Games</category>
