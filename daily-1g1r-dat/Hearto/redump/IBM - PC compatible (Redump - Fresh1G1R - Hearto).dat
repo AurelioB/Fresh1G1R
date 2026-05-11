@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,082) (-y) [-aAbBcefkmMoprv] (2026-05-10 03-26-26) (Retool)</description>
-		<version>2026-05-10 03-26-26</version>
-		<date>2026-05-10 03-19-09</date>
+		<description>IBM - PC compatible (25,091) (-y) [-aAbBcefkmMoprv] (2026-05-10 20-29-18) (Retool)</description>
+		<version>2026-05-10 20-29-18</version>
+		<date>2026-05-11 03-23-40</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -39757,6 +39757,12 @@
 		<rom name="Disney przedstawia Moj brat niedzwiedz (Poland) (Demo).bin" size="251816880" crc="17d49e01" md5="6fdd33562064854ea4976eb917cc1aa7" sha1="341047a4ac21642cb1f32f252886f13bb6bedba0"/>
 		<rom name="Disney przedstawia Moj brat niedzwiedz (Poland) (Demo).cue" size="120" crc="600073a4" md5="bd0a56fe1bafed837968d3406c4e8477" sha1="d22cea6c260459ebe0a33fd833e37fe0342d9053"/>
 	</game>
+	<game name="Disney'den Tigger'in Bal Avi (Turkey)">
+		<category>Games</category>
+		<description>Disney'den Tigger'in Bal Avi (Turkey)</description>
+		<rom name="Disney'den Tigger'in Bal Avi (Turkey).bin" size="381644928" crc="d20566c2" md5="dc675f51d16f46cece1ebf15cd330479" sha1="66c24e5ace72213378c28b7e424100bdfdff09a9"/>
+		<rom name="Disney'den Tigger'in Bal Avi (Turkey).cue" size="103" crc="e6055b34" md5="f5ec270a47786b6b4291b72a47ba3cac" sha1="0ad487197366a6e324088e99ada7450b87077be9"/>
+	</game>
 	<game name="Disney's 101 Dalmatians - Escape from DeVil Manor (USA)">
 		<category>Games</category>
 		<description>Disney's 101 Dalmatians - Escape from DeVil Manor (USA)</description>
@@ -42463,6 +42469,12 @@
 		<description>Dr. Seuss' The Cat in the Hat (Thailand)</description>
 		<rom name="Dr. Seuss' The Cat in the Hat (Thailand).bin" size="772674336" crc="f59cf48c" md5="ef1e592d618e41e0c489f4ed95c86262" sha1="dcf8149cb61ba10bce641f3b3c571efc22ba14dc"/>
 		<rom name="Dr. Seuss' The Cat in the Hat (Thailand).cue" size="106" crc="bd319484" md5="0993ccaf674f17e13e915a67ced0da12" sha1="57ab8f0c120b6c794df9d5380d456bbc1f38f259"/>
+	</game>
+	<game name="Drachen - Abenteuer mit Playmobil (Germany)">
+		<category>Games</category>
+		<description>Drachen - Abenteuer mit Playmobil (Germany)</description>
+		<rom name="Drachen - Abenteuer mit Playmobil (Germany).bin" size="676183536" crc="c2cdab2d" md5="4cf4d0961d809af3de327a8cd03a0075" sha1="43171df73d6d7ad5b586ab8a6de88c69a1c1afcb"/>
+		<rom name="Drachen - Abenteuer mit Playmobil (Germany).cue" size="109" crc="29a818e3" md5="9ee6f8df445b4b8b615bbedbc7e0ae3c" sha1="33a071b69eecd4fc0a2fc4b24bd75f56f398b3a7"/>
 	</game>
 	<game name="Draci historie (Czech)">
 		<category>Games</category>
@@ -51361,6 +51373,12 @@
 		<description>Family Entertainment Pack (Europe)</description>
 		<rom name="Family Entertainment Pack (Europe).bin" size="248215968" crc="dc238ba4" md5="e002557ce82245decde246abdda5b300" sha1="45d8ff268aeba4120bab99a41b4886eef70ac6d8"/>
 		<rom name="Family Entertainment Pack (Europe).cue" size="100" crc="52b20bd6" md5="772a58d7ee844a4763d6b60d4d25a613" sha1="24e7ea90e7759e83b64d5bd31284689409e06557"/>
+	</game>
+	<game name="Family Farm (Turkey) (En,De,It,Pl,Cs)">
+		<category>Games</category>
+		<description>Family Farm (Turkey) (En,De,It,Pl,Cs)</description>
+		<rom name="Family Farm (Turkey) (En,De,It,Pl,Cs).bin" size="218096256" crc="b745ef44" md5="36fa579b75299077ab3d581283e14dd4" sha1="92bc1ba16362c9679078fd90bdae61166efd38bf"/>
+		<rom name="Family Farm (Turkey) (En,De,It,Pl,Cs).cue" size="103" crc="5645f510" md5="2c67f05ad931c3a7581921b95c4d7e76" sha1="7b21ae7788ff08f552c24e7e76f645b86b86bcb1"/>
 	</game>
 	<game name="Family Feud (USA) (Rev 1)">
 		<category>Games</category>
@@ -78787,6 +78805,12 @@
 		<rom name="Kakuro Master (USA).bin" size="23009616" crc="d8517c56" md5="f2f745de4edb50e66c54ea6d5a297e16" sha1="f65b9fb4a2cd7df5d2f2588c19366990d6a82c0b"/>
 		<rom name="Kakuro Master (USA).cue" size="85" crc="8e3db082" md5="42e61fdc150fa0dd23fe393105dca6ab" sha1="52e411b5141c91b580c84a70819c06616d17fac3"/>
 	</game>
+	<game name="Kalas med Rut &amp; Knut (Sweden)">
+		<category>Games</category>
+		<description>Kalas med Rut &amp; Knut (Sweden)</description>
+		<rom name="Kalas med Rut &amp; Knut (Sweden).bin" size="402241392" crc="29f5236a" md5="9bd9f9f3d25b41e898130bcea5e086f1" sha1="54e88ea940dd5e335158659141224ff0af152403"/>
+		<rom name="Kalas med Rut &amp; Knut (Sweden).cue" size="95" crc="57b73829" md5="43c3bad86595f55e43d5b66a9882a4c6" sha1="78dbcac97ba152fe0870a573578e7256e1c71de6"/>
+	</game>
 	<game name="Kalle Kunskap - Lekstuga (Sweden) (OEM)">
 		<category>Games</category>
 		<description>Kalle Kunskap - Lekstuga (Sweden) (OEM)</description>
@@ -101219,6 +101243,12 @@
 		<rom name="Mumintrollen - Vinter i Mumindalen (Sweden).bin" size="592591104" crc="cdd5ab14" md5="13ada2000f19a1d73bdd9c11e68df19f" sha1="855cf29e8a700918d978e4af422d947b1e499fd3"/>
 		<rom name="Mumintrollen - Vinter i Mumindalen (Sweden).cue" size="109" crc="1cad4f19" md5="6c0bcb4a5830b7241d7718224ae46157" sha1="b78b8ee18aae61a3d1fb391123e7f1d59428ae83"/>
 	</game>
+	<game name="Mumintrollet och den stora hoestfesten (Sweden)">
+		<category>Games</category>
+		<description>Mumintrollet och den stora hoestfesten (Sweden)</description>
+		<rom name="Mumintrollet och den stora hoestfesten (Sweden).bin" size="214485936" crc="a7c9768f" md5="59edfc42232fec77d4b4cc506ebd3c7e" sha1="1920a1dad5cca537dd4820fa8ba0a6b9ae3556d0"/>
+		<rom name="Mumintrollet och den stora hoestfesten (Sweden).cue" size="113" crc="c29898ac" md5="c5ed1f8ac61314712f7131f6e9eeb916" sha1="c6d8a54959b49c84ba54d63b681582e7736fba98"/>
+	</game>
 	<game name="Mummy - Tomb of the Pharaoh (USA)">
 		<category>Games</category>
 		<description>Mummy - Tomb of the Pharaoh (USA)</description>
@@ -103019,11 +103049,11 @@
 		<rom name="NFL Quarterback Club '96 (USA).bin" size="214540032" crc="98e0aa94" md5="a743115700fb9af01bbab302f657587c" sha1="c1d130603e752264b97495aca42813588ea5e533"/>
 		<rom name="NFL Quarterback Club '96 (USA).cue" size="96" crc="7ef8b6a7" md5="977f9a7456df31a030150ee70093d3ce" sha1="788970406b4afcacc99c6487e481f09b7bb1a0c5"/>
 	</game>
-	<game name="NFL Quarterback Club '97 (Europe)">
+	<game name="NFL Quarterback Club '97 (USA)">
 		<category>Games</category>
-		<description>NFL Quarterback Club '97 (Europe)</description>
-		<rom name="NFL Quarterback Club '97 (Europe).bin" size="174805344" crc="cd47587b" md5="8164fe71d9342bdc83579b14f5b59c37" sha1="9301511659dd1b9842d76b2689c30ffa76a0f996"/>
-		<rom name="NFL Quarterback Club '97 (Europe).cue" size="122" crc="9d3b29b8" md5="1f5521520ede17bd90d5de894675c298" sha1="b1fb3bab442f2407fce2c6ce1e35a0db0c73573b"/>
+		<description>NFL Quarterback Club '97 (USA)</description>
+		<rom name="NFL Quarterback Club '97 (USA).bin" size="174805344" crc="087f4302" md5="e76aec759a9dd51ae95c4bbbac037921" sha1="2895b6a30da1f6f34b27c7f4219594b1703a28fd"/>
+		<rom name="NFL Quarterback Club '97 (USA).cue" size="119" crc="214b8464" md5="0c3eecb65b6514c235784dd9c0c66864" sha1="b4505efaee9dd3c2dbdfff4e4e9ffc5abf236516"/>
 	</game>
 	<game name="NHL 06 (Europe) (En,Fr,De,Sv,Fi,Cs)">
 		<category>Games</category>
@@ -115676,6 +115706,12 @@
 		<rom name="Plots! (Germany) (En,De).bin" size="196829472" crc="9dc0a131" md5="37686321f7bf4652effb7a3af6dbe521" sha1="2e14392816a186ceede84f48ad20d6f9729dd8da"/>
 		<rom name="Plots! (Germany) (En,De).cue" size="90" crc="5f3f5347" md5="c0ec92d958ca3c8c29042fbce08eb6a2" sha1="5c95986cced8d097052c3cf17dfb89f4df31bae5"/>
 	</game>
+	<game name="Plug &amp; Play CD (Germany)">
+		<category>Demos</category>
+		<description>Plug &amp; Play CD (Germany)</description>
+		<rom name="Plug &amp; Play CD (Germany).bin" size="511113120" crc="45ca32cd" md5="476501dd9a51d2094574c1108294c69a" sha1="7a0055c588c9109e6dd1fe15fff851d6279a4566"/>
+		<rom name="Plug &amp; Play CD (Germany).cue" size="113" crc="ecb5c793" md5="32492f7e58b22c2d7c68b03278b914a4" sha1="2cb34806db62d774545a9f04f35865cf373c2f6d"/>
+	</game>
 	<game name="Pluszaki Rozrabiaki Na Tropie Okularow (Poland) (Demo)">
 		<category>Demos</category>
 		<description>Pluszaki Rozrabiaki Na Tropie Okularow (Poland) (Demo)</description>
@@ -116312,6 +116348,12 @@
 		<description>Police - Die Polizei-Simulation (Germany)</description>
 		<rom name="Police - Die Polizei-Simulation (Germany).bin" size="169148784" crc="30c14280" md5="681f279d1b8884816d01c3ba757b0a47" sha1="ce21e8054124fec7ee3f931d1ff4a6261a92f4b9"/>
 		<rom name="Police - Die Polizei-Simulation (Germany).cue" size="107" crc="7095e4b0" md5="9449f10795ea9dbbb4fd49a714c40817" sha1="e5bb18751449860309773eafe8c2cc5eaf3453fc"/>
+	</game>
+	<game name="Police Chase (USA)">
+		<category>Games</category>
+		<description>Police Chase (USA)</description>
+		<rom name="Police Chase (USA).bin" size="384319152" crc="fa615a69" md5="e491da03d42437a96c9c25253c2a22f9" sha1="69ad25f902817dee7156627fa39103c81c8cfc7f"/>
+		<rom name="Police Chase (USA).cue" size="84" crc="80f99518" md5="71d51542db3641931c2f6cdd07e9fba8" sha1="932685eabdbc964717ade8e3c8088c1c64b64085"/>
 	</game>
 	<game name="Police Force (Europe)">
 		<category>Games</category>
@@ -129966,6 +130008,12 @@
 		<rom name="Salt Lake 2002 (Europe).bin" size="768722976" crc="7dcfb32e" md5="bfcb610ce79fb5c2e2d1f4bb1da34381" sha1="b0b9f11711adff62de02969a4dd8bb2f883b4c4b"/>
 		<rom name="Salt Lake 2002 (Europe).cue" size="89" crc="f8798bef" md5="5bae7cc786405a0148184a01ae77ab07" sha1="d01201fb6da29abcc1227452167787608d08defd"/>
 	</game>
+	<game name="Saltwater Fly Fishing (USA)">
+		<category>Games</category>
+		<description>Saltwater Fly Fishing (USA)</description>
+		<rom name="Saltwater Fly Fishing (USA).bin" size="214732896" crc="7a685bf3" md5="b25beb633db6d9b4117ad4d804f48077" sha1="163f208a67ed7bdc746187bc80ccc3465c57e025"/>
+		<rom name="Saltwater Fly Fishing (USA).cue" size="93" crc="0dff6bd9" md5="8a54d2851dec2773dcec87bee0d0056b" sha1="025c5cefb2e41d320b9828231979677948abfd33"/>
+	</game>
 	<game name="Salvage Yard Simulator (Italy)">
 		<category>Games</category>
 		<description>Salvage Yard Simulator (Italy)</description>
@@ -141984,6 +142032,12 @@
 		<description>Software&amp;Co. - Catalogo Interattivo 1997 - Edizione 1 (Italy)</description>
 		<rom name="Software&amp;Co. - Catalogo Interattivo 1997 - Edizione 1 (Italy).bin" size="733941600" crc="240f98f6" md5="21af641df8e28f4dca326b2f4da8471f" sha1="b17be272c6e6b7d60373ba41b4361b2401d69340"/>
 		<rom name="Software&amp;Co. - Catalogo Interattivo 1997 - Edizione 1 (Italy).cue" size="150" crc="9bc60987" md5="fdc78748a09ccf13248e277aa69f72e6" sha1="4743f69f147cc46b7799dc9044211bf9ed611475"/>
+	</game>
+	<game name="SoftwareVault - The Games Collection (USA)">
+		<category>Games</category>
+		<description>SoftwareVault - The Games Collection (USA)</description>
+		<rom name="SoftwareVault - The Games Collection (USA).bin" size="188134128" crc="5bb7489d" md5="da10c34431f77b59f06c48aa52f9122c" sha1="433301c01519e9be9446b0f86c5acd81a2e8984e"/>
+		<rom name="SoftwareVault - The Games Collection (USA).cue" size="131" crc="40d1f557" md5="9d78b595a964d27f77d03935e51aee8f" sha1="514228f4cdffd6f03facf0dac441929aa46d824e"/>
 	</game>
 	<game name="Softwarehits Made in Germany 94-95 (Germany)">
 		<category>Games</category>
