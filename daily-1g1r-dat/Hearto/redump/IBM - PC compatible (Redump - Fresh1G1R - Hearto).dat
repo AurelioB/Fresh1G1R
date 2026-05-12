@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,091) (-y) [-aAbBcefkmMoprv] (2026-05-10 20-29-18) (Retool)</description>
-		<version>2026-05-10 20-29-18</version>
-		<date>2026-05-11 03-23-40</date>
+		<description>IBM - PC compatible (25,089) (-y) [-aAbBcefkmMoprv] (2026-05-12 02-57-06) (Retool)</description>
+		<version>2026-05-12 02-57-06</version>
+		<date>2026-05-12 03-19-04</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -11591,11 +11591,11 @@
 		<rom name="Arx Fatalis (Europe) (En,Fr,De) (52D18519).bin" size="759559584" crc="52d18519" md5="6bb9206f401517cfae8981cfbb330419" sha1="5166af24175d63d28f5c3c0d9afa2d1df53dfc83"/>
 		<rom name="Arx Fatalis (Europe) (En,Fr,De) (52D18519).cue" size="108" crc="23b7fbab" md5="9e3926996fbaff92a87a08ce6b639600" sha1="00f29f9feb520db27f615240985964fcb0dae6e8"/>
 	</game>
-	<game name="Arx Fatalis (World)">
+	<game name="Arx Fatalis (USA, Europe)">
 		<category>Games</category>
-		<description>Arx Fatalis (World)</description>
-		<rom name="Arx Fatalis (World).bin" size="693675360" crc="21252526" md5="558c5fc0e85d542b13cfa0cabc4668f1" sha1="4c65795c197fd4521099e03b81305c998d556052"/>
-		<rom name="Arx Fatalis (World).cue" size="85" crc="5aa3aca8" md5="683c7333f66b4677c651a5e125fae2d7" sha1="ada0fa34774e205f4b932750b713e6f2203f15b0"/>
+		<description>Arx Fatalis (USA, Europe)</description>
+		<rom name="Arx Fatalis (USA, Europe).bin" size="693675360" crc="21252526" md5="558c5fc0e85d542b13cfa0cabc4668f1" sha1="4c65795c197fd4521099e03b81305c998d556052"/>
+		<rom name="Arx Fatalis (USA, Europe).cue" size="91" crc="96e152ea" md5="93c939178eb8e1ba8ec3aba316aead17" sha1="2cc9d447d418f406dcf14f8db61941371c837d48"/>
 	</game>
 	<game name="Arx Fatalis - Poslednij Bastion (Russia)">
 		<category>Games</category>
@@ -39489,11 +39489,6 @@
 		<description>Disney Magiczna Kolekcja - Tygrysek i Uczta Kubusia (Poland)</description>
 		<rom name="Disney Magiczna Kolekcja - Tygrysek i Uczta Kubusia (Poland).bin" size="362781888" crc="3aea2c61" md5="e4c252b9950030dd25914fef797d8255" sha1="340a7554ba29617f2a337f2381b3891979e19ca7"/>
 		<rom name="Disney Magiczna Kolekcja - Tygrysek i Uczta Kubusia (Poland).cue" size="126" crc="da1e5781" md5="0da7a9a22d9a5e57589af751840a6d64" sha1="5f344286b073a4754e1813512c7811ca4f63ad5d"/>
-	</game>
-	<game name="Disney Missiya Darvina (Russia)">
-		<category>Games</category>
-		<description>Disney Missiya Darvina (Russia)</description>
-		<rom name="Disney Missiya Darvina (Russia).iso" size="2140209152" crc="f1af3460" md5="5bfe7cbf95143634c7235dd7d1293bbd" sha1="a70c8450c5a38e5b6196536ebb2fcb923b162242"/>
 	</game>
 	<game name="Disney Mulan - SparaMu (Italy)">
 		<category>Games</category>
@@ -79391,30 +79386,6 @@
 		<description>Kayak Extreme (Canada)</description>
 		<rom name="Kayak Extreme (Canada).bin" size="152743584" crc="f5e2872e" md5="b5abbb87f4f79eb8b35019eee2abf5f8" sha1="c960f69ec1e12f74a17196f3a099a2934bf804ee"/>
 		<rom name="Kayak Extreme (Canada).cue" size="88" crc="90ec8791" md5="8c683020b0b967ea4ad9c1ba67c0fdd0" sha1="1af1256bb63aae9b233bf1723f33508dba3a9be5"/>
-	</game>
-	<game name="Kazaki - Poslednij dovod korolej (Russia)">
-		<category>Games</category>
-		<description>Kazaki - Poslednij dovod korolej (Russia)</description>
-		<rom name="Kazaki - Poslednij dovod korolej (Russia) (Track 01).bin" size="340713072" crc="6b6bf45a" md5="6e4fee6ac90c138dc3d81c281d9d7983" sha1="5e1e4d44bfa8979e1017600b52084fcab6db1f05"/>
-		<rom name="Kazaki - Poslednij dovod korolej (Russia) (Track 02).bin" size="22830864" crc="38ac7d44" md5="20040d4109ce1bf8cde0b3d20aab9089" sha1="96c808d61f5b092dc7344be007c7d776f0c9bcac"/>
-		<rom name="Kazaki - Poslednij dovod korolej (Russia) (Track 03).bin" size="23230704" crc="71cd8fe8" md5="3a7e3b908192931f23f76a3f22268941" sha1="4edba004ea12fd868e23b49881cd9e40aa022b03"/>
-		<rom name="Kazaki - Poslednij dovod korolej (Russia) (Track 04).bin" size="22790880" crc="732a3d59" md5="1f2a57559e90030a4fff4a90f7e79d0a" sha1="366f6fe72bc1c9946a6dde43ff3db0884c26eb81"/>
-		<rom name="Kazaki - Poslednij dovod korolej (Russia) (Track 05).bin" size="24848880" crc="01a6d687" md5="da85733ce0edd854fe417e64025a0eab" sha1="2e84754e834e1c97fc826fcd1b99f45771f4806f"/>
-		<rom name="Kazaki - Poslednij dovod korolej (Russia) (Track 06).bin" size="23270688" crc="2e38db44" md5="f1bb80ba3134bd1a5eb2665fb25a29a8" sha1="65b9f11e67d2f6370e3b9ca571950313d40197e2"/>
-		<rom name="Kazaki - Poslednij dovod korolej (Russia) (Track 07).bin" size="22934352" crc="856cefd2" md5="f0ba4aec3afe943f22dd77a2b5242691" sha1="09ff1cdc66c6f5f0c8594fdff1f408b39875ed13"/>
-		<rom name="Kazaki - Poslednij dovod korolej (Russia) (Track 08).bin" size="21692496" crc="efaa060b" md5="e735f5c60f320ed02f6dd73f965a9903" sha1="4d19aecdc7b9fcf76c9011f3b955506050b548bb"/>
-		<rom name="Kazaki - Poslednij dovod korolej (Russia) (Track 09).bin" size="23110752" crc="8965aee7" md5="551dd83d0c77c225cc573d8edf800ee1" sha1="f834dc76c6ff11f36153efda21e7e912d9ffd3f0"/>
-		<rom name="Kazaki - Poslednij dovod korolej (Russia) (Track 10).bin" size="21050400" crc="f5853bd0" md5="7a43e6b9b1f328eb248d1c611f4ac866" sha1="4e46fe8597211ef4e9a3f558d9eac7db83682872"/>
-		<rom name="Kazaki - Poslednij dovod korolej (Russia) (Track 11).bin" size="21626640" crc="85aa8839" md5="6ea4d91f873d93cd3100d3c005d37ef2" sha1="ba96c564449607166caee12bb2d3542729856930"/>
-		<rom name="Kazaki - Poslednij dovod korolej (Russia) (Track 12).bin" size="22412208" crc="aa56160a" md5="b52edbc95b530f19f613ee89225d11e4" sha1="3ac8294d07ee5ca85c43905d3b028e35091580a3"/>
-		<rom name="Kazaki - Poslednij dovod korolej (Russia) (Track 13).bin" size="22148784" crc="c88c0def" md5="91d34a7d42cb07836b6114cfc7645d28" sha1="07547fab7cd0d72c23ac1dbf74553d3f8301e90c"/>
-		<rom name="Kazaki - Poslednij dovod korolej (Russia) (Track 14).bin" size="22974336" crc="11ec9642" md5="47765febc82e636864fd4a43284d0dcc" sha1="818a6d4b5a096c0a6f0ccee37ed09944504d3fe7"/>
-		<rom name="Kazaki - Poslednij dovod korolej (Russia) (Track 15).bin" size="22605072" crc="7e41780e" md5="488a4164cd23ceb0d219d331dc6f5c6f" sha1="5553e820c2d1280547b12e59e43503b992f21c00"/>
-		<rom name="Kazaki - Poslednij dovod korolej (Russia) (Track 16).bin" size="23950416" crc="c94be34f" md5="bb9df3f4d3bb4afbe851fa33bcb1812a" sha1="b54cb534f0b1ac51f0a65dc98c4e5d8eac957e6b"/>
-		<rom name="Kazaki - Poslednij dovod korolej (Russia) (Track 17).bin" size="22708560" crc="50059b6a" md5="a54f697c826cfc561fcc56d2d4e8b7c8" sha1="a3147a6a5152c5aed3ba7de20bfcbd53444c5e47"/>
-		<rom name="Kazaki - Poslednij dovod korolej (Russia) (Track 18).bin" size="27802992" crc="637383da" md5="9688b62e1c337a3e1e446f9dec1675ba" sha1="bbd699012432f63a3442154bb7f7712f285d80e3"/>
-		<rom name="Kazaki - Poslednij dovod korolej (Russia) (Track 19).bin" size="13949712" crc="1e569179" md5="cbf64225732868c0e5c082dddee0487d" sha1="f55087cf6826d392a3d4bdb79f3497b3bf2965bf"/>
-		<rom name="Kazaki - Poslednij dovod korolej (Russia).cue" size="2836" crc="6fb6ec04" md5="6bfce74e3e3ae56b75f56cf81ea77737" sha1="e00e42017d4ca618d5aaa1e5e8ad88529d698bb8"/>
 	</game>
 	<game name="Kazaki II - Bitva za Evropu (Russia) (Disc 1)">
 		<category>Add-Ons</category>
@@ -126566,11 +126537,11 @@
 		<rom name="Risk - The Game of Global Domination (USA).bin" size="351130080" crc="fd8832e2" md5="04092b4f0fbe8fc8cbf9e3bc560a091d" sha1="a5dec32f1a5edaae6ab2f81bfea698d891944593"/>
 		<rom name="Risk - The Game of Global Domination (USA).cue" size="108" crc="3ff47e47" md5="83c003ea2a84e601738f34d83f526e88" sha1="4e8d6635ab84e466f769725ea8ddc54bfa0337f8"/>
 	</game>
-	<game name="Risk - The World Conquest Game (Europe) (En,Fr,De) (Rerelease)">
+	<game name="Risk - The World Conquest Game (Europe) (En,Fr,De) (Rerelease) (1998-06-30)">
 		<category>Games</category>
-		<description>Risk - The World Conquest Game (Europe) (En,Fr,De) (Rerelease)</description>
-		<rom name="Risk - The World Conquest Game (Europe) (En,Fr,De) (Rerelease).bin" size="519044064" crc="1dda3872" md5="54316dc3c49c47e5b69d69e1e6c653c7" sha1="b8035c275e0a537064348ab37cb170cebcb76d78"/>
-		<rom name="Risk - The World Conquest Game (Europe) (En,Fr,De) (Rerelease).cue" size="128" crc="aa995446" md5="6aa7a1c4dd16acf15f0dd3f772184a87" sha1="f9577d4a91177305737fbd353c3721613ecbf2e5"/>
+		<description>Risk - The World Conquest Game (Europe) (En,Fr,De) (Rerelease) (1998-06-30)</description>
+		<rom name="Risk - The World Conquest Game (Europe) (En,Fr,De) (Rerelease) (1998-06-30).bin" size="501006576" crc="39b2053e" md5="344088fe0b4dd88479ba35d534c7c5e1" sha1="d2dface37e5e96e18a08be4830831be0c4a5a690"/>
+		<rom name="Risk - The World Conquest Game (Europe) (En,Fr,De) (Rerelease) (1998-06-30).cue" size="141" crc="84dcd064" md5="7f4b10c08b3647b2330ca559036ec187" sha1="9da736419b05b53064293ebaccdec7205b262b24"/>
 	</game>
 	<game name="Risk II (USA) (2000-02-25)">
 		<category>Games</category>
@@ -134041,17 +134012,17 @@
 		<rom name="Serious Sam - The First Encounter (USA, Canada).bin" size="576287040" crc="ae15688d" md5="6698ca2e9684be4580717dfa40c74ab4" sha1="d7b86a26a388d7398775d51b6a9e9405c7d8f396"/>
 		<rom name="Serious Sam - The First Encounter (USA, Canada).cue" size="113" crc="5c1ff179" md5="98049cd30a628df6b3f906af2f8d8b10" sha1="b3c283bb23b16112b1530a16527a5c6e7a5c41e0"/>
 	</game>
-	<game name="Serious Sam - The Second Encounter (Asia, USA)">
-		<category>Games</category>
-		<description>Serious Sam - The Second Encounter (Asia, USA)</description>
-		<rom name="Serious Sam - The Second Encounter (Asia, USA).bin" size="616555632" crc="90a17fc4" md5="2299a45ba0dc4d436a8951b4b8ba1cd7" sha1="3c00b871515e6a690191ba855f3baa9b052d9a54"/>
-		<rom name="Serious Sam - The Second Encounter (Asia, USA).cue" size="112" crc="b3135da8" md5="f34bd7c6a154fa47f70a3c80ce80cba3" sha1="aaa6c8cd5504f3bd36b77b99cf5cb85afa0d4770"/>
-	</game>
 	<game name="Serious Sam - The Second Encounter (Europe) (En,Fr,De,Es,It) (Gold Edition)">
 		<category>Games</category>
 		<description>Serious Sam - The Second Encounter (Europe) (En,Fr,De,Es,It) (Gold Edition)</description>
 		<rom name="Serious Sam - The Second Encounter (Europe) (En,Fr,De,Es,It) (Gold Edition).bin" size="726222336" crc="dc79cae3" md5="fa1bebe4bf3b2eaeaf5e341126a2cae4" sha1="3ebb13a8101f206e75d30b00bd97037710eca4bc"/>
 		<rom name="Serious Sam - The Second Encounter (Europe) (En,Fr,De,Es,It) (Gold Edition).cue" size="141" crc="ef6ce03c" md5="971f2932c4b3ab240cb7e8dbde9e5272" sha1="a8ade127a2c9c18134eb38a0dfb9c35201d2ed34"/>
+	</game>
+	<game name="Serious Sam - The Second Encounter (USA, Asia)">
+		<category>Games</category>
+		<description>Serious Sam - The Second Encounter (USA, Asia)</description>
+		<rom name="Serious Sam - The Second Encounter (USA, Asia).bin" size="616555632" crc="90a17fc4" md5="2299a45ba0dc4d436a8951b4b8ba1cd7" sha1="3c00b871515e6a690191ba855f3baa9b052d9a54"/>
+		<rom name="Serious Sam - The Second Encounter (USA, Asia).cue" size="112" crc="c6be4c70" md5="e9e339a9ca1295177cd8e7ff855d2e5c" sha1="bab92849916d31be7061d3bb26c8a7721dfa3305"/>
 	</game>
 	<game name="Serious Sam 3 - BFE (Europe)">
 		<category>Games</category>

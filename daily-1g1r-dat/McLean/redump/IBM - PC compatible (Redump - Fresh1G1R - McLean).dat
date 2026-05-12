@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,064) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-10 20-29-18) (Retool)</description>
-		<version>2026-05-10 20-29-18</version>
-		<date>2026-05-11 03-25-21</date>
+		<description>IBM - PC compatible (13,064) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-12 02-57-06) (Retool)</description>
+		<version>2026-05-12 02-57-06</version>
+		<date>2026-05-12 03-20-45</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -5637,11 +5637,11 @@
 		<rom name="Arx Fatalis (Europe) (En,Fr,De) (52D18519).bin" size="759559584" crc="52d18519" md5="6bb9206f401517cfae8981cfbb330419" sha1="5166af24175d63d28f5c3c0d9afa2d1df53dfc83"/>
 		<rom name="Arx Fatalis (Europe) (En,Fr,De) (52D18519).cue" size="108" crc="23b7fbab" md5="9e3926996fbaff92a87a08ce6b639600" sha1="00f29f9feb520db27f615240985964fcb0dae6e8"/>
 	</game>
-	<game name="Arx Fatalis (World)">
+	<game name="Arx Fatalis (USA, Europe)">
 		<category>Games</category>
-		<description>Arx Fatalis (World)</description>
-		<rom name="Arx Fatalis (World).bin" size="693675360" crc="21252526" md5="558c5fc0e85d542b13cfa0cabc4668f1" sha1="4c65795c197fd4521099e03b81305c998d556052"/>
-		<rom name="Arx Fatalis (World).cue" size="85" crc="5aa3aca8" md5="683c7333f66b4677c651a5e125fae2d7" sha1="ada0fa34774e205f4b932750b713e6f2203f15b0"/>
+		<description>Arx Fatalis (USA, Europe)</description>
+		<rom name="Arx Fatalis (USA, Europe).bin" size="693675360" crc="21252526" md5="558c5fc0e85d542b13cfa0cabc4668f1" sha1="4c65795c197fd4521099e03b81305c998d556052"/>
+		<rom name="Arx Fatalis (USA, Europe).cue" size="91" crc="96e152ea" md5="93c939178eb8e1ba8ec3aba316aead17" sha1="2cc9d447d418f406dcf14f8db61941371c837d48"/>
 	</game>
 	<game name="Ascendancy (USA)">
 		<category>Games</category>
@@ -66518,11 +66518,11 @@
 		<rom name="Risk - The Game of Global Domination (USA).bin" size="351130080" crc="fd8832e2" md5="04092b4f0fbe8fc8cbf9e3bc560a091d" sha1="a5dec32f1a5edaae6ab2f81bfea698d891944593"/>
 		<rom name="Risk - The Game of Global Domination (USA).cue" size="108" crc="3ff47e47" md5="83c003ea2a84e601738f34d83f526e88" sha1="4e8d6635ab84e466f769725ea8ddc54bfa0337f8"/>
 	</game>
-	<game name="Risk - The World Conquest Game (Europe) (En,Fr,De) (Rerelease)">
+	<game name="Risk - The World Conquest Game (Europe) (En,Fr,De) (Rerelease) (1998-06-30)">
 		<category>Games</category>
-		<description>Risk - The World Conquest Game (Europe) (En,Fr,De) (Rerelease)</description>
-		<rom name="Risk - The World Conquest Game (Europe) (En,Fr,De) (Rerelease).bin" size="519044064" crc="1dda3872" md5="54316dc3c49c47e5b69d69e1e6c653c7" sha1="b8035c275e0a537064348ab37cb170cebcb76d78"/>
-		<rom name="Risk - The World Conquest Game (Europe) (En,Fr,De) (Rerelease).cue" size="128" crc="aa995446" md5="6aa7a1c4dd16acf15f0dd3f772184a87" sha1="f9577d4a91177305737fbd353c3721613ecbf2e5"/>
+		<description>Risk - The World Conquest Game (Europe) (En,Fr,De) (Rerelease) (1998-06-30)</description>
+		<rom name="Risk - The World Conquest Game (Europe) (En,Fr,De) (Rerelease) (1998-06-30).bin" size="501006576" crc="39b2053e" md5="344088fe0b4dd88479ba35d534c7c5e1" sha1="d2dface37e5e96e18a08be4830831be0c4a5a690"/>
+		<rom name="Risk - The World Conquest Game (Europe) (En,Fr,De) (Rerelease) (1998-06-30).cue" size="141" crc="84dcd064" md5="7f4b10c08b3647b2330ca559036ec187" sha1="9da736419b05b53064293ebaccdec7205b262b24"/>
 	</game>
 	<game name="Risk II (USA) (2000-02-25)">
 		<category>Games</category>
@@ -69855,17 +69855,17 @@
 		<rom name="Serious Sam - The First Encounter (USA, Canada).bin" size="576287040" crc="ae15688d" md5="6698ca2e9684be4580717dfa40c74ab4" sha1="d7b86a26a388d7398775d51b6a9e9405c7d8f396"/>
 		<rom name="Serious Sam - The First Encounter (USA, Canada).cue" size="113" crc="5c1ff179" md5="98049cd30a628df6b3f906af2f8d8b10" sha1="b3c283bb23b16112b1530a16527a5c6e7a5c41e0"/>
 	</game>
-	<game name="Serious Sam - The Second Encounter (Asia, USA)">
-		<category>Games</category>
-		<description>Serious Sam - The Second Encounter (Asia, USA)</description>
-		<rom name="Serious Sam - The Second Encounter (Asia, USA).bin" size="616555632" crc="90a17fc4" md5="2299a45ba0dc4d436a8951b4b8ba1cd7" sha1="3c00b871515e6a690191ba855f3baa9b052d9a54"/>
-		<rom name="Serious Sam - The Second Encounter (Asia, USA).cue" size="112" crc="b3135da8" md5="f34bd7c6a154fa47f70a3c80ce80cba3" sha1="aaa6c8cd5504f3bd36b77b99cf5cb85afa0d4770"/>
-	</game>
 	<game name="Serious Sam - The Second Encounter (Europe) (En,Fr,De,Es,It) (Gold Edition)">
 		<category>Games</category>
 		<description>Serious Sam - The Second Encounter (Europe) (En,Fr,De,Es,It) (Gold Edition)</description>
 		<rom name="Serious Sam - The Second Encounter (Europe) (En,Fr,De,Es,It) (Gold Edition).bin" size="726222336" crc="dc79cae3" md5="fa1bebe4bf3b2eaeaf5e341126a2cae4" sha1="3ebb13a8101f206e75d30b00bd97037710eca4bc"/>
 		<rom name="Serious Sam - The Second Encounter (Europe) (En,Fr,De,Es,It) (Gold Edition).cue" size="141" crc="ef6ce03c" md5="971f2932c4b3ab240cb7e8dbde9e5272" sha1="a8ade127a2c9c18134eb38a0dfb9c35201d2ed34"/>
+	</game>
+	<game name="Serious Sam - The Second Encounter (USA, Asia)">
+		<category>Games</category>
+		<description>Serious Sam - The Second Encounter (USA, Asia)</description>
+		<rom name="Serious Sam - The Second Encounter (USA, Asia).bin" size="616555632" crc="90a17fc4" md5="2299a45ba0dc4d436a8951b4b8ba1cd7" sha1="3c00b871515e6a690191ba855f3baa9b052d9a54"/>
+		<rom name="Serious Sam - The Second Encounter (USA, Asia).cue" size="112" crc="c6be4c70" md5="e9e339a9ca1295177cd8e7ff855d2e5c" sha1="bab92849916d31be7061d3bb26c8a7721dfa3305"/>
 	</game>
 	<game name="Serious Sam 3 - BFE (Europe)">
 		<category>Games</category>
