@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,089) (-y) [-aAbBcefkmMoprv] (2026-05-12 02-57-06) (Retool)</description>
-		<version>2026-05-12 02-57-06</version>
-		<date>2026-05-12 03-19-04</date>
+		<description>IBM - PC compatible (25,096) (-y) [-aAbBcefkmMoprv] (2026-05-13 01-01-40) (Retool)</description>
+		<version>2026-05-13 01-01-40</version>
+		<date>2026-05-13 03-19-30</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -16714,6 +16714,12 @@
 		<description>Beloe solnce pustyni (Russia) (Disc 2)</description>
 		<rom name="Beloe solnce pustyni (Russia) (Disc 2).bin" size="395592288" crc="911f947d" md5="440229f5e764066803d3910dccc4575c" sha1="f82d99fc833499f08411e257549a6fc85811f3e8"/>
 		<rom name="Beloe solnce pustyni (Russia) (Disc 2).cue" size="104" crc="6aeb9861" md5="dc32000e1ef7f07a27f3a94824d32629" sha1="20f27ed58364130e0d0d572015324f7480cd732f"/>
+	</game>
+	<game name="Bemazed (Netherlands)">
+		<category>Games</category>
+		<description>Bemazed (Netherlands)</description>
+		<rom name="Bemazed (Netherlands).bin" size="35355264" crc="34383879" md5="c9f5912d18a5380ed3154e3135a5fe69" sha1="93f495e9921914b87daed13cbbd0fdce1aeaaea9"/>
+		<rom name="Bemazed (Netherlands).cue" size="87" crc="3f4a3522" md5="c7b046df63ca077a7497d13a730ef512" sha1="4bc868406411d45b329e41d47d29b2f006928835"/>
 	</game>
 	<game name="Beneath a Steel Sky (USA) (En,Fr,De,Es,It,Pt,Sv)">
 		<category>Games</category>
@@ -58493,11 +58499,11 @@
 		<rom name="Game Series 49, The - Putter Golf (Japan).bin" size="180320784" crc="12a5de6d" md5="f31f99c3cdce132feeacaf5e29472381" sha1="25fa61eb67f54075f8c34b59970e62775c022ca6"/>
 		<rom name="Game Series 49, The - Putter Golf (Japan).cue" size="107" crc="25f149c0" md5="794b99ce27a21f2ba510626ef622db8f" sha1="343722dbd6539e5c7371d69fa7d95d743cb79ee3"/>
 	</game>
-	<game name="Game Series 5, The - Gomoku Narabe (Japan) (Rev 1)">
+	<game name="Game Series 5, The - Gomoku Narabe (Japan) (Rev 2)">
 		<category>Games</category>
-		<description>Game Series 5, The - Gomoku Narabe (Japan) (Rev 1)</description>
-		<rom name="Game Series 5, The - Gomoku Narabe (Japan) (Rev 1).bin" size="10050096" crc="9157f513" md5="6e491d751087830f3ac2d7352045c548" sha1="fd95bbe8fb8b6a46731dbdd2930d625eda4c379b"/>
-		<rom name="Game Series 5, The - Gomoku Narabe (Japan) (Rev 1).cue" size="116" crc="800470b2" md5="b991e8168be0e0c14188219aeca4735f" sha1="73ae9b162273b138ecd04abe511e7c9649806b97"/>
+		<description>Game Series 5, The - Gomoku Narabe (Japan) (Rev 2)</description>
+		<rom name="Game Series 5, The - Gomoku Narabe (Japan) (Rev 2).bin" size="12712560" crc="072f620c" md5="10c1c0e4ec750a64e210301cea5afc30" sha1="86a825ceb0b9b50286802859889f05a77a05fd2a"/>
+		<rom name="Game Series 5, The - Gomoku Narabe (Japan) (Rev 2).cue" size="116" crc="81595663" md5="2ac6527beb1868dfc265c9e08aa57c96" sha1="b85c2ae24941564525718090e16c1a0c5b0f4e73"/>
 	</game>
 	<game name="Game Series 5, The - Neo Billiard - Pocket Billiards 3 (Japan)">
 		<category>Games</category>
@@ -113942,6 +113948,12 @@
 		<rom name="Pickle Wars (Germany).bin" size="8808240" crc="804d5a7a" md5="f17a3d8dfd1b99543bb47b524fc7fd34" sha1="15e45cb2afa5339eac52c566724338fabd2a910e"/>
 		<rom name="Pickle Wars (Germany).cue" size="102" crc="74913270" md5="c66068b38b47b9ef5bcd252c95c749c7" sha1="635afd9a24578bf2b47607057e126e4e6e03f8b0"/>
 	</game>
+	<game name="Pickman 3D (Netherlands)">
+		<category>Games</category>
+		<description>Pickman 3D (Netherlands)</description>
+		<rom name="Pickman 3D (Netherlands).bin" size="45221904" crc="f1810a16" md5="05498706535bf5da2bf6ab06c8694ae2" sha1="8fb8029c8c920feeaab39e4289f9f35b89de1f03"/>
+		<rom name="Pickman 3D (Netherlands).cue" size="90" crc="0ff03718" md5="01bbf915f55c672dd2f508e2443ce1e3" sha1="e51d3a1d49fec565bbe51d6bc21d464d7bf0ecf3"/>
+	</game>
 	<game name="Pictionary (USA)">
 		<category>Games</category>
 		<description>Pictionary (USA)</description>
@@ -117889,6 +117901,12 @@
 		<description>Prezzemolo in una Giornata da Incubo (Italy)</description>
 		<rom name="Prezzemolo in una Giornata da Incubo (Italy).bin" size="353463264" crc="2c7cee53" md5="fad1944d75eeebc6a678f2657f0c0c38" sha1="503bf2b41b5b1f808ad6fae1233527ff941bb0db"/>
 		<rom name="Prezzemolo in una Giornata da Incubo (Italy).cue" size="110" crc="2f7a6e8a" md5="165946a2eeeb540d271d8b77d5a69114" sha1="b9e1e12f9d081578d679662ebcd7323386197914"/>
+	</game>
+	<game name="Prezzemolo in una Giornata da Incubo (Italy) (Demo)">
+		<category>Demos</category>
+		<description>Prezzemolo in una Giornata da Incubo (Italy) (Demo)</description>
+		<rom name="Prezzemolo in una Giornata da Incubo (Italy) (Demo).bin" size="201728688" crc="707e7e1f" md5="1fae16dbfff3ce3e62119afc283992b1" sha1="7f93df1d398331359d0c104b2e5fe15e4fa56be6"/>
+		<rom name="Prezzemolo in una Giornata da Incubo (Italy) (Demo).cue" size="117" crc="fbe3b389" md5="22ab76f20e65b743372d59e1655ddbd3" sha1="631da5ef1c47a8ddcee7ba0e9101ff902238a8fd"/>
 	</game>
 	<game name="Pride of Nations - Vainglory of Empires 1850-1920 (Germany) (En,Fr,De)">
 		<category>Games</category>
@@ -123438,11 +123456,11 @@
 		<rom name="Real Deal 2, The (USA).bin" size="743069712" crc="f1aff055" md5="c2c7f30804f06ca3f70b8286722d5d40" sha1="a3ced1f5fa10bd80596097b501db030c3a176b2e"/>
 		<rom name="Real Deal 2, The (USA).cue" size="111" crc="bed1fda4" md5="5ba1c7aa5ccffcf1466d203029f694ef" sha1="d933af61d36283cd0874c8331c419bf57c9ad062"/>
 	</game>
-	<game name="Real Deal Mega Solitaire, The (USA) (Rerelease)">
+	<game name="Real Deal Mega Solitaire, The (USA)">
 		<category>Games</category>
-		<description>Real Deal Mega Solitaire, The (USA) (Rerelease)</description>
-		<rom name="Real Deal Mega Solitaire, The (USA) (Rerelease).bin" size="59430336" crc="86501ee6" md5="05c1a992aa7c513788f79c748a9c1609" sha1="709997e8b2c37c9189c7a8b7368f33959a09d5fa"/>
-		<rom name="Real Deal Mega Solitaire, The (USA) (Rerelease).cue" size="113" crc="7e117043" md5="6afbf819e607143af93ec392c473a55d" sha1="13374dcf253d43bc451735351f6e98f7099fe208"/>
+		<description>Real Deal Mega Solitaire, The (USA)</description>
+		<rom name="Real Deal Mega Solitaire, The (USA).bin" size="81546192" crc="75bcbdb4" md5="205864cc53df2b2364e5cd3e29260ee8" sha1="4d9f0e4f10563154ad5d2fed746f706b38502dbb"/>
+		<rom name="Real Deal Mega Solitaire, The (USA).cue" size="101" crc="80568c36" md5="0389088e17f0242f0b9263c202fe0b20" sha1="3ee4db3655c81edd3d23a1b488c6266122c7ff1b"/>
 	</game>
 	<game name="Real Pool (USA)">
 		<category>Games</category>
@@ -132358,6 +132376,12 @@
 		<rom name="Scrabble (USA) (General Mills).bin" size="426768048" crc="e95f0f6b" md5="02458afa8ef2b3ac36f896ced5de1315" sha1="5d1adab4665883b1d62e9ecaae90cdadf9933f12"/>
 		<rom name="Scrabble (USA) (General Mills).cue" size="96" crc="b01e0729" md5="64a45ce2a339378dbf81ac21a62c67d8" sha1="b4b0773f033f4e3b85841862f3486b8516e21f7f"/>
 	</game>
+	<game name="Scrabble - 2003 Edition (Europe) (En,Fr,De,Nl) (Demo)">
+		<category>Demos</category>
+		<description>Scrabble - 2003 Edition (Europe) (En,Fr,De,Nl) (Demo)</description>
+		<rom name="Scrabble - 2003 Edition (Europe) (En,Fr,De,Nl) (Demo).bin" size="205263744" crc="3f7dec16" md5="241aa6ae3c01cd200791fd8834978bb2" sha1="e4d906b54243be8a2a2ffac4278e50ffc8ce1939"/>
+		<rom name="Scrabble - 2003 Edition (Europe) (En,Fr,De,Nl) (Demo).cue" size="119" crc="6eb1bbcd" md5="3ebcc656a6036a10f686f9b0d6c13ead" sha1="3dcabd2938e4f29ea567dafaeebdc2c9108d4c4a"/>
+	</game>
 	<game name="Scrabble - Champion Edition (USA)">
 		<category>Games</category>
 		<description>Scrabble - Champion Edition (USA)</description>
@@ -138532,10 +138556,10 @@
 		<rom name="Silent Hunter - Patrol Disk 2 (Germany).bin" size="14467152" crc="c3fa4c6d" md5="de84721f6cf527439d54368a27dce05d" sha1="6d5204cabaaa28606118f69a08a72259d168ecf8"/>
 		<rom name="Silent Hunter - Patrol Disk 2 (Germany).cue" size="128" crc="83066e82" md5="1cd797904830668ce2c8eaf3bdc66596" sha1="b0bf718477e935e3548d66a5b6deedb0ba56de53"/>
 	</game>
-	<game name="Silent Hunter - Wolves of the Pacific (USA)">
+	<game name="Silent Hunter - Wolves of the Pacific (USA) (En,Fr,Es)">
 		<category>Games</category>
-		<description>Silent Hunter - Wolves of the Pacific (USA)</description>
-		<rom name="Silent Hunter - Wolves of the Pacific (USA).iso" size="4173987840" crc="8e70b76e" md5="d425e010a7218698ec4328a2f964881c" sha1="a4ee107af458654f4fa35e88c6a2e8a54f8b919e"/>
+		<description>Silent Hunter - Wolves of the Pacific (USA) (En,Fr,Es)</description>
+		<rom name="Silent Hunter - Wolves of the Pacific (USA) (En,Fr,Es).iso" size="4173987840" crc="8acff0ae" md5="bb58d6ab1077eb8358e5b5692913855e" sha1="3493bb163925ef02e619e1c4a37ea223891ad3db"/>
 	</game>
 	<game name="Silent Hunter 4 - Wolves of the Pacific (Europe) (En,Fr,De,Es)">
 		<category>Games</category>
@@ -144745,6 +144769,12 @@
 		<category>Add-Ons</category>
 		<description>Spore - Galactic Adventures (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu)</description>
 		<rom name="Spore - Galactic Adventures (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu).iso" size="2327445504" crc="5076628d" md5="2a4a23de98a749f2a64bec44b5693c9b" sha1="146ae4276efa2b584d0776f134b48b71f18eae42"/>
+	</game>
+	<game name="Sporting Clays (Japan)">
+		<category>Games</category>
+		<description>Sporting Clays (Japan)</description>
+		<rom name="Sporting Clays (Japan).bin" size="43629600" crc="05e33197" md5="dc34e5be36d3cddf351bf23fbeecc469" sha1="23c8252d82b667ae4098c9e65c9cb84a5bc82dae"/>
+		<rom name="Sporting Clays (Japan).cue" size="88" crc="8fcd43ae" md5="78d69f8d95bb01a065c3e9b0e2e3d2f5" sha1="af405b2e5c74241bf6f72a61be1ffa2d17735ab3"/>
 	</game>
 	<game name="Sporting Clays - Interactive Shooting Simulation (USA)">
 		<category>Games</category>
@@ -153330,6 +153360,12 @@
 		<description>Tetrix Classics (Europe)</description>
 		<rom name="Tetrix Classics (Europe).bin" size="40339152" crc="48d7e109" md5="a7b3791a1bc3a173bf557a76e15b119a" sha1="ad8f593bb290c60b33c621ae5d34cb131e2cbae5"/>
 		<rom name="Tetrix Classics (Europe).cue" size="90" crc="7961a9bd" md5="72a35fb20bab2cd1bac5232389477b6f" sha1="e34ab3785dfee85f2d36d2220da86a35f85f4ace"/>
+	</game>
+	<game name="Tetrix Pack 1 (Netherlands)">
+		<category>Games</category>
+		<description>Tetrix Pack 1 (Netherlands)</description>
+		<rom name="Tetrix Pack 1 (Netherlands).bin" size="50796144" crc="966b4d8e" md5="df2cdd70d9bc992662288fea0e15cebf" sha1="c273d43d45779c3fce1a71c2166cbcce397036bb"/>
+		<rom name="Tetrix Pack 1 (Netherlands).cue" size="93" crc="94bed8d3" md5="33b9d49a716232a5add7111671be90b9" sha1="440e9bdd331e07436469039f6fb9165a6fb9e4f1"/>
 	</game>
 	<game name="Tetro Conektum (Germany)">
 		<category>Games</category>
@@ -168002,6 +168038,12 @@
 		<description>Waterworld (Europe) (En,Fr,De)</description>
 		<rom name="Waterworld (Europe) (En,Fr,De).bin" size="638692656" crc="972e18e0" md5="c008cde38a0d1c5b52c33a5ee4174fc0" sha1="38f007089ea4ff42302a3a62e7245e47d22bcb36"/>
 		<rom name="Waterworld (Europe) (En,Fr,De).cue" size="119" crc="8aa62b1d" md5="915a3dd1ebe9399f7db59bc34d38cf0b" sha1="ca481fa79bd891d4330998a0d4537f8d567a1a5a"/>
+	</game>
+	<game name="Waveball (Netherlands)">
+		<category>Games</category>
+		<description>Waveball (Netherlands)</description>
+		<rom name="Waveball (Netherlands).bin" size="49269696" crc="55a17d4b" md5="242d4da7c55f0b8e774abe52bb180784" sha1="0ff274fa84c7f193b5970aa3f614049a861c2956"/>
+		<rom name="Waveball (Netherlands).cue" size="88" crc="b6be5650" md5="e9381e8f00b2040b55fd143d0030ac28" sha1="b6add1cd099b41f5cf0447178c83c83b72524252"/>
 	</game>
 	<game name="Way Cool Arcade Games for Windows (USA)">
 		<category>Games</category>
