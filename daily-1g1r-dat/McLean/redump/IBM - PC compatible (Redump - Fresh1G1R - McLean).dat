@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,064) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-13 01-01-40) (Retool)</description>
-		<version>2026-05-13 01-01-40</version>
-		<date>2026-05-13 03-21-12</date>
+		<description>IBM - PC compatible (13,065) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-13 16-20-52) (Retool)</description>
+		<version>2026-05-13 16-20-52</version>
+		<date>2026-05-14 03-22-37</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -82583,6 +82583,12 @@
 		<description>Touche-Coule (France) (En,Fr,De) (Disc B)</description>
 		<rom name="Touche-Coule (France) (En,Fr,De) (Disc B).bin" size="670240032" crc="53750ab7" md5="9e4661e2176ff4bc4fa97d95cf2b8a61" sha1="03386b1e85008ccdacaa5ce55ee53c0ea13ab051"/>
 		<rom name="Touche-Coule (France) (En,Fr,De) (Disc B).cue" size="130" crc="315d84fa" md5="f3fb57e8f582ae74be84ff68ec1049d4" sha1="5bcee0266823f08a35ea51dde5b849a3d63b420e"/>
+	</game>
+	<game name="Tournament Chess (USA)">
+		<category>Games</category>
+		<description>Tournament Chess (USA)</description>
+		<rom name="Tournament Chess (USA).bin" size="39638256" crc="179d7baa" md5="7c18a60c03b6fffdecd2f590233de9db" sha1="d476acb09ca05d4be65da7e910ebcbb4037490ee"/>
+		<rom name="Tournament Chess (USA).cue" size="88" crc="a5f34af5" md5="d85b7f2b994ebaf04dc3da6cfc17e6e7" sha1="16946c8ab68e166c1c015d57323f107d6bb2f772"/>
 	</game>
 	<game name="Tow Truck Simulator (Europe)">
 		<category>Games</category>
