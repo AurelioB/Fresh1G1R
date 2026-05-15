@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,065) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-13 16-20-52) (Retool)</description>
-		<version>2026-05-13 16-20-52</version>
-		<date>2026-05-14 03-22-37</date>
+		<description>IBM - PC compatible (13,068) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-14 16-12-38) (Retool)</description>
+		<version>2026-05-14 16-12-38</version>
+		<date>2026-05-15 03-24-42</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -30397,6 +30397,12 @@
 		<rom name="Fox Hunt (USA) (Disc 3).bin" size="722183952" crc="d92ef551" md5="05d76c0f7f821054a678d610a179bf0e" sha1="665ae73fe0c92961921adbf3dad3446f8230c234"/>
 		<rom name="Fox Hunt (USA) (Disc 3).cue" size="112" crc="7ccb06af" md5="466c4844467318943cfaca44ca587fc8" sha1="8fe2b5644cb7bbc19c7a2c02e8a9a63b3a10d446"/>
 	</game>
+	<game name="Fox Jones and the Treasures of El Dorado (Lithuania) (En,Pl)">
+		<category>Games</category>
+		<description>Fox Jones and the Treasures of El Dorado (Lithuania) (En,Pl)</description>
+		<rom name="Fox Jones and the Treasures of El Dorado (Lithuania) (En,Pl).bin" size="25801440" crc="c0007d8f" md5="e18b73850789a6ba555f9e34e6ad0d3c" sha1="21e458f39c04a66749fde6e567f2201ebea6f861"/>
+		<rom name="Fox Jones and the Treasures of El Dorado (Lithuania) (En,Pl).cue" size="126" crc="bd8803c2" md5="f70f4f200bd71e8fdfbe9ef6d1b8bc7e" sha1="23ceaadb0818381a971f7e7ecedc4668d5782cff"/>
+	</game>
 	<game name="Fox Kids Presents Speedy Eggbert (USA)">
 		<category>Games</category>
 		<description>Fox Kids Presents Speedy Eggbert (USA)</description>
@@ -55926,6 +55932,18 @@
 		<description>Nexus - The Jupiter Incident (USA) (Disc 2)</description>
 		<rom name="Nexus - The Jupiter Incident (USA) (Disc 2).bin" size="696525984" crc="3f07b542" md5="b7da509622a4c0c4cd647795fe7622c5" sha1="7305d808043a201ae201e4a464b57c87fbcb5466"/>
 		<rom name="Nexus - The Jupiter Incident (USA) (Disc 2).cue" size="109" crc="086e4f61" md5="05f3d6d5be59043ca47626b283ad1b6d" sha1="edff61156c1992beaa00d46715cc6da2e7400650"/>
+	</game>
+	<game name="Ni.Bi.Ru - The Messenger of the Gods (Slovakia) (Disc 1)">
+		<category>Games</category>
+		<description>Ni.Bi.Ru - The Messenger of the Gods (Slovakia) (Disc 1)</description>
+		<rom name="Ni.Bi.Ru - The Messenger of the Gods (Slovakia) (Disc 1).bin" size="758442384" crc="0ceae2a4" md5="ae6013ee1eb2fe49c78f6a55edf9d1e9" sha1="0fb4e9eb27a32b0dfece2f5df2bc5eed084b2b89"/>
+		<rom name="Ni.Bi.Ru - The Messenger of the Gods (Slovakia) (Disc 1).cue" size="122" crc="19168106" md5="74cb6e97212623cf412d17c1dde6bc86" sha1="5bf2b243634ad17940dffb9ab96ed1410923521f"/>
+	</game>
+	<game name="Ni.Bi.Ru - The Messenger of the Gods (Slovakia) (Disc 2)">
+		<category>Games</category>
+		<description>Ni.Bi.Ru - The Messenger of the Gods (Slovakia) (Disc 2)</description>
+		<rom name="Ni.Bi.Ru - The Messenger of the Gods (Slovakia) (Disc 2).bin" size="491243424" crc="58396611" md5="643ef9c696a154c79890ade4a19ceac9" sha1="f16bb95e2ebb2a148f55de00b9385d0a6512c2c5"/>
+		<rom name="Ni.Bi.Ru - The Messenger of the Gods (Slovakia) (Disc 2).cue" size="122" crc="184ba7d7" md5="4b498593d7dd6d9a7cf0da04198cf588" sha1="098221c7a1a2e2d688d9e7740d46332cf7c1f1c5"/>
 	</game>
 	<game name="NiBiRu - Age of Secrets (USA, Canada) (Disc 1)">
 		<category>Games</category>

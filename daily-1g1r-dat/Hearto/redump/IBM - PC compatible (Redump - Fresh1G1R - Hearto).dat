@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,097) (-y) [-aAbBcefkmMoprv] (2026-05-13 16-20-52) (Retool)</description>
-		<version>2026-05-13 16-20-52</version>
-		<date>2026-05-14 03-20-55</date>
+		<description>IBM - PC compatible (25,104) (-y) [-aAbBcefkmMoprv] (2026-05-14 16-12-38) (Retool)</description>
+		<version>2026-05-14 16-12-38</version>
+		<date>2026-05-15 03-22-58</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -28208,6 +28208,12 @@
 		<rom name="Colobot (Poland) (Rerelease) (Track 13).bin" size="34863696" crc="0789c581" md5="b4376a9d497264595ea4ee96087e98f0" sha1="dcf003a181da10ce8266a21cb8f2c07f1f314ec1"/>
 		<rom name="Colobot (Poland) (Rerelease).cue" size="1581" crc="fd33d0f2" md5="dd07b73b9e8359d69a1aa148bd0c3b75" sha1="831cf08402373f696f7a4366ffb4a40cc01b7739"/>
 	</game>
+	<game name="Colony 28 (Czech)">
+		<category>Games</category>
+		<description>Colony 28 (Czech)</description>
+		<rom name="Colony 28 (Czech).bin" size="531342672" crc="a4e0d5e9" md5="3c61fda6dd9d5742f6d636ca44033a2c" sha1="0d02f6ddb676b9a54e5d62507025dfa3b27f81da"/>
+		<rom name="Colony 28 (Czech).cue" size="106" crc="09dd293a" md5="0f43fd8a68ac259e2ef765bf75f14384" sha1="bea34f090c4758ca0df8ec6c8ec4defafb78b96b"/>
+	</game>
 	<game name="Coloropus (Germany)">
 		<category>Games</category>
 		<description>Coloropus (Germany)</description>
@@ -55581,6 +55587,12 @@
 		<rom name="Fox Hunt (USA) (Disc 3).bin" size="722183952" crc="d92ef551" md5="05d76c0f7f821054a678d610a179bf0e" sha1="665ae73fe0c92961921adbf3dad3446f8230c234"/>
 		<rom name="Fox Hunt (USA) (Disc 3).cue" size="112" crc="7ccb06af" md5="466c4844467318943cfaca44ca587fc8" sha1="8fe2b5644cb7bbc19c7a2c02e8a9a63b3a10d446"/>
 	</game>
+	<game name="Fox Jones and the Treasures of El Dorado (Lithuania) (En,Pl)">
+		<category>Games</category>
+		<description>Fox Jones and the Treasures of El Dorado (Lithuania) (En,Pl)</description>
+		<rom name="Fox Jones and the Treasures of El Dorado (Lithuania) (En,Pl).bin" size="25801440" crc="c0007d8f" md5="e18b73850789a6ba555f9e34e6ad0d3c" sha1="21e458f39c04a66749fde6e567f2201ebea6f861"/>
+		<rom name="Fox Jones and the Treasures of El Dorado (Lithuania) (En,Pl).cue" size="126" crc="bd8803c2" md5="f70f4f200bd71e8fdfbe9ef6d1b8bc7e" sha1="23ceaadb0818381a971f7e7ecedc4668d5782cff"/>
+	</game>
 	<game name="Fox Kids Presents Speedy Eggbert (USA)">
 		<category>Games</category>
 		<description>Fox Kids Presents Speedy Eggbert (USA)</description>
@@ -78334,6 +78346,12 @@
 		<description>Jurassic War (Germany)</description>
 		<rom name="Jurassic War (Germany).bin" size="253416240" crc="ef85f8b8" md5="c9607621ca2a0e9daa0df8bddaba8241" sha1="40c9c14e961cf554c858041586c351de6d06cb7b"/>
 		<rom name="Jurassic War (Germany).cue" size="111" crc="448f489e" md5="9df1a6d3a5cc950993cfe773319f0d15" sha1="fd748ceda41a151ee7a483ec81eccfedcbf8d9c7"/>
+	</game>
+	<game name="Jurek Ogorek czyli ortografia na wesolo (Poland)">
+		<category>Games</category>
+		<description>Jurek Ogorek czyli ortografia na wesolo (Poland)</description>
+		<rom name="Jurek Ogorek czyli ortografia na wesolo (Poland).bin" size="791798448" crc="bcc1d5fa" md5="9838849caf5c4517f35b7622f247d39b" sha1="2422a6875ca4ed5a2d7d97993856cd1b025003d7"/>
+		<rom name="Jurek Ogorek czyli ortografia na wesolo (Poland).cue" size="114" crc="45d6e416" md5="acf0eaa332d77c25dd043ab73ed97079" sha1="91fa2613cf52f1227b9cda5eddf2f04eae081097"/>
 	</game>
 	<game name="Just Cause (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -105767,6 +105785,18 @@
 		<rom name="Ni-Bi-Ru - Messaggero degli Dei (Italy) (Disc 2).bin" size="325662624" crc="7b5df6a5" md5="c248667583a191fc8aff9972fcfbece9" sha1="aa300cd71306fa50ac5d116617ff7f8eb653f8db"/>
 		<rom name="Ni-Bi-Ru - Messaggero degli Dei (Italy) (Disc 2).cue" size="114" crc="c7b0dd76" md5="e7b40eb0b0207dfe132a23ff3c481510" sha1="834966bbfd895c4d249f21d0d66eb9f413b62c89"/>
 	</game>
+	<game name="Ni.Bi.Ru - The Messenger of the Gods (Slovakia) (Disc 1)">
+		<category>Games</category>
+		<description>Ni.Bi.Ru - The Messenger of the Gods (Slovakia) (Disc 1)</description>
+		<rom name="Ni.Bi.Ru - The Messenger of the Gods (Slovakia) (Disc 1).bin" size="758442384" crc="0ceae2a4" md5="ae6013ee1eb2fe49c78f6a55edf9d1e9" sha1="0fb4e9eb27a32b0dfece2f5df2bc5eed084b2b89"/>
+		<rom name="Ni.Bi.Ru - The Messenger of the Gods (Slovakia) (Disc 1).cue" size="122" crc="19168106" md5="74cb6e97212623cf412d17c1dde6bc86" sha1="5bf2b243634ad17940dffb9ab96ed1410923521f"/>
+	</game>
+	<game name="Ni.Bi.Ru - The Messenger of the Gods (Slovakia) (Disc 2)">
+		<category>Games</category>
+		<description>Ni.Bi.Ru - The Messenger of the Gods (Slovakia) (Disc 2)</description>
+		<rom name="Ni.Bi.Ru - The Messenger of the Gods (Slovakia) (Disc 2).bin" size="491243424" crc="58396611" md5="643ef9c696a154c79890ade4a19ceac9" sha1="f16bb95e2ebb2a148f55de00b9385d0a6512c2c5"/>
+		<rom name="Ni.Bi.Ru - The Messenger of the Gods (Slovakia) (Disc 2).cue" size="122" crc="184ba7d7" md5="4b498593d7dd6d9a7cf0da04198cf588" sha1="098221c7a1a2e2d688d9e7740d46332cf7c1f1c5"/>
+	</game>
 	<game name="NiBiRu - Age of Secrets (USA, Canada) (Disc 1)">
 		<category>Games</category>
 		<description>NiBiRu - Age of Secrets (USA, Canada) (Disc 1)</description>
@@ -116296,6 +116326,11 @@
 		<rom name="Polaris SnoCross (USA) (Track 10).bin" size="41830320" crc="5e205ca5" md5="f85003a8ef6747e3396bb12f015eb433" sha1="b6d4fc93869ef1cd93acc5b91deaec6659112a15"/>
 		<rom name="Polaris SnoCross (USA) (Track 11).bin" size="33682992" crc="c0ab319d" md5="880f4485876f6ea810dd0ea30948fd8a" sha1="3f36c8a07e7d8bf9596e61e49815a5510b4f6a64"/>
 		<rom name="Polaris SnoCross (USA).cue" size="1269" crc="bf1d2a47" md5="f90a8bb3554281c8bd4b7462beced517" sha1="3bb69385034104e5cd65a0984a9ce4105986aad1"/>
+	</game>
+	<game name="Polda 1-5 (Czech)">
+		<category>Games</category>
+		<description>Polda 1-5 (Czech)</description>
+		<rom name="Polda 1-5 (Czech).iso" size="2006188032" crc="19b903ee" md5="801007276870b44ecc587423d7365772" sha1="0fa1601c1620b465aff264e03ca08ccd9c632ea0"/>
 	</game>
 	<game name="Polda 2 (Czech)">
 		<category>Games</category>
@@ -178174,5 +178209,11 @@
 		<description>van Gansewinkel Afvalspel, Het (Netherlands)</description>
 		<rom name="van Gansewinkel Afvalspel, Het (Netherlands).bin" size="102403728" crc="5a0c1eb2" md5="780a7c64730ce8052314f6f7741ff0b6" sha1="4f64b571fa9720657297f05457229c9adb70178a"/>
 		<rom name="van Gansewinkel Afvalspel, Het (Netherlands).cue" size="110" crc="72655548" md5="217359206477331c1555fe6695bee3c7" sha1="4715fd8d533cbc16ae7db61e5bb31124b3a569d2"/>
+	</game>
+	<game name="www.vojak.cz (Czech)">
+		<category>Games</category>
+		<description>www.vojak.cz (Czech)</description>
+		<rom name="www.vojak.cz (Czech).bin" size="739504080" crc="e2c31ca6" md5="f341b5f6bf25c600713683a9003f08e0" sha1="80d220fc199e98facd8058d0a537812b3f256c7e"/>
+		<rom name="www.vojak.cz (Czech).cue" size="86" crc="02aad6df" md5="1936095310af2698bbeba40568e810be" sha1="ff08e391449c5cc0e5d00eb7e45c03cde948dbf2"/>
 	</game>
 </datafile>
