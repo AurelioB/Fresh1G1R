@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,665) (-y) [-aAbBcdkmMpPuv] (2026-05-15 23-50-13) (Retool)</description>
-		<version>2026-05-15 23-50-13</version>
-		<date>2026-05-16 03-53-00</date>
+		<description>IBM - PC compatible (25,675) (-y) [-aAbBcdkmMpPuv] (2026-05-17 05-06-01) (Retool)</description>
+		<version>2026-05-17 05-06-01</version>
+		<date>2026-05-17 03-33-34</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -18614,6 +18614,12 @@
 		<category>Games</category>
 		<description>Bishoujo Youkai Choubukuden Nubatama (Japan)</description>
 		<rom name="Bishoujo Youkai Choubukuden Nubatama (Japan).iso" size="812384256" crc="93f26d7f" md5="51a6264bf38764135c3304c671ecd9ff" sha1="c2e38acfcb1d78d3cfa148b50e81452b886f093c"/>
+	</game>
+	<game name="Bistro 2, The - Sekai ni Chousen!! (Japan)">
+		<category>Games</category>
+		<description>Bistro 2, The - Sekai ni Chousen!! (Japan)</description>
+		<rom name="Bistro 2, The - Sekai ni Chousen!! (Japan).bin" size="169017072" crc="9314894c" md5="8c6707f034eeaafd27831d3a12956834" sha1="901804495ffc27560ad8d9573bf46f3a49272ec5"/>
+		<rom name="Bistro 2, The - Sekai ni Chousen!! (Japan).cue" size="131" crc="403601d1" md5="f0019d231e0a3f28517d279467672206" sha1="cf7448c62f4ad82696093569468a5d593530b162"/>
 	</game>
 	<game name="Bistro Cupid (Japan) (Disc 1)">
 		<category>Games</category>
@@ -51406,6 +51412,12 @@
 		<rom name="FLW Professional Bass Tournament 2000 (USA).bin" size="745294704" crc="d46e6fa9" md5="9034f881244e547f70893035daea18fc" sha1="21e5664e43f8161f3a11d637b145716b4a1281e0"/>
 		<rom name="FLW Professional Bass Tournament 2000 (USA).cue" size="109" crc="3ad8468d" md5="1d15f5d9d6043e0c5bf3474e7e779d4a" sha1="d0d7c3923b8597c4b07911a8b5b51222330d0776"/>
 	</game>
+	<game name="FS Add-on Collection - Shin-Ishigaki Kuukou, Miyako Kuukou for Microsoft Flight Simulator X (Japan)">
+		<category>Add-Ons</category>
+		<description>FS Add-on Collection - Shin-Ishigaki Kuukou, Miyako Kuukou for Microsoft Flight Simulator X (Japan)</description>
+		<rom name="FS Add-on Collection - Shin-Ishigaki Kuukou, Miyako Kuukou for Microsoft Flight Simulator X (Japan).bin" size="696718848" crc="d4bf3d5a" md5="6f30607609c5987568f0d93665d75ef4" sha1="1a2d633a38c3abbe534a0d28c3c946af3b01958c"/>
+		<rom name="FS Add-on Collection - Shin-Ishigaki Kuukou, Miyako Kuukou for Microsoft Flight Simulator X (Japan).cue" size="165" crc="ea321918" md5="a6fd1d3d8cbc23caa6037b25d2cffe94" sha1="c16fc4af7b5e6b0be28815ee0d955aaf8a2992f8"/>
+	</game>
 	<game name="FS Clouds 98 (UK)">
 		<category>Add-Ons</category>
 		<description>FS Clouds 98 (UK)</description>
@@ -55456,11 +55468,11 @@
 		<description>Flockers (Australia)</description>
 		<rom name="Flockers (Australia).iso" size="3367483392" crc="e212c2d4" md5="4061b47b69007c3133588133efbf5119" sha1="e730387cb5a82979db81146c103d5e52d549ab4c"/>
 	</game>
-	<game name="Floddertje - Tante is jarig (Netherlands)">
+	<game name="Floddertje - Tante Is Jarig (Netherlands)">
 		<category>Games</category>
-		<description>Floddertje - Tante is jarig (Netherlands)</description>
-		<rom name="Floddertje - Tante is jarig (Netherlands).bin" size="221715984" crc="57a2e700" md5="24072c096cf52b5eaa62ce114caad66d" sha1="9ec6190267cb48811b1f347e002a8d508a97d867"/>
-		<rom name="Floddertje - Tante is jarig (Netherlands).cue" size="107" crc="042dde8f" md5="ea5b9aa7b2f65cd535ff0f00cdb5cbd0" sha1="f4e62a0c7f756f7742ef891af5cb581084331c2f"/>
+		<description>Floddertje - Tante Is Jarig (Netherlands)</description>
+		<rom name="Floddertje - Tante Is Jarig (Netherlands).bin" size="221715984" crc="57a2e700" md5="24072c096cf52b5eaa62ce114caad66d" sha1="9ec6190267cb48811b1f347e002a8d508a97d867"/>
+		<rom name="Floddertje - Tante Is Jarig (Netherlands).cue" size="107" crc="8d454695" md5="facd4aba9331bcb34eb593ab2eefec1c" sha1="c91af1dae47cf95e2b9d561e00503591087f38f9"/>
 	</game>
 	<game name="Flojd (Poland) (Disc 1)">
 		<category>Games</category>
@@ -59217,11 +59229,59 @@
 		<rom name="Game Series 17, The - Beach Volley (Japan).bin" size="91989072" crc="af2fa59d" md5="2b3b286ce890ffa4ae8cb1bc326783b2" sha1="534eb4b650bc94ec0eaed4f4feaea68db5051345"/>
 		<rom name="Game Series 17, The - Beach Volley (Japan).cue" size="108" crc="f221d00a" md5="564f628e0a2f16ed477acf5282472693" sha1="94ebcdb387a911bdd65042f5233f82ce810b6a78"/>
 	</game>
+	<game name="Game Series 17, The - Block Baster (Japan)">
+		<category>Games</category>
+		<description>Game Series 17, The - Block Baster (Japan)</description>
+		<rom name="Game Series 17, The - Block Baster (Japan).bin" size="54190080" crc="4db474ab" md5="4073cbd2335f8a4450f8b1562a6b560a" sha1="62471a23f0a1d1b433651cc8bc1f3c5ae97708c9"/>
+		<rom name="Game Series 17, The - Block Baster (Japan).cue" size="108" crc="572ce04f" md5="d72e38179eba67426ccc569c7a8380bc" sha1="6781fcbffcf86b6ac7590f4544e5bcf4b22bc858"/>
+	</game>
 	<game name="Game Series 18, The - Monster Simulation - Amvalit (Japan)">
 		<category>Games</category>
 		<description>Game Series 18, The - Monster Simulation - Amvalit (Japan)</description>
 		<rom name="Game Series 18, The - Monster Simulation - Amvalit (Japan).bin" size="53324544" crc="3245b40d" md5="c57d2b2c5594520d57762f823fad4b56" sha1="328c47ba9f456384a0e27a0659f19db084a5730c"/>
 		<rom name="Game Series 18, The - Monster Simulation - Amvalit (Japan).cue" size="124" crc="e6f9fa3e" md5="9ac6ab0bc82face06900dc92bf84d5dc" sha1="c8af8e2e7be114ebcb2b9bad2d646aefd296d1c0"/>
+	</game>
+	<game name="Game Series 18, The - The Shooting (Japan)">
+		<category>Games</category>
+		<description>Game Series 18, The - The Shooting (Japan)</description>
+		<rom name="Game Series 18, The - The Shooting (Japan).bin" size="46691904" crc="c55e49db" md5="1c4f15acf3d80b7516e90fc60a754fce" sha1="875d1f88b9a26a781548369f137923294ad0caf8"/>
+		<rom name="Game Series 18, The - The Shooting (Japan).cue" size="108" crc="3757d1f1" md5="67f4596fc9357652a84e2227efef5e4e" sha1="673ba84f85b09ad844c6960bf0478fe11c9146bd"/>
+	</game>
+	<game name="Game Series 19, The - Mogura Daisensou - Twigger (Japan)">
+		<category>Games</category>
+		<description>Game Series 19, The - Mogura Daisensou - Twigger (Japan)</description>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 01).bin" size="142886352" crc="5e24681e" md5="71b7d42f350dd0ae721cfc09b17255b8" sha1="6213effc5d98371fc1dd2c671f2f285a737a00f2"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 02).bin" size="48921600" crc="75657af1" md5="1424f8991b0772673fa70ed2b12486ec" sha1="533b2ef1a16615628c1c311cd68f1d59ad1bed09"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 03).bin" size="23684640" crc="5c72fc9a" md5="f9ac45da070e82c4e437fc6a4c56225f" sha1="d472500021196bce549d0152259f0a9c379335f5"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 04).bin" size="9306864" crc="4e5b82de" md5="f3c78ac6b9de42252bc90f2aa9acc2b4" sha1="c60ef15fa0d2a93777427da84d571489565388d9"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 05).bin" size="20890464" crc="e7532f0b" md5="8b804a5cb0a56f145af8915fe341ae77" sha1="d821675157042dff14d0584ecf9474ebb5635e5b"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 06).bin" size="26561136" crc="06bb9f5c" md5="aeb285c6aad3a676f720712f28b1e221" sha1="daeb30c5abc8971f73c888ed3f4c7d65cd635c97"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 07).bin" size="22917888" crc="7ce67649" md5="a759851ead87836e597ae8ce6f09a724" sha1="f5420bdd603f176919d3de5d01e65c26f5fe48aa"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 08).bin" size="31483872" crc="b074a127" md5="6de715b9103bff13d404b9795c3dfd3a" sha1="2a62c657dbad1739035a402de7181fc96e22bd31"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 09).bin" size="30162048" crc="ff4f9111" md5="92b0d9332cb598f2520818fd66c2f9aa" sha1="8cd0ded42453f595a617d9b185f0030ba3b242a7"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 10).bin" size="27807696" crc="90192ef6" md5="6ff9fa231f82bf8180c974107c7b13e3" sha1="a6c4d0bb5551a92b47de047edf83d71757e61228"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 11).bin" size="28231056" crc="2bf971ae" md5="79abf5e2eed4a21a0c32141708df6649" sha1="dc79528f0fafc9b1cb572c6abffca188127f6a01"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 12).bin" size="30251424" crc="d19ab05b" md5="cb11a60efb1cbbbfea46f0846853a937" sha1="790005084750176b304c2322d30beddd150394d1"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 13).bin" size="26158944" crc="80cecf9d" md5="36b5a1e1dc8fbce29ed401a233ac0b92" sha1="c76d1406c7b06eefb562f97a2cea7a8a6801ae27"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 14).bin" size="24493728" crc="3895097a" md5="1b8203fcfe88e9e82f6af18c252f59df" sha1="7df35482e6471674c8e8699d59de43cdf5ef4102"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 15).bin" size="2773008" crc="d2f05bd6" md5="6e3e28a227b5a59f9ae6fe7463742f82" sha1="c54d4ab67eac022ee38ae5b0191a3c9945430171"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 16).bin" size="2773008" crc="f5b25aca" md5="2b21278db0dddad527fbcd79337e08ed" sha1="c231c84a2818799d577799a525248a444bd5d0bb"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 17).bin" size="2773008" crc="8cd03166" md5="c4d8d97b835a19fe7b782b2c2ca035d6" sha1="3a20af44350a0c616f4b653ba29fc214fd4312ca"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 18).bin" size="2773008" crc="e36f78cb" md5="06f49013d36ceb9ea9e75ab0a05cbb3f" sha1="f045131fa57c15cc089e7b4fa3d7ca91c4515a38"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 19).bin" size="2773008" crc="ce2b1cc3" md5="0061544938208f2af5dbb093fb107425" sha1="fcb6d18ed3a252f0b04b090a2687191b33da9b21"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 20).bin" size="2773008" crc="ce60631e" md5="41f75c7568df442dca1dc700e8330aa4" sha1="d8c4ed48e305aef769bfa4861b4c56eb03c157b6"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 21).bin" size="2773008" crc="1732fe80" md5="ef8ed309e6d4f345781c45f528e07a1a" sha1="6608149cd639b90255f752d8a9831e45bbaccb78"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 22).bin" size="2773008" crc="1c6ec6e6" md5="465448a4965bb1d66d89565947313298" sha1="f78aeb574afaa9e7ec9b85e844af3d3976eddbb7"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 23).bin" size="2773008" crc="48044f48" md5="6942856a33416a203a0f5bcd03eabd17" sha1="d142de888c510aba89356ccc0517b10eff86c623"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 24).bin" size="2773008" crc="bb2cbd4d" md5="081045ca0282badfe669db9eacb8f37d" sha1="7295664697b1949f78dc775e336f6e51bade56b2"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 25).bin" size="2773008" crc="b9e0cdf4" md5="c6308ae72d791a39be5d88eb9cb56ca7" sha1="9de22bcdae19b0045e3416591bcd1e15e4f0aa99"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 26).bin" size="2773008" crc="c98d97d3" md5="6208909145e908473795a528054ef0d8" sha1="e1a05dc0f1f9a040c8fce62addddc2c2f304eaca"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 27).bin" size="2773008" crc="ada84638" md5="9e6c2efdaed2e8d5da165b7a54cff6ed" sha1="ad9f208aabca5d805e62d5986f315fa264508bc5"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 28).bin" size="2773008" crc="9fb978cd" md5="5fa5c98798e09e401b328973c4bcc2eb" sha1="e69dd3e326503497b7b11f42c70404a2348038d6"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 29).bin" size="2773008" crc="84d916ea" md5="d97050b760ed4641687ec70f3926a683" sha1="127c5d28c68b0b063a517182c398e9b6c77fd8d4"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 30).bin" size="2773008" crc="703503fc" md5="a920ddab7785afc625a992f935c54d03" sha1="c9960ef1bdc7f74d0e8078018450e9b0993b461a"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan) (Track 31).bin" size="1719312" crc="9bb22b32" md5="7df2b9acb9c79d6bf03d30513321ef0b" sha1="d8678af180fc8036f13d398f43a6aa738405f930"/>
+		<rom name="Game Series 19, The - Mogura Daisensou - Twigger (Japan).cue" size="4663" crc="38a20adc" md5="37da7aac132d0ee0f0108879c7a91d4c" sha1="6857c38a238796cd48ca9ac4c303ef2df4367c43"/>
 	</game>
 	<game name="Game Series 2, The - Neo Shougi - Shougi Koukou (Japan)">
 		<category>Games</category>
@@ -59246,6 +59306,12 @@
 		<description>Game Series 20, The - Tank Battle (Japan)</description>
 		<rom name="Game Series 20, The - Tank Battle (Japan).bin" size="78820224" crc="c0596894" md5="f2c3874e9a9a63681861c1933d32443c" sha1="985afcdfeffd28a40f394da20b9c58a7d3f55013"/>
 		<rom name="Game Series 20, The - Tank Battle (Japan).cue" size="107" crc="bdefd773" md5="caa592ffa514d8b7e4f4e4f427538186" sha1="ecf2611f071ec2a54d3317e22bbe803c075e27fb"/>
+	</game>
+	<game name="Game Series 21, The - 3D Robo Shooting - Goman (Japan)">
+		<category>Games</category>
+		<description>Game Series 21, The - 3D Robo Shooting - Goman (Japan)</description>
+		<rom name="Game Series 21, The - 3D Robo Shooting - Goman (Japan).bin" size="509760720" crc="f9a51513" md5="443a0bdbd3e1bef931b295e9f2b12824" sha1="e315dfb7343675655d5cb4283b6017f95413bbf4"/>
+		<rom name="Game Series 21, The - 3D Robo Shooting - Goman (Japan).cue" size="120" crc="f9fe70a0" md5="314ef78161d4853e16b852a651fe967b" sha1="59213b03b8de2a28cf3ee5492ec335104436ebfe"/>
 	</game>
 	<game name="Game Series 21, The - Mahou Board Game - Toko Toko Bang! (Japan)">
 		<category>Games</category>
@@ -59274,6 +59340,12 @@
 		<rom name="Game Series 23, The - Miya Souji (Japan) (Rev 1).bin" size="11440128" crc="bc221a75" md5="86d23319b865784bf01737f56e492761" sha1="f5f2d741b6d225a966a8cc8f337903fdeb6391e9"/>
 		<rom name="Game Series 23, The - Miya Souji (Japan) (Rev 1).cue" size="114" crc="6ec22099" md5="f31cd79e07531a7cfa38bc01137ae592" sha1="88f5e852856a56fae15f7f7abee16c7ca5c70238"/>
 	</game>
+	<game name="Game Series 24, The - Missile Action (Japan)">
+		<category>Games</category>
+		<description>Game Series 24, The - Missile Action (Japan)</description>
+		<rom name="Game Series 24, The - Missile Action (Japan).bin" size="51275952" crc="93e5be6e" md5="badab5bf16b25b20f323db85079b82e0" sha1="fe52c53550d2365b5472f0b771d780146a259070"/>
+		<rom name="Game Series 24, The - Missile Action (Japan).cue" size="110" crc="5839c315" md5="2ebf83683c717d7f5a39a8d976169366" sha1="61837d84de09fe8d2bc38a99f047019b9c20bae0"/>
+	</game>
 	<game name="Game Series 25, The - Heiankyou Alien (Japan)">
 		<category>Games</category>
 		<description>Game Series 25, The - Heiankyou Alien (Japan)</description>
@@ -59286,11 +59358,17 @@
 		<rom name="Game Series 26, The - Fusenwari Game Nyanporin (Japan).bin" size="64722336" crc="d1288ff9" md5="3dd358a9d3a1370fc8bd40ca463f5a2a" sha1="1023ef9238e0fade524694fdb30ebcc5b84bcafb"/>
 		<rom name="Game Series 26, The - Fusenwari Game Nyanporin (Japan).cue" size="120" crc="00fbcb82" md5="dbff435b38bebb9fdd7d9b036dfd4409" sha1="35a49ea5c187015d976d607affff54cb59866199"/>
 	</game>
-	<game name="Game Series 26, The - Mahjong Puzzle Dalian - Toitsu-tori (Japan)">
+	<game name="Game Series 26, The - Mahjong Puzzle Dalian - Toitsu Tori (Japan) (Rev 1)">
 		<category>Games</category>
-		<description>Game Series 26, The - Mahjong Puzzle Dalian - Toitsu-tori (Japan)</description>
-		<rom name="Game Series 26, The - Mahjong Puzzle Dalian - Toitsu-tori (Japan).bin" size="20984544" crc="de70390a" md5="f1d89b9a20c4dd5fe0df8a0f506c475d" sha1="73b16cb90ee618d9d250ff325f749c1968b2963a"/>
-		<rom name="Game Series 26, The - Mahjong Puzzle Dalian - Toitsu-tori (Japan).cue" size="146" crc="4eeca277" md5="54e327898dc5e85a47bf88e4c32cb4ab" sha1="3bbcd7a421e54dc05783266255d00ba7b6fda2d4"/>
+		<description>Game Series 26, The - Mahjong Puzzle Dalian - Toitsu Tori (Japan) (Rev 1)</description>
+		<rom name="Game Series 26, The - Mahjong Puzzle Dalian - Toitsu Tori (Japan) (Rev 1).bin" size="20984544" crc="de70390a" md5="f1d89b9a20c4dd5fe0df8a0f506c475d" sha1="73b16cb90ee618d9d250ff325f749c1968b2963a"/>
+		<rom name="Game Series 26, The - Mahjong Puzzle Dalian - Toitsu Tori (Japan) (Rev 1).cue" size="154" crc="2c54c14e" md5="720b6312e53594898621a6990f70200a" sha1="89de4f18122f4de5a9a9fea16b321a3c1a380093"/>
+	</game>
+	<game name="Game Series 27, The - Shuffle Puzzle (Japan)">
+		<category>Games</category>
+		<description>Game Series 27, The - Shuffle Puzzle (Japan)</description>
+		<rom name="Game Series 27, The - Shuffle Puzzle (Japan).bin" size="68264448" crc="18ce3450" md5="d37ca0353f6e01a09302b31117f11db2" sha1="c8aafcdf70a0c50dddb19716c81b4817c2634197"/>
+		<rom name="Game Series 27, The - Shuffle Puzzle (Japan).cue" size="110" crc="464c8b14" md5="8afc69108b5ed90b9d6f1331f2a30289" sha1="c3ace90e0d0ef9190ad2c92ce65154c986eec14b"/>
 	</game>
 	<game name="Game Series 27, The - Suspense Adventure - Rose Blood Chi no Kawaki (Japan)">
 		<category>Games</category>
@@ -70372,11 +70450,17 @@
 		<rom name="Hop Hop Haboe! (Belgium).bin" size="724768800" crc="0b02840b" md5="20b38084ff15c51c7de40c841e428921" sha1="a9f5021e44d4f11470f3c13969a5ee22dae4fcca"/>
 		<rom name="Hop Hop Haboe! (Belgium).cue" size="90" crc="816a59f0" md5="6a47cd9f4a8243b1a691888ece63b284" sha1="6f4492d197e45da43f4be2113e496625f15a5992"/>
 	</game>
-	<game name="Hopkins FBI (USA) (1998-07-19)">
+	<game name="Hopkins FBI (USA)">
 		<category>Games</category>
-		<description>Hopkins FBI (USA) (1998-07-19)</description>
-		<rom name="Hopkins FBI (USA) (1998-07-19).bin" size="594562080" crc="beb5d9dc" md5="18e1a42930d939730c99db6a6ae56be7" sha1="7bc469763f30300133c566f2abec9cc6d6e2eae8"/>
-		<rom name="Hopkins FBI (USA) (1998-07-19).cue" size="96" crc="5ff3fb6e" md5="25d1be2f1f083be86e2baacb29b3e659" sha1="82a9df8594b477f3728ec9d25b4af41e3b0b4302"/>
+		<description>Hopkins FBI (USA)</description>
+		<rom name="Hopkins FBI (USA).bin" size="594562080" crc="beb5d9dc" md5="18e1a42930d939730c99db6a6ae56be7" sha1="7bc469763f30300133c566f2abec9cc6d6e2eae8"/>
+		<rom name="Hopkins FBI (USA).cue" size="83" crc="07fe0630" md5="9e9a7737f40a00302651f87df0477cae" sha1="c757b54dc5f71b5d4a49fcd497aaa378c5e29191"/>
+	</game>
+	<game name="Hopkins FBI (USA) (BeOS)">
+		<category>Games</category>
+		<description>Hopkins FBI (USA) (BeOS)</description>
+		<rom name="Hopkins FBI (USA) (BeOS).bin" size="662680704" crc="78d248bb" md5="5800fb9e3d390e2012ae171b40e3606a" sha1="5509776f5920759720a987625b00283f4af120c1"/>
+		<rom name="Hopkins FBI (USA) (BeOS).cue" size="90" crc="ba153b94" md5="3d6592efe29be42d848e70c890b9e65b" sha1="2b70252bcee99246b389e77fc52a5bb458caccf5"/>
 	</game>
 	<game name="Hopmon (Europe)">
 		<category>Games</category>
@@ -133794,6 +133878,12 @@
 		<description>Saga of Ryzom, The (Germany) (En,Fr,De,Es) (Disc 2)</description>
 		<rom name="Saga of Ryzom, The (Germany) (En,Fr,De,Es) (Disc 2).bin" size="638311632" crc="6ff59b3a" md5="6edaabbbf39fc0ee3b031149eee920cd" sha1="6bf2787ef82e20d0d1d2371b233cf49a25cb24a3"/>
 		<rom name="Saga of Ryzom, The (Germany) (En,Fr,De,Es) (Disc 2).cue" size="117" crc="d19e1e0f" md5="a2240cbbb1d8d12b2f21c5fdec149cba" sha1="c54011745ac6c142e52938fb51300eb9bcac5aca"/>
+	</game>
+	<game name="Saga of Ryzom, The - Press Kit (USA)">
+		<category>Games</category>
+		<description>Saga of Ryzom, The - Press Kit (USA)</description>
+		<rom name="Saga of Ryzom, The - Press Kit (USA).bin" size="802819920" crc="8825d39e" md5="0feae37fb7a525ce94ccf1afd1a62bf6" sha1="fe50ebf1abeebb5de6ae218b2c6af5a233c533fa"/>
+		<rom name="Saga of Ryzom, The - Press Kit (USA).cue" size="102" crc="d4f8873e" md5="7c0460f8a629e321bd1650fc74e5b489" sha1="d7b001bcf2b40f6cb13f77b2b7af6fa805a013d6"/>
 	</game>
 	<game name="Sagara Family, The (USA) (Game Disc)">
 		<category>Games</category>

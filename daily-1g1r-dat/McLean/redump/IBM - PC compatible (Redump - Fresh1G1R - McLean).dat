@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,070) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-15 23-50-13) (Retool)</description>
-		<version>2026-05-15 23-50-13</version>
-		<date>2026-05-16 03-51-25</date>
+		<description>IBM - PC compatible (13,071) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-17 05-06-01) (Retool)</description>
+		<version>2026-05-17 05-06-01</version>
+		<date>2026-05-17 03-31-54</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -37074,11 +37074,17 @@
 		<rom name="Hooves of Thunder (USA).bin" size="305172000" crc="276c0dad" md5="13b4ec1ac9862164a969c2c52b2604fb" sha1="ec3f124a2cbb8aae8f2202f8d6b86e38ed8cb216"/>
 		<rom name="Hooves of Thunder (USA).cue" size="112" crc="eb613be0" md5="5823c2c45ee1a2c92756ff323c8891cc" sha1="8a17cc09990cd1cbf9f2ba574ce80688d6eb5a38"/>
 	</game>
-	<game name="Hopkins FBI (USA) (1998-07-19)">
+	<game name="Hopkins FBI (USA)">
 		<category>Games</category>
-		<description>Hopkins FBI (USA) (1998-07-19)</description>
-		<rom name="Hopkins FBI (USA) (1998-07-19).bin" size="594562080" crc="beb5d9dc" md5="18e1a42930d939730c99db6a6ae56be7" sha1="7bc469763f30300133c566f2abec9cc6d6e2eae8"/>
-		<rom name="Hopkins FBI (USA) (1998-07-19).cue" size="96" crc="5ff3fb6e" md5="25d1be2f1f083be86e2baacb29b3e659" sha1="82a9df8594b477f3728ec9d25b4af41e3b0b4302"/>
+		<description>Hopkins FBI (USA)</description>
+		<rom name="Hopkins FBI (USA).bin" size="594562080" crc="beb5d9dc" md5="18e1a42930d939730c99db6a6ae56be7" sha1="7bc469763f30300133c566f2abec9cc6d6e2eae8"/>
+		<rom name="Hopkins FBI (USA).cue" size="83" crc="07fe0630" md5="9e9a7737f40a00302651f87df0477cae" sha1="c757b54dc5f71b5d4a49fcd497aaa378c5e29191"/>
+	</game>
+	<game name="Hopkins FBI (USA) (BeOS)">
+		<category>Games</category>
+		<description>Hopkins FBI (USA) (BeOS)</description>
+		<rom name="Hopkins FBI (USA) (BeOS).bin" size="662680704" crc="78d248bb" md5="5800fb9e3d390e2012ae171b40e3606a" sha1="5509776f5920759720a987625b00283f4af120c1"/>
+		<rom name="Hopkins FBI (USA) (BeOS).cue" size="90" crc="ba153b94" md5="3d6592efe29be42d848e70c890b9e65b" sha1="2b70252bcee99246b389e77fc52a5bb458caccf5"/>
 	</game>
 	<game name="Hopmon (Europe)">
 		<category>Games</category>
