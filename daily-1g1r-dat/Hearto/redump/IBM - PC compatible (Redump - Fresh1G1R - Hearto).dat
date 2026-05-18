@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,120) (-y) [-aAbBcefkmMoprv] (2026-05-17 05-06-01) (Retool)</description>
-		<version>2026-05-17 05-06-01</version>
-		<date>2026-05-17 03-30-15</date>
+		<description>IBM - PC compatible (25,126) (-y) [-aAbBcefkmMoprv] (2026-05-17 23-55-29) (Retool)</description>
+		<version>2026-05-17 23-55-29</version>
+		<date>2026-05-18 03-20-19</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -14723,6 +14723,12 @@
 		<rom name="Barbie Sparkling Ice Show CD-ROM (USA).bin" size="159119856" crc="0a8a606b" md5="d944230968575cba8059eac463d12ff1" sha1="29ecf11c96300ce8b4b9d9547ccdd019bc6516f2"/>
 		<rom name="Barbie Sparkling Ice Show CD-ROM (USA).cue" size="104" crc="52b13029" md5="b248ac4a237425aa5621942968d3f5f0" sha1="d29b0698893bcd255a7f0a6d2022affaa43feaa5"/>
 	</game>
+	<game name="Barbie Stilista Crea la Moda (Italy)">
+		<category>Games</category>
+		<description>Barbie Stilista Crea la Moda (Italy)</description>
+		<rom name="Barbie Stilista Crea la Moda (Italy).bin" size="519610896" crc="354ddc12" md5="f1d4279593201361b4b4180c9c43a1e1" sha1="b281d199b92ede9cfee239fb39fdc66e4cb401a8"/>
+		<rom name="Barbie Stilista Crea la Moda (Italy).cue" size="125" crc="faf58fd7" md5="a2c6f7b9760754dc08278b1f08635709" sha1="663b59f3ac131fcd08f97904a2bf480177ac0cb3"/>
+	</game>
 	<game name="Barbie Storymaker (USA)">
 		<category>Games</category>
 		<description>Barbie Storymaker (USA)</description>
@@ -29303,6 +29309,12 @@
 		<rom name="Commandos - Beyond the Call of Duty (USA) (Track 3).bin" size="337664880" crc="40c693d1" md5="85e486e0a2de9117c613cc45b3b0b0dd" sha1="b8e354474a434f5fd6cbc4281259dcc8026a59c0"/>
 		<rom name="Commandos - Beyond the Call of Duty (USA) (Track 4).bin" size="4421760" crc="76b20ac5" md5="00cf39e7d85218aa9fa0695037c74141" sha1="73bad119aa17a06023bfff76844234f74ac6795d"/>
 		<rom name="Commandos - Beyond the Call of Duty (USA).cue" size="550" crc="5f61a2d2" md5="c50ae66aa47b7b46b1701cf052915289" sha1="9e05d61869774c07b7b98a21a937a59ba48511ce"/>
+	</game>
+	<game name="Commandos - Beyond the Call of Duty - Playable Demo (Europe)">
+		<category>Games</category>
+		<description>Commandos - Beyond the Call of Duty - Playable Demo (Europe)</description>
+		<rom name="Commandos - Beyond the Call of Duty - Playable Demo (Europe).bin" size="43147440" crc="d640bb98" md5="9429948e11e1c503bad33df98f546825" sha1="2ddcf8369f71cdb997342f6ca8bd1d9d57d3f871"/>
+		<rom name="Commandos - Beyond the Call of Duty - Playable Demo (Europe).cue" size="126" crc="5f267a40" md5="078447183f5bd53f1f9554ec8fd12f84" sha1="5dfed0e2f3c0e0455c588afc10983a382c51cc71"/>
 	</game>
 	<game name="Commandos - Dietro le Linee Nemiche (Italy) (Covermount)">
 		<category>Games</category>
@@ -107351,11 +107363,11 @@
 		<rom name="Noir - Un Thriller Misterioso (Italy) (Disc 1) (Covermount).bin" size="756222096" crc="f0eacf22" md5="f03af8f23c2667ca2d6af6290a0fdf2a" sha1="d2ae5c1fbe19460a0d555d743c8536c3b365f88e"/>
 		<rom name="Noir - Un Thriller Misterioso (Italy) (Disc 1) (Covermount).cue" size="125" crc="1fe6cacb" md5="8a405e9ffe16878533cb746964fa0b48" sha1="8a193db14264e0debacd4fd8351468877cd332d9"/>
 	</game>
-	<game name="Noir - Un Thriller Misterioso (Italy) (Disc 2) (Covermount)">
+	<game name="Noir - Un Thriller Misterioso (Italy) (Disc 2)">
 		<category>Games</category>
-		<description>Noir - Un Thriller Misterioso (Italy) (Disc 2) (Covermount)</description>
-		<rom name="Noir - Un Thriller Misterioso (Italy) (Disc 2) (Covermount).bin" size="739562880" crc="3064c00e" md5="9932cb4a050d45349108ad67b3e9f28e" sha1="4e1d4658b0afd59d83325fb75a9871ae654c27d4"/>
-		<rom name="Noir - Un Thriller Misterioso (Italy) (Disc 2) (Covermount).cue" size="125" crc="c074842d" md5="9209605dcfc7b6d457d0a7c9bfa89aee" sha1="5debf259bb3c262e3430bd53b9d71591c5e1cffb"/>
+		<description>Noir - Un Thriller Misterioso (Italy) (Disc 2)</description>
+		<rom name="Noir - Un Thriller Misterioso (Italy) (Disc 2).bin" size="739210080" crc="28c58c1f" md5="3d1c7e1bdbf5b95837db87ef5fb23c5e" sha1="124dcc68f224c182660ee7f5eb016d41058c08b3"/>
+		<rom name="Noir - Un Thriller Misterioso (Italy) (Disc 2).cue" size="135" crc="c569e01f" md5="8ec3f87dec9dd77ea2891744d6dc3d3b" sha1="59396639cd5c9bfbf6142001d158f155a798be31"/>
 	</game>
 	<game name="Nomad Soul, The (Europe) (En,Es,It) (Disc 1)">
 		<category>Games</category>
@@ -143446,6 +143458,24 @@
 		<rom name="Space Bar, The (USA) (Disc 3) (Rev 1).bin" size="773469312" crc="4eec726d" md5="21966404bcf0be51e3fca7aa372abca1" sha1="51f2a397b50406adee7e21f3458f2aaf93cad431"/>
 		<rom name="Space Bar, The (USA) (Disc 3) (Rev 1).cue" size="103" crc="7643bbb0" md5="fe65c4ab9dbfa6e5d9a3021ac041480f" sha1="76ffe8ab561259d147f51ef904c42cedd8cca03f"/>
 	</game>
+	<game name="Space Bar, The (USA) (PC Disc 1)">
+		<category>Games</category>
+		<description>Space Bar, The (USA) (PC Disc 1)</description>
+		<rom name="Space Bar, The (USA) (PC Disc 1).bin" size="750029280" crc="ae078e9b" md5="2ddf03acfd327efd95581cfe56bcb7b5" sha1="656a92da37c7b228ebe6b95af252d0d970b34451"/>
+		<rom name="Space Bar, The (USA) (PC Disc 1).cue" size="98" crc="c5d399c1" md5="8c738ee0e986453efd232bee9818317c" sha1="68f4fb6334a2c4bd58063e09ef9bd83297c15e14"/>
+	</game>
+	<game name="Space Bar, The (USA) (PC Disc 2)">
+		<category>Games</category>
+		<description>Space Bar, The (USA) (PC Disc 2)</description>
+		<rom name="Space Bar, The (USA) (PC Disc 2).bin" size="772575552" crc="09834e5f" md5="e655109ea68361dc838ea53ea3afcb53" sha1="8d0af59d53e18825d69228932a8e10821f2e4279"/>
+		<rom name="Space Bar, The (USA) (PC Disc 2).cue" size="98" crc="c48ebf10" md5="65b7a007c11f6c03242464c695cb5b58" sha1="48fd09801b09a18297f0fb7c382b41253263fdb2"/>
+	</game>
+	<game name="Space Bar, The (USA) (PC Disc 3)">
+		<category>Games</category>
+		<description>Space Bar, The (USA) (PC Disc 3)</description>
+		<rom name="Space Bar, The (USA) (PC Disc 3).bin" size="753820704" crc="da3911f7" md5="bd3549cf46b28f9872b942ed504a6c8f" sha1="e3b5c7f79b8d82f5183f7ca0626a84661b19d7b3"/>
+		<rom name="Space Bar, The (USA) (PC Disc 3).cue" size="98" crc="72955f60" md5="5628956d70f4df76145dda802852acd4" sha1="5dfc57bf92069f407b6a8fa6d1d7dcfd4ce2ad01"/>
+	</game>
 	<game name="Space Blaster (Germany)">
 		<category>Games</category>
 		<description>Space Blaster (Germany)</description>
@@ -143851,6 +143881,12 @@
 		<category>Games</category>
 		<description>Spaceforce - Captains (UK)</description>
 		<rom name="Spaceforce - Captains (UK).iso" size="962527232" crc="4483d814" md5="da0741ac43290d21d468edbcdd46a102" sha1="30e9119e70accb14e63284f35ecaf5d8dcf4da2e"/>
+	</game>
+	<game name="Spaceforce - Constellations (Germany)">
+		<category>Games</category>
+		<description>Spaceforce - Constellations (Germany)</description>
+		<rom name="Spaceforce - Constellations (Germany).bin" size="273208320" crc="60cb3604" md5="b7f6a34ceee9227cb51e40b547de54e4" sha1="0e0a4be203ca28281f3f31733aaefdb4bd1f0bfc"/>
+		<rom name="Spaceforce - Constellations (Germany).cue" size="103" crc="f921245c" md5="d2f1eff21b48c65f9e0354e9ba72bdbd" sha1="6a42f1ee9e59fd7674bb563f052e32b81dac36da"/>
 	</game>
 	<game name="Spaceforce - Rogue Universe (Europe)">
 		<category>Games</category>

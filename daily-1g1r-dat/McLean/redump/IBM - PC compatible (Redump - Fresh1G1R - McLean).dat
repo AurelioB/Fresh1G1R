@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,071) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-17 05-06-01) (Retool)</description>
-		<version>2026-05-17 05-06-01</version>
-		<date>2026-05-17 03-31-54</date>
+		<description>IBM - PC compatible (13,075) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-17 23-55-29) (Retool)</description>
+		<version>2026-05-17 23-55-29</version>
+		<date>2026-05-18 03-21-37</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -15838,6 +15838,12 @@
 		<rom name="Commandos - Beyond the Call of Duty (USA) (Track 3).bin" size="337664880" crc="40c693d1" md5="85e486e0a2de9117c613cc45b3b0b0dd" sha1="b8e354474a434f5fd6cbc4281259dcc8026a59c0"/>
 		<rom name="Commandos - Beyond the Call of Duty (USA) (Track 4).bin" size="4421760" crc="76b20ac5" md5="00cf39e7d85218aa9fa0695037c74141" sha1="73bad119aa17a06023bfff76844234f74ac6795d"/>
 		<rom name="Commandos - Beyond the Call of Duty (USA).cue" size="550" crc="5f61a2d2" md5="c50ae66aa47b7b46b1701cf052915289" sha1="9e05d61869774c07b7b98a21a937a59ba48511ce"/>
+	</game>
+	<game name="Commandos - Beyond the Call of Duty - Playable Demo (Europe)">
+		<category>Games</category>
+		<description>Commandos - Beyond the Call of Duty - Playable Demo (Europe)</description>
+		<rom name="Commandos - Beyond the Call of Duty - Playable Demo (Europe).bin" size="43147440" crc="d640bb98" md5="9429948e11e1c503bad33df98f546825" sha1="2ddcf8369f71cdb997342f6ca8bd1d9d57d3f871"/>
+		<rom name="Commandos - Beyond the Call of Duty - Playable Demo (Europe).cue" size="126" crc="5f267a40" md5="078447183f5bd53f1f9554ec8fd12f84" sha1="5dfed0e2f3c0e0455c588afc10983a382c51cc71"/>
 	</game>
 	<game name="Commandos - Strike Force (USA) (En,Fr,De,Es,It) (Rerelease)">
 		<category>Games</category>
@@ -74019,6 +74025,24 @@
 		<description>Space Bar, The (USA) (Disc 3) (Rev 1)</description>
 		<rom name="Space Bar, The (USA) (Disc 3) (Rev 1).bin" size="773469312" crc="4eec726d" md5="21966404bcf0be51e3fca7aa372abca1" sha1="51f2a397b50406adee7e21f3458f2aaf93cad431"/>
 		<rom name="Space Bar, The (USA) (Disc 3) (Rev 1).cue" size="103" crc="7643bbb0" md5="fe65c4ab9dbfa6e5d9a3021ac041480f" sha1="76ffe8ab561259d147f51ef904c42cedd8cca03f"/>
+	</game>
+	<game name="Space Bar, The (USA) (PC Disc 1)">
+		<category>Games</category>
+		<description>Space Bar, The (USA) (PC Disc 1)</description>
+		<rom name="Space Bar, The (USA) (PC Disc 1).bin" size="750029280" crc="ae078e9b" md5="2ddf03acfd327efd95581cfe56bcb7b5" sha1="656a92da37c7b228ebe6b95af252d0d970b34451"/>
+		<rom name="Space Bar, The (USA) (PC Disc 1).cue" size="98" crc="c5d399c1" md5="8c738ee0e986453efd232bee9818317c" sha1="68f4fb6334a2c4bd58063e09ef9bd83297c15e14"/>
+	</game>
+	<game name="Space Bar, The (USA) (PC Disc 2)">
+		<category>Games</category>
+		<description>Space Bar, The (USA) (PC Disc 2)</description>
+		<rom name="Space Bar, The (USA) (PC Disc 2).bin" size="772575552" crc="09834e5f" md5="e655109ea68361dc838ea53ea3afcb53" sha1="8d0af59d53e18825d69228932a8e10821f2e4279"/>
+		<rom name="Space Bar, The (USA) (PC Disc 2).cue" size="98" crc="c48ebf10" md5="65b7a007c11f6c03242464c695cb5b58" sha1="48fd09801b09a18297f0fb7c382b41253263fdb2"/>
+	</game>
+	<game name="Space Bar, The (USA) (PC Disc 3)">
+		<category>Games</category>
+		<description>Space Bar, The (USA) (PC Disc 3)</description>
+		<rom name="Space Bar, The (USA) (PC Disc 3).bin" size="753820704" crc="da3911f7" md5="bd3549cf46b28f9872b942ed504a6c8f" sha1="e3b5c7f79b8d82f5183f7ca0626a84661b19d7b3"/>
+		<rom name="Space Bar, The (USA) (PC Disc 3).cue" size="98" crc="72955f60" md5="5628956d70f4df76145dda802852acd4" sha1="5dfc57bf92069f407b6a8fa6d1d7dcfd4ce2ad01"/>
 	</game>
 	<game name="Space Blaster (Germany)">
 		<category>Games</category>
