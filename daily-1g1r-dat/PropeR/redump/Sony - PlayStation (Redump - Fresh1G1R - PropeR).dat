@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation (Retool)</name>
-		<description>Sony - PlayStation (4,583) (-y) [-aAbBcdkmMpPuv] (2026-05-17 15-50-21) (Retool)</description>
-		<version>2026-05-17 15-50-21</version>
-		<date>2026-05-18 03-23-26</date>
+		<description>Sony - PlayStation (4,583) (-y) [-aAbBcdkmMpPuv] (2026-05-19 15-21-22) (Retool)</description>
+		<version>2026-05-19 15-21-22</version>
+		<date>2026-05-20 03-30-37</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -30894,33 +30894,6 @@
 		<rom name="Ronaldo V-Football (Europe) (En,Fr,Nl,Sv).bin" size="678796608" crc="f40861ad" md5="74f97bc4642c5aa94ed122ce039248ec" sha1="04e7ad9718b06c130b1fed11b583bb3d5ada8895"/>
 		<rom name="Ronaldo V-Football (Europe) (En,Fr,Nl,Sv).cue" size="107" crc="7358f811" md5="96ecbaba2dc0f475ce6486ea7ec8a62b" sha1="e42ce6dc9da186a0b5e4500b2a5632adda6c7cae"/>
 	</game>
-	<game name="Rong Rong, The (Japan)">
-		<category>Games</category>
-		<description>Rong Rong, The (Japan)</description>
-		<rom name="Rong Rong, The (Japan) (Track 01).bin" size="36470112" crc="343c1952" md5="0b0aafd75a31d51575122bcfcc316d2f" sha1="27acbd3bc4a8eb78a1a6c1ef42ac12534c6c0d11"/>
-		<rom name="Rong Rong, The (Japan) (Track 02).bin" size="3845520" crc="3b6663ea" md5="cfe1b9d96521b8bde92d45821a7a9aed" sha1="a11529652461f39363d6d012f636a72197589012"/>
-		<rom name="Rong Rong, The (Japan) (Track 03).bin" size="34771968" crc="6d333625" md5="372058513c110a090a8044358dfded21" sha1="9981ca6073e6284dab34145e598284897446277c"/>
-		<rom name="Rong Rong, The (Japan) (Track 04).bin" size="48580560" crc="ce0342d6" md5="d5aaaa5031d8fb2e7875648b4a2ab3f1" sha1="4f54e3e2e0a0185a2d9f323473b227d6b64d13e8"/>
-		<rom name="Rong Rong, The (Japan) (Track 05).bin" size="48444144" crc="532e01ba" md5="6852360e0e2345409f7669d15c4b17e8" sha1="6d89cf848c4e5901b43eb946cfb2adf4377fd678"/>
-		<rom name="Rong Rong, The (Japan) (Track 06).bin" size="48470016" crc="c582c131" md5="452711ddc566d23d68f4c81aee793d43" sha1="92ffabfd0b34efa9e8faf7f16835b58a5eff8a7b"/>
-		<rom name="Rong Rong, The (Japan) (Track 07).bin" size="48460608" crc="f371eead" md5="c2f477e88350d2b5244a839533ec5228" sha1="efbef15b978b8bc0b91b44bbd3578efa3a5b4995"/>
-		<rom name="Rong Rong, The (Japan) (Track 08).bin" size="48350064" crc="db945432" md5="f9d8d5046bba20e8892b7043c69e219a" sha1="d2b0b0b682e0814adbee668dd852e6ac462b95f3"/>
-		<rom name="Rong Rong, The (Japan) (Track 09).bin" size="48439440" crc="37693de5" md5="9632636ebfd403b3523d33920af9d8bb" sha1="efc54f56be6b9504e4b18130d77edab586e5e5c3"/>
-		<rom name="Rong Rong, The (Japan) (Track 10).bin" size="4374720" crc="bc4d8b97" md5="0375e2845d60b5613d22d5abe70733c0" sha1="299342b9ec4f7b2a1029a4fab78ff06193e21d45"/>
-		<rom name="Rong Rong, The (Japan) (Track 11).bin" size="2848272" crc="2a7e5e0f" md5="790bd56dc37b7382b2e7452e94523242" sha1="3c710b8af9cb4a19c73adb83a1fe50d0ef759918"/>
-		<rom name="Rong Rong, The (Japan) (Track 12).bin" size="3257520" crc="e55fdbb5" md5="057d855ed36b334f96e542ad467207e8" sha1="3d68880e3159e14131782cb0969bd2681cbf0b85"/>
-		<rom name="Rong Rong, The (Japan) (Track 13).bin" size="5952912" crc="1338d413" md5="4b9bd4b9afa7812f386ec540e1a960cd" sha1="25bf577f68a6071e6ec4aab8d91effa0be0b735c"/>
-		<rom name="Rong Rong, The (Japan) (Track 14).bin" size="34541472" crc="093abc4c" md5="9aec58750ebcaa49ec9a4919d536bb99" sha1="e7dbfaa57e4955eb46a7290e8969692d824c7075"/>
-		<rom name="Rong Rong, The (Japan) (Track 15).bin" size="35809200" crc="89d3d7c6" md5="ac31c714000d9d46a755b974e3a75a23" sha1="783b993e32bb4c9018c56d47953effab361ba6d9"/>
-		<rom name="Rong Rong, The (Japan) (Track 16).bin" size="12634944" crc="56dbf740" md5="39f16b48f2a4be09579ad65f06b936d1" sha1="cf3abca5034e7be813a1377bad3cd0e6108a0c23"/>
-		<rom name="Rong Rong, The (Japan) (Track 17).bin" size="1780464" crc="44793370" md5="19e4dabfe70e973f1df45a88f3c53d00" sha1="a46c2370fb4c8fdad1a236797cd8472a6498287c"/>
-		<rom name="Rong Rong, The (Japan) (Track 18).bin" size="2479008" crc="42e8b55e" md5="3ccda76b28b5dfb68e7c8977cc059fbe" sha1="a62403edfea2603c79de2695358a0e58ef159974"/>
-		<rom name="Rong Rong, The (Japan) (Track 19).bin" size="25570944" crc="a47afd15" md5="40881ef339e38df1ef21e4dd45559e73" sha1="a4b0a2d7f18751645521393571ffdb1dfbd629cc"/>
-		<rom name="Rong Rong, The (Japan) (Track 20).bin" size="24053904" crc="340898f7" md5="df5022453a1a60ecdd6a2fcef58cca38" sha1="83aeab77e60ceb0f23020bf83ac4b5879f38a14d"/>
-		<rom name="Rong Rong, The (Japan) (Track 21).bin" size="23089584" crc="47f0cb97" md5="7c87315a57a0fd329762dc1d09ecf0f5" sha1="03999bb91639c93cfd139f065cc5e6e08042c314"/>
-		<rom name="Rong Rong, The (Japan) (Track 22).bin" size="32107152" crc="2b2cca7e" md5="9f54ee3e1677606be39b2ac8f3296a3b" sha1="1a57b4c96b7e4beaf779f48a1ee9fd6fbd893922"/>
-		<rom name="Rong Rong, The (Japan).cue" size="2556" crc="5360787b" md5="beb9c7a1b3373e26f68b779c677e499c" sha1="87dcc07b46dd80e1a1dcfbe832577637f0655d03"/>
-	</game>
 	<game name="Roommate - Inoue Ryoko (Japan)">
 		<category>Games</category>
 		<description>Roommate - Inoue Ryoko (Japan)</description>
@@ -41690,6 +41663,33 @@
 		<description>Valkyrie Profile (USA) (Disc 2)</description>
 		<rom name="Valkyrie Profile (USA) (Disc 2).bin" size="747352704" crc="c2132829" md5="19f36bd625e676ea5d74db612d26eb6c" sha1="7cc65766b46273b4ee166269170ecbaa433908fd"/>
 		<rom name="Valkyrie Profile (USA) (Disc 2).cue" size="97" crc="cc29350d" md5="b42666598b6732319e18c4a513a79404" sha1="e954321d9a9be9c9b8e6acf0d8ba740b34d21d9e"/>
+	</game>
+	<game name="Value 1500 - The Rong Rong (Japan)">
+		<category>Games</category>
+		<description>Value 1500 - The Rong Rong (Japan)</description>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 01).bin" size="36470112" crc="343c1952" md5="0b0aafd75a31d51575122bcfcc316d2f" sha1="27acbd3bc4a8eb78a1a6c1ef42ac12534c6c0d11"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 02).bin" size="3845520" crc="3b6663ea" md5="cfe1b9d96521b8bde92d45821a7a9aed" sha1="a11529652461f39363d6d012f636a72197589012"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 03).bin" size="34771968" crc="6d333625" md5="372058513c110a090a8044358dfded21" sha1="9981ca6073e6284dab34145e598284897446277c"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 04).bin" size="48580560" crc="ce0342d6" md5="d5aaaa5031d8fb2e7875648b4a2ab3f1" sha1="4f54e3e2e0a0185a2d9f323473b227d6b64d13e8"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 05).bin" size="48444144" crc="532e01ba" md5="6852360e0e2345409f7669d15c4b17e8" sha1="6d89cf848c4e5901b43eb946cfb2adf4377fd678"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 06).bin" size="48470016" crc="c582c131" md5="452711ddc566d23d68f4c81aee793d43" sha1="92ffabfd0b34efa9e8faf7f16835b58a5eff8a7b"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 07).bin" size="48460608" crc="f371eead" md5="c2f477e88350d2b5244a839533ec5228" sha1="efbef15b978b8bc0b91b44bbd3578efa3a5b4995"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 08).bin" size="48350064" crc="db945432" md5="f9d8d5046bba20e8892b7043c69e219a" sha1="d2b0b0b682e0814adbee668dd852e6ac462b95f3"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 09).bin" size="48439440" crc="37693de5" md5="9632636ebfd403b3523d33920af9d8bb" sha1="efc54f56be6b9504e4b18130d77edab586e5e5c3"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 10).bin" size="4374720" crc="bc4d8b97" md5="0375e2845d60b5613d22d5abe70733c0" sha1="299342b9ec4f7b2a1029a4fab78ff06193e21d45"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 11).bin" size="2848272" crc="2a7e5e0f" md5="790bd56dc37b7382b2e7452e94523242" sha1="3c710b8af9cb4a19c73adb83a1fe50d0ef759918"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 12).bin" size="3257520" crc="e55fdbb5" md5="057d855ed36b334f96e542ad467207e8" sha1="3d68880e3159e14131782cb0969bd2681cbf0b85"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 13).bin" size="5952912" crc="1338d413" md5="4b9bd4b9afa7812f386ec540e1a960cd" sha1="25bf577f68a6071e6ec4aab8d91effa0be0b735c"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 14).bin" size="34541472" crc="093abc4c" md5="9aec58750ebcaa49ec9a4919d536bb99" sha1="e7dbfaa57e4955eb46a7290e8969692d824c7075"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 15).bin" size="35809200" crc="89d3d7c6" md5="ac31c714000d9d46a755b974e3a75a23" sha1="783b993e32bb4c9018c56d47953effab361ba6d9"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 16).bin" size="12634944" crc="56dbf740" md5="39f16b48f2a4be09579ad65f06b936d1" sha1="cf3abca5034e7be813a1377bad3cd0e6108a0c23"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 17).bin" size="1780464" crc="44793370" md5="19e4dabfe70e973f1df45a88f3c53d00" sha1="a46c2370fb4c8fdad1a236797cd8472a6498287c"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 18).bin" size="2479008" crc="42e8b55e" md5="3ccda76b28b5dfb68e7c8977cc059fbe" sha1="a62403edfea2603c79de2695358a0e58ef159974"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 19).bin" size="25570944" crc="a47afd15" md5="40881ef339e38df1ef21e4dd45559e73" sha1="a4b0a2d7f18751645521393571ffdb1dfbd629cc"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 20).bin" size="24053904" crc="340898f7" md5="df5022453a1a60ecdd6a2fcef58cca38" sha1="83aeab77e60ceb0f23020bf83ac4b5879f38a14d"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 21).bin" size="23089584" crc="47f0cb97" md5="7c87315a57a0fd329762dc1d09ecf0f5" sha1="03999bb91639c93cfd139f065cc5e6e08042c314"/>
+		<rom name="Value 1500 - The Rong Rong (Japan) (Track 22).bin" size="32107152" crc="2b2cca7e" md5="9f54ee3e1677606be39b2ac8f3296a3b" sha1="1a57b4c96b7e4beaf779f48a1ee9fd6fbd893922"/>
+		<rom name="Value 1500 - The Rong Rong (Japan).cue" size="2820" crc="ae905f9b" md5="fd8c03aec726d3af7651fbb08b259323" sha1="5c0ec419e8ca6cc4e5c1b524431f5f3ba50c96f3"/>
 	</game>
 	<game name="Value 1500 - The Shanghai (Japan)">
 		<category>Games</category>
