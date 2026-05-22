@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,688) (-y) [-aAbBcdkmMpPuv] (2026-05-19 23-51-36) (Retool)</description>
-		<version>2026-05-19 23-51-36</version>
-		<date>2026-05-20 03-29-57</date>
+		<description>IBM - PC compatible (25,692) (-y) [-aAbBcdkmMpPuv] (2026-05-21 17-36-25) (Retool)</description>
+		<version>2026-05-21 17-36-25</version>
+		<date>2026-05-22 03-22-15</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -13434,6 +13434,12 @@
 		<description>BBC Balamory (UK)</description>
 		<rom name="BBC Balamory (UK).bin" size="277347840" crc="e61f37f1" md5="1428e16584315c6050a843861989949c" sha1="3e54369f87c34003f0397c3e5f90fb8efb5dd790"/>
 		<rom name="BBC Balamory (UK).cue" size="83" crc="234e7bd8" md5="4ccb577955280da6c7e153dc7b4468c7" sha1="9a72a1f0f33da5da4551fa9660db996f1b59c19e"/>
+	</game>
+	<game name="BBC Blue Peter - 365 Days to Explore (UK)">
+		<category>Educational</category>
+		<description>BBC Blue Peter - 365 Days to Explore (UK)</description>
+		<rom name="BBC Blue Peter - 365 Days to Explore (UK).bin" size="776218800" crc="a40dac08" md5="05b7151130c6f0ae089ef6a7be6cdf95" sha1="bd80172e1195055a6307397587ca20c27bfaf1e2"/>
+		<rom name="BBC Blue Peter - 365 Days to Explore (UK).cue" size="130" crc="bde94b5f" md5="77c89dc5403b6dff8c0f61a53ea05cea" sha1="bc995421c916abaa95ec01080c5d35f01d8d3004"/>
 	</game>
 	<game name="BBC Noddy - The Magic of Toytown (UK)">
 		<category>Educational</category>
@@ -40091,6 +40097,11 @@
 		<rom name="Disney Presents a Pixar Film - The Incredibles - When Danger Calls (USA).bin" size="589636992" crc="99939be5" md5="3e2a011005ce2514ae65e53910cce5da" sha1="ae35e0faaebc894c20333b647cff0d7fe484a16d"/>
 		<rom name="Disney Presents a Pixar Film - The Incredibles - When Danger Calls (USA).cue" size="138" crc="76a6c21e" md5="f52581c64d11532396902dc9c1ad9d47" sha1="dfe8836ca56dd7cf43a468aa05c67dce6542afce"/>
 	</game>
+	<game name="Disney Princess (Scandinavia) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)">
+		<category>Games</category>
+		<description>Disney Princess (Scandinavia) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
+		<rom name="Disney Princess (Scandinavia) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).iso" size="2339766272" crc="7109bcd8" md5="477c2dca0aef27945db9d2fa72e31e37" sha1="98ec96fa77e9dce3395214a73c8779744d7afb5d"/>
+	</game>
 	<game name="Disney Princess - Cinderella's Castle Designer (USA)">
 		<category>Games</category>
 		<description>Disney Princess - Cinderella's Castle Designer (USA)</description>
@@ -40241,6 +40252,11 @@
 		<description>Disney Winnie the Pooh - Primeiros Passos (Portugal)</description>
 		<rom name="Disney Winnie the Pooh - Primeiros Passos (Portugal).bin" size="367013136" crc="d0e42098" md5="3067c321f67f5f7202554f36766ecce6" sha1="07011d954fce651c858c8c90c7364abda685911c"/>
 		<rom name="Disney Winnie the Pooh - Primeiros Passos (Portugal).cue" size="118" crc="882bb0d7" md5="dab4da85ae130a9cd0192b857f075c6a" sha1="84124aa73a84cc5b578ed2220067036bd04b202f"/>
+	</game>
+	<game name="Disney Winnie the Pooh - The Video Game (Spain) (En,Fr,Es,It,Nl)">
+		<category>Games</category>
+		<description>Disney Winnie the Pooh - The Video Game (Spain) (En,Fr,Es,It,Nl)</description>
+		<rom name="Disney Winnie the Pooh - The Video Game (Spain) (En,Fr,Es,It,Nl).iso" size="1396310016" crc="2812e385" md5="866b6fbff39fbcb3e03ed44a86180bf1" sha1="d7607fbd524b9852ee799a11c7640c59861d939a"/>
 	</game>
 	<game name="Disney predstavlyaet fil'm studii Pixar - Supersemejka - Podzemnaya bitva (Russia) (Disc 1) (Ustanovochnyj)">
 		<category>Games</category>
@@ -104260,6 +104276,12 @@
 		<rom name="Mujintou Monogatari Another World (Japan).bin" size="171093888" crc="1a901c57" md5="8de1f68feffb278eeff66d13925f7a06" sha1="57f4ca3c18b977fe33e7f2bd23b4e520fc35cfe8"/>
 		<rom name="Mujintou Monogatari Another World (Japan).cue" size="130" crc="66300ea8" md5="7f410c0f2b81810557223f7e89d3948f" sha1="b97ee6b290586321939e50597d84db24f0b4de83"/>
 	</game>
+	<game name="Mukashi Mukashi Aru Tokoro ni Totetsumonaku Naka no Warui Twintail no Shimai Himesama ga Irasshaimashita to sa (Japan)">
+		<category>Games</category>
+		<description>Mukashi Mukashi Aru Tokoro ni Totetsumonaku Naka no Warui Twintail no Shimai Himesama ga Irasshaimashita to sa (Japan)</description>
+		<rom name="Mukashi Mukashi Aru Tokoro ni Totetsumonaku Naka no Warui Twintail no Shimai Himesama ga Irasshaimashita to sa (Japan).bin" size="107128896" crc="87215940" md5="477d5b0c423b54070071e67cbcdbbf36" sha1="05eed3d7edf7d6a4f3b55d0cb608401be2c8049a"/>
+		<rom name="Mukashi Mukashi Aru Tokoro ni Totetsumonaku Naka no Warui Twintail no Shimai Himesama ga Irasshaimashita to sa (Japan).cue" size="184" crc="9bdcd3c2" md5="97b6b5bde7d566d3892bd2d10b81521f" sha1="2e9f3a2e37c9c4b152d78354ffe0a28b8d900364"/>
+	</game>
 	<game name="Mulan - Interaktivnaya skazka (Russia)">
 		<category>Games</category>
 		<description>Mulan - Interaktivnaya skazka (Russia)</description>
@@ -122866,11 +122888,11 @@
 		<rom name="Prosiaczek i przyjaciele (Poland).bin" size="237189792" crc="7b01b582" md5="aacd7f727be41c6093928b899b22601f" sha1="f892c62e438db115b3aea5c5e7e178b8aef17fbb"/>
 		<rom name="Prosiaczek i przyjaciele (Poland).cue" size="99" crc="073fbed6" md5="4f2c8281e90b7188c0828a14f05e8f57" sha1="e15bbf27bf14111c376b608c4b4056101d6479a1"/>
 	</game>
-	<game name="Prost Grand Prix (Netherlands) (En,Fr,De,Es,It,Nl)">
+	<game name="Prost Grand Prix (Europe) (En,Fr,De,Es,It,Nl) (Covermount)">
 		<category>Games</category>
-		<description>Prost Grand Prix (Netherlands) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Prost Grand Prix (Netherlands) (En,Fr,De,Es,It,Nl).bin" size="91189392" crc="c1c0d9f0" md5="2c2c805a22300cbfd67c90b03f37597a" sha1="32dcd943d97cea230772a52211b555a93ea3ed2d"/>
-		<rom name="Prost Grand Prix (Netherlands) (En,Fr,De,Es,It,Nl).cue" size="139" crc="871a8b9c" md5="551bb806548ce702e493e7fc91b22034" sha1="556e94f15c92e7c1f031c1ee004c2762e5c02bdd"/>
+		<description>Prost Grand Prix (Europe) (En,Fr,De,Es,It,Nl) (Covermount)</description>
+		<rom name="Prost Grand Prix (Europe) (En,Fr,De,Es,It,Nl) (Covermount).bin" size="90836592" crc="bf2f3220" md5="bb90c55c38e2b782fdcad2142f56c5b5" sha1="f70d1b10a77d7246cedcdccb02dc9036a4b15ec9"/>
+		<rom name="Prost Grand Prix (Europe) (En,Fr,De,Es,It,Nl) (Covermount).cue" size="124" crc="c3798ac5" md5="e323b94500ce0bfe74a7d4209d6726c6" sha1="42837bae8ff4b36573bc0d931006dd871bcee8ca"/>
 	</game>
 	<game name="Protivostojanie III (Russia) (Disc 2)">
 		<category>Games</category>
