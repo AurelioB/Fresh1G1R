@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,081) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-21 17-36-25) (Retool)</description>
-		<version>2026-05-21 17-36-25</version>
-		<date>2026-05-22 03-20-36</date>
+		<description>IBM - PC compatible (13,085) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-23 03-59-37) (Retool)</description>
+		<version>2026-05-23 03-59-37</version>
+		<date>2026-05-23 03-19-43</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -7229,10 +7229,10 @@
 		<rom name="Barbie of Swan Lake CD-ROM - The Enchanted Forest (USA).bin" size="674657088" crc="36363841" md5="c1f80dad23c421c6a138f44293eab196" sha1="36728cc0dd6a949df0961940855275fd771157e3"/>
 		<rom name="Barbie of Swan Lake CD-ROM - The Enchanted Forest (USA).cue" size="121" crc="e3e0ceac" md5="3263806b3514e4c12b0408b5c31d1785" sha1="6269072a42f6814fc93d6eb5b6f08a222ce9158a"/>
 	</game>
-	<game name="Bard's Tale, The (Australia)">
+	<game name="Bard's Tale, The (Europe) (En,Fr,De,Es)">
 		<category>Games</category>
-		<description>Bard's Tale, The (Australia)</description>
-		<rom name="Bard's Tale, The (Australia).iso" size="5885591552" crc="915a4c1d" md5="6d8ddffc3bf9b400b9612d126441fa33" sha1="71992dbc8757ccb6c9ad4f3f20c5cb72b0e1884c"/>
+		<description>Bard's Tale, The (Europe) (En,Fr,De,Es)</description>
+		<rom name="Bard's Tale, The (Europe) (En,Fr,De,Es).iso" size="8008192000" crc="b7f6bd21" md5="2edcecf3ea0ed44bf4112b83f3ae5d2d" sha1="37a3abfdbf56f5f609a75620d06585cd6828945d"/>
 	</game>
 	<game name="Bard's Tale, The (USA) (Disc 1)">
 		<category>Games</category>
@@ -13671,11 +13671,11 @@
 		<rom name="Chaos (USA).bin" size="739038384" crc="5e7f2c83" md5="0c4aafc742b06cff018e30c88fd1973e" sha1="6db827d19556fbceb6714c5435ac126b1f366cb4"/>
 		<rom name="Chaos (USA).cue" size="100" crc="725a92d4" md5="36049eaddaa4aed1176f84e91830ae51" sha1="939a2fabe3b47731f0ae992b557aaf8e55d21361"/>
 	</game>
-	<game name="Chaos Control (Europe)">
+	<game name="Chaos Control (USA)">
 		<category>Games</category>
-		<description>Chaos Control (Europe)</description>
-		<rom name="Chaos Control (Europe).bin" size="231123984" crc="5af581d4" md5="659ae3b0a7fbefa62cf873beabfef42f" sha1="d7229d22841a5280bd5c9624efa7b0ef8980dba4"/>
-		<rom name="Chaos Control (Europe).cue" size="111" crc="e2aa0652" md5="6c633db04c598a8a7e8df1939c57786f" sha1="801ee59ada0261553ea3604d19a5dc3fb4cabf55"/>
+		<description>Chaos Control (USA)</description>
+		<rom name="Chaos Control (USA).bin" size="231131040" crc="617b197a" md5="27e380887c2f110c1697fca092417235" sha1="4a0358b09edf2c3c308e8918f152b1c9b889c56b"/>
+		<rom name="Chaos Control (USA).cue" size="85" crc="e7142f7c" md5="32dbd2e53e108f5577dce944b5969190" sha1="eeb6c28170634e094504ff5361071ea53a4d1c48"/>
 	</game>
 	<game name="Chaos Engine, The (USA)">
 		<category>Games</category>
@@ -30709,6 +30709,18 @@
 		<description>Fritz 6 + Playchess Online (Italy) (En,It)</description>
 		<rom name="Fritz 6 + Playchess Online (Italy) (En,It).bin" size="797440896" crc="d991c374" md5="d131998ac4b38be5e52517fcb1cbc8d9" sha1="bf69b32e7cd9d91afea2875f715393b4dc76f3d5"/>
 		<rom name="Fritz 6 + Playchess Online (Italy) (En,It).cue" size="108" crc="844148be" md5="cacd85f386dcd9c7dfb0471ae7eead75" sha1="eee19bb6b0c3f26ed744635f2a338da9c9b3f2cc"/>
+	</game>
+	<game name="Fritz 8 (USA) (Disc 1)">
+		<category>Games</category>
+		<description>Fritz 8 (USA) (Disc 1)</description>
+		<rom name="Fritz 8 (USA) (Disc 1).bin" size="668572464" crc="5bba240f" md5="362c43eb748245559b9402f2d7d20e0f" sha1="a997fc2e3da1df354a349d4232b38a319e33bd8f"/>
+		<rom name="Fritz 8 (USA) (Disc 1).cue" size="88" crc="9ed7b080" md5="c7d5e66db408a542b95ec0a25978c84f" sha1="20ebe68299b09e0aeb16a05aa9170970cce093e5"/>
+	</game>
+	<game name="Fritz 8 (USA) (Disc 2)">
+		<category>Games</category>
+		<description>Fritz 8 (USA) (Disc 2)</description>
+		<rom name="Fritz 8 (USA) (Disc 2).bin" size="434216832" crc="97f994c6" md5="37843488bb9de3bcdd6e0f5dafa3025d" sha1="93fe257adc8211ec0fb5d04725d8b01291c3ba13"/>
+		<rom name="Fritz 8 (USA) (Disc 2).cue" size="88" crc="9f8a9651" md5="d45c5ee536ce7494818de70466e5ff8b" sha1="a8515a75d47e3028332f2148100e8a547be61156"/>
 	</game>
 	<game name="Fritz 8 SE (Germany)">
 		<category>Games</category>
@@ -56672,6 +56684,12 @@
 		<rom name="Nomad Soul, The (Europe) (En,Es,It) (Disc 3).bin" size="711851616" crc="92ec03b5" md5="7d92451f63a2b4c36c974ae99f261954" sha1="9879a918fd1ca0954373f97dcaaf7caa2f571df1"/>
 		<rom name="Nomad Soul, The (Europe) (En,Es,It) (Disc 3).cue" size="110" crc="504f3074" md5="57652d3bb1dcce1c5d29cef531ec9931" sha1="8a542a1101c748512b5961006497ab2d61aca3ce"/>
 	</game>
+	<game name="Norm Koger's The Operational Art of War III (USA)">
+		<category>Games</category>
+		<description>Norm Koger's The Operational Art of War III (USA)</description>
+		<rom name="Norm Koger's The Operational Art of War III (USA).bin" size="276477600" crc="6bdac9d6" md5="9696c9b55a42587a334e5520dd806ac1" sha1="345f54165fae0a2f9ce161e1b532d97009bbfd7e"/>
+		<rom name="Norm Koger's The Operational Art of War III (USA).cue" size="115" crc="c9825927" md5="5096b07e4d05742c37963198e749bc52" sha1="bcef8967e6e56ab5fe9b60141c924c546f1a012c"/>
+	</game>
 	<game name="Normality (USA)">
 		<category>Games</category>
 		<description>Normality (USA)</description>
@@ -68869,6 +68887,12 @@
 		<description>Scrabble Interactive - 2007 Edition (Europe)</description>
 		<rom name="Scrabble Interactive - 2007 Edition (Europe).bin" size="277027968" crc="82074306" md5="4d4d4b884379a118306a9b51974fbada" sha1="da150517289f34df53bba94ca325d20d94faedc4"/>
 		<rom name="Scrabble Interactive - 2007 Edition (Europe).cue" size="110" crc="3d2b9c37" md5="427dcd09f9aa5f25fa5c27b6718dcab4" sha1="0fe1aa71f881a282271ab7762e34f374284d53d2"/>
+	</game>
+	<game name="Scrabble Online (USA)">
+		<category>Games</category>
+		<description>Scrabble Online (USA)</description>
+		<rom name="Scrabble Online (USA).bin" size="312801888" crc="3769d316" md5="5144f35ccfa46d4d4a5a8ce8ef9e0703" sha1="a70ff53c0155d6e31a050f23c3b0eb3264933bb2"/>
+		<rom name="Scrabble Online (USA).cue" size="87" crc="094107e0" md5="66c1e2fd580515ec4383260ec4ef41c6" sha1="af9f8141cc46e08a53b4f98038a5999d60f2c9a2"/>
 	</game>
 	<game name="Scratches (USA)">
 		<category>Games</category>

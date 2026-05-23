@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,692) (-y) [-aAbBcdkmMpPuv] (2026-05-21 17-36-25) (Retool)</description>
-		<version>2026-05-21 17-36-25</version>
-		<date>2026-05-22 03-22-15</date>
+		<description>IBM - PC compatible (25,696) (-y) [-aAbBcdkmMpPuv] (2026-05-23 03-59-37) (Retool)</description>
+		<version>2026-05-23 03-59-37</version>
+		<date>2026-05-23 03-21-21</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -14958,10 +14958,10 @@
 		<rom name="Barbie of Swan Lake CD-ROM - The Enchanted Forest (USA).bin" size="674657088" crc="36363841" md5="c1f80dad23c421c6a138f44293eab196" sha1="36728cc0dd6a949df0961940855275fd771157e3"/>
 		<rom name="Barbie of Swan Lake CD-ROM - The Enchanted Forest (USA).cue" size="121" crc="e3e0ceac" md5="3263806b3514e4c12b0408b5c31d1785" sha1="6269072a42f6814fc93d6eb5b6f08a222ce9158a"/>
 	</game>
-	<game name="Bard's Tale, The (Australia)">
+	<game name="Bard's Tale, The (Europe) (En,Fr,De,Es)">
 		<category>Games</category>
-		<description>Bard's Tale, The (Australia)</description>
-		<rom name="Bard's Tale, The (Australia).iso" size="5885591552" crc="915a4c1d" md5="6d8ddffc3bf9b400b9612d126441fa33" sha1="71992dbc8757ccb6c9ad4f3f20c5cb72b0e1884c"/>
+		<description>Bard's Tale, The (Europe) (En,Fr,De,Es)</description>
+		<rom name="Bard's Tale, The (Europe) (En,Fr,De,Es).iso" size="8008192000" crc="b7f6bd21" md5="2edcecf3ea0ed44bf4112b83f3ae5d2d" sha1="37a3abfdbf56f5f609a75620d06585cd6828945d"/>
 	</game>
 	<game name="Bard's Tale, The (USA) (Disc 1)">
 		<category>Games</category>
@@ -25669,11 +25669,11 @@
 		<rom name="Chaos Control &amp; Time Gate - Knight's Chase (Germany).bin" size="520591680" crc="342e249c" md5="f5e061982a9f291c28cfbb9fe145688e" sha1="6d641da981fdd2ec9922772595f5634aa1f25814"/>
 		<rom name="Chaos Control &amp; Time Gate - Knight's Chase (Germany).cue" size="141" crc="2a3323ee" md5="6a0e3dfb878ba418aa04339a25a27544" sha1="c712066d12be6c6a799b255085dd4656bf9e5ea9"/>
 	</game>
-	<game name="Chaos Control (Europe)">
+	<game name="Chaos Control (USA)">
 		<category>Games</category>
-		<description>Chaos Control (Europe)</description>
-		<rom name="Chaos Control (Europe).bin" size="231123984" crc="5af581d4" md5="659ae3b0a7fbefa62cf873beabfef42f" sha1="d7229d22841a5280bd5c9624efa7b0ef8980dba4"/>
-		<rom name="Chaos Control (Europe).cue" size="111" crc="e2aa0652" md5="6c633db04c598a8a7e8df1939c57786f" sha1="801ee59ada0261553ea3604d19a5dc3fb4cabf55"/>
+		<description>Chaos Control (USA)</description>
+		<rom name="Chaos Control (USA).bin" size="231131040" crc="617b197a" md5="27e380887c2f110c1697fca092417235" sha1="4a0358b09edf2c3c308e8918f152b1c9b889c56b"/>
+		<rom name="Chaos Control (USA).cue" size="85" crc="e7142f7c" md5="32dbd2e53e108f5577dce944b5969190" sha1="eeb6c28170634e094504ff5361071ea53a4d1c48"/>
 	</game>
 	<game name="Chaos Engine, The (USA)">
 		<category>Games</category>
@@ -57276,6 +57276,18 @@
 		<description>Fritz 8 (Germany) (Programm-CD)</description>
 		<rom name="Fritz 8 (Germany) (Programm-CD).bin" size="503255088" crc="e2130cfb" md5="c70a1063d67873e9e8a48b6309331bc3" sha1="a0ce98ce4f59fdd90b2f32cfc7d5d2874e7e0633"/>
 		<rom name="Fritz 8 (Germany) (Programm-CD).cue" size="97" crc="480e4b22" md5="b985f961c7458e9580fb47b05e0362f6" sha1="d3d3fcc7383c61133d92727b17aee2d4765e6ca6"/>
+	</game>
+	<game name="Fritz 8 (USA) (Disc 1)">
+		<category>Games</category>
+		<description>Fritz 8 (USA) (Disc 1)</description>
+		<rom name="Fritz 8 (USA) (Disc 1).bin" size="668572464" crc="5bba240f" md5="362c43eb748245559b9402f2d7d20e0f" sha1="a997fc2e3da1df354a349d4232b38a319e33bd8f"/>
+		<rom name="Fritz 8 (USA) (Disc 1).cue" size="88" crc="9ed7b080" md5="c7d5e66db408a542b95ec0a25978c84f" sha1="20ebe68299b09e0aeb16a05aa9170970cce093e5"/>
+	</game>
+	<game name="Fritz 8 (USA) (Disc 2)">
+		<category>Games</category>
+		<description>Fritz 8 (USA) (Disc 2)</description>
+		<rom name="Fritz 8 (USA) (Disc 2).bin" size="434216832" crc="97f994c6" md5="37843488bb9de3bcdd6e0f5dafa3025d" sha1="93fe257adc8211ec0fb5d04725d8b01291c3ba13"/>
+		<rom name="Fritz 8 (USA) (Disc 2).cue" size="88" crc="9f8a9651" md5="d45c5ee536ce7494818de70466e5ff8b" sha1="a8515a75d47e3028332f2148100e8a547be61156"/>
 	</game>
 	<game name="Fritz 8 SE (Germany)">
 		<category>Games</category>
@@ -110711,6 +110723,12 @@
 		<rom name="Noora Noita-Akka (Finland).bin" size="241232880" crc="ddc33ec0" md5="22df43aa5beb198defc22a8f4f1c1ad3" sha1="99cf67d86c598667a250a6deb8a47c4e39b45c27"/>
 		<rom name="Noora Noita-Akka (Finland).cue" size="115" crc="fc9aeb6f" md5="218b1ba658843f800836cee8448a5d39" sha1="b476f4d9967519495c081c8d01ae052b99025cb8"/>
 	</game>
+	<game name="Norm Koger's The Operational Art of War III (USA)">
+		<category>Games</category>
+		<description>Norm Koger's The Operational Art of War III (USA)</description>
+		<rom name="Norm Koger's The Operational Art of War III (USA).bin" size="276477600" crc="6bdac9d6" md5="9696c9b55a42587a334e5520dd806ac1" sha1="345f54165fae0a2f9ce161e1b532d97009bbfd7e"/>
+		<rom name="Norm Koger's The Operational Art of War III (USA).cue" size="115" crc="c9825927" md5="5096b07e4d05742c37963198e749bc52" sha1="bcef8967e6e56ab5fe9b60141c924c546f1a012c"/>
+	</game>
 	<game name="Norm Kogers Art of War - Volume 1 1939-1955 (Germany)">
 		<category>Games</category>
 		<description>Norm Kogers Art of War - Volume 1 1939-1955 (Germany)</description>
@@ -116601,6 +116619,12 @@
 		<description>Peter Pan (Brazil)</description>
 		<rom name="Peter Pan (Brazil).bin" size="121033920" crc="b28b02db" md5="c826407d8cdf4f443a78723bea3434a8" sha1="0f3842b0f438f9ed828d94636a1a46d4cea69143"/>
 		<rom name="Peter Pan (Brazil).cue" size="84" crc="e15c819d" md5="044753968ae89ef7c0db4a4ab273b429" sha1="03d532e3a36b60634e86ac5e1e35cab37fea3d96"/>
+	</game>
+	<game name="Petko's Gym (Germany)">
+		<category>Games</category>
+		<description>Petko's Gym (Germany)</description>
+		<rom name="Petko's Gym (Germany).bin" size="162701952" crc="52e8b214" md5="98b2e3ee4b5cb212af5f1b6ec36d13b7" sha1="6d446b1e10b7acfc2efcbb7685802d8b0ad26a53"/>
+		<rom name="Petko's Gym (Germany).cue" size="87" crc="3340bf5f" md5="2cafd9f9a32af5166ea78dfb8b0806e0" sha1="3dfde7b98722f17e9f902c262a22409ad0cebb82"/>
 	</game>
 	<game name="Petrovich i vse, vse, vse... (Russia)">
 		<category>Games</category>
@@ -136878,6 +136902,12 @@
 		<rom name="Scrabble Interactive - 2007 Edition (Europe).bin" size="277027968" crc="82074306" md5="4d4d4b884379a118306a9b51974fbada" sha1="da150517289f34df53bba94ca325d20d94faedc4"/>
 		<rom name="Scrabble Interactive - 2007 Edition (Europe).cue" size="110" crc="3d2b9c37" md5="427dcd09f9aa5f25fa5c27b6718dcab4" sha1="0fe1aa71f881a282271ab7762e34f374284d53d2"/>
 	</game>
+	<game name="Scrabble Online (USA)">
+		<category>Games</category>
+		<description>Scrabble Online (USA)</description>
+		<rom name="Scrabble Online (USA).bin" size="312801888" crc="3769d316" md5="5144f35ccfa46d4d4a5a8ce8ef9e0703" sha1="a70ff53c0155d6e31a050f23c3b0eb3264933bb2"/>
+		<rom name="Scrabble Online (USA).cue" size="87" crc="094107e0" md5="66c1e2fd580515ec4383260ec4ef41c6" sha1="af9f8141cc46e08a53b4f98038a5999d60f2c9a2"/>
+	</game>
 	<game name="Scratches (USA)">
 		<category>Games</category>
 		<description>Scratches (USA)</description>
@@ -144577,11 +144607,6 @@
 		<category>Add-Ons</category>
 		<description>Sims 3, The - Into the Future (Expansion Pack) (USA)</description>
 		<rom name="Sims 3, The - Into the Future (Expansion Pack) (USA).iso" size="6605602816" crc="bcaf6b9e" md5="52c4107d457ddac31e8b3f85f8f9b14c" sha1="50f979075438f3da85e462cee683ce81fdef0fcb"/>
-	</game>
-	<game name="Sims 3, The - Island Paradise (Europe, Australia)">
-		<category>Add-Ons</category>
-		<description>Sims 3, The - Island Paradise (Europe, Australia)</description>
-		<rom name="Sims 3, The - Island Paradise (Europe, Australia).iso" size="4696178688" crc="9c32d400" md5="d5c43d11735507f749ab039fd8bc1d4c" sha1="78c857f6e631ead9467462ef0994e6a0b74679ec"/>
 	</game>
 	<game name="Sims 3, The - Island Paradise (Expansion Pack) (USA)">
 		<category>Add-Ons</category>
