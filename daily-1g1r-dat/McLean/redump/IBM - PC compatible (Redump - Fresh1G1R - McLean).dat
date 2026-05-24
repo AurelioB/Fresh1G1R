@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,085) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-23 03-59-37) (Retool)</description>
-		<version>2026-05-23 03-59-37</version>
-		<date>2026-05-23 03-19-43</date>
+		<description>IBM - PC compatible (13,087) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-24 04-36-42) (Retool)</description>
+		<version>2026-05-24 04-36-42</version>
+		<date>2026-05-24 03-25-33</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -34010,11 +34010,11 @@
 		<rom name="Guilty Gear Isuka (Spain).bin" size="759794784" crc="024e554e" md5="6a37a593d322869793267b1d4c935cbf" sha1="3c457a78c7e8e5e788b357380b708ba2730750e2"/>
 		<rom name="Guilty Gear Isuka (Spain).cue" size="91" crc="e2dbcb2c" md5="414b293ad3cd89edfaa81bfa565a253e" sha1="c603435c7a33b87d6499ca46a4555b8814f7c7bb"/>
 	</game>
-	<game name="Guilty Gear X2 Reload - The Midnight Carnival (Russia)">
+	<game name="Guilty Gear X2 Reload - The Midnight Carnival (Europe)">
 		<category>Games</category>
-		<description>Guilty Gear X2 Reload - The Midnight Carnival (Russia)</description>
-		<rom name="Guilty Gear X2 Reload - The Midnight Carnival (Russia).bin" size="844273920" crc="c031ed6a" md5="8fab7e5413145a3bafd34bb06c1c7fb8" sha1="aff0e660415eb5a5760be22a88a1f4e35c953254"/>
-		<rom name="Guilty Gear X2 Reload - The Midnight Carnival (Russia).cue" size="120" crc="cc20187c" md5="900ec084bb141f4a5ce6b38219bcf506" sha1="09b050ba1f99c54c694872d29c937fd666176e35"/>
+		<description>Guilty Gear X2 Reload - The Midnight Carnival (Europe)</description>
+		<rom name="Guilty Gear X2 Reload - The Midnight Carnival (Europe).bin" size="838558560" crc="b72176f1" md5="83059c7ffcda462c3033ba38b437f8e4" sha1="ddf6fa67c8d59c8f3b258d732c64752c195313b0"/>
+		<rom name="Guilty Gear X2 Reload - The Midnight Carnival (Europe).cue" size="120" crc="99679871" md5="6e4db911afc20913b649a0817419d852" sha1="96d007d119a9bf0b53ca49d02836a12b04a32003"/>
 	</game>
 	<game name="Guimo (Europe) (Rerelease)">
 		<category>Games</category>
@@ -51462,6 +51462,11 @@
 		<rom name="Mighty Morphin Power Rangers - Jigsaw Puzzles (USA) (Track 7).bin" size="55987008" crc="1db977c0" md5="dc96f083b593a03565332cf2c5a728f4" sha1="4f5a59009e4fd3c2b71a25b53e3197f2b4043aa6"/>
 		<rom name="Mighty Morphin Power Rangers - Jigsaw Puzzles (USA) (Track 8).bin" size="11757648" crc="d602e81d" md5="2b9dfd4148cf860f2eb6c42cc1394811" sha1="110aba2f76015dce70131cf472a8786646e67295"/>
 		<rom name="Mighty Morphin Power Rangers - Jigsaw Puzzles (USA).cue" size="1247" crc="39f518e9" md5="11d6e0230ac90c8b918948338e6c9d95" sha1="2e07ecc8628bd2eb162463e306d81aede5a8a18f"/>
+	</game>
+	<game name="Mighty No. 9 (Spain) (En,Ja,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs)">
+		<category>Games</category>
+		<description>Mighty No. 9 (Spain) (En,Ja,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs)</description>
+		<rom name="Mighty No. 9 (Spain) (En,Ja,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs).iso" size="1832583168" crc="56d4b598" md5="efe0d306777174b6b9410b27ae6eeaf6" sha1="6c402ebe6284b2c68db6fa05fb3fbbc1167726f5"/>
 	</game>
 	<game name="Mike Stewart's 360 Beach Bodyboarding (Netherlands)">
 		<category>Games</category>
@@ -90029,6 +90034,11 @@
 		<category>Games</category>
 		<description>World of Tanks (USA)</description>
 		<rom name="World of Tanks (USA).iso" size="4016177152" crc="8b1dd758" md5="3a3a379af358b2a10f8a0c0af731aec5" sha1="8d1e0388f27b80248b3dc19c3071ed0c9fc91123"/>
+	</game>
+	<game name="World of WarCraft (Europe) (En,Fr,De,Es) (Rerelease)">
+		<category>Games</category>
+		<description>World of WarCraft (Europe) (En,Fr,De,Es) (Rerelease)</description>
+		<rom name="World of WarCraft (Europe) (En,Fr,De,Es) (Rerelease).iso" size="7809794048" crc="d35964f7" md5="58c5db31851ab0ce31c86ecd8cd766f5" sha1="1e74f7f43dc4c226c35187f83f6f837cf4a714dd"/>
 	</game>
 	<game name="World of WarCraft (USA) (DVD-ROM) (v3.1.0)">
 		<category>Games</category>

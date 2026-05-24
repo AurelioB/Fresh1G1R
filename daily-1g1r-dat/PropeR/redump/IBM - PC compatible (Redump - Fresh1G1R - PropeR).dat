@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,696) (-y) [-aAbBcdkmMpPuv] (2026-05-23 03-59-37) (Retool)</description>
-		<version>2026-05-23 03-59-37</version>
-		<date>2026-05-23 03-21-21</date>
+		<description>IBM - PC compatible (25,700) (-y) [-aAbBcdkmMpPuv] (2026-05-24 04-36-42) (Retool)</description>
+		<version>2026-05-24 04-36-42</version>
+		<date>2026-05-24 03-27-14</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -4212,11 +4212,11 @@
 		<description>Adventure Game Pack - Volume 1 (Europe) (Disc 2) (Espanol)</description>
 		<rom name="Adventure Game Pack - Volume 1 (Europe) (Disc 2) (Espanol).iso" size="4169793536" crc="473493fb" md5="bdc90c2cad97c98c75e021275dc5a2f1" sha1="9c14b9ae5a4e0d72a65fbf97539e15fd4d5829c3"/>
 	</game>
-	<game name="Adventure Hall of Fame - Manuals (Germany)">
+	<game name="Adventure Hall of Fame - Manuals (Europe) (En,Fr,De)">
 		<category>Bonus Discs</category>
-		<description>Adventure Hall of Fame - Manuals (Germany)</description>
-		<rom name="Adventure Hall of Fame - Manuals (Germany).bin" size="71648976" crc="9033715f" md5="0d755c5ec3c0c3b58cb4513ff33ec162" sha1="5535152af328b1b0e393ea38462f4f691de54c30"/>
-		<rom name="Adventure Hall of Fame - Manuals (Germany).cue" size="131" crc="a56003da" md5="5197b3c3310d9ad96740e2f5dbfa1d70" sha1="83d064a4f0f03ca8b8f6cf16c59b2efc967cc03d"/>
+		<description>Adventure Hall of Fame - Manuals (Europe) (En,Fr,De)</description>
+		<rom name="Adventure Hall of Fame - Manuals (Europe) (En,Fr,De).bin" size="71648976" crc="9033715f" md5="0d755c5ec3c0c3b58cb4513ff33ec162" sha1="5535152af328b1b0e393ea38462f4f691de54c30"/>
+		<rom name="Adventure Hall of Fame - Manuals (Europe) (En,Fr,De).cue" size="141" crc="ff3d2c20" md5="20cbd098e63ef86a280f85903e1d68a9" sha1="791a76430943022b03fcb4fee52ed013143fac39"/>
 	</game>
 	<game name="Adventure Pinball - Forgotten Island (USA)">
 		<category>Games</category>
@@ -9768,6 +9768,12 @@
 		<description>Apocalyptica (USA) (En,Fr,De,Es,It) (Disc 1)</description>
 		<rom name="Apocalyptica (USA) (En,Fr,De,Es,It) (Disc 1).bin" size="736585248" crc="5927f9b3" md5="ac9e2182e5ea63de5f21c4132072af86" sha1="9ff824455bb025a3d710c51c90bb765b20d16b93"/>
 		<rom name="Apocalyptica (USA) (En,Fr,De,Es,It) (Disc 1).cue" size="110" crc="01432ebd" md5="53da931bab25a8c9d46e5d28de1cbf18" sha1="7ec40c45588972a37719ee616aa3fa9319cfb170"/>
+	</game>
+	<game name="Apogee ROM (Germany)">
+		<category>Games</category>
+		<description>Apogee ROM (Germany)</description>
+		<rom name="Apogee ROM (Germany).bin" size="26535264" crc="c42d7b9a" md5="da9c6c3b6f01827ff8c81b4fba2cb9d8" sha1="551cb9de3054421bab20134df9d2efe2dd60efb3"/>
+		<rom name="Apogee ROM (Germany).cue" size="86" crc="59da039f" md5="4aa30a81bc10c511cf4f75fe09a7ec20" sha1="a414d78378d90b56b111723bb6c242af17fd03c3"/>
 	</game>
 	<game name="Apollo 18 - The Moon Missions (Europe) (Johnson Space Center Trainingdisk)">
 		<category>Games</category>
@@ -64751,11 +64757,11 @@
 		<rom name="Guilty Gear X - By Your Side G.Gear (Japan) (Type E).bin" size="132989136" crc="3f4e59ff" md5="d2f161edb0c5e45319826bc44f05945d" sha1="94650b9fcf8f1e0553949e5625b8532e7d4aa8f9"/>
 		<rom name="Guilty Gear X - By Your Side G.Gear (Japan) (Type E).cue" size="118" crc="4452cb60" md5="31267c97294a8e649a891ccf41fa8d99" sha1="cce1243ec6f9cb4f0cee8f868a5743efad29162a"/>
 	</game>
-	<game name="Guilty Gear X2 Reload - The Midnight Carnival (Russia)">
+	<game name="Guilty Gear X2 Reload - The Midnight Carnival (Europe)">
 		<category>Games</category>
-		<description>Guilty Gear X2 Reload - The Midnight Carnival (Russia)</description>
-		<rom name="Guilty Gear X2 Reload - The Midnight Carnival (Russia).bin" size="844273920" crc="c031ed6a" md5="8fab7e5413145a3bafd34bb06c1c7fb8" sha1="aff0e660415eb5a5760be22a88a1f4e35c953254"/>
-		<rom name="Guilty Gear X2 Reload - The Midnight Carnival (Russia).cue" size="120" crc="cc20187c" md5="900ec084bb141f4a5ce6b38219bcf506" sha1="09b050ba1f99c54c694872d29c937fd666176e35"/>
+		<description>Guilty Gear X2 Reload - The Midnight Carnival (Europe)</description>
+		<rom name="Guilty Gear X2 Reload - The Midnight Carnival (Europe).bin" size="838558560" crc="b72176f1" md5="83059c7ffcda462c3033ba38b437f8e4" sha1="ddf6fa67c8d59c8f3b258d732c64752c195313b0"/>
+		<rom name="Guilty Gear X2 Reload - The Midnight Carnival (Europe).cue" size="120" crc="99679871" md5="6e4db911afc20913b649a0817419d852" sha1="96d007d119a9bf0b53ca49d02836a12b04a32003"/>
 	</game>
 	<game name="Guilty Gear XX Reload - The Midnight Carnival (Japan)">
 		<category>Games</category>
@@ -100092,6 +100098,11 @@
 		<rom name="Mighty Morphin Power Rangers - Jigsaw Puzzles (USA) (Track 7).bin" size="55987008" crc="1db977c0" md5="dc96f083b593a03565332cf2c5a728f4" sha1="4f5a59009e4fd3c2b71a25b53e3197f2b4043aa6"/>
 		<rom name="Mighty Morphin Power Rangers - Jigsaw Puzzles (USA) (Track 8).bin" size="11757648" crc="d602e81d" md5="2b9dfd4148cf860f2eb6c42cc1394811" sha1="110aba2f76015dce70131cf472a8786646e67295"/>
 		<rom name="Mighty Morphin Power Rangers - Jigsaw Puzzles (USA).cue" size="1247" crc="39f518e9" md5="11d6e0230ac90c8b918948338e6c9d95" sha1="2e07ecc8628bd2eb162463e306d81aede5a8a18f"/>
+	</game>
+	<game name="Mighty No. 9 (Spain) (En,Ja,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs)">
+		<category>Games</category>
+		<description>Mighty No. 9 (Spain) (En,Ja,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs)</description>
+		<rom name="Mighty No. 9 (Spain) (En,Ja,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs).iso" size="1832583168" crc="56d4b598" md5="efe0d306777174b6b9410b27ae6eeaf6" sha1="6c402ebe6284b2c68db6fa05fb3fbbc1167726f5"/>
 	</game>
 	<game name="Mike Mulligan and His Steam Shovel (USA)">
 		<category>Educational</category>
@@ -139906,6 +139917,24 @@
 		<rom name="Shanghai - Dynasty (Europe) (Track 12).bin" size="16939104" crc="6896e525" md5="e4ca3052cce85eb708b5cf8ac223e33f" sha1="dd8ac4993f528337991380ee3c8a6fa392363e48"/>
 		<rom name="Shanghai - Dynasty (Europe).cue" size="1239" crc="f05c6b72" md5="8e86b1532cbf624e39f01289e4904b37" sha1="a55c7b0d729d2c1859fee45410290f6ae1c3417c"/>
 	</game>
+	<game name="Shanghai - Dynasty 2 (Japan)">
+		<category>Games</category>
+		<description>Shanghai - Dynasty 2 (Japan)</description>
+		<rom name="Shanghai - Dynasty 2 (Japan) (Track 01).bin" size="435769152" crc="16a80e59" md5="9c2e1dcd63613e4c868b197f29b1878f" sha1="97f25c26267188834d581b3bc36e49966d663b3a"/>
+		<rom name="Shanghai - Dynasty 2 (Japan) (Track 02).bin" size="17823456" crc="024b5eb1" md5="79361269e71f69e87de5eab55ebd05cf" sha1="f0bfda25e78809ac523d472677e7f73ffe72c83a"/>
+		<rom name="Shanghai - Dynasty 2 (Japan) (Track 03).bin" size="17115504" crc="902c5cb1" md5="5420c6ed1c649c7137ff9495abe3bc8f" sha1="655c5f4e5febced33b5995fc4fb3202aa6883411"/>
+		<rom name="Shanghai - Dynasty 2 (Japan) (Track 04).bin" size="25672080" crc="066eebcb" md5="5f9af80eb5457d80cfbb4a7c8bc60f09" sha1="73517a2f3e9aa547053aeff29a4ec4886bd06717"/>
+		<rom name="Shanghai - Dynasty 2 (Japan) (Track 05).bin" size="21690144" crc="0eedd5d5" md5="28556a0b76ff80071a98c60badcdca20" sha1="5a5193553e893586d0b8927e7a098b12e8d87a58"/>
+		<rom name="Shanghai - Dynasty 2 (Japan) (Track 06).bin" size="22804992" crc="11abeebf" md5="4c82e302e19c39d6605826e2e03f16e5" sha1="8f2f60f9283af2a42d1accb0c0e37569f39545fb"/>
+		<rom name="Shanghai - Dynasty 2 (Japan) (Track 07).bin" size="21092736" crc="6625e12c" md5="49689a92809ba477a546cb5cae0e06cf" sha1="43066f5bbc964c63950441c9e28479a02f814d6d"/>
+		<rom name="Shanghai - Dynasty 2 (Japan) (Track 08).bin" size="21781872" crc="1434d5f0" md5="965d80f35daab111a0d935cc9278b1d0" sha1="84b2853a9b0140b1bba918e5bb16fa6e6ec57ea7"/>
+		<rom name="Shanghai - Dynasty 2 (Japan) (Track 09).bin" size="23849280" crc="b1476bb9" md5="5d365337adae0dda60a3ccb57694d170" sha1="0646536562aa283ff4efe84648a082df23b4d23f"/>
+		<rom name="Shanghai - Dynasty 2 (Japan) (Track 10).bin" size="21306768" crc="5fc904ec" md5="e599ad8c4f1ee3dcd6c9d2e721f94c9f" sha1="57f6a10abbe41f3ecfdc35993f154f9a78b4a307"/>
+		<rom name="Shanghai - Dynasty 2 (Japan) (Track 11).bin" size="20871648" crc="a4a178bc" md5="bf6090d2d90e02fd0c2dc47cd92776da" sha1="d2effc76b27045f6142e6e34abc1d333c8b522de"/>
+		<rom name="Shanghai - Dynasty 2 (Japan) (Track 12).bin" size="25829664" crc="d3f53759" md5="9226a8ed47c613eb04d5681a199d3889" sha1="029b1ca9f876f3feda240a77675e32b1e6d835b9"/>
+		<rom name="Shanghai - Dynasty 2 (Japan) (Track 13).bin" size="1063104" crc="e760a5a9" md5="cf8e1469d90870e3b5b39eb84334550c" sha1="acc45eefd887464d6c9d16a7982324bc4a0029f7"/>
+		<rom name="Shanghai - Dynasty 2 (Japan).cue" size="1581" crc="07bb3b2d" md5="2316d88f443ef7d1dc7a4a3aa08fd521" sha1="c6866aee3942805166028a662dbe8dc788c51103"/>
+	</game>
 	<game name="Shanghai - Great Moments (USA)">
 		<category>Games</category>
 		<description>Shanghai - Great Moments (USA)</description>
@@ -160495,24 +160524,24 @@
 		<rom name="Tom Clancy's Rainbow Six - Rogue Spear Mission Pack - Urban Operations (USA) (Track 14).bin" size="7909776" crc="244b2025" md5="51e92783558dee10915d989a542ec0c9" sha1="3403b7eab1031dcd5eb3371aabe73392aa5cc6e4"/>
 		<rom name="Tom Clancy's Rainbow Six - Rogue Spear Mission Pack - Urban Operations (USA).cue" size="2100" crc="3c29bab0" md5="02dc0d364ef3282804f82de6610bf57a" sha1="92869cecf64586688cdaa0dcd1f7971da92fa395"/>
 	</game>
-	<game name="Tom Clancy's Rainbow Six - Take-Down (Korea)">
+	<game name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Teen Version)">
 		<category>Games</category>
-		<description>Tom Clancy's Rainbow Six - Take-Down (Korea)</description>
-		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Track 01).bin" size="605729376" crc="f582e82e" md5="84d9c94d6132acf0e533ded7c82c9cf5" sha1="29619eda48fdd8870d10cbce926f2defb7cd34f9"/>
-		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Track 02).bin" size="16045344" crc="7ff9d0d2" md5="02e82111e2c737c891ba032d9792b7f6" sha1="c0908742b9dd5f9a85dca3482a8555b0f74e09ae"/>
-		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Track 03).bin" size="4689888" crc="3b27f760" md5="0491c21961a70a9e337ca65a48163ad1" sha1="5e8f71d5c60225b8dc745e0cc648446e269009b3"/>
-		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Track 04).bin" size="4908624" crc="c0f06513" md5="aa761e2a1a4a49849f88b1c4d76f6bc1" sha1="7a7dd77164c01b64907494b6ceb604ed3ebef7db"/>
-		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Track 05).bin" size="4786320" crc="04a244d2" md5="dbbe8f8ed024f5c7662622d116dff7b6" sha1="a61d8b081556bbb4eab4d670efbc6a969bf3fb48"/>
-		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Track 06).bin" size="5882352" crc="d388b20e" md5="4945a323ae858f9d5144ba0ba2a6fdec" sha1="df20ea85a21cfb6c7632defcf684ee175bb1a1cc"/>
-		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Track 07).bin" size="14805840" crc="d51af29c" md5="97201bb8737f1c92aa0eb5e74d487e5b" sha1="c2d97e4c2818834dc459acdfbd7dfa419456b5d8"/>
-		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Track 08).bin" size="12787824" crc="42d8bbc1" md5="6045d8987fde42f2a0cb1645f4d719c7" sha1="71f5133fe42858677df753fb10ba85fe3746ce40"/>
-		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Track 09).bin" size="3845520" crc="94f094f2" md5="8141ef4ce34a27134d0e14c890955ee0" sha1="cf16f586b37f493a565b3c49176b86fa89a31358"/>
-		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Track 10).bin" size="5442528" crc="f51c7dd2" md5="c21dea7995b427827d6b100622e0f088" sha1="000ae5455ee2b1dbae1a4ea92283648e98c32a98"/>
-		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Track 11).bin" size="5275536" crc="29863c9f" md5="6fdd5661922f335102884530f61f0c9c" sha1="d0690e617dfa2448cb55a670d2a40a0f195adcce"/>
-		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Track 12).bin" size="5649504" crc="aee6800b" md5="698af691958e1e22cdf5e57d19aad689" sha1="95e4c67bf539036f788e62053021f0c0c96b80c8"/>
-		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Track 13).bin" size="4527600" crc="77fce14f" md5="0ac63e4c03496c6c66de29120cbb3aa7" sha1="8b4155ae7bd08fc80b0c2fa751ce6e72544638cf"/>
-		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Track 14).bin" size="6199872" crc="212d5411" md5="04474d77245bba10963d4bcb9f83fdc1" sha1="f0e41d04f69366ac714f446c694918694a311e74"/>
-		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea).cue" size="1652" crc="cae3f20b" md5="4986b33b4981a74df6f1276b8a98480f" sha1="e134b7b448d9fc93cf366eccd54c3c7859ee883c"/>
+		<description>Tom Clancy's Rainbow Six - Take-Down (Korea) (Teen Version)</description>
+		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Teen Version) (Track 01).bin" size="605729376" crc="f582e82e" md5="84d9c94d6132acf0e533ded7c82c9cf5" sha1="29619eda48fdd8870d10cbce926f2defb7cd34f9"/>
+		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Teen Version) (Track 02).bin" size="16045344" crc="7ff9d0d2" md5="02e82111e2c737c891ba032d9792b7f6" sha1="c0908742b9dd5f9a85dca3482a8555b0f74e09ae"/>
+		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Teen Version) (Track 03).bin" size="4689888" crc="3b27f760" md5="0491c21961a70a9e337ca65a48163ad1" sha1="5e8f71d5c60225b8dc745e0cc648446e269009b3"/>
+		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Teen Version) (Track 04).bin" size="4908624" crc="c0f06513" md5="aa761e2a1a4a49849f88b1c4d76f6bc1" sha1="7a7dd77164c01b64907494b6ceb604ed3ebef7db"/>
+		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Teen Version) (Track 05).bin" size="4786320" crc="04a244d2" md5="dbbe8f8ed024f5c7662622d116dff7b6" sha1="a61d8b081556bbb4eab4d670efbc6a969bf3fb48"/>
+		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Teen Version) (Track 06).bin" size="5882352" crc="d388b20e" md5="4945a323ae858f9d5144ba0ba2a6fdec" sha1="df20ea85a21cfb6c7632defcf684ee175bb1a1cc"/>
+		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Teen Version) (Track 07).bin" size="14805840" crc="d51af29c" md5="97201bb8737f1c92aa0eb5e74d487e5b" sha1="c2d97e4c2818834dc459acdfbd7dfa419456b5d8"/>
+		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Teen Version) (Track 08).bin" size="12787824" crc="42d8bbc1" md5="6045d8987fde42f2a0cb1645f4d719c7" sha1="71f5133fe42858677df753fb10ba85fe3746ce40"/>
+		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Teen Version) (Track 09).bin" size="3845520" crc="94f094f2" md5="8141ef4ce34a27134d0e14c890955ee0" sha1="cf16f586b37f493a565b3c49176b86fa89a31358"/>
+		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Teen Version) (Track 10).bin" size="5442528" crc="f51c7dd2" md5="c21dea7995b427827d6b100622e0f088" sha1="000ae5455ee2b1dbae1a4ea92283648e98c32a98"/>
+		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Teen Version) (Track 11).bin" size="5275536" crc="29863c9f" md5="6fdd5661922f335102884530f61f0c9c" sha1="d0690e617dfa2448cb55a670d2a40a0f195adcce"/>
+		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Teen Version) (Track 12).bin" size="5649504" crc="aee6800b" md5="698af691958e1e22cdf5e57d19aad689" sha1="95e4c67bf539036f788e62053021f0c0c96b80c8"/>
+		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Teen Version) (Track 13).bin" size="4527600" crc="77fce14f" md5="0ac63e4c03496c6c66de29120cbb3aa7" sha1="8b4155ae7bd08fc80b0c2fa751ce6e72544638cf"/>
+		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Teen Version) (Track 14).bin" size="6199872" crc="212d5411" md5="04474d77245bba10963d4bcb9f83fdc1" sha1="f0e41d04f69366ac714f446c694918694a311e74"/>
+		<rom name="Tom Clancy's Rainbow Six - Take-Down (Korea) (Teen Version).cue" size="1862" crc="bd3dd4c6" md5="55a7a43a7c3dca47e87706892c5e1838" sha1="81f25e078fec6f1b2aa381c5bf7ac77a946483ce"/>
 	</game>
 	<game name="Tom Clancy's Rainbow Six - Vegas (USA) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -176186,6 +176215,11 @@
 		<description>World of Totty Pig, The (USA)</description>
 		<rom name="World of Totty Pig, The (USA).bin" size="226288272" crc="6f3b50ac" md5="12ddee0382342acdad35fb09270cf8c4" sha1="de77f298b91694cb8f4726d6a27aa6091dc18f7e"/>
 		<rom name="World of Totty Pig, The (USA).cue" size="118" crc="3b268e8c" md5="5020e11b6dcc2d2a74b779493ecd4f5f" sha1="b37fd83093722c972d0b799e5671f907f5ad5140"/>
+	</game>
+	<game name="World of WarCraft (Europe) (En,Fr,De,Es) (Rerelease)">
+		<category>Games</category>
+		<description>World of WarCraft (Europe) (En,Fr,De,Es) (Rerelease)</description>
+		<rom name="World of WarCraft (Europe) (En,Fr,De,Es) (Rerelease).iso" size="7809794048" crc="d35964f7" md5="58c5db31851ab0ce31c86ecd8cd766f5" sha1="1e74f7f43dc4c226c35187f83f6f837cf4a714dd"/>
 	</game>
 	<game name="World of WarCraft (Russia) (Disc 1) (Igrovoj disk) (v3.2.0.10192)">
 		<category>Games</category>
