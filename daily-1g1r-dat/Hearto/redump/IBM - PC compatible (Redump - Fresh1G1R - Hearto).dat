@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,142) (-y) [-aAbBcefkmMoprv] (2026-05-24 04-36-42) (Retool)</description>
-		<version>2026-05-24 04-36-42</version>
-		<date>2026-05-24 03-23-51</date>
+		<description>IBM - PC compatible (25,142) (-y) [-aAbBcefkmMoprv] (2026-05-25 01-54-53) (Retool)</description>
+		<version>2026-05-25 01-54-53</version>
+		<date>2026-05-25 03-25-44</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -27366,11 +27366,11 @@
 		<rom name="Close Combat - First to Fight (USA) (Disc 3).bin" size="615668928" crc="f2a2a6d5" md5="83f56e52c316c6d750e78866112e12d1" sha1="6d9a98c48ea7a2ddf67ff5a1d359fefad65f9d16"/>
 		<rom name="Close Combat - First to Fight (USA) (Disc 3).cue" size="110" crc="359f2485" md5="63cc5e635920102e6effb7a69347c9ff" sha1="ad4a01a1f1ad0df802d7e316a6bb639315878e98"/>
 	</game>
-	<game name="Close Combat - Invasion Normandy (UK)">
+	<game name="Close Combat - Invasion Normandy (Europe, Australia)">
 		<category>Games</category>
-		<description>Close Combat - Invasion Normandy (UK)</description>
-		<rom name="Close Combat - Invasion Normandy (UK).bin" size="747863088" crc="466ffe58" md5="36392cc66d68c1eaf1f2b95a8f83bcfa" sha1="4c22dadada925254fbcd981ef6051d3428c3d7d9"/>
-		<rom name="Close Combat - Invasion Normandy (UK).cue" size="103" crc="c973ce7e" md5="3ed4afb19a383520c29a68e47a0f5a3b" sha1="394ab9e3f7998a8869727b9a2cf2734eb5b74785"/>
+		<description>Close Combat - Invasion Normandy (Europe, Australia)</description>
+		<rom name="Close Combat - Invasion Normandy (Europe, Australia).bin" size="761382384" crc="1fb03407" md5="28dbec42dc9d8de5ba6eb48293304fc0" sha1="c3debdd888e6dfc00d3c1796305a5ae6f752a9b9"/>
+		<rom name="Close Combat - Invasion Normandy (Europe, Australia).cue" size="118" crc="f976fa42" md5="6625e18f98392e81f5df938ded36407c" sha1="6e9c3fc7306ffa5633a9699c4eb4cba03985f2ad"/>
 	</game>
 	<game name="Close Combat III - The Russian Front (USA, Europe)">
 		<category>Games</category>
@@ -52250,10 +52250,10 @@
 		<description>Farming Simulator 2011 - Platinum Edition (USA)</description>
 		<rom name="Farming Simulator 2011 - Platinum Edition (USA).iso" size="1025802240" crc="89c3af26" md5="636fb2f260d147aa6e9a60cad6f70990" sha1="68d8b92363453b02e4b39fd764b6ff998eec3316"/>
 	</game>
-	<game name="Farming Simulator 2013 (Europe)">
+	<game name="Farming Simulator 2013 (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru,Cs,Hu)">
 		<category>Games</category>
-		<description>Farming Simulator 2013 (Europe)</description>
-		<rom name="Farming Simulator 2013 (Europe).iso" size="1621006336" crc="0491c3c7" md5="7e71228596ddabc68d92cf2143ca0def" sha1="3eb5365424389bc292c71335b39d7e953893b24f"/>
+		<description>Farming Simulator 2013 (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru,Cs,Hu)</description>
+		<rom name="Farming Simulator 2013 (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru,Cs,Hu).iso" size="1621006336" crc="0491c3c7" md5="7e71228596ddabc68d92cf2143ca0def" sha1="3eb5365424389bc292c71335b39d7e953893b24f"/>
 	</game>
 	<game name="Farming Simulator 2013 - Titanium Edition (USA) (En,Fr,De,It)">
 		<category>Games</category>
