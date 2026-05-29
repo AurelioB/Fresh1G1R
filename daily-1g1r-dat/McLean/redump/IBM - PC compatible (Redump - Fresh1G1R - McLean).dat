@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,091) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-27 23-12-46) (Retool)</description>
-		<version>2026-05-27 23-12-46</version>
-		<date>2026-05-28 03-25-58</date>
+		<description>IBM - PC compatible (13,093) (-ly) [-aAbBcdDefkmMopPruv] (2026-05-29 03-52-04) (Retool)</description>
+		<version>2026-05-29 03-52-04</version>
+		<date>2026-05-29 03-20-44</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -10068,6 +10068,12 @@
 		<description>Block Party 2 - Cubis 2 + Mozaki Blocks Deluxe (USA)</description>
 		<rom name="Block Party 2 - Cubis 2 + Mozaki Blocks Deluxe (USA).bin" size="375541488" crc="264431a8" md5="68c678742b0e725dbcf697b361b75697" sha1="7865c52965a6f0aa19abc0e3fad4f52c132757d1"/>
 		<rom name="Block Party 2 - Cubis 2 + Mozaki Blocks Deluxe (USA).cue" size="118" crc="9998621d" md5="f3f1a6cb3e6d20c7d95d1925ac26ed65" sha1="4d22d44d004f332e112c8ef594047d8f4f2ed3bf"/>
+	</game>
+	<game name="Blocmania 3D (UK)">
+		<category>Games</category>
+		<description>Blocmania 3D (UK)</description>
+		<rom name="Blocmania 3D (UK).bin" size="82254144" crc="347b20cd" md5="2a7b7014099d63af290977028c3abd3e" sha1="de182536136a98f6e1bc8b86801d0dddddae7f7e"/>
+		<rom name="Blocmania 3D (UK).cue" size="83" crc="cd7aef33" md5="9be13ecd3cb5951f4c60e017909351d9" sha1="23807a25058134f27e0a312952451e100069a56b"/>
 	</game>
 	<game name="Blood &amp; Magic (USA)">
 		<category>Games</category>
@@ -59609,6 +59615,11 @@
 		<description>Phoenix - Deep Space Resurrection (Europe) (Disc 2)</description>
 		<rom name="Phoenix - Deep Space Resurrection (Europe) (Disc 2).bin" size="733673472" crc="3f132af5" md5="514dd27242fab22a5bddf79d64d581bd" sha1="c12a72b62aa6193b1b893a0c0fc34709b30237be"/>
 		<rom name="Phoenix - Deep Space Resurrection (Europe) (Disc 2).cue" size="117" crc="5652e347" md5="4206da5c69a0f6b04c4b4356d8b56e4a" sha1="1df6538585f68d5f1363945b3edb941ce892ea4d"/>
+	</game>
+	<game name="Phoenix R-C - Professional Radio Control Flight Simulation (USA)">
+		<category>Games</category>
+		<description>Phoenix R-C - Professional Radio Control Flight Simulation (USA)</description>
+		<rom name="Phoenix R-C - Professional Radio Control Flight Simulation (USA).iso" size="3166437376" crc="109ae034" md5="2171b93c3149bcdba023ba8e5fd7a4b1" sha1="3a220cf9a16768b791189e281fa0cc840d5b7c5c"/>
 	</game>
 	<game name="Phonics 1b - Consonants Sounds (USA)">
 		<category>Games</category>

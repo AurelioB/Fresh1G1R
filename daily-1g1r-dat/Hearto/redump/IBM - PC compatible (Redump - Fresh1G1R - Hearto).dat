@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,152) (-y) [-aAbBcefkmMoprv] (2026-05-27 23-12-46) (Retool)</description>
-		<version>2026-05-27 23-12-46</version>
-		<date>2026-05-28 03-24-19</date>
+		<description>IBM - PC compatible (25,164) (-y) [-aAbBcefkmMoprv] (2026-05-29 03-52-04) (Retool)</description>
+		<version>2026-05-29 03-52-04</version>
+		<date>2026-05-29 03-19-05</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -962,6 +962,12 @@
 		<description>200 Pasokon Soft 3, The - American Shorthair (Japan)</description>
 		<rom name="200 Pasokon Soft 3, The - American Shorthair (Japan).bin" size="60455808" crc="09371495" md5="fcf15a99ebfdc8c1f12d1e16b4e209b9" sha1="ad2d8362ce707337d4ec864af3deaafb36c6bb24"/>
 		<rom name="200 Pasokon Soft 3, The - American Shorthair (Japan).cue" size="118" crc="d7907727" md5="58f4bdab96f8010392a7be4c7147c997" sha1="2b1c5c75870ef2236ebd057ed23b9290b7e9f4e3"/>
+	</game>
+	<game name="2000 Daytona 500 Interactive Program (USA)">
+		<category>Demos</category>
+		<description>2000 Daytona 500 Interactive Program (USA)</description>
+		<rom name="2000 Daytona 500 Interactive Program (USA).bin" size="670371744" crc="a23b5cfd" md5="4caf74cd08a7b40be72118e09ee4c3e0" sha1="3af68e52656603aa020599c60c8c24d24acfec30"/>
+		<rom name="2000 Daytona 500 Interactive Program (USA).cue" size="131" crc="dc258f6e" md5="a281c13db1fa0830f85d775e1859de05" sha1="372541920b3f4c85fc6325791d60e6d1d93eb986"/>
 	</game>
 	<game name="2002 FIFA World Cup (Europe)">
 		<category>Games</category>
@@ -9406,6 +9412,18 @@
 		<category>Games</category>
 		<description>Anomaly - Warzone Earth (Europe)</description>
 		<rom name="Anomaly - Warzone Earth (Europe).iso" size="463405056" crc="f9f9148f" md5="734d457ab6fae99fbfa1bdb570d3db8e" sha1="4b57c34858c084169fa1220c1bd3118b900124d4"/>
+	</game>
+	<game name="Another Apocalypse (Japan)">
+		<category>Games</category>
+		<description>Another Apocalypse (Japan)</description>
+		<rom name="Another Apocalypse (Japan).bin" size="553686672" crc="9460c787" md5="08a01c853577847efb1ef4d34b38f9e4" sha1="2885bab431337aeb684b9b00a30b00415a322958"/>
+		<rom name="Another Apocalypse (Japan).cue" size="92" crc="5b6ab947" md5="7a8ce728af0afe7c47e3cb73ca014503" sha1="74c0dd7bb22dcd9023eac223cf451a6910b86162"/>
+	</game>
+	<game name="Another Apocalypse II - Dual Pagan (Japan)">
+		<category>Games</category>
+		<description>Another Apocalypse II - Dual Pagan (Japan)</description>
+		<rom name="Another Apocalypse II - Dual Pagan (Japan).bin" size="472660272" crc="54be7837" md5="b16222b083764ff639a432c59f374269" sha1="bdf983a36a1df3e1b4b8da2e50d7514a5f890174"/>
+		<rom name="Another Apocalypse II - Dual Pagan (Japan).cue" size="108" crc="9778d0cf" md5="577cc87332a4f3a877151d1236572970" sha1="bca6307d1be8ecaf90ec1cc703285a86bd8f555c"/>
 	</game>
 	<game name="Another War (Italy) (Disc 1)">
 		<category>Games</category>
@@ -19505,6 +19523,12 @@
 		<description>Block Party 2 - Cubis 2 + Mozaki Blocks Deluxe (USA)</description>
 		<rom name="Block Party 2 - Cubis 2 + Mozaki Blocks Deluxe (USA).bin" size="375541488" crc="264431a8" md5="68c678742b0e725dbcf697b361b75697" sha1="7865c52965a6f0aa19abc0e3fad4f52c132757d1"/>
 		<rom name="Block Party 2 - Cubis 2 + Mozaki Blocks Deluxe (USA).cue" size="118" crc="9998621d" md5="f3f1a6cb3e6d20c7d95d1925ac26ed65" sha1="4d22d44d004f332e112c8ef594047d8f4f2ed3bf"/>
+	</game>
+	<game name="Blocmania 3D (UK)">
+		<category>Games</category>
+		<description>Blocmania 3D (UK)</description>
+		<rom name="Blocmania 3D (UK).bin" size="82254144" crc="347b20cd" md5="2a7b7014099d63af290977028c3abd3e" sha1="de182536136a98f6e1bc8b86801d0dddddae7f7e"/>
+		<rom name="Blocmania 3D (UK).cue" size="83" crc="cd7aef33" md5="9be13ecd3cb5951f4c60e017909351d9" sha1="23807a25058134f27e0a312952451e100069a56b"/>
 	</game>
 	<game name="Blood &amp; Lace (Germany)">
 		<category>Games</category>
@@ -48814,6 +48838,11 @@
 		<description>EverQuest II - Trial of the Isle (USA) (Demo 2)</description>
 		<rom name="EverQuest II - Trial of the Isle (USA) (Demo 2).iso" size="2366724096" crc="4cf56a5d" md5="52c8a579df02622004c5e96ade533850" sha1="ff10871148d1526cc3ce8b2a1d5d0979c1877b51"/>
 	</game>
+	<game name="EverQuest II - Trial of the Isle (USA) (Demo 3)">
+		<category>Demos</category>
+		<description>EverQuest II - Trial of the Isle (USA) (Demo 3)</description>
+		<rom name="EverQuest II - Trial of the Isle (USA) (Demo 3).iso" size="2366726144" crc="9e58d6ad" md5="a1a9b1d9ed3ca5012fcf63c4e51530d9" sha1="eebd14134b8c1a7795763290b942bda8e1191145"/>
+	</game>
 	<game name="EverQuest II Starter Kit (USA) (Disc 1)">
 		<category>Games</category>
 		<description>EverQuest II Starter Kit (USA) (Disc 1)</description>
@@ -49291,6 +49320,24 @@
 		<description>Exception Conflict (Japan)</description>
 		<rom name="Exception Conflict (Japan).bin" size="48354768" crc="e3c27214" md5="09fba5c69edf0f79dfc6aeb09e25b037" sha1="aaffebe1ec6266912cef2087f04adb836f411756"/>
 		<rom name="Exception Conflict (Japan).cue" size="92" crc="f179b5c7" md5="a94e29c80b2deabe4c9e22ac08b9b316" sha1="ca7e740b1ca8ab13ce3bc0d88d85e9fe7901722a"/>
+	</game>
+	<game name="Excess Fraction (Japan)">
+		<category>Games</category>
+		<description>Excess Fraction (Japan)</description>
+		<rom name="Excess Fraction (Japan) (Track 01).bin" size="14269584" crc="d1030de0" md5="f00188c9588d84a09bd6be674da70f8f" sha1="eed1657aadad0b44d3a7196bd4f1f3e475488085"/>
+		<rom name="Excess Fraction (Japan) (Track 02).bin" size="22068816" crc="8b4ddab7" md5="1b51e9949ea00a281d1f440897e6c351" sha1="99cb9a0dc2eccdecc6574ae6572b5041cf008228"/>
+		<rom name="Excess Fraction (Japan) (Track 03).bin" size="25714416" crc="01a6874b" md5="a3ff6007af2ade997998d63b0f6979ca" sha1="560d3d6516ff2d45750bf7978a32da404a4b8aaa"/>
+		<rom name="Excess Fraction (Japan) (Track 04).bin" size="50457456" crc="3e3be3be" md5="37f6d2eccb598734bbf10eee48469504" sha1="ed4ce68f1a9f41c8101f8a27d9f0edfcc5e99706"/>
+		<rom name="Excess Fraction (Japan) (Track 05).bin" size="31961328" crc="0f5f25dc" md5="580ed511e9d7556c8197c29d5736c188" sha1="6596b55d20e164c35a4661d573e70be9e76a4009"/>
+		<rom name="Excess Fraction (Japan) (Track 06).bin" size="44408112" crc="7a0a1a22" md5="60168146384aa0029a793eac31c35ce9" sha1="3937a31399a46bc6abe3cd528f9c6d9423905bce"/>
+		<rom name="Excess Fraction (Japan) (Track 07).bin" size="38956176" crc="8c94105d" md5="37d35fb6b9e3e89714bd1d5bece28b4e" sha1="d508a4e98b1c4391e67cb3641e4289ae70f00fab"/>
+		<rom name="Excess Fraction (Japan) (Track 08).bin" size="37093392" crc="925cdf33" md5="64c2a04b0f886ad87ddcac1f31e28693" sha1="70cb0eafb552b0bd02b62ffcafa7b5864d139f2a"/>
+		<rom name="Excess Fraction (Japan) (Track 09).bin" size="31408608" crc="1598fbbd" md5="e4f9f360781f4b0dae7d22e082b87d5a" sha1="a5b88c407d256782631ebd7c3654fac596da00b5"/>
+		<rom name="Excess Fraction (Japan) (Track 10).bin" size="1792224" crc="93261d1b" md5="acfada0ef02c543d02fc5faeca2def30" sha1="12827580199b2f9ceeabda025b0bbbd447785c50"/>
+		<rom name="Excess Fraction (Japan) (Track 11).bin" size="1625232" crc="0b4d546e" md5="0518bade1a05574b344e42f704ad6491" sha1="98fa10764817f8b47c6e845f4d96f811ba40d0e7"/>
+		<rom name="Excess Fraction (Japan) (Track 12).bin" size="16113552" crc="a2692724" md5="fc37c3638867f02f03767d7f99c262ed" sha1="4dfc44bbfa82a769d98245ed3a4d42612ca8e9af"/>
+		<rom name="Excess Fraction (Japan) (Track 13).bin" size="21741888" crc="ffcd2011" md5="7a58ff17a3065663ed322bfce3306d31" sha1="23d18eb3f6a228029d8b8403ee94a2009166c762"/>
+		<rom name="Excess Fraction (Japan).cue" size="1516" crc="aedacc03" md5="778b4ca4c42f6b3cd1bba737e3375df3" sha1="563719c918199002268b6a28c70f899229a520c9"/>
 	</game>
 	<game name="Excessive Speed (Europe) (Sold Out Software)">
 		<category>Games</category>
@@ -66486,6 +66533,12 @@
 		<description>Heart of Darkness (USA) (Demo)</description>
 		<rom name="Heart of Darkness (USA) (Demo).bin" size="119039424" crc="c7879fa8" md5="108a591faf613cad48c7c5e9edcb72ac" sha1="de5b21af3832d5e38afc596201fc8e8f4936a16e"/>
 		<rom name="Heart of Darkness (USA) (Demo).cue" size="119" crc="7902fccd" md5="e74e1abbee5ee17d3648d46d22a74c2a" sha1="76e3a1aa05ddf64ab1528e98bd294ab892605538"/>
+	</game>
+	<game name="Heart of Darkness (USA) (Interactive Preview)">
+		<category>Demos</category>
+		<description>Heart of Darkness (USA) (Interactive Preview)</description>
+		<rom name="Heart of Darkness (USA) (Interactive Preview).bin" size="190267392" crc="b481ea8f" md5="84dfbde4e9162f91fc3c442fb46d69e6" sha1="9be8b3c7a718fa4d070b0b7961420ca000838758"/>
+		<rom name="Heart of Darkness (USA) (Interactive Preview).cue" size="111" crc="cd13546c" md5="f5820df29a50565aee2816c53650ca2f" sha1="efed1c8668f7c5f5898b5599cec7b556e829b880"/>
 	</game>
 	<game name="Heart of Darkness - Mini Game (Europe) (En,Fr,De,It) (Demo)">
 		<category>Demos</category>
@@ -114074,6 +114127,11 @@
 		<rom name="Phoenix - Deep Space Resurrection (Europe) (Disc 2).bin" size="733673472" crc="3f132af5" md5="514dd27242fab22a5bddf79d64d581bd" sha1="c12a72b62aa6193b1b893a0c0fc34709b30237be"/>
 		<rom name="Phoenix - Deep Space Resurrection (Europe) (Disc 2).cue" size="117" crc="5652e347" md5="4206da5c69a0f6b04c4b4356d8b56e4a" sha1="1df6538585f68d5f1363945b3edb941ce892ea4d"/>
 	</game>
+	<game name="Phoenix R-C - Professional Radio Control Flight Simulation (USA)">
+		<category>Games</category>
+		<description>Phoenix R-C - Professional Radio Control Flight Simulation (USA)</description>
+		<rom name="Phoenix R-C - Professional Radio Control Flight Simulation (USA).iso" size="3166437376" crc="109ae034" md5="2171b93c3149bcdba023ba8e5fd7a4b1" sha1="3a220cf9a16768b791189e281fa0cc840d5b7c5c"/>
+	</game>
 	<game name="Phonics 1b - Consonants Sounds (USA)">
 		<category>Games</category>
 		<description>Phonics 1b - Consonants Sounds (USA)</description>
@@ -115209,6 +115267,35 @@
 		<description>Pitfall - The Lost Expedition (USA) (Play Disk)</description>
 		<rom name="Pitfall - The Lost Expedition (USA) (Play Disk).bin" size="243436704" crc="04d53687" md5="d1cbc07a1cbe2eb88f0a2cdfa66eb234" sha1="535ad548951b55b2798a45d7e1a687d38c0eb318"/>
 		<rom name="Pitfall - The Lost Expedition (USA) (Play Disk).cue" size="113" crc="a47583a7" md5="c26e2460696c7beac79beb9ac8388b05" sha1="027478589f93e638ca03c6918f880190decfec24"/>
+	</game>
+	<game name="Pitfall - The Mayan Adventure (USA) (Interactive Preview)">
+		<category>Demos</category>
+		<description>Pitfall - The Mayan Adventure (USA) (Interactive Preview)</description>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview) (Track 01).bin" size="18891264" crc="b64d4c5d" md5="ec6df8e23f4e2f56539345c73833d71a" sha1="3d96abeacd8b4e6ddd0e8c38afe2fbf38005ab07"/>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview) (Track 02).bin" size="4628736" crc="9168c9bd" md5="b17584df53158cacd969e76c4938b11d" sha1="d79f22a4173ebd2acd5726bbc6f5be82af621a75"/>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview) (Track 03).bin" size="7914480" crc="f944aa3c" md5="47382a40d8bdffa39798d3b21c27252e" sha1="8f16fdd8f4110bd4cf3ceca5facaf3f59f36127e"/>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview) (Track 04).bin" size="25864944" crc="dab73a78" md5="2d88983eff4f7b3b97fff58dffe85b0c" sha1="56f461301e96cb4b523386a34fe93f2a035d58ab"/>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview) (Track 05).bin" size="39348960" crc="a8594168" md5="1919bdbd8cb912624321d01a620e9b94" sha1="9287279da1d25b2ff7a1981ff992c5b82153ed47"/>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview) (Track 06).bin" size="16630992" crc="802c0f93" md5="fb4575fdd622360a305e8be31ca41008" sha1="ba6f255d823f27333bf63695a5f51a1f418b7bea"/>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview) (Track 07).bin" size="43648416" crc="ec17d157" md5="0240b90a36daf0cdc316eac5e6ad9749" sha1="fb804fc665b8c8f4d1ae8e557ed49bb3508b529f"/>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview) (Track 08).bin" size="48009024" crc="922d004e" md5="067c5ead73521a61f8391da501e59820" sha1="54d49c1e9d672cc426eff2e8fb48ad9a5f45f279"/>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview) (Track 09).bin" size="26904528" crc="39755953" md5="69ad871acaddedec55013b34ae38df7f" sha1="5bb3c239bc21cb24ab3f32efe28484aac0a972e9"/>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview) (Track 10).bin" size="17402448" crc="8e96191d" md5="5075791e0a230aab0bf77ccaa70d70b1" sha1="880ae5eb3176cbe72a1563d9138042de02a98c10"/>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview) (Track 11).bin" size="41228208" crc="cb123395" md5="1edc12b57ee8cfba1653d7803e0de4cd" sha1="7cb059ab1b35d3cc5f6dd1ae54550bac2fea8b47"/>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview) (Track 12).bin" size="31921344" crc="6d4795d0" md5="dfd44cc35ff05da88471a05f8a93f967" sha1="13ed7837480f2cbcaf5bcff7ff4be463041da934"/>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview) (Track 13).bin" size="34275696" crc="e5280d04" md5="a535f4f84cb81cd873dad94387dd779f" sha1="34adb36c058bcc160cc1c6c43084a5261c164488"/>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview) (Track 14).bin" size="41000064" crc="f1a56495" md5="3e639fd4c68e6d39d47d6a4f7a1ff61f" sha1="009c789cebc8689dcd49fc94a83e8a246347d042"/>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview) (Track 15).bin" size="44215248" crc="2929cca2" md5="435f565d59f67039a5dc7d2b75228bd1" sha1="772f51870a18823bbcec6428199f1042eb3f67aa"/>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview) (Track 16).bin" size="45565296" crc="7c8fb6e4" md5="366543261c4405acd08da55f9560713d" sha1="49eca1de0c56427d371f814a41d30f694ab7abd4"/>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview) (Track 17).bin" size="32029536" crc="f2f8985a" md5="d5dea16ce06e3717f6e457cc58a66886" sha1="bb4568015193c5a4248917ad1fa5f99c3a6a7ed4"/>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview) (Track 18).bin" size="18312672" crc="82384710" md5="dfe29f67bc2b3a182157b9383de14f6d" sha1="9f2b9d12fdb9528cb05a0e99bfcfea95ca7fbf9b"/>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview) (Track 19).bin" size="23654064" crc="8a592e6b" md5="fc93830c964f21e242a9786828c67ef0" sha1="7b3682f79698ead510f934c566e7ecbedd7a8ad4"/>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview) (Track 20).bin" size="20382432" crc="1036682c" md5="fc0e284b3c204fe6ff524f67a083f6b5" sha1="322f5ae591812fef2199a702b431eed80ad74f96"/>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview) (Track 21).bin" size="20088432" crc="3625ce31" md5="269bc19678ca14a803625c2ae4010470" sha1="6095cae05000d73a62d0e8a61f83ef60edc6fdfd"/>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview) (Track 22).bin" size="4633440" crc="fdb5277e" md5="264c7a05b59dc209370c62b864178a18" sha1="2c3bf16e7a1c2cd974efcc03a138311db1d354c8"/>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview) (Track 23).bin" size="24037440" crc="7a79986f" md5="26ed66f56de5eff342242404db8e45ed" sha1="3ee37a9e60e1933b288e797db7d10cd45b241fb6"/>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview) (Track 24).bin" size="8072064" crc="dec70005" md5="f435dab9345dca0ebf80fcd7f0b3c6cf" sha1="c5d2eed151fba606db8be1d97d84fe683c827f8e"/>
+		<rom name="Pitfall - The Mayan Adventure (USA) (Interactive Preview).cue" size="3653" crc="c3fbc92e" md5="1a8a901503881ba3a624a89c06a24b65" sha1="f8b1810cc2a5d2b3904fe71df314379fc6a3aacd"/>
 	</game>
 	<game name="Pitfall - The Mayan Adventure (USA, Europe) (Rerelease)">
 		<category>Games</category>
@@ -144904,6 +144991,12 @@
 		<rom name="Spirit - Stallion of the Cimarron - Forever Free (USA).bin" size="189853440" crc="bb71dfc7" md5="72cb3717a4380e4c9b315554fce6adf2" sha1="7cd959e877907562d1c44cbe0a33a5c7ceda6826"/>
 		<rom name="Spirit - Stallion of the Cimarron - Forever Free (USA).cue" size="120" crc="6788aeaa" md5="8b8095d0d1738794d9e6424c081381ba" sha1="6fb8229ee0b78c5ccab7b7ed0570c5d187a1f568"/>
 	</game>
+	<game name="Spirit Fighters 2000, The (Japan)">
+		<category>Games</category>
+		<description>Spirit Fighters 2000, The (Japan)</description>
+		<rom name="Spirit Fighters 2000, The (Japan).bin" size="146929440" crc="af9fa70d" md5="d032898c058563664646b4ee0b885ef1" sha1="6f1d64c58790e7c8c78dbf03daf4ca9ec1e6414d"/>
+		<rom name="Spirit Fighters 2000, The (Japan).cue" size="99" crc="7b796498" md5="34ed0a708c606ddcfa4d652b1ae32c4c" sha1="7db004da22cdfa30ae24a6c5b5467be507576092"/>
+	</game>
 	<game name="Spirit Warrior (Taiwan)">
 		<category>Games</category>
 		<description>Spirit Warrior (Taiwan)</description>
@@ -154998,6 +155091,12 @@
 		<description>Tiger Woods PGA Tour 2003 (USA) (Media Disc)</description>
 		<rom name="Tiger Woods PGA Tour 2003 (USA) (Media Disc).bin" size="788886672" crc="2bb083a4" md5="f8d241420186551be1095bf30b3b99fa" sha1="ad4f8d6d471efac5c736394394ac37ccde68381f"/>
 		<rom name="Tiger Woods PGA Tour 2003 (USA) (Media Disc).cue" size="110" crc="44f5593f" md5="5877b1910850703cd59bbe87057e1d4f" sha1="09c681bb2bd797953b7595f5514826e992494135"/>
+	</game>
+	<game name="Tiger Woods PGA Tour 2004 (USA) (Demo)">
+		<category>Demos</category>
+		<description>Tiger Woods PGA Tour 2004 (USA) (Demo)</description>
+		<rom name="Tiger Woods PGA Tour 2004 (USA) (Demo).bin" size="250492704" crc="ceeecf22" md5="ded0a39a6074f82470d348d2750b7df5" sha1="2ce8fac971de834b8ce59658ba409ff14d56c808"/>
+		<rom name="Tiger Woods PGA Tour 2004 (USA) (Demo).cue" size="104" crc="78cfbf1f" md5="66eef986f59e1af19258b51f5674670c" sha1="d4c4323040e4374ee946ad4abc7081a98e7ae986"/>
 	</game>
 	<game name="Tiger Woods PGA Tour 2004 (USA) (Disc 1) (Install Disc)">
 		<category>Games</category>
@@ -177500,6 +177599,12 @@
 		<description>Zoku Gekka Bijin - Ouka no Koro (Japan)</description>
 		<rom name="Zoku Gekka Bijin - Ouka no Koro (Japan).bin" size="768243168" crc="2d89bba3" md5="ee6cb2e75ecaadf64020cb33f6e5153c" sha1="4df77be67e2734ae92517b7ba96747bd25aac1bb"/>
 		<rom name="Zoku Gekka Bijin - Ouka no Koro (Japan).cue" size="128" crc="bfaea518" md5="e32844f461709286674abf73dc53e64b" sha1="996bb9b7070c040098a080fae3f922d53747b0dc"/>
+	</game>
+	<game name="Zoldiras (Japan) (v2.02)">
+		<category>Games</category>
+		<description>Zoldiras (Japan) (v2.02)</description>
+		<rom name="Zoldiras (Japan) (v2.02).bin" size="96380256" crc="64ecc7f1" md5="613bf6433414f5f6b9f6e55bceb841b2" sha1="c2b9323cc5e5fe9f50d46655fd448f08c02e1721"/>
+		<rom name="Zoldiras (Japan) (v2.02).cue" size="90" crc="da804ee7" md5="7d1fc618abf3a9aa984a2cb5b0895f06" sha1="83ebc2004ed9fa04edf1305be5064b6baa3812c3"/>
 	</game>
 	<game name="Zolotaya klassika Midway (Russia)">
 		<category>Games</category>

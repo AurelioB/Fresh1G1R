@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,712) (-y) [-aAbBcdkmMpPuv] (2026-05-27 23-12-46) (Retool)</description>
-		<version>2026-05-27 23-12-46</version>
-		<date>2026-05-28 03-27-38</date>
+		<description>IBM - PC compatible (25,720) (-y) [-aAbBcdkmMpPuv] (2026-05-29 03-52-04) (Retool)</description>
+		<version>2026-05-29 03-52-04</version>
+		<date>2026-05-29 03-22-22</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -9394,6 +9394,18 @@
 		<category>Games</category>
 		<description>Anomaly - Warzone Earth (Europe)</description>
 		<rom name="Anomaly - Warzone Earth (Europe).iso" size="463405056" crc="f9f9148f" md5="734d457ab6fae99fbfa1bdb570d3db8e" sha1="4b57c34858c084169fa1220c1bd3118b900124d4"/>
+	</game>
+	<game name="Another Apocalypse (Japan)">
+		<category>Games</category>
+		<description>Another Apocalypse (Japan)</description>
+		<rom name="Another Apocalypse (Japan).bin" size="553686672" crc="9460c787" md5="08a01c853577847efb1ef4d34b38f9e4" sha1="2885bab431337aeb684b9b00a30b00415a322958"/>
+		<rom name="Another Apocalypse (Japan).cue" size="92" crc="5b6ab947" md5="7a8ce728af0afe7c47e3cb73ca014503" sha1="74c0dd7bb22dcd9023eac223cf451a6910b86162"/>
+	</game>
+	<game name="Another Apocalypse II - Dual Pagan (Japan)">
+		<category>Games</category>
+		<description>Another Apocalypse II - Dual Pagan (Japan)</description>
+		<rom name="Another Apocalypse II - Dual Pagan (Japan).bin" size="472660272" crc="54be7837" md5="b16222b083764ff639a432c59f374269" sha1="bdf983a36a1df3e1b4b8da2e50d7514a5f890174"/>
+		<rom name="Another Apocalypse II - Dual Pagan (Japan).cue" size="108" crc="9778d0cf" md5="577cc87332a4f3a877151d1236572970" sha1="bca6307d1be8ecaf90ec1cc703285a86bd8f555c"/>
 	</game>
 	<game name="Another War (Italy) (Disc 1)">
 		<category>Games</category>
@@ -19677,6 +19689,12 @@
 		<description>Block Party 2 - Cubis 2 + Mozaki Blocks Deluxe (USA)</description>
 		<rom name="Block Party 2 - Cubis 2 + Mozaki Blocks Deluxe (USA).bin" size="375541488" crc="264431a8" md5="68c678742b0e725dbcf697b361b75697" sha1="7865c52965a6f0aa19abc0e3fad4f52c132757d1"/>
 		<rom name="Block Party 2 - Cubis 2 + Mozaki Blocks Deluxe (USA).cue" size="118" crc="9998621d" md5="f3f1a6cb3e6d20c7d95d1925ac26ed65" sha1="4d22d44d004f332e112c8ef594047d8f4f2ed3bf"/>
+	</game>
+	<game name="Blocmania 3D (UK)">
+		<category>Games</category>
+		<description>Blocmania 3D (UK)</description>
+		<rom name="Blocmania 3D (UK).bin" size="82254144" crc="347b20cd" md5="2a7b7014099d63af290977028c3abd3e" sha1="de182536136a98f6e1bc8b86801d0dddddae7f7e"/>
+		<rom name="Blocmania 3D (UK).cue" size="83" crc="cd7aef33" md5="9be13ecd3cb5951f4c60e017909351d9" sha1="23807a25058134f27e0a312952451e100069a56b"/>
 	</game>
 	<game name="Blood &amp; Lace (Germany)">
 		<category>Games</category>
@@ -50095,6 +50113,24 @@
 		<description>Exception Conflict (Japan)</description>
 		<rom name="Exception Conflict (Japan).bin" size="48354768" crc="e3c27214" md5="09fba5c69edf0f79dfc6aeb09e25b037" sha1="aaffebe1ec6266912cef2087f04adb836f411756"/>
 		<rom name="Exception Conflict (Japan).cue" size="92" crc="f179b5c7" md5="a94e29c80b2deabe4c9e22ac08b9b316" sha1="ca7e740b1ca8ab13ce3bc0d88d85e9fe7901722a"/>
+	</game>
+	<game name="Excess Fraction (Japan)">
+		<category>Games</category>
+		<description>Excess Fraction (Japan)</description>
+		<rom name="Excess Fraction (Japan) (Track 01).bin" size="14269584" crc="d1030de0" md5="f00188c9588d84a09bd6be674da70f8f" sha1="eed1657aadad0b44d3a7196bd4f1f3e475488085"/>
+		<rom name="Excess Fraction (Japan) (Track 02).bin" size="22068816" crc="8b4ddab7" md5="1b51e9949ea00a281d1f440897e6c351" sha1="99cb9a0dc2eccdecc6574ae6572b5041cf008228"/>
+		<rom name="Excess Fraction (Japan) (Track 03).bin" size="25714416" crc="01a6874b" md5="a3ff6007af2ade997998d63b0f6979ca" sha1="560d3d6516ff2d45750bf7978a32da404a4b8aaa"/>
+		<rom name="Excess Fraction (Japan) (Track 04).bin" size="50457456" crc="3e3be3be" md5="37f6d2eccb598734bbf10eee48469504" sha1="ed4ce68f1a9f41c8101f8a27d9f0edfcc5e99706"/>
+		<rom name="Excess Fraction (Japan) (Track 05).bin" size="31961328" crc="0f5f25dc" md5="580ed511e9d7556c8197c29d5736c188" sha1="6596b55d20e164c35a4661d573e70be9e76a4009"/>
+		<rom name="Excess Fraction (Japan) (Track 06).bin" size="44408112" crc="7a0a1a22" md5="60168146384aa0029a793eac31c35ce9" sha1="3937a31399a46bc6abe3cd528f9c6d9423905bce"/>
+		<rom name="Excess Fraction (Japan) (Track 07).bin" size="38956176" crc="8c94105d" md5="37d35fb6b9e3e89714bd1d5bece28b4e" sha1="d508a4e98b1c4391e67cb3641e4289ae70f00fab"/>
+		<rom name="Excess Fraction (Japan) (Track 08).bin" size="37093392" crc="925cdf33" md5="64c2a04b0f886ad87ddcac1f31e28693" sha1="70cb0eafb552b0bd02b62ffcafa7b5864d139f2a"/>
+		<rom name="Excess Fraction (Japan) (Track 09).bin" size="31408608" crc="1598fbbd" md5="e4f9f360781f4b0dae7d22e082b87d5a" sha1="a5b88c407d256782631ebd7c3654fac596da00b5"/>
+		<rom name="Excess Fraction (Japan) (Track 10).bin" size="1792224" crc="93261d1b" md5="acfada0ef02c543d02fc5faeca2def30" sha1="12827580199b2f9ceeabda025b0bbbd447785c50"/>
+		<rom name="Excess Fraction (Japan) (Track 11).bin" size="1625232" crc="0b4d546e" md5="0518bade1a05574b344e42f704ad6491" sha1="98fa10764817f8b47c6e845f4d96f811ba40d0e7"/>
+		<rom name="Excess Fraction (Japan) (Track 12).bin" size="16113552" crc="a2692724" md5="fc37c3638867f02f03767d7f99c262ed" sha1="4dfc44bbfa82a769d98245ed3a4d42612ca8e9af"/>
+		<rom name="Excess Fraction (Japan) (Track 13).bin" size="21741888" crc="ffcd2011" md5="7a58ff17a3065663ed322bfce3306d31" sha1="23d18eb3f6a228029d8b8403ee94a2009166c762"/>
+		<rom name="Excess Fraction (Japan).cue" size="1516" crc="aedacc03" md5="778b4ca4c42f6b3cd1bba737e3375df3" sha1="563719c918199002268b6a28c70f899229a520c9"/>
 	</game>
 	<game name="Excessive Speed (Europe) (Sold Out Software)">
 		<category>Games</category>
@@ -80579,6 +80615,12 @@
 		<rom name="Kalle Kunskap - Lekstuga (Sweden).bin" size="161286048" crc="e7be3e2b" md5="79453da2ca23bd84e2f9fca9ca9bf417" sha1="c835d0ae9aadeaab0184d0dc26fde3f8ea8aaf1f"/>
 		<rom name="Kalle Kunskap - Lekstuga (Sweden).cue" size="99" crc="329db7e3" md5="0b110c1b1ab32902b7f7390aa33c7c63" sha1="ab0ca6e21cfa7e7ebc41b0c7397aca27b6159809"/>
 	</game>
+	<game name="Kalle Kunskap - Pa uppdrag hos Lejonblommorna (Sweden)">
+		<category>Educational</category>
+		<description>Kalle Kunskap - Pa uppdrag hos Lejonblommorna (Sweden)</description>
+		<rom name="Kalle Kunskap - Pa uppdrag hos Lejonblommorna (Sweden).bin" size="211228416" crc="22a4d161" md5="3c5bacbebdad2d29c0c86678c6d7d350" sha1="d64ab6e8973d49daf07798e11f99080d15c497ea"/>
+		<rom name="Kalle Kunskap - Pa uppdrag hos Lejonblommorna (Sweden).cue" size="120" crc="ac9bee3b" md5="9fd3c89425abab57a682add9679acde0" sha1="4c78e1066b027e26cc7ffb8c1a2685e8ea290644"/>
+	</game>
 	<game name="Kalle Kunskap - Skolstart (Sweden)">
 		<category>Educational</category>
 		<description>Kalle Kunskap - Skolstart (Sweden)</description>
@@ -80643,12 +80685,6 @@
 		<description>Kalle Kunskap Baby (Sweden)</description>
 		<rom name="Kalle Kunskap Baby (Sweden).bin" size="156572640" crc="fd74b5d7" md5="aec5b45be05f2127f20fb2b164dcc08d" sha1="23f10a9686f7fc59506ab229ca53f1c9de34cc1c"/>
 		<rom name="Kalle Kunskap Baby (Sweden).cue" size="93" crc="bf445b74" md5="405edc76a5af33b6cc075ee6aef86b66" sha1="074e8e9ed1f8c9cd11c3867b5e3138f4a1b753d0"/>
-	</game>
-	<game name="Kalle Kunskap Matematik - Pa uppdrag hos Lejonblommorna (Sweden)">
-		<category>Educational</category>
-		<description>Kalle Kunskap Matematik - Pa uppdrag hos Lejonblommorna (Sweden)</description>
-		<rom name="Kalle Kunskap Matematik - Pa uppdrag hos Lejonblommorna (Sweden).bin" size="211228416" crc="22a4d161" md5="3c5bacbebdad2d29c0c86678c6d7d350" sha1="d64ab6e8973d49daf07798e11f99080d15c497ea"/>
-		<rom name="Kalle Kunskap Matematik - Pa uppdrag hos Lejonblommorna (Sweden).cue" size="130" crc="93e94994" md5="25f46337a48e19ba9dcdd7f950538fa4" sha1="489aed1324168799a9e4946e5bec330864f0a739"/>
 	</game>
 	<game name="Kamaz - Rossijskoe ralli (Russia) (Disc 1)">
 		<category>Games</category>
@@ -86944,6 +86980,19 @@
 		<description>Lengste Reisen, Den (Norway) (Disc 4) (v1.1)</description>
 		<rom name="Lengste Reisen, Den (Norway) (Disc 4) (v1.1).bin" size="586809888" crc="d068c154" md5="c74b90f4e5bf80eef5ceb4a3eb63b48b" sha1="3c075dd083374e89e9175661fb06e228904c75d6"/>
 		<rom name="Lengste Reisen, Den (Norway) (Disc 4) (v1.1).cue" size="110" crc="5aee7e38" md5="234cfcb09735c7cba97e788c41135fbe" sha1="12b5c8d44318289438b9bda56cc32820a9f2841f"/>
+	</game>
+	<game name="Lenny's Music Toons (USA)">
+		<category>Educational</category>
+		<description>Lenny's Music Toons (USA)</description>
+		<rom name="Lenny's Music Toons (USA) (Track 1).bin" size="26892768" crc="1f53f931" md5="89fec8257a08428523bda122b1104920" sha1="071c44dd566cfb0943ac88d4f1151cbff2199861"/>
+		<rom name="Lenny's Music Toons (USA) (Track 2).bin" size="4941552" crc="b958b482" md5="23fd98ab4211b523cef9f50c0a6e027a" sha1="6eda16a75d0f66337e364a73ccd6a79801700684"/>
+		<rom name="Lenny's Music Toons (USA) (Track 3).bin" size="4588752" crc="d06684d9" md5="c115f004194c6c6358c16cc458130872" sha1="5881d155c28b7e2becb8d07a1f9534f8fc324357"/>
+		<rom name="Lenny's Music Toons (USA) (Track 4).bin" size="19406352" crc="88648a8c" md5="9637ccd3eec46dc913aae82353a924be" sha1="681f3d603c75ffcb689f40027be31d9ed95290f0"/>
+		<rom name="Lenny's Music Toons (USA) (Track 5).bin" size="10936800" crc="5d582746" md5="8b849187af65ed85cb6274d87d0d7868" sha1="3de9b9234e1b11f65fc971659c729c34d016505b"/>
+		<rom name="Lenny's Music Toons (USA) (Track 6).bin" size="10939152" crc="371c9fd7" md5="aa0514bf97095721bf17e9d52f8e81af" sha1="f8a526e2bcb83078d5f7643e2341224fce4a4a55"/>
+		<rom name="Lenny's Music Toons (USA) (Track 7).bin" size="10936800" crc="d0020c09" md5="53c4a4c155436cd4e03c4f0c90c3d005" sha1="eab0589bad374f8ba3db7cb17f50f4e88630b065"/>
+		<rom name="Lenny's Music Toons (USA) (Track 8).bin" size="11294304" crc="2336b49b" md5="c658d887b30f6d60f9cc85377f59a7c3" sha1="923def943531d09dc7c9eccecb5d7f5a35f745d4"/>
+		<rom name="Lenny's Music Toons (USA).cue" size="796" crc="380315ce" md5="eacf447b9b4a97fd9cabb82c1b9d4cf0" sha1="b9da087756d429ff1403d43137de5852ae4b668e"/>
 	</game>
 	<game name="Lente - Lekker Weertje Koekepeertje (Netherlands)">
 		<category>Games</category>
@@ -117356,6 +117405,11 @@
 		<description>Phoenix - Deep Space Resurrection (Europe) (Disc 2)</description>
 		<rom name="Phoenix - Deep Space Resurrection (Europe) (Disc 2).bin" size="733673472" crc="3f132af5" md5="514dd27242fab22a5bddf79d64d581bd" sha1="c12a72b62aa6193b1b893a0c0fc34709b30237be"/>
 		<rom name="Phoenix - Deep Space Resurrection (Europe) (Disc 2).cue" size="117" crc="5652e347" md5="4206da5c69a0f6b04c4b4356d8b56e4a" sha1="1df6538585f68d5f1363945b3edb941ce892ea4d"/>
+	</game>
+	<game name="Phoenix R-C - Professional Radio Control Flight Simulation (USA)">
+		<category>Games</category>
+		<description>Phoenix R-C - Professional Radio Control Flight Simulation (USA)</description>
+		<rom name="Phoenix R-C - Professional Radio Control Flight Simulation (USA).iso" size="3166437376" crc="109ae034" md5="2171b93c3149bcdba023ba8e5fd7a4b1" sha1="3a220cf9a16768b791189e281fa0cc840d5b7c5c"/>
 	</game>
 	<game name="Phonics 1b - Consonants Sounds (USA)">
 		<category>Games</category>
@@ -149489,6 +149543,12 @@
 		<description>Spirit - Stallion of the Cimarron - Forever Free (USA)</description>
 		<rom name="Spirit - Stallion of the Cimarron - Forever Free (USA).bin" size="189853440" crc="bb71dfc7" md5="72cb3717a4380e4c9b315554fce6adf2" sha1="7cd959e877907562d1c44cbe0a33a5c7ceda6826"/>
 		<rom name="Spirit - Stallion of the Cimarron - Forever Free (USA).cue" size="120" crc="6788aeaa" md5="8b8095d0d1738794d9e6424c081381ba" sha1="6fb8229ee0b78c5ccab7b7ed0570c5d187a1f568"/>
+	</game>
+	<game name="Spirit Fighters 2000, The (Japan)">
+		<category>Games</category>
+		<description>Spirit Fighters 2000, The (Japan)</description>
+		<rom name="Spirit Fighters 2000, The (Japan).bin" size="146929440" crc="af9fa70d" md5="d032898c058563664646b4ee0b885ef1" sha1="6f1d64c58790e7c8c78dbf03daf4ca9ec1e6414d"/>
+		<rom name="Spirit Fighters 2000, The (Japan).cue" size="99" crc="7b796498" md5="34ed0a708c606ddcfa4d652b1ae32c4c" sha1="7db004da22cdfa30ae24a6c5b5467be507576092"/>
 	</game>
 	<game name="Spirit Warrior (Taiwan)">
 		<category>Games</category>
@@ -181727,6 +181787,12 @@
 		<description>Zoku Gekka Bijin - Ouka no Koro (Japan)</description>
 		<rom name="Zoku Gekka Bijin - Ouka no Koro (Japan).bin" size="768243168" crc="2d89bba3" md5="ee6cb2e75ecaadf64020cb33f6e5153c" sha1="4df77be67e2734ae92517b7ba96747bd25aac1bb"/>
 		<rom name="Zoku Gekka Bijin - Ouka no Koro (Japan).cue" size="128" crc="bfaea518" md5="e32844f461709286674abf73dc53e64b" sha1="996bb9b7070c040098a080fae3f922d53747b0dc"/>
+	</game>
+	<game name="Zoldiras (Japan) (v2.02)">
+		<category>Games</category>
+		<description>Zoldiras (Japan) (v2.02)</description>
+		<rom name="Zoldiras (Japan) (v2.02).bin" size="96380256" crc="64ecc7f1" md5="613bf6433414f5f6b9f6e55bceb841b2" sha1="c2b9323cc5e5fe9f50d46655fd448f08c02e1721"/>
+		<rom name="Zoldiras (Japan) (v2.02).cue" size="90" crc="da804ee7" md5="7d1fc618abf3a9aa984a2cb5b0895f06" sha1="83ebc2004ed9fa04edf1305be5064b6baa3812c3"/>
 	</game>
 	<game name="Zolotaya klassika Midway (Russia)">
 		<category>Games</category>
