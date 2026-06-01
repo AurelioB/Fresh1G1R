@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3 (Retool)</name>
-		<description>Sony - PlayStation 3 (1,698) (-y) [-aAbBcefkmMoprv] (2026-05-28 11-17-33) (Retool)</description>
-		<version>2026-05-28 11-17-33</version>
-		<date>2026-05-29 03-19-56</date>
+		<description>Sony - PlayStation 3 (1,700) (-y) [-aAbBcefkmMoprv] (2026-05-31 16-00-26) (Retool)</description>
+		<version>2026-05-31 16-00-26</version>
+		<date>2026-06-01 03-26-16</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -426,10 +426,10 @@
 		<description>Assassin's Creed - The Americas Collection (USA) (En,Fr,Es,Pt)</description>
 		<rom name="Assassin's Creed - The Americas Collection (USA) (En,Fr,Es,Pt).iso" size="27092975616" crc="3579353f" md5="090abf88d03a6588b53eb2ee5b53dc26" sha1="c3b7afe87c29dae2746f8e08149d8ba85f8aaba2"/>
 	</game>
-	<game name="Assassin's Creed II - Game of the Year Edition (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)">
+	<game name="Assassin's Creed II - Game of the Year Edition (Europe, Australia) (En,Fr,De,Es,It,Nl,Sv,No,Da)">
 		<category>Games</category>
-		<description>Assassin's Creed II - Game of the Year Edition (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
-		<rom name="Assassin's Creed II - Game of the Year Edition (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).iso" size="7600472064" crc="5209d7b2" md5="2eb0ea21815ff54681f3521b9f89b45a" sha1="36d76312fa947cb7aeb652b2440eeb9e6100809c"/>
+		<description>Assassin's Creed II - Game of the Year Edition (Europe, Australia) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
+		<rom name="Assassin's Creed II - Game of the Year Edition (Europe, Australia) (En,Fr,De,Es,It,Nl,Sv,No,Da).iso" size="7600472064" crc="5209d7b2" md5="2eb0ea21815ff54681f3521b9f89b45a" sha1="36d76312fa947cb7aeb652b2440eeb9e6100809c"/>
 	</game>
 	<game name="Assassin's Creed III (USA) (En,Fr,Es,Pt) (v02.00)">
 		<category>Games</category>
@@ -4657,6 +4657,16 @@
 		<description>MotorStorm - Complete Edition (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko)</description>
 		<rom name="MotorStorm - Complete Edition (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko).iso" size="17500667904" crc="67d9f959" md5="6bed3068c402c16619f73c8ae16061c0" sha1="2a0d99961b0b102a8e49621f1c9fa157f83991bf"/>
 	</game>
+	<game name="MotorStorm - Pacific Rift (Europe) (Disc 1) (Beta) (2008-08-06)">
+		<category>Preproduction</category>
+		<description>MotorStorm - Pacific Rift (Europe) (Disc 1) (Beta) (2008-08-06)</description>
+		<rom name="MotorStorm - Pacific Rift (Europe) (Disc 1) (Beta) (2008-08-06).iso" size="2148073472" crc="66a52bd6" md5="dafc53fb3afc4fb21d44a05d8f311879" sha1="9b002791da172d05e077057404f184162d449778"/>
+	</game>
+	<game name="MotorStorm - Pacific Rift (Europe) (Disc 2) (Beta) (2008-08-06)">
+		<category>Preproduction</category>
+		<description>MotorStorm - Pacific Rift (Europe) (Disc 2) (Beta) (2008-08-06)</description>
+		<rom name="MotorStorm - Pacific Rift (Europe) (Disc 2) (Beta) (2008-08-06).iso" size="2148073472" crc="0b650ece" md5="d480e793d8b9bcc487b1d525a5eca5b9" sha1="6f3106b509b6401b51b41d2f33dc6ae113573784"/>
+	</game>
 	<game name="MotorStorm - Pacific Rift (USA) (En,Fr,Es)">
 		<category>Games</category>
 		<description>MotorStorm - Pacific Rift (USA) (En,Fr,Es)</description>
@@ -7322,10 +7332,10 @@
 		<description>Syndicate (USA) (En,Fr,Es)</description>
 		<rom name="Syndicate (USA) (En,Fr,Es).iso" size="7516258304" crc="1506c8b2" md5="b8b1f9cdda4966ccd4ed9d6690986077" sha1="ff284b2a65afc765fbd70d9240254bdd5135afc0"/>
 	</game>
-	<game name="TNA Impact! Total Nonstop Action Wrestling (USA) (En,Fr)">
+	<game name="TNA Impact! Total Nonstop Action Wrestling (USA, Canada) (En,Fr)">
 		<category>Games</category>
-		<description>TNA Impact! Total Nonstop Action Wrestling (USA) (En,Fr)</description>
-		<rom name="TNA Impact! Total Nonstop Action Wrestling (USA) (En,Fr).iso" size="17617977344" crc="f6112b4f" md5="40a2162a269ee341ec2a0f3351f96fa3" sha1="f7921911a0d67eefbe7ed4c32d91b3461a5950f5"/>
+		<description>TNA Impact! Total Nonstop Action Wrestling (USA, Canada) (En,Fr)</description>
+		<rom name="TNA Impact! Total Nonstop Action Wrestling (USA, Canada) (En,Fr).iso" size="17617977344" crc="f6112b4f" md5="40a2162a269ee341ec2a0f3351f96fa3" sha1="f7921911a0d67eefbe7ed4c32d91b3461a5950f5"/>
 	</game>
 	<game name="TV Superstars (USA) (En,Fr,Es,Pt)">
 		<category>Games</category>

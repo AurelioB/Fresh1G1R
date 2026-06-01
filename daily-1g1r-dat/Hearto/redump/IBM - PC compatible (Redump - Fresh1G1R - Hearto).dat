@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,164) (-y) [-aAbBcefkmMoprv] (2026-05-29 03-52-04) (Retool)</description>
-		<version>2026-05-29 03-52-04</version>
-		<date>2026-05-29 03-19-05</date>
+		<description>IBM - PC compatible (25,167) (-y) [-aAbBcefkmMoprv] (2026-06-01 02-07-46) (Retool)</description>
+		<version>2026-06-01 02-07-46</version>
+		<date>2026-06-01 03-25-23</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -23230,25 +23230,25 @@
 		<description>Call of Duty - Black Ops III (USA) (Disc 6)</description>
 		<rom name="Call of Duty - Black Ops III (USA) (Disc 6).iso" size="7797211136" crc="215a1042" md5="2c9bb07b5ff0b689cc49a15bf2feb8c1" sha1="4ea2f61004b55a82f81c8f0261d3cc53d7cd0b04"/>
 	</game>
-	<game name="Call of Duty - Ghosts (USA, Europe) (En,Fr,De,Es,It) (Disc 1)">
+	<game name="Call of Duty - Ghosts (USA, Europe) (Disc 1)">
 		<category>Games</category>
-		<description>Call of Duty - Ghosts (USA, Europe) (En,Fr,De,Es,It) (Disc 1)</description>
-		<rom name="Call of Duty - Ghosts (USA, Europe) (En,Fr,De,Es,It) (Disc 1).iso" size="8521842688" crc="e6f102da" md5="2e94c1aa3dd9a48af037fa137b4639bf" sha1="d60ce137c3e79421bb14c8dac2bc9d63eff1f41c"/>
+		<description>Call of Duty - Ghosts (USA, Europe) (Disc 1)</description>
+		<rom name="Call of Duty - Ghosts (USA, Europe) (Disc 1).iso" size="8521842688" crc="e6f102da" md5="2e94c1aa3dd9a48af037fa137b4639bf" sha1="d60ce137c3e79421bb14c8dac2bc9d63eff1f41c"/>
 	</game>
-	<game name="Call of Duty - Ghosts (USA, Europe) (En,Fr,De,Es,It) (Disc 2)">
+	<game name="Call of Duty - Ghosts (USA, Europe) (Disc 2)">
 		<category>Games</category>
-		<description>Call of Duty - Ghosts (USA, Europe) (En,Fr,De,Es,It) (Disc 2)</description>
-		<rom name="Call of Duty - Ghosts (USA, Europe) (En,Fr,De,Es,It) (Disc 2).iso" size="8459091968" crc="830cf781" md5="fee271495bd4c21e95827144c77f73e1" sha1="9277ee71903fadfbfa8bc5c7ac78f3ff3f3651a1"/>
+		<description>Call of Duty - Ghosts (USA, Europe) (Disc 2)</description>
+		<rom name="Call of Duty - Ghosts (USA, Europe) (Disc 2).iso" size="8459091968" crc="830cf781" md5="fee271495bd4c21e95827144c77f73e1" sha1="9277ee71903fadfbfa8bc5c7ac78f3ff3f3651a1"/>
+	</game>
+	<game name="Call of Duty - Ghosts (USA, Europe) (Disc 4)">
+		<category>Games</category>
+		<description>Call of Duty - Ghosts (USA, Europe) (Disc 4)</description>
+		<rom name="Call of Duty - Ghosts (USA, Europe) (Disc 4).iso" size="7875723264" crc="2bd03e99" md5="f99fa996c87e66e0d33c7b6c01ba306f" sha1="ec73bcd9ceb93f664991b1903e3f0fe030349aed"/>
 	</game>
 	<game name="Call of Duty - Ghosts (USA, Europe) (En,Fr,De,Es,It) (Disc 3)">
 		<category>Games</category>
 		<description>Call of Duty - Ghosts (USA, Europe) (En,Fr,De,Es,It) (Disc 3)</description>
 		<rom name="Call of Duty - Ghosts (USA, Europe) (En,Fr,De,Es,It) (Disc 3).iso" size="8460075008" crc="73910d5f" md5="aa69fb706ee524f90099a6be37a7cb5a" sha1="d7abdc75fc7c3fefd92cde3fed87cdeab277fbff"/>
-	</game>
-	<game name="Call of Duty - Ghosts (USA, Europe) (En,Fr,De,Es,It) (Disc 4)">
-		<category>Games</category>
-		<description>Call of Duty - Ghosts (USA, Europe) (En,Fr,De,Es,It) (Disc 4)</description>
-		<rom name="Call of Duty - Ghosts (USA, Europe) (En,Fr,De,Es,It) (Disc 4).iso" size="7875723264" crc="2bd03e99" md5="f99fa996c87e66e0d33c7b6c01ba306f" sha1="ec73bcd9ceb93f664991b1903e3f0fe030349aed"/>
 	</game>
 	<game name="Call of Duty - Infinite Warfare (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 1)">
 		<category>Games</category>
@@ -32333,6 +32333,12 @@
 		<description>Cyberia (USA)</description>
 		<rom name="Cyberia (USA).bin" size="457336992" crc="802e93de" md5="77fc2240f9afe72c9f3e8b3c8153e7cd" sha1="ec17bf9fdd67432efe3391b33b0f6581c090cb78"/>
 		<rom name="Cyberia (USA).cue" size="102" crc="e063bc28" md5="5ecf8d034ceb171bcb56731bd27981f3" sha1="2f48858f91493b0903f78131b922e4d4e7ab957c"/>
+	</game>
+	<game name="Cyberia - Mission Norway &amp; Descent - Destination Saturn &amp; Heretic - Episode 1 &amp; Pinball Dream Deluxe &amp; Unnecessary Roughness '95 (USA) (OEM)">
+		<category>Games</category>
+		<description>Cyberia - Mission Norway &amp; Descent - Destination Saturn &amp; Heretic - Episode 1 &amp; Pinball Dream Deluxe &amp; Unnecessary Roughness '95 (USA) (OEM)</description>
+		<rom name="Cyberia - Mission Norway &amp; Descent - Destination Saturn &amp; Heretic - Episode 1 &amp; Pinball Dream Deluxe &amp; Unnecessary Roughness '95 (USA) (OEM).bin" size="537246192" crc="d680be7a" md5="624eba4e59ac7e534e296db26241257e" sha1="f063e3674c35cc533c5128a3bc6bef63729c7f01"/>
+		<rom name="Cyberia - Mission Norway &amp; Descent - Destination Saturn &amp; Heretic - Episode 1 &amp; Pinball Dream Deluxe &amp; Unnecessary Roughness '95 (USA) (OEM).cue" size="229" crc="5049fc5e" md5="2ee23773af9ea175bf296cdd09e54858" sha1="f946c9692f487331d140a274fe14ed7ce7958f27"/>
 	</game>
 	<game name="Cyberia 2 - Resurrection (USA) (Disc 1) (Rerelease)">
 		<category>Games</category>
@@ -57860,6 +57866,11 @@
 		<rom name="Galactic Civilizations II - Twilight of the Arnor (Russia) (Disc 2) (Igrovoj).bin" size="842874480" crc="18873ccd" md5="bf8f89ed35d19cca3f5e12721f41a7cf" sha1="3c0c6272783405f993d50f95c71bcc2d1e795a1d"/>
 		<rom name="Galactic Civilizations II - Twilight of the Arnor (Russia) (Disc 2) (Igrovoj).cue" size="143" crc="c52634a3" md5="f1665c7d83e737d279d85f9d761b184a" sha1="8f5d9bda021cc3060415b5df3e6905f239b001cb"/>
 	</game>
+	<game name="Galactic Civilizations II - Ultimate Edition (Europe)">
+		<category>Games</category>
+		<description>Galactic Civilizations II - Ultimate Edition (Europe)</description>
+		<rom name="Galactic Civilizations II - Ultimate Edition (Europe).iso" size="2100363264" crc="e13b59c1" md5="bbe2965c72bb0443a72606f9a0130b2c" sha1="cc119f729c0d1f1a457fa17c18a57355af85cea2"/>
+	</game>
 	<game name="Galactic Civilizations II - Ultimate Edition (USA) (Install Disk)">
 		<category>Games</category>
 		<description>Galactic Civilizations II - Ultimate Edition (USA) (Install Disk)</description>
@@ -63740,7 +63751,7 @@
 		<category>Games</category>
 		<description>Guignols de l'Info, Les ...le Jeu ! (France)</description>
 		<rom name="Guignols de l'Info, Les ...le Jeu ! (France).bin" size="737434320" crc="69653712" md5="48a3bcbe77660e1cb2c35ba2f241483d" sha1="952ba553503d8ca4b1c2c9088b5fd17bcef97c74"/>
-		<rom name="Guignols de l'Info, Les ...le Jeu ! (France).cue" size="110" crc="7dc3d43a" md5="4aa3ca7436a647c7e589d89041114262" sha1="14fb5941ad32fd34c0ea6529ae9b8427cd67f699"/>
+		<rom name="Guignols de l'Info, Les ...le Jeu ! (France).cue" size="133" crc="21bad013" md5="580e27dcb42790add27a9c63abae764a" sha1="b04b5cc5ecf27af7d5c4ae81ea30857b8783b60b"/>
 	</game>
 	<game name="Guild 2, The (France)">
 		<category>Games</category>
@@ -98486,6 +98497,12 @@
 		<rom name="MissionForce - CyberStorm (USA) (Extra CD) (Track 3).bin" size="25735584" crc="9c1e3e1d" md5="1ad5987f6b57e1a8e0bd928ef6234cdc" sha1="eced932521fc58d1cf8caa0d5a56ff88bb48cc85"/>
 		<rom name="MissionForce - CyberStorm (USA) (Extra CD) (Track 4).bin" size="41743296" crc="cc8d5ac4" md5="88854127d3af3163c831a826b9f3f223" sha1="28ef727cea2556f6fb0c219aa1f942cd9f6f77ff"/>
 		<rom name="MissionForce - CyberStorm (USA) (Extra CD).cue" size="526" crc="3e7e970a" md5="9e16fa8a665bfb60ecfeb64af863351a" sha1="dd6989a99c71323dc9c1107dd408ffed30f9c008"/>
+	</game>
+	<game name="MissionForce - CyberStorm (USA) (Interactive Preview)">
+		<category>Demos</category>
+		<description>MissionForce - CyberStorm (USA) (Interactive Preview)</description>
+		<rom name="MissionForce - CyberStorm (USA) (Interactive Preview).bin" size="32001312" crc="583c0de3" md5="f826345671494f535fbd3598da5ed429" sha1="f37fce67c4e1c78db4a8b7a43e8dbccd44b85f5e"/>
+		<rom name="MissionForce - CyberStorm (USA) (Interactive Preview).cue" size="142" crc="875c8704" md5="1a1cf13698d711fb43dbb19fc7a4c846" sha1="19374f127b889ced98979722ea8b4a0933f291f0"/>
 	</game>
 	<game name="Mist (Japan)">
 		<category>Games</category>
@@ -163355,11 +163372,11 @@
 		<rom name="Unreal Tournament 2003 (USA, Europe) (En,Fr,De,Es,It) (Disc 1) (v2107).bin" size="765794736" crc="f55b92db" md5="785438cc23a331a5c9fc33ca5551211d" sha1="e5d36d46a81fe044b65c72f940c449120550aa68"/>
 		<rom name="Unreal Tournament 2003 (USA, Europe) (En,Fr,De,Es,It) (Disc 1) (v2107).cue" size="136" crc="da5e6117" md5="7c3753532715c53b4f93404a39b965b0" sha1="e10b0eea40e11fe36281aca29cf30587d4abc6b4"/>
 	</game>
-	<game name="Unreal Tournament 2004 (Japan) (Demo) (OEM)">
+	<game name="Unreal Tournament 2004 (USA) (Demo)">
 		<category>Demos</category>
-		<description>Unreal Tournament 2004 (Japan) (Demo) (OEM)</description>
-		<rom name="Unreal Tournament 2004 (Japan) (Demo) (OEM).bin" size="252527184" crc="331193ff" md5="4146bda5550a85a4b48fd2271758bdff" sha1="ff6fd1ff713cf85691d1de7f6c3b9e99b91ec4b2"/>
-		<rom name="Unreal Tournament 2004 (Japan) (Demo) (OEM).cue" size="109" crc="961d14c6" md5="379aff938e6c98e2ab45d68a8b3586ef" sha1="234a58fd95790f6d4f4950d379056ecf8121d6fa"/>
+		<description>Unreal Tournament 2004 (USA) (Demo)</description>
+		<rom name="Unreal Tournament 2004 (USA) (Demo).bin" size="543010944" crc="c11544b3" md5="6ec51109616ecefdc9184c6d56a46ecb" sha1="859d3917260aacaaaa9218ffb311aec88cda18e0"/>
+		<rom name="Unreal Tournament 2004 (USA) (Demo).cue" size="101" crc="343e3722" md5="c52a67ea245c6632dff0b75635508356" sha1="aa6875126bc6131e3da0ec39b2e54568514eacba"/>
 	</game>
 	<game name="Unreal Tournament 2004 (USA) (Editor's Choice and Mega Bonus Pack)">
 		<category>Games</category>
@@ -166100,17 +166117,17 @@
 		<rom name="Virtual Vegas 7007 Slots (USA).bin" size="16160592" crc="f45b79df" md5="000330c6c5df6dd2da5904f30bdbb5c5" sha1="cbf84c1f91136fc832ddb82359b00b322c123209"/>
 		<rom name="Virtual Vegas 7007 Slots (USA).cue" size="96" crc="8b352c4e" md5="16cae94091121df1c815b3d9aa2bdd5e" sha1="fa44b697d61f2d0f7137e8d828f70c94bfb6a112"/>
 	</game>
-	<game name="Virtual Villagers (USA) (RealArcade)">
-		<category>Games</category>
-		<description>Virtual Villagers (USA) (RealArcade)</description>
-		<rom name="Virtual Villagers (USA) (RealArcade).bin" size="651957936" crc="4ca7e3a2" md5="79bb327a54cadc2e20881c57b649eb75" sha1="c63e96a179cfdd4b8e66a3810f38f31340d2bf4d"/>
-		<rom name="Virtual Villagers (USA) (RealArcade).cue" size="102" crc="0d37a162" md5="f8ebc2459bd1b27fa4732d1d7100e5b0" sha1="115088cf3eb6bf9260b545d32bbf77cc77fda4cc"/>
-	</game>
 	<game name="Virtual Villagers - A New Home (USA)">
 		<category>Games</category>
 		<description>Virtual Villagers - A New Home (USA)</description>
 		<rom name="Virtual Villagers - A New Home (USA).bin" size="199073280" crc="a5a9b62f" md5="4ab52fe9b331a590ce8b5cecbf8a7777" sha1="0639be9bcc30b0791255f9f1f08b0242de1b4edd"/>
 		<rom name="Virtual Villagers - A New Home (USA).cue" size="102" crc="442787bc" md5="10aac6ea9daf58dcb39ff6c0051e6f7f" sha1="50cab3c0e6a8818aea08cb19578210eb317b38a2"/>
+	</game>
+	<game name="Virtual Villagers - A New Home (USA) (RealArcade)">
+		<category>Games</category>
+		<description>Virtual Villagers - A New Home (USA) (RealArcade)</description>
+		<rom name="Virtual Villagers - A New Home (USA) (RealArcade).bin" size="651957936" crc="4ca7e3a2" md5="79bb327a54cadc2e20881c57b649eb75" sha1="c63e96a179cfdd4b8e66a3810f38f31340d2bf4d"/>
+		<rom name="Virtual Villagers - A New Home (USA) (RealArcade).cue" size="115" crc="f8ef4214" md5="a6ad4b72bc24a12bcd1562ff240bbbd5" sha1="50103ab71e61ce18c6cc2fe2dc62ef41e155b97c"/>
 	</game>
 	<game name="Virtual Villagers - New Believers (Germany)">
 		<category>Games</category>
