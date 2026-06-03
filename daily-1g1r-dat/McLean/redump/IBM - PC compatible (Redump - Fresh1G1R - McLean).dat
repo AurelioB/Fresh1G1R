@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,095) (-ly) [-aAbBcdDefkmMopPruv] (2026-06-01 02-07-46) (Retool)</description>
-		<version>2026-06-01 02-07-46</version>
-		<date>2026-06-01 03-27-06</date>
+		<description>IBM - PC compatible (13,096) (-ly) [-aAbBcdDefkmMopPruv] (2026-06-02 18-27-29) (Retool)</description>
+		<version>2026-06-02 18-27-29</version>
+		<date>2026-06-03 03-28-49</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -16524,11 +16524,11 @@
 		<description>Costume Quest (USA)</description>
 		<rom name="Costume Quest (USA).iso" size="1813438464" crc="e8a4d592" md5="da240b5116c57cb425428d4fcd752942" sha1="49b6b48a154f51cbc763b89ec85cfa429a78928f"/>
 	</game>
-	<game name="Counter Action (Germany) (En,Fr,De,Es,It,Pl,Ru)">
+	<game name="Counter Action (Argentina) (En,Fr,De,Es,It,Pl,Ru)">
 		<category>Games</category>
-		<description>Counter Action (Germany) (En,Fr,De,Es,It,Pl,Ru)</description>
-		<rom name="Counter Action (Germany) (En,Fr,De,Es,It,Pl,Ru).bin" size="181569696" crc="984e5515" md5="6ef6c78314a2549bd63ea9c43ecbc2c2" sha1="9b51f33131e60460655939bec23b1ed7fae96f13"/>
-		<rom name="Counter Action (Germany) (En,Fr,De,Es,It,Pl,Ru).cue" size="113" crc="ee68abbe" md5="b055bbddb0c6f4ffdb86d458220b0b2a" sha1="ca7534dedc3ddc31c8623de7340501010664c733"/>
+		<description>Counter Action (Argentina) (En,Fr,De,Es,It,Pl,Ru)</description>
+		<rom name="Counter Action (Argentina) (En,Fr,De,Es,It,Pl,Ru).bin" size="181555584" crc="4e5e4420" md5="896cee4b1c23c406894d4421571260a6" sha1="e8a2b0eb8cdd64c5e6cb1121dabbcaa3f59acc06"/>
+		<rom name="Counter Action (Argentina) (En,Fr,De,Es,It,Pl,Ru).cue" size="115" crc="67e3900b" md5="14ec62f0c3700e7d470d63f779dab824" sha1="4f099d01dcacbf7ae807612d81adea74e6c5f897"/>
 	</game>
 	<game name="Counter Blow (Germany)">
 		<category>Games</category>
@@ -30964,6 +30964,12 @@
 		<description>Front Page Sports - Trophy Rivers (USA)</description>
 		<rom name="Front Page Sports - Trophy Rivers (USA).bin" size="752776416" crc="ed24a13c" md5="0aad6a4c44a9c32692fee790ba2cdfc2" sha1="23ba1d3d287d8d2dd63cf045a8cf7813ebfa33d4"/>
 		<rom name="Front Page Sports - Trophy Rivers (USA).cue" size="128" crc="2a450bdd" md5="b81d34c555dc34ab0d56008b4196e10a" sha1="0d7dc4a1c06cc3ff92eaf1730c052cb6c6701402"/>
+	</game>
+	<game name="Frontier - Elite II (Europe) (En,Fr,De,Es)">
+		<category>Games</category>
+		<description>Frontier - Elite II (Europe) (En,Fr,De,Es)</description>
+		<rom name="Frontier - Elite II (Europe) (En,Fr,De,Es).bin" size="4976832" crc="7532ff41" md5="5df3b70d7795efaff4639cfbe822c7c2" sha1="af43455555ea09b333089d4a8e829c3ffb62391b"/>
+		<rom name="Frontier - Elite II (Europe) (En,Fr,De,Es).cue" size="108" crc="bb00ffdd" md5="9bda1c5b26b847fe22082f0e8337a446" sha1="00b782625c0ba4037724becf5bfebb24b7e64425"/>
 	</game>
 	<game name="Frontier - First Encounters (Europe)">
 		<category>Games</category>
@@ -61875,15 +61881,15 @@
 		<description>Primordia (USA)</description>
 		<rom name="Primordia (USA).iso" size="1471021056" crc="4ab67289" md5="6cce1800636d5284599043fc67febedf" sha1="0c212a332f1a0a64c48aa676fb4366395f850fef"/>
 	</game>
-	<game name="Prince of Persia (Europe, Australia) (En,Fr,De,Es,It,Nl)">
-		<category>Games</category>
-		<description>Prince of Persia (Europe, Australia) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Prince of Persia (Europe, Australia) (En,Fr,De,Es,It,Nl).iso" size="7745863680" crc="3170d97b" md5="f2131c74deb853b31f0a04cdf22790f0" sha1="b332fc2b6e8357049d25b5f5940aabf9965a1ffb"/>
-	</game>
 	<game name="Prince of Persia (USA) (En,Fr,De,Es,It,Nl) (2008)">
 		<category>Games</category>
 		<description>Prince of Persia (USA) (En,Fr,De,Es,It,Nl) (2008)</description>
 		<rom name="Prince of Persia (USA) (En,Fr,De,Es,It,Nl) (2008).iso" size="7746355200" crc="e0549e53" md5="dcbdbfa56d1e25efea78ab5346b809a0" sha1="e65acd04baaf84481b79589b795edb144d24d1b5"/>
+	</game>
+	<game name="Prince of Persia (World) (En,Fr,De,Es,It,Nl)">
+		<category>Games</category>
+		<description>Prince of Persia (World) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Prince of Persia (World) (En,Fr,De,Es,It,Nl).iso" size="7745863680" crc="3170d97b" md5="f2131c74deb853b31f0a04cdf22790f0" sha1="b332fc2b6e8357049d25b5f5940aabf9965a1ffb"/>
 	</game>
 	<game name="Prince of Persia - The Forgotten Sands (Europe, Australia) (En,Fr,De,Es,It,Nl)">
 		<category>Games</category>
