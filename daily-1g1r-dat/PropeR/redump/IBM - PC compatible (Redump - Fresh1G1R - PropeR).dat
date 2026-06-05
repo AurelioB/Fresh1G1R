@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,739) (-y) [-aAbBcdkmMpPuv] (2026-06-02 18-27-29) (Retool)</description>
-		<version>2026-06-02 18-27-29</version>
-		<date>2026-06-03 03-34-25</date>
+		<description>IBM - PC compatible (25,740) (-y) [-aAbBcdkmMpPuv] (2026-06-03 18-45-10) (Retool)</description>
+		<version>2026-06-03 18-45-10</version>
+		<date>2026-06-05 05-37-32</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -27613,6 +27613,11 @@
 		<description>Cleome no Bishou - Ikusa Megami Visual Novel-ban (Japan)</description>
 		<rom name="Cleome no Bishou - Ikusa Megami Visual Novel-ban (Japan).bin" size="136752336" crc="6a3e1520" md5="6aaf1708c17dc357b60aff4d8a04bbfb" sha1="09530bd65f10d6314169ec52be3da99b38842305"/>
 		<rom name="Cleome no Bishou - Ikusa Megami Visual Novel-ban (Japan).cue" size="122" crc="9b16944b" md5="3da3bb07f992da294f9a8d3727360f12" sha1="3ee6495c6ef547e915e762dd2eea85670d06d01e"/>
+	</game>
+	<game name="Cleopatra - A Queen's Destiny (Turkey)">
+		<category>Games</category>
+		<description>Cleopatra - A Queen's Destiny (Turkey)</description>
+		<rom name="Cleopatra - A Queen's Destiny (Turkey).iso" size="1929609216" crc="89a60f99" md5="e80bc570e0badde676dbb34c2ecf2954" sha1="c7e63ba05cba0121ca7f4893ad5e47d5025eaf70"/>
 	</game>
 	<game name="Cleopatra - Queen of the Nile (USA, Asia)">
 		<category>Add-Ons</category>

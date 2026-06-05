@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,181) (-y) [-aAbBcefkmMoprv] (2026-06-02 18-27-29) (Retool)</description>
-		<version>2026-06-02 18-27-29</version>
-		<date>2026-06-03 03-22-43</date>
+		<description>IBM - PC compatible (25,182) (-y) [-aAbBcefkmMoprv] (2026-06-03 18-45-10) (Retool)</description>
+		<version>2026-06-03 18-45-10</version>
+		<date>2026-06-05 05-27-01</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -27295,6 +27295,11 @@
 		<rom name="Clearing House (Germany) (Track 8).bin" size="38161200" crc="20834207" md5="6fe0e7cf74cdb3a76f8d701225848414" sha1="3086b33076658224ecd6bb437cb45b8ee633ba25"/>
 		<rom name="Clearing House (Germany) (Track 9).bin" size="64009680" crc="35e858c1" md5="a84af69cd8d5c95cac90b7148e6db9a9" sha1="06517225c6363a4ca8dff87ae10f1f49ed561dd5"/>
 		<rom name="Clearing House (Germany).cue" size="883" crc="d46e4ee5" md5="b8cb77fb757d88e4f659c0dbffe4f270" sha1="6822912135649914a3f26b8fe4376751c79bafc8"/>
+	</game>
+	<game name="Cleopatra - A Queen's Destiny (Turkey)">
+		<category>Games</category>
+		<description>Cleopatra - A Queen's Destiny (Turkey)</description>
+		<rom name="Cleopatra - A Queen's Destiny (Turkey).iso" size="1929609216" crc="89a60f99" md5="e80bc570e0badde676dbb34c2ecf2954" sha1="c7e63ba05cba0121ca7f4893ad5e47d5025eaf70"/>
 	</game>
 	<game name="Cleopatra - Queen of the Nile (USA, Asia)">
 		<category>Add-Ons</category>
