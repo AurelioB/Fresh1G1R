@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,096) (-ly) [-aAbBcdDefkmMopPruv] (2026-06-03 18-45-10) (Retool)</description>
-		<version>2026-06-03 18-45-10</version>
-		<date>2026-06-05 05-32-29</date>
+		<description>IBM - PC compatible (13,098) (-ly) [-aAbBcdDefkmMopPruv] (2026-06-06 02-31-22) (Retool)</description>
+		<version>2026-06-06 02-31-22</version>
+		<date>2026-06-06 03-35-55</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -2091,6 +2091,12 @@
 		<rom name="Advanced Dungeons &amp; Dragons - Treasures of the Savage Frontier (USA).bin" size="2777712" crc="5850a34f" md5="2c6e055ad614ccf0dc2f5f2d304162ca" sha1="bec98a715d26f9380ecd8f58031eac611bad4caa"/>
 		<rom name="Advanced Dungeons &amp; Dragons - Treasures of the Savage Frontier (USA).cue" size="157" crc="ac4b98cd" md5="1cb8eebc5153555b73e3e6c7294f6674" sha1="d10edfd14c9f08442218c071e7f8aacd7e23d02e"/>
 	</game>
+	<game name="Advanced Flight Simulator (USA)">
+		<category>Games</category>
+		<description>Advanced Flight Simulator (USA)</description>
+		<rom name="Advanced Flight Simulator (USA).bin" size="837810624" crc="1a825d68" md5="92163a85517aa915b492f05ea113ec6c" sha1="94a4acf3748d178fe40a2ed1d59d6e07385c1799"/>
+		<rom name="Advanced Flight Simulator (USA).cue" size="97" crc="f651e6da" md5="08458c71d8e4d83fde00242afb611bcb" sha1="85036236cc34281ebb256df3b06c70b37882a518"/>
+	</game>
 	<game name="Advent Rising (USA)">
 		<category>Games</category>
 		<description>Advent Rising (USA)</description>
@@ -2772,11 +2778,11 @@
 		<rom name="Air Havoc Controller (USA).bin" size="768647712" crc="dd53122c" md5="8b9f80047467fdc85ee4163960ea2a93" sha1="844bb5cd92a1739a6c1d0a2f66c1d7af19e44dd8"/>
 		<rom name="Air Havoc Controller (USA).cue" size="92" crc="f11c4b93" md5="569b4e78d00c0160c91b4d2d34d41d9d" sha1="435ec453f4324ac483d4d09e66ad858fb2f78901"/>
 	</game>
-	<game name="Air Offensive - The Art of Flying (Europe)">
+	<game name="Air Offensive - The Art of Flying (USA)">
 		<category>Games</category>
-		<description>Air Offensive - The Art of Flying (Europe)</description>
-		<rom name="Air Offensive - The Art of Flying (Europe).bin" size="148747536" crc="c5666b8c" md5="27ce481855a5f8e61304406c458344aa" sha1="3cf202e647ea9fad6fa758ce6d1df20451bc31a7"/>
-		<rom name="Air Offensive - The Art of Flying (Europe).cue" size="123" crc="4e790849" md5="c65f48fad2b2e4d4a981bfb18409966e" sha1="c4503f3b8e9926a6dfeede190c8fd4355933db6c"/>
+		<description>Air Offensive - The Art of Flying (USA)</description>
+		<rom name="Air Offensive - The Art of Flying (USA).bin" size="50236368" crc="48f4076a" md5="93f2b7e065ac4eb5cade903606e36beb" sha1="8672c415f134dd41350a80397594ba7b95a4653a"/>
+		<rom name="Air Offensive - The Art of Flying (USA).cue" size="120" crc="6d3ec6ac" md5="d52f1d39e2cfa8d2c99a18a7de623c33" sha1="dcf17ea3550e26cd33512bc536834882a15a433a"/>
 	</game>
 	<game name="Air Power (Europe)">
 		<category>Games</category>
@@ -4971,11 +4977,11 @@
 		<rom name="Aquazone - Desktop Garden (USA).bin" size="176160096" crc="9c80c5cc" md5="04a1d9675e6fa253e56c9b46c63ae245" sha1="246f9d9541d7c87a76fd759480471192294b50d0"/>
 		<rom name="Aquazone - Desktop Garden (USA).cue" size="97" crc="7b8aa8ed" md5="fdcb3172c091c0e728f49257027f8226" sha1="8d3ccde259e176a9f67e73eb1bdc7eb11eafeb95"/>
 	</game>
-	<game name="Aquazone Deluxe - The Virtual Aquarium (USA) (Rerelease)">
+	<game name="Aquazone Deluxe - The Virtual Aquarium (USA)">
 		<category>Games</category>
-		<description>Aquazone Deluxe - The Virtual Aquarium (USA) (Rerelease)</description>
-		<rom name="Aquazone Deluxe - The Virtual Aquarium (USA) (Rerelease).bin" size="353435040" crc="177d2618" md5="1de513f7cf2fbaf9659cfdb35acabfbe" sha1="4718777a3fc52cdb4fa7ad1bd88a4459f5c95319"/>
-		<rom name="Aquazone Deluxe - The Virtual Aquarium (USA) (Rerelease).cue" size="122" crc="3f465c23" md5="6015fb24561dd2cfa0fe09531bbc7367" sha1="df613bb3ea7dfe6e93825a0ac7f8e07e2024be77"/>
+		<description>Aquazone Deluxe - The Virtual Aquarium (USA)</description>
+		<rom name="Aquazone Deluxe - The Virtual Aquarium (USA).bin" size="351878016" crc="48386c5c" md5="2ad23368e95ec0097ea9d132639a46ab" sha1="f10c80e893c98db46c0ac891c83482429faf9c4c"/>
+		<rom name="Aquazone Deluxe - The Virtual Aquarium (USA).cue" size="133" crc="75f939b8" md5="077e9eccc09d8a36befc2d34434720c1" sha1="0625b60b3a080f62640b7bf000dc486ba8288679"/>
 	</game>
 	<game name="Arabian Nights (Canada)">
 		<category>Games</category>
@@ -65941,36 +65947,36 @@
 		<rom name="Return to Zork &amp; The Zork Anthology (USA) (Track 26).bin" size="36717072" crc="51abe70a" md5="e4feaa02ce1e062f25781d862e98a7cb" sha1="cf278fd794979cb869ab6f05163754ad0a68a63b"/>
 		<rom name="Return to Zork &amp; The Zork Anthology (USA).cue" size="3541" crc="6084fd2f" md5="5201111dbfa095dc1c2cdd438b07b42a" sha1="5684d037722ddb0e6c34852e87d6cc83a1cdc9f4"/>
 	</game>
-	<game name="Return to Zork (USA) (v1.1) (1993-07-22)">
+	<game name="Return to Zork (USA) (v1.2)">
 		<category>Games</category>
-		<description>Return to Zork (USA) (v1.1) (1993-07-22)</description>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 01).bin" size="192487680" crc="f43bec91" md5="f314b6664af73206efd4c6b4f33ec813" sha1="e53fa4b2fa7c738689f207babf3362c0c143e578"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 02).bin" size="3495072" crc="63759ef1" md5="e6257dc24d147b1eef11d93188226192" sha1="bf699a62ff23151034a6213519e8b333fb3dc690"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 03).bin" size="2676576" crc="a4cbcbed" md5="6542b214fa34a8080679c053ca1e6516" sha1="42b4f5ed43a1a34f43f8494dfa911e9a3ae2cba3"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 04).bin" size="11273136" crc="55c1e126" md5="b984ddcd349edf210bdce0973f3fbf71" sha1="ebebdba0e7fbca1dad84e5791bb802c1b3ab4763"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 05).bin" size="6406848" crc="5a7a66bf" md5="1d04b5ef607e4607d5ef781a700e06d3" sha1="7e279a4ac6f4a2a33f886e433c37ba8bb2c4057e"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 06).bin" size="6432720" crc="83602fd7" md5="0a2a050256d668c79e182853cfc410ef" sha1="0ec11a05d286d090c0dc38e7a677ad839765f7ed"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 07).bin" size="12086928" crc="1ea8eda8" md5="f7545552c0a4b5733130831cf161e14b" sha1="7aa4f649f96a56ef87efd9986612bd3dce06aa07"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 08).bin" size="21431424" crc="b9c2146a" md5="98fa20cf0ccc9438d4e0146a5efee02f" sha1="1d85a5e655c6a65c76472702efb96c0800194dba"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 09).bin" size="14239008" crc="94d7755a" md5="eab2e037e1469b8da350f019b31b04dd" sha1="f47dbfd515fc6dddca9145d31c94a8d8a37134be"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 10).bin" size="4492320" crc="a0a91803" md5="921d31109e026cbe50fcf63d6d10ff5e" sha1="d27cd3fdf557f0dc7b409651907aeee9569746b4"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 11).bin" size="4489968" crc="7854ca85" md5="5533e84a7c809d0facccb2da395c1f73" sha1="6bb245a9d3cf55f3f494d46879b04f54a0d8ac7b"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 12).bin" size="6192816" crc="c82cc973" md5="aa715e0ffc895fd7e7e3d74d8e25dc5d" sha1="e7514eed371cfb881dbd362977ccb7c928822a1d"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 13).bin" size="7524048" crc="766fa5f6" md5="b4edc57c982b55d6aaf1fbcee168c59c" sha1="e724cdfb36ca64c28db0af79e5825c826516230e"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 14).bin" size="6072864" crc="24df660a" md5="6a7df8e27d5f2fa547004e9dd42dcd4c" sha1="c07c055c613fca6a3a823ba2beaee8fde5c258ce"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 15).bin" size="4621680" crc="19339fd7" md5="512e19d7c2de4180d95cc55137c49690" sha1="7c00ec97bffd8710164fa068ed94aceab3c90e75"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 16).bin" size="12580848" crc="6f49a935" md5="7a93bfad914a7409d5715583e7e1a790" sha1="dac5a1ccbbd8dcb908f4f184bc4ba25311affd2f"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 17).bin" size="9650256" crc="0f3402ff" md5="be9e2f65f8fe814d07c45d5e6adbe7e7" sha1="3f6321820832e4bd490d20dbcae32cd302835900"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 18).bin" size="10774512" crc="d72b327c" md5="5cb51616abc2ab094f07dc96e8fc0d54" sha1="2da9e500322cfcf85c09d083b3b73f3bc78ffaab"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 19).bin" size="3471552" crc="9f28bb4e" md5="80ddd4265a22b62a6f9efe71c84b7a55" sha1="a261bc4914e5eab84f30bcbc8abc413d99f9a562"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 20).bin" size="10508736" crc="51567815" md5="f4326732b2f48d040620b64e2c1ba079" sha1="c57b81238b01a9e58f1077317371ed0211d563ae"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 21).bin" size="6674976" crc="a282f3bb" md5="8d9798ecaf1ec8b2ba591c3f687c85d2" sha1="1fee5438cf4eea3cb0bfc7b7bc40418f50612b89"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 22).bin" size="8613024" crc="4277c793" md5="e3d29b1f9e64e13d1566bbefcd96f276" sha1="35fbf554ce5ec64d9122245f964114ef81382bbf"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 23).bin" size="19425168" crc="45926830" md5="c9ffc3421f2ada0304a6e5a0a9e3997a" sha1="b3f7b18911f94696c8b71f0c5cef5e1c136e05e8"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 24).bin" size="15417360" crc="46642d8f" md5="d7fe13990902ab3660e772b0ed482b5c" sha1="083a0922a78b042468684c5c004b7cb4158581d5"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 25).bin" size="13949712" crc="cd7a063e" md5="e66d9471f116852478158e8e8813a897" sha1="fe02b89d34ae7eca703778a8eb70242926860ac8"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 26).bin" size="35649264" crc="247638d1" md5="034de21dc51c3ed2ad023f8c2e9dc2a6" sha1="5be3fd840b666919a6a8ed4f58d7dc3312ed4d27"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22).cue" size="2963" crc="c5cefadb" md5="82a95ac9dc70efc94d2e82c14f9f97e0" sha1="cd56bb44e44aaf122c0662d3bd99d5a82709e702"/>
+		<description>Return to Zork (USA) (v1.2)</description>
+		<rom name="Return to Zork (USA) (v1.2) (Track 01).bin" size="167363616" crc="9bdccbc5" md5="2a18ad858d07b0d58e571e0500b5e84e" sha1="ea3400732bae4770087773e38d4c6d4a4f211e1e"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 02).bin" size="3499776" crc="964dd8f3" md5="4bedca1d3df95117f0d4c9d34a7bb587" sha1="acd30c6652db43be64ec5ad5f4e04ee18ed7ac8c"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 03).bin" size="3034080" crc="b8710555" md5="fc5fb248434c7244b6c29cf8a23fffa8" sha1="12f6e91a37b036e7b66c3b0176205f5958859c33"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 04).bin" size="11630640" crc="13edab05" md5="4bed7fee93a3797605eb003cc4a1de16" sha1="e9425ffee64904bb602c95343ccb6d19cafca439"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 05).bin" size="6764352" crc="d69c5635" md5="309dc236257b7b7da4d890884d6d017a" sha1="81a757926004825413b1c0109775d43c7da4b425"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 06).bin" size="6790224" crc="47909ae2" md5="0f610d3d19009585f7eccc3487b5e4c0" sha1="ed52a0e7ea1ae48a4d3a992f538a8cd80142f9c3"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 07).bin" size="12444432" crc="e267121a" md5="aaa1ada6656ca48fcd2efb5665f8fa4f" sha1="005c8c7d4749753b26527614283bb198046b2960"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 08).bin" size="21788928" crc="089ec960" md5="d69e559341c1600d2960b956451eda0c" sha1="1d6b7494cd52233429ee84f00e976c314e724348"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 09).bin" size="14596512" crc="af076fc3" md5="ed71c19a4633f5d34851b999587ed7c2" sha1="eb7f3b7d35351a3eea7f91b9b9ff6eb1861c6989"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 10).bin" size="4849824" crc="3ca1af6a" md5="ae7019119b4219c7d97d711457897783" sha1="29f45b11c18d8ac8cb1b788010e350e66f6ab7b8"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 11).bin" size="4847472" crc="a8f4c532" md5="bf00af420e69d8c70f03d20d2cf633f6" sha1="b9385a05c9763a547856095d477ad5a013c31a49"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 12).bin" size="6550320" crc="9834182c" md5="c93bc861d1f39078e1d90acd1e3d4dec" sha1="356cb69e937f513361a76015faaf0eb14be8e907"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 13).bin" size="7881552" crc="b4f07ec3" md5="2fd0115cb01fee0be0a074f3c22f2a49" sha1="94349ce0b6bd3c91df146fe12253f9c351777fa5"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 14).bin" size="6430368" crc="30a2a965" md5="b89b68213efdff493132e4164b5c1b2d" sha1="a54570b8ebd60bca4d989230775f8f331693c0fe"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 15).bin" size="4976832" crc="94c98306" md5="d2693d0d84d0b84a53ac98d2b02a5773" sha1="e664bfc415be11df34e14ebe8bd16f31f756b970"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 16).bin" size="12940704" crc="427549fc" md5="c33c7ae33fbc10d6399ebc64cfd193a6" sha1="78a7bc5d2f20c69b305610efaeea86954181b644"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 17).bin" size="10007760" crc="fb10e726" md5="fcd73f09547fc024527ea59dbf5104ec" sha1="c82caf2746c3e0901736f448f9bd54cbef3a830c"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 18).bin" size="11132016" crc="a63688a6" md5="89b0ef13f489b017be2cd99c1927e7a8" sha1="b31664ff9dfc1c9982a8f8049d2dba9dfc34d8d6"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 19).bin" size="3829056" crc="984f80a4" md5="2676ee22d0107ba7cb4519c6ae01a5f8" sha1="5dcbab2637dc83d341932f9adeb3c70d0047ec55"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 20).bin" size="10866240" crc="c28117ff" md5="be2752c374f801655e6ac8ffb1d5b5e3" sha1="6c11a40f552e5ee862259b3ff857c66439e76017"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 21).bin" size="7032480" crc="1e423932" md5="f1afef56845c582d1c5bbd03d97ff90e" sha1="6fbc04cd6968f79d1280dcf0473dba8f332b9e2f"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 22).bin" size="8970528" crc="50a7e55f" md5="12b7dcd6d62da1cbd6c43414ba0a04dd" sha1="4c69c3e3e054e6290643d3979739ce5cb2d482ee"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 23).bin" size="19782672" crc="b0feeb66" md5="807f65e643fdc2ce5bc5d94d8297fd14" sha1="1c08832c8e7bfccc9525c2ebc4868783523ddfc2"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 24).bin" size="15774864" crc="24fea875" md5="de723e1ef583008d44878a29b2cb4832" sha1="0b9fc819c4e5f72c4388bd66493498bcbf1be483"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 25).bin" size="14307216" crc="b57617f1" md5="bb9efb2927cd9432484961e89f1411b5" sha1="97e9bab5c6d2e2986612e35177498dd42146f89c"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 26).bin" size="36354864" crc="0774ac83" md5="565182825ef7fa3e5f7146e79f952d8f" sha1="ceed30932d8772d85eaf9f7424be1e7bb12c4bf0"/>
+		<rom name="Return to Zork (USA) (v1.2).cue" size="3177" crc="225ff20a" md5="111d78b1b307464277bef9fb9af49655" sha1="2483ce47fb0a83e6b7c1bf8351e081c26283db3a"/>
 	</game>
 	<game name="Reunion (Europe) (En,Fr,De,It)">
 		<category>Games</category>
@@ -75112,6 +75118,12 @@
 		<description>SportzFreakz (USA)</description>
 		<rom name="SportzFreakz (USA).bin" size="312042192" crc="d697d57b" md5="45438a69e5d4f5671c17d7b62905a216" sha1="a3cd8c77c265bd6603786aaae55501625e39d38c"/>
 		<rom name="SportzFreakz (USA).cue" size="107" crc="5f8e797d" md5="bcee5522d554a39411170a2929905a66" sha1="558a4b68d2e026a4854abd222b356091308e6fc7"/>
+	</game>
+	<game name="Springdale - Stallets Hemlighet (Sweden) (En,Sv,No)">
+		<category>Games</category>
+		<description>Springdale - Stallets Hemlighet (Sweden) (En,Sv,No)</description>
+		<rom name="Springdale - Stallets Hemlighet (Sweden) (En,Sv,No).bin" size="824705280" crc="021185a6" md5="4f438bc72c3ad25f6c5066bec42c0231" sha1="4863ae93684289ad5caf2d60df8c50e76740054d"/>
+		<rom name="Springdale - Stallets Hemlighet (Sweden) (En,Sv,No).cue" size="117" crc="aa609628" md5="1381fdab958f4027a6fb9222a2d9b55e" sha1="2dbe6916aff5f593a0c80c447e0dc696471aa65b"/>
 	</game>
 	<game name="Springy (UK)">
 		<category>Games</category>

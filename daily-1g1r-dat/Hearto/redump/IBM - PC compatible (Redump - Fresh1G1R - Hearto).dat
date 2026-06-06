@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,182) (-y) [-aAbBcefkmMoprv] (2026-06-03 18-45-10) (Retool)</description>
-		<version>2026-06-03 18-45-10</version>
-		<date>2026-06-05 05-27-01</date>
+		<description>IBM - PC compatible (25,199) (-y) [-aAbBcefkmMoprv] (2026-06-06 02-31-22) (Retool)</description>
+		<version>2026-06-06 02-31-22</version>
+		<date>2026-06-06 03-29-46</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -142,6 +142,12 @@
 		<description>100 Amazing Kid's Games (USA)</description>
 		<rom name="100 Amazing Kid's Games (USA).bin" size="199402560" crc="33d6db49" md5="bd709a9243f148a27833dcf489c73d98" sha1="6458e5c3cf12a0ed9bc1b64b2c50aa4211474b9e"/>
 		<rom name="100 Amazing Kid's Games (USA).cue" size="95" crc="079d0ea5" md5="0b60079223259f3b168b349685dc0506" sha1="4f3673a48a540daea4931d5c36ddecf258cca469"/>
+	</game>
+	<game name="100 Great Games for Windows '95 (Canada)">
+		<category>Demos</category>
+		<description>100 Great Games for Windows '95 (Canada)</description>
+		<rom name="100 Great Games for Windows '95 (Canada).bin" size="325502688" crc="c3ae05fa" md5="66b3bb4d154ac2c360979d9220b152c4" sha1="add0804b7af332a18bd3cd275fc80ffac79c290d"/>
+		<rom name="100 Great Games for Windows '95 (Canada).cue" size="129" crc="4559490a" md5="179799330f4d8ad5f7e14d8f03504f6d" sha1="00e75212297e98529d53194707784f503dc0e988"/>
 	</game>
 	<game name="100 Great Kid's Games (USA)">
 		<category>Demos</category>
@@ -4301,6 +4307,12 @@
 		<rom name="Advanced Dungeons &amp; Dragons - Treasures of the Savage Frontier (USA).bin" size="2777712" crc="5850a34f" md5="2c6e055ad614ccf0dc2f5f2d304162ca" sha1="bec98a715d26f9380ecd8f58031eac611bad4caa"/>
 		<rom name="Advanced Dungeons &amp; Dragons - Treasures of the Savage Frontier (USA).cue" size="157" crc="ac4b98cd" md5="1cb8eebc5153555b73e3e6c7294f6674" sha1="d10edfd14c9f08442218c071e7f8aacd7e23d02e"/>
 	</game>
+	<game name="Advanced Flight Simulator (USA)">
+		<category>Games</category>
+		<description>Advanced Flight Simulator (USA)</description>
+		<rom name="Advanced Flight Simulator (USA).bin" size="837810624" crc="1a825d68" md5="92163a85517aa915b492f05ea113ec6c" sha1="94a4acf3748d178fe40a2ed1d59d6e07385c1799"/>
+		<rom name="Advanced Flight Simulator (USA).cue" size="97" crc="f651e6da" md5="08458c71d8e4d83fde00242afb611bcb" sha1="85036236cc34281ebb256df3b06c70b37882a518"/>
+	</game>
 	<game name="Advanced Power DoLLS 2 (Japan)">
 		<category>Games</category>
 		<description>Advanced Power DoLLS 2 (Japan)</description>
@@ -5734,11 +5746,11 @@
 		<rom name="Air Management '96 (Japan) (Track 39).bin" size="32516400" crc="fc3042e3" md5="333b3e075b36896e57e34ad363ef6004" sha1="7e821851e3e128259d94a1855bdd4126b8bef8ad"/>
 		<rom name="Air Management '96 (Japan).cue" size="4701" crc="38ffae88" md5="b2b76af1934f336b90e029bdd386106a" sha1="b7a540e2a26f13b2e3ca7fdc7646b465dce82c51"/>
 	</game>
-	<game name="Air Offensive - The Art of Flying (Europe)">
+	<game name="Air Offensive - The Art of Flying (USA)">
 		<category>Games</category>
-		<description>Air Offensive - The Art of Flying (Europe)</description>
-		<rom name="Air Offensive - The Art of Flying (Europe).bin" size="148747536" crc="c5666b8c" md5="27ce481855a5f8e61304406c458344aa" sha1="3cf202e647ea9fad6fa758ce6d1df20451bc31a7"/>
-		<rom name="Air Offensive - The Art of Flying (Europe).cue" size="123" crc="4e790849" md5="c65f48fad2b2e4d4a981bfb18409966e" sha1="c4503f3b8e9926a6dfeede190c8fd4355933db6c"/>
+		<description>Air Offensive - The Art of Flying (USA)</description>
+		<rom name="Air Offensive - The Art of Flying (USA).bin" size="50236368" crc="48f4076a" md5="93f2b7e065ac4eb5cade903606e36beb" sha1="8672c415f134dd41350a80397594ba7b95a4653a"/>
+		<rom name="Air Offensive - The Art of Flying (USA).cue" size="120" crc="6d3ec6ac" md5="d52f1d39e2cfa8d2c99a18a7de623c33" sha1="dcf17ea3550e26cd33512bc536834882a15a433a"/>
 	</game>
 	<game name="Air Power (Europe)">
 		<category>Games</category>
@@ -10516,11 +10528,11 @@
 		<rom name="Aquazone - Desktop Garden (USA).bin" size="176160096" crc="9c80c5cc" md5="04a1d9675e6fa253e56c9b46c63ae245" sha1="246f9d9541d7c87a76fd759480471192294b50d0"/>
 		<rom name="Aquazone - Desktop Garden (USA).cue" size="97" crc="7b8aa8ed" md5="fdcb3172c091c0e728f49257027f8226" sha1="8d3ccde259e176a9f67e73eb1bdc7eb11eafeb95"/>
 	</game>
-	<game name="Aquazone Deluxe - The Virtual Aquarium (USA) (Rerelease)">
+	<game name="Aquazone Deluxe - The Virtual Aquarium (USA)">
 		<category>Games</category>
-		<description>Aquazone Deluxe - The Virtual Aquarium (USA) (Rerelease)</description>
-		<rom name="Aquazone Deluxe - The Virtual Aquarium (USA) (Rerelease).bin" size="353435040" crc="177d2618" md5="1de513f7cf2fbaf9659cfdb35acabfbe" sha1="4718777a3fc52cdb4fa7ad1bd88a4459f5c95319"/>
-		<rom name="Aquazone Deluxe - The Virtual Aquarium (USA) (Rerelease).cue" size="122" crc="3f465c23" md5="6015fb24561dd2cfa0fe09531bbc7367" sha1="df613bb3ea7dfe6e93825a0ac7f8e07e2024be77"/>
+		<description>Aquazone Deluxe - The Virtual Aquarium (USA)</description>
+		<rom name="Aquazone Deluxe - The Virtual Aquarium (USA).bin" size="351878016" crc="48386c5c" md5="2ad23368e95ec0097ea9d132639a46ab" sha1="f10c80e893c98db46c0ac891c83482429faf9c4c"/>
+		<rom name="Aquazone Deluxe - The Virtual Aquarium (USA).cue" size="133" crc="75f939b8" md5="077e9eccc09d8a36befc2d34434720c1" sha1="0625b60b3a080f62640b7bf000dc486ba8288679"/>
 	</game>
 	<game name="Aquazone II - Real Aquarium Simulator (Japan)">
 		<category>Games</category>
@@ -22638,6 +22650,12 @@
 		<rom name="CIA Operative - Solo Missions (USA) (Track 4).bin" size="27095040" crc="4f86b7e6" md5="1f43dc7b8f41619fbaa7a53d1fc6607d" sha1="a7c9ec9d4c02d3e0b15f0b74bfcb2e60a858a878"/>
 		<rom name="CIA Operative - Solo Missions (USA) (Track 5).bin" size="27095040" crc="df67fa5a" md5="9fe349465ea7268a723b35b43760584a" sha1="5c38e6a3afe4b0e42ea4648bfe79fef49940b7b8"/>
 		<rom name="CIA Operative - Solo Missions (USA).cue" size="627" crc="0b32da13" md5="c1df9d46594ea782a2a5afa0ae610f4e" sha1="b4245e4f2cbbc7560130f6f39feb0b6ae3f21ff8"/>
+	</game>
+	<game name="CICA Windows Explosion, The! August 1994 (USA)">
+		<category>Demos</category>
+		<description>CICA Windows Explosion, The! August 1994 (USA)</description>
+		<rom name="CICA Windows Explosion, The! August 1994 (USA).bin" size="781045104" crc="b06ee031" md5="ec4762599887ee1526e7bbb7fad2b33e" sha1="1f68864c59831767e3435c41c77946f33aadf77c"/>
+		<rom name="CICA Windows Explosion, The! August 1994 (USA).cue" size="135" crc="4ca3e6d6" md5="01d4b86543e0bbd1859807ac1c38cd13" sha1="2c3c7ad9fd550c55f7af52c015eac10c0a834dcf"/>
 	</game>
 	<game name="CRAVEx10 - Demonstration (Japan)">
 		<category>Demos</category>
@@ -45183,6 +45201,19 @@
 		<rom name="Earth 2140 + Mission Pack - Wydanie Specjalne (Poland) (Covermount) (Track 9).bin" size="60999120" crc="efb87908" md5="bf96e6138ad973c22130446992ed205d" sha1="41f5da6247c328fd98dec9d9609a28a293d3d6c1"/>
 		<rom name="Earth 2140 + Mission Pack - Wydanie Specjalne (Poland) (Covermount).cue" size="1270" crc="07aefeae" md5="8ee59e738d9cfdf21799594c1d8a0026" sha1="0720d9985ec543401278c88e61a65566a4239b1c"/>
 	</game>
+	<game name="Earth 2140 - Gold Pack (Sweden)">
+		<category>Games</category>
+		<description>Earth 2140 - Gold Pack (Sweden)</description>
+		<rom name="Earth 2140 - Gold Pack (Sweden) (Track 1).bin" size="405261360" crc="5b44b67e" md5="4e0e5c9dd2432b41b818f5bc56871d60" sha1="ac4540d971863384eca421a48d6301c8e1876908"/>
+		<rom name="Earth 2140 - Gold Pack (Sweden) (Track 2).bin" size="44215248" crc="61ca4c63" md5="944528a648063d907e63005f0c95a5e0" sha1="858ac4a391bb620241f4b539abaf27eb32412ced"/>
+		<rom name="Earth 2140 - Gold Pack (Sweden) (Track 3).bin" size="38290560" crc="704dc845" md5="be9ab3593fbb01e52320626b3c04ae91" sha1="7a893498d2a26c332fad31a9c2ed831d8c3fff58"/>
+		<rom name="Earth 2140 - Gold Pack (Sweden) (Track 4).bin" size="36458352" crc="3f5c51d6" md5="54eb259f78dbf4965fef5dbb983ce65e" sha1="05e102e71edf7edf6a2e2a12522d155249a84bf5"/>
+		<rom name="Earth 2140 - Gold Pack (Sweden) (Track 5).bin" size="44097648" crc="abc27b86" md5="69cd053a781f0c4e2dbf07d4a01ad3c9" sha1="7332e14ce6ba7e9a01bf7505a0acafcff9db0ff1"/>
+		<rom name="Earth 2140 - Gold Pack (Sweden) (Track 6).bin" size="31989552" crc="3f0ee305" md5="476deb17a44911787185cd9b31f6f23e" sha1="64819567e4205c6fdf3d0e66542dc59c239376e2"/>
+		<rom name="Earth 2140 - Gold Pack (Sweden) (Track 7).bin" size="39821712" crc="e989fb2c" md5="47af7ac3a8e6506241b4625b0b9f7ab6" sha1="a96b295c4d8b7290bd7aa3063fde77f250c4bf1a"/>
+		<rom name="Earth 2140 - Gold Pack (Sweden) (Track 8).bin" size="33024432" crc="1e319b6d" md5="aa885b485df18014d762a38877284ce1" sha1="bd428977c9e061e8225ca42dd0acb6e7e06abbe9"/>
+		<rom name="Earth 2140 - Gold Pack (Sweden).cue" size="844" crc="46d2c01c" md5="7ec499689a462eeabfb1476b61ccfced" sha1="ca157a637c1fd3df3463bae4ac1076fd43802de3"/>
+	</game>
 	<game name="Earth 2140 - Mission Pack 1 (Taiwan)">
 		<category>Add-Ons</category>
 		<description>Earth 2140 - Mission Pack 1 (Taiwan)</description>
@@ -47754,6 +47785,12 @@
 		<rom name="Entscheidung, Die - Ardennenoffensive 1944 (Germany) (Track 14).bin" size="39690000" crc="41411501" md5="e46606bc56ca965510da69984e2cb738" sha1="8d92da52ade39ae13f2a9ba2e5dd1f2f565443b2"/>
 		<rom name="Entscheidung, Die - Ardennenoffensive 1944 (Germany) (Track 15).bin" size="35101248" crc="4f7def9a" md5="785422cc762bed4ed48d829470cb777b" sha1="615035e6cea74030674ea7954560230d16ace020"/>
 		<rom name="Entscheidung, Die - Ardennenoffensive 1944 (Germany).cue" size="2187" crc="2567b1a7" md5="a9e38bb6210a70fd564e9f8a4f574844" sha1="55e0a33a48c6a30a869f915ab2d3654c100622fb"/>
+	</game>
+	<game name="Epic MegaGames Adventures (USA)">
+		<category>Demos</category>
+		<description>Epic MegaGames Adventures (USA)</description>
+		<rom name="Epic MegaGames Adventures (USA).bin" size="21365568" crc="0fe340e1" md5="ce5b21a1b26bd239282d2c116cab3a2a" sha1="a8138a9d309e54b0edbee9ed84f1f4e86172e870"/>
+		<rom name="Epic MegaGames Adventures (USA).cue" size="120" crc="76c193c5" md5="d9981a21b1067cff9043653720cd9a50" sha1="32db82f539a5041486b6bdd86dbfdda10062ab6f"/>
 	</game>
 	<game name="Epic Pinball (USA)">
 		<category>Games</category>
@@ -58151,6 +58188,12 @@
 		<rom name="Galaxy of Games - TetriMania (USA).bin" size="61199040" crc="7f7676ae" md5="6532e42b731fa80d3c1751878bf62a3c" sha1="60db261bcc0f3e289b7412a7e9ad6c9df3bd7914"/>
 		<rom name="Galaxy of Games - TetriMania (USA).cue" size="100" crc="159dc586" md5="e7d6e61dd3ee0512b5a47eeed0d2f2b8" sha1="325008b6d59c22163efc16d91b95d973a9f4e72f"/>
 	</game>
+	<game name="Galaxy of Games - Volume 1 (USA)">
+		<category>Demos</category>
+		<description>Galaxy of Games - Volume 1 (USA)</description>
+		<rom name="Galaxy of Games - Volume 1 (USA).bin" size="119020608" crc="b548fb2c" md5="ea588cef5d024456064e51cdd887ada6" sha1="dced4e49256551d2aee77ddd72cc01d91f74733a"/>
+		<rom name="Galaxy of Games - Volume 1 (USA).cue" size="98" crc="a882fee0" md5="a4eaf10d87cb68b6e44f7ef23d0b8ecd" sha1="77a5d77e27db38d109ac934faf6099b35468511d"/>
+	</game>
 	<game name="Galaxy of Games - Win 95 Games (USA)">
 		<category>Games</category>
 		<description>Galaxy of Games - Win 95 Games (USA)</description>
@@ -58330,6 +58373,12 @@
 		<description>Game Explosion 500 (USA)</description>
 		<rom name="Game Explosion 500 (USA).bin" size="612451392" crc="1a8a2d3f" md5="4dcb10be4de563b879029648763525fb" sha1="90721a15f4ecb79e0ee9c1c4a92b456824446bb4"/>
 		<rom name="Game Explosion 500 (USA).cue" size="90" crc="d4cde0f2" md5="d35df94a59c7d931a46f43ad815945cc" sha1="11b530bd3b037afdd7c42edf7362d5b060880ee7"/>
+	</game>
+	<game name="Game Factory Vol 3 (Europe) (En,Fr,De,Nl)">
+		<category>Demos</category>
+		<description>Game Factory Vol 3 (Europe) (En,Fr,De,Nl)</description>
+		<rom name="Game Factory Vol 3 (Europe) (En,Fr,De,Nl).bin" size="74163264" crc="a44512f0" md5="bb140c16495a9ab750afac55f8699941" sha1="e19d443428978a5b703eccb2843b29021b580c74"/>
+		<rom name="Game Factory Vol 3 (Europe) (En,Fr,De,Nl).cue" size="107" crc="09e49868" md5="aa881a09f55b12f9aea99f5312e5241a" sha1="efa9d3b1a80380fd66edc67c97529a52c999e09b"/>
 	</game>
 	<game name="Game Fan - Shiawase Uranai 21 - Ketsuekigata Uranai &amp; Bio Rhythm Uranai (Japan)">
 		<category>Games</category>
@@ -96421,11 +96470,11 @@
 		<rom name="Microsoft Golf 2001 (USA).bin" size="530846400" crc="3162f7f5" md5="6632a59102c471640ec12ff4746f7cb0" sha1="f0c19e65e68da9445201dd20472051711c486667"/>
 		<rom name="Microsoft Golf 2001 (USA).cue" size="91" crc="90f44e9d" md5="982f682f7d81b40b1093deacf3f27128" sha1="2765e56d58e5b338d638f5451950acd16e8e4778"/>
 	</game>
-	<game name="Microsoft Home CD Sampler (USA)">
+	<game name="Microsoft Home CD Sampler (USA) (v4.0)">
 		<category>Demos</category>
-		<description>Microsoft Home CD Sampler (USA)</description>
-		<rom name="Microsoft Home CD Sampler (USA).bin" size="718035024" crc="2ef38adc" md5="3202f1be8721aa5346e885168641e4f8" sha1="81d98facc70065208e5e90c4ad1765513e8f91e1"/>
-		<rom name="Microsoft Home CD Sampler (USA).cue" size="97" crc="7e0f4a21" md5="66752fc16ac83a6fc5271d43bc11aad4" sha1="a4f07bcda20818bb175880885073026a7e44f2df"/>
+		<description>Microsoft Home CD Sampler (USA) (v4.0)</description>
+		<rom name="Microsoft Home CD Sampler (USA) (v4.0).bin" size="718035024" crc="2ef38adc" md5="3202f1be8721aa5346e885168641e4f8" sha1="81d98facc70065208e5e90c4ad1765513e8f91e1"/>
+		<rom name="Microsoft Home CD Sampler (USA) (v4.0).cue" size="104" crc="eeaea52e" md5="fe6869e25207ac08f77496e73dd0f578" sha1="e12325108ec21e3f5edd501dd18fae2a42016b61"/>
 	</game>
 	<game name="Microsoft Interactive CD Sampler (USA)">
 		<category>Demos</category>
@@ -98665,6 +98714,12 @@
 		<description>Mitt Djursjukhus i Australien (Sweden) (Sv,No,Da,Fi)</description>
 		<rom name="Mitt Djursjukhus i Australien (Sweden) (Sv,No,Da,Fi).bin" size="792678096" crc="feb19dc9" md5="6b58ea4d860908603d30bebc0492dd53" sha1="f8572977b065e38a30648737e89845555bc7a4f3"/>
 		<rom name="Mitt Djursjukhus i Australien (Sweden) (Sv,No,Da,Fi).cue" size="118" crc="b0e9b68f" md5="e09e7c5a4ea579858e90da39309a2bb5" sha1="eb5d62da46d68518597ba929dd0f0e1ac734e04d"/>
+	</game>
+	<game name="Mitt Hunddagis (Sweden)">
+		<category>Games</category>
+		<description>Mitt Hunddagis (Sweden)</description>
+		<rom name="Mitt Hunddagis (Sweden).bin" size="664117776" crc="580dd077" md5="10fc36167073b932128b3fabc0359b9c" sha1="220eb1530275132d0309df28956bf6874197127a"/>
+		<rom name="Mitt Hunddagis (Sweden).cue" size="89" crc="215bb917" md5="e83fba7400df906b8adedd89a83ac184" sha1="0666478b91179a8eec6e7d2ec4f12b0e27be78dc"/>
 	</game>
 	<game name="Mitzvah Man (USA)">
 		<category>Games</category>
@@ -106588,6 +106643,18 @@
 		<description>Night Mysteries - Das Geheimnis der Amphore (Germany)</description>
 		<rom name="Night Mysteries - Das Geheimnis der Amphore (Germany).bin" size="782703264" crc="dd373d9b" md5="13face445a65655b3053dca3590a7238" sha1="6a51da104031818c7e09b73a536694a635779ca0"/>
 		<rom name="Night Mysteries - Das Geheimnis der Amphore (Germany).cue" size="119" crc="8f171dfe" md5="eb24ccdf4befe3992cf2ea476225db35" sha1="12935aade2145d1ec7ae71dbd1917df82affc84c"/>
+	</game>
+	<game name="Night Owl - The Best of Shareware! (USA)">
+		<category>Demos</category>
+		<description>Night Owl - The Best of Shareware! (USA)</description>
+		<rom name="Night Owl - The Best of Shareware! (USA).bin" size="745433472" crc="15ef7a5b" md5="72f85ff127b1fe10f93ce70ded4ef810" sha1="22480cd94da46c36926036a7905af62b85e32be8"/>
+		<rom name="Night Owl - The Best of Shareware! (USA).cue" size="129" crc="4362e4bb" md5="eaddf3809977f7ffe86da558a6de0451" sha1="9cd9c4f9ea88b5927314834c52d1912a336b139a"/>
+	</game>
+	<game name="Night Owl's Shareware - Games Disc II (USA)">
+		<category>Demos</category>
+		<description>Night Owl's Shareware - Games Disc II (USA)</description>
+		<rom name="Night Owl's Shareware - Games Disc II (USA).bin" size="118569024" crc="eb439303" md5="de73e02e77c9f37004122147c69eb9cb" sha1="e5b43f4f16ab4a6805a400e83f66e92ee66f1188"/>
+		<rom name="Night Owl's Shareware - Games Disc II (USA).cue" size="132" crc="14752bd1" md5="4dd13f732ac81aec114e8a5dd0b7a1d7" sha1="aa8453e842b5bb99ca9d3f91ea29c506c70c614a"/>
 	</game>
 	<game name="Night Watch (USA) (Disc 1)">
 		<category>Games</category>
@@ -125930,36 +125997,36 @@
 		<rom name="Return to Zork &amp; The Zork Anthology (USA) (Track 26).bin" size="36717072" crc="51abe70a" md5="e4feaa02ce1e062f25781d862e98a7cb" sha1="cf278fd794979cb869ab6f05163754ad0a68a63b"/>
 		<rom name="Return to Zork &amp; The Zork Anthology (USA).cue" size="3541" crc="6084fd2f" md5="5201111dbfa095dc1c2cdd438b07b42a" sha1="5684d037722ddb0e6c34852e87d6cc83a1cdc9f4"/>
 	</game>
-	<game name="Return to Zork (USA) (v1.1) (1993-07-22)">
+	<game name="Return to Zork (USA) (v1.2)">
 		<category>Games</category>
-		<description>Return to Zork (USA) (v1.1) (1993-07-22)</description>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 01).bin" size="192487680" crc="f43bec91" md5="f314b6664af73206efd4c6b4f33ec813" sha1="e53fa4b2fa7c738689f207babf3362c0c143e578"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 02).bin" size="3495072" crc="63759ef1" md5="e6257dc24d147b1eef11d93188226192" sha1="bf699a62ff23151034a6213519e8b333fb3dc690"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 03).bin" size="2676576" crc="a4cbcbed" md5="6542b214fa34a8080679c053ca1e6516" sha1="42b4f5ed43a1a34f43f8494dfa911e9a3ae2cba3"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 04).bin" size="11273136" crc="55c1e126" md5="b984ddcd349edf210bdce0973f3fbf71" sha1="ebebdba0e7fbca1dad84e5791bb802c1b3ab4763"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 05).bin" size="6406848" crc="5a7a66bf" md5="1d04b5ef607e4607d5ef781a700e06d3" sha1="7e279a4ac6f4a2a33f886e433c37ba8bb2c4057e"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 06).bin" size="6432720" crc="83602fd7" md5="0a2a050256d668c79e182853cfc410ef" sha1="0ec11a05d286d090c0dc38e7a677ad839765f7ed"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 07).bin" size="12086928" crc="1ea8eda8" md5="f7545552c0a4b5733130831cf161e14b" sha1="7aa4f649f96a56ef87efd9986612bd3dce06aa07"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 08).bin" size="21431424" crc="b9c2146a" md5="98fa20cf0ccc9438d4e0146a5efee02f" sha1="1d85a5e655c6a65c76472702efb96c0800194dba"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 09).bin" size="14239008" crc="94d7755a" md5="eab2e037e1469b8da350f019b31b04dd" sha1="f47dbfd515fc6dddca9145d31c94a8d8a37134be"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 10).bin" size="4492320" crc="a0a91803" md5="921d31109e026cbe50fcf63d6d10ff5e" sha1="d27cd3fdf557f0dc7b409651907aeee9569746b4"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 11).bin" size="4489968" crc="7854ca85" md5="5533e84a7c809d0facccb2da395c1f73" sha1="6bb245a9d3cf55f3f494d46879b04f54a0d8ac7b"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 12).bin" size="6192816" crc="c82cc973" md5="aa715e0ffc895fd7e7e3d74d8e25dc5d" sha1="e7514eed371cfb881dbd362977ccb7c928822a1d"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 13).bin" size="7524048" crc="766fa5f6" md5="b4edc57c982b55d6aaf1fbcee168c59c" sha1="e724cdfb36ca64c28db0af79e5825c826516230e"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 14).bin" size="6072864" crc="24df660a" md5="6a7df8e27d5f2fa547004e9dd42dcd4c" sha1="c07c055c613fca6a3a823ba2beaee8fde5c258ce"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 15).bin" size="4621680" crc="19339fd7" md5="512e19d7c2de4180d95cc55137c49690" sha1="7c00ec97bffd8710164fa068ed94aceab3c90e75"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 16).bin" size="12580848" crc="6f49a935" md5="7a93bfad914a7409d5715583e7e1a790" sha1="dac5a1ccbbd8dcb908f4f184bc4ba25311affd2f"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 17).bin" size="9650256" crc="0f3402ff" md5="be9e2f65f8fe814d07c45d5e6adbe7e7" sha1="3f6321820832e4bd490d20dbcae32cd302835900"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 18).bin" size="10774512" crc="d72b327c" md5="5cb51616abc2ab094f07dc96e8fc0d54" sha1="2da9e500322cfcf85c09d083b3b73f3bc78ffaab"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 19).bin" size="3471552" crc="9f28bb4e" md5="80ddd4265a22b62a6f9efe71c84b7a55" sha1="a261bc4914e5eab84f30bcbc8abc413d99f9a562"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 20).bin" size="10508736" crc="51567815" md5="f4326732b2f48d040620b64e2c1ba079" sha1="c57b81238b01a9e58f1077317371ed0211d563ae"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 21).bin" size="6674976" crc="a282f3bb" md5="8d9798ecaf1ec8b2ba591c3f687c85d2" sha1="1fee5438cf4eea3cb0bfc7b7bc40418f50612b89"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 22).bin" size="8613024" crc="4277c793" md5="e3d29b1f9e64e13d1566bbefcd96f276" sha1="35fbf554ce5ec64d9122245f964114ef81382bbf"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 23).bin" size="19425168" crc="45926830" md5="c9ffc3421f2ada0304a6e5a0a9e3997a" sha1="b3f7b18911f94696c8b71f0c5cef5e1c136e05e8"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 24).bin" size="15417360" crc="46642d8f" md5="d7fe13990902ab3660e772b0ed482b5c" sha1="083a0922a78b042468684c5c004b7cb4158581d5"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 25).bin" size="13949712" crc="cd7a063e" md5="e66d9471f116852478158e8e8813a897" sha1="fe02b89d34ae7eca703778a8eb70242926860ac8"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22) (Track 26).bin" size="35649264" crc="247638d1" md5="034de21dc51c3ed2ad023f8c2e9dc2a6" sha1="5be3fd840b666919a6a8ed4f58d7dc3312ed4d27"/>
-		<rom name="Return to Zork (USA) (v1.1) (1993-07-22).cue" size="2963" crc="c5cefadb" md5="82a95ac9dc70efc94d2e82c14f9f97e0" sha1="cd56bb44e44aaf122c0662d3bd99d5a82709e702"/>
+		<description>Return to Zork (USA) (v1.2)</description>
+		<rom name="Return to Zork (USA) (v1.2) (Track 01).bin" size="167363616" crc="9bdccbc5" md5="2a18ad858d07b0d58e571e0500b5e84e" sha1="ea3400732bae4770087773e38d4c6d4a4f211e1e"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 02).bin" size="3499776" crc="964dd8f3" md5="4bedca1d3df95117f0d4c9d34a7bb587" sha1="acd30c6652db43be64ec5ad5f4e04ee18ed7ac8c"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 03).bin" size="3034080" crc="b8710555" md5="fc5fb248434c7244b6c29cf8a23fffa8" sha1="12f6e91a37b036e7b66c3b0176205f5958859c33"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 04).bin" size="11630640" crc="13edab05" md5="4bed7fee93a3797605eb003cc4a1de16" sha1="e9425ffee64904bb602c95343ccb6d19cafca439"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 05).bin" size="6764352" crc="d69c5635" md5="309dc236257b7b7da4d890884d6d017a" sha1="81a757926004825413b1c0109775d43c7da4b425"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 06).bin" size="6790224" crc="47909ae2" md5="0f610d3d19009585f7eccc3487b5e4c0" sha1="ed52a0e7ea1ae48a4d3a992f538a8cd80142f9c3"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 07).bin" size="12444432" crc="e267121a" md5="aaa1ada6656ca48fcd2efb5665f8fa4f" sha1="005c8c7d4749753b26527614283bb198046b2960"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 08).bin" size="21788928" crc="089ec960" md5="d69e559341c1600d2960b956451eda0c" sha1="1d6b7494cd52233429ee84f00e976c314e724348"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 09).bin" size="14596512" crc="af076fc3" md5="ed71c19a4633f5d34851b999587ed7c2" sha1="eb7f3b7d35351a3eea7f91b9b9ff6eb1861c6989"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 10).bin" size="4849824" crc="3ca1af6a" md5="ae7019119b4219c7d97d711457897783" sha1="29f45b11c18d8ac8cb1b788010e350e66f6ab7b8"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 11).bin" size="4847472" crc="a8f4c532" md5="bf00af420e69d8c70f03d20d2cf633f6" sha1="b9385a05c9763a547856095d477ad5a013c31a49"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 12).bin" size="6550320" crc="9834182c" md5="c93bc861d1f39078e1d90acd1e3d4dec" sha1="356cb69e937f513361a76015faaf0eb14be8e907"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 13).bin" size="7881552" crc="b4f07ec3" md5="2fd0115cb01fee0be0a074f3c22f2a49" sha1="94349ce0b6bd3c91df146fe12253f9c351777fa5"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 14).bin" size="6430368" crc="30a2a965" md5="b89b68213efdff493132e4164b5c1b2d" sha1="a54570b8ebd60bca4d989230775f8f331693c0fe"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 15).bin" size="4976832" crc="94c98306" md5="d2693d0d84d0b84a53ac98d2b02a5773" sha1="e664bfc415be11df34e14ebe8bd16f31f756b970"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 16).bin" size="12940704" crc="427549fc" md5="c33c7ae33fbc10d6399ebc64cfd193a6" sha1="78a7bc5d2f20c69b305610efaeea86954181b644"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 17).bin" size="10007760" crc="fb10e726" md5="fcd73f09547fc024527ea59dbf5104ec" sha1="c82caf2746c3e0901736f448f9bd54cbef3a830c"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 18).bin" size="11132016" crc="a63688a6" md5="89b0ef13f489b017be2cd99c1927e7a8" sha1="b31664ff9dfc1c9982a8f8049d2dba9dfc34d8d6"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 19).bin" size="3829056" crc="984f80a4" md5="2676ee22d0107ba7cb4519c6ae01a5f8" sha1="5dcbab2637dc83d341932f9adeb3c70d0047ec55"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 20).bin" size="10866240" crc="c28117ff" md5="be2752c374f801655e6ac8ffb1d5b5e3" sha1="6c11a40f552e5ee862259b3ff857c66439e76017"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 21).bin" size="7032480" crc="1e423932" md5="f1afef56845c582d1c5bbd03d97ff90e" sha1="6fbc04cd6968f79d1280dcf0473dba8f332b9e2f"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 22).bin" size="8970528" crc="50a7e55f" md5="12b7dcd6d62da1cbd6c43414ba0a04dd" sha1="4c69c3e3e054e6290643d3979739ce5cb2d482ee"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 23).bin" size="19782672" crc="b0feeb66" md5="807f65e643fdc2ce5bc5d94d8297fd14" sha1="1c08832c8e7bfccc9525c2ebc4868783523ddfc2"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 24).bin" size="15774864" crc="24fea875" md5="de723e1ef583008d44878a29b2cb4832" sha1="0b9fc819c4e5f72c4388bd66493498bcbf1be483"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 25).bin" size="14307216" crc="b57617f1" md5="bb9efb2927cd9432484961e89f1411b5" sha1="97e9bab5c6d2e2986612e35177498dd42146f89c"/>
+		<rom name="Return to Zork (USA) (v1.2) (Track 26).bin" size="36354864" crc="0774ac83" md5="565182825ef7fa3e5f7146e79f952d8f" sha1="ceed30932d8772d85eaf9f7424be1e7bb12c4bf0"/>
+		<rom name="Return to Zork (USA) (v1.2).cue" size="3177" crc="225ff20a" md5="111d78b1b307464277bef9fb9af49655" sha1="2483ce47fb0a83e6b7c1bf8351e081c26283db3a"/>
 	</game>
 	<game name="Reunion (Europe) (En,Fr,De,It)">
 		<category>Games</category>
@@ -132188,6 +132255,12 @@
 		<rom name="Savannens hjaeltar (Sweden).bin" size="615937056" crc="3c642d8e" md5="971c751eba3eec3b33165d2d4bd54c23" sha1="168478a2b44c44670e1f01db629879fd01b4f945"/>
 		<rom name="Savannens hjaeltar (Sweden).cue" size="93" crc="2a4147fa" md5="8b70616b89bcc0ff64d688a9df733e1e" sha1="59f40b44af145f2a290cc812076f0ca7463bf4ce"/>
 	</game>
+	<game name="Save on Software CD-ROM Volume 1 - The Ultimate Shareware Collection (USA)">
+		<category>Demos</category>
+		<description>Save on Software CD-ROM Volume 1 - The Ultimate Shareware Collection (USA)</description>
+		<rom name="Save on Software CD-ROM Volume 1 - The Ultimate Shareware Collection (USA).bin" size="662998224" crc="2b04cf91" md5="5cf3732ee9aec6c8b9a9d6fd77a2fdbf" sha1="a9d3f2316f238e77dbb049df98bec6c728dc1213"/>
+		<rom name="Save on Software CD-ROM Volume 1 - The Ultimate Shareware Collection (USA).cue" size="163" crc="0341f727" md5="1a6be457cf3eac44a336ed59c0d4a594" sha1="e912dfe317786f6d02db5c15f026f312d7d5dbbd"/>
+	</game>
 	<game name="Saw (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Saw (Europe) (En,Fr,De,Es,It)</description>
@@ -132261,6 +132334,12 @@
 		<description>Scenery Singapore (Europe)</description>
 		<rom name="Scenery Singapore (Europe).bin" size="167358912" crc="9baa0d92" md5="9091df02f3b304261239baf2bd724be2" sha1="138f3074e18d430afd1d3c457907e4674ce500d1"/>
 		<rom name="Scenery Singapore (Europe).cue" size="115" crc="e9614f47" md5="80fc06804f0d53a3c47f41de4549ced6" sha1="f43e0df8b57daf7ef7be90462a527cbadbfeb987"/>
+	</game>
+	<game name="Schack (Sweden)">
+		<category>Games</category>
+		<description>Schack (Sweden)</description>
+		<rom name="Schack (Sweden).bin" size="665510160" crc="9e5fd23f" md5="039ad62e12045eae1a6c7c88c99653a7" sha1="3bd0e1138d1e24afe407dfc70c9014840643675b"/>
+		<rom name="Schack (Sweden).cue" size="81" crc="20bfb27c" md5="08df170b9ff94246434f46bb259d4da2" sha1="6a114a320f51310f22c6fee946c0dcf8bcd41eb4"/>
 	</game>
 	<game name="Schatz der Versunkenen Brigantine, Der (Germany)">
 		<category>Games</category>
@@ -142382,6 +142461,18 @@
 		<rom name="Snutten pa aeventyr! (Sweden) (Sv,No,Da,Fi).bin" size="716960160" crc="7b99bf90" md5="8616f4ed517760f9d24c5619feb9ea8d" sha1="074da24994f1accc7783b86e136f4ae5c0211ec1"/>
 		<rom name="Snutten pa aeventyr! (Sweden) (Sv,No,Da,Fi).cue" size="109" crc="cb7d073c" md5="d4c53093d7dd4ceaa272288ef26b3c94" sha1="3a0c75958efea9d1bd0c36af641c267b076516b4"/>
 	</game>
+	<game name="So Much Shareware-4 (USA)">
+		<category>Demos</category>
+		<description>So Much Shareware-4 (USA)</description>
+		<rom name="So Much Shareware-4 (USA).bin" size="763605024" crc="3c0a251f" md5="2d52f8735cde1fa5662e2d493c376d34" sha1="c128e88eec754bfe0bfe7ab77b4dd7559f6854f2"/>
+		<rom name="So Much Shareware-4 (USA).cue" size="114" crc="8018fae5" md5="ae7aec7da03fb24639dad70216fa7658" sha1="cc415a966b3863ae20a907eb1bc56a1afd33ced2"/>
+	</game>
+	<game name="So Much for Windows &amp; OS-2 (USA)">
+		<category>Demos</category>
+		<description>So Much for Windows &amp; OS-2 (USA)</description>
+		<rom name="So Much for Windows &amp; OS-2 (USA).bin" size="732934944" crc="807c3138" md5="6f4aedf6abc2aa63263fb56ee92ac494" sha1="9ad9b54850e4d1eeb2ebc26d053b6c4e386a3e14"/>
+		<rom name="So Much for Windows &amp; OS-2 (USA).cue" size="121" crc="efcba7fc" md5="0e1b727f865fdef4da5a87f3b9226c37" sha1="543a2442fbc04e3139f17f32feb13c4328776cdc"/>
+	</game>
 	<game name="So You Wanna Be a Redneck (USA)">
 		<category>Add-Ons</category>
 		<description>So You Wanna Be a Redneck (USA)</description>
@@ -145456,6 +145547,12 @@
 		<description>Springdale - Hoega berg och djupa dalar (Sweden) (Sv,No,Da,Fi)</description>
 		<rom name="Springdale - Hoega berg och djupa dalar (Sweden) (Sv,No,Da,Fi).bin" size="788886672" crc="65c020f5" md5="4db63728b6248451cf96dd9671bdfe1d" sha1="5d8e8e1bf24cc994f357b10f051132e114260c59"/>
 		<rom name="Springdale - Hoega berg och djupa dalar (Sweden) (Sv,No,Da,Fi).cue" size="128" crc="cc0b2e07" md5="27d20415ead27d4a2f3d393bbf651183" sha1="5d9161e8e7446e4dc88f69e833973da716d441e5"/>
+	</game>
+	<game name="Springdale - Stallets Hemlighet (Sweden) (En,Sv,No)">
+		<category>Games</category>
+		<description>Springdale - Stallets Hemlighet (Sweden) (En,Sv,No)</description>
+		<rom name="Springdale - Stallets Hemlighet (Sweden) (En,Sv,No).bin" size="824705280" crc="021185a6" md5="4f438bc72c3ad25f6c5066bec42c0231" sha1="4863ae93684289ad5caf2d60df8c50e76740054d"/>
+		<rom name="Springdale - Stallets Hemlighet (Sweden) (En,Sv,No).cue" size="117" crc="aa609628" md5="1381fdab958f4027a6fb9222a2d9b55e" sha1="2dbe6916aff5f593a0c80c447e0dc696471aa65b"/>
 	</game>
 	<game name="Springy (UK)">
 		<category>Games</category>
@@ -170044,6 +170141,12 @@
 		<description>Win Magazine Giochi n. 45 - Aprile 2008 (Italy)</description>
 		<rom name="Win Magazine Giochi n. 45 - Aprile 2008 (Italy).iso" size="8284733440" crc="bca7a9a0" md5="6bf4c08579bcc57f3592f0aa0f237df2" sha1="d59bd35844cd200d55000fa009addf9ce53d8a10"/>
 	</game>
+	<game name="Win Platinum - Volume 1 (USA)">
+		<category>Demos</category>
+		<description>Win Platinum - Volume 1 (USA)</description>
+		<rom name="Win Platinum - Volume 1 (USA).bin" size="216381648" crc="55f675e5" md5="8c663fcf42f85c2cf96046ccd442c680" sha1="9d764b40ab5d9b1032d28e8be0d4cb5df160d181"/>
+		<rom name="Win Platinum - Volume 1 (USA).cue" size="118" crc="7280049d" md5="38588b90ecd18f1adb2319c938df5a14" sha1="fa21744742736c63ec0f855040db566292385ac9"/>
+	</game>
 	<game name="Win Schafkopf (Germany)">
 		<category>Games</category>
 		<description>Win Schafkopf (Germany)</description>
@@ -171739,6 +171842,12 @@
 		<description>Wooden Ships &amp; Iron Men (USA)</description>
 		<rom name="Wooden Ships &amp; Iron Men (USA).bin" size="108072048" crc="403dcd4f" md5="72099669a67c9b670dc39d3a19c0ea85" sha1="1390c46c905f751b5f5c14fcfbb99a40433576f4"/>
 		<rom name="Wooden Ships &amp; Iron Men (USA).cue" size="118" crc="e1502133" md5="52cd502d5fca40d0d960775d8389b10a" sha1="1b40e109c1803269b87318be1ec0ef42a9bb6750"/>
+	</game>
+	<game name="Woodii (Sweden) (1A)">
+		<category>Games</category>
+		<description>Woodii (Sweden) (1A)</description>
+		<rom name="Woodii (Sweden) (1A).bin" size="756541968" crc="e2fcf07e" md5="8cc1eaff936f77abf99ec6e54e29bff7" sha1="dbbabd8b76fed0ba784c29de165e3661320b8cde"/>
+		<rom name="Woodii (Sweden) (1A).cue" size="86" crc="8638e95e" md5="41b580cd83ca28e949bca8e0207c415d" sha1="f6762152e8c70e2a7d12bcd676d88ba964389045"/>
 	</game>
 	<game name="Woodii - Kanot Racer (Sweden)">
 		<category>Games</category>
