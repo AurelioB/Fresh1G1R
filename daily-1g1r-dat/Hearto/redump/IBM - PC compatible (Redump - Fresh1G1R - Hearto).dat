@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,199) (-y) [-aAbBcefkmMoprv] (2026-06-06 02-31-22) (Retool)</description>
-		<version>2026-06-06 02-31-22</version>
-		<date>2026-06-06 03-29-46</date>
+		<description>IBM - PC compatible (25,217) (-y) [-aAbBcefkmMoprv] (2026-06-07 03-41-29) (Retool)</description>
+		<version>2026-06-07 03-41-29</version>
+		<date>2026-06-07 03-28-24</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -9854,6 +9854,12 @@
 		<description>Apogee ROM (Germany)</description>
 		<rom name="Apogee ROM (Germany).bin" size="26535264" crc="c42d7b9a" md5="da9c6c3b6f01827ff8c81b4fba2cb9d8" sha1="551cb9de3054421bab20134df9d2efe2dd60efb3"/>
 		<rom name="Apogee ROM (Germany).cue" size="86" crc="59da039f" md5="4aa30a81bc10c511cf4f75fe09a7ec20" sha1="a414d78378d90b56b111723bb6c242af17fd03c3"/>
+	</game>
+	<game name="Apogee! Gold-Selection! Vol. 1 (Germany)">
+		<category>Demos</category>
+		<description>Apogee! Gold-Selection! Vol. 1 (Germany)</description>
+		<rom name="Apogee! Gold-Selection! Vol. 1 (Germany).bin" size="70917504" crc="cb569d24" md5="ff76bced5185beaaed2af9e1026464a6" sha1="83758791703c572d31c80ec940345d352ebf3a60"/>
+		<rom name="Apogee! Gold-Selection! Vol. 1 (Germany).cue" size="129" crc="3466b846" md5="408b0f36101679c61b70fc3d2ae0535e" sha1="1eee7249dfc4986c5829b93dc681471b71e4dd67"/>
 	</game>
 	<game name="Apogee's Greatest Games (USA)">
 		<category>Demos</category>
@@ -22611,6 +22617,12 @@
 		<rom name="CD-Action 11-2004 (105) (Poland) (Disc 1) (CD).bin" size="772335648" crc="ef70b2b1" md5="4f3f13761df2756e22c2800ae82eeb7d" sha1="7b57cff1787552140f577527591bd4b745f89fa8"/>
 		<rom name="CD-Action 11-2004 (105) (Poland) (Disc 1) (CD).cue" size="112" crc="6e1857d1" md5="e657a9e4f4c0d73a82fdb003d03a69d6" sha1="c85c4f750ad946d194a970ac85fb42f646117d4c"/>
 	</game>
+	<game name="CD-ROM Challenge Pack (USA)">
+		<category>Games</category>
+		<description>CD-ROM Challenge Pack (USA)</description>
+		<rom name="CD-ROM Challenge Pack (USA).bin" size="28732032" crc="ff1703fb" md5="f309bb7c1a2068d0d4325c9730ff6e97" sha1="1669dfc48086e246edc3c3f0a03bf864e15d6964"/>
+		<rom name="CD-ROM Challenge Pack (USA).cue" size="93" crc="301f9009" md5="db45c0455d1dea543ad106b6d90ee38f" sha1="bb6bb16c16775858d896f6d0d10d40a306112ef2"/>
+	</game>
 	<game name="CD-ROM Volume 6 (Canada)">
 		<category>Demos</category>
 		<description>CD-ROM Volume 6 (Canada)</description>
@@ -25729,6 +25741,12 @@
 		<description>ChePaj (Russia)</description>
 		<rom name="ChePaj (Russia).bin" size="819403872" crc="fb3a3600" md5="91626ba252734cc87c4de0f03bdfd36d" sha1="61126057e4cc33a78d36ec90d5f2425dc23606dd"/>
 		<rom name="ChePaj (Russia).cue" size="81" crc="5734ce46" md5="f6ace68edfb9ad60dd36e3a662e87c96" sha1="bbbd4ed472fa7d4736736eb47ef7612638005df1"/>
+	</game>
+	<game name="Cheat Codes Deluxe (USA)">
+		<category>Add-Ons</category>
+		<description>Cheat Codes Deluxe (USA)</description>
+		<rom name="Cheat Codes Deluxe (USA).bin" size="70581168" crc="8473f12f" md5="11d5f278fc0881109ba6a2088ea5a2e2" sha1="9716b2565a70be0b0acf9873093ee98670e57425"/>
+		<rom name="Cheat Codes Deluxe (USA).cue" size="90" crc="3ba7df53" md5="9edff94f2f7f27a4492369215fc7d1ed" sha1="f7ff4ac5c2415df83e2447b110daf7e4d3538d86"/>
 	</game>
 	<game name="Cheburashka v zooparke - Logika 2 (Russia)">
 		<category>Games</category>
@@ -29117,6 +29135,12 @@
 		<rom name="Command &amp; Conquer - Renegade (Portugal) (Disco 1) (Instalacao).bin" size="788886672" crc="75c5cd60" md5="a5add22d852e873af9457522aa208618" sha1="544e19ce002611da14fbc611802209d3477e8298"/>
 		<rom name="Command &amp; Conquer - Renegade (Portugal) (Disco 1) (Instalacao).cue" size="128" crc="5985cb6c" md5="51d8fcbadf1604df6661f45c2fb04f17" sha1="463eda26055ebf50040d41b1b8dbf483c2150e3f"/>
 	</game>
+	<game name="Command &amp; Conquer - Renegade (Spain) (Disc 1) (Instalacion)">
+		<category>Games</category>
+		<description>Command &amp; Conquer - Renegade (Spain) (Disc 1) (Instalacion)</description>
+		<rom name="Command &amp; Conquer - Renegade (Spain) (Disc 1) (Instalacion).bin" size="756165648" crc="ab44152f" md5="c6983bdaa01d897eb55b5e59da390273" sha1="3881908a59a507d2daa2476779c3220bc5fdceb7"/>
+		<rom name="Command &amp; Conquer - Renegade (Spain) (Disc 1) (Instalacion).cue" size="125" crc="766d0a1c" md5="1877ff6dc7915f454380bd70d204e5b8" sha1="976d17a5c36e98b3eeeb491339a6528c111d6c83"/>
+	</game>
 	<game name="Command &amp; Conquer - Renegade (USA) (Disc 1) (Game Disc)">
 		<category>Games</category>
 		<description>Command &amp; Conquer - Renegade (USA) (Disc 1) (Game Disc)</description>
@@ -31728,6 +31752,12 @@
 		<rom name="Cruise for a Corpse (Italy) (En,Fr,De,Es,It).bin" size="767010720" crc="f82748bf" md5="f81a5754b6ff1e8ef55578d2e3c08c81" sha1="652f1d9a98b7d9251a7688d9af7d072ab6c32dfd"/>
 		<rom name="Cruise for a Corpse (Italy) (En,Fr,De,Es,It).cue" size="110" crc="ac2d9563" md5="80ba85651d51092c3ff7b04b0bf1c839" sha1="c016296d489a9fbf5fd5a4a77c657b723b9c0e32"/>
 	</game>
+	<game name="Cruncher in Mazeland (Europe) (En,Fr,De,Es,It,Pt)">
+		<category>Games</category>
+		<description>Cruncher in Mazeland (Europe) (En,Fr,De,Es,It,Pt)</description>
+		<rom name="Cruncher in Mazeland (Europe) (En,Fr,De,Es,It,Pt).bin" size="39499488" crc="a89191bb" md5="2ba3d5be64c16471ec566b8b9bbae6c1" sha1="cfd255fefc053d279515ff2b6d7a431e75028fca"/>
+		<rom name="Cruncher in Mazeland (Europe) (En,Fr,De,Es,It,Pt).cue" size="115" crc="d578e9b2" md5="c3c7bdd12f3bd3282fb11f7d15650b6f" sha1="24e30faeebdac3295eadd604ee13a403087d704d"/>
+	</game>
 	<game name="Crusade (Germany)">
 		<category>Games</category>
 		<description>Crusade (Germany)</description>
@@ -32392,6 +32422,12 @@
 		<description>Cyberia - Mission Norway &amp; Descent - Destination Saturn &amp; Heretic - Episode 1 &amp; Pinball Dream Deluxe &amp; Unnecessary Roughness '95 (USA) (OEM)</description>
 		<rom name="Cyberia - Mission Norway &amp; Descent - Destination Saturn &amp; Heretic - Episode 1 &amp; Pinball Dream Deluxe &amp; Unnecessary Roughness '95 (USA) (OEM).bin" size="537246192" crc="d680be7a" md5="624eba4e59ac7e534e296db26241257e" sha1="f063e3674c35cc533c5128a3bc6bef63729c7f01"/>
 		<rom name="Cyberia - Mission Norway &amp; Descent - Destination Saturn &amp; Heretic - Episode 1 &amp; Pinball Dream Deluxe &amp; Unnecessary Roughness '95 (USA) (OEM).cue" size="229" crc="5049fc5e" md5="2ee23773af9ea175bf296cdd09e54858" sha1="f946c9692f487331d140a274fe14ed7ce7958f27"/>
+	</game>
+	<game name="Cyberia - Mission Norway (USA) (OEM)">
+		<category>Demos</category>
+		<description>Cyberia - Mission Norway (USA) (OEM)</description>
+		<rom name="Cyberia - Mission Norway (USA) (OEM).bin" size="277865280" crc="cc884a3a" md5="13e5bf70cfcd4dec19678a6def8c4931" sha1="5e3f95b488a088de088c8736cf6c45750f588e32"/>
+		<rom name="Cyberia - Mission Norway (USA) (OEM).cue" size="102" crc="a293db8c" md5="b830224568951c99f2d36a2b9e161117" sha1="70c15034606eb9cdf94f17f7f05604c852e2530b"/>
 	</game>
 	<game name="Cyberia 2 - Resurrection (USA) (Disc 1) (Rerelease)">
 		<category>Games</category>
@@ -36433,34 +36469,34 @@
 	<game name="Dennou Senki - Virtual On - Cyber Troopers (Japan)">
 		<category>Games</category>
 		<description>Dennou Senki - Virtual On - Cyber Troopers (Japan)</description>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 01).bin" size="121708944" crc="ef7abfa1" md5="288da0390b5688e2c2f5805f275e02ce" sha1="008d8c2b2572a64b9cf365d902a71f042d71089f"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 02).bin" size="1921584" crc="76b149df" md5="32264adb5cab009b294a6d9e86ddae82" sha1="cc2754161128ee0d323bd068f68dc2f72a1b3543"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 03).bin" size="19279344" crc="e57ee121" md5="2d98f9e88cf7b1d4f2cf2de8c340b4f5" sha1="2717e9b99b97d7cfef45c41ea499aeff09183ac5"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 04).bin" size="9252768" crc="9d0c03bf" md5="f1558713e54d58ec252e33353aef32b3" sha1="21f3524fe8ed35e22371a8f3993f96b0356c7bb9"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 05).bin" size="1768704" crc="c189632e" md5="0de19cdc8f5bce4358157457cade733e" sha1="d135a55bbd5cc9ec2d508fa5480d64f0bf7ae0cc"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 06).bin" size="20723472" crc="117d0cd6" md5="05942c2632e2355e31bf543d1a7342a8" sha1="30256a83b979be7316ce9fdaf575a67d9ab7d05d"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 07).bin" size="20342448" crc="063ba57f" md5="fd256090181e39147224dde7db117252" sha1="bc7b4e449ba411d7647ae0b5424c551a9df48448"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 08).bin" size="20690544" crc="13aa4f94" md5="2fc6af9ce63a06de11b708597c4c907d" sha1="aa970ddd37a93f688b5630f176499674ea92a076"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 09).bin" size="20547072" crc="d7aa4b43" md5="3aec8a39ac05333ab3eba6337b2beb16" sha1="60f707d8213e934c2ea887b177c9c5100015ba81"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 10).bin" size="20589408" crc="5e6442d7" md5="ea8ee04e08125fbab6490e4521b2a6b9" sha1="132c206cbb7691aba84fba1559c97a6851b95fbc"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 11).bin" size="21005712" crc="1f7a67a0" md5="c35969627f34d810875d5d2bc1b5fe73" sha1="576689e3f2226e709ee8c7e3b23c6a745766e498"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 12).bin" size="20671728" crc="513b7e9e" md5="43f59ab2c2752663319a3fee9c8e2d41" sha1="fcc7a153146b88221e3d0b0e08b4fbaf3eeb0742"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 13).bin" size="20845776" crc="16bc0cba" md5="15a475df00bbb531a1eff2f03703066a" sha1="db482c74f6f050fa28a4e39ca8aa7abd81d9ca75"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 14).bin" size="20664672" crc="7a23e03f" md5="dc4002fdf1f139605bceee1bde77a3b0" sha1="efa38a938a085b3303394cc5ae06cd5d5abd753a"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 15).bin" size="20939856" crc="855916e9" md5="a600147c70788dfb409eed1a96326721" sha1="2f65a6308e87c91cf3ca859919a085e38cefc1a3"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 16).bin" size="1768704" crc="49c230fb" md5="e40f65c248e6e5209d54e7932785bf27" sha1="6961f48bcf757293be4364f26ba38edc87c5c26c"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 17).bin" size="1768704" crc="0b53543f" md5="4e3775243e6807d9b778d0e2fbeaa9e6" sha1="d2e33604ccd92ba0e0607a1016ae6b0982373845"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 18).bin" size="1768704" crc="9293d4ce" md5="7eed68db35c5b41ab492d3d0681e8397" sha1="00fe539ddb1ba47cd01273c6ab65739f472c4878"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 19).bin" size="4918032" crc="c53400c3" md5="e4e0d1bd08421541eb321676b192a03a" sha1="52da5e764322375a8a33f1c1a23b49529acaacf4"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 20).bin" size="6002304" crc="47cf1560" md5="06ce8b2ab80d621e040f6132fff24ea9" sha1="b99dfa65fabef6ce0bec480d0e8287d7ddc2f240"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 21).bin" size="6463296" crc="e6289073" md5="6dcf9e3b313d002df81bb6c6fdec2eac" sha1="b182f4c5472901c290b08d50a1c17d99833d6b4c"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 22).bin" size="7197120" crc="25240cfd" md5="fb939654b4c3cff70e8f56287a7e2a42" sha1="c65f6c10c650561eb5647115f58a9f91b40edd0c"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 23).bin" size="5075616" crc="0091f6b1" md5="5106f3eeed291d69c6e73c33a314c017" sha1="c9e4401068f3d8745a627747ff60069845d305b2"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 24).bin" size="16275840" crc="7dc8266f" md5="10dfe7bcb2fa3e388fe364ab280b0ecc" sha1="c874bf15996ab932d0332f8840726010ee83ddd6"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 25).bin" size="17536512" crc="99f20547" md5="06e73cf71c954758128d17a77b5a7d3b" sha1="8357d4c21ad298b4d4141ee4f1dda3ffdbafb087"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 26).bin" size="17263680" crc="35c073bc" md5="695ef59140e083d67bc09ee5eff79f73" sha1="97b1dc48c7159e0fb0495f8a598bb9f42fe2c4ef"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 27).bin" size="2105040" crc="b37dca55" md5="03e23831a48857551d8ae10198c90f41" sha1="f387c94f204312fb5cdc9b5bbe11742df0a52204"/>
-		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan).cue" size="3912" crc="167e5a4f" md5="c5b2bd59e35f189ef78904dd2ce38312" sha1="1c276018039e13693aaadaa53d5e364f3bf237c1"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 01).bin" size="121652496" crc="09446023" md5="880e89ac30bb47adf9f3454adf902522" sha1="07d4e5195e1cc2f7b2d8dc9521e5ff183cffb12d"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 02).bin" size="1923936" crc="3e6f88d7" md5="623f40177f88a37ca1509a56b678569a" sha1="3c2d518ac55a790fc73d5df516c6f117a4abf2f6"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 03).bin" size="18926544" crc="056c8fb2" md5="72539a20d6e59781bb0e697c27345092" sha1="77cbb4030a7c68190afc69cc2cb834c313d75659"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 04).bin" size="8899968" crc="0e30533e" md5="0ee96923d277ffdbc589b11f7f119159" sha1="dccb376d0766bf37d563c2d8167a038aba95080c"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 05).bin" size="1415904" crc="0696ddb4" md5="83ff17e50281abb2ade99dd0d6653002" sha1="948572276189ddec37bb3562ce3622825dddcbd3"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 06).bin" size="20370672" crc="f0ef7b71" md5="80135f8d84370b206e33f67b6886fe9e" sha1="28ebc49cfdaec7d4c4afbd1bc36b9fc84a1e5fb6"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 07).bin" size="19989648" crc="7a96903e" md5="87ccca31fc4734474d89efedca5d3bcb" sha1="d80a72a8625b44bfcc8c14fc9411efe3b98a359b"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 08).bin" size="20337744" crc="d479f756" md5="c28c1367c3b87d2649f59947bb6f2455" sha1="e290128494204f807b4f20ddba6ee88fe60d3bd8"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 09).bin" size="20194272" crc="633fad3b" md5="74268b2cadfad4ec627998957dfa8651" sha1="7d0e98490a7e675995f3444d315a8066b341b878"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 10).bin" size="20236608" crc="ea3eb34a" md5="85d8fcfc1772684e1d646d8d203d08dd" sha1="a4c138b24a02ca0755e8a3f47938d4539c1e52c1"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 11).bin" size="20652912" crc="b91ec3b5" md5="309e928a6ac9d994274c144d64564000" sha1="584a1c3bc8bc60edfa7d9ce16239763630ff7658"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 12).bin" size="20318928" crc="0b73b7e9" md5="49323e95fd6293e54723083c95f618fe" sha1="5d899248ab868e75e744657f6239b9ca78322d76"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 13).bin" size="20492976" crc="806e2332" md5="ad8a9f68816c1c70d73ab639818c5469" sha1="2d8e54ec553e2a887b5953ad071fc76f34521cbe"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 14).bin" size="20311872" crc="92031ee6" md5="90fc0158b43366e168b53d58e5c0f010" sha1="273c3beaa4b538f5d1e31b27ac68ef6699d2c5d2"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 15).bin" size="20587056" crc="58776775" md5="0c66b2ccdb7a4f4bcb2585b259f8a5b6" sha1="a2605ea873c138240aead4943368ef6c4b62fbd9"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 16).bin" size="1415904" crc="21394407" md5="2f3e21a63a29f5139d3d4ce15f9fea19" sha1="974d98cd3730c6833db4b2ace771bfb8f159b8f3"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 17).bin" size="1415904" crc="eada27da" md5="b6d94cda207819164d34e5e43753adf7" sha1="fec6ad241751f1bd147740775607379053bf20bd"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 18).bin" size="1415904" crc="4148cbc5" md5="c6ae6aa7a25bc1d8a6aefde272b8e52b" sha1="f896b3d59258ed687bc13089cb52323738a74ba1"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 19).bin" size="4565232" crc="11818523" md5="cf7363435973a30ab15fc3cfe3c9a4af" sha1="1cd07353f82a5ec55da234b99c1c615f0652d6ab"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 20).bin" size="5649504" crc="b891cac9" md5="3954839dd7b13ddf2a46349a6db9f83e" sha1="4a96bec2db1c13a1ed70c0140e8c8ee81b8121de"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 21).bin" size="6110496" crc="cfa44820" md5="5fdf0d16fec7326e0aee2531f19c1b83" sha1="dd9ad1299579bc60147b8b5ac348816615ba17ad"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 22).bin" size="6844320" crc="2a220816" md5="4bb303e8d7a944ac6a75e4d31d50834f" sha1="a82450d31a2333e70e9dcc54a0379912e436301f"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 23).bin" size="4722816" crc="1b9eb151" md5="388454c225b871dd9c6add7b27ca2b00" sha1="a88c717da4845be243925e666b0198cc0ebe30f6"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 24).bin" size="15923040" crc="9dca30fd" md5="6d22caa09f14e98fcda3833c40630fed" sha1="e983f831db57d0623dfa1b90fb199674a9f75af7"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 25).bin" size="17183712" crc="8a1e3522" md5="dd4252041200addeed9f728394b13a17" sha1="1b7e912ece6b917ce4b3095dee724d559036e3b1"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 26).bin" size="16910880" crc="6e692fd9" md5="9d865dea03af7f8edf2addfc400c40b9" sha1="c1847dd0754bec2227cc04a633cc7309b8c33bf8"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan) (Track 27).bin" size="1752240" crc="b3744c40" md5="c9b1e6d5178cd364cba2a1227bd8ff20" sha1="18b3946de1e4e7bf685ef8fda669a3dab2c1f436"/>
+		<rom name="Dennou Senki - Virtual On - Cyber Troopers (Japan).cue" size="3322" crc="5da27d51" md5="1d6a2d5cb198baab464b8a2f776a50ca" sha1="7ada5cd709d971d464e6315c843d970f91a94c83"/>
 	</game>
 	<game name="Denpa Shounen-teki Kenshou Seikatsu Soft - Nasubi no Heya (Japan)">
 		<category>Games</category>
@@ -41378,29 +41414,29 @@
 		<rom name="Diva X - Ariana (USA).bin" size="403036368" crc="9984fb83" md5="9683565e540fbfc503d70e887712e05a" sha1="4f7074786c2fb2430473959f3a5b09ba774f1fcb"/>
 		<rom name="Diva X - Ariana (USA).cue" size="102" crc="da82ef9f" md5="65bea9a7e09c8ea42c0ef04ac1a245b9" sha1="c5a4b359fcabf1575ccda6f89a75972a258f3895"/>
 	</game>
-	<game name="Dive - The Conquest of Silver Eye (USA) (Disc 1)">
+	<game name="Dive - The Conquest of Silver Eye (USA) (Disc 1) (Rev 1)">
 		<category>Games</category>
-		<description>Dive - The Conquest of Silver Eye (USA) (Disc 1)</description>
-		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 1).bin" size="677964000" crc="928f570b" md5="31feee7a611bd014c02e6dd1e8470ef1" sha1="d806820989d4fe35a6f35326d43e44b4e1048c53"/>
-		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 1).cue" size="137" crc="ff110a3a" md5="dd50d8dd005e5f867c8acc214ac83ad8" sha1="9a59f91ab39bd6bb8d64bc8fa6f4e09c8dbee2c0"/>
+		<description>Dive - The Conquest of Silver Eye (USA) (Disc 1) (Rev 1)</description>
+		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 1) (Rev 1).bin" size="677964000" crc="928f570b" md5="31feee7a611bd014c02e6dd1e8470ef1" sha1="d806820989d4fe35a6f35326d43e44b4e1048c53"/>
+		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 1) (Rev 1).cue" size="145" crc="b5b92ad3" md5="f90d463387c072cda02ed3c25745ef82" sha1="51da126763098b74ce7d99645de583e52de9828c"/>
 	</game>
-	<game name="Dive - The Conquest of Silver Eye (USA) (Disc 2)">
+	<game name="Dive - The Conquest of Silver Eye (USA) (Disc 2) (Rev 1)">
 		<category>Games</category>
-		<description>Dive - The Conquest of Silver Eye (USA) (Disc 2)</description>
-		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 2).bin" size="679610400" crc="22854b5a" md5="da1339b62ea1b15bb127708c8b9ccd76" sha1="23388e11d1bfed491590883a57202495592d8f09"/>
-		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 2).cue" size="137" crc="fe4c2ceb" md5="5fb99f8237133a2514585fad0e350b7c" sha1="3cba06b477981f130aab3535a0c998e6202d0abf"/>
+		<description>Dive - The Conquest of Silver Eye (USA) (Disc 2) (Rev 1)</description>
+		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 2) (Rev 1).bin" size="679610400" crc="22854b5a" md5="da1339b62ea1b15bb127708c8b9ccd76" sha1="23388e11d1bfed491590883a57202495592d8f09"/>
+		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 2) (Rev 1).cue" size="145" crc="5e13626e" md5="e3d3fcae257b7512bc86da20ed70659d" sha1="92dc41b17337b7194b4dfa9b56b03e2b7a00382f"/>
 	</game>
-	<game name="Dive - The Conquest of Silver Eye (USA) (Disc 3)">
+	<game name="Dive - The Conquest of Silver Eye (USA) (Disc 3) (Rev 1)">
 		<category>Games</category>
-		<description>Dive - The Conquest of Silver Eye (USA) (Disc 3)</description>
-		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 3).bin" size="671931120" crc="4ba6e95b" md5="44967530ef0ccab5959ea9a6521c00ba" sha1="7737c709269d4d4e2a3fb9e9b9b543b481b418ef"/>
-		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 3).cue" size="137" crc="4857cc9b" md5="7ff1e43aac3b895df8a6b62a7d727320" sha1="e57f2c1bd7d9876821a45a76e7195416935b343a"/>
+		<description>Dive - The Conquest of Silver Eye (USA) (Disc 3) (Rev 1)</description>
+		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 3) (Rev 1).bin" size="671931120" crc="4ba6e95b" md5="44967530ef0ccab5959ea9a6521c00ba" sha1="7737c709269d4d4e2a3fb9e9b9b543b481b418ef"/>
+		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 3) (Rev 1).cue" size="145" crc="07755a05" md5="2bbf18d4e302a55cde0e307b3e7d2936" sha1="c86af0dc72e7327016bce836745e478d1d3c812c"/>
 	</game>
-	<game name="Dive - The Conquest of Silver Eye (USA) (Disc 4)">
+	<game name="Dive - The Conquest of Silver Eye (USA) (Disc 4) (Rev 1)">
 		<category>Games</category>
-		<description>Dive - The Conquest of Silver Eye (USA) (Disc 4)</description>
-		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 4).bin" size="470512896" crc="03436d18" md5="d8d65e523d3f2212f748cfff30ea8a26" sha1="7bf2bddc60bc8cdbff46ed5710e05bafe78f7e74"/>
-		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 4).cue" size="137" crc="fcf66149" md5="44a4d72cc189b6bc33200ef62ec361a2" sha1="3afe3b4cbc249dd3ec213a074fe27deb31aa841a"/>
+		<description>Dive - The Conquest of Silver Eye (USA) (Disc 4) (Rev 1)</description>
+		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 4) (Rev 1).bin" size="470512896" crc="03436d18" md5="d8d65e523d3f2212f748cfff30ea8a26" sha1="7bf2bddc60bc8cdbff46ed5710e05bafe78f7e74"/>
+		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 4) (Rev 1).cue" size="145" crc="5236f555" md5="ce55d67dc01ddc3229ba1da07f99d307" sha1="6a4759c330049272af594c169c0a4d98c6835dad"/>
 	</game>
 	<game name="Diver - Deep Water Adventures (Germany)">
 		<category>Games</category>
@@ -59339,6 +59375,18 @@
 		<rom name="Games CD-ROM Volume 27 (Australia).bin" size="535028256" crc="616b86b5" md5="9c65a0b67e100ad22c4f93aea7599dd6" sha1="b181be9aed090284da042cccef25dabb7cb07543"/>
 		<rom name="Games CD-ROM Volume 27 (Australia).cue" size="100" crc="9cc684d0" md5="41fc83495ebd477a1ac0b4c04f86478c" sha1="61f13eaf8bc209c48bdc18efe522d067ceb29ded"/>
 	</game>
+	<game name="Games DOS Volume 1 (Germany)">
+		<category>Demos</category>
+		<description>Games DOS Volume 1 (Germany)</description>
+		<rom name="Games DOS Volume 1 (Germany).bin" size="20194272" crc="60aaf02b" md5="5ad66586c8edafa5566b42f406bf7f12" sha1="2d69ae35e5a9a6e24ce10e0f4faa2722de87b6c9"/>
+		<rom name="Games DOS Volume 1 (Germany).cue" size="117" crc="a8961b71" md5="d464c332f1f2b13cf5fc6a7e7a2dcd58" sha1="decab16d6db71ff7f6ccbe30c8086202ba16e04c"/>
+	</game>
+	<game name="Games DOS Volume 2 (Germany)">
+		<category>Demos</category>
+		<description>Games DOS Volume 2 (Germany)</description>
+		<rom name="Games DOS Volume 2 (Germany).bin" size="96361440" crc="056c8049" md5="64317aa4fe5acfbb7deda02ee69b6acd" sha1="c554b52765235eaf3203d5f5de5fc7b51b3d65df"/>
+		<rom name="Games DOS Volume 2 (Germany).cue" size="117" crc="1dad7e08" md5="78521e9b18edef46c6982f6e58141061" sha1="344a6595cee60f54c5167a7d253f6cd2af1d08d1"/>
+	</game>
 	<game name="Games Giant Vol. 1 - Special Pack 1 (Germany)">
 		<category>Games</category>
 		<description>Games Giant Vol. 1 - Special Pack 1 (Germany)</description>
@@ -60830,6 +60878,12 @@
 		<description>Giochi di Leo, I - Gioca con il Castello (Italy)</description>
 		<rom name="Giochi di Leo, I - Gioca con il Castello (Italy).bin" size="352193184" crc="405c5d8b" md5="16e9720a2a3c205bc93e20e43b231b41" sha1="3ca488aff9d19c8d7cd06f689ee230173873d739"/>
 		<rom name="Giochi di Leo, I - Gioca con il Castello (Italy).cue" size="114" crc="d7cebd9c" md5="77c0279acb46dddba3fc1cf67494be81" sha1="d12b1a90c22b64ff8482878a6bafc2726f273ec9"/>
+	</game>
+	<game name="Giochi di Leo, I - Gioca con l'Ecologia (Italy)">
+		<category>Games</category>
+		<description>Giochi di Leo, I - Gioca con l'Ecologia (Italy)</description>
+		<rom name="Giochi di Leo, I - Gioca con l'Ecologia (Italy).bin" size="60775680" crc="e822847d" md5="188c6235c443c45c92e8ba6bcfc4a58e" sha1="15ff20b61df7f55036c67c1d04427d2f6d357d61"/>
+		<rom name="Giochi di Leo, I - Gioca con l'Ecologia (Italy).cue" size="113" crc="0d0dd884" md5="030f49665b8f83207b4cb75e6c450432" sha1="626cb36655d44085cb2cd63706b9f504e0127009"/>
 	</game>
 	<game name="Giochi di Leo, I - Gioca con la Luna (Italy)">
 		<category>Games</category>
@@ -62885,6 +62939,12 @@
 		<description>Grandia II (Germany) (Disc 1) (Install Disc)</description>
 		<rom name="Grandia II (Germany) (Disc 1) (Install Disc).bin" size="826234080" crc="bb5ede8f" md5="9eedd20b806cf96945e28b8eafda05ae" sha1="04d71093b3b9aded08637bef21cb464e017a3b05"/>
 		<rom name="Grandia II (Germany) (Disc 1) (Install Disc).cue" size="110" crc="a482a930" md5="0c42a409fea751b716786f1c6a575628" sha1="49bfc5ec2e08342b75f8bcb720a8a4019e33fbac"/>
+	</game>
+	<game name="Grandia II (Germany) (Disc 1) (Rerelease)">
+		<category>Games</category>
+		<description>Grandia II (Germany) (Disc 1) (Rerelease)</description>
+		<rom name="Grandia II (Germany) (Disc 1) (Rerelease).bin" size="783686400" crc="a73c3567" md5="860d43a42bc81f4ea7eb44ff3b93e746" sha1="c2fab32605663cdd26d3257a85353c951d566b13"/>
+		<rom name="Grandia II (Germany) (Disc 1) (Rerelease).cue" size="107" crc="3fefae83" md5="3602ad65622d5e6308a3f14e068ad771" sha1="c77c5d34f5ce66ad013e260f4a35296ab22adb43"/>
 	</game>
 	<game name="Grandia II (Germany) (Disc 2) (Play Disc)">
 		<category>Games</category>
@@ -65930,6 +65990,12 @@
 		<description>Harpoon II Deluxe - Multimedia Edition (Europe)</description>
 		<rom name="Harpoon II Deluxe - Multimedia Edition (Europe).bin" size="99496656" crc="16c2d356" md5="5a23e3603d4ccaa72d4fd175e91a2a61" sha1="4a4ec69772022048e0e56aa6fd6a0d2be532484c"/>
 		<rom name="Harpoon II Deluxe - Multimedia Edition (Europe).cue" size="136" crc="05e1a243" md5="65b1191c6018591c487d604069382538" sha1="1cf2d5c28f9449759fc1f67bd1cbbe0d1287c004"/>
+	</game>
+	<game name="Harrier Jump Jet (Germany)">
+		<category>Games</category>
+		<description>Harrier Jump Jet (Germany)</description>
+		<rom name="Harrier Jump Jet (Germany).bin" size="254705136" crc="63451eaa" md5="a2520bbae20485465b0edab9e0c46ec6" sha1="05748c72a2b178a6530555313ccf1111690bb972"/>
+		<rom name="Harrier Jump Jet (Germany).cue" size="92" crc="1b7c72ef" md5="cb88c56cbcb8f8ea88093be21af272e6" sha1="736d8de997a2cf1dabeef26587eb77cb9490fa63"/>
 	</game>
 	<game name="Harry Potter - Azkaban De Taofan (Taiwan)">
 		<category>Games</category>
@@ -92598,6 +92664,12 @@
 		<rom name="Math Rescue &amp; Word Rescue (USA).bin" size="28007616" crc="cbfde330" md5="ab8ca56a485cc045c350dcde0dd42c50" sha1="1107e8701d8da60438916389aa6b10ca4ab5183f"/>
 		<rom name="Math Rescue &amp; Word Rescue (USA).cue" size="97" crc="a5955fa3" md5="32daaddcc8fa381b56b3f0f09702fc53" sha1="5a63fddda5560d6f3dd56a2e9d899a983c48fbef"/>
 	</game>
+	<game name="Mathematik und Technik (Germany)">
+		<category>Demos</category>
+		<description>Mathematik und Technik (Germany)</description>
+		<rom name="Mathematik und Technik (Germany).bin" size="140357952" crc="5e666ee9" md5="4eeacdadd30e68f879182539c2fff19a" sha1="9d736d024b88ffcccb37a6b83c82708ed5d0c8a4"/>
+		<rom name="Mathematik und Technik (Germany).cue" size="121" crc="1f7cd488" md5="20da19949937b8aa296c684b63521db3" sha1="0153d8907997854c5661f453704b6181cee11ea1"/>
+	</game>
 	<game name="Mathica (Germany) (Disc 1) (Rerelease) (2007-04-10)">
 		<category>Games</category>
 		<description>Mathica (Germany) (Disc 1) (Rerelease) (2007-04-10)</description>
@@ -106650,6 +106722,12 @@
 		<rom name="Night Owl - The Best of Shareware! (USA).bin" size="745433472" crc="15ef7a5b" md5="72f85ff127b1fe10f93ce70ded4ef810" sha1="22480cd94da46c36926036a7905af62b85e32be8"/>
 		<rom name="Night Owl - The Best of Shareware! (USA).cue" size="129" crc="4362e4bb" md5="eaddf3809977f7ffe86da558a6de0451" sha1="9cd9c4f9ea88b5927314834c52d1912a336b139a"/>
 	</game>
+	<game name="Night Owl Presents - Games 3 (USA)">
+		<category>Demos</category>
+		<description>Night Owl Presents - Games 3 (USA)</description>
+		<rom name="Night Owl Presents - Games 3 (USA).bin" size="396996432" crc="bd34f227" md5="01aae1456053397e1395e6e914107d38" sha1="ef27c596bf3ec2ccdd3dec07c33a0bca75728d43"/>
+		<rom name="Night Owl Presents - Games 3 (USA).cue" size="123" crc="9ce511e2" md5="f730372f67d898fff5bd147b953cfa05" sha1="3da2abe64b7e01b1f6944d688e588b0a4e032f03"/>
+	</game>
 	<game name="Night Owl's Shareware - Games Disc II (USA)">
 		<category>Demos</category>
 		<description>Night Owl's Shareware - Games Disc II (USA)</description>
@@ -110903,6 +110981,12 @@
 		<description>PC Rally (Europe)</description>
 		<rom name="PC Rally (Europe).bin" size="10339392" crc="a1ab9738" md5="df9ed64a40c14a7dd9c0010406dbd07e" sha1="174becca465e85f5ac2c57c8880a29cfe724a789"/>
 		<rom name="PC Rally (Europe).cue" size="83" crc="68337a5a" md5="56f017e592c62d9e7d21b34c9aeb11fa" sha1="392015c4513ca65df2db4c40802a88cd9d78d031"/>
+	</game>
+	<game name="PC Reciclator (Spain)">
+		<category>Games</category>
+		<description>PC Reciclator (Spain)</description>
+		<rom name="PC Reciclator (Spain).bin" size="101131296" crc="c6817733" md5="4522533b85504edfd32479a357183caf" sha1="8ad6e32fdee10553f5d73e438d90e79fb060f765"/>
+		<rom name="PC Reciclator (Spain).cue" size="87" crc="4f7c4bb3" md5="d4b971f67499201a15da0180a68093a2" sha1="c9aff8c56761e08871027faddf9c668eee944dd1"/>
 	</game>
 	<game name="PC Sig Library - 12th Edition (USA)">
 		<category>Demos</category>
@@ -121249,6 +121333,12 @@
 		<category>Games</category>
 		<description>Quantum Break (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Disc 5)</description>
 		<rom name="Quantum Break (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Disc 5).iso" size="5085497344" crc="d5ff38ac" md5="0b998796e0fb288a15bc6abc4be73e91" sha1="d908e681106f8696e99b335f4acea798c12fbc92"/>
+	</game>
+	<game name="Quantum Gate (USA) (OEM)">
+		<category>Games</category>
+		<description>Quantum Gate (USA) (OEM)</description>
+		<rom name="Quantum Gate (USA) (OEM).bin" size="741978384" crc="cb8ef8e0" md5="39224ee8117f22421dcfca993ec5c916" sha1="c0a0980a6943e64e139c3c7d09d85aa3ebedab7d"/>
+		<rom name="Quantum Gate (USA) (OEM).cue" size="90" crc="dde6715b" md5="fadbb044be8d96f1f3e50084a1c2f039" sha1="f925649e4977bcd018a1778ed76e262d91a5dbf8"/>
 	</game>
 	<game name="Quantum Gate - The Saga Begins (USA)">
 		<category>Games</category>
@@ -142670,11 +142760,29 @@
 		<rom name="Software&amp;Co. - Catalogo Interattivo 1997 - Edizione 1 (Italy).bin" size="733941600" crc="240f98f6" md5="21af641df8e28f4dca326b2f4da8471f" sha1="b17be272c6e6b7d60373ba41b4361b2401d69340"/>
 		<rom name="Software&amp;Co. - Catalogo Interattivo 1997 - Edizione 1 (Italy).cue" size="150" crc="9bc60987" md5="fdc78748a09ccf13248e277aa69f72e6" sha1="4743f69f147cc46b7799dc9044211bf9ed611475"/>
 	</game>
+	<game name="SoftwareVault - The Emerald Collection (USA)">
+		<category>Demos</category>
+		<description>SoftwareVault - The Emerald Collection (USA)</description>
+		<rom name="SoftwareVault - The Emerald Collection (USA).bin" size="631178016" crc="c822175c" md5="32ec481740ad42c21063b3a9e6f08de3" sha1="bd38b6cbe7b20f8794893d4aef386d845acbc56c"/>
+		<rom name="SoftwareVault - The Emerald Collection (USA).cue" size="133" crc="58ffdd4c" md5="6f0743cf74f6774eb764945d530c4b5c" sha1="e21b92482b82b13f5edf2b2ed9e364ef7a60c72d"/>
+	</game>
 	<game name="SoftwareVault - The Games Collection (USA)">
-		<category>Games</category>
+		<category>Demos</category>
 		<description>SoftwareVault - The Games Collection (USA)</description>
 		<rom name="SoftwareVault - The Games Collection (USA).bin" size="188134128" crc="5bb7489d" md5="da10c34431f77b59f06c48aa52f9122c" sha1="433301c01519e9be9446b0f86c5acd81a2e8984e"/>
 		<rom name="SoftwareVault - The Games Collection (USA).cue" size="131" crc="40d1f557" md5="9d78b595a964d27f77d03935e51aee8f" sha1="514228f4cdffd6f03facf0dac441929aa46d824e"/>
+	</game>
+	<game name="SoftwareVault - The Gold Collection (USA)">
+		<category>Demos</category>
+		<description>SoftwareVault - The Gold Collection (USA)</description>
+		<rom name="SoftwareVault - The Gold Collection (USA).bin" size="696918768" crc="2c8cb355" md5="6cd8ce3f9e88d7e83d739bba0ef41230" sha1="b07f27e40402b7a5a3731d9d0b9b5108488f1b61"/>
+		<rom name="SoftwareVault - The Gold Collection (USA).cue" size="130" crc="9a78de26" md5="404e2a933b1e8860e78fd1e5296cc987" sha1="60158854469a01d030f9efb48d476237f0b4af3c"/>
+	</game>
+	<game name="SoftwareVault - The Sapphire Collection (USA)">
+		<category>Demos</category>
+		<description>SoftwareVault - The Sapphire Collection (USA)</description>
+		<rom name="SoftwareVault - The Sapphire Collection (USA).bin" size="711343584" crc="a3a32159" md5="5b4c64d337a719db38021abbe31793b9" sha1="cee1ff223f910a80fb080104413a9847a43fa66f"/>
+		<rom name="SoftwareVault - The Sapphire Collection (USA).cue" size="111" crc="4da8b9af" md5="6f698fce5c5eea1f58ce9304885c6c94" sha1="a6c28fdb3f6079869dab2a0218e72c9a5636fdcf"/>
 	</game>
 	<game name="Softwarehits Made in Germany 94-95 (Germany)">
 		<category>Games</category>
@@ -152883,11 +152991,11 @@
 		<rom name="Taz - Wanted - Video MPG2 (Europe) (Dev Assets).bin" size="86080848" crc="e293095b" md5="076bbe6f4df98b4a4776a305d505fe40" sha1="a5acce40f02bf5b85ab5bbdb8765c334722eec3d"/>
 		<rom name="Taz - Wanted - Video MPG2 (Europe) (Dev Assets).cue" size="113" crc="d598ac79" md5="8ad86b8cbb1deb5fd455ffe3dd2fa7b7" sha1="c416b925ff39e8f7c1c76a90a3135e62a89e9a30"/>
 	</game>
-	<game name="Team Apache (Europe)">
+	<game name="Team Apache (USA) (OEM)">
 		<category>Games</category>
-		<description>Team Apache (Europe)</description>
-		<rom name="Team Apache (Europe).bin" size="466385136" crc="4a7e8a96" md5="a6465f650984724fc8246dfb129e0870" sha1="ef7555584ce2fd2aad1dc4393a4a4b93e4522842"/>
-		<rom name="Team Apache (Europe).cue" size="86" crc="60daacaa" md5="24cdeb5c74bd0a8e062c3df0e1cda75f" sha1="add3fd3fb4f81588e4f6ae911cd58340ba331750"/>
+		<description>Team Apache (USA) (OEM)</description>
+		<rom name="Team Apache (USA) (OEM).bin" size="478549680" crc="c242ff04" md5="0cc6325ed779bd16b90ffbd3f2cc8eeb" sha1="503de4dc79366158275fb0f00ef1aeafefd1848d"/>
+		<rom name="Team Apache (USA) (OEM).cue" size="112" crc="d4404233" md5="c2db5911711f47f3e1fc768fa53e8bd0" sha1="db7f6a47279396fca99129e84b129c03e64fe890"/>
 	</game>
 	<game name="Team Apache (USA) (Playable Demo)">
 		<category>Demos</category>
@@ -171283,8 +171391,8 @@
 	<game name="Witchaven II - Blood Vengeance (USA)">
 		<category>Games</category>
 		<description>Witchaven II - Blood Vengeance (USA)</description>
-		<rom name="Witchaven II - Blood Vengeance (USA).bin" size="316567440" crc="50855e66" md5="004e43d2b7a46e5f1882cb2376bb5ffd" sha1="4b58d0dc2b1d31028f317cffa0ed80cb10b2192d"/>
-		<rom name="Witchaven II - Blood Vengeance (USA).cue" size="117" crc="22a5dc49" md5="9b5443dbcd7b9acdce8ab599e4c38c65" sha1="f2bd92c5097e906c373f8d1866877d13494febd0"/>
+		<rom name="Witchaven II - Blood Vengeance (USA).bin" size="353333904" crc="de950912" md5="4e0ad1e2c80dce83c640623a3385a4fc" sha1="f8bf87b1b95403c208c765ddbf461181dd150666"/>
+		<rom name="Witchaven II - Blood Vengeance (USA).cue" size="125" crc="1c7521bb" md5="278fa20fe8966ef55634f39920e75497" sha1="6d167d2a79f2f0294864d855f382e5428c2f65ee"/>
 	</game>
 	<game name="Witcher 2, The - Assassins of Kings (Europe) (Disc 2) (v2.0)">
 		<category>Games</category>

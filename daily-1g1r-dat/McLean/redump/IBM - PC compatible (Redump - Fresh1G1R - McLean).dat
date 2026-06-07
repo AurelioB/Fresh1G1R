@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,098) (-ly) [-aAbBcdDefkmMopPruv] (2026-06-06 02-31-22) (Retool)</description>
-		<version>2026-06-06 02-31-22</version>
-		<date>2026-06-06 03-35-55</date>
+		<description>IBM - PC compatible (13,100) (-ly) [-aAbBcdDefkmMopPruv] (2026-06-07 03-41-29) (Retool)</description>
+		<version>2026-06-07 03-41-29</version>
+		<date>2026-06-07 03-34-36</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -11853,6 +11853,12 @@
 		<rom name="CD World Volume 7 - Starship &amp; 15 Intense Adventure Games (USA).bin" size="66119424" crc="5aa1c4cc" md5="99c36cd218b7923a32c3d2859aa93430" sha1="1b46daafc240ee2cdc43c365ee3b3800950cfb76"/>
 		<rom name="CD World Volume 7 - Starship &amp; 15 Intense Adventure Games (USA).cue" size="129" crc="a4a53a32" md5="6b41de67c5fb6c2439f548d8965badae" sha1="7f6a94bb60fc0e0a0c82c503d975c923d8c370eb"/>
 	</game>
+	<game name="CD-ROM Challenge Pack (USA)">
+		<category>Games</category>
+		<description>CD-ROM Challenge Pack (USA)</description>
+		<rom name="CD-ROM Challenge Pack (USA).bin" size="28732032" crc="ff1703fb" md5="f309bb7c1a2068d0d4325c9730ff6e97" sha1="1669dfc48086e246edc3c3f0a03bf864e15d6964"/>
+		<rom name="CD-ROM Challenge Pack (USA).cue" size="93" crc="301f9009" md5="db45c0455d1dea543ad106b6d90ee38f" sha1="bb6bb16c16775858d896f6d0d10d40a306112ef2"/>
+	</game>
 	<game name="CDV Strategy Collection (Europe)">
 		<category>Games</category>
 		<description>CDV Strategy Collection (Europe)</description>
@@ -17338,6 +17344,12 @@
 		<rom name="Cruise for a Corpse (Italy) (En,Fr,De,Es,It).bin" size="767010720" crc="f82748bf" md5="f81a5754b6ff1e8ef55578d2e3c08c81" sha1="652f1d9a98b7d9251a7688d9af7d072ab6c32dfd"/>
 		<rom name="Cruise for a Corpse (Italy) (En,Fr,De,Es,It).cue" size="110" crc="ac2d9563" md5="80ba85651d51092c3ff7b04b0bf1c839" sha1="c016296d489a9fbf5fd5a4a77c657b723b9c0e32"/>
 	</game>
+	<game name="Cruncher in Mazeland (Europe) (En,Fr,De,Es,It,Pt)">
+		<category>Games</category>
+		<description>Cruncher in Mazeland (Europe) (En,Fr,De,Es,It,Pt)</description>
+		<rom name="Cruncher in Mazeland (Europe) (En,Fr,De,Es,It,Pt).bin" size="39499488" crc="a89191bb" md5="2ba3d5be64c16471ec566b8b9bbae6c1" sha1="cfd255fefc053d279515ff2b6d7a431e75028fca"/>
+		<rom name="Cruncher in Mazeland (Europe) (En,Fr,De,Es,It,Pt).cue" size="115" crc="d578e9b2" md5="c3c7bdd12f3bd3282fb11f7d15650b6f" sha1="24e30faeebdac3295eadd604ee13a403087d704d"/>
+	</game>
 	<game name="Crusader - No Regret (USA)">
 		<category>Games</category>
 		<description>Crusader - No Regret (USA)</description>
@@ -21986,29 +21998,29 @@
 		<rom name="Diva X - Ariana (USA).bin" size="403036368" crc="9984fb83" md5="9683565e540fbfc503d70e887712e05a" sha1="4f7074786c2fb2430473959f3a5b09ba774f1fcb"/>
 		<rom name="Diva X - Ariana (USA).cue" size="102" crc="da82ef9f" md5="65bea9a7e09c8ea42c0ef04ac1a245b9" sha1="c5a4b359fcabf1575ccda6f89a75972a258f3895"/>
 	</game>
-	<game name="Dive - The Conquest of Silver Eye (USA) (Disc 1)">
+	<game name="Dive - The Conquest of Silver Eye (USA) (Disc 1) (Rev 1)">
 		<category>Games</category>
-		<description>Dive - The Conquest of Silver Eye (USA) (Disc 1)</description>
-		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 1).bin" size="677964000" crc="928f570b" md5="31feee7a611bd014c02e6dd1e8470ef1" sha1="d806820989d4fe35a6f35326d43e44b4e1048c53"/>
-		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 1).cue" size="137" crc="ff110a3a" md5="dd50d8dd005e5f867c8acc214ac83ad8" sha1="9a59f91ab39bd6bb8d64bc8fa6f4e09c8dbee2c0"/>
+		<description>Dive - The Conquest of Silver Eye (USA) (Disc 1) (Rev 1)</description>
+		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 1) (Rev 1).bin" size="677964000" crc="928f570b" md5="31feee7a611bd014c02e6dd1e8470ef1" sha1="d806820989d4fe35a6f35326d43e44b4e1048c53"/>
+		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 1) (Rev 1).cue" size="145" crc="b5b92ad3" md5="f90d463387c072cda02ed3c25745ef82" sha1="51da126763098b74ce7d99645de583e52de9828c"/>
 	</game>
-	<game name="Dive - The Conquest of Silver Eye (USA) (Disc 2)">
+	<game name="Dive - The Conquest of Silver Eye (USA) (Disc 2) (Rev 1)">
 		<category>Games</category>
-		<description>Dive - The Conquest of Silver Eye (USA) (Disc 2)</description>
-		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 2).bin" size="679610400" crc="22854b5a" md5="da1339b62ea1b15bb127708c8b9ccd76" sha1="23388e11d1bfed491590883a57202495592d8f09"/>
-		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 2).cue" size="137" crc="fe4c2ceb" md5="5fb99f8237133a2514585fad0e350b7c" sha1="3cba06b477981f130aab3535a0c998e6202d0abf"/>
+		<description>Dive - The Conquest of Silver Eye (USA) (Disc 2) (Rev 1)</description>
+		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 2) (Rev 1).bin" size="679610400" crc="22854b5a" md5="da1339b62ea1b15bb127708c8b9ccd76" sha1="23388e11d1bfed491590883a57202495592d8f09"/>
+		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 2) (Rev 1).cue" size="145" crc="5e13626e" md5="e3d3fcae257b7512bc86da20ed70659d" sha1="92dc41b17337b7194b4dfa9b56b03e2b7a00382f"/>
 	</game>
-	<game name="Dive - The Conquest of Silver Eye (USA) (Disc 3)">
+	<game name="Dive - The Conquest of Silver Eye (USA) (Disc 3) (Rev 1)">
 		<category>Games</category>
-		<description>Dive - The Conquest of Silver Eye (USA) (Disc 3)</description>
-		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 3).bin" size="671931120" crc="4ba6e95b" md5="44967530ef0ccab5959ea9a6521c00ba" sha1="7737c709269d4d4e2a3fb9e9b9b543b481b418ef"/>
-		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 3).cue" size="137" crc="4857cc9b" md5="7ff1e43aac3b895df8a6b62a7d727320" sha1="e57f2c1bd7d9876821a45a76e7195416935b343a"/>
+		<description>Dive - The Conquest of Silver Eye (USA) (Disc 3) (Rev 1)</description>
+		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 3) (Rev 1).bin" size="671931120" crc="4ba6e95b" md5="44967530ef0ccab5959ea9a6521c00ba" sha1="7737c709269d4d4e2a3fb9e9b9b543b481b418ef"/>
+		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 3) (Rev 1).cue" size="145" crc="07755a05" md5="2bbf18d4e302a55cde0e307b3e7d2936" sha1="c86af0dc72e7327016bce836745e478d1d3c812c"/>
 	</game>
-	<game name="Dive - The Conquest of Silver Eye (USA) (Disc 4)">
+	<game name="Dive - The Conquest of Silver Eye (USA) (Disc 4) (Rev 1)">
 		<category>Games</category>
-		<description>Dive - The Conquest of Silver Eye (USA) (Disc 4)</description>
-		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 4).bin" size="470512896" crc="03436d18" md5="d8d65e523d3f2212f748cfff30ea8a26" sha1="7bf2bddc60bc8cdbff46ed5710e05bafe78f7e74"/>
-		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 4).cue" size="137" crc="fcf66149" md5="44a4d72cc189b6bc33200ef62ec361a2" sha1="3afe3b4cbc249dd3ec213a074fe27deb31aa841a"/>
+		<description>Dive - The Conquest of Silver Eye (USA) (Disc 4) (Rev 1)</description>
+		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 4) (Rev 1).bin" size="470512896" crc="03436d18" md5="d8d65e523d3f2212f748cfff30ea8a26" sha1="7bf2bddc60bc8cdbff46ed5710e05bafe78f7e74"/>
+		<rom name="Dive - The Conquest of Silver Eye (USA) (Disc 4) (Rev 1).cue" size="145" crc="5236f555" md5="ce55d67dc01ddc3229ba1da07f99d307" sha1="6a4759c330049272af594c169c0a4d98c6835dad"/>
 	</game>
 	<game name="Divi-Dead (USA)">
 		<category>Games</category>
@@ -63346,6 +63358,12 @@
 		<description>Quantum Break (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Disc 5)</description>
 		<rom name="Quantum Break (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Disc 5).iso" size="5085497344" crc="d5ff38ac" md5="0b998796e0fb288a15bc6abc4be73e91" sha1="d908e681106f8696e99b335f4acea798c12fbc92"/>
 	</game>
+	<game name="Quantum Gate (USA) (OEM)">
+		<category>Games</category>
+		<description>Quantum Gate (USA) (OEM)</description>
+		<rom name="Quantum Gate (USA) (OEM).bin" size="741978384" crc="cb8ef8e0" md5="39224ee8117f22421dcfca993ec5c916" sha1="c0a0980a6943e64e139c3c7d09d85aa3ebedab7d"/>
+		<rom name="Quantum Gate (USA) (OEM).cue" size="90" crc="dde6715b" md5="fadbb044be8d96f1f3e50084a1c2f039" sha1="f925649e4977bcd018a1778ed76e262d91a5dbf8"/>
+	</game>
 	<game name="Quantum Gate - The Saga Begins (USA)">
 		<category>Games</category>
 		<description>Quantum Gate - The Saga Begins (USA)</description>
@@ -73380,12 +73398,6 @@
 		<rom name="Software of the Month Club - Volume 250 (USA) (Ultimate Collection Shareware).bin" size="782585664" crc="56165d14" md5="73502756c85e41a6f2b1a2136f154384" sha1="ee53c939622fa449af6dec6235be7ee40101ba05"/>
 		<rom name="Software of the Month Club - Volume 250 (USA) (Ultimate Collection Shareware).cue" size="143" crc="e6b9aec1" md5="988e4892d04f34414d1c2c1ed350139e" sha1="9042ace4339007e1b8cd4ec16415fa5f2ed33f1a"/>
 	</game>
-	<game name="SoftwareVault - The Games Collection (USA)">
-		<category>Games</category>
-		<description>SoftwareVault - The Games Collection (USA)</description>
-		<rom name="SoftwareVault - The Games Collection (USA).bin" size="188134128" crc="5bb7489d" md5="da10c34431f77b59f06c48aa52f9122c" sha1="433301c01519e9be9446b0f86c5acd81a2e8984e"/>
-		<rom name="SoftwareVault - The Games Collection (USA).cue" size="131" crc="40d1f557" md5="9d78b595a964d27f77d03935e51aee8f" sha1="514228f4cdffd6f03facf0dac441929aa46d824e"/>
-	</game>
 	<game name="Sokoblue (Europe)">
 		<category>Games</category>
 		<description>Sokoblue (Europe)</description>
@@ -79273,11 +79285,11 @@
 		<rom name="Taz - Wanted (USA).bin" size="590330832" crc="ec0101aa" md5="f266fd42eed70d9deb47d4f03bce8bbb" sha1="692371b326e98bbcbce1ff26ca79bded4741c241"/>
 		<rom name="Taz - Wanted (USA).cue" size="84" crc="b7d99c30" md5="770e51df7f5132ec715f7aec9f9e4424" sha1="ec2510bb6984f63a98db64a830e6aec3695b8865"/>
 	</game>
-	<game name="Team Apache (Europe)">
+	<game name="Team Apache (USA) (OEM)">
 		<category>Games</category>
-		<description>Team Apache (Europe)</description>
-		<rom name="Team Apache (Europe).bin" size="466385136" crc="4a7e8a96" md5="a6465f650984724fc8246dfb129e0870" sha1="ef7555584ce2fd2aad1dc4393a4a4b93e4522842"/>
-		<rom name="Team Apache (Europe).cue" size="86" crc="60daacaa" md5="24cdeb5c74bd0a8e062c3df0e1cda75f" sha1="add3fd3fb4f81588e4f6ae911cd58340ba331750"/>
+		<description>Team Apache (USA) (OEM)</description>
+		<rom name="Team Apache (USA) (OEM).bin" size="478549680" crc="c242ff04" md5="0cc6325ed779bd16b90ffbd3f2cc8eeb" sha1="503de4dc79366158275fb0f00ef1aeafefd1848d"/>
+		<rom name="Team Apache (USA) (OEM).cue" size="112" crc="d4404233" md5="c2db5911711f47f3e1fc768fa53e8bd0" sha1="db7f6a47279396fca99129e84b129c03e64fe890"/>
 	</game>
 	<game name="Team Apache - Helicopter Combat (Australia)">
 		<category>Games</category>
@@ -89299,8 +89311,8 @@
 	<game name="Witchaven II - Blood Vengeance (USA)">
 		<category>Games</category>
 		<description>Witchaven II - Blood Vengeance (USA)</description>
-		<rom name="Witchaven II - Blood Vengeance (USA).bin" size="316567440" crc="50855e66" md5="004e43d2b7a46e5f1882cb2376bb5ffd" sha1="4b58d0dc2b1d31028f317cffa0ed80cb10b2192d"/>
-		<rom name="Witchaven II - Blood Vengeance (USA).cue" size="117" crc="22a5dc49" md5="9b5443dbcd7b9acdce8ab599e4c38c65" sha1="f2bd92c5097e906c373f8d1866877d13494febd0"/>
+		<rom name="Witchaven II - Blood Vengeance (USA).bin" size="353333904" crc="de950912" md5="4e0ad1e2c80dce83c640623a3385a4fc" sha1="f8bf87b1b95403c208c765ddbf461181dd150666"/>
+		<rom name="Witchaven II - Blood Vengeance (USA).cue" size="125" crc="1c7521bb" md5="278fa20fe8966ef55634f39920e75497" sha1="6d167d2a79f2f0294864d855f382e5428c2f65ee"/>
 	</game>
 	<game name="Witcher 2, The - Assassins of Kings (Europe) (Disc 2) (v2.0)">
 		<category>Games</category>
