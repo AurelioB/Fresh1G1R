@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,100) (-ly) [-aAbBcdDefkmMopPruv] (2026-06-07 03-41-29) (Retool)</description>
-		<version>2026-06-07 03-41-29</version>
-		<date>2026-06-07 03-34-36</date>
+		<description>IBM - PC compatible (13,102) (-ly) [-aAbBcdDefkmMopPruv] (2026-06-08 02-02-33) (Retool)</description>
+		<version>2026-06-08 02-02-33</version>
+		<date>2026-06-08 03-36-21</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -26950,6 +26950,12 @@
 		<rom name="Eye Training (UK).bin" size="204920352" crc="b77a2928" md5="c82bd01884b505724bc3a5546addca07" sha1="85af8025c7281f1be4292fa901497044a0db3b60"/>
 		<rom name="Eye Training (UK).cue" size="83" crc="d957d314" md5="6cd692717e6bf94db30ef1d5e6b5c06a" sha1="5735fc2d288b72c540dc78f64711c16eb5bee2df"/>
 	</game>
+	<game name="Eyewitness Encyclopedia of Space and the Universe (USA) (Alt)">
+		<category>Games</category>
+		<description>Eyewitness Encyclopedia of Space and the Universe (USA) (Alt)</description>
+		<rom name="Eyewitness Encyclopedia of Space and the Universe (USA) (Alt).bin" size="629338752" crc="35be9192" md5="d7835b996fb77d9ef7028ac468e2f796" sha1="a9eaa026fdc66b9a6bd5bf631c65f6034799237b"/>
+		<rom name="Eyewitness Encyclopedia of Space and the Universe (USA) (Alt).cue" size="150" crc="10149efd" md5="398841fe6257fd247a96167c7bd36051" sha1="973d434f6bf3ee20b9ca3517bc642780d226e67e"/>
+	</game>
 	<game name="F-117A Nighthawk Stealth Fighter 2.0 (Europe)">
 		<category>Games</category>
 		<description>F-117A Nighthawk Stealth Fighter 2.0 (Europe)</description>
@@ -44006,11 +44012,11 @@
 		<rom name="Last Call! (USA).bin" size="427633584" crc="791a653a" md5="b57ce0b63f61253763fc36799be8949c" sha1="99543306d5a11837e5c5241ed05fcbdad3ea45b3"/>
 		<rom name="Last Call! (USA).cue" size="82" crc="d949289f" md5="f0015b7a71496d363b5988aece40f955" sha1="e8d72466705fdda36a9cd1904bc7b9f5eb0522da"/>
 	</game>
-	<game name="Last Dynasty, The (USA) (Disc 1)">
+	<game name="Last Dynasty, The (USA) (Disc 1) (Rev 1)">
 		<category>Games</category>
-		<description>Last Dynasty, The (USA) (Disc 1)</description>
-		<rom name="Last Dynasty, The (USA) (Disc 1).bin" size="649918752" crc="6ade167f" md5="1cb684c76a4f4aa9c9b719e2739e8eb7" sha1="b20db5b9e9a07a505aa820795ce19fc455bb515b"/>
-		<rom name="Last Dynasty, The (USA) (Disc 1).cue" size="121" crc="987ca2c9" md5="add281f3b2fad5d3d78397c52d5f7a14" sha1="421e4f2243de4e828147bde24bdca6141cc7843a"/>
+		<description>Last Dynasty, The (USA) (Disc 1) (Rev 1)</description>
+		<rom name="Last Dynasty, The (USA) (Disc 1) (Rev 1).bin" size="649918752" crc="6ade167f" md5="1cb684c76a4f4aa9c9b719e2739e8eb7" sha1="b20db5b9e9a07a505aa820795ce19fc455bb515b"/>
+		<rom name="Last Dynasty, The (USA) (Disc 1) (Rev 1).cue" size="129" crc="2f6113aa" md5="94c4099d6a3dedd52ad5a8298346f5f8" sha1="7707d78de49d1377dd55ba1cf8c5faf796c7f0b9"/>
 	</game>
 	<game name="Last Dynasty, The (USA) (Disc 2)">
 		<category>Games</category>
@@ -72651,6 +72657,22 @@
 		<rom name="Ski Park Manager 2003 - Gold Edition (USA) (Track 1).bin" size="141131760" crc="c5dca865" md5="dfce4b75bba25465a46e7b703ecd9489" sha1="b5956a839a866a2db28e2d44bdfa58f30391f793"/>
 		<rom name="Ski Park Manager 2003 - Gold Edition (USA) (Track 2).bin" size="48999216" crc="42b34101" md5="212d1dbe44e084c45219d90b22f1d354" sha1="da8ddc57a1fb0a7af3140b85aea0d3c89d56b2e6"/>
 		<rom name="Ski Park Manager 2003 - Gold Edition (USA).cue" size="254" crc="3442bcae" md5="a3aa944cbe2c9e2b868c6e47b7dcafef" sha1="53d98e4cf9b041ef06fdff820d230e07d9bb34a2"/>
+	</game>
+	<game name="Ski Racing - Extreme Edition (Europe)">
+		<category>Games</category>
+		<description>Ski Racing - Extreme Edition (Europe)</description>
+		<rom name="Ski Racing - Extreme Edition (Europe) (Track 01).bin" size="319601520" crc="c7ff3006" md5="dcd590d46a15ec9abb231090550a2740" sha1="7b5bafbd962f645720d55916db8bf5a40b4269ec"/>
+		<rom name="Ski Racing - Extreme Edition (Europe) (Track 02).bin" size="26949216" crc="a7460c57" md5="f534ff52a9e9d7b7353fd8cd58c4fc6c" sha1="8eddee1766fec1f7ea63371099883b96bdcb655d"/>
+		<rom name="Ski Racing - Extreme Edition (Europe) (Track 03).bin" size="24091536" crc="d063d880" md5="4e0d61345288eb25eb46ef8563a963a2" sha1="856fed3d35df8ef869830987392f52cc39982e18"/>
+		<rom name="Ski Racing - Extreme Edition (Europe) (Track 04).bin" size="27908832" crc="81fbab77" md5="81b29f9e554c4615604c38dc743f02dc" sha1="673ff4d61a091c19261d4b159132ac328de711ca"/>
+		<rom name="Ski Racing - Extreme Edition (Europe) (Track 05).bin" size="26754000" crc="309ede9c" md5="391e4c2ad96a7cb4241507fb742f0d05" sha1="f2c2d8caff3fbe72c719c89389911494024b6b2c"/>
+		<rom name="Ski Racing - Extreme Edition (Europe) (Track 06).bin" size="21556080" crc="49fe155c" md5="4ec6b167bd7c234df8e3271beb28f7b2" sha1="b483909d6926e8c4e374c71984d70082e7c2fdfa"/>
+		<rom name="Ski Racing - Extreme Edition (Europe) (Track 07).bin" size="21113904" crc="ddc136fa" md5="4d71adb7b6bdf523ff918c885d74db80" sha1="b9486cb0855808dd78aaf4b2d6d2bb3185e7c2d0"/>
+		<rom name="Ski Racing - Extreme Edition (Europe) (Track 08).bin" size="23331840" crc="2e14ac9a" md5="f03b5fb0c7a067b15831bb057e8a0160" sha1="e9fb4d85148c77d4258feb3e33fd87b18c9a5bde"/>
+		<rom name="Ski Racing - Extreme Edition (Europe) (Track 09).bin" size="23202480" crc="ae948088" md5="b26215960da4bf11e6e09fd193ac8266" sha1="ba9e8dfa9b9163671468628b472b58569375040d"/>
+		<rom name="Ski Racing - Extreme Edition (Europe) (Track 10).bin" size="22365168" crc="3ae1da0b" md5="a9c7819ec77fc0a6d74155574cc50c96" sha1="7f86891c49f294a1d038a3e2153c9e0f57b2600f"/>
+		<rom name="Ski Racing - Extreme Edition (Europe) (Track 11).bin" size="22264032" crc="bb53fe75" md5="02c4df4f0916ec284a1b7c566692e3c6" sha1="ba3929cba7ca8371990a6486dcefc3971ee2d40e"/>
+		<rom name="Ski Racing - Extreme Edition (Europe).cue" size="1434" crc="a5662cac" md5="56335e891996b5f4389f56fc8ebff1c7" sha1="4e46d6eec6caa807a47e7fac0e8b4b4a37fcc0bb"/>
 	</game>
 	<game name="Ski Racing 2005 (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>

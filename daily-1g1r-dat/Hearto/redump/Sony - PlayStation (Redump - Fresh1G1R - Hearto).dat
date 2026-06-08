@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation (Retool)</name>
-		<description>Sony - PlayStation (5,676) (-y) [-aAbBcefkmMoprv] (2026-06-07 00-03-59) (Retool)</description>
-		<version>2026-06-07 00-03-59</version>
-		<date>2026-06-07 03-29-04</date>
+		<description>Sony - PlayStation (5,676) (-y) [-aAbBcefkmMoprv] (2026-06-07 22-36-42) (Retool)</description>
+		<version>2026-06-07 22-36-42</version>
+		<date>2026-06-08 03-30-44</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -962,15 +962,15 @@
 		<rom name="Ah Nanjarin (Japan).bin" size="294616224" crc="33a07ff8" md5="2cbb006edf0b0cf5896b19eca9a6a85d" sha1="f0eb58b23dcb7c1a5510451bf223281538f67935"/>
 		<rom name="Ah Nanjarin (Japan).cue" size="85" crc="b6e1f5be" md5="9eec179149f3ccd062fc30186d57bc3b" sha1="7764a852a18449b06f8bf32027dc580a2f402d5b"/>
 	</game>
-	<game name="Ai to Yuujou no Neko Monogatari. Jingle Cats - Love Para Daisakusen no Maki (Japan)">
+	<game name="Ai to Yuujou no Neko Monogatari. Jingle Cats - Love Para Daisakusen no Maki (Japan, Asia)">
 		<category>Games</category>
-		<description>Ai to Yuujou no Neko Monogatari. Jingle Cats - Love Para Daisakusen no Maki (Japan)</description>
-		<rom name="Ai to Yuujou no Neko Monogatari. Jingle Cats - Love Para Daisakusen no Maki (Japan) (Track 1).bin" size="321715968" crc="ef5b0522" md5="156b89bae4f53e5b1ee91431e12e0e1c" sha1="ae25e144eab84f95e33eda42b452015fda76e2d5"/>
-		<rom name="Ai to Yuujou no Neko Monogatari. Jingle Cats - Love Para Daisakusen no Maki (Japan) (Track 2).bin" size="22421616" crc="c0ac0e62" md5="2cbdb1f19136392a751059b689d8268c" sha1="3d7c1aee36ab91fa432842071f02c7dfc960dd6e"/>
-		<rom name="Ai to Yuujou no Neko Monogatari. Jingle Cats - Love Para Daisakusen no Maki (Japan) (Track 3).bin" size="19742688" crc="19692d3a" md5="cb3a942c56c2f1c9f5f3a5af069e9895" sha1="25ccd70c8d26618838d6dde9e5eb8e52d6d27ee5"/>
-		<rom name="Ai to Yuujou no Neko Monogatari. Jingle Cats - Love Para Daisakusen no Maki (Japan) (Track 4).bin" size="22174656" crc="69daf5de" md5="432960b5f1c3a8dcf2c3363ca2e31784" sha1="4029a537149ff1ac85d97af07fdc88a99d2ca1e1"/>
-		<rom name="Ai to Yuujou no Neko Monogatari. Jingle Cats - Love Para Daisakusen no Maki (Japan) (Track 5).bin" size="33868800" crc="3f9896b3" md5="441eeb4204aafc104bf1863b743a13a2" sha1="a55870eae893408b85b4274d19e349a7a447b84b"/>
-		<rom name="Ai to Yuujou no Neko Monogatari. Jingle Cats - Love Para Daisakusen no Maki (Japan).cue" size="867" crc="d852eb29" md5="505fc82b4c6248f8dbfa9415f05caf9e" sha1="e2ec13103f50cc5e4c2f672ce434ccf4f44cc0c6"/>
+		<description>Ai to Yuujou no Neko Monogatari. Jingle Cats - Love Para Daisakusen no Maki (Japan, Asia)</description>
+		<rom name="Ai to Yuujou no Neko Monogatari. Jingle Cats - Love Para Daisakusen no Maki (Japan, Asia) (Track 1).bin" size="321715968" crc="ef5b0522" md5="156b89bae4f53e5b1ee91431e12e0e1c" sha1="ae25e144eab84f95e33eda42b452015fda76e2d5"/>
+		<rom name="Ai to Yuujou no Neko Monogatari. Jingle Cats - Love Para Daisakusen no Maki (Japan, Asia) (Track 2).bin" size="22421616" crc="c0ac0e62" md5="2cbdb1f19136392a751059b689d8268c" sha1="3d7c1aee36ab91fa432842071f02c7dfc960dd6e"/>
+		<rom name="Ai to Yuujou no Neko Monogatari. Jingle Cats - Love Para Daisakusen no Maki (Japan, Asia) (Track 3).bin" size="19742688" crc="19692d3a" md5="cb3a942c56c2f1c9f5f3a5af069e9895" sha1="25ccd70c8d26618838d6dde9e5eb8e52d6d27ee5"/>
+		<rom name="Ai to Yuujou no Neko Monogatari. Jingle Cats - Love Para Daisakusen no Maki (Japan, Asia) (Track 4).bin" size="22174656" crc="69daf5de" md5="432960b5f1c3a8dcf2c3363ca2e31784" sha1="4029a537149ff1ac85d97af07fdc88a99d2ca1e1"/>
+		<rom name="Ai to Yuujou no Neko Monogatari. Jingle Cats - Love Para Daisakusen no Maki (Japan, Asia) (Track 5).bin" size="33868800" crc="3f9896b3" md5="441eeb4204aafc104bf1863b743a13a2" sha1="a55870eae893408b85b4274d19e349a7a447b84b"/>
+		<rom name="Ai to Yuujou no Neko Monogatari. Jingle Cats - Love Para Daisakusen no Maki (Japan, Asia).cue" size="897" crc="760aebe3" md5="463a6b09418c3c96576999695f461e46" sha1="dcab0d992789179136fc3752c891bdd1e7388f09"/>
 	</game>
 	<game name="Air Combat (USA)">
 		<category>Games</category>
@@ -2575,12 +2575,12 @@
 		<rom name="Astronoka (Japan, Asia) (Taikenban).bin" size="269734416" crc="b768b09c" md5="c97837a913ed7e0e8866b5cb1a686bee" sha1="c25427901a4ed86ede4cc0147e45661cf6dddf67"/>
 		<rom name="Astronoka (Japan, Asia) (Taikenban).cue" size="101" crc="ac4c0d9c" md5="d1685ac22f5fd563d3aea36e4fe31a25" sha1="bc9afe14aa99d766a0959482506907bf749d649d"/>
 	</game>
-	<game name="Asuka 120% Excellent - Burning Fest. Excellent (Japan)">
+	<game name="Asuka 120% Excellent - Burning Fest. Excellent (Japan, Asia)">
 		<category>Games</category>
-		<description>Asuka 120% Excellent - Burning Fest. Excellent (Japan)</description>
-		<rom name="Asuka 120% Excellent - Burning Fest. Excellent (Japan) (Track 1).bin" size="365169168" crc="6a2e320a" md5="9a888fca64ba197d52335eaef1be01ed" sha1="0e5f3b070c33ecf81da5b010e0be4caad543c206"/>
-		<rom name="Asuka 120% Excellent - Burning Fest. Excellent (Japan) (Track 2).bin" size="33120864" crc="bcdc33c1" md5="2152d43371551377e4a2de2608c22b98" sha1="e8a05b973bc929757d6686ffa5be225da9ecaa7d"/>
-		<rom name="Asuka 120% Excellent - Burning Fest. Excellent (Japan).cue" size="278" crc="d8b8a50a" md5="4e9849f7843336024825ba8aafc14e3a" sha1="6b00282db3a0915b9ab77e04c14170a2ac633607"/>
+		<description>Asuka 120% Excellent - Burning Fest. Excellent (Japan, Asia)</description>
+		<rom name="Asuka 120% Excellent - Burning Fest. Excellent (Japan, Asia) (Track 1).bin" size="365169168" crc="6a2e320a" md5="9a888fca64ba197d52335eaef1be01ed" sha1="0e5f3b070c33ecf81da5b010e0be4caad543c206"/>
+		<rom name="Asuka 120% Excellent - Burning Fest. Excellent (Japan, Asia) (Track 2).bin" size="33120864" crc="bcdc33c1" md5="2152d43371551377e4a2de2608c22b98" sha1="e8a05b973bc929757d6686ffa5be225da9ecaa7d"/>
+		<rom name="Asuka 120% Excellent - Burning Fest. Excellent (Japan, Asia).cue" size="290" crc="45348444" md5="d49abe735872d98d9a5ca6dae0d33220" sha1="ea9e699de9a6221fea63663f2685b2fd518f3afa"/>
 	</game>
 	<game name="Asuka 120% Final - Burning Fest. Final (Japan)">
 		<category>Games</category>
@@ -11171,20 +11171,6 @@
 		<rom name="Dynamite Soccer 2004 Final (Japan) (Track 8).bin" size="31810800" crc="1428b715" md5="32772a7d5caba5e3b875a9f003758383" sha1="354b3c4d850c45e309a748c834d96a13f112dedf"/>
 		<rom name="Dynamite Soccer 2004 Final (Japan).cue" size="1006" crc="327e3a84" md5="e99635b38519f09e7a6ff5a50d5f472f" sha1="51c879cdf30d91b3105a93f502474d42a17129c2"/>
 	</game>
-	<game name="Dynamite Soccer 98 (Japan)">
-		<category>Games</category>
-		<description>Dynamite Soccer 98 (Japan)</description>
-		<rom name="Dynamite Soccer 98 (Japan) (Track 1).bin" size="8549520" crc="6ba70a87" md5="cf64623c653b044db3b4d39a67118015" sha1="e01014a736c3b171af9cd74bdd50652abc14022a"/>
-		<rom name="Dynamite Soccer 98 (Japan) (Track 2).bin" size="32104800" crc="efd8b49b" md5="45270c9953470abc2ea2d1ebcc37267e" sha1="87683377a2630636d41bd458299f82ae35feda5d"/>
-		<rom name="Dynamite Soccer 98 (Japan) (Track 3).bin" size="31909584" crc="9773bf9e" md5="98f00ac556b6bfa8f2a43d7c9e170131" sha1="f4051d261ed1c0bd6556688360915b4c12c566ba"/>
-		<rom name="Dynamite Soccer 98 (Japan) (Track 4).bin" size="32102448" crc="db373bea" md5="903038913c3928f7c2e688bac28c295c" sha1="4b7cc2475a6ab035a161d333ba4709ab49f5a3fa"/>
-		<rom name="Dynamite Soccer 98 (Japan) (Track 5).bin" size="31415664" crc="e986d278" md5="a75e9ff7e43318aa7a0dadc842ed6151" sha1="ea20b1823f432c553022c544b49e64f3488415cf"/>
-		<rom name="Dynamite Soccer 98 (Japan) (Track 6).bin" size="32318832" crc="000a42b4" md5="37090fed0964d6ebd19f0874578ddfe6" sha1="9f40a371e63be9bb39da70fa86a54ee0ff1efcf4"/>
-		<rom name="Dynamite Soccer 98 (Japan) (Track 7).bin" size="32067168" crc="6a6b1d4f" md5="52345750c72085db9c5761f1f4032c63" sha1="ad5b4362ade1fda65c7d55fd37d1910a8bbc7387"/>
-		<rom name="Dynamite Soccer 98 (Japan) (Track 8).bin" size="31853136" crc="183684d0" md5="2c312a629bf9c1a36d11b33dd3657af2" sha1="153bdb284997e2f9bf7c094c7554cd73c9580f7f"/>
-		<rom name="Dynamite Soccer 98 (Japan) (Track 9).bin" size="31810800" crc="1428b715" md5="32772a7d5caba5e3b875a9f003758383" sha1="354b3c4d850c45e309a748c834d96a13f112dedf"/>
-		<rom name="Dynamite Soccer 98 (Japan).cue" size="1062" crc="fe786c7a" md5="2653f6cbee83a2eafb3b9c9bb5eb6227" sha1="a16597cacf82d83eb9c5a29157083f70c67b1e8a"/>
-	</game>
 	<game name="Dynamite Soccer 98 (Japan) (Demo)">
 		<category>Demos</category>
 		<description>Dynamite Soccer 98 (Japan) (Demo)</description>
@@ -11192,6 +11178,20 @@
 		<rom name="Dynamite Soccer 98 (Japan) (Demo) (Track 2).bin" size="32067168" crc="6a6b1d4f" md5="52345750c72085db9c5761f1f4032c63" sha1="ad5b4362ade1fda65c7d55fd37d1910a8bbc7387"/>
 		<rom name="Dynamite Soccer 98 (Japan) (Demo) (Track 3).bin" size="31810800" crc="1428b715" md5="32772a7d5caba5e3b875a9f003758383" sha1="354b3c4d850c45e309a748c834d96a13f112dedf"/>
 		<rom name="Dynamite Soccer 98 (Japan) (Demo).cue" size="363" crc="0bc5d98c" md5="a9fbb3b936acde87a8ed18620d519c0a" sha1="ac2f4e499998e006b9d989b01bc0d9ebba902c7a"/>
+	</game>
+	<game name="Dynamite Soccer 98 (Japan, Asia)">
+		<category>Games</category>
+		<description>Dynamite Soccer 98 (Japan, Asia)</description>
+		<rom name="Dynamite Soccer 98 (Japan, Asia) (Track 1).bin" size="8549520" crc="6ba70a87" md5="cf64623c653b044db3b4d39a67118015" sha1="e01014a736c3b171af9cd74bdd50652abc14022a"/>
+		<rom name="Dynamite Soccer 98 (Japan, Asia) (Track 2).bin" size="32104800" crc="efd8b49b" md5="45270c9953470abc2ea2d1ebcc37267e" sha1="87683377a2630636d41bd458299f82ae35feda5d"/>
+		<rom name="Dynamite Soccer 98 (Japan, Asia) (Track 3).bin" size="31909584" crc="9773bf9e" md5="98f00ac556b6bfa8f2a43d7c9e170131" sha1="f4051d261ed1c0bd6556688360915b4c12c566ba"/>
+		<rom name="Dynamite Soccer 98 (Japan, Asia) (Track 4).bin" size="32102448" crc="db373bea" md5="903038913c3928f7c2e688bac28c295c" sha1="4b7cc2475a6ab035a161d333ba4709ab49f5a3fa"/>
+		<rom name="Dynamite Soccer 98 (Japan, Asia) (Track 5).bin" size="31415664" crc="e986d278" md5="a75e9ff7e43318aa7a0dadc842ed6151" sha1="ea20b1823f432c553022c544b49e64f3488415cf"/>
+		<rom name="Dynamite Soccer 98 (Japan, Asia) (Track 6).bin" size="32318832" crc="000a42b4" md5="37090fed0964d6ebd19f0874578ddfe6" sha1="9f40a371e63be9bb39da70fa86a54ee0ff1efcf4"/>
+		<rom name="Dynamite Soccer 98 (Japan, Asia) (Track 7).bin" size="32067168" crc="6a6b1d4f" md5="52345750c72085db9c5761f1f4032c63" sha1="ad5b4362ade1fda65c7d55fd37d1910a8bbc7387"/>
+		<rom name="Dynamite Soccer 98 (Japan, Asia) (Track 8).bin" size="31853136" crc="183684d0" md5="2c312a629bf9c1a36d11b33dd3657af2" sha1="153bdb284997e2f9bf7c094c7554cd73c9580f7f"/>
+		<rom name="Dynamite Soccer 98 (Japan, Asia) (Track 9).bin" size="31810800" crc="1428b715" md5="32772a7d5caba5e3b875a9f003758383" sha1="354b3c4d850c45e309a748c834d96a13f112dedf"/>
+		<rom name="Dynamite Soccer 98 (Japan, Asia).cue" size="1116" crc="c8c0fa02" md5="5886de3d798d037472080e7ca1ea2828" sha1="65a0d8fe409941a680280e3627f38add7eff6fcb"/>
 	</game>
 	<game name="Dynasty Warriors (USA)">
 		<category>Games</category>
