@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,760) (-y) [-aAbBcdkmMpPuv] (2026-06-08 02-02-33) (Retool)</description>
-		<version>2026-06-08 02-02-33</version>
-		<date>2026-06-08 03-42-06</date>
+		<description>IBM - PC compatible (25,765) (-y) [-aAbBcdkmMpPuv] (2026-06-09 03-00-51) (Retool)</description>
+		<version>2026-06-09 03-00-51</version>
+		<date>2026-06-09 03-33-41</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -17691,6 +17691,12 @@
 		<description>Beyond the Limit - Ultimate Climb (Europe)</description>
 		<rom name="Beyond the Limit - Ultimate Climb (Europe).bin" size="576082416" crc="63b12a80" md5="ca478586fb8ac5c1344ec419f5124a80" sha1="6d456c74ac4046f98613962f03bdc27d95c8cf9d"/>
 		<rom name="Beyond the Limit - Ultimate Climb (Europe).cue" size="131" crc="5c7e145a" md5="768ec431b7ffc561b589331179cf79b3" sha1="7d3a2f9d35773cb5f9bf4dfb20cc0f627fc896f5"/>
+	</game>
+	<game name="Beyond the Meltdown (Germany)">
+		<category>Add-Ons</category>
+		<description>Beyond the Meltdown (Germany)</description>
+		<rom name="Beyond the Meltdown (Germany).bin" size="418065648" crc="93cb7975" md5="4d69b489398f3252abc857b036ae9ee5" sha1="232e55aabb3c628731731a17faf459906b7233d3"/>
+		<rom name="Beyond the Meltdown (Germany).cue" size="118" crc="c24f730b" md5="5b79df0798ada166f1d6f25dbee7f54e" sha1="485ded381a580aa651b030da9b582f614cfc847e"/>
 	</game>
 	<game name="Beyond the Spirit's Eye (USA) (Disc 1)">
 		<category>Games</category>
@@ -51150,11 +51156,11 @@
 		<rom name="F1 2000 (USA) (Rerelease).bin" size="647173968" crc="c83da8d7" md5="6e87ff1a330834967ca0802c035c402e" sha1="b472c6f609b48640aa1555567e25a187834d9c02"/>
 		<rom name="F1 2000 (USA) (Rerelease).cue" size="91" crc="b4e8c41f" md5="53fdd44b6691f63b9f1df61c47970002" sha1="baee271742d1d9b64ce666ef0cbc78014cfebfd5"/>
 	</game>
-	<game name="F1 2001 (Japan) (En,Ja)">
+	<game name="F1 2001 (Europe) (En,Fr,De,Nl)">
 		<category>Games</category>
-		<description>F1 2001 (Japan) (En,Ja)</description>
-		<rom name="F1 2001 (Japan) (En,Ja).bin" size="684716592" crc="c2f05d38" md5="5f9b023dcb6694c01ff7cd2408a7d580" sha1="26b85aa17a5522a1023242bf8621775b1f8c6e76"/>
-		<rom name="F1 2001 (Japan) (En,Ja).cue" size="89" crc="7ab00f13" md5="30fb482727a7f76f65e90ec2d6c422b1" sha1="2220bd19646d11d942ed8103a9034450c82e421a"/>
+		<description>F1 2001 (Europe) (En,Fr,De,Nl)</description>
+		<rom name="F1 2001 (Europe) (En,Fr,De,Nl).bin" size="705995136" crc="5740379c" md5="ca85f6c662adb3b64de9813e600b0c59" sha1="c85ecd7e158d97d543dd49833dac6dc69f4e27f3"/>
+		<rom name="F1 2001 (Europe) (En,Fr,De,Nl).cue" size="96" crc="a9f2389b" md5="e321f519a323dc0703365a559fb8d969" sha1="41241095d11e3c6e77fecfea47bd0432130c81da"/>
 	</game>
 	<game name="F1 2002 (USA)">
 		<category>Games</category>
@@ -81847,11 +81853,11 @@
 		<rom name="Kick Off 96 (Germany) (Track 2).bin" size="24966480" crc="f9232b2e" md5="01a908bd568f2633487acc4542299973" sha1="0ed259af14a03557becd4812d29e39eb5bb1d958"/>
 		<rom name="Kick Off 96 (Germany).cue" size="235" crc="c535c01b" md5="44363c3b5782cb19efdf278b22e734e8" sha1="66034ecbcb0abbcda5a58f3957931845c0ecf4a6"/>
 	</game>
-	<game name="Kick Off 97 (Europe) (Es,It,Sv)">
+	<game name="Kick Off 97 (USA) (En,Es)">
 		<category>Games</category>
-		<description>Kick Off 97 (Europe) (Es,It,Sv)</description>
-		<rom name="Kick Off 97 (Europe) (Es,It,Sv).bin" size="227548944" crc="6853a715" md5="f704ad69718f4332cf5df19cb8199695" sha1="0477a92231f810fd74d7700521645d5974643aa7"/>
-		<rom name="Kick Off 97 (Europe) (Es,It,Sv).cue" size="120" crc="df60d467" md5="13936198b3e1034c74001224eb0de4bb" sha1="1a61eaadbaf466030fa8cb302aae93468e4aef1b"/>
+		<description>Kick Off 97 (USA) (En,Es)</description>
+		<rom name="Kick Off 97 (USA) (En,Es).bin" size="287927136" crc="bd36e1b0" md5="d29a24bc0cfb36e8fe275c7535a61b87" sha1="c06a0d10b223b9a58928e9c9b20cc8f99fc06426"/>
+		<rom name="Kick Off 97 (USA) (En,Es).cue" size="114" crc="1abe6521" md5="ef4083937964fcb2b6837585adf2c8ff" sha1="5cc879a94e95a05f8d1f6af0ac478299af3d91e2"/>
 	</game>
 	<game name="Kick Off 98 (UK)">
 		<category>Games</category>
@@ -84244,6 +84250,12 @@
 		<description>Kuai Lai He Qoo Kaixin Xue (China)</description>
 		<rom name="Kuai Lai He Qoo Kaixin Xue (China).bin" size="47404560" crc="4474c91a" md5="cb2ebe058555610b911966b957cc19e4" sha1="528d57e350b6d45e608ac78ec02ec70ae52fb156"/>
 		<rom name="Kuai Lai He Qoo Kaixin Xue (China).cue" size="100" crc="88d943ff" md5="68573d658f9c34e0e4c7e41a1cecb264" sha1="a99e2a63ff71479b441b0903e5703301c82d5d4e"/>
+	</game>
+	<game name="Kuba (USA)">
+		<category>Games</category>
+		<description>Kuba (USA)</description>
+		<rom name="Kuba (USA).bin" size="635430432" crc="c5ccc1cd" md5="b49612e2ac2806653b3dc958e1225361" sha1="0e08ff878aec5294df0ca490b455a25271ffe98c"/>
+		<rom name="Kuba (USA).cue" size="76" crc="b2cd7df7" md5="a04ab1f051e199eef02b1d77127d0e2c" sha1="38eb31b71873ac0fdb61d439aa5d30797aef88dd"/>
 	</game>
 	<game name="Kudos - Legendy roka (Russia)">
 		<category>Games</category>
@@ -95047,6 +95059,12 @@
 		<rom name="Math Ace Jr. (USA) (Rerelease).bin" size="141747984" crc="29f80cdf" md5="7c2f18c95e57ec47bdb59c6b3304d2ac" sha1="c2409ce4a454fcb343a842a193c08212ccc7ef9a"/>
 		<rom name="Math Ace Jr. (USA) (Rerelease).cue" size="96" crc="732fdd59" md5="3174ecc5b144a1bbe2ab2e2f2dcf812a" sha1="0a80bfd31dd938bd2a456ad2f2c3a70390390846"/>
 	</game>
+	<game name="Math Advantage - Algebra I &amp; Algebra II (USA)">
+		<category>Educational</category>
+		<description>Math Advantage - Algebra I &amp; Algebra II (USA)</description>
+		<rom name="Math Advantage - Algebra I &amp; Algebra II (USA).bin" size="651496944" crc="60d93c21" md5="dd3b8b035f50766f302b9300d7d33cd6" sha1="c73907f0f26d855898a28c1cea0820e25aef78b2"/>
+		<rom name="Math Advantage - Algebra I &amp; Algebra II (USA).cue" size="111" crc="1e49f069" md5="cc8a58cf023ad5d1addd5c141c766b7b" sha1="c5807f599e2e221fe245436b7bcfa7d4ba6eb338"/>
+	</game>
 	<game name="Math Advantage - Algebra II &amp; Geometry (USA)">
 		<category>Educational</category>
 		<description>Math Advantage - Algebra II &amp; Geometry (USA)</description>
@@ -101056,6 +101074,12 @@
 		<rom name="Minigame Editor Edition (Switzerland) (Track 31).bin" size="12068112" crc="a56894b3" md5="90d520e4b2004dc44a11ebb42fb1b4b1" sha1="0acaf5f151eec2bc249a9119ff551cc366c81ab2"/>
 		<rom name="Minigame Editor Edition (Switzerland) (Track 32).bin" size="11790576" crc="1937a834" md5="31d1ad59ba4d9a365b24eff0ed6ff8eb" sha1="8cbccae34f74a99fca5c4bc408b5fa9bfd35d944"/>
 		<rom name="Minigame Editor Edition (Switzerland).cue" size="4206" crc="4a800fcf" md5="cc870c9f97f6e13dac35d0a526f4ae21" sha1="9f9270ec2d8ebd02dd623be2061c9172f5d932ff"/>
+	</game>
+	<game name="Minigolf - The Game (USA)">
+		<category>Games</category>
+		<description>Minigolf - The Game (USA)</description>
+		<rom name="Minigolf - The Game (USA).bin" size="21229152" crc="c9d2dba0" md5="99e1e0950e49de867c342b31f2867763" sha1="64899a33d99e028c70d93a55b9208562c1b58722"/>
+		<rom name="Minigolf - The Game (USA).cue" size="91" crc="d97f577d" md5="08bb5150600eadd4c5c97e95e2dec8ec" sha1="fe5e1ec4354493cc426438a80d081e6b5b000d36"/>
 	</game>
 	<game name="Minigolf Top! (Argentina)">
 		<category>Games</category>
@@ -123641,6 +123665,12 @@
 		<category>Games</category>
 		<description>Punch Club (USA)</description>
 		<rom name="Punch Club (USA).iso" size="67960832" crc="4207e57f" md5="89206763a5082157e82babdfff5a5864" sha1="bf087faed7914a818f4589f84f2a9f002779afa4"/>
+	</game>
+	<game name="Punctuation Made Easy (USA)">
+		<category>Educational</category>
+		<description>Punctuation Made Easy (USA)</description>
+		<rom name="Punctuation Made Easy (USA).bin" size="266474544" crc="4f9bccf0" md5="6cb2bd3e96086f07ba3f714b0e364d6a" sha1="8474920bd2b8beddfdf7d3538eb3398421ba79bd"/>
+		<rom name="Punctuation Made Easy (USA).cue" size="93" crc="d81abe2a" md5="21e4125f601780d046fb312730fec67a" sha1="b111914077c59a9cd58678a2f4420abc0522765f"/>
 	</game>
 	<game name="Punisher, The (Russia)">
 		<category>Games</category>
@@ -163975,11 +164005,11 @@
 		<rom name="Transport Tycoon (USA).bin" size="4299456" crc="e6af4571" md5="5dd2f63e52059cae6718c52633927fc4" sha1="751d08de9b641e4022b1d77f50928ac2e520571c"/>
 		<rom name="Transport Tycoon (USA).cue" size="111" crc="93bef079" md5="8b22871c238141c1adba3eceb305e5f1" sha1="a1120124ff1961299f23b1615531576ba4bac4d9"/>
 	</game>
-	<game name="Transport Tycoon Deluxe (Europe) (En,Fr,De,Es) (Rerelease) (1999-08-25)">
+	<game name="Transport Tycoon Deluxe (USA)">
 		<category>Games</category>
-		<description>Transport Tycoon Deluxe (Europe) (En,Fr,De,Es) (Rerelease) (1999-08-25)</description>
-		<rom name="Transport Tycoon Deluxe (Europe) (En,Fr,De,Es) (Rerelease) (1999-08-25).bin" size="44906736" crc="5336f4b8" md5="cae306bad4fbac7f8c92a2e93d7f6570" sha1="d91916b765c22f93b4a610fc5b06e50e6eb40a16"/>
-		<rom name="Transport Tycoon Deluxe (Europe) (En,Fr,De,Es) (Rerelease) (1999-08-25).cue" size="137" crc="c6c81c13" md5="7dd26d80b0b2592faee840af472f5733" sha1="e4e8856e7303e2ab365be45d42823ad032d23f8d"/>
+		<description>Transport Tycoon Deluxe (USA)</description>
+		<rom name="Transport Tycoon Deluxe (USA).bin" size="48547632" crc="2f70b51e" md5="d92187fa0255b4e6925ed6efb71dbee8" sha1="9d8b345e29217a5d41f69dc415d36bdcce3596de"/>
+		<rom name="Transport Tycoon Deluxe (USA).cue" size="95" crc="5e5f0849" md5="756f4a5911c04585f056ae8add5c9b73" sha1="ced27f0dd7dd5214f2676f4df004d58cc518c825"/>
 	</game>
 	<game name="Trash It (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
