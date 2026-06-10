@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,765) (-y) [-aAbBcdkmMpPuv] (2026-06-09 03-00-51) (Retool)</description>
-		<version>2026-06-09 03-00-51</version>
-		<date>2026-06-09 03-33-41</date>
+		<description>IBM - PC compatible (25,779) (-y) [-aAbBcdkmMpPuv] (2026-06-09 22-47-52) (Retool)</description>
+		<version>2026-06-09 22-47-52</version>
+		<date>2026-06-10 03-32-36</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -14869,6 +14869,16 @@
 		<rom name="Barbie Crea Gioielli (Italy).bin" size="452496576" crc="b55914cf" md5="e7ebb573c354b30f9542613f7b447e56" sha1="2c58855cbf9ca2c7fc74ecf97448b30af668fd27"/>
 		<rom name="Barbie Crea Gioielli (Italy).cue" size="117" crc="ef3874fb" md5="f3b5d3623381e61335fd56a611a37104" sha1="bcadb5359f1cf6e8ef21f8396bb692be8650fbbc"/>
 	</game>
+	<game name="Barbie Detective - Giallo in Vacanza (Italy)">
+		<category>Games</category>
+		<description>Barbie Detective - Giallo in Vacanza (Italy)</description>
+		<rom name="Barbie Detective - Giallo in Vacanza (Italy) (Track 1).bin" size="575908368" crc="d3ff026a" md5="5374914d0aefc654be52075c1c3d0af8" sha1="d2875a99113136793aefe946a8d26f9db940ff3f"/>
+		<rom name="Barbie Detective - Giallo in Vacanza (Italy) (Track 2).bin" size="27252624" crc="38fa8abf" md5="afc7d3f9fa11a7c983a28dd2fd7909bb" sha1="e13eafa665c1c231b6fb8e02e5561fa60eb2fb7c"/>
+		<rom name="Barbie Detective - Giallo in Vacanza (Italy) (Track 3).bin" size="22854384" crc="8daf5865" md5="baed2ae7df53e6f03287812b406b64f9" sha1="3c05dad57088027156d068b79de547c2c6d8f4a1"/>
+		<rom name="Barbie Detective - Giallo in Vacanza (Italy) (Track 4).bin" size="18660768" crc="bc923baf" md5="7608c9147e6534b81f2de9c8ec541ed9" sha1="4dcf89e36d0dc6bdea30bf11d442833582db061c"/>
+		<rom name="Barbie Detective - Giallo in Vacanza (Italy) (Track 5).bin" size="27671280" crc="0a3fede6" md5="3bf2df97220606c05aa4d51a9054a47d" sha1="23689f4c1fe15c32b33547270b07deb5a057cbbe"/>
+		<rom name="Barbie Detective - Giallo in Vacanza (Italy).cue" size="672" crc="13d28557" md5="9eb2298c87b90394c77daae58e88970d" sha1="6f9c9e28fa557aefaa3eb8378c08d24bf76e851f"/>
+	</game>
 	<game name="Barbie Detective - Il Mistero del Luna Park! (Italy)">
 		<category>Games</category>
 		<description>Barbie Detective - Il Mistero del Luna Park! (Italy)</description>
@@ -22585,6 +22595,12 @@
 		<description>C&amp;C2 More Missions (Germany) (En,De)</description>
 		<rom name="C&amp;C2 More Missions (Germany) (En,De).bin" size="6442128" crc="fc62e2b6" md5="26c9ff9e2c89950b20cd713e5f3fd5c1" sha1="b6194c20843c85fde3bdff2d13fed418de6b4772"/>
 		<rom name="C&amp;C2 More Missions (Germany) (En,De).cue" size="102" crc="bf839349" md5="1588becc317d94614e0fcec5d4284b16" sha1="00c363a4f57c949f8f4c54fdd4687777193e9cc6"/>
+	</game>
+	<game name="C...and &amp; ...quer - C&amp;C Mission CD 1 (Germany)">
+		<category>Add-Ons</category>
+		<description>C...and &amp; ...quer - C&amp;C Mission CD 1 (Germany)</description>
+		<rom name="C...and &amp; ...quer - C&amp;C Mission CD 1 (Germany).bin" size="28475664" crc="67d3b90d" md5="c90788b7029dea170e7c9660dc5f0510" sha1="e7d3c3c06d43773b430a5b99c3b244660e1f8047"/>
+		<rom name="C...and &amp; ...quer - C&amp;C Mission CD 1 (Germany).cue" size="135" crc="9c3d6bc9" md5="a5535a8e5288b3f8c2deeb0b486dd939" sha1="25a3aa4528c690b25807da24dfb90169314f1614"/>
 	</game>
 	<game name="C.H.A.O.S. Continuum &amp; Wrath of the Demon, The (USA)">
 		<category>Games</category>
@@ -48528,6 +48544,18 @@
 		<rom name="Enigme de Maitre Lu, L' (France).bin" size="709666608" crc="6efa8175" md5="49c10dfa2817e012533f0050486896b6" sha1="58677733e6207e4586c600257bca5d4847e9b29b"/>
 		<rom name="Enigme de Maitre Lu, L' (France).cue" size="98" crc="8c7bd6d7" md5="166954c46fbc9a8f4539f4add0b03f19" sha1="e54e5c3f09844822f4708cabe8ce3ab14fb99286"/>
 	</game>
+	<game name="Enigmes et Objets Caches - L'ile Mysterieuse (France)">
+		<category>Games</category>
+		<description>Enigmes et Objets Caches - L'ile Mysterieuse (France)</description>
+		<rom name="Enigmes et Objets Caches - L'ile Mysterieuse (France).bin" size="820793904" crc="2c8131c3" md5="620d99ac901f7f0a0819002a7a576831" sha1="b90387ee75c488ee04369a6be0ba48d870149aec"/>
+		<rom name="Enigmes et Objets Caches - L'ile Mysterieuse (France).cue" size="119" crc="e6b7f334" md5="329121a80eec05837728b668c383d1e3" sha1="a56b7a9b8b48dd391472525635cfe6773c70c0f2"/>
+	</game>
+	<game name="Enigmes et Objets Caches 2 - La legende de Papeeth (France)">
+		<category>Games</category>
+		<description>Enigmes et Objets Caches 2 - La legende de Papeeth (France)</description>
+		<rom name="Enigmes et Objets Caches 2 - La legende de Papeeth (France).bin" size="118498464" crc="92cee64d" md5="b445ab559066a21f07513f819639a830" sha1="0187c6592dabcf678cfb3e8fb106288b9eff1169"/>
+		<rom name="Enigmes et Objets Caches 2 - La legende de Papeeth (France).cue" size="125" crc="65406e6a" md5="2ccc5a75fc618714d7df40c09417e1cd" sha1="a080d6a4fd13c57161711f46d4bcd5e90040d7ec"/>
+	</game>
 	<game name="Enigmo (USA)">
 		<category>Games</category>
 		<description>Enigmo (USA)</description>
@@ -48811,11 +48839,11 @@
 		<rom name="Eroberer, Die (Germany).bin" size="108203760" crc="fc5b81b9" md5="65a6113697fd1baae48a9830a5b9e3b2" sha1="4df664a2410d4bcb549ccb3d4ecd9777369bd902"/>
 		<rom name="Eroberer, Die (Germany).cue" size="89" crc="3da0d442" md5="5a29819f090e2b97ce14de7dbddb88a4" sha1="3fcdbb9ebe27a81fe3f17b2bfb87e36c78778ffd"/>
 	</game>
-	<game name="Erotic Empire (Russia)">
+	<game name="Erotic Empire (Italy)">
 		<category>Games</category>
-		<description>Erotic Empire (Russia)</description>
-		<rom name="Erotic Empire (Russia).bin" size="768450144" crc="2a782527" md5="beff0adc8c60a02fc7b90e029d46908f" sha1="0f98c2b45aad9d25bd03a772d2289438dc63b3e7"/>
-		<rom name="Erotic Empire (Russia).cue" size="88" crc="86ea4f61" md5="8ac3f1676a76f589c5feb453d2617862" sha1="b46bb1de1c2906147c7bbbae3d1e202a2cf656a8"/>
+		<description>Erotic Empire (Italy)</description>
+		<rom name="Erotic Empire (Italy).bin" size="792889776" crc="fab2835f" md5="aa01edb978235b2b79187239655c62e8" sha1="a59f448b8983317867353969cd9bbfd861222cc4"/>
+		<rom name="Erotic Empire (Italy).cue" size="87" crc="c9f727ca" md5="7a0c3bb4045bb685e7e8ef09855bba9f" sha1="5e5366a179e48c2be05dd19400d3b99ddd7b5402"/>
 	</game>
 	<game name="Erotic Empire - Macht, Intrigen, Koerbchengroesse (Germany)">
 		<category>Games</category>
@@ -56079,6 +56107,20 @@
 		<rom name="Flygande Start - Foersta Klass (Sweden) (Track 7).bin" size="28821408" crc="ceb72adf" md5="a7ac82b5d79aa82bd8d6b7c21ea83faa" sha1="819ccdedbdbeaf84fa67f50f74eb9748b67b14a3"/>
 		<rom name="Flygande Start - Foersta Klass (Sweden).cue" size="913" crc="7a6470b8" md5="47cc755ba5b4e600c44bfcba93534800" sha1="a85352a245f94afa19eff282eadd17a581db7ecb"/>
 	</game>
+	<game name="Flygande Start - Franska (Sweden) (Fr,Sv)">
+		<category>Educational</category>
+		<description>Flygande Start - Franska (Sweden) (Fr,Sv)</description>
+		<rom name="Flygande Start - Franska (Sweden) (Fr,Sv) (Track 1).bin" size="560702688" crc="22259ada" md5="bb7d2c39181c7d6c3935ab7ab661a729" sha1="624caa91c834748a733013f7ac96298091db3d81"/>
+		<rom name="Flygande Start - Franska (Sweden) (Fr,Sv) (Track 2).bin" size="21043344" crc="0ce5ca9b" md5="f0f8559ade326df7523aae80f466f096" sha1="f0952f64c9218b93e6a16460a4cf58c2458c8ae8"/>
+		<rom name="Flygande Start - Franska (Sweden) (Fr,Sv) (Track 3).bin" size="15866592" crc="e520744b" md5="29de6ada0f7bc62836fa94329102b0cd" sha1="9b2e6258178e62bc156f530f84ed4fae0db07fbd"/>
+		<rom name="Flygande Start - Franska (Sweden) (Fr,Sv) (Track 4).bin" size="2930592" crc="1c74f012" md5="c73e37293a26cfe03411151130bcf5d0" sha1="7b1f6f4c908e2ac72666b72be2bf4252fac6096c"/>
+		<rom name="Flygande Start - Franska (Sweden) (Fr,Sv) (Track 5).bin" size="11440128" crc="251cc9dd" md5="51c686d7a8b67f87bb9e16cc69275668" sha1="22084ae568738d700526424d574d726dfafa35a1"/>
+		<rom name="Flygande Start - Franska (Sweden) (Fr,Sv) (Track 6).bin" size="5353152" crc="86513d4e" md5="e71ee3bbfa574eed36e6ba4d93b0ff02" sha1="63a9f04c4fb7cf294d4d819c542a76b8bc08e369"/>
+		<rom name="Flygande Start - Franska (Sweden) (Fr,Sv) (Track 7).bin" size="14380128" crc="4e4efe4e" md5="f98321d10054b750ece92524643051bd" sha1="1f1bc27e5d9449cf692a78c5b306ba85e46c2e6e"/>
+		<rom name="Flygande Start - Franska (Sweden) (Fr,Sv) (Track 8).bin" size="3118752" crc="be58f429" md5="abcdbedb44331f9679d10dbf5718cdd8" sha1="3d81bcbd3e20c4f36d3f580935301ebf3a41dccf"/>
+		<rom name="Flygande Start - Franska (Sweden) (Fr,Sv) (Track 9).bin" size="3323376" crc="3e772c84" md5="35cc114bd51cb5a47460af221153fb4a" sha1="858efa046edccb494dd37b99e7c1d3243bf64e2f"/>
+		<rom name="Flygande Start - Franska (Sweden) (Fr,Sv).cue" size="1197" crc="e0f2de99" md5="5e9cccff791b3a78ea39142f92715b6d" sha1="484d5f6803a83e48e4e64c0ca79474047865caab"/>
+	</game>
 	<game name="Flying Corps (USA, Europe) (Rerelease)">
 		<category>Games</category>
 		<description>Flying Corps (USA, Europe) (Rerelease)</description>
@@ -62216,6 +62258,12 @@
 		<description>Gochamaze no Arashi Shooting Edition! (Japan)</description>
 		<rom name="Gochamaze no Arashi Shooting Edition! (Japan).bin" size="222727344" crc="f1166023" md5="7181d94738c1881665137127f6e5e1c8" sha1="ec2bff014cf9c1c0b0542eda620f3ef7e4ba42c1"/>
 		<rom name="Gochamaze no Arashi Shooting Edition! (Japan).cue" size="111" crc="409b6e61" md5="c0d5194340873320e08b95528ebddd19" sha1="2cd896c6c9dd61e3efa5d16dbde5f9789722c693"/>
+	</game>
+	<game name="God jul och gott nytt ar oenskar Scandinavian PC Systems (Sweden)">
+		<category>Games</category>
+		<description>God jul och gott nytt ar oenskar Scandinavian PC Systems (Sweden)</description>
+		<rom name="God jul och gott nytt ar oenskar Scandinavian PC Systems (Sweden).bin" size="23360064" crc="e6a2eda6" md5="96fbed86cc8bd3d9765b132d875e71bf" sha1="158c6f3d687bd8e4bfda5dab2cb47acf6b30d1c8"/>
+		<rom name="God jul och gott nytt ar oenskar Scandinavian PC Systems (Sweden).cue" size="131" crc="5697a280" md5="d8826026067759b7141e625b594d3c2f" sha1="941278bb331af42f68a6de4a7dba616be7db4bfc"/>
 	</game>
 	<game name="God of Thunder (USA)">
 		<category>Games</category>
@@ -84448,6 +84496,12 @@
 		<description>Kurt - Der Fussballmanager '99 (Germany)</description>
 		<rom name="Kurt - Der Fussballmanager '99 (Germany).bin" size="813488592" crc="13577436" md5="cb2c2611c56ea79324992d9dd6b1747a" sha1="acf0aa5dfff3f372e1e1f30f89bd2d365202faff"/>
 		<rom name="Kurt - Der Fussballmanager '99 (Germany).cue" size="129" crc="ad5e24bc" md5="b3776f9d5f278418492cdd35c6c08d9f" sha1="4885278f412c797c87244f9af6785ff9bbd437ab"/>
+	</game>
+	<game name="Kurutta Kajitsu (Japan) (En,Ja,Zh)">
+		<category>Games</category>
+		<description>Kurutta Kajitsu (Japan) (En,Ja,Zh)</description>
+		<rom name="Kurutta Kajitsu (Japan) (En,Ja,Zh).bin" size="122525088" crc="18b85814" md5="3f049a4eae3739941f7264e4660cb9e2" sha1="3c669bcaf68e7a033d606dcb3f7aecc3be2b4973"/>
+		<rom name="Kurutta Kajitsu (Japan) (En,Ja,Zh).cue" size="100" crc="92fafa9b" md5="a4215f40f33afc51c6a744df2ea15632" sha1="a25de29dcbe864542aa146fc2f5d4eef464f66fd"/>
 	</game>
 	<game name="Kuryatnik (Russia)">
 		<category>Games</category>
@@ -109553,6 +109607,12 @@
 		<description>NiBiRu - Age of Secrets (USA, Canada) (Disc 2)</description>
 		<rom name="NiBiRu - Age of Secrets (USA, Canada) (Disc 2).bin" size="329263536" crc="578c8972" md5="499d5944a3966c3acc8af0f64ad68b03" sha1="08fcad55ed62c1a2117ff354f0c3a6fd147a22ca"/>
 		<rom name="NiBiRu - Age of Secrets (USA, Canada) (Disc 2).cue" size="112" crc="d3593ab3" md5="e2a6c5eef279cce291a65bc6165b34fe" sha1="9edecd367a5cae74f2d78083522dd2a54577f2a0"/>
+	</game>
+	<game name="Nice! Billiard (Japan)">
+		<category>Games</category>
+		<description>Nice! Billiard (Japan)</description>
+		<rom name="Nice! Billiard (Japan).bin" size="24844176" crc="ec8d1075" md5="011bda23523dffbc69fda3fb276e987b" sha1="2f847f1f278209148cb47e9d38a60180121bbbd4"/>
+		<rom name="Nice! Billiard (Japan).cue" size="88" crc="b92dbc12" md5="2142fc66869f43d29d2bef6f0a9452b5" sha1="dd7b0f92d33182c9bc9a5530f985af161eb6cf00"/>
 	</game>
 	<game name="Nichibutsu Early Collection (Japan)">
 		<category>Games</category>
@@ -143135,6 +143195,12 @@
 		<rom name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 1) (Track 10).bin" size="27847680" crc="79f0d60a" md5="3b8f74afabf29b3331f626788f7fd8cb" sha1="6a70caa2f183def667fd1a0fec188bbe4b94bac2"/>
 		<rom name="Siedler II, Die - Veni, Vidi, Vici (Germany) (Rev 1).cue" size="1475" crc="e55d496b" md5="1bc1cf833b5cc34657d870213d744393" sha1="97e17388cf8d05e0ab5ac60d864772c5bd8c3622"/>
 	</game>
+	<game name="Siedler II, Die-... kehren zurueck (Germany)">
+		<category>Add-Ons</category>
+		<description>Siedler II, Die-... kehren zurueck (Germany)</description>
+		<rom name="Siedler II, Die-... kehren zurueck (Germany).bin" size="39017328" crc="383b9164" md5="98583efa625026e8c801d3eb5a06c1df" sha1="010a0c6c094d9f9ed85ac1a7effc7f3d10eedb04"/>
+		<rom name="Siedler II, Die-... kehren zurueck (Germany).cue" size="133" crc="7da46e98" md5="b976b9d59ff97972c5bff99657cd8b50" sha1="eca32e49de216f5671d6cbc315f758357d8200a2"/>
+	</game>
 	<game name="Siedler III, Die (Germany) (Disc 1)">
 		<category>Games</category>
 		<description>Siedler III, Die (Germany) (Disc 1)</description>
@@ -146733,11 +146799,11 @@
 		<rom name="Smeshariki - V poiskax Bibi (Russia).bin" size="785535072" crc="dd20b364" md5="c31c042b6bff52229b1b00bd22a49bed" sha1="42f6e07eecefa97005a255b15528a7b287359451"/>
 		<rom name="Smeshariki - V poiskax Bibi (Russia).cue" size="102" crc="fe55ec2e" md5="9ae26f0fc6b16efe4404efc9ef6370a8" sha1="cd513f62220898d47d92e9f00650e033726b71a6"/>
 	</game>
-	<game name="Smieciogra (Poland)">
+	<game name="Smieciogra (Poland) (2005-03-02)">
 		<category>Games</category>
-		<description>Smieciogra (Poland)</description>
-		<rom name="Smieciogra (Poland).bin" size="213829728" crc="c0fc7dd5" md5="6297f16840c5460a5f61fa7ca7ad5695" sha1="bd0c1ec510c0e191565e625e0c1d504ce8b00740"/>
-		<rom name="Smieciogra (Poland).cue" size="85" crc="b09d3d06" md5="e411af6255f6a13b924f78773591848b" sha1="71503f9d7182656b0ff911b0faab761af0fce56c"/>
+		<description>Smieciogra (Poland) (2005-03-02)</description>
+		<rom name="Smieciogra (Poland) (2005-03-02).bin" size="213829728" crc="c0fc7dd5" md5="6297f16840c5460a5f61fa7ca7ad5695" sha1="bd0c1ec510c0e191565e625e0c1d504ce8b00740"/>
+		<rom name="Smieciogra (Poland) (2005-03-02).cue" size="98" crc="834401d7" md5="ce9648d2fa060c23685d0653258ab837" sha1="90b43b82ba2958261885818d31f63b065d824350"/>
 	</game>
 	<game name="Smoking Guns (USA)">
 		<category>Games</category>
@@ -157986,6 +158052,13 @@
 		<rom name="Teo - Mou Hitotsu no Chikyuu - Fin Fin (Kihon Set - Amiru no Mori to Tsubu no Hayashi) (Japan).bin" size="586163088" crc="a99677a2" md5="d0e986aa1e201be3db8d9a8fa7b6af22" sha1="e19302637939da16101e6f7e5c47dcb10fd02626"/>
 		<rom name="Teo - Mou Hitotsu no Chikyuu - Fin Fin (Kihon Set - Amiru no Mori to Tsubu no Hayashi) (Japan).cue" size="183" crc="998c460c" md5="c6a628f275d497fcf6f041b54f68efce" sha1="b9320802a8b15457797ae7a41e17b3bfe2bc3ff2"/>
 	</game>
+	<game name="Teo Mavik nella Firenze del Magnifico (Italy)">
+		<category>Games</category>
+		<description>Teo Mavik nella Firenze del Magnifico (Italy)</description>
+		<rom name="Teo Mavik nella Firenze del Magnifico (Italy) (Track 1).bin" size="192391248" crc="f98ea6ad" md5="84de0eed1ac1c3fb2db420b317dbdfa1" sha1="c811f0befb78b27a8b8b4d32248dd43f37d5c1b7"/>
+		<rom name="Teo Mavik nella Firenze del Magnifico (Italy) (Track 2).bin" size="30611280" crc="61e4bec1" md5="4cf066f677fa2f721476f5893efa77c8" sha1="cc9c623fde4c8e7893c1c32456897f9f9e82e95b"/>
+		<rom name="Teo Mavik nella Firenze del Magnifico (Italy).cue" size="260" crc="376226e1" md5="607b598cdb3b25d9fb53bb60e8e57926" sha1="1fe567a916d34ccbb0d9b4cf16edbcb0a54370b7"/>
+	</game>
 	<game name="Teoriya kroshechnogo vzryva (Russia)">
 		<category>Games</category>
 		<description>Teoriya kroshechnogo vzryva (Russia)</description>
@@ -160303,6 +160376,18 @@
 		<description>Titanic - Un Voyage Interactif (France)</description>
 		<rom name="Titanic - Un Voyage Interactif (France).bin" size="753580800" crc="b6d2cc64" md5="d95b482e6428f586a350a24dddf5de58" sha1="bbb1d559bc455daeb7088c8b9e6707e7c930167f"/>
 		<rom name="Titanic - Un Voyage Interactif (France).cue" size="105" crc="cf81d220" md5="7ce8d5641e5508e24bd1f8f57eec3bda" sha1="4b8e9627b1f19277f347e6d1cb87429281321875"/>
+	</game>
+	<game name="Titanic - Une Aventure Hors du Temps (France) (Disc 1)">
+		<category>Games</category>
+		<description>Titanic - Une Aventure Hors du Temps (France) (Disc 1)</description>
+		<rom name="Titanic - Une Aventure Hors du Temps (France) (Disc 1).bin" size="771049104" crc="1ef789c0" md5="08dc613829484a2f6c0496a12e155cae" sha1="fc872648ae75ad4afc14dd23ea5d6befd2bdbe06"/>
+		<rom name="Titanic - Une Aventure Hors du Temps (France) (Disc 1).cue" size="120" crc="74e6994f" md5="1c622239f978ef260f5cb18f64afad53" sha1="d1381ee15b4ea827e8eda6f76aff8a489eac98cc"/>
+	</game>
+	<game name="Titanic - Une Aventure Hors du Temps (France) (Disc 2)">
+		<category>Games</category>
+		<description>Titanic - Une Aventure Hors du Temps (France) (Disc 2)</description>
+		<rom name="Titanic - Une Aventure Hors du Temps (France) (Disc 2).bin" size="749069664" crc="ca9df2f5" md5="036f4936bab9c07861ca72b45db2a65d" sha1="9ecd17f89168bda422744d29643d9eff47d45a26"/>
+		<rom name="Titanic - Une Aventure Hors du Temps (France) (Disc 2).cue" size="120" crc="75bbbf9e" md5="3a4b423ea067a894991f301fdbafa0b3" sha1="de7f3bfc55396ac63033573e7f75b29363c6678b"/>
 	</game>
 	<game name="Titanium Seal - 80 Shareware Mega Hits (USA)">
 		<category>Games</category>
@@ -164290,6 +164375,12 @@
 		<description>TriTryst (USA) (Rev 1)</description>
 		<rom name="TriTryst (USA) (Rev 1).bin" size="70197792" crc="8d1a3dd8" md5="07a9ea81c108457d5eacad4274fba551" sha1="f18e40787b15c4d2bd8b6e823f5bac322aaf6179"/>
 		<rom name="TriTryst (USA) (Rev 1).cue" size="111" crc="ece6b2dd" md5="15db5e73650bc4d86680fb16f522ff33" sha1="39d3a23faab90bc03c38441d51c88105b9372df7"/>
+	</game>
+	<game name="Trial by Magic (Germany)">
+		<category>Games</category>
+		<description>Trial by Magic (Germany)</description>
+		<rom name="Trial by Magic (Germany).bin" size="88999680" crc="c8ca323a" md5="4b799df3201f925faf4e9e5bca500d1c" sha1="401d4551f8d0984980bee021de1fe6503b869cf2"/>
+		<rom name="Trial by Magic (Germany).cue" size="113" crc="ebdd61fd" md5="4bbbf46281047d828cb00a2966f761d5" sha1="7fdf1490dbee5506404109f9d6679fc6897df048"/>
 	</game>
 	<game name="Trials 2 - Second Edition (Germany) (En,Fr,De,Es,It,Sv,Fi,Pl,Ru,Sk)">
 		<category>Games</category>
@@ -182081,6 +182172,12 @@
 		<description>Zhuti Yiyuan (China)</description>
 		<rom name="Zhuti Yiyuan (China).bin" size="245442960" crc="74c2ace8" md5="0792542b8d6da935dcbce1866975162a" sha1="3e8dc77aff72b98b5e584ae5717ceb19d750d87d"/>
 		<rom name="Zhuti Yiyuan (China).cue" size="109" crc="e7bfaadc" md5="a25c639e2046bba8d99d4e561a68a0c0" sha1="4ecff4d67690278a2dae354d7c06867808f7cd02"/>
+	</game>
+	<game name="ZibOuille - Neunoeuf en Cavale (France)">
+		<category>Games</category>
+		<description>ZibOuille - Neunoeuf en Cavale (France)</description>
+		<rom name="ZibOuille - Neunoeuf en Cavale (France).bin" size="752806992" crc="d87b05f6" md5="ece1fee519c45bab984422174f2f9d27" sha1="d7ec9b1381ac9a407fa4c6a9852e80385cb7b5b0"/>
+		<rom name="ZibOuille - Neunoeuf en Cavale (France).cue" size="105" crc="7f5c913a" md5="c9dc45b131d665deb346605c1041802a" sha1="7a587f8dd592b1ef075cc5eaa3171f6d96e50ca9"/>
 	</game>
 	<game name="Ziggurat (Australia)">
 		<category>Games</category>

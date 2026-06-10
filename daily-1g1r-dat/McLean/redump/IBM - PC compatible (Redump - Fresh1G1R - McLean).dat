@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,105) (-ly) [-aAbBcdDefkmMopPruv] (2026-06-09 03-00-51) (Retool)</description>
-		<version>2026-06-09 03-00-51</version>
-		<date>2026-06-09 03-27-46</date>
+		<description>IBM - PC compatible (13,106) (-ly) [-aAbBcdDefkmMopPruv] (2026-06-09 22-47-52) (Retool)</description>
+		<version>2026-06-09 22-47-52</version>
+		<date>2026-06-10 03-27-02</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -43464,6 +43464,12 @@
 		<description>Kung-Fu Hero - Akimbo Lee (Japan) (En,Ja,Es,Pt,Sv,No,Da,Fi,Is)</description>
 		<rom name="Kung-Fu Hero - Akimbo Lee (Japan) (En,Ja,Es,Pt,Sv,No,Da,Fi,Is).bin" size="582900864" crc="88e7dafa" md5="f9ff23fe292d73b39ba6fc9d53c7460d" sha1="98bf890f7be889a4087a3debe344f90bf2f2f2ac"/>
 		<rom name="Kung-Fu Hero - Akimbo Lee (Japan) (En,Ja,Es,Pt,Sv,No,Da,Fi,Is).cue" size="128" crc="98309916" md5="3aa984ed6ef8bc986de4eca032e7f676" sha1="ef51ea0ff2e64cc740185ab4a932d3c25e4674f8"/>
+	</game>
+	<game name="Kurutta Kajitsu (Japan) (En,Ja,Zh)">
+		<category>Games</category>
+		<description>Kurutta Kajitsu (Japan) (En,Ja,Zh)</description>
+		<rom name="Kurutta Kajitsu (Japan) (En,Ja,Zh).bin" size="122525088" crc="18b85814" md5="3f049a4eae3739941f7264e4660cb9e2" sha1="3c669bcaf68e7a033d606dcb3f7aecc3be2b4973"/>
+		<rom name="Kurutta Kajitsu (Japan) (En,Ja,Zh).cue" size="100" crc="92fafa9b" md5="a4215f40f33afc51c6a744df2ea15632" sha1="a25de29dcbe864542aa146fc2f5d4eef464f66fd"/>
 	</game>
 	<game name="Kyoshouden (Japan) (En,Ja,Zh,Ko)">
 		<category>Games</category>
