@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Encrypted) (2,148) (-ly) [-aAbBcdDefkmMopPruv] (20260607-144714) (Retool)</description>
-		<version>20260607-144714</version>
-		<date>2026-06-10 03-28-47</date>
+		<description>Nintendo - Nintendo DS (Encrypted) (2,148) (-ly) [-aAbBcdDefkmMopPruv] (20260609-002557) (Retool)</description>
+		<version>20260609-002557</version>
+		<date>2026-06-11 03-34-14</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -7524,7 +7524,7 @@
 	<game name="Pocket Book - My Personal Diary (Europe) (En,Fr,De,Es,It,Nl)" id="4160">
 		<category>Games</category>
 		<description>Pocket Book - My Personal Diary (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Pocket Book - My Personal Diary (Europe) (En,Fr,De,Es,It,Nl).nds" size="16777216" crc="e907d24c" md5="fcbc45e532b1ab5146ad38b4fb7b848f" sha1="dcdcc56192524c9bceaa35163011fc7fa0bb5217"/>
+		<rom name="Pocket Book - My Personal Diary (Europe) (En,Fr,De,Es,It,Nl).nds" size="16777216" crc="e907d24c" md5="fcbc45e532b1ab5146ad38b4fb7b848f" sha1="dcdcc56192524c9bceaa35163011fc7fa0bb5217" sha256="72c39ad949369e0589c50951a1e205ad5cecbc2f0aa97b86ac18f340516d78cb"/>
 	</game>
 	<game name="Pocoyo Racing (Europe) (En,Fr,De,Es,It)" id="6352">
 		<category>Games</category>

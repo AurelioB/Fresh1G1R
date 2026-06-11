@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,106) (-ly) [-aAbBcdDefkmMopPruv] (2026-06-09 22-47-52) (Retool)</description>
-		<version>2026-06-09 22-47-52</version>
-		<date>2026-06-10 03-27-02</date>
+		<description>IBM - PC compatible (13,108) (-ly) [-aAbBcdDefkmMopPruv] (2026-06-10 22-09-45) (Retool)</description>
+		<version>2026-06-10 22-09-45</version>
+		<date>2026-06-11 03-30-35</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -11626,6 +11626,11 @@
 		<description>Bus Driver (USA)</description>
 		<rom name="Bus Driver (USA).bin" size="74017440" crc="ac8ee96d" md5="ebda549f4fe833dbe7b3dbb988b09e5f" sha1="ba7e4f8c8c55050ec4a65afacff0408252488d45"/>
 		<rom name="Bus Driver (USA).cue" size="82" crc="871631db" md5="e8542ee463eff53e81ff1e359a8cd7c4" sha1="f3d7aae3848f1836bf25b046c2a752d721f0cbda"/>
+	</game>
+	<game name="Bus Simulator (UK)">
+		<category>Games</category>
+		<description>Bus Simulator (UK)</description>
+		<rom name="Bus Simulator (UK).iso" size="754352128" crc="5e4020ae" md5="647c6dc46a209f99656d1c4911c4a104" sha1="215c52e3b5009075b74d7855663dd3c7d9a3e8b5"/>
 	</game>
 	<game name="Bus-Simulator 2 (Europe)">
 		<category>Games</category>
@@ -27812,6 +27817,12 @@
 		<description>Falling Stars (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Falling Stars (Europe) (En,Fr,De,Es,It).bin" size="669231024" crc="4d178cfc" md5="f9cc4f44c10b484c4d7c12b972dafdf4" sha1="e1c9e742517ce6333eb2f9a7d740e397a0d81634"/>
 		<rom name="Falling Stars (Europe) (En,Fr,De,Es,It).cue" size="105" crc="0cc56677" md5="8491513c002904d20e43bde6612c105b" sha1="8fa2693c67e685ba1c4232500db63bdb7c656c96"/>
+	</game>
+	<game name="Fallout (Europe) (1.2)">
+		<category>Games</category>
+		<description>Fallout (Europe) (1.2)</description>
+		<rom name="Fallout (Europe) (1.2).bin" size="717717504" crc="bad34b3b" md5="f87389781928ff1644635831adec1081" sha1="adb85db0d02fec1957255cc5a7e6f4f75b813a6f"/>
+		<rom name="Fallout (Europe) (1.2).cue" size="111" crc="c4423ca9" md5="ff58c0a49e1d62a049aef49d8d594ec3" sha1="6da315b6e6c67ff8e92d43a5bba2117054b904cc"/>
 	</game>
 	<game name="Fallout (USA)">
 		<category>Games</category>
@@ -85664,10 +85675,10 @@
 		<description>Unreal Tournament III (Europe) (En,Fr,De,Es,It) (Disc 1) (Sold Out Software)</description>
 		<rom name="Unreal Tournament III (Europe) (En,Fr,De,Es,It) (Disc 1) (Sold Out Software).iso" size="7451344896" crc="7a720cf7" md5="34c71127eb476b68b19c1fef8979c6f9" sha1="6d527ead3b69a9dee6f04dec130fe50a36a1fae8"/>
 	</game>
-	<game name="Unreal Tournament III (USA) (En,Fr,De,Es,It)">
+	<game name="Unreal Tournament III (USA, Canada) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Unreal Tournament III (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Unreal Tournament III (USA) (En,Fr,De,Es,It).iso" size="7368441856" crc="65b30e3d" md5="886db95bfd3b0e45739c91ef447565e6" sha1="d591124299fe8f4f450e461149b3674907c8576d"/>
+		<description>Unreal Tournament III (USA, Canada) (En,Fr,De,Es,It)</description>
+		<rom name="Unreal Tournament III (USA, Canada) (En,Fr,De,Es,It).iso" size="7368441856" crc="65b30e3d" md5="886db95bfd3b0e45739c91ef447565e6" sha1="d591124299fe8f4f450e461149b3674907c8576d"/>
 	</game>
 	<game name="Untold Secrets - Lost in Time (USA)">
 		<category>Games</category>

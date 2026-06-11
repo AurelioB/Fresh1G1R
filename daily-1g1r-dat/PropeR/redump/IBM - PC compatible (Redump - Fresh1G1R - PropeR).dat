@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,779) (-y) [-aAbBcdkmMpPuv] (2026-06-09 22-47-52) (Retool)</description>
-		<version>2026-06-09 22-47-52</version>
-		<date>2026-06-10 03-32-36</date>
+		<description>IBM - PC compatible (25,780) (-y) [-aAbBcdkmMpPuv] (2026-06-10 22-09-45) (Retool)</description>
+		<version>2026-06-10 22-09-45</version>
+		<date>2026-06-11 03-36-25</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -14237,12 +14237,6 @@
 		<rom name="Baldur's Gate &amp; Tales of the Sword Coast - Manuals &amp; Patches (Europe).bin" size="109269216" crc="afc1b9f9" md5="37a07c52c2c56a594984135b8170843c" sha1="91aff42afe1ab54653cce1df38413197abf2e366"/>
 		<rom name="Baldur's Gate &amp; Tales of the Sword Coast - Manuals &amp; Patches (Europe).cue" size="135" crc="69dc7d69" md5="beed149cf35e9aa8ebaf1f7d628ef456" sha1="9eeaf3370d2488ae0bf0d36f1e8f9ff13d0667e8"/>
 	</game>
-	<game name="Baldur's Gate (Europe) (Manuals &amp; Patches)">
-		<category>Bonus Discs</category>
-		<description>Baldur's Gate (Europe) (Manuals &amp; Patches)</description>
-		<rom name="Baldur's Gate (Europe) (Manuals &amp; Patches).bin" size="71580768" crc="c659345d" md5="c1ba388363324850955045d9f6f9da5a" sha1="20278bd5eccb4e85db99b706145835cb2d9942da"/>
-		<rom name="Baldur's Gate (Europe) (Manuals &amp; Patches).cue" size="108" crc="585f6802" md5="b4ce98b2c0088632c0f23bc3680ed0d6" sha1="e2105600fb83d4bd72848b074ed0abca9a078b7b"/>
-	</game>
 	<game name="Baldur's Gate (Germany) (Rerelease)">
 		<category>Games</category>
 		<description>Baldur's Gate (Germany) (Rerelease)</description>
@@ -22278,6 +22272,11 @@
 		<description>Bus Driver (USA)</description>
 		<rom name="Bus Driver (USA).bin" size="74017440" crc="ac8ee96d" md5="ebda549f4fe833dbe7b3dbb988b09e5f" sha1="ba7e4f8c8c55050ec4a65afacff0408252488d45"/>
 		<rom name="Bus Driver (USA).cue" size="82" crc="871631db" md5="e8542ee463eff53e81ff1e359a8cd7c4" sha1="f3d7aae3848f1836bf25b046c2a752d721f0cbda"/>
+	</game>
+	<game name="Bus Simulator (UK)">
+		<category>Games</category>
+		<description>Bus Simulator (UK)</description>
+		<rom name="Bus Simulator (UK).iso" size="754352128" crc="5e4020ae" md5="647c6dc46a209f99656d1c4911c4a104" sha1="215c52e3b5009075b74d7855663dd3c7d9a3e8b5"/>
 	</game>
 	<game name="Bus-Simulator 2 (Europe)">
 		<category>Games</category>
@@ -52221,6 +52220,12 @@
 		<description>Falling Stars (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Falling Stars (Europe) (En,Fr,De,Es,It).bin" size="669231024" crc="4d178cfc" md5="f9cc4f44c10b484c4d7c12b972dafdf4" sha1="e1c9e742517ce6333eb2f9a7d740e397a0d81634"/>
 		<rom name="Falling Stars (Europe) (En,Fr,De,Es,It).cue" size="105" crc="0cc56677" md5="8491513c002904d20e43bde6612c105b" sha1="8fa2693c67e685ba1c4232500db63bdb7c656c96"/>
+	</game>
+	<game name="Fallout (Europe) (1.2)">
+		<category>Games</category>
+		<description>Fallout (Europe) (1.2)</description>
+		<rom name="Fallout (Europe) (1.2).bin" size="717717504" crc="bad34b3b" md5="f87389781928ff1644635831adec1081" sha1="adb85db0d02fec1957255cc5a7e6f4f75b813a6f"/>
+		<rom name="Fallout (Europe) (1.2).cue" size="111" crc="c4423ca9" md5="ff58c0a49e1d62a049aef49d8d594ec3" sha1="6da315b6e6c67ff8e92d43a5bba2117054b904cc"/>
 	</game>
 	<game name="Fallout (USA)">
 		<category>Games</category>
@@ -85894,11 +85899,11 @@
 		<rom name="Lattjo Lajban - Serie 5 (Sweden) (5B).bin" size="615791232" crc="703cccf4" md5="1c590cc3deb186171199a0c3eda2f5a7" sha1="0398bf6f1639cb3bdc8b9d27af63da3561434d57"/>
 		<rom name="Lattjo Lajban - Serie 5 (Sweden) (5B).cue" size="103" crc="f97215b5" md5="48f70d7ab895db8278690da096c775cd" sha1="9a73f7a5e4f7ae1723b887fbc2e8671ce3b8bfeb"/>
 	</game>
-	<game name="Lattjo Lajban - Serie 6 (Sweden)">
+	<game name="Lattjo Lajban - Serie 6 (Sweden) (6B)">
 		<category>Games</category>
-		<description>Lattjo Lajban - Serie 6 (Sweden)</description>
-		<rom name="Lattjo Lajban - Serie 6 (Sweden).bin" size="698259408" crc="6ec03347" md5="53d2ede1efbfba49a9ff7eadacbd3a23" sha1="5b0d3889a496954fe6752159be8a5f469ae8ec38"/>
-		<rom name="Lattjo Lajban - Serie 6 (Sweden).cue" size="98" crc="16527ed6" md5="6f5a58252e306442c7269366d27e416c" sha1="462454eea081243a70a39112f2298695698a341f"/>
+		<description>Lattjo Lajban - Serie 6 (Sweden) (6B)</description>
+		<rom name="Lattjo Lajban - Serie 6 (Sweden) (6B).bin" size="696267264" crc="087a6ee3" md5="3d3bdd06cb9c7a2fbae126823344c55d" sha1="58128053ef21da237ca6319fbf6799fef3611afe"/>
+		<rom name="Lattjo Lajban - Serie 6 (Sweden) (6B).cue" size="103" crc="d735e437" md5="7b04aa503d18097512e92c425139467c" sha1="479312ae27f77990a1615c14ac768a068610030e"/>
 	</game>
 	<game name="Lattjo Lajban - Serie 7 (Sweden)">
 		<category>Games</category>
@@ -94082,11 +94087,11 @@
 		<rom name="Manuals &amp; Patch Disc (UK).bin" size="164945760" crc="3a8e8583" md5="124e2921e0a3b4839723f6cc5482f06e" sha1="f347e888f28ae6f0929a4ed7089e19e5a46d6b05"/>
 		<rom name="Manuals &amp; Patch Disc (UK).cue" size="91" crc="1e8d917c" md5="0e4a8070510b4eeeb0d52b98381853e5" sha1="8b3dd4f719f67ebd05c437f81f15c99f2fa56b2a"/>
 	</game>
-	<game name="Manuals &amp; Patches (Europe)">
+	<game name="Manuals &amp; Patches (Europe) (2001-03-07)">
 		<category>Bonus Discs</category>
-		<description>Manuals &amp; Patches (Europe)</description>
-		<rom name="Manuals &amp; Patches (Europe).bin" size="101131296" crc="bb15eecc" md5="f408b26d7a90855ccdf26bf9e2ff7183" sha1="e8df87009607024a834ad12c521693a18ab9e263"/>
-		<rom name="Manuals &amp; Patches (Europe).cue" size="92" crc="c93b788a" md5="b580d02a0bf5ceb3c40c255421859bf8" sha1="a3aadd588f695df27c0358785f4b3385f082c4e1"/>
+		<description>Manuals &amp; Patches (Europe) (2001-03-07)</description>
+		<rom name="Manuals &amp; Patches (Europe) (2001-03-07).bin" size="71580768" crc="c659345d" md5="c1ba388363324850955045d9f6f9da5a" sha1="20278bd5eccb4e85db99b706145835cb2d9942da"/>
+		<rom name="Manuals &amp; Patches (Europe) (2001-03-07).cue" size="105" crc="23f0ffed" md5="69d0d7ff9161f4dd7e593ea089fbb869" sha1="d26ff55c6f4ff24fe9cfcff2612ec96138eee19d"/>
 	</game>
 	<game name="Manx TT SuperBike (USA) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -167978,10 +167983,10 @@
 		<rom name="Unreal Tournament III (Poland) (Plyta Dodatkowa).bin" size="599176704" crc="de19bc5e" md5="c8174bb495520814b8b688d8641c3300" sha1="06598ec494568fca146a680e08da7f2d097015da"/>
 		<rom name="Unreal Tournament III (Poland) (Plyta Dodatkowa).cue" size="114" crc="8821027a" md5="0c00a986ff55ad5fdc7065e5f944fa82" sha1="7036dff8b4a9ef69ff9c7ec305073936b74e62ff"/>
 	</game>
-	<game name="Unreal Tournament III (USA) (En,Fr,De,Es,It)">
+	<game name="Unreal Tournament III (USA, Canada) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Unreal Tournament III (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Unreal Tournament III (USA) (En,Fr,De,Es,It).iso" size="7368441856" crc="65b30e3d" md5="886db95bfd3b0e45739c91ef447565e6" sha1="d591124299fe8f4f450e461149b3674907c8576d"/>
+		<description>Unreal Tournament III (USA, Canada) (En,Fr,De,Es,It)</description>
+		<rom name="Unreal Tournament III (USA, Canada) (En,Fr,De,Es,It).iso" size="7368441856" crc="65b30e3d" md5="886db95bfd3b0e45739c91ef447565e6" sha1="d591124299fe8f4f450e461149b3674907c8576d"/>
 	</game>
 	<game name="Unten Douraku 2 - Kansai Kuukou-sen - 223-kei Kankuu Kaisoku, Haruka (Japan)">
 		<category>Games</category>
