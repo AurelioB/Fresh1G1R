@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (13,108) (-ly) [-aAbBcdDefkmMopPruv] (2026-06-10 22-09-45) (Retool)</description>
-		<version>2026-06-10 22-09-45</version>
-		<date>2026-06-11 03-30-35</date>
+		<description>IBM - PC compatible (13,111) (-ly) [-aAbBcdDefkmMopPruv] (2026-06-11 23-58-03) (Retool)</description>
+		<version>2026-06-11 23-58-03</version>
+		<date>2026-06-12 03-28-40</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -20806,6 +20806,12 @@
 		<description>Dirt Track Racing (USA) (Rev 1)</description>
 		<rom name="Dirt Track Racing (USA) (Rev 1).bin" size="278608512" crc="2af4e3e7" md5="9335b161cc7fcb46d9759f79e05c44f2" sha1="9c3a0eb57795bc51d54df70478cc0d9bfc4c6c9e"/>
 		<rom name="Dirt Track Racing (USA) (Rev 1).cue" size="120" crc="4286ea7a" md5="925b9d703e6728cc5710a87cdcc7cad8" sha1="b85b2f8e2c44eac2b6d88222ea707cb9220f1f2e"/>
+	</game>
+	<game name="Dirt Track Racing - Australia (Australia)">
+		<category>Games</category>
+		<description>Dirt Track Racing - Australia (Australia)</description>
+		<rom name="Dirt Track Racing - Australia (Australia).bin" size="275866080" crc="88ba77ce" md5="e82fb243e24e68700ce165373e3ebafa" sha1="ba54e659ec29ff0929d16053332e27fa07e4dcb6"/>
+		<rom name="Dirt Track Racing - Australia (Australia).cue" size="107" crc="5d8f7091" md5="c48f28aa92470239c8e170502d41589e" sha1="f5213b103bb1ce52d61c937aff2c8eb16188a843"/>
 	</game>
 	<game name="Dirt Track Racing - Sprint Cars (USA) (v1.01)">
 		<category>Games</category>
@@ -81708,13 +81714,6 @@
 		<rom name="Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl) (Track 10).bin" size="5922336" crc="8c8c799f" md5="5ca497db3453e7447530ee56e9e0da7a" sha1="30246777fb85935f28294e3a9e314e369cd7f971"/>
 		<rom name="Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl).cue" size="1532" crc="e055ef02" md5="8481c1b33827d86ea5f4f04c7d50d197" sha1="ebf1d0fe96fdb22cf86bedb74fdee37d89895f82"/>
 	</game>
-	<game name="Tomak - Save the Earth,Again (Korea)">
-		<category>Games</category>
-		<description>Tomak - Save the Earth,Again (Korea)</description>
-		<rom name="Tomak - Save the Earth,Again (Korea) (Track 1).bin" size="294879648" crc="99c55898" md5="0efbdb49585104fa3b1590b8281161dd" sha1="1f5005c7ca47eddb2c2036686db8254832eb2e2e"/>
-		<rom name="Tomak - Save the Earth,Again (Korea) (Track 2).bin" size="32897424" crc="c57fd8b8" md5="24da535c9bdc74acb31617bfcfcb2bc9" sha1="ae98b0abec06da74bf3edef493c65c6041870905"/>
-		<rom name="Tomak - Save the Earth,Again (Korea).cue" size="242" crc="fd42f153" md5="675e8692bc5a5e98a97a2213cf7d7be6" sha1="ed6ad60198635739d26692b97f698a97ceec1dff"/>
-	</game>
 	<game name="Tomb Raider (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Ar) (2013)">
 		<category>Games</category>
 		<description>Tomb Raider (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Ar) (2013)</description>
@@ -87315,6 +87314,21 @@
 		<category>Games</category>
 		<description>WRC 2 - FIA World Rally Championship (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="WRC 2 - FIA World Rally Championship (Europe) (En,Fr,De,Es,It).iso" size="4088856576" crc="b9b95324" md5="23a73c62bd790df9ebb33050b7e538fb" sha1="4a2f6655349cacc138eb852f23f1bfa1c94dac21"/>
+	</game>
+	<game name="WRC 5 (Scandinavia) (Disc 1)">
+		<category>Games</category>
+		<description>WRC 5 (Scandinavia) (Disc 1)</description>
+		<rom name="WRC 5 (Scandinavia) (Disc 1).iso" size="7876509696" crc="65844322" md5="3ec5909ed95ee3b45332ae6175accfc8" sha1="c6a21d5d81920ead67e73071aaf7adee5a089437"/>
+	</game>
+	<game name="WRC 5 (Scandinavia) (Disc 2)">
+		<category>Games</category>
+		<description>WRC 5 (Scandinavia) (Disc 2)</description>
+		<rom name="WRC 5 (Scandinavia) (Disc 2).iso" size="7865171968" crc="5ddbe5aa" md5="2c6810bb018c023fb8fb4eb9ee75efd4" sha1="4a134776897cb434b02efd43574c79f516f6ae41"/>
+	</game>
+	<game name="WRC 5 (Scandinavia) (Disc 3)">
+		<category>Games</category>
+		<description>WRC 5 (Scandinavia) (Disc 3)</description>
+		<rom name="WRC 5 (Scandinavia) (Disc 3).iso" size="2882404352" crc="15e5357c" md5="30dd3d13bc0f671b5bd4d739705e37df" sha1="940629847e7cda690006aae4b5724f6fdbea132e"/>
 	</game>
 	<game name="WWE Raw (USA) (Disc 1)">
 		<category>Games</category>
