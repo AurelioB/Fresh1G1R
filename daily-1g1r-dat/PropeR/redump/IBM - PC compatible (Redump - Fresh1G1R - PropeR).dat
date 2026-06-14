@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,784) (-y) [-aAbBcdkmMpPuv] (2026-06-11 23-58-03) (Retool)</description>
-		<version>2026-06-11 23-58-03</version>
-		<date>2026-06-12 03-34-24</date>
+		<description>IBM - PC compatible (25,787) (-y) [-aAbBcdkmMpPuv] (2026-06-14 02-38-01) (Retool)</description>
+		<version>2026-06-14 02-38-01</version>
+		<date>2026-06-14 03-33-44</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1077,6 +1077,12 @@
 		<category>Games</category>
 		<description>2K Sports Major League Baseball 2K9 (USA)</description>
 		<rom name="2K Sports Major League Baseball 2K9 (USA).iso" size="6966214656" crc="b6f498b6" md5="416d0842dadea996a07a1ef4b344a237" sha1="081abaf361abaa8822e36402baf1e58002e31976"/>
+	</game>
+	<game name="3 Day Eventing - The Ultimate Riding Adventure (USA)">
+		<category>Games</category>
+		<description>3 Day Eventing - The Ultimate Riding Adventure (USA)</description>
+		<rom name="3 Day Eventing - The Ultimate Riding Adventure (USA).bin" size="729134112" crc="7da701e2" md5="b3e5dd22d6638e2fc11fd5d3be93eed7" sha1="22901400b6c7a3675d76ad8e1a034cb67b7b809c"/>
+		<rom name="3 Day Eventing - The Ultimate Riding Adventure (USA).cue" size="141" crc="93e0c939" md5="d805d512a83acbfa6d92ae22b501b394" sha1="089e73cb38210a99668b3052e2946642a98d1bc3"/>
 	</game>
 	<game name="3 Mega Games - Science-Fiction - Handbuecher (Germany)">
 		<category>Bonus Discs</category>
@@ -36116,7 +36122,7 @@
 		<category>Add-Ons</category>
 		<description>DeathMatch for Doom I &amp; II (USA)</description>
 		<rom name="DeathMatch for Doom I &amp; II (USA).bin" size="259260960" crc="51a4c744" md5="c4870c07c6d4ff5ee4ef39e4b3cb8e4c" sha1="3c48fb0d7555b192c471107a6055cc211647a067"/>
-		<rom name="DeathMatch for Doom I &amp; II (USA).cue" size="98" crc="05e79f3a" md5="7ef454d08792b8584127baa22a765ea7" sha1="90698b450402c5ba3f885fb0d850a7f2747ba985"/>
+		<rom name="DeathMatch for Doom I &amp; II (USA).cue" size="121" crc="f8e269f8" md5="8921a30a86c0846db04dc730aa31cf01" sha1="19dff48fcee6be09e8b4b43ae78ec9e85e8ed14f"/>
 	</game>
 	<game name="Deathday Collection (Canada)">
 		<category>Add-Ons</category>
@@ -38273,15 +38279,15 @@
 		<description>Diablo III (USA) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)</description>
 		<rom name="Diablo III (USA) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso" size="8165031936" crc="3723b003" md5="b53b6bd69abba11530219aac53b2a302" sha1="61b4b08c02a32a05c45939b623295dd1e36815f0"/>
 	</game>
-	<game name="Diablo III - Battle Chest (USA) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 1)">
+	<game name="Diablo III - Battle Chest (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 1)">
 		<category>Games</category>
-		<description>Diablo III - Battle Chest (USA) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 1)</description>
-		<rom name="Diablo III - Battle Chest (USA) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 1).iso" size="7329808384" crc="2e42498c" md5="38914b272ac035f321a4af88473a311a" sha1="7f06d535040cbd7829615bff80a6e3e1fdfbccff"/>
+		<description>Diablo III - Battle Chest (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 1)</description>
+		<rom name="Diablo III - Battle Chest (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 1).iso" size="7329808384" crc="2e42498c" md5="38914b272ac035f321a4af88473a311a" sha1="7f06d535040cbd7829615bff80a6e3e1fdfbccff"/>
 	</game>
-	<game name="Diablo III - Battle Chest (USA) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 2)">
+	<game name="Diablo III - Battle Chest (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 2)">
 		<category>Games</category>
-		<description>Diablo III - Battle Chest (USA) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 2)</description>
-		<rom name="Diablo III - Battle Chest (USA) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 2).iso" size="7488831488" crc="87c330df" md5="241ee8e8c7b43671e52c4acd81eb51e6" sha1="eabd6a5195b52ba48573a25ac4efa3827ff7ee9c"/>
+		<description>Diablo III - Battle Chest (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 2)</description>
+		<rom name="Diablo III - Battle Chest (USA, Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (Disc 2).iso" size="7488831488" crc="87c330df" md5="241ee8e8c7b43671e52c4acd81eb51e6" sha1="eabd6a5195b52ba48573a25ac4efa3827ff7ee9c"/>
 	</game>
 	<game name="Diablo III - Reaper of Souls (Russia) (Igrovoj)">
 		<category>Add-Ons</category>
@@ -73413,6 +73419,11 @@
 		<rom name="Idol Janshi Suchie-Pai Special (Japan).bin" size="22031184" crc="44a0898f" md5="0e94f1b0eeb8e136120c0784efa85d47" sha1="939462a456f4986d44f5fd7e75d92c20228fc049"/>
 		<rom name="Idol Janshi Suchie-Pai Special (Japan).cue" size="127" crc="328fd4b8" md5="ec2559040ef558403d1907e55037cd92" sha1="1cf5098bd01a77e2b430c8b3ab21dfe8c785fa87"/>
 	</game>
+	<game name="Idol Mahjong - Final Romance 2 - R - 4 Special (Japan)">
+		<category>Games</category>
+		<description>Idol Mahjong - Final Romance 2 - R - 4 Special (Japan)</description>
+		<rom name="Idol Mahjong - Final Romance 2 - R - 4 Special (Japan).iso" size="3388997632" crc="2548863c" md5="0baa6e447fb3f9457fed37b6db8d3410" sha1="8a3ea51d616c3af88793c281cfed14d337d4a65b"/>
+	</game>
 	<game name="Idol Mahou Shoujo Chiru Chiru Michiru - Kouhen (Japan)">
 		<category>Games</category>
 		<description>Idol Mahou Shoujo Chiru Chiru Michiru - Kouhen (Japan)</description>
@@ -107802,6 +107813,12 @@
 		<description>Narsillion - Leithian Another Story (Korea) (Play CD)</description>
 		<rom name="Narsillion - Leithian Another Story (Korea) (Play CD).bin" size="751320528" crc="5183cdac" md5="18d3ccde4b9f0e2e557aea7966ec5b8b" sha1="734cf130ba56ff5b21879f26f942858a60581cd6"/>
 		<rom name="Narsillion - Leithian Another Story (Korea) (Play CD).cue" size="119" crc="bfc9c896" md5="8555abd3c0cac29ab20fe1ccf590b597" sha1="c99a65229d34ffbac46a264872f6a8bd33f5a032"/>
+	</game>
+	<game name="Naru Mahjong featuring Libido7 (Japan)">
+		<category>Games</category>
+		<description>Naru Mahjong featuring Libido7 (Japan)</description>
+		<rom name="Naru Mahjong featuring Libido7 (Japan).bin" size="100757328" crc="e1fda68e" md5="96f7de043a45d534977a61d24af99e86" sha1="f893e214f9194667edaf0a88244946927886e09c"/>
+		<rom name="Naru Mahjong featuring Libido7 (Japan).cue" size="127" crc="0fde2730" md5="c40dd49ca76eac47c4a4b30c207f448d" sha1="6f1a9d2119eac9b2c19c22c54a877e77c88b70c4"/>
 	</game>
 	<game name="Naruto Shippuden - Ultimate Ninja Storm 3 Full Burst (Europe) (En,Fr,De,Es,It,Pt,Zh,Ru)">
 		<category>Games</category>
@@ -152136,6 +152153,12 @@
 		<rom name="Star Wars - X-Wing - CD-ROM Edition (Germany).bin" size="82987968" crc="0cc05a46" md5="889dd59b5f947a2398bfb9c56284532b" sha1="c5548c5e928b6104ae40dc5841769a6b91d351f2"/>
 		<rom name="Star Wars - X-Wing - CD-ROM Edition (Germany).cue" size="134" crc="28f3d60d" md5="9a3b4a96b7ca10b258d9bc1abdaa1d55" sha1="89ddf5d9e8c20b77e10c279e0b35504dbec646c1"/>
 	</game>
+	<game name="Star Wars - X-Wing - CD-ROM para coleccionistas (Spain)">
+		<category>Games</category>
+		<description>Star Wars - X-Wing - CD-ROM para coleccionistas (Spain)</description>
+		<rom name="Star Wars - X-Wing - CD-ROM para coleccionistas (Spain).bin" size="95486496" crc="0a9219e6" md5="d17505458ea9554b5eaf4d4c0528d89e" sha1="3dc5adc2faf3904cdcd42fe13cd7ed0ca4eef663"/>
+		<rom name="Star Wars - X-Wing - CD-ROM para coleccionistas (Spain).cue" size="121" crc="010de3b6" md5="4c10df1d13821159ef743ccdcb043a64" sha1="0ceeb10a580284d45f1fc009eb20b452b753d3a1"/>
+	</game>
 	<game name="Star Wars - X-Wing - Collector's CD-ROM &amp; Star Wars - X-Wing vs. TIE Fighter - Flight School (USA)">
 		<category>Games</category>
 		<description>Star Wars - X-Wing - Collector's CD-ROM &amp; Star Wars - X-Wing vs. TIE Fighter - Flight School (USA)</description>
@@ -152330,11 +152353,6 @@
 		<category>Games</category>
 		<description>Star Wars Jedi - Fallen Order (Poland) (Disc 7)</description>
 		<rom name="Star Wars Jedi - Fallen Order (Poland) (Disc 7).iso" size="7658209280" crc="66fc01a0" md5="6d6a023743e2b6a5f56ca81dad5cc975" sha1="54bd3099486a9c9faa06cc92d84d5735a4163291"/>
-	</game>
-	<game name="Star Wars The Clone Wars - Republic Heroes (Australia)">
-		<category>Games</category>
-		<description>Star Wars The Clone Wars - Republic Heroes (Australia)</description>
-		<rom name="Star Wars The Clone Wars - Republic Heroes (Australia).iso" size="5459574784" crc="3436b705" md5="c77c8db1028f83da8f634e8a189c57ef" sha1="062f8c919e89a47af5bf635d165473284e686650"/>
 	</game>
 	<game name="Star Wolves (Portugal) (Disc 1) (CD de Jogo)">
 		<category>Games</category>
@@ -183283,11 +183301,11 @@
 		<rom name="id Anthology (USA) (Disc 2) (Doom) (Rev 1).bin" size="223225968" crc="6ff080ba" md5="1f24387fb3ea227c44ce7a1b3e982f20" sha1="26856c342897ba02edb326f8657ef69429eaddc7"/>
 		<rom name="id Anthology (USA) (Disc 2) (Doom) (Rev 1).cue" size="131" crc="535b4387" md5="539ef2e3b56174232f9ddb57e3cfd6ee" sha1="128683f7e261db349ff2fccba14a9f1b3c7b2ebe"/>
 	</game>
-	<game name="id Stuff - WingMan Warrior Edition (Europe)">
+	<game name="id Stuff - WingMan Warrior Edition (USA)">
 		<category>Games</category>
-		<description>id Stuff - WingMan Warrior Edition (Europe)</description>
-		<rom name="id Stuff - WingMan Warrior Edition (Europe).bin" size="79737504" crc="bb73e601" md5="33de2ca4d2be3a554ece07b79cee6112" sha1="5a00ed840b43891488efc4d16162ee8ef7d53d99"/>
-		<rom name="id Stuff - WingMan Warrior Edition (Europe).cue" size="124" crc="08fe0d7b" md5="23405b4f1c504c1856db9d3c9256d0d0" sha1="46174437a9824e049b6fd1748c07b5bc54584ace"/>
+		<description>id Stuff - WingMan Warrior Edition (USA)</description>
+		<rom name="id Stuff - WingMan Warrior Edition (USA).bin" size="80090304" crc="9d0fc927" md5="cd87f58d66691631507296f8127c68bc" sha1="0c6f99bff3b4c3034316dc0add1200f6e01529be"/>
+		<rom name="id Stuff - WingMan Warrior Edition (USA).cue" size="106" crc="d952f9dc" md5="816b8c58368c26d85843c13dfbe91ad5" sha1="ba19730506deb66d69748e554ab9134f4fc3d215"/>
 	</game>
 	<game name="ios - Interactive Novels (Japan)">
 		<category>Games</category>
