@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sony - PlayStation 3 (PSN) (Content) (Retool)</name>
-		<description>Sony - PlayStation 3 (PSN) (Content) (2,110) (-ly) [-aAbBcdDefkmMopPruv] (20260612-200253) (Retool)</description>
-		<version>20260612-200253</version>
-		<date>2026-06-14 03-32-47</date>
+		<description>Sony - PlayStation 3 (PSN) (Content) (2,110) (-ly) [-aAbBcdDefkmMopPruv] (20260613-225345) (Retool)</description>
+		<version>20260613-225345</version>
+		<date>2026-06-15 03-38-33</date>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Gefflon, Intothisworld, Landcross, norkmetnoil577, rarenight, UnlockerPT, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6257,7 +6257,7 @@
 		<category>Games</category>
 		<description>LEGO Marvel Avengers (USA)</description>
 		<game_id>UP1018-NPUB31708_00-LEGOMARVELAVENGE</game_id>
-		<rom name="UP1018-NPUB31708_00-LEGOMARVELAVENGE.rap" size="16" crc="a3043fc7" md5="2241e0e747bf0047cfeac0e1fa35e3d9" sha1="7ebd002ecd98b418cf8ed21f4b16ffa0fb73a397"/>
+		<rom name="UP1018-NPUB31708_00-LEGOMARVELAVENGE.rap" size="16" crc="7c2433d7" md5="b3fe80faadcb635a7a201eb33b965626" sha1="855322f9f763dfb907c409fa53a1fe57e0f976fb" sha256="f31ef8ce6f2c82319bd9a1ae5ffdf07aad62de1ae5f659aa0d6d38a66bd14265"/>
 		<rom name="UP1018-NPUB31708_00-LEGOMARVELAVENGE_bg_1_34b6b1df12431f46737afe65385fac5ab5681664.pkg" size="8279000544" crc="197ba688" md5="e38e48e0b3049968a96e939fc2b1d6b4" sha1="b781386b953c18ccd0cc2167f3ad1604cb42370b"/>
 	</game>
 	<game name="LEGO Marvel Super Heroes (USA)" id="10746">

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,787) (-y) [-aAbBcdkmMpPuv] (2026-06-14 02-38-01) (Retool)</description>
-		<version>2026-06-14 02-38-01</version>
-		<date>2026-06-14 03-33-44</date>
+		<description>IBM - PC compatible (25,790) (-y) [-aAbBcdkmMpPuv] (2026-06-15 03-46-22) (Retool)</description>
+		<version>2026-06-15 03-46-22</version>
+		<date>2026-06-15 03-42-07</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -49182,6 +49182,11 @@
 		<rom name="Eulemberg-Experiment, Das (Germany).bin" size="819554400" crc="a73f9dbf" md5="dafec1bc2b7a1f277c4a8f61f78e4be9" sha1="968f4a0ededa7956b49a2108a7acd441654f1aef"/>
 		<rom name="Eulemberg-Experiment, Das (Germany).cue" size="101" crc="c4d774bd" md5="0e1ebd92a1f68d9df7beb64ed7729f98" sha1="d9892cb840c3a118c2a7af03c33e69b9d9a1b81c"/>
 	</game>
+	<game name="Euphoria (USA) (En,Ja)">
+		<category>Games</category>
+		<description>Euphoria (USA) (En,Ja)</description>
+		<rom name="Euphoria (USA) (En,Ja).iso" size="2418802688" crc="7b1607f1" md5="9f0f664628867bfde06cdf5e70daad33" sha1="0ecc78d1893b748211061d2cd80931638f2736a6"/>
+	</game>
 	<game name="Euphrat &amp; Tigris (Germany)">
 		<category>Games</category>
 		<description>Euphrat &amp; Tigris (Germany)</description>
@@ -83238,6 +83243,12 @@
 		<rom name="Knock-Knock (Poland).bin" size="567490560" crc="0e55e688" md5="159aab4812fedc917251c6d4d0281005" sha1="dac1c768657db7ce2f3b19e7862a60876960ebc1"/>
 		<rom name="Knock-Knock (Poland).cue" size="86" crc="e362973d" md5="183500a5c2056e035e8d6cc8ca1765b1" sha1="f69d1075483faa75b8cc54ab4aee89b5fbc4936c"/>
 	</game>
+	<game name="Knudde - EK Editie (Netherlands)">
+		<category>Games</category>
+		<description>Knudde - EK Editie (Netherlands)</description>
+		<rom name="Knudde - EK Editie (Netherlands).bin" size="51261840" crc="dcf0d898" md5="5fa4c385d501cea918ce3c607aa0f6a3" sha1="1fcacf8de628a5bf49dd89927b3ada7ed0986e9e"/>
+		<rom name="Knudde - EK Editie (Netherlands).cue" size="98" crc="91a61c5c" md5="c2aa742b125ed2c1b27d9e12c3063144" sha1="41ff56600773c1823ad5a6ab367db899ffccf77a"/>
+	</game>
 	<game name="Knyaz' - Legendy Lesnoj Strany (Russia)">
 		<category>Games</category>
 		<description>Knyaz' - Legendy Lesnoj Strany (Russia)</description>
@@ -87408,6 +87419,12 @@
 		<description>Let's Ride! (USA)</description>
 		<rom name="Let's Ride! (USA).bin" size="672163968" crc="19175499" md5="2891155ca6938192635bab680bae437a" sha1="9bc96d85818240b80c080ea7a1c9ff1280f1979c"/>
 		<rom name="Let's Ride! (USA).cue" size="83" crc="81b05de0" md5="4d5d56989704a775b98775f6938cbc4b" sha1="5aa5a4d0349634f268e46ac6088d3c2c5f656fd4"/>
+	</game>
+	<game name="Let's Ride! Champions Collection (USA)">
+		<category>Games</category>
+		<description>Let's Ride! Champions Collection (USA)</description>
+		<rom name="Let's Ride! Champions Collection (USA).bin" size="456638448" crc="6b0c5532" md5="0c8a8bf1770f204ddb8b1a587b589b17" sha1="3a0181b03f5197d93bb4ca70bf65911e6b37bde0"/>
+		<rom name="Let's Ride! Champions Collection (USA).cue" size="104" crc="d07a7ac1" md5="a3b7a625446fecccff08d432f3d49e40" sha1="3de1128edf53ab0e47c3f48c788dd05274039627"/>
 	</game>
 	<game name="Let's Ride! Champions Collection (USA) (Disc 1) (Riding Star-Equestriad)">
 		<category>Games</category>
@@ -138329,11 +138346,11 @@
 		<rom name="Sega Marine Fishing (Europe) (Xplosiv).bin" size="818500704" crc="38410b3c" md5="256730d2041904ecd2d8fa05ffe5feec" sha1="436bb524f4a3807847bc811fcb9b2dbdd2e11fbc"/>
 		<rom name="Sega Marine Fishing (Europe) (Xplosiv).cue" size="104" crc="cfea1a4f" md5="62c45eb58965c78e4475101eb06b8eb9" sha1="cbd26a149bbeb667590ce194566c0c55e41d6a53"/>
 	</game>
-	<game name="Sega Mega Drive Classic Collection - Gold Edition (Australia)">
+	<game name="Sega Mega Drive Classic Collection - Gold Edition (Europe, Australia)">
 		<category>Games</category>
-		<description>Sega Mega Drive Classic Collection - Gold Edition (Australia)</description>
-		<rom name="Sega Mega Drive Classic Collection - Gold Edition (Australia).bin" size="820429344" crc="37516e08" md5="97bdd6ab28b46ba5c7529ce81324b73f" sha1="6fa499bc49dde8d3f1ae81b006df030bffe2c18e"/>
-		<rom name="Sega Mega Drive Classic Collection - Gold Edition (Australia).cue" size="127" crc="422071b7" md5="0179a9e4e7a58ba02181738e87a025f4" sha1="a7d437c960889f2e12e773ca0c6b0afd72bbd934"/>
+		<description>Sega Mega Drive Classic Collection - Gold Edition (Europe, Australia)</description>
+		<rom name="Sega Mega Drive Classic Collection - Gold Edition (Europe, Australia).bin" size="820429344" crc="37516e08" md5="97bdd6ab28b46ba5c7529ce81324b73f" sha1="6fa499bc49dde8d3f1ae81b006df030bffe2c18e"/>
+		<rom name="Sega Mega Drive Classic Collection - Gold Edition (Europe, Australia).cue" size="135" crc="507e2043" md5="d170efdd1d935f2ce83f20829376aa30" sha1="bf3572c63519a5faa98fa54b4fb7cc32af4b35b5"/>
 	</game>
 	<game name="Sega Mega Drive Classic Collection Volume 1 (Europe) (En,Fr,De,Es,It,Pt)">
 		<category>Games</category>
