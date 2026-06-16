@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sony - PlayStation 3 (PSN) (DLC) (Retool)</name>
-		<description>Sony - PlayStation 3 (PSN) (DLC) (16,852) (-y) [-aAbBcdkmMpPuv] (20260613-224500) (Retool)</description>
-		<version>20260613-224500</version>
-		<date>2026-06-15 03-47-18</date>
+		<description>Sony - PlayStation 3 (PSN) (DLC) (16,853) (-y) [-aAbBcdkmMpPuv] (20260614-092122) (Retool)</description>
+		<version>20260614-092122</version>
+		<date>2026-06-16 03-29-37</date>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Hiccup, Intothisworld, Landcross, norkmetnoil577, rarenight, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -96144,6 +96144,13 @@
 		<description>Super Street Fighter IV - Wild Costume Compatibility Pack (USA) (DLC)</description>
 		<game_id>UP0102-BLUS30453_00-USF40ANICATCOS0F</game_id>
 		<rom name="UP0102-BLUS30453_00-USF40ANICATCOS0F_bg_1_3470a38507dc584b988f1713d2ead67099069e8f.pkg" size="587926784" crc="2e9d309d" md5="3f0516d2abd4c335cb23250abdca78b7" sha1="7e8c1896bdfb21c6ec22097c2cc3a101ee4ec211"/>
+	</game>
+	<game name="Surfer, The - Monsters (Europe) (DLC)" id="23943">
+		<category>Add-Ons</category>
+		<description>Surfer, The - Monsters (Europe) (DLC)</description>
+		<game_id>EP1379-NPEB02271_00-THESURFERMONSTER</game_id>
+		<rom name="EP1379-NPEB02271_00-THESURFERMONSTER.rap" size="16" crc="8b53e5e3" md5="9f78b280e9df787896ef18f02324cd7a" sha1="2a4a83a10a4a31ff85383f9c9299923e066610a8" sha256="5802b76e8871bd6e98bced6fa1a2f2f0ad1fadbaf246f9695641ec4430dccf70"/>
+		<rom name="EP1379-NPEB02271_00-THESURFERMONSTER_bg_1_18b0d23e93c53ee4de095ca3e4ea3c72a41b76ed.pkg" size="193519392" crc="82473a01" md5="23ad532fd8aa107b5aaed196d5af93db" sha1="194c92dd8a13a54710fd0f628a741bfcfcb392b6" sha256="bf6d0a7a3c88532f40c40cd2699d363f3c0c0d7a6c670bb8d18b809c55c1575b"/>
 	</game>
 	<game name="Sword Art Online - Lost Song - Additional Costume - Uniform (Japan) (DLC)" id="11749">
 		<category>Add-Ons</category>
