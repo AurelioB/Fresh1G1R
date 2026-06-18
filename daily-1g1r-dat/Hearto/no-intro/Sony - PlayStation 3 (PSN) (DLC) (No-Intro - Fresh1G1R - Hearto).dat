@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sony - PlayStation 3 (PSN) (DLC) (Retool)</name>
-		<description>Sony - PlayStation 3 (PSN) (DLC) (16,854) (-y) [-aAbBcefkmMoprv] (20260615-194804) (Retool)</description>
-		<version>20260615-194804</version>
-		<date>2026-06-17 03-21-27</date>
+		<description>Sony - PlayStation 3 (PSN) (DLC) (16,867) (-y) [-aAbBcefkmMoprv] (20260616-213458) (Retool)</description>
+		<version>20260616-213458</version>
+		<date>2026-06-18 03-21-07</date>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Hiccup, Intothisworld, Landcross, norkmetnoil577, rarenight, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3724,6 +3724,7 @@
 		<category>Add-Ons</category>
 		<description>Atelier Escha &amp; Logy - Alchemists of the Dusk Sky - Additional Costume - Apple Pirate (Europe) (DLC)</description>
 		<game_id>EP4108-NPEB01945_00-CHANGECOSTUME001</game_id>
+		<rom name="EP4108-NPEB01945_00-CHANGECOSTUME001.rap" size="16" crc="255692e5" md5="0cf0cebf3dc9b2dbd3cbea1c398b0d1c" sha1="a29bf9bfadfc5799fa31d6cea710a3d8e14074de" sha256="0640e4559c35fe7acab8c6cce1807732904108ecff54bd586718d8637af5fe85"/>
 		<rom name="mTOfwrlNjiyycVZdJmVwMZOHdOKOageNdCpnIHjxyyVIdiTHwuwlSeVrjiLcSsnF.pkg" size="103200" crc="588aed21" md5="c6bdbe635928b69c83d741f3e6a6e126" sha1="e6eea09cc903a546dc7f7ee7b78488601ad96781"/>
 	</game>
 	<game name="Atelier Escha &amp; Logy - Alchemists of the Dusk Sky - Additional Costume - Enchanted Witch (USA) (DLC)" id="20252">
@@ -3809,6 +3810,7 @@
 		<category>Add-Ons</category>
 		<description>Atelier Meruru - The Apprentice of Arland - Pamela (Europe) (DLC)</description>
 		<game_id>EP1063-BLES01593_00-PARTYPAMERA00001</game_id>
+		<rom name="EP1063-BLES01593_00-PARTYPAMERA00001.rap" size="16" crc="946b9405" md5="5f4474b29e7ce15452a7f56864627927" sha1="d5fb75adc5f4ca974c9906dfbc5921d48ef1f6ff" sha256="746d93a2e2c56b9a1d9435942f0bfca939d87ac1001bc15a553b9b39f2b9bd58"/>
 		<rom name="otlegLsLVywRfihmexyqilLJSgFOGOCfpNHXiQZLzPiLygoLeNaUAzTAnegjLPCC.pkg" size="113248" crc="34b85ef1" md5="9ea412faf4a819867b36265babac2b42" sha1="8ce3f76decc05d4cc3d3abdd5e457805c7580c02"/>
 	</game>
 	<game name="Atelier Meruru - The Apprentice of Arland - Rufus (Europe) (DLC)" id="23808">
@@ -3905,6 +3907,7 @@
 		<category>Add-Ons</category>
 		<description>Atelier Shallie - Alchemists of the Dusk Sea - Additional Costume - Nature Frill (Europe) (DLC)</description>
 		<game_id>EP4108-NPEB02221_00-COSTUME0MIRUC0WS</game_id>
+		<rom name="EP4108-NPEB02221_00-COSTUME0MIRUC0WS.rap" size="16" crc="e21c7307" md5="bf3e6a65716a3cec3874e772dce3c30d" sha1="8cffede92693f25382269680b375cfe812454354" sha256="060860fd96c9d811c9d1f7dd6eb1ec3abe40859c3298be76f1c1720abe40558c"/>
 		<rom name="EP4108-NPEB02221_00-COSTUME0MIRUC0WS_bg_1_e5d11d09cfcca98b80b1f899d07e1014d5b03033.pkg" size="113696" crc="2623bd70" md5="729074d5b91e8359d9c7cb3a26f41b78" sha1="81f0639955dd64005176bee885017b8132b2bccf"/>
 	</game>
 	<game name="Atelier Shallie - Alchemists of the Dusk Sea - Additional Costume - Passion Dress (USA) (DLC)" id="20367">
@@ -3925,6 +3928,7 @@
 		<category>Add-Ons</category>
 		<description>Atelier Shallie - Alchemists of the Dusk Sea - Additional Costume - Wild Bikini (Europe) (DLC)</description>
 		<game_id>EP4108-NPEB02221_00-COSTUME0JURIE0WS</game_id>
+		<rom name="EP4108-NPEB02221_00-COSTUME0JURIE0WS.rap" size="16" crc="2c56ddba" md5="cc97222a01f1edd52c143a56721c4dff" sha1="dba063e9fb8d346d02b1bab44f5a392328979445" sha256="cc772769b632877ad936c1998c260665816d8dde843bb7bed83d6aabfacad358"/>
 		<rom name="EP4108-NPEB02221_00-COSTUME0JURIE0WS_bg_1_9d334de0d9026025adfae8329369da08f851b9e5.pkg" size="113696" crc="03ceda06" md5="76adaddd1dc5d4641de554239245d6b8" sha1="3966ae4f776e5a182b139cc9ab01355e7422fc21"/>
 	</game>
 	<game name="Atelier Shallie - Alchemists of the Dusk Sea - Atelier Series Special BGM Pack (USA) (DLC)" id="20363">
@@ -3978,6 +3982,7 @@
 		<category>Add-Ons</category>
 		<description>Atelier Totori - Additional BGM Pack - Battle Pack #2 (Europe) (DLC)</description>
 		<game_id>EP1063-BLES01221_00-BGM0000000000003</game_id>
+		<rom name="EP1063-BLES01221_00-BGM0000000000003.rap" size="16" crc="80fc034b" md5="898fa8266dfdc24a627fa362c3847df8" sha1="13d86bc6e71ad71ec5bf4421296d2507783a92f7" sha256="bbd6204827e433bb65c2debbc3cb2d448ad29c48dc25230912e63b1ddb02422e"/>
 		<rom name="epLhIPorHlQZHIWfXhJBWNewipWaKCHcrqzSBcxgTsbmqnjiOwViROfqFrxwKnEG.pkg" size="326152048" crc="2c9361f5" md5="5617043184bc06055674c06ab5f9d36f" sha1="51495d9c9681a1ad7f3cee6eccd6bb0472e4896d"/>
 	</game>
 	<game name="Atelier Totori - Additional BGM Pack - Battle Pack #4 (Europe) (DLC)" id="03748">
@@ -3985,6 +3990,7 @@
 		<description>Atelier Totori - Additional BGM Pack - Battle Pack #4 (Europe) (DLC)</description>
 		<game_id>EP1063-BLES01221_00-BGM0000000000005</game_id>
 		<rom name="CLlUBfCRiVBPMcuhKHbAZhUvxgWTDOPXsfBMZzBgKCLYuUQDksehdIyzcnxUoMSe.pkg" size="348137648" crc="d0f0d3ab" md5="c4ddae880bc36be9f4241b36129f5053" sha1="c896cb62aec9c633dcd853ce22cb16ce7557d78e"/>
+		<rom name="EP1063-BLES01221_00-BGM0000000000005.rap" size="16" crc="c34585e8" md5="920209a8455e8dcc22006625d9e13ae0" sha1="75477ce5b0a71dbf03470fcf557efe190a8f5f03" sha256="c9f5bf2013084abcb066b91b0caed5736795c136eb9f17812aea7e5e355c07fa"/>
 	</game>
 	<game name="Atelier Totori - Additional BGM Pack - Battle Pack 1 (Europe) (DLC)" id="23806">
 		<category>Add-Ons</category>
@@ -8891,6 +8897,7 @@
 		<description>Call of Duty - Black Ops II - Paladin Pack (Europe) (BLES01717) (DLC)</description>
 		<game_id>EP0002-BLES01717_00-MTXWEAPON0000010</game_id>
 		<rom name="EP0002-BLES01717_00-MTXWEAPON0000010.rap" size="16" crc="7fccd842" md5="f05c47cfc7e701b23392c5893b868a87" sha1="fa69497943105e5a430476cf57d4d27a4d647d48" sha256="896c1b4b9e34ef32e93a9e5eefb38d3c41e6ae42ad07da574e00a3376c16cf4c"/>
+		<rom name="EP0002-BLES01717_00-MTXWEAPON0000010.rap" size="16" crc="87d36b10" md5="4e1978c2f2625e334da7d60524fa7099" sha1="11722217cc1b74599a85c8ed978a958a7c5a20f6" sha256="0d405a7c5aa79a55d79460b910097781790616b02f492a22a5e417a9499cd008"/>
 		<rom name="LUkKAkrsIhDmAiygMknubUidaxHbbYjQeFVVZwOtagKjdNQiKDvazdRDcMnOygWn.pkg" size="102400" crc="2ad3d104" md5="ed72e20a1dfed74e868a30b69d3610f3" sha1="fcb8bd6fe9a108b7156e0e309578bd97aadf3bad" sha256="fb5aa521f3ddc31a25a2911878658bf6a8437d11734938a79f93b15b46048a39"/>
 	</game>
 	<game name="Call of Duty - Black Ops II - Paladin Pack (Europe) (BLES01718) (DLC)" id="00534">
@@ -10319,6 +10326,24 @@
 		<game_id>UP1082-BLUS30725_00-CARS20000CAR0005</game_id>
 		<rom name="KGEQTOWxgcQvkDSqeuCiJJZfGsIcGExDwgRXCEohGmLeRyDXnJwukhHbnsdMnmvNTdsacROqBtaSsmcCcLfCfNHXTyENnCzskOcrJ.pkg" size="5303920" crc="77aef36e" md5="949a5139326f4930ff72ff29351e90bf" sha1="2c81b4f70e863cf6741355fe0b7b46b30f165a91" sha256="302b92eda43e7d9ebd306ecdef84b36b7ed9f910deadee8b1d9616c1c246bf7d"/>
 	</game>
+	<game name="Cars 2 - The Video Game - Boost (USA) (DLC)" id="23949">
+		<category>Add-Ons</category>
+		<description>Cars 2 - The Video Game - Boost (USA) (DLC)</description>
+		<game_id>UP1082-BLUS30725_00-CARS20000CAR0017</game_id>
+		<rom name="KwuYbcZVJishUMVpDxWwFmRjrXVayCeTfCBZAFfdnoomxQYWdWrIFybXoYjEuKILrWMOVWojRdbLGQEmRowvlSqlpdZJNkFQKJIaJ.pkg" size="26778768" crc="0aff74df" md5="ec309a77dd4835e9fbe38b6e62924a69" sha1="52a7b9804f650c34afd8dc8e46787469e48a29b4" sha256="9da0bf810fbc5f7e3e833ed44ab6d80cf52b506b83122150f3c18107d2609fc6"/>
+	</game>
+	<game name="Cars 2 - The Video Game - Chick Hicks (USA) (DLC)" id="23946">
+		<category>Add-Ons</category>
+		<description>Cars 2 - The Video Game - Chick Hicks (USA) (DLC)</description>
+		<game_id>UP1082-BLUS30725_00-CARS20000CAR0014</game_id>
+		<rom name="HHGtmGBjeDmAEoZMVmtRBOEqRlZMxmRahcqqDzzyzdgsHrQcJjjUteRfWRQpqvktXyoUyIaLtFLfahFpAdjOfIufvEjvbNCmffhBo.pkg" size="41931488" crc="dac35d48" md5="33cdefcdd434c66982adfe7233b4029b" sha1="3c007bed1010cc0b849a7bff6c8cbbaf0217a8ff" sha256="73a5a4884af13a85b16b1135919f09c1693af6aa77c2bc9db2c58e4f4cdd27b5"/>
+	</game>
+	<game name="Cars 2 - The Video Game - DJ (USA) (DLC)" id="23950">
+		<category>Add-Ons</category>
+		<description>Cars 2 - The Video Game - DJ (USA) (DLC)</description>
+		<game_id>UP1082-BLUS30725_00-CARS20000CAR0018</game_id>
+		<rom name="uKnenIFVZgjqNkTJpjJndGFOLIhMSRUYLDsPWEHBOiPuMtOwlKSyTAtoyvYXgqGBwCGDFMOdwUBbosrXbpyUmxIkTsfFzXXuTOwAt.pkg" size="32704304" crc="129ca5e3" md5="8cbb425f32c2a23b450ce50dbed9fdce" sha1="1fcbb6b44b3789b02d165fde4ddfcf617af8fe6f" sha256="a012b38f246e3413cae22b208fa4b92872cf1b2c1d7e52ac82353903384a9398"/>
+	</game>
 	<game name="Cars 2 - The Video Game - Daredevil Lightning McQueen (USA) (DLC)" id="23441">
 		<category>Add-Ons</category>
 		<description>Cars 2 - The Video Game - Daredevil Lightning McQueen (USA) (DLC)</description>
@@ -10331,11 +10356,41 @@
 		<game_id>UP1082-BLUS30725_00-CARS20000CAR0011</game_id>
 		<rom name="znttxbnpLqYVOJGmIoBpCtCWwkerxUsIcvHBViVFGfkdfbaSZRpkYUdtGHRiotpFBwqPjkgEYYfQUyTuynXtbTMeNDtrxgqeQkoOi.pkg" size="35296640" crc="ca30e8f4" md5="51b8621c3a29c103e04288c4625ce8a3" sha1="0713dc27bccc76d335b0d45ac5051abc2fc0a0ae" sha256="69145b8c5d3851ade50b71038b381bc3842b6eae103c5f904d2641b971c7fd5e"/>
 	</game>
+	<game name="Cars 2 - The Video Game - Kabuki Mater (USA) (DLC)" id="23953">
+		<category>Add-Ons</category>
+		<description>Cars 2 - The Video Game - Kabuki Mater (USA) (DLC)</description>
+		<game_id>UP1082-BLUS30725_00-CARS20000CAR0021</game_id>
+		<rom name="tKNLvXLuvMVKnOVUiubkVDUzbpHEpZwaiHzVoPWvzBlcgmRtdQdQrOEOpYbTsotCKAfEkKcjFAvsEcCbOPYpBFhXzaWszqiTXHeXN.pkg" size="6062096" crc="b36d62a3" md5="4bed931343a0eee2e14e56c7297784f4" sha1="b4d4c0c74d2733364790a423ca24226306c2046d" sha256="8c7558baf364156ede6ab5e41c1e440b89a107cbb7bb616788a5dea610a4ecc0"/>
+	</game>
 	<game name="Cars 2 - The Video Game - Mater The Greater (USA) (DLC)" id="23440">
 		<category>Add-Ons</category>
 		<description>Cars 2 - The Video Game - Mater The Greater (USA) (DLC)</description>
 		<game_id>UP1082-BLUS30725_00-CARS20000CAR0006</game_id>
 		<rom name="YFwGgYkWtCMXWxlbANDdwAgESdRpJwBntNSREPhwGCQrQdKCClLrIquzRagtDAegsdrlTlJpPHulYbMNtpYpOYkKqLygxSaGIzvGa.pkg" size="7579904" crc="7c2dfd30" md5="10e84832f22f77cf7431d2de98020e0a" sha1="ed2a49daca80a0fa8f4b5d2694250c9baa208629" sha256="6fddb8426d5ed33b85678261f0bac1c18fb4da474ba2a52580926a55af657cc4"/>
+	</game>
+	<game name="Cars 2 - The Video Game - Mater as Ivan (USA) (DLC)" id="23952">
+		<category>Add-Ons</category>
+		<description>Cars 2 - The Video Game - Mater as Ivan (USA) (DLC)</description>
+		<game_id>UP1082-BLUS30725_00-CARS20000CAR0020</game_id>
+		<rom name="nZlYxRtCujzRvMtblpQuXBfZqodLpzSlQdQxnDnPSwvGgbADWQVbRDdgZZktjeixDPgJhtXZedmnmzlBmWYnjaxTXuLOEllnFSYYY.pkg" size="5532992" crc="18cfc0bc" md5="a79f3acad5e9046332380511f9a44575" sha1="2fb36515ddde24cfa7ef18361e4b1c58cacfdb27" sha256="0ff5ad1665b417838aaf6120933469c86c73a74e866c68444cb55734ecd58e74"/>
+	</game>
+	<game name="Cars 2 - The Video Game - Ramone (USA) (DLC)" id="23945">
+		<category>Add-Ons</category>
+		<description>Cars 2 - The Video Game - Ramone (USA) (DLC)</description>
+		<game_id>UP1082-BLUS30725_00-CARS20000CAR0013</game_id>
+		<rom name="FIoEfIvCvjhrEmBiVXPvKeJQfsFgdzCYnDeqcozUezWIjZiXezujXBIiQbDSeCwgNNocPAEYHDYdHjFOhpnYSXgLZlUIdlEQtRlPH.pkg" size="41518352" crc="805243f6" md5="5265ce55fa29fbfad0b2a37d7883997e" sha1="03e490401a55f5786977ce648e2e9a4e1ec9839d" sha256="1c3b042d9e1f4621fc39ef0b062792ee480295d52f52829ebd9db7a160d7fe4b"/>
+	</game>
+	<game name="Cars 2 - The Video Game - Sheriff (USA) (DLC)" id="23944">
+		<category>Add-Ons</category>
+		<description>Cars 2 - The Video Game - Sheriff (USA) (DLC)</description>
+		<game_id>UP1082-BLUS30725_00-CARS20000CAR0012</game_id>
+		<rom name="rGDEEBGqilXhINXcHovCYYMPeUDONosqlYUVoYQrxFerqidHurtILyQLVDonxExvEXrCVSuCxmrWbyoxCyWioDuSNtcimJKRGgdAM.pkg" size="46971232" crc="3cadce8f" md5="e11f641a96f86fdba086c0e174e9433b" sha1="f19dcdc5a203e402ecde2118cabfd161896438bd" sha256="5d1dc56ac938b01b3c8bb5f2bcda8d44f66547092ee3c9b8815cfff234cbdb87"/>
+	</game>
+	<game name="Cars 2 - The Video Game - Snot Rod (USA) (DLC)" id="23948">
+		<category>Add-Ons</category>
+		<description>Cars 2 - The Video Game - Snot Rod (USA) (DLC)</description>
+		<game_id>UP1082-BLUS30725_00-CARS20000CAR0016</game_id>
+		<rom name="RqrDdrcpaPLQNSlxkoaSAXjFHKjmglipUmojKfQmdhAUWORamyudNGHrxTyVvyVhuZruwccSWBTOfnZLmZMEZFavptVOQReZLctra.pkg" size="13382624" crc="b646cd4c" md5="8fc2cbcb5d4f1a5925f419c46aaa2c50" sha1="d5d2385f1cb02af6cba20cf1963343828debec42" sha256="95d2d6296144abda342e2351761dd54237acb5238ad1fec5f725e1b45b7500ce"/>
 	</game>
 	<game name="Cars 2 - The Video Game - The Queen (USA) (DLC)" id="19312">
 		<category>Add-Ons</category>
@@ -10343,6 +10398,24 @@
 		<game_id>UP1082-BLUS30725_00-CARS20000CAR0010</game_id>
 		<rom name="UP1082-BLUS30725_00-CARS20000CAR0010.rap" size="16" crc="7b81f87f" md5="f940fb6a5bcd1e2351caa63ee27c2c2e" sha1="429391574bbb8287c48a861f704658cf8460df44"/>
 		<rom name="gLSkraqSiaQlksqDYjacSgtnHqveJHgGULJnYBnBKljYNmCiehJyMYoCSyAUgIrMgUuDztvmrcFQQCMglCkrBxQmVxtUysrPNHMMR.pkg" size="23343584" crc="ecef2ed5" md5="62b5d50d11616b8ebb62674a712b8bf2" sha1="5ce71a4edcf63d9ec41285a66024768ee42ba749"/>
+	</game>
+	<game name="Cars 2 - The Video Game - Uncle Topolino (USA) (DLC)" id="23951">
+		<category>Add-Ons</category>
+		<description>Cars 2 - The Video Game - Uncle Topolino (USA) (DLC)</description>
+		<game_id>UP1082-BLUS30725_00-CARS20000CAR0019</game_id>
+		<rom name="hSjAtkYXJTwBqRzwkhSScGNRnWRXVWyFandqGDIwQOVRYqyioIyvdjsqryFppevFAYmcFwybEGJteKOtgMIAvXQuqgPWvwoNZMKEF.pkg" size="38820704" crc="8f6f8862" md5="e7f1d0cde25f87e8f9e5d7912aa6a520" sha1="7030dd2aedc9fd9751130960010a7225bff6eb9c" sha256="6198f1dc756f1fb50433963603deb76f892e1c33d5d113eb7a81dc2f1edbee2d"/>
+	</game>
+	<game name="Cars 2 - The Video Game - Victor Hugo (USA) (DLC)" id="23954">
+		<category>Add-Ons</category>
+		<description>Cars 2 - The Video Game - Victor Hugo (USA) (DLC)</description>
+		<game_id>UP1082-BLUS30725_00-CARS20000CAR0022</game_id>
+		<rom name="nmNmjFewjuxtbPYZGYelfqZULGwiaCKFSdaxECypSPlIOIwQiNNPPlmGQxcGziwkjeqMcRmDwbwsNqWoifjTwPSNIQLleZdeafsDU.pkg" size="38754160" crc="8ad4af19" md5="c57f435f2022dc347fddb788d37978f2" sha1="a673418e9853d72cad360c8f5808053e9e21d747" sha256="488c73e5ef9cb774ba3ec142e2d4ec7cf4b4614ce442e0d07074b1b3d01e56d9"/>
+	</game>
+	<game name="Cars 2 - The Video Game - Wingo (USA) (DLC)" id="23947">
+		<category>Add-Ons</category>
+		<description>Cars 2 - The Video Game - Wingo (USA) (DLC)</description>
+		<game_id>UP1082-BLUS30725_00-CARS20000CAR0015</game_id>
+		<rom name="XiAPedeFWBocEHOaWfbOnAFOHoMqOBwLBMZlrbNhETASThURVBZoCUGNjCdzTGAGHMFbCwcbFSFzXVEilxHKnnhpefwHhGkyZaMQK.pkg" size="31586368" crc="5aa6667d" md5="1eacd7a8eab6b5cd21c464c549341c24" sha1="d07193439d4003f3d2a7c54f3a840207c4feebc5" sha256="c115237e03eb7eb54d65b3a4bbb38587e8495091d5cf4cc8d7bf2fa3aeda5200"/>
 	</game>
 	<game name="Castle Crashers - Can't Stop Crying (USA) (DLC)" id="19377">
 		<category>Add-Ons</category>
@@ -11737,6 +11810,7 @@
 		<category>Add-Ons</category>
 		<description>Cross Edge - Upgrade Point Pack (Europe) (DLC)</description>
 		<game_id>EP1063-BLES00650_00-PCROSSEDGE000043</game_id>
+		<rom name="EP1063-BLES00650_00-PCROSSEDGE000043.rap" size="16" crc="22ec1403" md5="6621646c796b863a4188b7ab14c55a44" sha1="97d7242b70f5d23e18b0dc0f7a42e860b0d19075" sha256="84b87a1e0a29c5cfbac015f6cc7b9f565524825dae9e925b75baaffe9d8fd868"/>
 		<rom name="nQxhyyUAxFWYnNXGdshabJs6AwCoNld72eycRUM3CtUjg8nGgUsNO4WUamjpOHygefxqrH5IUHFyDI1lQ3Ox561H7bSkLWn7SCAyG.pkg" size="112848" crc="96f53b44" md5="e015102a93db34c873d44362c15c4f1f" sha1="d34864b133601ce40c220879684b7c0c0506482d"/>
 	</game>
 	<game name="Cross Edge - Wanderer Pack (USA) (DLC)" id="18704">
@@ -14030,6 +14104,7 @@
 		<category>Add-Ons</category>
 		<description>Dead or Alive 5 Ultimate - Core Fighters - Catalog No. 16 (Japan) (DLC)</description>
 		<game_id>JP0106-NPJB00411_00-CATALOG201591500</game_id>
+		<rom name="JP0106-NPJB00411_00-CATALOG201591500.rap" size="16" crc="229ba164" md5="7daaeb0102c9b7ebb8446a29d366889c" sha1="c95361a23bea0390b66f0c93c6735f18c1f3abb3" sha256="3cbc86759a319903d04abb622a18a5866c76b43b69d89b2a3977deb77c2bcac2"/>
 		<rom name="JP0106-NPJB00411_00-CATALOG201591500_bg_1_af3086685e794e38c906d0e90aaa9d78b0901fcb.pkg" size="79385584" crc="56e00b1d" md5="f29826c2fb00ee302b90ee662a2f2d62" sha1="77c32009df8a494f12c020b4fa029e04542af2d5"/>
 	</game>
 	<game name="Dead or Alive 5 Ultimate - Core Fighters - Catalog No. 17 (Japan) (DLC)" id="10384">
@@ -17515,6 +17590,7 @@
 		<category>Add-Ons</category>
 		<description>Destiny - Hakke-Suros (Europe) (En,Fr,De,Es,It,Pt) (DLC)</description>
 		<game_id>EP0002-BLES01857_00-DESTINYTKINCENTV</game_id>
+		<rom name="EP0002-BLES01857_00-DESTINYTKINCENTV.rap" size="16" crc="81442031" md5="fa63e8f69aea0cf0a0fe1496d66156f5" sha1="2193f12fbc3dffc84dedb0972d09118eec8d31d0" sha256="29a19a55e16005b80f5c8bdf0cb2c3548a69806b546a943ec2e38c22c747372c"/>
 		<rom name="EP0002-BLES01857_00-DESTINYTKINCENTV_bg_1_c0dab62996f94cf3497a184271ca1b9be094ca1d.pkg" size="102400" crc="f99a7deb" md5="715b33d5518d0f86ccb609261aef2bbe" sha1="f227fcb3882dccfa2acde0f83a4125cf69800ef8" sha256="9ac64ae7d16b843b95f9569989773a939df57ca90e2a790fadf1b03fc077f0f6"/>
 	</game>
 	<game name="Destiny - JP9200-BCJS35001_00-TITLEUPDATE1CONT (Japan) (DLC)" id="13427">
@@ -18340,6 +18416,7 @@
 		<category>Add-Ons</category>
 		<description>Disgaea D2 - A Brighter Darkness - A Brighter Darkness - Human Priere (USA) (DLC)</description>
 		<game_id>UP1063-NPUB31321_00-DISGAEAD20000027</game_id>
+		<rom name="UP1063-NPUB31321_00-DISGAEAD20000027.rap" size="16" crc="cca362f2" md5="498c42bb675b0d8fa89b6dd279fe5f53" sha1="f15cc999c5b46baf43be613d8a99c958d9379116" sha256="449798d0ba6877cddd6596816191d770fc0605b5f368d0521f1e47e79d4b0a8d"/>
 		<rom name="raZxxUUKaoDozmZgTuGkxtreYBsnmuzCtxEnPGVEigrcKKEtzWKkJovTEYJmNvyp.pkg" size="1226384" crc="550bbebf" md5="d2defff70639fc84250fe1f4c3f33366" sha1="33a8af5a90e5220ce1e9fd5102fef0d391b3b07a" sha256="f07fcf2d15bc25dea4622a6edad89826a4850494e65787a56209b096e67a2590"/>
 	</game>
 	<game name="Disgaea D2 - A Brighter Darkness - A Brighter Darkness - Lilliel (USA) (DLC)" id="19278">
@@ -18354,23 +18431,27 @@
 		<description>Disgaea D2 - A Brighter Darkness - A Brighter Darkness - Mao (USA) (DLC)</description>
 		<game_id>UP1063-NPUB31321_00-DISGAEAD20000014</game_id>
 		<rom name="BtHpSsaZYKwVWbbQQxouWTOMAFbrlwRzakaCEJVlLwjKsAfhiCnyuqIGVNlQmGEO.pkg" size="1226384" crc="90b9f460" md5="1a7a05140d845a49421b6f6a4d2310b5" sha1="b66392c8f913a2933ee15b6db3f8172f33dea334" sha256="0f1061728a048f6259c3e5a0978a36132c14ef50bd3b8a0b4319fd4e1f97abcb"/>
+		<rom name="UP1063-NPUB31321_00-DISGAEAD20000014.rap" size="16" crc="6748316f" md5="0f48233f6398b782d581b29332cd9835" sha1="3db793674647818e91356de446ba137029ebb59e" sha256="400ef5f78ecb71c9a4842deb23b36415271540cb869c034d14c6669cef7d3c0f"/>
 	</game>
 	<game name="Disgaea D2 - A Brighter Darkness - A Brighter Darkness - Metallia (USA) (DLC)" id="19287">
 		<category>Add-Ons</category>
 		<description>Disgaea D2 - A Brighter Darkness - A Brighter Darkness - Metallia (USA) (DLC)</description>
 		<game_id>UP1063-NPUB31321_00-DISGAEAD20000024</game_id>
 		<rom name="MNVOKxYQSrIRYYSXmbabUiwDEKvvfCBZCFTgbzfolZUeRsNGhhqTIAsXHiREqgiF.pkg" size="1226384" crc="61514fa7" md5="f1e0cbc052f5e0845b10a6d3b429d8b3" sha1="6f44b36a73590e139bfd7f48fb05d468520278dd" sha256="b2495f432ffaec662f3c12cc3c5e633ae8f602962184819e8c19b955053f4aeb"/>
+		<rom name="UP1063-NPUB31321_00-DISGAEAD20000024.rap" size="16" crc="136814c9" md5="9b075373c8998a0e2e850c7933c2d0d1" sha1="d638ad3bf93874fda3e74091c14f1afd849fbfaa" sha256="55bc2d938172162ba13ecd424e2d8b5423e9e6fd3d6e9652de1403e72476fd68"/>
 	</game>
 	<game name="Disgaea D2 - A Brighter Darkness - A Brighter Darkness - Overlord Priere (USA) (DLC)" id="19288">
 		<category>Add-Ons</category>
 		<description>Disgaea D2 - A Brighter Darkness - A Brighter Darkness - Overlord Priere (USA) (DLC)</description>
 		<game_id>UP1063-NPUB31321_00-DISGAEAD20000026</game_id>
 		<rom name="INczaelAmEQYmrzKkhjNJYZWgvqSkfsNjUlipYJYDYIvekrQJvVBLcTGzgdcJbBC.pkg" size="1226384" crc="6da3f7d5" md5="c573c604c28930f01a61eb154df75f64" sha1="62024158abad3c92eb71c365482103cfef7b5a13" sha256="a4eb9493cebe6638ecf54314ed901d414c6f8c34572981d2c7b430543de9302b"/>
+		<rom name="UP1063-NPUB31321_00-DISGAEAD20000026.rap" size="16" crc="a8b00bda" md5="c29422c7d74f872c083d6b5bc308c0d4" sha1="c9fdbc291a7ed7e57f542ca97f71c5eb023f795e" sha256="52fc7d58edfcc19bb4c54cf6bf64d428f81765a4bbda73a85df20744e8701e1f"/>
 	</game>
 	<game name="Disgaea D2 - A Brighter Darkness - A Brighter Darkness - Plume (USA) (DLC)" id="19293">
 		<category>Add-Ons</category>
 		<description>Disgaea D2 - A Brighter Darkness - A Brighter Darkness - Plume (USA) (DLC)</description>
 		<game_id>UP1063-NPUB31321_00-DISGAEAD20000032</game_id>
+		<rom name="UP1063-NPUB31321_00-DISGAEAD20000032.rap" size="16" crc="75439d21" md5="a218e62057eade51b6749720b093a831" sha1="32052ceb0aac0bfeb3068b4883b2c6391d99a4bd" sha256="8c9a098e42bd55abf90d738878eb9947aa0e97d8379bb580b009d1aa2a70c905"/>
 		<rom name="mwinwoVgJLAdUcLUuOZJeAgXrDWQqBHUczVAELfOCCQOTGxVhmDcrleBacvfRMtT.pkg" size="1226384" crc="5ecfd85e" md5="cb4d88db394d3cc7f16bf9ec2709d1a1" sha1="bc48c92838c59f5623b004bf6b52c6abfcf58da8" sha256="f28dd7a12a6254c7e0c38d8c05e1f074d98771fce0d995da5461181ed2278203"/>
 	</game>
 	<game name="Disgaea D2 - A Brighter Darkness - A Brighter Darkness - Pram (USA) (DLC)" id="19283">
@@ -18378,41 +18459,48 @@
 		<description>Disgaea D2 - A Brighter Darkness - A Brighter Darkness - Pram (USA) (DLC)</description>
 		<game_id>UP1063-NPUB31321_00-DISGAEAD20000019</game_id>
 		<rom name="GmSsBVhjfPmmkffeTrFqVyixwPrLSpyrHCintblwndCvwmfiRtxuaQegAneneyiE.pkg" size="1226384" crc="63523638" md5="072a0e0dc73c7d3910793bc40415137b" sha1="5acb24f7223af1444a5476e3b9cd0a91b215bfa2" sha256="47d40e8b4bf2a3ba079f009dbf8bb015a75f640da2c6497caa3d5629526c914e"/>
+		<rom name="UP1063-NPUB31321_00-DISGAEAD20000019.rap" size="16" crc="b315e39e" md5="40ae4698b642d9cf87fd331b1c300177" sha1="517ca22ceeabf1f487384ce95f63368987295267" sha256="1b0cd72b69113857598dca3f42b8c64bd6f367e1167b9aa82fc7bd9f4fbbf59d"/>
 	</game>
 	<game name="Disgaea D2 - A Brighter Darkness - A Brighter Darkness - Rozalin (USA) (DLC)" id="19277">
 		<category>Add-Ons</category>
 		<description>Disgaea D2 - A Brighter Darkness - A Brighter Darkness - Rozalin (USA) (DLC)</description>
 		<game_id>UP1063-NPUB31321_00-DISGAEAD20000010</game_id>
+		<rom name="UP1063-NPUB31321_00-DISGAEAD20000010.rap" size="16" crc="dead25d0" md5="9532550944b78b90f9790d3ad74a0137" sha1="7e6c65b85e575eb45d724f727fde0b0b5064b70b" sha256="55289ac41bb227d749e7aa905750db1eec45fa258f174170a0f2b2f220a0b598"/>
 		<rom name="YgGJJGOlBlgSIkpnVyTVHLUrNaIORuVPzJPFiwpzNtGEtcKAqlvrwrzNFlxNohhn.pkg" size="1226384" crc="41211e95" md5="e450c183f712206c1879b05adaedd596" sha1="776a157abe6ea8b5a7f83e51103296cf62352277" sha256="f82acc497b4c811896ac0be7318d8b26874e765bf3bba6deb6e165ff4b5ff481"/>
 	</game>
 	<game name="Disgaea D2 - A Brighter Darkness - A Brighter Darkness - Salvatore (USA) (DLC)" id="19281">
 		<category>Add-Ons</category>
 		<description>Disgaea D2 - A Brighter Darkness - A Brighter Darkness - Salvatore (USA) (DLC)</description>
 		<game_id>UP1063-NPUB31321_00-DISGAEAD20000016</game_id>
+		<rom name="UP1063-NPUB31321_00-DISGAEAD20000016.rap" size="16" crc="cf2cd995" md5="29ebed6aea3e5c74095f385da7bf4a22" sha1="3da8eb230d0bc6042b80106d7cf1c90c929bb857" sha256="6f96320ad00e33003920d7ddd136ac61be047340027d6b9b4dad5fea2083c508"/>
 		<rom name="tuMSlRIKRuGizMVuFDUDEopJeetEbbhfWnxzmcfaxbSIAhOILRvRTKKSkZzKkpCB.pkg" size="1226384" crc="c581f684" md5="fac27ad7f356bb41346b1fec165c4afa" sha1="6f02b1474eda4e419f09e37d68f046739dfa1287" sha256="dd9646b80d6db52d835e15906b4ee1b7692feb8f1839ed4cfb907edd516906ce"/>
 	</game>
 	<game name="Disgaea D2 - A Brighter Darkness - A Brighter Darkness - Zetta (USA) (DLC)" id="19282">
 		<category>Add-Ons</category>
 		<description>Disgaea D2 - A Brighter Darkness - A Brighter Darkness - Zetta (USA) (DLC)</description>
 		<game_id>UP1063-NPUB31321_00-DISGAEAD20000018</game_id>
+		<rom name="UP1063-NPUB31321_00-DISGAEAD20000018.rap" size="16" crc="daef53f9" md5="cbccb5c774034c1f880187df8f186758" sha1="3e5704489fe5155fc0a157e73412d63ceacb85f0" sha256="e89eb57ddb976ce4341dca5153a0c1bec11782172cd1cad0c53f52106271f296"/>
 		<rom name="UsICxXgLzNDGUgUureZyysCkiEUbSRrrBjZTPlmdwFfwntgrvPfIoOyOPoOEPZyw.pkg" size="1226384" crc="7d4854eb" md5="0366413ee6aaf2d6367d9341099e852b" sha1="f2444a59fd6affc963860a2598c4f6f4b37a120b" sha256="29a05790e3cd0b8d609f71a67c2e35745b80947710d0e7c9a16a4356fb39a90b"/>
 	</game>
 	<game name="Disgaea D2 - A Brighter Darkness - Adell (USA) (DLC)" id="19276">
 		<category>Add-Ons</category>
 		<description>Disgaea D2 - A Brighter Darkness - Adell (USA) (DLC)</description>
 		<game_id>UP1063-NPUB31321_00-DISGAEAD20000009</game_id>
+		<rom name="UP1063-NPUB31321_00-DISGAEAD20000009.rap" size="16" crc="54ed4262" md5="38c3de5d248fda8e4dd8c719751ad59d" sha1="7974c164392f6a03d3c6e89a6aad2fa75a4c7339" sha256="30c71ea2c079350ef0c9aa287ab03f0987f58d2ead330318fa9bc54a999521a1"/>
 		<rom name="cAKkuKsWoFrSGGZovvjpxYAlgyGOhIaCvDCqdJwsVpNhJUhRQuSMfSgbKFPXtEQi.pkg" size="1226384" crc="8ba40687" md5="fee459d93349cd5a92b0907d7c158403" sha1="48aa0a7dc7375da3adb247b77be4538218ad38e2" sha256="1de6144a7627316cfdb2d7d2a3ad604cd18c558a0e98bae98142f580d0f31e46"/>
 	</game>
 	<game name="Disgaea D2 - A Brighter Darkness - Alex (USA) (DLC)" id="19284">
 		<category>Add-Ons</category>
 		<description>Disgaea D2 - A Brighter Darkness - Alex (USA) (DLC)</description>
 		<game_id>UP1063-NPUB31321_00-DISGAEAD20000020</game_id>
+		<rom name="UP1063-NPUB31321_00-DISGAEAD20000020.rap" size="16" crc="fb570e8b" md5="83e87677851da4e1268c84d1dc8a34d2" sha1="89aacf8bc3f251cd494622f36b74f17dff8801cd" sha256="504c19abdeee38cee995a2ce8a0c2e3a308a1c99cefa0f437c5b0dc687b5c4c1"/>
 		<rom name="mVcktLGlHPxSOAcxGBsnIlwcRmYMGaAVbnvDXyYQXdEgnGnIZGVLiDxDpxIlvLkD.pkg" size="1226384" crc="d4b7dd41" md5="c2a4712541964510823e3e53e84ee0e6" sha1="0c26fada0a2d87641e961944be337d030dbef820" sha256="7520700ca66fccf6d2738d9888e68a7e8f73ae4ee31251381a4b8390d8e2c35f"/>
 	</game>
 	<game name="Disgaea D2 - A Brighter Darkness - Eclair (USA) (DLC)" id="19290">
 		<category>Add-Ons</category>
 		<description>Disgaea D2 - A Brighter Darkness - Eclair (USA) (DLC)</description>
 		<game_id>UP1063-NPUB31321_00-DISGAEAD20000028</game_id>
+		<rom name="UP1063-NPUB31321_00-DISGAEAD20000028.rap" size="16" crc="1464fe00" md5="4fadb1efa9c7c6e5972595028ed95a3c" sha1="f2e73c74725c12968a1a97e2b11835f152bb30db" sha256="b6904ba91adcf689305d15b5fdac1a468d534dedde6cb807210742038f25bd1c"/>
 		<rom name="hUsaNoLodERnhqKGTlzAiZCQfHBtlkOSIxhEttmiLxIHZzTpGBFhSzpQOShJUzgE.pkg" size="1226384" crc="a749cb8f" md5="df61663f21dbfe769e8af8c11d432502" sha1="c366947a41e424f7550f0fe61bf048accffd31b2" sha256="9f3d775363c74f326dd7c581c8dcf7a6666d94696e80d9a62181b818be1644ba"/>
 	</game>
 	<game name="Disgaea D2 - A Brighter Darkness - Fuka &amp; Desco (USA) (DLC)" id="19275">
@@ -18426,6 +18514,7 @@
 		<category>Add-Ons</category>
 		<description>Disgaea D2 - A Brighter Darkness - Gig (USA) (DLC)</description>
 		<game_id>UP1063-NPUB31321_00-DISGAEAD20000031</game_id>
+		<rom name="UP1063-NPUB31321_00-DISGAEAD20000031.rap" size="16" crc="1f931a21" md5="dc42baf8c005c1ac3808b3947183a2c3" sha1="d2e2ba65067557e420166bc180839b1b0ce35161" sha256="3ed8f29d7df0070a961cc9b20e3ea895d81387a3444180fb96c751072fb95c23"/>
 		<rom name="ZnXFmhSMgKWmiDJoZDUVnhjJEHZIUTxXWisAQrUplJmJWVjUihYjjIDiVSaWdObp.pkg" size="1226384" crc="f7e4c94a" md5="90402c415271a046aa7cc78736285011" sha1="9341a0259629e6244365aaaa4f07fb8a29e3df2a" sha256="86d359b61a3eb26b11b2b13b91ee1012b48c28cc3f21b2ed51c49156cd47dc9c"/>
 	</game>
 	<game name="Disgaea D2 - A Brighter Darkness - Legacy Pack (USA) (DLC)" id="19274">
@@ -18439,12 +18528,14 @@
 		<category>Add-Ons</category>
 		<description>Disgaea D2 - A Brighter Darkness - Marona (USA) (DLC)</description>
 		<game_id>UP1063-NPUB31321_00-DISGAEAD20000023</game_id>
+		<rom name="UP1063-NPUB31321_00-DISGAEAD20000023.rap" size="16" crc="c99fb684" md5="51d17c69ce06ddd2e4b071649761ece4" sha1="ae23c0e7cdb7d4d7125876f13293580e13f6e23d" sha256="110aa779d094e875d83cc25b7192011d99d89844161611450e969985bc6af8f4"/>
 		<rom name="fDccYHpAfYBGkgFjvasaZfCaygwzIBKGVjKwSeiFlGeVmlsNmpHsyFYEaQRqntsG.pkg" size="1226384" crc="5c9ba097" md5="dcf70cbeb0076433a2d790865de8d28f" sha1="adceac33db510732450e5a6049dbbed261f52bfe" sha256="45aa9b16e60e9ceb0662ae3d13da7f4cf83df5d586bcf36d45839406080557e4"/>
 	</game>
 	<game name="Disgaea D2 - A Brighter Darkness - Nisa (USA) (DLC)" id="19291">
 		<category>Add-Ons</category>
 		<description>Disgaea D2 - A Brighter Darkness - Nisa (USA) (DLC)</description>
 		<game_id>UP1063-NPUB31321_00-DISGAEAD20000030</game_id>
+		<rom name="UP1063-NPUB31321_00-DISGAEAD20000030.rap" size="16" crc="f154be89" md5="179a7bdb31669783737b1e4f776136af" sha1="7f9963415224b9337f3c7744e3d6083a2b26f99f" sha256="f21355dc3635b25a2ce4928bb4c78591f5f40bb2f5ec800cb2bd64859f78760c"/>
 		<rom name="irafngrBEktDrCJWcclttPjbJqnRcGaYxVYgJqCMKjgcTFdubCcwmUdVkHzBcVkh.pkg" size="1226384" crc="2454a2f9" md5="a4d1b74e5112453ea9e9c096aafd187f" sha1="0277e19f1a4d777c3c636ccbefada1214bde13b5" sha256="dc7460d91e4c2de8259abf6537c392bd17d988e65f29d48b4866d9b006afeb3f"/>
 	</game>
 	<game name="Disgaea D2 - A Brighter Darkness - Raspberyl (USA) (DLC)" id="19280">
@@ -18452,6 +18543,7 @@
 		<description>Disgaea D2 - A Brighter Darkness - Raspberyl (USA) (DLC)</description>
 		<game_id>UP1063-NPUB31321_00-DISGAEAD20000015</game_id>
 		<rom name="OixjcxvjshCvCjXyYPOILWtiRwkZYiMPLxJuTlbUXqQtmvelBKUllrRRctxjSRhq.pkg" size="1226384" crc="3df3b155" md5="9bf1cecb644433fd509139259acc97f6" sha1="70d48c9abd8e00d576340c38c993ecc7c55714d7" sha256="49eb8c9e693e422ef200514e13ea037c18204749e4a0a830eb7c97240dddab05"/>
+		<rom name="UP1063-NPUB31321_00-DISGAEAD20000015.rap" size="16" crc="59d92697" md5="d8bee34773a4600d77fc8ca983e7864a" sha1="6c5fd72a03b2150f8e66da869c9fc1254b1f5381" sha256="0b1fcb1584cc21108dca9bf41993bcd0ed3fe139735539499f53a6b33ba80c81"/>
 	</game>
 	<game name="Disgaea D2 - Dengeki PlayStation Collaboration Character - Dengeki Prinny (Japan) (DLC)" id="23231">
 		<category>Add-Ons</category>
@@ -28884,6 +28976,7 @@
 		<description>God of War III - Arena - Challenge of Exile (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru) (DLC)</description>
 		<game_id>EP9000-BCES00510_00-000000CHALLENGEE</game_id>
 		<rom name="6gE8dHa0Rfpnn3Dowv5R3NpkoSfnWvhob05Ile1nQkTmQHLxlp9s4CY94psiW8j9.pkg" size="102400" crc="bcf87ff2" md5="2e35f76cceffacd535d534c30342f7bb" sha1="89b678dd4b7bad6a0224de6d11b1005b4032bc15" sha256="650c9a8ca6c3adb7f5c8cd31a34e8675543dedc35935d40d0dd2593b28dac543"/>
+		<rom name="EP9000-BCES00510_00-000000CHALLENGEE.rap" size="16" crc="e6ba143f" md5="709d7dee340a7d1113808f243255a2d5" sha1="2503595a00985f38985d3dfe046ffccb30a59795" sha256="910a79b462cef0c44a2e2d68c6c3bce5577a312106d91fa8aba80f086082c774"/>
 	</game>
 	<game name="God of War III - Challenge of Exile Arena (Europe) (DLC)" id="06079">
 		<category>Add-Ons</category>
@@ -28902,24 +28995,28 @@
 		<category>Add-Ons</category>
 		<description>God of War III - Character Design - Chaos Phantom (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru) (DLC)</description>
 		<game_id>EP9000-BCES00510_00-0000PHANTOMCHAOS</game_id>
+		<rom name="EP9000-BCES00510_00-0000PHANTOMCHAOS.rap" size="16" crc="97902151" md5="f974efa668727f285a038fbc84dd6f72" sha1="571d56950c811048af0fbe2d14c75434b8060ff6" sha256="fb226f2a5f6de303106736965eaff26f7ca1b16ad3779d71e5a0f0075d125194"/>
 		<rom name="OpWMUc35iOIhKIENRQ0Mn9qRCKf3l4CCIobjD5m0mIxBJrPwTd3RVVYrx4XDshmH.pkg" size="102400" crc="8686ca3f" md5="ea0dbd63902c3c445b7f5b7e6b195294" sha1="83ca6efcb5a83cc969ea1005b3e0fd9656963943" sha256="446924f9e7a355ddfdfe3af42323c7a948cd4ce873918de78ecdd61c30fc4b44"/>
 	</game>
 	<game name="God of War III - Character Design - Dominus (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru) (DLC)" id="06035">
 		<category>Add-Ons</category>
 		<description>God of War III - Character Design - Dominus (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru) (DLC)</description>
 		<game_id>EP9000-BCES00510_00-000000000DOMINUS</game_id>
+		<rom name="EP9000-BCES00510_00-000000000DOMINUS.rap" size="16" crc="2d1bf13c" md5="31c7241381dcec064914f8f9be2d62a4" sha1="67c375a571db3b31ae30840d647a82bfa49fa410" sha256="3d5e4a86ba8f36cc3e727a0ed8bb111f4613813a56075f50ba7ebd849e252ef3"/>
 		<rom name="S2cflvIhHCrn1VB01cnYc8YkyrSqV8MmejIcVYhHSnFMvvfAu8cILkB0Op75v5eI.pkg" size="102400" crc="9959b4ca" md5="b25cbc44ce68a8452d0cdfa03e407c03" sha1="19d1b175c01eeab74161ace09c96fb1080ef839a" sha256="38b4d38978ae348ee169760a926c43bde9a43357ca80bfff68e4d420b31b3cb6"/>
 	</game>
 	<game name="God of War III - Character Design - Forgotten Warrior (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru) (DLC)" id="06039">
 		<category>Add-Ons</category>
 		<description>God of War III - Character Design - Forgotten Warrior (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru) (DLC)</description>
 		<game_id>EP9000-BCES00510_00-0000FORGOTTENWAR</game_id>
+		<rom name="EP9000-BCES00510_00-0000FORGOTTENWAR.rap" size="16" crc="c852626e" md5="1ec773195986052d4c6edd25664fe2ba" sha1="fd169bb591789eb017804f5715d4918b07a49411" sha256="574a1ebf26075fff3ea98975d78538bffd50cba9ab1635b77cf9090fd0a58e38"/>
 		<rom name="sTdpXpS9WLOAWaflkffYKm5bTnB0hDBf0BtY3ysB0LoNIqrURCRxbHjV858mmTY0QLdineW0pyHbvL3moJ2458WErxJ82Hlsk2nyF.pkg" size="102400" crc="2db41114" md5="c2cbf45e8088d2f4c0e7d008516a8fd1" sha1="a9f839bd17e351538e141d3390a4d9ed2f9d4610" sha256="d2cdd3c880c2b321ec139c4065a31ee345d6f825cb12706be28dd1d90f57faee"/>
 	</game>
 	<game name="God of War III - Character Design - Morpheus (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru) (DLC)" id="06036">
 		<category>Add-Ons</category>
 		<description>God of War III - Character Design - Morpheus (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru) (DLC)</description>
 		<game_id>EP9000-BCES00510_00-00000000MORPHEUS</game_id>
+		<rom name="EP9000-BCES00510_00-00000000MORPHEUS.rap" size="16" crc="4efa48a3" md5="da99febfd77e39d1597eb971bec6ed1e" sha1="1eeb4de2807b3917af0e68b21aaa94c94b50d4da" sha256="54cf137f6eaf1417df07362e57d420eb3197e874f6bf1868ba38e9d824e41ff9"/>
 		<rom name="KrhDM4BGxVINoqYXdgoSMLIjSJC6xU4QWl4x7DAHahraE8oFepsfinFCyokGyMMX.pkg" size="102400" crc="61b2cefd" md5="aa41f588c8b6b347147e9fb47c933d05" sha1="2b5845c391d7ea8f5414bb9e2e2266efd63ddb51" sha256="fc6d4075849f502bd099169216655083a261219c8bb551c7dbab118e768ffe53"/>
 	</game>
 	<game name="God of War III - Deimos Costume (USA) (DLC)" id="20818">
@@ -31837,6 +31934,12 @@
 		<rom name="LKitK8iqtsiqj5riQTYeTkFIq5O2shArSS95WadYMWQpejYlKcJ0XfNT6dUYOYlE3gp3vI7dJg1bVyTmcygq3XNN18yr7s5r6lIRk.pkg" size="36770688" crc="f14d5e6e" md5="45828d2688518b0cf5ef96cfef9b2983" sha1="9b004b900dadca1b078aa225025dde0f285956fe"/>
 		<rom name="UP0002-BLUS30164_00-PGUITARHER000124.rap" size="16" crc="f3c6aa3b" md5="37c71cf553bb8372489239882bb50c02" sha1="88eb3c302e1a5da6a5032f36254a42513c6388ee"/>
 	</game>
+	<game name="Guitar Hero World Tour - Senses Fail - The Martyr (Europe) (DLC)" id="23966">
+		<category>Add-Ons</category>
+		<description>Guitar Hero World Tour - Senses Fail - The Martyr (Europe) (DLC)</description>
+		<game_id>EP0002-BLES00299_00-PGUITARHER000189</game_id>
+		<rom name="x8GWkCvi7yDV0EmpiwhJ2lN834p7UGAVrE9DoUofEB0d1dRp7SPU15HNqOYbQ54OSBBnLRATgMQ3PPMYOr5AjUxl1VRupnTnIFfUl.pkg" size="44646112" crc="e59a258f" md5="6c54904eaed6f8e028c95ba95fecbb5c" sha1="fe6c78952c02f1a671fbd5ae3bbf4b9aa9bb0e28" sha256="2220405f2574a43d5cca3959fa329cf75b8028adf27623a47fc97b69d192ef6d"/>
+	</game>
 	<game name="Guitar Hero World Tour - Silverchair - Tomorrow (Europe) (En,Fr,De,Es,It) (DLC)" id="00214">
 		<category>Add-Ons</category>
 		<description>Guitar Hero World Tour - Silverchair - Tomorrow (Europe) (En,Fr,De,Es,It) (DLC)</description>
@@ -31974,6 +32077,12 @@
 		<game_id>UP0002-BLUS30164_00-PGUITARHER000094</game_id>
 		<rom name="5f5tMHo4cNLWMTaaOm2J7MOvh2inCEhTEiFuAYe76Wl8vDcI2k6hhFylviOdVMeV2pw1TwrxHW8Tk3BhUIWeQre0P5vNS3l2Nhjq6.pkg" size="120856368" crc="f59160f0" md5="9ef02b5ac32de2bb6bde2a57e6137493" sha1="896825247e53a1f96d24fa3faefc944069b2d199" sha256="cb148666be6cf8157803335e963b6109e0f3d5704b37c71f76c9cbadfa1b9a0a"/>
 		<rom name="UP0002-BLUS30164_00-PGUITARHER000094.rap" size="16" crc="3473687b" md5="28caab0eeced775f56c83537f17b2643" sha1="b9be30daa35ea3d8b128de12521e5104a66925e3" sha256="f8f973773a5cf1ff4260731fdd172f95afc4e218e972da61b6ab2eebd5c76696"/>
+	</game>
+	<game name="Guitar Hero World Tour - Within Temptation - What Have You Done (Europe) (DLC)" id="23964">
+		<category>Add-Ons</category>
+		<description>Guitar Hero World Tour - Within Temptation - What Have You Done (Europe) (DLC)</description>
+		<game_id>EP0002-BLES00299_00-PGUITARHER000111</game_id>
+		<rom name="l2gCEd4XVh6F3jhB3yNBg1Hykm2RYBHITulrklIw6O0gwacfoSPBHsjUH9OcVBR2msYCEbDlCBVfg5aqOnNPWdXBR8CmyShXJ00Ub.pkg" size="55429568" crc="d2eb1741" md5="24d860c2fe3d158804bcedb80f9bf639" sha1="cbfe31e8e98d537afd34f223f6fd27a4e34cd8cb" sha256="cc5b48425af520f8607aa4eb0cdf891b4c657bf65f594676afcf64d5448c9b7d"/>
 	</game>
 	<game name="Guitar Hero World Tour - Wolfmother Track Pack (USA) (DLC)" id="14224">
 		<category>Add-Ons</category>
@@ -33013,6 +33122,7 @@
 		<category>Add-Ons</category>
 		<description>Hatsune Miku - Project Diva F 2nd - Costume Module - School Club Girl (Europe) (DLC)</description>
 		<game_id>EP0177-NPEB02013_00-PJDF2DLC04NER195</game_id>
+		<rom name="EP0177-NPEB02013_00-PJDF2DLC04NER195.rap" size="16" crc="f945f7e2" md5="dc1bc6b2420adb196ae91c84c51a342e" sha1="f8c24a22c8b38d8cd7882b71f4d8c45f6b475cea" sha256="2b5c76c7fb809cc70e10df5084e24303be2ec0683cda4648d6489f9eefbbbdfb"/>
 		<rom name="zGxwjXeJSKWtMMDvpxJPQcgBTSceTbivbTxTfQEPKQpwLrHnaDdBWjGovlQmyOIC.pkg" size="2482736" crc="0faab8ef" md5="b6366bd8ffc43ce0c731f37d626f0774" sha1="ea2a5fe22968f1f63e5f702b61873d4fbadc45a0" sha256="fd9a4a48e91dd7029f788d1a44552c729fea53db3457499c009f9f826e8df59d"/>
 	</game>
 	<game name="Hatsune Miku - Project Diva F 2nd - Costume Module - Yowane Haku - Gothic Purple (USA) (DLC)" id="16721">
@@ -33664,11 +33774,13 @@
 		<description>Hatsune Miku - Project Diva F 2nd - Skin - Beniyo (Japan) (DLC)</description>
 		<game_id>JP0177-NPJB00435_00-PJDF2DLCSKN37018</game_id>
 		<rom name="AxZqIbkaqsJWWJubyUulASKJHTgiSsUVTrNDkIXweWlstbDTivjMGPlPgQywBzSWwCaEXPHfwPsFNxHGNVCjbPoKEGHWULuJALYsR.pkg" size="298080" crc="c00e0f91" md5="48a45bd90ed70121ae4e96ddeedc1647" sha1="7ced523a053a4a6182e0ce6212d0c940f852a5ab" sha256="2571061644f8d82e27925f43b6fb60a626b24c78539becf0e305ffcbd929c909"/>
+		<rom name="JP0177-NPJB00435_00-PJDF2DLCSKN37018.rap" size="16" crc="8a27a57d" md5="871441bce1b7fbf6f39a2a0744ec82e5" sha1="96e54d14cbbaa562bf91604e24ad6e1bb8c01303" sha256="2bc5056332e5ecc899f05741bcace1dd2812bb9a38ef082552e390ab44781d73"/>
 	</game>
 	<game name="Hatsune Miku - Project Diva F 2nd - Skin - Kaito - Flower (Japan) (DLC)" id="10809">
 		<category>Add-Ons</category>
 		<description>Hatsune Miku - Project Diva F 2nd - Skin - Kaito - Flower (Japan) (DLC)</description>
 		<game_id>JP0177-NPJB00435_00-PJDF2DLCSKN38019</game_id>
+		<rom name="JP0177-NPJB00435_00-PJDF2DLCSKN38019.rap" size="16" crc="1b0319bf" md5="9e02a6805a05ce00bb71c594c06a4795" sha1="8718ac49d0d662e1bdff491e179faa62bbb4ff4f" sha256="ed329c4e61c804609677c7dd2efb0e95dcda5df0cd63330ad09544e654e1a6c6"/>
 		<rom name="sPWqLodkgDctzOmuWBdXdISvsvokEjJafwZipVgYyDjNPkblGSgbthxhnhnvdbHhhRYylrRiNBbvtqBTZPFcwIkEmjPUOjlMbonVt.pkg" size="156704" crc="55f0b78c" md5="3106dea6073d672bbd97d10e861a80f3" sha1="7d0c87766896bd8c24ffdbf768898866574a447c" sha256="196cfcc3697412b9c17404477c88eecc614fe35d5102b3f4d95d341f2c149b06"/>
 	</game>
 	<game name="Hatsune Miku - Project Diva F 2nd - Skin - Noel Rouge - Seam (Japan) (DLC)" id="10861">
@@ -33676,12 +33788,14 @@
 		<description>Hatsune Miku - Project Diva F 2nd - Skin - Noel Rouge - Seam (Japan) (DLC)</description>
 		<game_id>JP0177-NPJB00435_00-PJDF2SKN022ID805</game_id>
 		<rom name="AguxXTHilMZbwVeEayCowVqtrOhDcRfqBTACSqtiUHoKxBzoVszSgSqVqDcGVPkxjLZRHbNrDlvTCWUcvDzAvuLhIqPPpKLBqCXmy.pkg" size="190368" crc="6f3c05c6" md5="57e7a6b246a8fda3fce97859925a7f30" sha1="185d05b5e8af9697a5450c0b1f8017fe0258dd69" sha256="e6b2c21a4fd966e8be656a592169ebf0dcf07489604043809d16a9f152ebf4e4"/>
+		<rom name="JP0177-NPJB00435_00-PJDF2SKN022ID805.rap" size="16" crc="3bb45851" md5="198a4cc3cd6e9fa8da8dfb7aac5346ca" sha1="3598aaa91d4f981f8de8ffe1eb436fcaf2855cac" sha256="3d3aa93807163dcdd5273ac59adb95593360108ec8ab85a393221abd162da793"/>
 	</game>
 	<game name="Hatsune Miku - Project Diva F 2nd - Skin - Sakune Meiko - Lace &amp; Pop (Japan) (DLC)" id="10862">
 		<category>Add-Ons</category>
 		<description>Hatsune Miku - Project Diva F 2nd - Skin - Sakune Meiko - Lace &amp; Pop (Japan) (DLC)</description>
 		<game_id>JP0177-NPJB00435_00-PJDF2SKN023ID806</game_id>
 		<rom name="EQXMYZvkxEFTxAsETVuvFIbbJYsHgQBCAuSIgICBnoaduRfpHZJlWtfJIJgIOuBBqiSapJkfoUZWGrHQxWckUcmOEtsVdNSsyHjdS.pkg" size="172512" crc="9b15dbeb" md5="c9c8dd81ef0a01715ea7b26656eeda9c" sha1="1eb828d0f96bede0ae355afbb2187836c977174c" sha256="10f777f1dae366cda49c94fd37cd348bd1abc6b6b339743803f0e26dbc6f8eb4"/>
+		<rom name="JP0177-NPJB00435_00-PJDF2SKN023ID806.rap" size="16" crc="35769265" md5="d97117738e8b80b5e57e1d75ffbc3312" sha1="a489d51459f1a247f947609f0f0bd663a71b6fc3" sha256="44647b275379bd8083919555c21434dd15f7fa5f552d91ed6c324af4bc80a86a"/>
 	</game>
 	<game name="Hatsune Miku - Project Diva F 2nd - Solitude's End (USA) (DLC)" id="16784">
 		<category>Add-Ons</category>
@@ -38415,6 +38529,7 @@
 		<category>Add-Ons</category>
 		<description>Idolmaster, The - One for All - Fuwa Fuwa Wristband (Japan) (DLC)</description>
 		<game_id>JP0700-BLJS10260_00-I120110000000000</game_id>
+		<rom name="JP0700-BLJS10260_00-I120110000000000.rap" size="16" crc="3be2b1d3" md5="8a9f79d158dc1d6330ee930bbd0b066a" sha1="6ec5ca371303d258cd961f23dfe4301c9db54dc5" sha256="13913f72f38893debc54338c132a981306bac8d8c59d9e03615d884d1aa74180"/>
 		<rom name="JP0700-BLJS10260_00-I120110000000000_bg_1_9ec83a6a7d80bdd290edc24674a9501ee4c479a2.pkg" size="102400" crc="eba8e7db" md5="84d130b8c65d26c0ef5c7ddc6b695e16" sha1="5a08d84e695181a36be2c1f17ac9629cfbf6a3a8"/>
 	</game>
 	<game name="Idolmaster, The - One for All - Gero Gero Puppet (Japan) (DLC)" id="11335">
@@ -42580,6 +42695,7 @@
 		<description>Kingdoms of Amalur - Reckoning - Finesse Bonus Pack (USA) (DLC)</description>
 		<game_id>UP0006-BLUS30710_00-RECKFINESSEPACK0</game_id>
 		<rom name="REnHaBohIRpfTvMDWnhbPunJnOEbwQQiZaRhCqBzhGwaZMoYsnyVKHhGBwjaAvMxstkyqCjbwTadLuHEGzrfKiwkyWbhYZlBHwyWl.pkg" size="15214784" crc="7962ca7a" md5="97434b13aa9c7926041abacd1d5c412b" sha1="e29ef346f27c06890ae5b63b5974247f8f68f0f0" sha256="d322797697ae324304fe570d8d19a3afa6466bd52c85e13e9ec97622590eda5a"/>
+		<rom name="UP0006-BLUS30710_00-RECKFINESSEPACK0.rap" size="16" crc="8c207d88" md5="c1b3ae72ed6f916d55c514f994a3699c" sha1="11b9f9bcb4cc2f2337e30c0bc37f4154834d28b2" sha256="2aece143f17cd38b88a30d984772ef92f544f7a54b3059ed712096d913b288aa"/>
 	</game>
 	<game name="Kingdoms of Amalur - Reckoning - House of Valor &amp; Online Pass (USA) (DLC)" id="15820">
 		<category>Add-Ons</category>
@@ -42606,6 +42722,7 @@
 		<category>Add-Ons</category>
 		<description>Kingdoms of Amalur - Reckoning - Sorcery Bonus Pack (USA) (DLC)</description>
 		<game_id>UP0006-BLUS30710_00-RECKSORCERYPACK0</game_id>
+		<rom name="UP0006-BLUS30710_00-RECKSORCERYPACK0.rap" size="16" crc="161fb2a6" md5="fe0d6ad0299c1e6d94b0b2c5c6463971" sha1="f753e9f9c4e8ad4574064880488f2865e30390b8" sha256="f10f699864951628bf1147b0526fcafca51dfaed869b0fe27570db6b4ccb94e1"/>
 		<rom name="orBnMwgIfaCcKNbcLmOWGApYRxQISSKSzHDXaRFNyUDAbQuGtGbXVgwondKbbBgRreuxtBPOxoUXfoaSBsURSOuDCLDaAFLLDokJF.pkg" size="13526464" crc="01918139" md5="819acad4fd960801aa35e7d9b4976070" sha1="af174d1eba188c7df2e467165a4a6456ca70285e" sha256="f2cb0bd1cf3ca2ebffd86e72e230da8630f0ccf9a745c2159a5c94b9f41ee7b5"/>
 	</game>
 	<game name="Kingdoms of Amalur - Reckoning - Teeth of Naros (USA) (DLC)" id="15815">
@@ -43455,6 +43572,7 @@
 		<category>Add-Ons</category>
 		<description>Last Guy, The - Bonus Missions (USA) (DLC)</description>
 		<game_id>UP9000-NPUA80154_00-THELASTGUYEXT000</game_id>
+		<rom name="UP9000-NPUA80154_00-THELASTGUYEXT000.rap" size="16" crc="29da086f" md5="f79178d81e3c541e30d2fb3011cdfc0b" sha1="6055ad6733c0db3c7d9716091acc94af25f1fc8e" sha256="44438e60b26375436a9633dd1d6cb828aa4c8012aedf91376329aa7fc8b612eb"/>
 		<rom name="yHPajshqwup8kqvR1wAcV6AlmDcvxrvgrOwOfvQqSRsDE2HxMjf7crI0vPTtRUWNIDpr6MSdyX8HLvNQA0pYC3stvE7hIgUh48tJh.pkg" size="70294736" crc="1def28b3" md5="e2915b056c2900af5ace81cee04572bc" sha1="d9bca6a97b8b02b9f392a678adbe0df191ffc787" sha256="83f0cbb291c18a92826e65d3a5e014dd4ec5861d06a04cb56cc5035477bcc5e1"/>
 	</game>
 	<game name="Last of Us, The - 100 Bonus Supply (USA) (En,Fr,Es,Pt) (DLC)" id="21754">
@@ -48538,6 +48656,7 @@
 		<category>Add-Ons</category>
 		<description>LittleBigPlanet 2 - DC Comics Brainiac Costume (Europe) (DLC)</description>
 		<game_id>EP9000-BCES00850_00-LBPDLCWBDCCO0005</game_id>
+		<rom name="EP9000-BCES00850_00-LBPDLCWBDCCO0005.rap" size="16" crc="8428b905" md5="61d3eb29510e610589d1ab34e3196a61" sha1="fe1169bac16b7853c1c5d1bb75e77971d3ff6f7b" sha256="a1c382a25d035cf6db84a1aacca229127efe845e5e2a2d17c8e0f127b8bd4a11"/>
 		<rom name="rnBUYoBrktSocCDEKoegGEaLKnaLbeqExnvttoKoZJrtBPJbOezvSPgiIIPynROo.pkg" size="112192" crc="d4ce8918" md5="050cf07d09a708167a5555a8b546545f" sha1="fa9a8901cb431299ab5aba0f4345f3ae0a64ddb8" sha256="86c6b48529647087b3e597b1fe46196b258de376678354c1f017645691e678f7"/>
 	</game>
 	<game name="LittleBigPlanet 2 - DC Comics Captain Cold Costume (USA) (DLC)" id="22550">
@@ -48690,18 +48809,21 @@
 		<category>Add-Ons</category>
 		<description>LittleBigPlanet 2 - Dc Comics Green Lantern Costume (Europe) (DLC)</description>
 		<game_id>EP9000-BCES00850_00-LBPDLCWBDCCO0012</game_id>
+		<rom name="EP9000-BCES00850_00-LBPDLCWBDCCO0012.rap" size="16" crc="7c7d8fa1" md5="ad8adce8fcbb7a51811de77fc7aace17" sha1="d026377d926544be04395868f35a76d16716e2f2" sha256="7895e47624fa08c83f255615b9335a4c7c7fb95da6a617dc3e924b2589bbbe2f"/>
 		<rom name="bSOVjsDGLfURtBaKatFNeEKIZimsboTxoClXnSScWxcWlwVduNiNDYizlcQSVlnx.pkg" size="112208" crc="63951142" md5="efd1247daf479a5b2116dc873cf25b51" sha1="6bf88d19a312a81ede27634dd9116e07b987f25b" sha256="a5c8146cc55cdc9900c7717d016892760dec7639e37322ab4b824672956dcdf8"/>
 	</game>
 	<game name="LittleBigPlanet 2 - Dc Comics Shazam! Costume (Europe) (DLC)" id="06176">
 		<category>Add-Ons</category>
 		<description>LittleBigPlanet 2 - Dc Comics Shazam! Costume (Europe) (DLC)</description>
 		<game_id>EP9000-BCES00850_00-LBPDLCWBDCCO0017</game_id>
+		<rom name="EP9000-BCES00850_00-LBPDLCWBDCCO0017.rap" size="16" crc="3a0df3b7" md5="f2410fd3a84776bca76ccc913495effd" sha1="8df1bfff451defc2e5522751f895cd839085ba5f" sha256="688f2a938144c706881211434976192fa80727874ec3558347512db387675225"/>
 		<rom name="UmejmdzOBtqnukLJJSshvhnTPjfGwxMuTUxrNhwuGqsukgKpBbrJMNTEXlYglIKu.pkg" size="112192" crc="b510f782" md5="a4ec7b8775b91abc82a9115c558fc098" sha1="c91024fa4cae3785341e4d218b646734d1e6ed0e" sha256="fdd7d15fb23bbcf25c1d84ff82bedc042f867f10b6fd70edbf5951c64419832a"/>
 	</game>
 	<game name="LittleBigPlanet 2 - Dc Comics Sinestro Costume (Europe) (DLC)" id="06175">
 		<category>Add-Ons</category>
 		<description>LittleBigPlanet 2 - Dc Comics Sinestro Costume (Europe) (DLC)</description>
 		<game_id>EP9000-BCES00850_00-LBPDLCWBDCCO0013</game_id>
+		<rom name="EP9000-BCES00850_00-LBPDLCWBDCCO0013.rap" size="16" crc="eadfc25b" md5="c2303489d5e4dc0c2debeeade46b41a1" sha1="c85a8c96486964e2a266319a7baad7161fb8ee8e" sha256="9d49ce9e78e51adcb33230fe6d144e5185ae95e9afac603ef04c0258520d17f4"/>
 		<rom name="WqJWHCkZBwHAdfuXSuYWSEYoMVgxlZqRjHRZDQbwPnjhmRYWtCDJMzqQMwMWclAT.pkg" size="112192" crc="f3c1c081" md5="12f17f0630f2498e86ba4335bb8a8b32" sha1="792d3d389f725d63e3b516bd4583efd6a37e7350" sha256="443189d71ba840cfa1d70246503b9d008f5d8e8f91deea2d5e735e1d281e905f"/>
 	</game>
 	<game name="LittleBigPlanet 2 - Dead Space - Isaac Clarke Costume (USA) (DLC)" id="22373">
@@ -48970,6 +49092,7 @@
 		<description>LittleBigPlanet 2 - Football Asset Pack (Europe) (DLC)</description>
 		<game_id>EP9000-BCES00850_00-LBPDLCLBPCUPCP01</game_id>
 		<rom name="DBitvPYuKmloSEucNBktrxauqRHGuGdXaUFFZhbjmhsLPmxKHPCXtrPtTDSspDia.pkg" size="112352" crc="4e696521" md5="0d38d53270a06fabacf86ff59d85c77a" sha1="c0db229c4d1b868f5c41e7d50e0238e4ddd3bbb0" sha256="4f0436214f4f5ae58c41dc4f0785730970dd9876611a51d81e3144435bc086cb"/>
+		<rom name="EP9000-BCES00850_00-LBPDLCLBPCUPCP01.rap" size="16" crc="efb17b8a" md5="745a2f1a198f992e4b9520c21c9f9bc0" sha1="5e4412453f72618d6db3c2a73e2865f9500a0a0d" sha256="f9bc4e22ecd50fea77fabcc52b66df03167f0df7ca8940599f3eabd61bbb89cd"/>
 	</game>
 	<game name="LittleBigPlanet 2 - Fozzie Bear Costume (Europe) (DLC)" id="06092">
 		<category>Add-Ons</category>
@@ -49809,6 +49932,7 @@
 		<category>Add-Ons</category>
 		<description>LittleBigPlanet 2 - Sackboy's Casual Friday Costume Pack (Europe) (DLC)</description>
 		<game_id>EP9000-BCES00850_00-LBPDLCORIGCK0016</game_id>
+		<rom name="EP9000-BCES00850_00-LBPDLCORIGCK0016.rap" size="16" crc="7a9a8f9c" md5="b88050c76ac909868fc333bd7d1211f8" sha1="0b631a1f1a2e048a34848eaa47d7f30bf2dec3d2" sha256="c51916c63e9048d10e6c07a80860437841e6b51d54130f23f951856434224db5"/>
 		<rom name="xjJjCJfUSqlTcSwcMeKxgLTEoBZXfuAJBgBBPKtGDmJtpAsgrCjUkqssjYrthXey.pkg" size="112304" crc="315c536e" md5="b4afeb9515765aa5e3e3297476a3391c" sha1="72b13134983862c9048d457a4271ed61fab8078b" sha256="2af6d5d5a0488e10e29e50086c8ad64311c19083556e9a3e773a4826f79c2783"/>
 	</game>
 	<game name="LittleBigPlanet 2 - Sackgirl Cosy Green Costume (Europe) (DLC)" id="06137">
@@ -49835,6 +49959,7 @@
 		<category>Add-Ons</category>
 		<description>LittleBigPlanet 2 - Samurai Warrior Costume (USA) (DLC)</description>
 		<game_id>UP9000-BCUS98245_00-LBPDLCORIGCO0073</game_id>
+		<rom name="UP9000-BCUS98245_00-LBPDLCORIGCO0073.rap" size="16" crc="64aa90eb" md5="fa3453f01b4ced230145a4ecc2cab091" sha1="4ced947b1e5b7c279ed868ce59c59c8f34902197" sha256="977f50916fa3ae4d70bdbd5280c1fdfc2883869260745801478ea27eb0d858d1"/>
 		<rom name="eVWYwxuHPknjeWPSrPYGltWxOGQrOYYLlSEDCBFRyCmArUCnlAdSHibMDsMmrIYc.pkg" size="112192" crc="5ffe3676" md5="c4e339f2c268230c2ae44483cdb86f48" sha1="66d3e2676b8b208a8643456cf8351590e767f3f1" sha256="6f45e2edf07cea384c859594b23e493d28629b384987b197801fbb8286dadb87"/>
 	</game>
 	<game name="LittleBigPlanet 2 - Saracen Warrior Costume (USA) (DLC)" id="22457">
@@ -51542,6 +51667,7 @@
 		<category>Add-Ons</category>
 		<description>LittleBigPlanet Karting - DC Comics - Brainiac Costume (Europe) (DLC)</description>
 		<game_id>EP9000-BCES01422_00-LBPDLCWBDCCO0005</game_id>
+		<rom name="EP9000-BCES01422_00-LBPDLCWBDCCO0005.rap" size="16" crc="66578676" md5="c25626254b0d9c34403862dfd8590458" sha1="1c9d6c23e26ffcd09c17b3f598c62060742d9423" sha256="cd71f0b4a19d9c6380fa12be5fad69bfc891836201890a45c974e443f28385a5"/>
 		<rom name="qacVZzMGtqEUbmfdAJKFocgnKVRhMigpCBJnScjGQdXjeEpTQLbyIqqZcsjDThBA.pkg" size="102400" crc="e081926c" md5="7e0c677fe288e34f9e7ad28590f01c3e" sha1="458487da7c4b2ad0df422edf8fa8026d68fb2fe8" sha256="13dc8d7493b82fdacfb95c10105d257c4a358833b59dc7a4e02a8fc027c22ee4"/>
 	</game>
 	<game name="LittleBigPlanet Karting - DC Comics Aquaman Costume (Europe) (DLC)" id="23158">
@@ -51729,18 +51855,21 @@
 		<category>Add-Ons</category>
 		<description>LittleBigPlanet Karting - Dc Comics Green Lantern Costume (Europe) (DLC)</description>
 		<game_id>EP9000-BCES01422_00-LBPDLCWBDCCO0012</game_id>
+		<rom name="EP9000-BCES01422_00-LBPDLCWBDCCO0012.rap" size="16" crc="05c8fee7" md5="38bbf2a539ddcd84af92b131604b5999" sha1="2d962eacecfefb5488fb7c6f9aadce4485dc9bf6" sha256="410090a2818354afb5b2221c816e2b7d5663f0c89e84af679643faa6a739d0d6"/>
 		<rom name="UdWqznLoWbgJgsCwNuRGLzVhUjbwUqkQvqGyMDvJoADyNSZUegqYrKSImRxOvBGW.pkg" size="102400" crc="fa1210cd" md5="c2b75aabddc9ee411de383f61c3455dc" sha1="056eeb8587635a8ecb38d18d7ce1ea7f2b30d9ca" sha256="c6778cecb04e0efb4e91b802c104b251c69d0cc47bbe60b6814d3fba626c8b54"/>
 	</game>
 	<game name="LittleBigPlanet Karting - Dc Comics Shazam! Costume (Europe) (DLC)" id="07008">
 		<category>Add-Ons</category>
 		<description>LittleBigPlanet Karting - Dc Comics Shazam! Costume (Europe) (DLC)</description>
 		<game_id>EP9000-BCES01422_00-LBPDLCWBDCCO0017</game_id>
+		<rom name="EP9000-BCES01422_00-LBPDLCWBDCCO0017.rap" size="16" crc="32888da6" md5="fd383f8b9d2fa45359e4de3627b3c0b7" sha1="459d88fb947a5a55a30d92dedf733b581fb414d5" sha256="ca244f8deaa8186cf1cf58dd1cec80fb8a46ce4d161fe81482427e6b09884a1b"/>
 		<rom name="jVwCebiLvDdcjTxPpyCylEPuclygEVMOQsNmPVnrGmJpAPJnffmxOiaxygPJpFaM.pkg" size="102400" crc="af76c567" md5="6a2ae973f9a477f2c28923799b7bdb17" sha1="bf1add37a3e1328205a0791a40e8275a9b7ba692" sha256="bace5a8ab4c50bc6989a2524db9772dc363d06b63ccaeb0fcdc5d1c1566b8902"/>
 	</game>
 	<game name="LittleBigPlanet Karting - Dc Comics Sinestro Costume (Europe) (DLC)" id="07007">
 		<category>Add-Ons</category>
 		<description>LittleBigPlanet Karting - Dc Comics Sinestro Costume (Europe) (DLC)</description>
 		<game_id>EP9000-BCES01422_00-LBPDLCWBDCCO0013</game_id>
+		<rom name="EP9000-BCES01422_00-LBPDLCWBDCCO0013.rap" size="16" crc="3668a3d1" md5="d1281dedffa04434d6968bfe0530e18d" sha1="fa60c55856f0e10358fd65c4b62a733a1affeebf" sha256="1b59da851b45a24441941cf6e4a99b898c00a2ec6920e41100e2502200f23fad"/>
 		<rom name="yjFSqWilOjqMxxKMeTuwJbJPAWLzcQRJaoWywxKMHxMZfrqqaCPTUGrjhpsHSLLt.pkg" size="102400" crc="b08bb4ff" md5="a5b2c3a9e3bda1e4ac6b3f28bcec1d6c" sha1="b0d04d6a20155589eaca711b35513e3bcc385cf9" sha256="c1fd3862e8ede56ccae0f3c8be1ca30ab8117ca7dbdfe3157f29622c3dc80ee8"/>
 	</game>
 	<game name="LittleBigPlanet Karting - Dead Space - Isaac Clarke Costume (USA) (DLC)" id="12294">
@@ -53451,6 +53580,7 @@
 		<category>Add-Ons</category>
 		<description>LittleBigPlanet Karting - Sackboy World Fan Costume (Europe) (DLC)</description>
 		<game_id>EP9000-BCES01422_00-LBPDLCLBPCUPCP01</game_id>
+		<rom name="EP9000-BCES01422_00-LBPDLCLBPCUPCP01.rap" size="16" crc="a233cda8" md5="af5fb93c69a12ad762b72c8da2e67068" sha1="f1f9421254e36bcf22b4bca702f84b893838afe6" sha256="b05064fbe07f82e968c4233b4131d531d11a5eb240eb5c7f84dc8c36fec94f6f"/>
 		<rom name="YrlFDqTprUADBAIBQEEXHHmgljtkjtdWukHpUTlrEqeEskhLKvxeRUCiQOwtVVpy.pkg" size="102400" crc="2d926f92" md5="eec8d077905bb2707725252416522dbe" sha1="11494ff4456b5d7d4ccb9591cde23d7c57adbd54" sha256="e19012582d573768b90d22882a71475bc144c8a4d30f6f5d931df3a7455bcf27"/>
 	</game>
 	<game name="LittleBigPlanet Karting - Sackboy's Casual Friday (USA) (DLC)" id="12361">
@@ -53464,6 +53594,7 @@
 		<category>Add-Ons</category>
 		<description>LittleBigPlanet Karting - Sackboy's Casual Friday Costume Pack (Europe) (DLC)</description>
 		<game_id>EP9000-BCES01422_00-LBPDLCORIGCK0016</game_id>
+		<rom name="EP9000-BCES01422_00-LBPDLCORIGCK0016.rap" size="16" crc="4ff29804" md5="aac068d82aac0c9d42607c31c3e8ac32" sha1="16bd43b06c7bb7cb605e34bd8cbc8b207adb6bfd" sha256="6f966f92ae26d29d58180b0b577b4e418798d76dfc772d43d81661b0b7d9e617"/>
 		<rom name="ZPjMEVDhsILzEbMBgxJBTLHdtWadacYKUtYrTRMvQrJWZAWBdVjOxgqzJmlQwcGa.pkg" size="102400" crc="8f7b4384" md5="60c55be2c053cdc61c4e7096bc3b7b5f" sha1="6ea3a7e4dd0acc94b8cc1b4d56999d46eadf4a25" sha256="b5add6ccdc34e3530cd2d534874f59a4e2d09f864378cd6c7c254de1688d1962"/>
 	</game>
 	<game name="LittleBigPlanet Karting - Sackgirl Cosy Green Costume (Europe) (DLC)" id="06952">
@@ -54331,6 +54462,7 @@
 		<category>Add-Ons</category>
 		<description>LittleBigPlanet Karting - inFamous Costume (Europe) (DLC)</description>
 		<game_id>EP9000-BCES01422_00-LBPDLCSONYCO0018</game_id>
+		<rom name="EP9000-BCES01422_00-LBPDLCSONYCO0018.rap" size="16" crc="197f7f88" md5="33156c715a0a040eb017362a70a9fd0a" sha1="9688312e014667a6ead6ca6dfca601825c2aa7f6" sha256="7cdf49f4673c7979b1d600b1bf9864066f365aa7905f9098ddd0fb6458ee4f84"/>
 		<rom name="OhWMyNYhyswKZjqjzKMDnfhRDfNpRRbjxKCkSBfsLJWwQoBxSFtQqLhwRjhzJYkU.pkg" size="102400" crc="6f07cc0e" md5="506f95ec00a64f3e7e426b55e915fe87" sha1="ffbb9c93d947c50261b590ec28abba69b6c1e36d" sha256="dd766c2934b62d635935cc5ed0c894e858155ef9d65c99f68869d62eff73272c"/>
 	</game>
 	<game name="Lollipop Chainsaw - Ash (Europe) (DLC)" id="03477">
@@ -57468,6 +57600,7 @@
 		<description>Mighty No. 9 - Ray Expansion (USA) (DLC)</description>
 		<game_id>UP2047-NPUB31733_00-MIGHTYNONINERAY0</game_id>
 		<rom name="UP2047-NPUB31733_00-MIGHTYNONINERAY0.rap" size="16" crc="fccb6d08" md5="54d3d717011f32d83f768d37a4a78400" sha1="fd993a8affb562def459e8ecc4b2827b854ceda0"/>
+		<rom name="UP2047-NPUB31733_00-MIGHTYNONINERAY0.rap" size="16" crc="0cc24cf0" md5="2733af809d07c9f28d270286c163ccc0" sha1="18c84165d6735a37702220cf242185c53b6eb43b" sha256="3aaed6167c3abfcc116a79cc36b9fb87cdd323366280e3e298a79d216c441454"/>
 		<rom name="UP2047-NPUB31733_00-MIGHTYNONINERAY0_bg_1_1bfdb49e40b32617e2bdecd6242e311ac25f06e4.pkg" size="79709344" crc="701cd228" md5="41092d10296dcd2483ee588b6a3439d6" sha1="bf497e0ccff08515136375620fc3aae81a6500e6"/>
 	</game>
 	<game name="Mighty No. 9 - Retro Hero (USA) (DLC)" id="19588">
@@ -59770,6 +59903,7 @@
 		<category>Add-Ons</category>
 		<description>MotorStorm - Arizona &amp; Patriot 85 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (DLC)</description>
 		<game_id>EP9000-BCES00006_00-000MSEULITEPACK1</game_id>
+		<rom name="EP9000-BCES00006_00-000MSEULITEPACK1.rap" size="16" crc="4e9e83eb" md5="6dc13282d9c2a486fbc447ea6ee52e16" sha1="28a125e2d54ccf0fbd0c39159f1373c732b19292" sha256="2605ced0b84a201969be4855f690383252931a3ba45cdc1f1663bf97fe0a5586"/>
 		<rom name="jbWFyRJy8hLq3TGEu63REBwVteAkQsY7lHcyHoslYOF4MB1JB41AkrVYlOM0UXjCAgTaYt9KcpwpVcdEuK03OM7Xivugl2kReLBp4.pkg" size="102400" crc="bc08e9c7" md5="fe8d6c10c50db0cf9aa26717df589a58" sha1="9417d4319fdf41c99d272cb24e23645e0ddb1fdb"/>
 	</game>
 	<game name="MotorStorm - Big-I-Bunny (Europe) (DLC)" id="23377">
@@ -59777,6 +59911,7 @@
 		<description>MotorStorm - Big-I-Bunny (Europe) (DLC)</description>
 		<game_id>EP9000-BCES00006_00-0MSEUSTYLENSKULL</game_id>
 		<rom name="EP5Ts3iCwrG21GdRYLp9RXaPrdcHyOfD4UKSbG3N5oXj1jb14Hm8aALQRkfFegxkS7PmiVFav9h7dU7KdgjnUxWgRl3Lpp8LkhyUp.pkg" size="102400" crc="51b5f91c" md5="555a93e331acaca6f381f5505ff17702" sha1="ec521945c4510f389ef83fbb1779b9d44aba9cb6"/>
+		<rom name="EP9000-BCES00006_00-0MSEUSTYLENSKULL.rap" size="16" crc="e0e61a3b" md5="29821fe97d23ee22f486d11dd2690d8f" sha1="a5fbd684cc2944d2fbd524ebd6a271471308e1c9" sha256="c2c03b6a317c768bda679a1a5261b52b396223f001322d78f226cd99b5afd41f"/>
 	</game>
 	<game name="MotorStorm - Capitano &amp; Varjack (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (DLC)" id="05737">
 		<category>Add-Ons</category>
@@ -59802,6 +59937,7 @@
 		<description>MotorStorm - Crazy Samurai - Quick Foot (Europe) (DLC)</description>
 		<game_id>EP9000-BCES00006_00-00MSEUSTYLECRAZY</game_id>
 		<rom name="4y8d5VTj1d0Q5JA2Xdvu8fmfgTvuIGrC623521rvWnsBbScHGTcJCNuvRGQUUQ6ReR7mlgd5ewvQRJKa9ijLTnf6weqn886FTrJtC.pkg" size="102400" crc="5a72ae1d" md5="6614e3af5c60dd4947a1f1e76217166e" sha1="2b66c4f3d03d9d889f68619b38c32fedf86cb9a7"/>
+		<rom name="EP9000-BCES00006_00-00MSEUSTYLECRAZY.rap" size="16" crc="638f532d" md5="f03eee19114fbbe3523393bbf0213a49" sha1="86eaf1170f61d4613e24fb605abfdf9f9250e89a" sha256="9304c463571724460d975c119f048c5cdbb1c91d4fdc3e211313dce787ae5fac"/>
 	</game>
 	<game name="MotorStorm - Devil's Weekend (USA) (DLC)" id="20912">
 		<category>Add-Ons</category>
@@ -59852,6 +59988,7 @@
 		<category>Add-Ons</category>
 		<description>MotorStorm - Numskull (Europe) (DLC)</description>
 		<game_id>EP9000-BCES00006_00-000MSEUSTYLEBIGI</game_id>
+		<rom name="EP9000-BCES00006_00-000MSEUSTYLEBIGI.rap" size="16" crc="5fd8b28e" md5="74415289d2c0f8951d4a854c18424fd5" sha1="102947af89680a1f0b264d6b9afdba83fce32e32" sha256="22b2eecc037d69d297be0412cd5f94cdb84a310e674a22502049b958613cf8aa"/>
 		<rom name="imojngd5U8YF4L766ps7Nx5Gqq5xyD5sNoUIVcESTyi2YcoMO87eSUUhUlU7e22li778RUTyTbMuOSR9NG4M2oSNWwNNW8oFquLqi.pkg" size="102400" crc="4badf037" md5="2572fd6960f3c292cf3ad0e02203d526" sha1="d4286d0c2398fa897de6051ef93c5302db8028fc"/>
 	</game>
 	<game name="MotorStorm - Online Expansion Pack (Japan) (DLC)" id="11905">
@@ -59926,12 +60063,14 @@
 		<category>Add-Ons</category>
 		<description>MotorStorm - Quick Foot (Europe) (DLC)</description>
 		<game_id>EP9000-BCES00006_00-0MSEUSTYLETIGERS</game_id>
+		<rom name="EP9000-BCES00006_00-0MSEUSTYLETIGERS.rap" size="16" crc="b224d670" md5="518f05595a4340b89dace2dc536fcca1" sha1="718bbf415d675a3f27c24954e66b81f383f18eb0" sha256="81733e06c7fd8f83704124bfde649a4e823518e021bb7e8f434427515e94291b"/>
 		<rom name="gh8IFecgn79od9G10beyX5LN0qQgIIcsWhfIH8xGDessL1HSfDtCHsIaV4mQIhKxn8AksuFRiQGDejGJPoDIYHoDTpDk3Eq5GO7jW.pkg" size="102400" crc="9305ecf5" md5="3b19a35db2a315dbb6d2eb187b9c612c" sha1="1f93a9d986310c0a083475e6256a9170ee31cc40"/>
 	</game>
 	<game name="MotorStorm - Rascal and Governor (Europe) (DLC)" id="23375">
 		<category>Add-Ons</category>
 		<description>MotorStorm - Rascal and Governor (Europe) (DLC)</description>
 		<game_id>EP9000-BCES00006_00-00MSEURASCALGOVN</game_id>
+		<rom name="EP9000-BCES00006_00-00MSEURASCALGOVN.rap" size="16" crc="f5777ff7" md5="6413db404540e17822717abdf627f611" sha1="26870510773571b68ea879ccdfb9505d08f01f62" sha256="5778b19695e86cb94a45f2b8fe5ccd68cb8286dff668e3642e6f0f17e433315b"/>
 		<rom name="RvW64rLdrBBXtjK4ySEBNuSAt25DOpG5fVau7EjS7HHByCikV9WiKTdmBiOQwAr6ryaN7oUnqGIedQIyJov34axRlqBiGqOSaySvO.pkg" size="102400" crc="e93495d7" md5="efa21c7fc2ff07de73b0f4d17117f502" sha1="a2c3f3cc8a932f6edf8d4daf21a61dc196253c5c"/>
 	</game>
 	<game name="MotorStorm - Revenge Weekend (USA) (DLC)" id="20910">
@@ -63146,6 +63285,7 @@
 		<category>Add-Ons</category>
 		<description>Naruto Shippuden - Ultimate Ninja Storm - Reanimation-Before Death Pack (Europe) (DLC)</description>
 		<game_id>EP0700-NPEB01986_00-NARUTOUNSRDLC011</game_id>
+		<rom name="EP0700-NPEB01986_00-NARUTOUNSRDLC011.rap" size="16" crc="2dee704d" md5="59528714687ca35b4e4f999db0a84767" sha1="60d83590c5bfe9aa9519110d5180cd58e6b0f784" sha256="74a75e5f04059116d76cd41ee060576b402b451299e7890807317cea602631f9"/>
 		<rom name="hExiXmLYntYzzXLtQvBqpMXObtSPHmqAXvuwCbkRhzZfPqsQYhgaUHPTeNuDmkad.pkg" size="107376" crc="1e48d5ea" md5="3089b90fba5efbca40055036a2854d98" sha1="59ea1900927e7f4f31ad5275af5038e66d041edd"/>
 	</game>
 	<game name="Naruto Shippuden - Ultimate Ninja Storm - Samurai Armor Pack (Europe) (DLC)" id="02938">
@@ -63233,6 +63373,7 @@
 		<category>Add-Ons</category>
 		<description>Naruto Shippuden - Ultimate Ninja Storm - Variety Pack 1 (Europe) (DLC)</description>
 		<game_id>EP0700-NPEB01986_00-NARUTOUNSRDLC007</game_id>
+		<rom name="EP0700-NPEB01986_00-NARUTOUNSRDLC007.rap" size="16" crc="15d297df" md5="eca19e7c7526b30cac869dd1680d729f" sha1="4181aed3b2c2f3eba62a62b1689ddc681db555e9" sha256="4819f2f7f292267b32f6453fd2e12c5edbc51f6771e1e8b66d87303c707a543d"/>
 		<rom name="TMfufDRQbKjSITUfaCRCvjrURFrUFNEbvKsTAKhiVqgchhpcwTWCiHycVUohcNPm.pkg" size="105904" crc="305f2517" md5="30298b739de54c3c34c9d47c95e1ea06" sha1="9206cad18c0ef9036847374fa0aae42639a0d3c8"/>
 	</game>
 	<game name="Naruto Shippuden - Ultimate Ninja Storm - Variety Pack 2 (Europe) (DLC)" id="02944">
@@ -63240,11 +63381,13 @@
 		<description>Naruto Shippuden - Ultimate Ninja Storm - Variety Pack 2 (Europe) (DLC)</description>
 		<game_id>EP0700-NPEB01986_00-NARUTOUNSRDLC008</game_id>
 		<rom name="EGSXsQqzdzKdxRzIYfBNHkPmhGbiNBmbNPxxzZMpWCiAokZYvkxKsLEdskyDYNvn.pkg" size="106272" crc="555f8da7" md5="5af48109a0d62d1134088c69c485d061" sha1="76888abe03408844b3c0112079dcb6c8b48b8c23"/>
+		<rom name="EP0700-NPEB01986_00-NARUTOUNSRDLC008.rap" size="16" crc="02a9d4ee" md5="6a30d1bfc51c5d33cb89dc7a7ce3ff20" sha1="98f1b8678e44636772b352f126651153740c875a" sha256="9a3cb42f4fa7a590ed602dec6639fe67e33979f1756758b265ca733e0ad9a83f"/>
 	</game>
 	<game name="Naruto Shippuden - Ultimate Ninja Storm - Variety Pack 3 (Europe) (DLC)" id="02945">
 		<category>Add-Ons</category>
 		<description>Naruto Shippuden - Ultimate Ninja Storm - Variety Pack 3 (Europe) (DLC)</description>
 		<game_id>EP0700-NPEB01986_00-NARUTOUNSRDLC010</game_id>
+		<rom name="EP0700-NPEB01986_00-NARUTOUNSRDLC010.rap" size="16" crc="1f1febd2" md5="8e2fa70ce0d98324bfb810b3c5bdc981" sha1="a232472233beeb4640e58cb4f01e698345b68fe2" sha256="9be4c9ec4259135eacd7b452f8453b78a39d575d83dc2859a40dfe3364bfa867"/>
 		<rom name="fXcJluqSCFytvULSsFsICZpdzyvMERfhShzqwaHytQopYuyaLYBBLFsBXwjuvnaV.pkg" size="105536" crc="eb8ba3c9" md5="30a872b193f5af20912b9065caced8de" sha1="1ca9e5da9d8c7bfb5b6c9775ef94e7635fa24402"/>
 	</game>
 	<game name="Naruto Shippuden - Ultimate Ninja Storm 3 - Costume Pack - Danzo - Hat (Europe) (DLC)" id="02409">
@@ -63791,6 +63934,7 @@
 		<description>Need for Speed - Hot Pursuit - Online Pass 2 (USA) (DLC)</description>
 		<game_id>UP0006-BLUS30566_00-ONLINEPASS000002</game_id>
 		<rom name="QtyoMlV7NPFH9F0Wc6XyGOK7Nt17V6FbjucRvBcqsBHUm7QJ2ntlbaga8DWepTyPgmtTjkmtHR6KHgotcMeNLEcENjc8uW7K3jXD2.pkg" size="105216" crc="01a85e71" md5="6ed5db03d8c48c9d7e631f7e075977b3" sha1="a0ddc87480def6b80c12f5bafe06f2158167674b" sha256="a9cfc7d70ab1ffc0eeef596bbbb788a2ffdb83a31b04ff6c8b9c722609b8eea5"/>
+		<rom name="UP0006-BLUS30566_00-ONLINEPASS000002.rap" size="16" crc="ad41d091" md5="9f9120273b3e03fdf9431eb4ae8d079f" sha1="bf93848c3a32f313dc3bc4432f061be52b49e51a" sha256="f3eb08a1bd7250eab42e6cacfa3bc1613746eeaa22011601d2cc4fb99ba684e1"/>
 	</game>
 	<game name="Need for Speed - Hot Pursuit - Porsche Unleashed Pack (USA) (DLC)" id="15720">
 		<category>Add-Ons</category>
@@ -66312,6 +66456,7 @@
 		<category>Add-Ons</category>
 		<description>One Piece - Unlimited World Red - Anniversary Pack (USA) (DLC)</description>
 		<game_id>UP0700-NPUB31479_00-OPUWR00ADDON0000</game_id>
+		<rom name="UP0700-NPUB31479_00-OPUWR00ADDON0000.rap" size="16" crc="6dbc18f8" md5="45f8986da935fca4a1baf8b8e6f55a76" sha1="fecaeaea0e2800f0c48bac9e5f94d3d2738d7a35" sha256="cad5c003f9515ca9f82266d235eb3fae3e9cb2e7a2073c6b2c0dd88d837241a6"/>
 		<rom name="lBDhXphkgGVHfmkrAVSbsPGoqcicJhDHVjHaouCXUIEzsMqedeIVxEKSGOrvmriZ.pkg" size="39959232" crc="3d8c3815" md5="d585e3f1bcb2cd47b386fc968ea824dd" sha1="05d83cbf62af9a181f6ee7d1da25f2cedb954507" sha256="3435423048a664e6de98cde99516aba2a6f78e96a9090897db65fcebabf6d5ea"/>
 	</game>
 	<game name="One Piece - Unlimited World Red - Bathrobe Pack (USA) (DLC)" id="17497">
@@ -69758,6 +69903,7 @@
 		<category>Add-Ons</category>
 		<description>PsychoBreak - Gore Mode (Japan) (DLC)</description>
 		<game_id>JP0262-NPJB00615_00-GOREMODEDLC00000</game_id>
+		<rom name="JP0262-NPJB00615_00-GOREMODEDLC00000.rap" size="16" crc="7ba4a2df" md5="1a472f3b78773cee4ba53400ab8a962b" sha1="2fd4e2d3c9c6ca2c69ab34a80abae5f7156db3a4" sha256="4bc6753943361f87241009917ac776ce7ed79a8b90cfe347b97174f4e002d697"/>
 		<rom name="kCkbZgzMOerRNyDwnwUzLzLIZcPjlTsbQvInNtpZfxbMBGnotZObyBPGoSIsGDCLsiFFSvwjXkPJCudpuSnKEQJYosnqYpOLbCZRC.pkg" size="3284240" crc="54f17449" md5="4f11e0c10ac5e31bb785b2ca08b1cc99" sha1="45ebbbe33797c09d14ac7c56c9094787ada865e4" sha256="300c14327672fc6d189a3d11b8f4956f0b20a0764ca90919ac5af533fb94ac33"/>
 	</game>
 	<game name="Pure Chess - Battalion (USA) (DLC)" id="19694">
@@ -72264,6 +72410,7 @@
 		<category>Add-Ons</category>
 		<description>Red Faction - Guerrilla - Multiplayer Pack 02 (Europe) (DLC)</description>
 		<game_id>EP1005-BLES00496_00-DLCPKG0000000002</game_id>
+		<rom name="EP1005-BLES00496_00-DLCPKG0000000002.rap" size="16" crc="f630fb7d" md5="6d30ab31e5f9f133997188c11622c090" sha1="97019de4358bd8bb2b8ffc48b2f35d25ce1e6787" sha256="e5d38d64d107f00c338a9de1343714f347d614cd70116f40c4defc3dd60c8de3"/>
 		<rom name="ddldkug9w0ppCGrqjnJlGFR9JiNEVP1NmUxWs1sxIUjkGrmgiVDyDiaiJt45K6eTC4e8VQPxIlWYqGhPSfuy5IVuict2QtR3NFVx7.pkg" size="248943552" crc="b27582f2" md5="4784204c999f901fff3e0634aec25f4b" sha1="e0da3395e0435955252547a8cd3e483ccc9820fd"/>
 	</game>
 	<game name="Red Faction - Guerrilla - Smasher Pack (USA) (DLC)" id="17808">
@@ -89677,11 +89824,13 @@
 		<description>Sengoku Basara 4 - Date Masamune Special Costume Hakama and Wooden Sword Ver (Japan) (DLC)</description>
 		<game_id>JP0102-BLJM61063_00-DLCXPLCOSX000X02</game_id>
 		<rom name="GCodEmVeXkzmVAiITgCruMoPTMlpAervHaLwLogzMwcodLVQqPAPawpDUIxYFMbroUQKEvZkjaknmnluVyTyUwCBNVcphvxRxZMJI.pkg" size="9005328" crc="e13434a6" md5="8f447b23619bffd9b018fa345a7d0557" sha1="3ad39057d4b7edd9955e93f58efdc760e8c3720a" sha256="1fc2f47742f565bacf8924ff33e3b4197ac68a77538b0ac99778cad8db9a09ff"/>
+		<rom name="JP0102-BLJM61063_00-DLCXPLCOSX000X02.rap" size="16" crc="d1b2e59d" md5="0431370aad04f7365f7b2283e87b14ad" sha1="8499847e5312971070f3c6c97cd565411bcf1b92" sha256="aa616dda4d8ef82412c5b9f8b220e3bce6ae5058f3d94a49e4c7cdf6eba0b2de"/>
 	</game>
 	<game name="Sengoku Basara 4 - Ii Naotora Special Costume Wedding Ver (Japan) (DLC)" id="09996">
 		<category>Add-Ons</category>
 		<description>Sengoku Basara 4 - Ii Naotora Special Costume Wedding Ver (Japan) (DLC)</description>
 		<game_id>JP0102-BLJM61063_00-DLCXPLCOSX037X02</game_id>
+		<rom name="JP0102-BLJM61063_00-DLCXPLCOSX037X02.rap" size="16" crc="a5f2ebaa" md5="35155484bfbed18679ec7648dd42d625" sha1="eede2137891199b95d6e56229533ecb61e772cda" sha256="87660677cfcf511fe0faed2f59ebdf05c45490dbafed0d0d61a6e643e90cc726"/>
 		<rom name="ToLvjSELIGEEQtMkddGFZNasntjwfGOFAnzIhqICgBzIcCrLxvHvtJCgwqJEnkdQVAlXgRrxgCjeWaaSwoQYySCoGooozDKcRTpwY.pkg" size="10786768" crc="b091d8e9" md5="051b59059b7f6f8c192c3ac166259131" sha1="1a3297fa48e300f78a2283b96de9f96aee2fe6a7" sha256="d7479ac8bb6c3c726c4d0ec23cfd25e0360cb6d90deab40bde3c9a672d0f4f8b"/>
 	</game>
 	<game name="Sengoku Basara 4 - Muneshige Tachibana - Jumbo Xavi Costume (Japan) (DLC)" id="09993">
@@ -89694,42 +89843,49 @@
 		<category>Add-Ons</category>
 		<description>Sengoku Basara 4 - Sanada Yukimura Special Costume Soryu Ver (Japan) (DLC)</description>
 		<game_id>JP0102-BLJM61063_00-DLCXPLCOSX001X02</game_id>
+		<rom name="JP0102-BLJM61063_00-DLCXPLCOSX001X02.rap" size="16" crc="765bab43" md5="5f81ed6e2a8360fba3f2d6ea34f97463" sha1="d81424da85ffa305dcc2e58b5d7461e40dc9e946" sha256="463eb6335fa71e55d8b3812b4f8669757c814db1201af613ffcada80e08a0135"/>
 		<rom name="qMZbXMwZkvdvosGIoQwQMhLhogqMQsbWCSWJZDHsyYdAxNvbUcRIwMSoIhJPIrPDfHWNYfIaNGhgSGQGMwpmktazywCSIrlpiqKQc.pkg" size="9068848" crc="29ca8561" md5="91bb4a0388538a6fc204adc58795f0ea" sha1="6033ae8d8258c468e90ca8a2fa6d06936fae1522" sha256="52ef87901e11338d93d7b067164ee4e84cb1fdfdfe9d5e6606cec3be49525946"/>
 	</game>
 	<game name="Sengoku Basara 4 - Set of 10 Sengoku Basara 2 Hero Gaiden Songs (Japan) (DLC)" id="09983">
 		<category>Add-Ons</category>
 		<description>Sengoku Basara 4 - Set of 10 Sengoku Basara 2 Hero Gaiden Songs (Japan) (DLC)</description>
 		<game_id>JP0102-BLJM61063_00-DLCXBGMXXXXXX002</game_id>
+		<rom name="JP0102-BLJM61063_00-DLCXBGMXXXXXX002.rap" size="16" crc="87ddc4be" md5="6bf67608199492f205eea97b17097aeb" sha1="1b00832b6b2d62e71d43fbfc487189db39b93c77" sha256="d23fef19d4f70374c5c753eda78cb72e9af5c597811480c4c5bc370ea35ef554"/>
 		<rom name="OYtIoxVYlvTlYFVLcyadtPKuzWkEanqCyGditPkSECmRPoaxpGPbqnVjlSboBvlikQQPrOoGFwutSfseejpNEyiNUyoINnqQVjJyf.pkg" size="26458368" crc="93164e3a" md5="7bc72efef27786fbe60c22c83582a362" sha1="d6f31555a26e34d2b28878ee41f1f50778d1bba4" sha256="232671a48d353578b89aa5901743d091ba0217861f7a6b8dc94f43247a4d740d"/>
 	</game>
 	<game name="Sengoku Basara 4 - Set of 10 Sengoku Basara 2 Songs (Japan) (DLC)" id="09982">
 		<category>Add-Ons</category>
 		<description>Sengoku Basara 4 - Set of 10 Sengoku Basara 2 Songs (Japan) (DLC)</description>
 		<game_id>JP0102-BLJM61063_00-DLCXBGMXXXXXX001</game_id>
+		<rom name="JP0102-BLJM61063_00-DLCXBGMXXXXXX001.rap" size="16" crc="c29dcf80" md5="929928427c5d4c5b632ea1a3641eabc8" sha1="54c9b6d85c088a82f5ec84eac628973ddcc3852f" sha256="73a2ec654ad8d4ffbc70c3d6b35b6d76e21484c7d718b244e98da7757dab5e31"/>
 		<rom name="rJenfpbKALQWDsCmMfMlQjkUgMysaPicySFCLkvHRsSamuwICsKEDZQLEpFycpmqvDMJxDdBdbsgzXeFRvIyjtsDilqVFcIzUHsqT.pkg" size="21862704" crc="17011cce" md5="20216b92ef3d24e6f043f019ea7befbf" sha1="6e166b2be9fdae60e68ff44ba7568af8ac57d527" sha256="e068e74a77d719b50200b3b5110699d7a29ba2e3084fbb82aa36afed46d0e18c"/>
 	</game>
 	<game name="Sengoku Basara 4 - Set of 10 Sengoku Basara 3 Banquet Songs (Japan) (DLC)" id="09987">
 		<category>Add-Ons</category>
 		<description>Sengoku Basara 4 - Set of 10 Sengoku Basara 3 Banquet Songs (Japan) (DLC)</description>
 		<game_id>JP0102-BLJM61063_00-DLCXBGMXXXXXX006</game_id>
+		<rom name="JP0102-BLJM61063_00-DLCXBGMXXXXXX006.rap" size="16" crc="d405afa6" md5="44574d61236a56d3d4486ae7517e7d02" sha1="80fee3d4c227ed21827652bfac73a6e033a12f30" sha256="b22c5559060b8034b3a4110147fc5f547660c7d2f0d5d79f913b9252432b62d1"/>
 		<rom name="irAzkURKWuegtsmTdaEmUEtqrNxCZsepYaSeNBiYwuatuxVBAjASLofPcXAUfytnhzreepwNgKaVCGXqWXQhmpOFfyUsziakaNRRZ.pkg" size="20472848" crc="23397b7e" md5="66cb9b225cd7e28e996352f84bc80e29" sha1="a38ea4878a30be54437b15584568b425bd987205" sha256="9b2f846e1ae934aa96c2c7e7ad1bd9b17c351fbf1c62cb91af8b1709e7d679fa"/>
 	</game>
 	<game name="Sengoku Basara 4 - Set of 10 Sengoku Basara 3 Songs (Japan) (DLC)" id="09986">
 		<category>Add-Ons</category>
 		<description>Sengoku Basara 4 - Set of 10 Sengoku Basara 3 Songs (Japan) (DLC)</description>
 		<game_id>JP0102-BLJM61063_00-DLCXBGMXXXXXX005</game_id>
+		<rom name="JP0102-BLJM61063_00-DLCXBGMXXXXXX005.rap" size="16" crc="3a72df6f" md5="4e2fd014ed9c9fe23f2c5550237c4a51" sha1="00e98edf0fdffbcb20f56663b9b47ee561b31f43" sha256="eab7a903aede5da33d367c3e8a97c9785feb63cea987cb04d010b3b424bf4fc5"/>
 		<rom name="PtnWgoySkSOHHTqCHjtbBcyTVuglezqDhCnOrAgSDmBnIgnCWEWjtbamYBCNLKCHGrokJuSgfKPbHmSOZRuVFDBqoraSiNPGHAvdp.pkg" size="21600032" crc="a245d29c" md5="f5165a31d2e183a37efde27561304e2b" sha1="606b836be83582b154bfd5a846f1f43a3c497c32" sha256="5146973097399ffad33c893bad3b9f5af70c3759983443ed3d260d2ed511fcca"/>
 	</game>
 	<game name="Sengoku Basara 4 - Set of 10 Sengoku Basara BH and CH Songs (Japan) (DLC)" id="09985">
 		<category>Add-Ons</category>
 		<description>Sengoku Basara 4 - Set of 10 Sengoku Basara BH and CH Songs (Japan) (DLC)</description>
 		<game_id>JP0102-BLJM61063_00-DLCXBGMXXXXXX004</game_id>
+		<rom name="JP0102-BLJM61063_00-DLCXBGMXXXXXX004.rap" size="16" crc="083be262" md5="e4db299a3c14627ed589309daa9d0639" sha1="4aa96dcd51eed755d6b310d90229d48b287f2861" sha256="0947a3aa29bc3c6663ad31976f7e8678129d862a18aa9f7497c4ff6ea43e5ef1"/>
 		<rom name="dajKfAuxqHPVBMxRsqNOtrxPAGexBVbnriTJCYWufopQfYrSGqvkzbpFuxUKEPXhgvOnKGLSSCvOGHvbzsgHaXSkZubZZqLRuJsYc.pkg" size="23429040" crc="27441ed3" md5="7253dbc66bb774124b535374071f1c38" sha1="770ec1e1ea3fb806c4df484c3e2741358739f503" sha256="855bb1b70dff3ebd980b85167300561a35e8ab9777cc56d552277e37dd302334"/>
 	</game>
 	<game name="Sengoku Basara 4 - Set of 10 Sengoku Basara Songs (Japan) (DLC)" id="09981">
 		<category>Add-Ons</category>
 		<description>Sengoku Basara 4 - Set of 10 Sengoku Basara Songs (Japan) (DLC)</description>
 		<game_id>JP0102-BLJM61063_00-DLCXBGMXXXXXX000</game_id>
+		<rom name="JP0102-BLJM61063_00-DLCXBGMXXXXXX000.rap" size="16" crc="1bb4f389" md5="f94e191e849953a569ad7bf4f472b708" sha1="7fca450118f424025e8c81e95614a184ae00263a" sha256="9b53c674c9de9125eebab165b875e9b7939aa3cd06df6b91f7bd6ce46e39f4dd"/>
 		<rom name="cvIdLTcZuYggKikNJchUbwsBdFGNYXPqZYckkOsjKtiVnDvPTbWXFfhvwDSpDyfZswtIofTXQeqvgttsHEijQSlSFJGrEndVAfrvx.pkg" size="25027872" crc="d04d97a5" md5="7887201fac021ac87e6811e9fc150b14" sha1="2145f91a8fe7c43fa4779a7d6da390cedb7aba7a" sha256="23a855712a60a891f922a87add2f9be234e4913860f863a7b7b7fdbfa25c9d6a"/>
 	</game>
 	<game name="Sengoku Basara 4 - Set of 10 Sengoku Basara X Songs (Japan) (DLC)" id="09984">
@@ -89737,17 +89893,20 @@
 		<description>Sengoku Basara 4 - Set of 10 Sengoku Basara X Songs (Japan) (DLC)</description>
 		<game_id>JP0102-BLJM61063_00-DLCXBGMXXXXXX003</game_id>
 		<rom name="EvoXqkjlwDwYBnYJukxPFmEhACqKYUNQNjgLLpKtDOJJVtRUarUehbVSiMiMCStBSfAHAjgcyuaBfsKKAcEjnkbaROEamWkDwJHng.pkg" size="26297200" crc="58ec836f" md5="a46eacdb68d86420d13642029c7a58ce" sha1="7f859abd15ef5dda07dccccd7030a45213efceee" sha256="d5894193c3389433a1f1f60f090efb7118bb334f3f9f9cec72bd1a8d5a9d4446"/>
+		<rom name="JP0102-BLJM61063_00-DLCXBGMXXXXXX003.rap" size="16" crc="cd216404" md5="36ccc25bc9288b2da184761e68e7a3d2" sha1="31cd28f485ea47b7b46635819a28327ebda4dd90" sha256="c42acf4e598840c02a11526f9a144b80728bee9962f23848e44f1e6db046a9a9"/>
 	</game>
 	<game name="Sengoku Basara 4 - Shibata Katsuie Special Costume Absolute Justice Ver (Japan) (DLC)" id="09994">
 		<category>Add-Ons</category>
 		<description>Sengoku Basara 4 - Shibata Katsuie Special Costume Absolute Justice Ver (Japan) (DLC)</description>
 		<game_id>JP0102-BLJM61063_00-DLCXPLCOSX033X02</game_id>
+		<rom name="JP0102-BLJM61063_00-DLCXPLCOSX033X02.rap" size="16" crc="11a45b5f" md5="bb07b8dc3db6955c1c1fe93f4cb8ae77" sha1="b9c9cfe1c75cc6eba6a3ca6f6fb0d60c84295eaa" sha256="f7ade4ec089a246904ff5a7fbd693431a2bb0769385aca61a69315c01fafd05f"/>
 		<rom name="MWJkzMqMoVXIajdCcamQUGzovYbqzfYUrpUkgRiuXpCoEYuBTwrdVisFcPbQpzAPyBdaNcAdzFueeAOExXHfABBvtUsqJAoeWRpgV.pkg" size="17693120" crc="f5a46f3c" md5="ff30e9657e6dedd79448d3934df86afc" sha1="35e111966d22897b43ae6aad8e0e6bf7de288cad" sha256="a97a011bdf373781b0ed4ee94f9993e0cb46483283e3913d8c7dc0f2a5a1c524"/>
 	</game>
 	<game name="Sengoku Basara 4 - Special Clothes Double Kung Fu Ver (Japan) (DLC)" id="09995">
 		<category>Add-Ons</category>
 		<description>Sengoku Basara 4 - Special Clothes Double Kung Fu Ver (Japan) (DLC)</description>
 		<game_id>JP0102-BLJM61063_00-DLCXPLCOSX034X02</game_id>
+		<rom name="JP0102-BLJM61063_00-DLCXPLCOSX034X02.rap" size="16" crc="f2c6b4c8" md5="a17dd60b3c11d413e658525fa5ef89ad" sha1="5218ebe9f0e119d628e07e55921de38235f31a2d" sha256="a86cf4c9e64e62a8804290c88a7b612ded11e97a30dc1b3e36f51ed296f84c23"/>
 		<rom name="oaXPPTZDbeKJPMDaohXxkWrtCzOwAQsEcrQkNhSrldHxBwMCnrlrMSbJLIoemLOcaaBoVYIKVWIWYUTfzGmBdyurfrZMBeCBYLtAH.pkg" size="10726944" crc="8e4226bb" md5="05e74a633b26867160003a79ca6a79a1" sha1="a7a91815f21db86dd3b4d07bc4d2c68616a870f2" sha256="2f79accf5948e07538a4986f72bdb93693f35740dda0d8a626414b56dd7cd41f"/>
 	</game>
 	<game name="Sengoku Basara 4 - Sumeragi - Muneshige Tachibana - Date Masamune Special Costume Hakama Ver (Japan) (DLC)" id="10004">
@@ -89838,6 +89997,7 @@
 		<category>Add-Ons</category>
 		<description>Sengoku Basara 4 - Tokugawa Ieyasu Special Costume Gakuen Basara Ver (Japan) (DLC)</description>
 		<game_id>JP0102-BLJM61063_00-DLCXPLCOSX003X02</game_id>
+		<rom name="JP0102-BLJM61063_00-DLCXPLCOSX003X02.rap" size="16" crc="d7d22350" md5="ecee36e3b27c6dac2ed68813fbac55d1" sha1="59b2ee9662d3b71de1652968aea8eafa74814d69" sha256="54102c4654a907f4dabded719767688a07c890e28a9ff3a476031b97b29e4dd3"/>
 		<rom name="hvcCbWbgGtlotyWMiKTFInZcUNUhJCGFiQzmhQtuOHJMpMlwjzvVPYCPHTWqTkFxzECxZCzHBwEEhvnthpdizTbNsrUBJFXpMSGRF.pkg" size="10933920" crc="bcde0e75" md5="a1937d117516d1c1e3edcc2d56769526" sha1="294b3ff06977eeb6da10586133ecd6bf3a4d006e" sha256="9d67bfdc1759566cb72cfa46607d20cbb33fc4bbfec2f5e24bba420d07baf5c1"/>
 	</game>
 	<game name="Sengoku Basara 4 - Upgrade Seal Payout (Japan) (DLC)" id="09989">
@@ -90555,6 +90715,7 @@
 		<category>Add-Ons</category>
 		<description>Shin Sangoku Musou 5 - Empires - Additional Music Set 2 (Japan) (DLC)</description>
 		<game_id>JP0106-BLJM60126_00-SM5EMPDLC81BGM01</game_id>
+		<rom name="JP0106-BLJM60126_00-SM5EMPDLC81BGM01.rap" size="16" crc="a0fb4ae6" md5="da7d977ee1ee9e188b1f24067d123c2c" sha1="2d34ffc12eb589f4c3938a1d35642082952771d5" sha256="577835c10aeb7208094e6e0f3a99a80c5e5a1fec9dc992886474d1c144bf369e"/>
 		<rom name="exLOYh1E8JI5RUvxqiJVFYO97NqcjeyBParLQYr3jMxb587xYT2ERYFDo0kdnwpM1e4relDQUx7LRiMRrO081qfvgJt8Vh64Ylvqn.pkg" size="15079776" crc="314f1c26" md5="f2949c55e8bfad4827be0d1fa7b4317b" sha1="973a647d0d93f373b4f75ca6c174246e031103e7"/>
 	</game>
 	<game name="Shin Sangoku Musou 5 - Empires - Additional Music Set 3 (Japan) (DLC)" id="10121">
@@ -91921,6 +92082,7 @@
 		<category>Add-Ons</category>
 		<description>Skate 2 - Dyrdek's Fantasy Plaza Pack (Europe) (DLC)</description>
 		<game_id>EP0006-BLES00461_00-ROBFANTASYPLAZA1</game_id>
+		<rom name="EP0006-BLES00461_00-ROBFANTASYPLAZA1.rap" size="16" crc="88f4dcf4" md5="89e66896f87faed952bffed3d6f627d4" sha1="f101c74edd43798303dfc369a17e7ae4831d0692" sha256="c876221e08e01560d1bb6791a06b4118b252a2069f245d4fab3ad5e2165348ee"/>
 		<rom name="q8XsNFRaHt8AwrytLpeR02CTFD4g8Cawc6su1RWQEbFauvgnIKgNNbptmlQYymyhw4TMP7o5dKS9LV12BrWptmp8Tl2NvvhhrirhK.pkg" size="266399456" crc="6b98fb00" md5="dc4c4fa44d98aeb00ad364da26f8c562" sha1="a3c352b7a4354ee3d396e2ab0f13371d237d9830" sha256="0250bce6416536254248b5cad140ff59e9aa142aaff45a36d054f334f41c292f"/>
 	</game>
 	<game name="Skate 2 - Maloof Money Cup Pack (USA) (DLC)" id="15569">
@@ -92114,6 +92276,7 @@
 		<category>Add-Ons</category>
 		<description>Skullgirls Encore - Robo-Fortune (Japan) (DLC)</description>
 		<game_id>JP0507-NPJB00628_00-BASEOFFER0000104</game_id>
+		<rom name="JP0507-NPJB00628_00-BASEOFFER0000104.rap" size="16" crc="b932b19d" md5="c4e1e95f62ee80835b75728d0397a281" sha1="37226db32b0d9d0c74e2181ead8c26d3d97b3638" sha256="22353b2a147832325e506fdda280526866b293bc7e7b574663bd40eb92830d00"/>
 		<rom name="JP0507-NPJB00628_00-BASEOFFER0000104_bg_1_54839edf923e212310e618b03ef6e3274354d118.pkg" size="102400" crc="25c23df8" md5="88c7231ff712ce54197620e6c29f0b2f" sha1="87db32af53ba54647368faa6ef6f1deaf7c9fb29"/>
 	</game>
 	<game name="Skullgirls Encore - Robo-Fortune Character (Europe) (DLC)" id="04375">
@@ -94188,6 +94351,7 @@
 		<description>Star Wars - The Force Unleashed II - Costume Pack (Europe) (DLC)</description>
 		<game_id>EP1010-BLES00893_00-SWTFU2DLCEU00005</game_id>
 		<rom name="EP1010-BLES00893_00-SWTFU2DLCEU00005.rap" size="16" crc="d3c51a54" md5="270acb526aca7353fefa1031e9251b97" sha1="ffbbd0d7b887e15391e03b567ce263cb1e310825" sha256="68cd00e7c4b8dd089398b96aa64a254b4cbc25f92e5e5775319cf2cccf72c411"/>
+		<rom name="EP1010-BLES00893_00-SWTFU2DLCEU00005.rap" size="16" crc="770904ab" md5="e0d010a84b2ec48e5ef008d068acc71d" sha1="43ccceedf4cd5c2addb8e502dd873b6827d3d1bc" sha256="e10c34d2a48993038b8d62ef49bcb110d7304e98df11e321ce0840b5c3edfd21"/>
 		<rom name="VttovRETXgZkxFuZhKnrZOJeBpXhznCSYboghRCaumOpVeqJGpebiHlgDUobMPyK.pkg" size="227376240" crc="a723b731" md5="56562651788e3bbceaa411153dd721d4" sha1="976fbf34f86c4a138c760db53ab6b785445d7846"/>
 	</game>
 	<game name="Star Wars - The Force Unleashed II - Costume Pack 1 (USA) (DLC)" id="18001">
@@ -96094,6 +96258,7 @@
 		<category>Add-Ons</category>
 		<description>Tales from Space - Mutant Blobs Attack!!! - EP2145-NPEB01824_00-MUTANTBLOBSATK02 (Europe) (DLC)</description>
 		<game_id>EP2145-NPEB01824_00-MUTANTBLOBSATK02</game_id>
+		<rom name="EP2145-NPEB01824_00-MUTANTBLOBSATK02.rap" size="16" crc="f15a823b" md5="cfa4c72e71d7a1b2bdd272d6a0989e1e" sha1="5abe3f1bf741efb77757e692d33d3d53e110e8d5" sha256="6f465350cc8a5edb6b9cc3f56fa0ab3badebce7ef75acc1f80293185e4749032"/>
 		<rom name="fbTErTcVfYtFIblMQndbUHhPUuAimfjUjeBVOKYydNHRPnAtNtcybPvfJKDQrGyg.pkg" size="6080" crc="04bfb557" md5="4ac5f614991b02d1e40657cc0fe1a7a9" sha1="908e5ad540ec655626bf33cee08715f463c6cd7a"/>
 	</game>
 	<game name="Tales from the Borderlands - Episode 2 - Atlas Mugged (USA) (DLC)" id="19398">
@@ -96121,7 +96286,7 @@
 		<category>Add-Ons</category>
 		<description>Tales from the Borderlands - Episode 5 - The Vault of the Traveler (USA) (DLC)</description>
 		<game_id>UP2026-NPUB31454_00-TFTBL0000000DLC5</game_id>
-		<rom name="UP2026-NPUB31454_00-TFTBL0000000DLC5.rap" size="16" crc="5c9b0000" md5="3c863cb59a0dfdf13beace33d339fd2e" sha1="362b06567cf8e1f44ecb6e2eed3aeb7d77cec78b"/>
+		<rom name="UP2026-NPUB31454_00-TFTBL0000000DLC5.rap" size="16" crc="67f8a5b4" md5="9d66a8c2645b3cd36b84c49162e8fdbb" sha1="1c41a7962aa00dd8afc2ee0081b6f5e458efe4e6" sha256="ea8c5ee980ec4553c627a8a803d59ff0d23c563bb2635ad73f105c4447fc95d2"/>
 		<rom name="UP2026-NPUB31454_00-TFTBL0000000DLC5_bg_1_97eb9bac693b96ff6145e48472e304960393b01e.pkg" size="700467248" crc="b7291163" md5="af2e776a0a0428e0317c0741bda2251c" sha1="3c662466eba32ebd5d85be95a2a5e2e1525c598c"/>
 	</game>
 	<game name="Tales of Berseria - Adventure Item Pack 1 (Japan) (DLC)" id="11786">
@@ -100632,6 +100797,7 @@
 		<category>Add-Ons</category>
 		<description>Tom Clancy's Ghost Recon - Future Soldier - Arctic Strike Pack (Europe) (DLC)</description>
 		<game_id>EP0001-BLES00922_00-DLC0000000000001</game_id>
+		<rom name="EP0001-BLES00922_00-DLC0000000000001.rap" size="16" crc="1aafb098" md5="d5a781b228a6d847688e7d29b9ba829d" sha1="04b8ad7e55f7a5a24a5ecb61dcc2f6a6c02afc5c" sha256="418a0e1f3158f3b18dee868a5267388319851bbc031378d8ee4c82eebdd9ae88"/>
 		<rom name="ZucOxwHhytRmdtHqMmMTuWABtkSojSnNhZemJvLIaqtLOrRiPcVTeahNhCXBxsiz.pkg" size="460349360" crc="052e78ae" md5="46b21a1eed016952f28727e6f4413cc3" sha1="b0403ef268fe2fe71b40cdf91d049e241533bfc0" sha256="412b571b822fdc0f5fff9f0dbfd69aad3898e047e0fe9a5dbc6ce7e1732619f8"/>
 	</game>
 	<game name="Tom Clancy's Ghost Recon - Future Soldier - Khyber Strike (USA) (DLC)" id="13752">
@@ -100645,6 +100811,7 @@
 		<category>Add-Ons</category>
 		<description>Tom Clancy's Ghost Recon - Future Soldier - Khyber Strike Pack (Europe) (DLC)</description>
 		<game_id>EP0001-BLES00922_00-DLC0000000000003</game_id>
+		<rom name="EP0001-BLES00922_00-DLC0000000000003.rap" size="16" crc="815ec046" md5="35f81cda0d46c40ecf9e9d5da0102b2d" sha1="685f8aaa081daacca7ae488effa01de4cb0f112b" sha256="fca9b29fc628a7f640adfe002e074d40a699174964452c33ec02e3c0bd1940eb"/>
 		<rom name="QiCCmdqNNNRgmVUpJyiOzatemiLNKUKTdQwpUupNABdXZhsbGTdmmTqXAJYYBpog.pkg" size="840612720" crc="30f1a5ed" md5="131903795bdb077cd9ff83bf017ef637" sha1="88e8a72660d8b1b3fd9a10bd02c8a202d49119ed" sha256="6d27f12da9558619536483139353b9539f358effc36017caa6564dd6598be571"/>
 	</game>
 	<game name="Tom Clancy's Ghost Recon - Future Soldier - Online Pass (USA) (DLC)" id="13753">
@@ -111805,6 +111972,7 @@
 		<category>Add-Ons</category>
 		<description>White Knight Chronicles - Windwalker Tent (Europe) (DLC)</description>
 		<game_id>EP9000-BCES00225_00-COMMERCEACC74E12</game_id>
+		<rom name="EP9000-BCES00225_00-COMMERCEACC74E12.rap" size="16" crc="fc5ffa27" md5="66e8090d6ec17a75bec3adcd4e8bed0e" sha1="6744c66f73e0be870573be0414131154370bbf15" sha256="fb158ba11c89602f14486472770a4de1627a0a541fb5cd1ada4cb6e22980e989"/>
 		<rom name="PrbV7eRVFAvg9eTwdBg4G23kc5jTRbGSsJ776t5JPtLWvjWicX0QUGbTSQK6HCo2evrr1aUVwysCfS0lawSca4FiBnbhsGsnq8RKC.pkg" size="102400" crc="24f07641" md5="2980827bab7d5ff277fab0c5e0e302e1" sha1="e9be96bfcff9394f3dfad80e5891140ddc2b3da6"/>
 	</game>
 	<game name="White Knight Chronicles - Winged-Lion Statue (Europe) (DLC)" id="05935">
@@ -112226,6 +112394,7 @@
 		<category>Add-Ons</category>
 		<description>White Knight Chronicles II - Cisna Job Ticket (Europe) (En,Fr,De,Es,It) (DLC)</description>
 		<game_id>EP9000-BCES01085_00-COMMERCE2859EA18</game_id>
+		<rom name="EP9000-BCES01085_00-COMMERCE2859EA18.rap" size="16" crc="e07249b1" md5="2d2449e89a8f541d78cd97781d8a5a1d" sha1="d5b7129749e5eb5ff6a328324df0a97e10ca2c15" sha256="4c38eb0b6948ec390e297243a5dd7b7502df7c3141c85ed25a65c8123f2d72cf"/>
 		<rom name="UPnqeWcSNpcZNmgrukVlHPUXhwlYryaBfoQiegiOndbjFJVOfNITcsIqWLoGqMpt.pkg" size="102400" crc="c01a4c32" md5="0a67785470a10fc56d3194d9c84589cd" sha1="fd5b135488028850bddac985e7790075c6703fac"/>
 	</game>
 	<game name="White Knight Chronicles II - Concierge - Caesar (USA) (En,Fr,Es) (DLC)" id="16903">
