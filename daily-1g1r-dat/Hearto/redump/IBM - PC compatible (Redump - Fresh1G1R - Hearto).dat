@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>IBM - PC compatible (Retool)</name>
-		<description>IBM - PC compatible (25,250) (-y) [-aAbBcefkmMoprv] (2026-06-15 03-46-22) (Retool)</description>
-		<version>2026-06-15 03-46-22</version>
-		<date>2026-06-15 03-30-23</date>
+		<description>IBM - PC compatible (25,250) (-y) [-aAbBcefkmMoprv] (2026-06-15 06-43-57) (Retool)</description>
+		<version>2026-06-15 06-43-57</version>
+		<date>2026-06-19 03-23-07</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>

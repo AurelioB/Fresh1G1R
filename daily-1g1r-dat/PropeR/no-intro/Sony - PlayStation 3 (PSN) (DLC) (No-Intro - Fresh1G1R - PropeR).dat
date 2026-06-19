@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sony - PlayStation 3 (PSN) (DLC) (Retool)</name>
-		<description>Sony - PlayStation 3 (PSN) (DLC) (16,801) (-y) [-aAbBcdkmMpPuv] (20260616-213458) (Retool)</description>
-		<version>20260616-213458</version>
-		<date>2026-06-18 03-29-49</date>
+		<description>Sony - PlayStation 3 (PSN) (DLC) (16,802) (-y) [-aAbBcdkmMpPuv] (20260617-200800) (Retool)</description>
+		<version>20260617-200800</version>
+		<date>2026-06-19 03-39-13</date>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Hiccup, Intothisworld, Landcross, norkmetnoil577, rarenight, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4092,12 +4092,11 @@
 		<rom name="UP4108-NPUB31791_00-AT1COSTUMESET001.rap" size="16" crc="9fbd9919" md5="60b0f54c71cfbf4c69fc20121d72a141" sha1="be63cd9191cc4f0953419a0379f54dfa6867a834" sha256="6116b893d15783661f38b56949db626cbf74b02847958071b0a959f74977430a"/>
 		<rom name="UP4108-NPUB31791_00-AT1COSTUMESET001_bg_1_eb2d4b85d00940a8bdde00f2e5c25d785c8f44b4.pkg" size="23477024" crc="4cdbc789" md5="fcbdf7857eb46423a7c965794aaf7d0c" sha1="26bec7c1e2ba3570b9bb4669fafb19b464637eb4" sha256="3015be98767932c090acba1d5a6ffe56a3a40f3944f59ba110ae7859ab41e7da"/>
 	</game>
-	<game name="Attack on Titan - Costume Set - Japanese New Year (Europe) (DLC)" id="05451">
+	<game name="Attack on Titan - Costume Set - Japanese New Year (USA) (DLC)" id="12189">
 		<category>Add-Ons</category>
-		<description>Attack on Titan - Costume Set - Japanese New Year (Europe) (DLC)</description>
-		<game_id>EP4108-NPEB02365_00-AT1COSTUMESET003</game_id>
-		<rom name="EP4108-NPEB02365_00-AT1COSTUMESET003.rap" size="16" crc="0b6eb96f" md5="6a5b7eb8304f78c15861b440f381c1d8" sha1="c8d574414adf3558628fe9be9c0635fb978430f3" sha256="052ad542f6e0af379fb4fb9b528fa3fb382029586c1fdd3f12feda22c02973d7"/>
-		<rom name="EP4108-NPEB02365_00-AT1COSTUMESET003_bg_1_1b23837fff16b71e1dfe5f3c57891a207e27ab02.pkg" size="21196416" crc="d49637dc" md5="6f22f4820faefe6001e2a1a402403269" sha1="c6a7c9580eadeac1315739e287fc354da9fcc9f6" sha256="b12c5e50ebd27daf2cea6d068d4f6297f8e7754e393010de31c5ad73a17ca972"/>
+		<description>Attack on Titan - Costume Set - Japanese New Year (USA) (DLC)</description>
+		<game_id>UP4108-NPUB31791_00-AT1COSTUMESET003</game_id>
+		<rom name="UP4108-NPUB31791_00-AT1COSTUMESET003_bg_1_d2e8a55f19ee9645f747f69479bc276901a66ee8.pkg" size="21172288" crc="9fd12160" md5="4915fd1c4fe9cabc3f01f78b63167680" sha1="7af3cdf76b5559c1a86c1ba11081daa3773fe5ec" sha256="10ed1c01ab13e51482ef109f733f4909be4b03f8485e0fe102872b65cbd4ee9f"/>
 	</game>
 	<game name="Attack on Titan - Costume Set - Summer Festival (USA) (DLC)" id="12186">
 		<category>Add-Ons</category>
@@ -4141,12 +4140,11 @@
 		<rom name="UP4108-NPUB31791_00-AT1WEAPON0000003.rap" size="16" crc="2b62c3fc" md5="4662a4cc6d9ac23ca7d20239f5b76d07" sha1="6f8dbe4bab437c2150176ad6f92cdba01b986e44" sha256="7fca1cdf2e76436777979c2bb47d2383890bc664b82e720a27b5fd4281bd762a"/>
 		<rom name="UP4108-NPUB31791_00-AT1WEAPON0000003_bg_1_1696562e3cdee11030e7934883348bdc06f6a90d.pkg" size="6896752" crc="e9e61e3f" md5="0ec25c36e05d4472e21d32c90264eef7" sha1="814a6698158c018eadf4f6f240e19764d79b0cd8" sha256="2dba3615886f4410e797c6fafde89bd3cd565d3c30462a7aff1e8f600c4187ca"/>
 	</game>
-	<game name="Attack on Titan - Weapon - Halloween (Europe) (DLC)" id="05457">
+	<game name="Attack on Titan - Weapon - Halloween (USA) (DLC)" id="12195">
 		<category>Add-Ons</category>
-		<description>Attack on Titan - Weapon - Halloween (Europe) (DLC)</description>
-		<game_id>EP4108-NPEB02365_00-AT1WEAPON0000002</game_id>
-		<rom name="EP4108-NPEB02365_00-AT1WEAPON0000002.rap" size="16" crc="680f828f" md5="277098c643e935503ca5e3b422db812c" sha1="a6c199fc5017498d7f572c65f830b29d6cb23898" sha256="5e8b99c08fce50008eedebe65b6bc990c79ab78ba3d8b123ff15d4f64d5ed490"/>
-		<rom name="EP4108-NPEB02365_00-AT1WEAPON0000002_bg_1_64d01441b4c13d2bc578682cc0744e6ad6b11419.pkg" size="6673584" crc="82a20673" md5="8c0fee28440507c2dcba374b923d975a" sha1="63697feaac5f39e27d153a659906aee98e3223b9" sha256="42dde4d535d471dc55672d7777384b01625b0f725c48fddd03e72729a539acb3"/>
+		<description>Attack on Titan - Weapon - Halloween (USA) (DLC)</description>
+		<game_id>UP4108-NPUB31791_00-AT1WEAPON0000002</game_id>
+		<rom name="UP4108-NPUB31791_00-AT1WEAPON0000002_bg_1_69f6d74380ba83796ccb41be463cf7cbdc6e6c29.pkg" size="6649456" crc="c4c4f513" md5="2bac7bd941e5f14b7409f49a7ecd30f2" sha1="2a7695029e2b56112b8571ba266912ea8dc82e17" sha256="3f7d77ed18cb1a46c96e08ba371dceb659d700ee87d294755f44516756b96946"/>
 	</game>
 	<game name="Attack on Titan - Weapon - Japanese New Year (USA) (DLC)" id="12193">
 		<category>Add-Ons</category>
@@ -8881,7 +8879,6 @@
 		<category>Add-Ons</category>
 		<description>Call of Duty - Black Ops II - Paladin Pack (Europe) (BLES01717) (DLC)</description>
 		<game_id>EP0002-BLES01717_00-MTXWEAPON0000010</game_id>
-		<rom name="EP0002-BLES01717_00-MTXWEAPON0000010.rap" size="16" crc="7fccd842" md5="f05c47cfc7e701b23392c5893b868a87" sha1="fa69497943105e5a430476cf57d4d27a4d647d48" sha256="896c1b4b9e34ef32e93a9e5eefb38d3c41e6ae42ad07da574e00a3376c16cf4c"/>
 		<rom name="EP0002-BLES01717_00-MTXWEAPON0000010.rap" size="16" crc="87d36b10" md5="4e1978c2f2625e334da7d60524fa7099" sha1="11722217cc1b74599a85c8ed978a958a7c5a20f6" sha256="0d405a7c5aa79a55d79460b910097781790616b02f492a22a5e417a9499cd008"/>
 		<rom name="LUkKAkrsIhDmAiygMknubUidaxHbbYjQeFVVZwOtagKjdNQiKDvazdRDcMnOygWn.pkg" size="102400" crc="2ad3d104" md5="ed72e20a1dfed74e868a30b69d3610f3" sha1="fcb8bd6fe9a108b7156e0e309578bd97aadf3bad" sha256="fb5aa521f3ddc31a25a2911878658bf6a8437d11734938a79f93b15b46048a39"/>
 	</game>
@@ -28404,30 +28401,33 @@
 		<rom name="EP9000-BCES00050_00-FOLKLORE20000006.rap" size="16" crc="27a792cc" md5="306734ec5e3889e55e68361b824a731d" sha1="7212b0e85df4a127f2933d3f1d63f07c634677a1" sha256="1bb99354dd387940498a2ec9aa1227dfd0592a495725ada1eb97212bd565bc76"/>
 		<rom name="aVYF77XUSjlDW8YXqXWF504U6ykBoE0PlR9HEA8DUC40gha5REuXq1cCqWkbycALbh84814VvqNytJFSrrKNHuutVYLHJgQHUbqof.pkg" size="79704464" crc="d9cf3f50" md5="a2f28cf1c3cfb2c62e492600bba6cc37" sha1="f4f4345faf6a0301aac58e50f179e89d06b0ffc5" sha256="d68084869454c5e70c5ab2f0a73a3f417c576f053387c99f2fdff7e644a0f460"/>
 	</game>
+	<game name="FolksSoul - Ushinawareta Denshou - Additional Quest Pack 1 (Japan) (DLC)" id="23973">
+		<category>Add-Ons</category>
+		<description>FolksSoul - Ushinawareta Denshou - Additional Quest Pack 1 (Japan) (DLC)</description>
+		<game_id>JP9000-BCJS30009_00-FOLKSSOUL2000001</game_id>
+		<rom name="JP9000-BCJS30009_00-FOLKSSOUL2000001.rap" size="16" crc="bda5905b" md5="86f3febe5e5d76d01cb819a199602945" sha1="e48b81231c43706f9ca379c5212909a2975696ea"/>
+	</game>
+	<game name="FolksSoul - Ushinawareta Denshou - Additional Quest Pack 2 (Japan) (DLC)" id="23974">
+		<category>Add-Ons</category>
+		<description>FolksSoul - Ushinawareta Denshou - Additional Quest Pack 2 (Japan) (DLC)</description>
+		<game_id>JP9000-BCJS30009_00-FOLKSSOUL2000002</game_id>
+		<rom name="JP9000-BCJS30009_00-FOLKSSOUL2000002.rap" size="16" crc="b58f33fa" md5="eb234f7d4cce0b206c1f2e40e514c40b" sha1="2081fb7300560824b0a0146317d42e7518217956"/>
+	</game>
+	<game name="FolksSoul - Ushinawareta Denshou - Additional Quest Pack 3 (Japan) (DLC)" id="23975">
+		<category>Add-Ons</category>
+		<description>FolksSoul - Ushinawareta Denshou - Additional Quest Pack 3 (Japan) (DLC)</description>
+		<game_id>JP9000-BCJS30009_00-FOLKSSOUL2000003</game_id>
+		<rom name="JP9000-BCJS30009_00-FOLKSSOUL2000003.rap" size="16" crc="eae72b3e" md5="3766d044a5463cf1f9a700ae52e807c4" sha1="2115d984233c11abeb1b16fdf3be657c15dc53fd"/>
+	</game>
 	<game name="FolksSoul - Ushinawareta Denshou - Bonus 1 (Japan) (DLC)" id="11906">
 		<category>Add-Ons</category>
 		<description>FolksSoul - Ushinawareta Denshou - Bonus 1 (Japan) (DLC)</description>
 		<game_id>JP9000-BCJS30009_00-FOLKSSOUL1000001</game_id>
 		<rom name="3aU8G5Kt4VhkCRh1hL6DsWiauNANQhnak4CLxTQF49mYBGSMuc9HGUvjmLywosekdwYAsdSr6SPQxAhAOqRHFxVSjFBaqa9v0XGkn.pkg" size="16900240" crc="1dc3c8ef" md5="c687b1502917cc52149977fe2433f45f" sha1="155f912fe6ba3c7797da23132f482caa2bbf63d2"/>
-		<rom name="JP9000-BCJS30009_00-FOLKSSOUL2000001.rap" size="16" crc="bda5905b" md5="86f3febe5e5d76d01cb819a199602945" sha1="e48b81231c43706f9ca379c5212909a2975696ea"/>
 	</game>
-	<game name="FolksSoul - Ushinawareta Denshou - Bonus 2 (Japan) (DLC)" id="11908">
+	<game name="FolksSoul - Ushinawareta Denshou - Original Folks - Dengeki PlayStation (Japan) (v1.60) (DLC)" id="11909">
 		<category>Add-Ons</category>
-		<description>FolksSoul - Ushinawareta Denshou - Bonus 2 (Japan) (DLC)</description>
-		<game_id>JP9000-BCJS30009_00-FOLKSSOUL1000002</game_id>
-		<rom name="JP9000-BCJS30009_00-FOLKSSOUL2000002.rap" size="16" crc="b58f33fa" md5="eb234f7d4cce0b206c1f2e40e514c40b" sha1="2081fb7300560824b0a0146317d42e7518217956"/>
-		<rom name="eGUp1I4x2j6wUATOSLRg1OHNpCk6OA5cYLnVY9E02l8PmPExFcHPVlDLWGJCUEkwCEqUuUtBhD8kNjJdGJMOQbxPNi3im5Fcn38BM.pkg" size="24339296" crc="e1f5533d" md5="834a8793a98807998e46f8058c8f9f4a" sha1="f247783d80b10b85804fef3d7eb53d1f018c7a77"/>
-	</game>
-	<game name="FolksSoul - Ushinawareta Denshou - Bonus 3 (Japan) (DLC)" id="11910">
-		<category>Add-Ons</category>
-		<description>FolksSoul - Ushinawareta Denshou - Bonus 3 (Japan) (DLC)</description>
-		<game_id>JP9000-BCJS30009_00-FOLKSSOUL1000003</game_id>
-		<rom name="JP9000-BCJS30009_00-FOLKSSOUL2000003.rap" size="16" crc="eae72b3e" md5="3766d044a5463cf1f9a700ae52e807c4" sha1="2115d984233c11abeb1b16fdf3be657c15dc53fd"/>
-		<rom name="Mbcr6uDwtwpP7uBfTlwri1e8KNDGKJjIEr8P99Hjloe3V8uRdIRGAbmopYNAs8cH95mbvA2324AvX2UFSojudD28VwbQGW6rSraLe.pkg" size="24294064" crc="3fb6c037" md5="ea083446d6b93d8a5bede27fee202cdc" sha1="38868d51a927d7bc270f4725940cc67093092df1"/>
-	</game>
-	<game name="FolksSoul - Ushinawareta Denshou - Original Folks - Dengeki PlayStation (Japan) (DLC)" id="11909">
-		<category>Add-Ons</category>
-		<description>FolksSoul - Ushinawareta Denshou - Original Folks - Dengeki PlayStation (Japan) (DLC)</description>
+		<description>FolksSoul - Ushinawareta Denshou - Original Folks - Dengeki PlayStation (Japan) (v1.60) (DLC)</description>
 		<game_id>JP9000-BCJS30009_00-FOLKSSOUL1000003</game_id>
 		<rom name="grLBux1k4koTvTBtaMxgRXVtmrNQxERUQ7J4T6n1GoFqfoUC6rTONuVPtsSP57BEF5PHKeg875emx8JEKuehu1Motwb8jOmfmESr1.pkg" size="24310752" crc="52294b9f" md5="ba30179eedacaab696053ccd562ee41e" sha1="130d06e3e94254bf430e1e7b8adcacae613d401f"/>
 	</game>
@@ -28437,9 +28437,9 @@
 		<game_id>JP9000-BCJS30009_00-FOLKSSOUL1000004</game_id>
 		<rom name="oebLFUqtlawrrvEi9guyt0M3WUcKbN4lP1YPbfWjvnWN5svSUjOIVrJP7bdLpVNgehsFM2Ln8BrFDcbuMYdD7rYq1Tee1oA9loCoD.pkg" size="24423152" crc="af1cafad" md5="d3b847251f96f997103fc2c731f79455" sha1="57bb7ea10c892ff616bd0cd70080192039894769"/>
 	</game>
-	<game name="FolksSoul - Ushinawareta Denshou - Original Folks - Shuukan Famitsu (Japan) (DLC)" id="11907">
+	<game name="FolksSoul - Ushinawareta Denshou - Original Folks - Shuukan Famitsu (Japan) (v1.60) (DLC)" id="11907">
 		<category>Add-Ons</category>
-		<description>FolksSoul - Ushinawareta Denshou - Original Folks - Shuukan Famitsu (Japan) (DLC)</description>
+		<description>FolksSoul - Ushinawareta Denshou - Original Folks - Shuukan Famitsu (Japan) (v1.60) (DLC)</description>
 		<game_id>JP9000-BCJS30009_00-FOLKSSOUL1000002</game_id>
 		<rom name="e4Q1bbdRQkjAOGK845A7nVV0XqAcTBNTAna8tJikE6F8RVyfVaq6wgOrLWvIeiYuW9bCxA7H0kLLHYNoOykOPbdpyPKVAQDr3YgLf.pkg" size="24358768" crc="644c105e" md5="fdc0fc771fd3599eb8c59c50d32ce0f0" sha1="6d71f9252ec7d318609c458849880841aba13092"/>
 	</game>
@@ -28714,6 +28714,13 @@
 		<game_id>UP9000-BCUS98131_00-GENJI00000010002</game_id>
 		<rom name="81r9WlGGRdcWPx1T0SAnqc5K8GoU2R1hlSTgCHu0i9C3wy1Rr1JTVhVq5sNYg270gCe9HTmf9scMe9t9Kk4bwxrwMhw2pkkfqGv4w.pkg" size="18865184" crc="dd5be28a" md5="3d7957f9bda5446f3ab3d236d615f30d" sha1="7c471ca170d700b41d9c6ce0fa161039c1716814"/>
 		<rom name="UP9000-BCUS98131_00-GENJI00000010002.rap" size="16" crc="fb7e47c3" md5="413846f059513aad43cad4240daa6ea7" sha1="6509f26649eeca60896e73ad9255dfac7d9718ed" sha256="765381108eb6ddcfa09be585c287f1a9f25b752fbf5fdfaa165a4d179c9400b6"/>
+	</game>
+	<game name="Genji - Days of the Blade - Enemy Costume (Europe) (DLC)" id="05724">
+		<category>Add-Ons</category>
+		<description>Genji - Days of the Blade - Enemy Costume (Europe) (DLC)</description>
+		<game_id>EP9000-BCES00002_00-GENJI00000010001</game_id>
+		<rom name="0T1fjFYRYNRNOFYCbvQ86hBYoPNXCnd6VRFI8XrUcSgtGmS1uXWu5bRLlxxPJPtEpxgmceSkoo3OxXsUMkBB9C4D12O46HlYBneG3.pkg" size="19715264" crc="1a079c46" md5="d8bec7fd364a8fe1deffd6946997a836" sha1="27005ea1f28293f5837c832c0d6c4ee2a36fdf0c"/>
+		<rom name="EP9000-BCES00002_00-GENJI00000010001.rap" size="16" crc="e726bcea" md5="e15d8254eae89a46816ff5b01156bc7d" sha1="550540e8cacd7e0f729cd9f5ac02dd46653ca333"/>
 	</game>
 	<game name="Genji - Days of the Blade - Opera Costume (Europe) (DLC)" id="05728">
 		<category>Add-Ons</category>
@@ -34046,12 +34053,11 @@
 		<rom name="UP0177-NPUB31488_00-PJDF2SKN021ID870.rap" size="16" crc="560ec93c" md5="d5a7f14ce0f1586acec49e15b4bf0797" sha1="656910a7bcf58a09326c495f9cbae83f358806f1" sha256="69963ad42829759ee1300737ea8c4f2f457f32f5c592b97bca3115977a5bfe4b"/>
 		<rom name="UP0177-NPUB31488_00-PJDF2SKN021ID870_bg_1_366bda44451a32f2d11eab13025be58fb8c5307c.pkg" size="296032" crc="1c2a5cb9" md5="256e174e4792ee56e0d4bd4eb64046c6" sha1="b504c89cdd6ff54b803a723ef8bddce0df8cb0c2"/>
 	</game>
-	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len &amp; Kitty (Europe) (DLC)" id="02069">
+	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len &amp; Kitty (USA) (DLC)" id="16744">
 		<category>Add-Ons</category>
-		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len &amp; Kitty (Europe) (DLC)</description>
-		<game_id>EP0177-NPEB02013_00-PJDF2DLCSKN25011</game_id>
-		<rom name="EP0177-NPEB02013_00-PJDF2DLCSKN25011.rap" size="16" crc="a7f42c36" md5="4d867f3595138ef7b2504af83543bfd3" sha1="bdf7ca67229b5660bc54243628f73d639b8e5492"/>
-		<rom name="aSJcmpAJZLtpiHkONdnvUCbmdRIEIOdqoMZCSuCYbeicdfbKGcjhsCXebLmPczuv.pkg" size="130848" crc="04899545" md5="e461e3cc9705706a72b24f335c76a241" sha1="6396db4472c9272a19f4ca6b547c468a88e19d3e"/>
+		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len &amp; Kitty (USA) (DLC)</description>
+		<game_id>UP0177-NPUB31488_00-PJDF2DLCSKN25011</game_id>
+		<rom name="ypWliApOfWnJEcftMIySxglKudmEYSItEQVGEAdiJKMzKDNgUkHzLqekSCXcexZN.pkg" size="130848" crc="03b5489b" md5="e86efc7457a05ed7a6ec52eff1d71599" sha1="3bd510931761759b6cbafa1e171077dc2909b75a"/>
 	</game>
 	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len &amp; Neko (Japan) (DLC)" id="10802">
 		<category>Add-Ons</category>
@@ -35930,7 +35936,6 @@
 		<category>Add-Ons</category>
 		<description>Hyperdimension Neptunia - IF - Flower Hat (Europe) (DLC)</description>
 		<game_id>EP1063-BLES01178_00-DL00000000000136</game_id>
-		<rom name="EP1063-BLES01178_00-DL00000000000136.rap" size="16" crc="688dfcde" md5="0cf9483eacd1d44b6cc4cdb41406329c" sha1="1f083d59fbd16b2d6182b2be89fc13f9317f3709" sha256="bfb0124a73912319e0e6f9f879d0b499ffeb320264102f818976c6f7e3c88957"/>
 		<rom name="yGxofEYnZcsSwuPlhAHbsJCWnuundbBOLIYBdLJXDNGqbOKArDNdRxLMuGSfuooc.pkg" size="659696" crc="8f1a2656" md5="45abefa1c389b9eb1b6a1b66d5a95d24" sha1="3c7708c280bff2433e2d4bd2e80ba260a08ec89e" sha256="292f74933741db49a7d20f8286416774f89069d372898995a556a427aaaa5e00"/>
 	</game>
 	<game name="Hyperdimension Neptunia - IF - Nurse's Cap (Europe) (DLC)" id="03728">
@@ -48087,13 +48092,6 @@
 		<game_id>UP9000-BCUS98148_00-LBPDLCMARVCO0012</game_id>
 		<rom name="fmY3ccct7RWXNDlL6csLFmv5AKAtGVVBtTnFhsoh8fNYmLDxi7ppqY4tsX3pLBRmGLOx5EhAlxqSh9gk6pysQGxTJiPBFnWDPhR1U.pkg" size="1091584" crc="8399acbc" md5="e467b7c5f1d1e004a7deff76800deaa6" sha1="480ff47d9f9e7062b323a8399bacea897ee4b6ab" sha256="6894fb3a63f0505ea140f6e7787be4fa09d52f8b171531bab16b2d534de43494"/>
 	</game>
-	<game name="LittleBigPlanet - World Cup Sackboy - Brazil (USA) (DLC)" id="20747">
-		<category>Add-Ons</category>
-		<description>LittleBigPlanet - World Cup Sackboy - Brazil (USA) (DLC)</description>
-		<game_id>UP9000-BCUS98148_00-AVALBPBRAZILSACK</game_id>
-		<rom name="9nE3GIT48PjQhm0q28nEAfhkBEbB9vLOIBaQBYKTQeXVohim4BU57qwmmMFY3KjRFy7ou54LdyeAh2Je55YtaGUUeW5o4TIOWcqob.pkg" size="102400" crc="2ebcd15f" md5="8ebbb79495f7f53c0e20bee6c22661da" sha1="9f87d8c69ed4de747fed3921f279b077c2371992"/>
-		<rom name="UP9000-BCUS98148_00-AVALBPBRAZILSACK.rap" size="16" crc="47cc1138" md5="f954e039ea638b331fa33e734b22e19d" sha1="e7374f79c3f2286154e918fa418bbeaeca9c13cf"/>
-	</game>
 	<game name="LittleBigPlanet - Yorda Costume (USA) (DLC)" id="20563">
 		<category>Add-Ons</category>
 		<description>LittleBigPlanet - Yorda Costume (USA) (DLC)</description>
@@ -49147,7 +49145,6 @@
 		<category>Add-Ons</category>
 		<description>LittleBigPlanet 2 - Gonzo Costume (Europe) (DLC)</description>
 		<game_id>EP9000-BCES00850_00-LBPDLCDSMUCO0001</game_id>
-		<rom name="EP9000-BCES00850_00-LBPDLCDSMUCO0001.rap" size="16" crc="f58e00ff" md5="31bea855959b20886dc51c5d1e9ca860" sha1="cfa1f24460cbd840637d94c6e792defd3fd5e9a1"/>
 		<rom name="VETjOjnPZIPrwspdbYfVcRNQPIlDklKJfugmObFpBeeRHHXGPYdHCWcWSuVzugMD.pkg" size="1069120" crc="b129df8c" md5="470be47ab9ad0179f2b09e795d16fe75" sha1="528a900e197db4eef1c27dbf7b75e8d433443049"/>
 	</game>
 	<game name="LittleBigPlanet 2 - Good Knight Costume (USA) (DLC)" id="22445">
@@ -50165,7 +50162,7 @@
 		<category>Add-Ons</category>
 		<description>LittleBigPlanet 2 - The Great Gonzo Costume (USA) (DLC)</description>
 		<game_id>UP9000-BCUS98245_00-LBPDLCDSMUCO0001</game_id>
-		<rom name="EP9000-BCES00850_00-LBPDLCDSMUCO0001.rap" size="16" crc="f58e00ff" md5="31bea855959b20886dc51c5d1e9ca860" sha1="cfa1f24460cbd840637d94c6e792defd3fd5e9a1"/>
+		<rom name="UP9000-BCUS98245_00-LBPDLCDSMUCO0001.rap" size="16" crc="f58e00ff" md5="31bea855959b20886dc51c5d1e9ca860" sha1="cfa1f24460cbd840637d94c6e792defd3fd5e9a1"/>
 		<rom name="VPzTnLYUMdinuenVGajcjGWGhvPAReQIICcpDXRvSVKTTSGMfAtztbYoXCfdmuRALjtgPwedABiZdKXhsgGtYaLYjyvTlbZtlASDu.pkg" size="1069120" crc="45092755" md5="fedc6347fc1031cb68c7dede3c873189" sha1="12e4347d71fce25f25697cecbc13da5c73adfb80" sha256="31cd50b3170fbbee012fde0ec7b5b5a005d1d7f3ec3f394ea613d5be02163b8e"/>
 	</game>
 	<game name="LittleBigPlanet 2 - The Last of Us Minipack (USA) (DLC)" id="22523">
@@ -57551,7 +57548,6 @@
 		<category>Add-Ons</category>
 		<description>Mighty No. 9 - Ray Expansion (USA) (DLC)</description>
 		<game_id>UP2047-NPUB31733_00-MIGHTYNONINERAY0</game_id>
-		<rom name="UP2047-NPUB31733_00-MIGHTYNONINERAY0.rap" size="16" crc="fccb6d08" md5="54d3d717011f32d83f768d37a4a78400" sha1="fd993a8affb562def459e8ecc4b2827b854ceda0"/>
 		<rom name="UP2047-NPUB31733_00-MIGHTYNONINERAY0.rap" size="16" crc="0cc24cf0" md5="2733af809d07c9f28d270286c163ccc0" sha1="18c84165d6735a37702220cf242185c53b6eb43b" sha256="3aaed6167c3abfcc116a79cc36b9fb87cdd323366280e3e298a79d216c441454"/>
 		<rom name="UP2047-NPUB31733_00-MIGHTYNONINERAY0_bg_1_1bfdb49e40b32617e2bdecd6242e311ac25f06e4.pkg" size="79709344" crc="701cd228" md5="41092d10296dcd2483ee588b6a3439d6" sha1="bf497e0ccff08515136375620fc3aae81a6500e6"/>
 	</game>
@@ -90360,7 +90356,6 @@
 		<description>Shin Hokuto Musou - Gensaku Comic Costume - Kaiou (Japan) (v2.00) (DLC)</description>
 		<game_id>JP0106-NPJB00316_00-COSTUME019000001</game_id>
 		<rom name="MOouhXryliJaNyVxtxrFoEAXeWwdYUunLVuodLgTmThPgkWHmcDVnDUNiRuLyRhzooqaSPIanoLvcrPNrJcWiRmFIyQiDvJPKvahK.pkg" size="21854784" crc="09f894a0" md5="153ba8b232fa5eab70c730116dcd4c0f" sha1="df6f58a3d1dd5ecbb1be6880df53d4d0862a5edb"/>
-		<rom name="mrEoulDrhAVgdTcHFmnxPjdzVRtctPMioXGjIpTvlmriMQmiZylugLfEwnbjsAwQTAbVENHiJKnceuXRZmicZPifRlWERdBLIlpXx.pkg" size="105360" crc="312e8551" md5="5c3c40a9f836f38eb44b982c4adebba8" sha1="137842c59fef7108f72a7644da367e0f6d0171bd"/>
 	</game>
 	<game name="Shin Hokuto Musou - Gensaku Comic Costume - Kenshirou (Japan) (DLC)" id="10293">
 		<category>Add-Ons</category>
@@ -90548,7 +90543,6 @@
 		<category>Add-Ons</category>
 		<description>Shin Hokuto Musou - Playable Character - Han (Japan) (v2.00) (DLC)</description>
 		<game_id>JP0106-NPJB00316_00-CHARACTER0240000</game_id>
-		<rom name="OdVlwjljCzkiguanbNXPGgYHfyXgTNfThdZZFwLYtYDnZjoCUAmuzOhbpxFDkZJlnTkgYrolwhZnOohqaRJpokiIzMoCUpbikJnJA.pkg" size="35208736" crc="1ef3cc1a" md5="9f48a68c093299abdbb251859b053aff" sha1="b9972142229c6c02a599a6b24b51cc3cf8aac1c5"/>
 		<rom name="XemqNjTZURDJSNFhrsRPFsSiWqRVxdBdYIluDVhbfEQigSfGcGmEdHUZRXSBuvsMWXBvyUfvFyrvdNQMsGuiYOjZKPLxsioncbDuS.pkg" size="9826992" crc="678ab374" md5="a4f2561faace1ad9a7aab9953af8b905" sha1="72ddbb26befd49e90eb6b785884e4495b244cce0"/>
 	</game>
 	<game name="Shin Hokuto Musou - Playable Character - Namonaki Shura (Japan) (DLC)" id="10288">
@@ -94280,7 +94274,6 @@
 		<category>Add-Ons</category>
 		<description>Star Wars - The Force Unleashed II - Costume Pack (Europe) (DLC)</description>
 		<game_id>EP1010-BLES00893_00-SWTFU2DLCEU00005</game_id>
-		<rom name="EP1010-BLES00893_00-SWTFU2DLCEU00005.rap" size="16" crc="d3c51a54" md5="270acb526aca7353fefa1031e9251b97" sha1="ffbbd0d7b887e15391e03b567ce263cb1e310825" sha256="68cd00e7c4b8dd089398b96aa64a254b4cbc25f92e5e5775319cf2cccf72c411"/>
 		<rom name="EP1010-BLES00893_00-SWTFU2DLCEU00005.rap" size="16" crc="770904ab" md5="e0d010a84b2ec48e5ef008d068acc71d" sha1="43ccceedf4cd5c2addb8e502dd873b6827d3d1bc" sha256="e10c34d2a48993038b8d62ef49bcb110d7304e98df11e321ce0840b5c3edfd21"/>
 		<rom name="VttovRETXgZkxFuZhKnrZOJeBpXhznCSYboghRCaumOpVeqJGpebiHlgDUobMPyK.pkg" size="227376240" crc="a723b731" md5="56562651788e3bbceaa411153dd721d4" sha1="976fbf34f86c4a138c760db53ab6b785445d7846"/>
 	</game>
@@ -101102,11 +101095,11 @@
 		<game_id>UP0082-BLUS31036_00-TOMBRPISTOLBURST</game_id>
 		<rom name="NELamSldRXgnMRiOOfIkRDWDrCQnsLCQegeFtLpqIKpGgVqGYwBOjJBblftXGnew.pkg" size="971920" crc="559f9d3f" md5="8e5a45132d0d212479b56ea430a9279a" sha1="a15f145ed95ccce4c0d500a6bc907aed24bca089"/>
 	</game>
-	<game name="Tomb Raider - Pistol Silencer (USA) (DLC)" id="16208">
+	<game name="Tomb Raider - Pistol Silencer (USA) (v2.00) (DLC)" id="16208">
 		<category>Add-Ons</category>
-		<description>Tomb Raider - Pistol Silencer (USA) (DLC)</description>
+		<description>Tomb Raider - Pistol Silencer (USA) (v2.00) (DLC)</description>
 		<game_id>UP0082-BLUS31036_00-PISTOLSILENCER00</game_id>
-		<rom name="UP0082-BLUS31036_00-SCAVEEXECUTIONER.rap" size="16" crc="913d7efe" md5="67761e055f88899b61c01c93f549d442" sha1="999c3314a09e66c286580ef29b19bf97e5da3844"/>
+		<rom name="UP0082-BLUS31036_00-PISTOLSILENCER00.rap" size="16" crc="2865806f" md5="7c834a2cd582e34825f8289828189c66" sha1="425c0718277d353025270564a0716684c6dfdcd9"/>
 		<rom name="eJAyOLMzryVYhHyGlSYGjdVBJxKDqVgFEJiMAmOYVmTnKuduwLBBEhbEGVrstpJm.pkg" size="971920" crc="adb6b380" md5="2698b47cc142ece28dd21f83f4286ba4" sha1="383a7540f2ba271d2ccd17e8c7d04ba8aa2682cc"/>
 	</game>
 	<game name="Tomb Raider - STG 58 Elite (Europe) (DLC)" id="01578">
