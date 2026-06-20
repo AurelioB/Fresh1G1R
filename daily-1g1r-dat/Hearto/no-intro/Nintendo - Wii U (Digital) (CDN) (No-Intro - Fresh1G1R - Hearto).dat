@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Wii U (Digital) (CDN) (Retool)</name>
-		<description>Nintendo - Wii U (Digital) (CDN) (2,069) (-y) [-aAbBcefkmMoprv] (20260307-084718) (Retool)</description>
-		<version>20260307-084718</version>
-		<date>2026-06-19 03-28-27</date>
-		<author>buckwheat, C. V. Reynolds, Deterous, Hiccup, Hiccup and DarkMatterCore, Larsenv, nnssxx, norkmetnoil577, rarenight, SonGoku, xprism, xuom2</author>
+		<description>Nintendo - Wii U (Digital) (CDN) (2,069) (-y) [-aAbBcefkmMoprv] (20260618-192853) (Retool)</description>
+		<version>20260618-192853</version>
+		<date>2026-06-20 03-25-30</date>
+		<author>1988reload, buckwheat, C. V. Reynolds, Deterous, Hiccup, Hiccup and DarkMatterCore, Larsenv, nnssxx, norkmetnoil577, rarenight, SonGoku, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -48789,6 +48789,48 @@
 		<rom name="0000001e.h3" size="20" crc="1ca358a8" md5="1426e7cfcd2cee55eb1da758976fd8b7" sha1="f7104e0c6e0c9e4b46e02ac820762fa6590fe6a4"/>
 		<rom name="tmd.0" size="6100" crc="93f5b40f" md5="f89eccd552cd8548268236df20641728" sha1="dc253e0797c4adfd682ad51576681a5621131f28"/>
 	</game>
+	<game name="Neji Maki Knight 2 (Japan) (Demo)" id="6230">
+		<category>Demos</category>
+		<description>Neji Maki Knight 2 (Japan) (Demo)</description>
+		<game_id>00050002101bbf01</game_id>
+		<rom name="00000000" size="32768" crc="15acdf35" md5="522685160d6ee8cfa5b248ae3dd7637d" sha1="1d098e8f1a9749c37b6653b0e947cf11d3eb83da"/>
+		<rom name="00000001" size="32768" crc="d1a71ad1" md5="9e4f2033867326578e02124fbc5d33cf" sha1="684c32ea7dadc071136661408e891d37cc1adcd9"/>
+		<rom name="00000002" size="32768" crc="2a4a01e0" md5="a2c45e9eb7e1ac85b4e43831293e4a99" sha1="6cb48776932542188915a33fc875dea5ba94229d"/>
+		<rom name="00000003" size="196608" crc="0ce30233" md5="b9699548c53b8155ea25c4758dd19c35" sha1="87ff49818d9e3236569e160f030cb0f518679f82"/>
+		<rom name="00000003.h3" size="20" crc="91272486" md5="26c99f7114e83ef0086694c4559eecaf" sha1="dfd205f07564c8105a1b44a0140f647b6ca22dfc"/>
+		<rom name="00000004" size="11730944" crc="995b5f3e" md5="56175cd455b0ea802a09f74f34c4baf8" sha1="ac0d7279595c1db0c84632fbf23b15ad915daf53"/>
+		<rom name="00000004.h3" size="20" crc="7c642a69" md5="577eebd8d122452f93bf2320fd24fcc5" sha1="51fb97bb374ceb2bc373b3d5a9515dc15f2268bd"/>
+		<rom name="00000005" size="1114112" crc="47c5ca52" md5="9db4534f69a038e952c637e7dab25b73" sha1="71da5d0e87087877bde6493b6f2d3f45d75b31fa"/>
+		<rom name="00000005.h3" size="20" crc="8d8b1c2a" md5="15b51ff4b44d3949bd9d42ea893db0c1" sha1="57a6ad921357a47531786034b06c17480fe26275" sha256="155c81fcd44da62bd117499ac768a4f947f0cd157cc5aef02af6fbeee82e1f16"/>
+		<rom name="00000006" size="1114112" crc="6f9f1540" md5="0de51dd03f8999cfebeed056459321d5" sha1="34c5ec8c9871ab0fa5979844686bb2f73e8f9375"/>
+		<rom name="00000006.h3" size="20" crc="4dc49af2" md5="5c02933ab5958ae106a0615f885a6998" sha1="c022bb30df81cb1c4b44592e1ff0b2ca041040e8" sha256="e5bce87da300a8b29807f191d103643baa2ee5fcf8c2ae35e13ccdf023595223"/>
+		<rom name="00000007" size="18153472" crc="7911c729" md5="3ae11dc968d9b6928a7d450ad9993596" sha1="d095c619c68dff4ce85117328ca54fa88b737ee0"/>
+		<rom name="00000007.h3" size="20" crc="d98c675c" md5="ade42ce99d56e5865e1c3bffa460c17d" sha1="a02ba16c0192b4f8086f5b20703a0a5bda9982e3"/>
+		<rom name="00000008" size="2162688" crc="58545bb5" md5="17c8c99b200fe0cec2fa5f910ecdbcd9" sha1="b62b5b8ddae4211aa1059ea502881822694f6da2"/>
+		<rom name="00000008.h3" size="20" crc="ceadbe17" md5="e92aaa957e46f49ac05ef3676d4d44d9" sha1="3f9dca19dc50a558a47e5fcff00f3d85473beeb8" sha256="11bde8990694ec29d36cf32f831069d39bcbf02b632d328150ea594340665cee"/>
+		<rom name="00000009" size="10485760" crc="0d5222fe" md5="561aabe6b74e7ba7283ccaba3521ba3d" sha1="947592fc8939718b925f0519cefca00050a3a4e5"/>
+		<rom name="0000000a" size="229376" crc="333c9083" md5="e9f99b320826dabad1ea30880eeb8fe8" sha1="8bfc7e564640ac12280931bda0e59723e8cf6deb"/>
+		<rom name="0000000b" size="2260992" crc="3514adff" md5="35a7718dc86bfafd451dad28d92f8c4a" sha1="d25f833bfbffae718cc2e7b5cca3092cea71705e"/>
+		<rom name="0000000c" size="32768" crc="cf082f1d" md5="508ec17e5bf9959edacce3952704dc3f" sha1="a95052565b98c8960d61ff89051d1ed989907e2d"/>
+		<rom name="0000000d" size="1835008" crc="b837adc1" md5="70eb688e3a6f54f95bddea80198494e5" sha1="f2485f801c07d9f4ed0702641f43dba347817e27"/>
+		<rom name="0000000e" size="32768" crc="5aeb78d8" md5="2044012aa2a045d43f18e1c4b711bf85" sha1="4d92bfcc5a5caa6871e631b0057e850897049e62"/>
+		<rom name="0000000f" size="32768" crc="6d6aa3bf" md5="37610952637001333c2cf3f910788857" sha1="d09738976dd71ab09f34004bf9e2061f92ee5895"/>
+		<rom name="00000010" size="131072" crc="1c80de04" md5="34a6255f8be73f3a5423f29100c4cdc2" sha1="543ee610adf900e81010f9c99c38eebe62943245"/>
+		<rom name="00000011" size="1245184" crc="32e5074b" md5="7f373f0e043fcb6dd5ee11015b70fe8b" sha1="04862959237e7b7b03ffd8bc0981042a2d9c1be1"/>
+		<rom name="00000012" size="425984" crc="328e18e4" md5="15815429a6ec8487cb0207527a00648b" sha1="0bf8c7460b8cdae2265b7babd5b8e7d6e7de239d"/>
+		<rom name="00000013" size="65536" crc="fb00795e" md5="7d665878602c862eb1abb09e9e262777" sha1="cdcddfbc0a7ba202054c86421128efa54105de07"/>
+		<rom name="00000014" size="1015808" crc="d39534a1" md5="9ebfedb66e3ebc5da9b689e41aedf0aa" sha1="1c6d58fb7a296c9e14593c29d4e39b3f9426ae92"/>
+		<rom name="00000015" size="131072" crc="22ddd24d" md5="35e2a5c7c1c135f414d0f197c627dbf6" sha1="4ad2a984bd3008abfe36eab1f09fa665bb5381ed"/>
+		<rom name="00000016" size="1114112" crc="7c63c515" md5="6c0ad498eae40783bcd55457ef4ba6e8" sha1="64a69e91497c85edec99d230b2088beaf2ab2b53"/>
+		<rom name="00000017" size="98304" crc="00826bd7" md5="e99403f2f3b9ce29b62099f807e922a1" sha1="b723e608407bf4bd59352f74ac25a536f6e1b36b"/>
+		<rom name="00000018" size="32768" crc="2fd00993" md5="5a15a02064c11ac7ce6951a5127c1b25" sha1="22be260935e3a5eb6728396703144cd846312cb8"/>
+		<rom name="00000019" size="327680" crc="723a43af" md5="0da6baca96bfe2f6af16847b8308cb5d" sha1="7edd2785fb9ceff8e065aa171ffc854b8b648176"/>
+		<rom name="0000001a" size="98304" crc="4e41b627" md5="521f69bde6d486ede81ba38676f5378d" sha1="15c9128a9c5f48f854594e15fde83abd2bf7f719"/>
+		<rom name="0000001b" size="688128" crc="d0571df4" md5="644b328f0665ee17ab03a51276eb63d0" sha1="1f303d2da4b51ea3235126d12ccefac5d96ada27"/>
+		<rom name="0000001c" size="357629952" crc="f8993ae3" md5="c1b79e7aa319d41a7608e86e3de2d3fc" sha1="f70e988bdb519d88a744d912570ed110be219f48"/>
+		<rom name="0000001c.h3" size="40" crc="53fa187f" md5="cda7dd7434282a734381ececbacc06e7" sha1="9bc6e99ee79b1459cc285b2568643839bc5a49d6"/>
+		<rom name="tmd.0" size="6004" crc="97d9f07a" md5="0bed6342eb46be5e64504a014b93081c" sha1="b4760f74c5397f42ab7316c492f93615bd9d1577"/>
+	</game>
 	<game name="Nekketsu Kouha Kunio-Kun (Japan) (NES) (Virtual Console)" id="3199">
 		<category>Games</category>
 		<description>Nekketsu Kouha Kunio-Kun (Japan) (NES) (Virtual Console)</description>
@@ -84139,48 +84181,6 @@
 		<rom name="0000000b" size="1048576" crc="19c59c65" md5="fffce5f2f4956fa4337eecd114da25e1" sha1="ceeb3b02ca5e93559fc3a0393661db9f96ce50e1"/>
 		<rom name="0000000b.h3" size="20" crc="6e57ab0b" md5="f120b911ad7e0ffcd5aeadb08bd1f82e" sha1="6127970cb5e5b9fad974fec141b2242623e30f91"/>
 		<rom name="tmd.0" size="5188" crc="fd38de15" md5="400d3df1029e30ec62042eeec91144c1" sha1="07ff36f0450dd8c0898e9d1a458e69ba81124f96"/>
-	</game>
-	<game name="Wind-Up Knight 2 (Japan) (Demo)" id="6230">
-		<category>Demos</category>
-		<description>Wind-Up Knight 2 (Japan) (Demo)</description>
-		<game_id>00050002101bbf01</game_id>
-		<rom name="00000000" size="32768" crc="15acdf35" md5="522685160d6ee8cfa5b248ae3dd7637d" sha1="1d098e8f1a9749c37b6653b0e947cf11d3eb83da"/>
-		<rom name="00000001" size="32768" crc="d1a71ad1" md5="9e4f2033867326578e02124fbc5d33cf" sha1="684c32ea7dadc071136661408e891d37cc1adcd9"/>
-		<rom name="00000002" size="32768" crc="2a4a01e0" md5="a2c45e9eb7e1ac85b4e43831293e4a99" sha1="6cb48776932542188915a33fc875dea5ba94229d"/>
-		<rom name="00000003" size="196608" crc="0ce30233" md5="b9699548c53b8155ea25c4758dd19c35" sha1="87ff49818d9e3236569e160f030cb0f518679f82"/>
-		<rom name="00000003.h3" size="20" crc="91272486" md5="26c99f7114e83ef0086694c4559eecaf" sha1="dfd205f07564c8105a1b44a0140f647b6ca22dfc"/>
-		<rom name="00000004" size="11730944" crc="995b5f3e" md5="56175cd455b0ea802a09f74f34c4baf8" sha1="ac0d7279595c1db0c84632fbf23b15ad915daf53"/>
-		<rom name="00000004.h3" size="20" crc="7c642a69" md5="577eebd8d122452f93bf2320fd24fcc5" sha1="51fb97bb374ceb2bc373b3d5a9515dc15f2268bd"/>
-		<rom name="00000005" size="1114112" crc="47c5ca52" md5="9db4534f69a038e952c637e7dab25b73" sha1="71da5d0e87087877bde6493b6f2d3f45d75b31fa"/>
-		<rom name="00000005.h3" size="20" crc="8d8b1c2a" md5="15b51ff4b44d3949bd9d42ea893db0c1" sha1="57a6ad921357a47531786034b06c17480fe26275" sha256="155c81fcd44da62bd117499ac768a4f947f0cd157cc5aef02af6fbeee82e1f16"/>
-		<rom name="00000006" size="1114112" crc="6f9f1540" md5="0de51dd03f8999cfebeed056459321d5" sha1="34c5ec8c9871ab0fa5979844686bb2f73e8f9375"/>
-		<rom name="00000006.h3" size="20" crc="4dc49af2" md5="5c02933ab5958ae106a0615f885a6998" sha1="c022bb30df81cb1c4b44592e1ff0b2ca041040e8" sha256="e5bce87da300a8b29807f191d103643baa2ee5fcf8c2ae35e13ccdf023595223"/>
-		<rom name="00000007" size="18153472" crc="7911c729" md5="3ae11dc968d9b6928a7d450ad9993596" sha1="d095c619c68dff4ce85117328ca54fa88b737ee0"/>
-		<rom name="00000007.h3" size="20" crc="d98c675c" md5="ade42ce99d56e5865e1c3bffa460c17d" sha1="a02ba16c0192b4f8086f5b20703a0a5bda9982e3"/>
-		<rom name="00000008" size="2162688" crc="58545bb5" md5="17c8c99b200fe0cec2fa5f910ecdbcd9" sha1="b62b5b8ddae4211aa1059ea502881822694f6da2"/>
-		<rom name="00000008.h3" size="20" crc="ceadbe17" md5="e92aaa957e46f49ac05ef3676d4d44d9" sha1="3f9dca19dc50a558a47e5fcff00f3d85473beeb8" sha256="11bde8990694ec29d36cf32f831069d39bcbf02b632d328150ea594340665cee"/>
-		<rom name="00000009" size="10485760" crc="0d5222fe" md5="561aabe6b74e7ba7283ccaba3521ba3d" sha1="947592fc8939718b925f0519cefca00050a3a4e5"/>
-		<rom name="0000000a" size="229376" crc="333c9083" md5="e9f99b320826dabad1ea30880eeb8fe8" sha1="8bfc7e564640ac12280931bda0e59723e8cf6deb"/>
-		<rom name="0000000b" size="2260992" crc="3514adff" md5="35a7718dc86bfafd451dad28d92f8c4a" sha1="d25f833bfbffae718cc2e7b5cca3092cea71705e"/>
-		<rom name="0000000c" size="32768" crc="cf082f1d" md5="508ec17e5bf9959edacce3952704dc3f" sha1="a95052565b98c8960d61ff89051d1ed989907e2d"/>
-		<rom name="0000000d" size="1835008" crc="b837adc1" md5="70eb688e3a6f54f95bddea80198494e5" sha1="f2485f801c07d9f4ed0702641f43dba347817e27"/>
-		<rom name="0000000e" size="32768" crc="5aeb78d8" md5="2044012aa2a045d43f18e1c4b711bf85" sha1="4d92bfcc5a5caa6871e631b0057e850897049e62"/>
-		<rom name="0000000f" size="32768" crc="6d6aa3bf" md5="37610952637001333c2cf3f910788857" sha1="d09738976dd71ab09f34004bf9e2061f92ee5895"/>
-		<rom name="00000010" size="131072" crc="1c80de04" md5="34a6255f8be73f3a5423f29100c4cdc2" sha1="543ee610adf900e81010f9c99c38eebe62943245"/>
-		<rom name="00000011" size="1245184" crc="32e5074b" md5="7f373f0e043fcb6dd5ee11015b70fe8b" sha1="04862959237e7b7b03ffd8bc0981042a2d9c1be1"/>
-		<rom name="00000012" size="425984" crc="328e18e4" md5="15815429a6ec8487cb0207527a00648b" sha1="0bf8c7460b8cdae2265b7babd5b8e7d6e7de239d"/>
-		<rom name="00000013" size="65536" crc="fb00795e" md5="7d665878602c862eb1abb09e9e262777" sha1="cdcddfbc0a7ba202054c86421128efa54105de07"/>
-		<rom name="00000014" size="1015808" crc="d39534a1" md5="9ebfedb66e3ebc5da9b689e41aedf0aa" sha1="1c6d58fb7a296c9e14593c29d4e39b3f9426ae92"/>
-		<rom name="00000015" size="131072" crc="22ddd24d" md5="35e2a5c7c1c135f414d0f197c627dbf6" sha1="4ad2a984bd3008abfe36eab1f09fa665bb5381ed"/>
-		<rom name="00000016" size="1114112" crc="7c63c515" md5="6c0ad498eae40783bcd55457ef4ba6e8" sha1="64a69e91497c85edec99d230b2088beaf2ab2b53"/>
-		<rom name="00000017" size="98304" crc="00826bd7" md5="e99403f2f3b9ce29b62099f807e922a1" sha1="b723e608407bf4bd59352f74ac25a536f6e1b36b"/>
-		<rom name="00000018" size="32768" crc="2fd00993" md5="5a15a02064c11ac7ce6951a5127c1b25" sha1="22be260935e3a5eb6728396703144cd846312cb8"/>
-		<rom name="00000019" size="327680" crc="723a43af" md5="0da6baca96bfe2f6af16847b8308cb5d" sha1="7edd2785fb9ceff8e065aa171ffc854b8b648176"/>
-		<rom name="0000001a" size="98304" crc="4e41b627" md5="521f69bde6d486ede81ba38676f5378d" sha1="15c9128a9c5f48f854594e15fde83abd2bf7f719"/>
-		<rom name="0000001b" size="688128" crc="d0571df4" md5="644b328f0665ee17ab03a51276eb63d0" sha1="1f303d2da4b51ea3235126d12ccefac5d96ada27"/>
-		<rom name="0000001c" size="357629952" crc="f8993ae3" md5="c1b79e7aa319d41a7608e86e3de2d3fc" sha1="f70e988bdb519d88a744d912570ed110be219f48"/>
-		<rom name="0000001c.h3" size="40" crc="53fa187f" md5="cda7dd7434282a734381ececbacc06e7" sha1="9bc6e99ee79b1459cc285b2568643839bc5a49d6"/>
-		<rom name="tmd.0" size="6004" crc="97d9f07a" md5="0bed6342eb46be5e64504a014b93081c" sha1="b4760f74c5397f42ab7316c492f93615bd9d1577"/>
 	</game>
 	<game name="Wind-up Knight 2 (USA)" id="4670">
 		<category>Games</category>

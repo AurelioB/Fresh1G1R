@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sony - PlayStation 3 (PSN) (DLC) (Retool)</name>
-		<description>Sony - PlayStation 3 (PSN) (DLC) (16,802) (-y) [-aAbBcdkmMpPuv] (20260617-200800) (Retool)</description>
-		<version>20260617-200800</version>
-		<date>2026-06-19 03-39-13</date>
+		<description>Sony - PlayStation 3 (PSN) (DLC) (16,805) (-y) [-aAbBcdkmMpPuv] (20260618-031226) (Retool)</description>
+		<version>20260618-031226</version>
+		<date>2026-06-20 03-38-17</date>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Hiccup, Intothisworld, Landcross, norkmetnoil577, rarenight, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -5418,6 +5418,12 @@
 		<rom name="UP0006-BLUS30762_00-BF3SCULTIMATE000.rap" size="16" crc="6493528c" md5="28402c42b98448d7c53503107511d2db" sha1="17cbb71c58b0ecec6e580a51e7b99acc05884bc0" sha256="575e4d72f84844e5cb59b88f8cb416e2a91333d942cd59ee3467a0296155e235"/>
 		<rom name="qpWiKsfEPMsovhBhwrqpDWrqnNxewxmlRPSHsETfkTBsJAopntsdVRUjwfAqYsvxyJSVDtWysoymznHNgHDMeuiIfaPAADUmqlJno.pkg" size="102400" crc="c2c69ed6" md5="99ae4239cef4575b2fdcb740d1c45cac" sha1="9f4052bc27aa0e4dc79a93b04411176c4f0e85c7" sha256="b36daa49e1b7e4e62741094654e8e13b5a4b89b9a2294d391f02b0dfaf9d9732"/>
 	</game>
+	<game name="Battlefield 3 - Ultimate Shortcut Bundle (Europe) (DLC)" id="01359">
+		<category>Add-Ons</category>
+		<description>Battlefield 3 - Ultimate Shortcut Bundle (Europe) (DLC)</description>
+		<game_id>EP0006-BLES01275_00-BF3SCULTIMATE000</game_id>
+		<rom name="UiBYLgYXqgBIjvLvtcTiSVSJbZSeCWNozXCvWkiifSrCEuYpJxLAmTJZRRcVqkkt.pkg" size="102400" crc="fe8e2f7a" md5="703724c85c96378c9cd9d13923d17997" sha1="b0b57fa4ebf214bc9f5e8472128220f60bfcc5ea"/>
+	</game>
 	<game name="Battlefield 3 - Welcome Pack (USA) (DLC)" id="15847">
 		<category>Add-Ons</category>
 		<description>Battlefield 3 - Welcome Pack (USA) (DLC)</description>
@@ -7218,6 +7224,12 @@
 		<game_id>UP1001-BLUS30982_00-BL2GRD0100000080</game_id>
 		<rom name="SIiZCHFRCYWeClvompOmswNuRnSERKHqEQTNaaPLTXcziMwtjaDFbLhcpWMWiyTI.pkg" size="102400" crc="f41c85a7" md5="f00cd39a6f479a719b5623e3696b856d" sha1="760d43c90d21234f776ddebf51c888eb785036a4"/>
 		<rom name="UP1001-BLUS30982_00-BL2GRD0100000080.rap" size="16" crc="1f7c857f" md5="66bbe9bbd85544947e32db6aa1455f6a" sha1="a23388a4fdbc468513c0f831e511695cb3338158"/>
+	</game>
+	<game name="Borderlands 2 - Headhunter 5 - Son of Crawmerax (Europe) (DLC)" id="03141">
+		<category>Add-Ons</category>
+		<description>Borderlands 2 - Headhunter 5 - Son of Crawmerax (Europe) (DLC)</description>
+		<game_id>EP1001-BLES01684_00-BL2NSTRM0000000C</game_id>
+		<rom name="xFADkENCCNvAZoTtWtklOJvRXyFnmTMBPfmEbiNhUKLBxisanjvueqZSxGfOiYih.pkg" size="989352208" crc="fb9d604b" md5="dfd65f097a56571c3b8ecca617fb9e05" sha1="65ed7cf895cf6c70251a2f1e2ab0f279720653d0"/>
 	</game>
 	<game name="Borderlands 2 - How Marcus Saved Mercenary Day (USA) (DLC)" id="17632">
 		<category>Add-Ons</category>
@@ -10266,12 +10278,11 @@
 		<rom name="UP0102-NPUB30769_00-CACCLSSINGLEP013.rap" size="16" crc="16cbe0a6" md5="579287bcf1cfd9dc34b65809bd8be51d" sha1="4258228c26f26ddd806d89d1de2862b908910906" sha256="a2ea6dd5136fc724ba1c3904f4fa2f6bf82c4b07390b58f40489d02e5bf0a840"/>
 		<rom name="zFNnvLvxiLZeMhGvDaaWMtfhvVaRFRnLxeWaHnWvdiFyrPVmvmfspZVvImYDTjAV.pkg" size="102400" crc="89e57270" md5="109bd909cb9ba8e480ecf695762e95b3" sha1="a45f25f3784f0900b55f81a37d46c26ec39d92b8" sha256="1fb8121ed247a4a3291574bbd773d2ebd11fd47e8427d70e705d5e0ad1367126"/>
 	</game>
-	<game name="Capcom Arcade Cabinet - The Speed Rumbler (Europe) (DLC)" id="01915">
+	<game name="Capcom Arcade Cabinet - The Speed Rumbler (USA) (DLC)" id="16577">
 		<category>Add-Ons</category>
-		<description>Capcom Arcade Cabinet - The Speed Rumbler (Europe) (DLC)</description>
-		<game_id>EP0102-NPEB00980_00-CACCLSSINGLEP008</game_id>
-		<rom name="EP0102-NPEB00980_00-CACCLSSINGLEP008.rap" size="16" crc="50106e03" md5="70f9fa24d29b908548c65226ad66b2c4" sha1="b86a16ce35f954c57f0aef0cd8b950e18d65efc4"/>
-		<rom name="HCzwSagsFDaXTZpGBLySjXzaNNMCsuuPgAgnsEQbBpvmzcYUjKlrBcrzTLuKOvSS.pkg" size="102400" crc="42c2e788" md5="970e1ad26f50a236c0ccc2374a412ad7" sha1="fb09c78edfb52111b9923d859da6d9cb861ff869"/>
+		<description>Capcom Arcade Cabinet - The Speed Rumbler (USA) (DLC)</description>
+		<game_id>UP0102-NPUB30769_00-CACCLSSINGLEP008</game_id>
+		<rom name="ecDKiCygGYRSvtvCrATIWeqswXuRYaUkxZYinBeVURJDLrJUJvcFeVGOJInUtdAg.pkg" size="102400" crc="abfd4a7a" md5="a53a0242ed5e624715f72214c044ac65" sha1="aa067804c5e5d26be5d18c5c3771d2cd04790f43" sha256="c24a9da10d2550b2a44b880b4a1bb73743064dd815eca10dd498f243b03555b0"/>
 	</game>
 	<game name="Capcom Arcade Cabinet - Trojan (USA) (DLC)" id="16580">
 		<category>Add-Ons</category>
@@ -19068,11 +19079,11 @@
 		<rom name="UP0006-BLUS30997_00-DA3IP1BLACKEMPOR.rap" size="16" crc="6b8fed56" md5="a4d7945dea7a61eb2e5ba282a648d590" sha1="df7a474ee46dc429e1e2cf4941614ab404754db1"/>
 		<rom name="UP0006-BLUS30997_00-DA3IP1BLACKEMPOR_bg_1_e21c4dbd2d47a831919192e0ae1e3b09aa24d917.pkg" size="34304672" crc="8f322fc1" md5="5e2e02d1983524bae72091b8e23de4bb" sha1="c7916bcf21bf2c46abf7bfa7c136207d7579a45d"/>
 	</game>
-	<game name="Dragon Age - Origins - Amulet of the War Mage (Europe) (DLC)" id="01127">
+	<game name="Dragon Age - Origins - Amulet of the War Mage (USA) (DLC)" id="15687">
 		<category>Add-Ons</category>
-		<description>Dragon Age - Origins - Amulet of the War Mage (Europe) (DLC)</description>
-		<game_id>EP0006-BLES00699_00-DAOPRCPROMOWAR00</game_id>
-		<rom name="2s2JgsuLQjska1acsBeUvYWWpxmdXeUxlNj5EoHOVVFxmmRAwvisSmkklW45hYtraVNdMekVR1Ha3OdqWjX5ANX2ieP9u6WDhHPwd.pkg" size="119504" crc="3b98e96a" md5="7d38835ed4954ddb34b98488a4f3a185" sha1="8e51a3eb6d37a294d54cc5207c24c518c044752e" sha256="f7840a52e2d28b7c228c1b0257892a4f77f3677e60d3ededb2a6fcfab3319ffb"/>
+		<description>Dragon Age - Origins - Amulet of the War Mage (USA) (DLC)</description>
+		<game_id>UP0006-BLUS30415_00-DAOPRCPROMOWAR00</game_id>
+		<rom name="Bl3qxMi4yEM0G8LSp4wnJdaBsK3eDdEORymwi4769cFCEQe2p86fyKDFb4MPqhLRstEgIjEWYawOKPL6xuboqQGkNWunAwJ54JOyf.pkg" size="116080" crc="ec34987a" md5="f158f50fca08d37a42502a2b786b6b36" sha1="cfdf19e9a38b7a933d8829a855a11d3854d2355d" sha256="e5afde7a00c67555a1e4c634a4b5204e7adcf814b5fcc19f67b9b7cec9f0b9d5"/>
 	</game>
 	<game name="Dragon Age - Origins - Awakening (USA) (DLC)" id="15666">
 		<category>Add-Ons</category>
@@ -19185,12 +19196,11 @@
 		<rom name="ROkokilBRQLXDSFhoRRgXYaxpdslpjP2SPAkKx5jYVnWwGcG5vaft2xwsoOybmek1AqGvjjRPoHfUROG36QGklJXPhNx07Sn4tSuY.pkg" size="102400" crc="f339f3df" md5="2d17ed42ea3b4937f76fc293eca39457" sha1="b962db5d3a8053b4e2a3ca1f4a23005233f68847" sha256="da559a1d284444c689f713690deb183dafcfb2b7817a4ea1f1f5a6180f5af53e"/>
 		<rom name="UP0006-BLUS30415_00-DAOPRCPROMO30000.rap" size="16" crc="71ecfd70" md5="3bbf69f0e3e5ed29ad3e1af39bb22b76" sha1="2b099a9c52c26d7c5944a6a03479a88207e52d80" sha256="1d181b220285a6ecab3ba29f594f6372d782af32f40a02874f0080155df77bbe"/>
 	</game>
-	<game name="Dragon Age - Origins - Helm of the Deep (Europe) (DLC)" id="01122">
+	<game name="Dragon Age - Origins - Helm of the Deep (USA) (DLC)" id="15682">
 		<category>Add-Ons</category>
-		<description>Dragon Age - Origins - Helm of the Deep (Europe) (DLC)</description>
-		<game_id>EP0006-BLES00699_00-DAOPRCPROMOHOD00</game_id>
-		<rom name="EP0006-BLES00699_00-DAOPRCPROMOHOD00.rap" size="16" crc="a14bcf66" md5="e3bc7d7ce6b0ff62f0cfbe74ae8a7960" sha1="ff7c85c7b81946d14749515aa31b7049b80e4b49"/>
-		<rom name="K5f3l9mXfTbDsmsrCedVywdsoKBLXuOCij4cHAHwmfQdG1pWBaDMqQPO3lecAsWK7qWO6gI0CXspKW64dkM9gYDpD6F9REMvAQnFQ.pkg" size="122912" crc="4ce3d376" md5="189821698ebbf33930581cc59d4f4a1a" sha1="0f414ba305afcf7632a9eafb9c693b3eb4503a11"/>
+		<description>Dragon Age - Origins - Helm of the Deep (USA) (DLC)</description>
+		<game_id>UP0006-BLUS30415_00-DAOPRCPROMOHOD00</game_id>
+		<rom name="c7etGoceoPhSgOXs1C8YdBX1w7RdGF0y7hSBtxO5SKtssRo3gFHHfkm5Uw0qvqCPPAMobNKmuEj8TjdJpQkOR9XBXFGAIQbaRWP5d.pkg" size="118944" crc="5c9160e6" md5="ea593ebe5d6fe3f20066a63b3c391349" sha1="2a6e2febabad93a0841841e441b61d6f6c822f07" sha256="a8b504e55b9e86d20214c07fe35d6ef9303217d6dad5bb704142b279546c6aed"/>
 	</game>
 	<game name="Dragon Age - Origins - Leliana's Song (USA) (DLC)" id="15670">
 		<category>Add-Ons</category>
@@ -19199,12 +19209,11 @@
 		<rom name="UP0006-BLUS30415_00-DAOPRCLEL0000000.rap" size="16" crc="dffd14ca" md5="4faf5bf0464a0989a328c16a8713f1da" sha1="f4778debaa9ac12a3fdddf4e37099f4945c080a9"/>
 		<rom name="tnAWmj4fahOVmgto8N0571RPLOotV7nD7fbTq2LA7563x0AD7uH9lGgcxlWVMUX10tUGtR4SBFQpxuoJ6bc9FPUe2HAW8iEPqM0xk.pkg" size="460101248" crc="12f01d38" md5="e5fda91986036f9ff95c8d2215fd8823" sha1="5a69a382ac4d7301fdad38e5c2e922823813c6d7"/>
 	</game>
-	<game name="Dragon Age - Origins - Mark of Vigilance (Europe) (DLC)" id="01126">
+	<game name="Dragon Age - Origins - Mark of Vigilance (USA) (DLC)" id="15686">
 		<category>Add-Ons</category>
-		<description>Dragon Age - Origins - Mark of Vigilance (Europe) (DLC)</description>
-		<game_id>EP0006-BLES00699_00-DAOPRCPROMOVGL00</game_id>
-		<rom name="EP0006-BLES00699_00-DAOPRCPROMOVGL00.rap" size="16" crc="97675037" md5="a3841556222fe0f8ee5004331eab098b" sha1="477731564f1413ebdfe460a511bd863add575d37"/>
-		<rom name="tjJf0DrWOEtNC3LiWkpIJufFo6j5osvJLkTkWwiAShSyR6buONgeGpmwS5Xx3BQmbjRUfl2Yp6Rmv3VEGKUpWoSWFhf7bGSKWDC4h.pkg" size="122688" crc="9657b117" md5="7e4eb5ccb410adc5f13d5734098a4010" sha1="aa1146f3c5deeb65db5bc6c180b191ead79590bd"/>
+		<description>Dragon Age - Origins - Mark of Vigilance (USA) (DLC)</description>
+		<game_id>UP0006-BLUS30415_00-DAOPRCPROMOVGL00</game_id>
+		<rom name="29bsVPBWkXvp885h23mBpIqtBEfYMFhE1TItK4JrtX7opAlsGkgsBr7R8Wee5RHj9lQFdHaPTNToKHPSSImoUHDcEhAV0r8xnNiCN.pkg" size="118752" crc="a7e8b196" md5="5586b88758be718577bbed0d43402411" sha1="cef113e0ad104b7f0d9abe0b62d4110a3b8da5d1" sha256="15637f670dffd8cc53305c39afdda564774efbe2ea984db456135843624efe82"/>
 	</game>
 	<game name="Dragon Age - Origins - Memory Band (USA) (DLC)" id="15674">
 		<category>Add-Ons</category>
@@ -19227,11 +19236,11 @@
 		<rom name="1De12EbGrP1Ppnu5xAiQFbcblmLw4hfAFpvdnA3G1v6DmA9iDqnlkUSYbYNMM378WPQ1xMmbLyXFD4TeXcitnxMAvL5nEJLMOs4IJ.pkg" size="356660784" crc="cd6deefe" md5="9126f4b940df5f182a908573b5b8c80d" sha1="3dd3971f100d210ad3af54dee9381ed348a79e59"/>
 		<rom name="UP0006-BLUS30415_00-DAOPRCDRK0000000.rap" size="16" crc="223b20cd" md5="e4c2201d7c8e6d340460810cfe0e7f40" sha1="59a06c0d76081b6cf6b4d18342a293a6337c39f7"/>
 	</game>
-	<game name="Dragon Age - Origins - The Edge (Europe) (DLC)" id="01120">
+	<game name="Dragon Age - Origins - The Edge (USA) (DLC)" id="15680">
 		<category>Add-Ons</category>
-		<description>Dragon Age - Origins - The Edge (Europe) (DLC)</description>
-		<game_id>EP0006-BLES00699_00-DAOPRCPROMOEDG00</game_id>
-		<rom name="HLg2tthNRk9129FnjJ0SyUv8RG1XEYU8AhhQwILogfOw2TDcauT7sKHxjS0F9VVngKnpiEcHPlktT6gjmLsvbFlKDWC4dIssMCJ5R.pkg" size="104704" crc="27a3022e" md5="14697c74e89c5d4e9f59d2b914aa8acd" sha1="8da7a0009a37007d951ada253065dc7bbc534ae3" sha256="c5113f8e7866edab693db9c0087d2f206411b96260a00ef3d6149481da3a200c"/>
+		<description>Dragon Age - Origins - The Edge (USA) (DLC)</description>
+		<game_id>UP0006-BLUS30415_00-DAOPRCPROMOEDG00</game_id>
+		<rom name="UTG1oUtrUk7QMHm67sekpLT8BV5jdg25SunSs7Bpr91JHL68gjg9TrG2lJc9cNqISRrF7d07pECkbbxLXNL75i99rku9YgrFfqG5c.pkg" size="102400" crc="1d702ae2" md5="38b36166bb3416ffd629796c370fadb4" sha1="aba580575e73cf9e0a1caead3ef5c7f4507d77af" sha256="6e65e325022b153847568e1fa3f2aba46d308f1f0bf41b9c4c194ddbdbb0a814"/>
 	</game>
 	<game name="Dragon Age - Origins - The Golems of Amgarrak (USA) (DLC)" id="15667">
 		<category>Add-Ons</category>
@@ -33838,6 +33847,12 @@
 		<rom name="CZOqvchIWSMASOxsnbedhoBobCTdAjWSTumPHXLglcygdpEqQJQoILWpuwImpoRttMlquMAYAUYHgntqeKRZSJHyPCFhwaIrPRQdB.pkg" size="198176" crc="b80732a8" md5="2c858153e1782166e10eb4d4e3430fc6" sha1="6d2ffe7b41891702a1cba9b63ec750ba75201fdd"/>
 		<rom name="JP0177-NPJB00435_00-PJDF2DLCSKN49025.rap" size="16" crc="b2f2bb47" md5="988652e7e2f0c6ada857f0ef0f2856f1" sha1="b46d7178535f67bb4798a38929b40bba891c25a5"/>
 	</game>
+	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - All-Stars (USA) (DLC)" id="16754">
+		<category>Add-Ons</category>
+		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - All-Stars (USA) (DLC)</description>
+		<game_id>UP0177-NPUB31488_00-PJDF2DLCSKN49025</game_id>
+		<rom name="SqoSdkqBDjiWjZgEzhhnsBTUnUasUIjZDhJKxdtCKsXNuqydeidNQVyhMFKErzOE.pkg" size="198176" crc="249b85ab" md5="cf331c7dcb3d76d0c37f5cd873c029a2" sha1="dd964c86870606edcf0f573f83014878ff011ac0"/>
+	</game>
 	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Black Star (USA) (DLC)" id="16805">
 		<category>Add-Ons</category>
 		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Black Star (USA) (DLC)</description>
@@ -33851,12 +33866,11 @@
 		<rom name="JP0177-NPJB00435_00-PJDF2SKN050ID835.rap" size="16" crc="5fa5c0ea" md5="43ac73f56c3bccea6ca9dd336bfc10d9" sha1="5b4fe98650024b1b2f7b829c816232593db6f632"/>
 		<rom name="qMgPXZMlSRxRwXVntJLPMMdoyiMtXydWSqBANKohcZSeNIJwAHZQKNGgagkUOXccPHgRTUwgLluHCDTpCnWfHXJGNbFUCkqWrrYox.pkg" size="108832" crc="deb9512a" md5="4f592a6833cea5d46bfc020f859234f3" sha1="e551bcbc39fabd0b3e11c8270eb0a61f17de66c1"/>
 	</game>
-	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Blue Moon (Europe) (DLC)" id="02131">
+	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Blue Moon (USA) (DLC)" id="16806">
 		<category>Add-Ons</category>
-		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Blue Moon (Europe) (DLC)</description>
-		<game_id>EP0177-NPEB02013_00-PJDF2SKN051ID836</game_id>
-		<rom name="EP0177-NPEB02013_00-PJDF2SKN051ID836.rap" size="16" crc="1bcdce3f" md5="3350e5aa1cafc28b4c01c5eb0def479d" sha1="2dcdbb54ccb8390df261f1ab3165b4e0e05fe99f"/>
-		<rom name="EP0177-NPEB02013_00-PJDF2SKN051ID836_bg_1_ad51b2bc9617e62770dcbb8bfef53b05fa172648.pkg" size="102400" crc="46b2b595" md5="7b338c957c8da3cbcd123c40a7b93cd1" sha1="d4b01ee22dae0b3505bee7073122a55e0aa3d962"/>
+		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Blue Moon (USA) (DLC)</description>
+		<game_id>UP0177-NPUB31488_00-PJDF2SKN051ID836</game_id>
+		<rom name="UP0177-NPUB31488_00-PJDF2SKN051ID836_bg_1_b5cde422f6450516853372f1198da4af1332413f.pkg" size="102400" crc="12377461" md5="284e060c59f47205f7b1dbfb2110dee3" sha1="cd7feeca08a508fa2cfd258438fb9d53de8c9ce6"/>
 	</game>
 	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - BlueMoon (Japan) (DLC)" id="10864">
 		<category>Add-Ons</category>
@@ -33879,11 +33893,11 @@
 		<rom name="UP0177-NPUB31488_00-PJDF2SKN053ID848.rap" size="16" crc="19370240" md5="830c99b2d1b3965fe8cc443e1e1a7d3d" sha1="1994cce97097db73cf8acc4f0529f5c2f4807ff8" sha256="794c4afad85e54b884ce99592736503cbdf2bc07f5d8dc834ffd81d556429aa1"/>
 		<rom name="UP0177-NPUB31488_00-PJDF2SKN053ID848_bg_1_93d6b61b3999d963ab1de9a71e6312cb30ee8a8e.pkg" size="170400" crc="16a1e177" md5="ccf116c9b9c163bdc7b0718fe0534abc" sha1="ed6e85361030e127bb9576a31648ce1396131755"/>
 	</game>
-	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Butterflies &amp; Blossom - Silver (Asia) (DLC)" id="08186">
+	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Butterflies &amp; Blossom - Silver (USA) (DLC)" id="16809">
 		<category>Add-Ons</category>
-		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Butterflies &amp; Blossom - Silver (Asia) (DLC)</description>
-		<game_id>HP0177-NPHB00671_00-PJDF2SKN054ID849</game_id>
-		<rom name="HP0177-NPHB00671_00-PJDF2SKN054ID849_bg_1_a1e5f688e428e19641bf3e610e56d7e5ade18c97.pkg" size="170208" crc="3ddec2b6" md5="5df921e2cd788a660d6599709c7bcdbb" sha1="ebe67362622a5e59bd2cc46672013fc22924a17d" sha256="2c04931bfb9faaf9f8b18335ed1b40222dbef202e4f0ad73846bc7c38799f7ce"/>
+		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Butterflies &amp; Blossom - Silver (USA) (DLC)</description>
+		<game_id>UP0177-NPUB31488_00-PJDF2SKN054ID849</game_id>
+		<rom name="UP0177-NPUB31488_00-PJDF2SKN054ID849_bg_1_03595abe79c8701ee67f9ba9386a6e4f0fa7e3e1.pkg" size="170208" crc="5987ffa9" md5="3e37330a3224033f4a0a00d8bf5f7c1a" sha1="2e25983a98c8e5e1b0872b5ede17d49e762fd66e"/>
 	</game>
 	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Butterflies - Colour (Europe) (DLC)" id="02135">
 		<category>Add-Ons</category>
@@ -33990,12 +34004,11 @@
 		<rom name="UP0177-NPUB31488_00-PJDF2DLCSKN40020.rap" size="16" crc="b078c1a5" md5="e3be0adc3b84409930d00b112cd9a5b4" sha1="d3a4cbcd0b66ce8c75a88ef4f82b9d67c5935ca9" sha256="d2eaa5fc75ebe645a8d00a3093f363e4108aa2d88062f189286efae1e879f4a3"/>
 		<rom name="xOaMIgDBlNwWpMXcxioFOYOSWtGUQDXhYPqEyhVtmYzEeccRNfRVUOFxWrxIARIo.pkg" size="158624" crc="874183ad" md5="befb2ae1e30863c65952194582c6dd18" sha1="e30d42b1bcd26b99c19d446b70614292ce9f3fcf"/>
 	</game>
-	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Miku &amp; Luka (Europe) (DLC)" id="02074">
+	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Miku &amp; Luka (USA) (DLC)" id="16749">
 		<category>Add-Ons</category>
-		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Miku &amp; Luka (Europe) (DLC)</description>
-		<game_id>EP0177-NPEB02013_00-PJDF2DLCSKN35017</game_id>
-		<rom name="EP0177-NPEB02013_00-PJDF2DLCSKN35017.rap" size="16" crc="f4f97ff1" md5="2e39f99c28d80706f0ded45fb23c1f90" sha1="f2b40111c740b2f29277afb5b04ac5a54fc994ef"/>
-		<rom name="GDWzagqMaKXVrlmytHgFguNPqZxDHGEjriNeActEGXKXNmoYGIOvgDovsURUzrAH.pkg" size="209184" crc="03002ea8" md5="c7d98f5e62af76933e83503659c58264" sha1="6534f95e77b9c67ff110e80e5bbf7a45f585a749"/>
+		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Miku &amp; Luka (USA) (DLC)</description>
+		<game_id>UP0177-NPUB31488_00-PJDF2DLCSKN35017</game_id>
+		<rom name="xfgZdHKjsefmdCrQcXRZCxcumFInaFVPTEkaWBxFyNyzZZjXIPRHrSKNdKWoiQKH.pkg" size="209184" crc="255673b3" md5="f544c1c0c95d765c624b84f73721d4b2" sha1="dad91a0bf95c8d2e8b9287fb053ffd3a961c354e"/>
 	</game>
 	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Miku &amp; Luka - Heart (Japan) (DLC)" id="10807">
 		<category>Add-Ons</category>
@@ -34025,12 +34038,11 @@
 		<rom name="BHryKozamfvgBGeqmtaCWZGoPVQHqPIaIPMSkXPUbvHkSFeeOcfzuCXjzpSvhusc.pkg" size="158624" crc="8667168c" md5="6bb86841f6b9cb7587981c87ab8b1522" sha1="32b944e547bb07e451190803e20368cc6534bb39"/>
 		<rom name="UP0177-NPUB31488_00-PJDF2DLCSKN27012.rap" size="16" crc="650324ad" md5="84842423dde52d9e54673d38ad84735f" sha1="f86fba1d5d3122be9c7249843115211a60f5c073" sha256="ae899fade2ca1faeff535006bc1af0df89020285bf6fa03f71c507e61f8f95fe"/>
 	</game>
-	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Miku - Honeycomb (Europe) (DLC)" id="02078">
+	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Miku - Honeycomb (USA) (DLC)" id="16753">
 		<category>Add-Ons</category>
-		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Miku - Honeycomb (Europe) (DLC)</description>
-		<game_id>EP0177-NPEB02013_00-PJDF2DLCSKN48024</game_id>
-		<rom name="EP0177-NPEB02013_00-PJDF2DLCSKN48024.rap" size="16" crc="3bd4206b" md5="98c1ecd8d2922001bf50d1d36060fdab" sha1="bdb48816e90ea7070338edddf2d5e8b9b8bd41cb"/>
-		<rom name="XKksGxoejKmCBIyogHODBLrTqYkehGITUpfSJkwvcEwOSUpHhZuIGOnuXIBUeBEf.pkg" size="250656" crc="8c5fdb09" md5="42c066519c25c77be15bcbd1bbb2b21b" sha1="b48b63235dc1df79158311da51dd217f79c50b47"/>
+		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Miku - Honeycomb (USA) (DLC)</description>
+		<game_id>UP0177-NPUB31488_00-PJDF2DLCSKN48024</game_id>
+		<rom name="ZYNAWfABLwwVbwdNvgfrTVOaQWqxiSSPqKjIcuYuuAuBdYIpkaIcoCwuDodCGXck.pkg" size="250656" crc="f9b283bb" md5="1449d2419b50a3aee978fb103b2b21fc" sha1="0f842265a7144871671811fe4c04682a32eacedc"/>
 	</game>
 	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Nekoneko Cape - Concept (Japan) (DLC)" id="10858">
 		<category>Add-Ons</category>
@@ -34066,12 +34078,11 @@
 		<rom name="JP0177-NPJB00435_00-PJDF2DLCSKN25011.rap" size="16" crc="86ff3eab" md5="804d0fae101ac22085fcf56469edb704" sha1="27b0552b7a669e2e532e1c82c5ff194df281fe18"/>
 		<rom name="PnPFFkZvcDQRxcURJiwMoMvxEsIBlsVDyzZMTNwaFqyEvWDpYvrfFpDGmIUrnFfcVefgUCgixJiWawwgaGnPlUeeeUzNqRQkRNqJU.pkg" size="130848" crc="bb52f211" md5="c1bef1126bd5eecf647eb4cde3b31b8f" sha1="d4c00d262b09e72232d0b10b090a8f2f9a6fff5c"/>
 	</game>
-	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len - Buddies (Europe) (DLC)" id="02132">
+	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len - Buddies (USA) (DLC)" id="16807">
 		<category>Add-Ons</category>
-		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len - Buddies (Europe) (DLC)</description>
-		<game_id>EP0177-NPEB02013_00-PJDF2SKN052ID837</game_id>
-		<rom name="EP0177-NPEB02013_00-PJDF2SKN052ID837.rap" size="16" crc="b048a9e8" md5="51003bebbac59809c06508a95609d815" sha1="f7c0cdeae24623075134f3f122fb269551febe12"/>
-		<rom name="EP0177-NPEB02013_00-PJDF2SKN052ID837_bg_1_db7fd77efa82e33a04ba724d9331c9f78c645f22.pkg" size="102400" crc="cfb598d3" md5="34e071cca73054e8f0602e35ef27ada2" sha1="352cacbea9d88f818d0e6a4107ae08325d0b770d"/>
+		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len - Buddies (USA) (DLC)</description>
+		<game_id>UP0177-NPUB31488_00-PJDF2SKN052ID837</game_id>
+		<rom name="UP0177-NPUB31488_00-PJDF2SKN052ID837_bg_1_afdf5d6a5cc469dd4139e313d0cdbd8933aa7212.pkg" size="102400" crc="eb32a00b" md5="7c8453be04bcf09c1127fe668b716ecc" sha1="e162255aafe02c80d034ca047aac3f8b7067a82c"/>
 	</game>
 	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len - Buddy (Japan) (DLC)" id="10865">
 		<category>Add-Ons</category>
@@ -34080,12 +34091,11 @@
 		<rom name="AHcVWCDQwEwNIYIrtFRkRJGEmlCHYmFwuqFSBMEAfMaNSeazwsflqyEVbGZUfNFBcEqjhjuPrWvJhNreKjrfCYMoPfabWyhVNsMRw.pkg" size="102400" crc="346a5614" md5="6a776b028028249d4b78a9e34ba51bca" sha1="d6d533f080916b7a6a8e3f592da52e5939957273"/>
 		<rom name="JP0177-NPJB00435_00-PJDF2SKN052ID837.rap" size="16" crc="c55860da" md5="ffad3cf3fc466676c0c6252620429a53" sha1="48a1d10344080af034372aa3e9e512e9287e0bcf"/>
 	</game>
-	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len - Green Field (Europe) (DLC)" id="02126">
+	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len - Green Field (USA) (DLC)" id="16801">
 		<category>Add-Ons</category>
-		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len - Green Field (Europe) (DLC)</description>
-		<game_id>EP0177-NPEB02013_00-PJDF2SKN015ID834</game_id>
-		<rom name="EP0177-NPEB02013_00-PJDF2SKN015ID834.rap" size="16" crc="2e07c1c6" md5="6002c8548a0409957e00989f3695e979" sha1="76c5393c0a9c3e69b64d52d8aa82705fc2675a57"/>
-		<rom name="EP0177-NPEB02013_00-PJDF2SKN015ID834_bg_1_383d0b85161a69cb7ad91f926a1739afde8377ca.pkg" size="180768" crc="4844738a" md5="f9aff65be983b05a5c8018cb289dad66" sha1="86295bb8af5086cb43e449155feaea7b862effa3"/>
+		<description>Hatsune Miku - Project Diva F 2nd - UI Skin - Rin &amp; Len - Green Field (USA) (DLC)</description>
+		<game_id>UP0177-NPUB31488_00-PJDF2SKN015ID834</game_id>
+		<rom name="UP0177-NPUB31488_00-PJDF2SKN015ID834_bg_1_a6db63b721e84bcc4180687832856d2d9eab9183.pkg" size="180768" crc="653d2670" md5="71d052634fb359e2e84c5f0fc4ce40fe" sha1="459cfbddc57800b7a2043c9ae20e24b603606049"/>
 	</game>
 	<game name="Hatsune Miku - Project Diva F 2nd - UI Skin - Rin (Europe) (DLC)" id="02071">
 		<category>Add-Ons</category>
@@ -103343,12 +103353,11 @@
 		<rom name="SgGcJSJaMCfVKYrlqkTfUikCVUDiiCOA8oB1KO9Uq5iJyMT2bC1JGcUakvdSTY8fFr4b7UoI872qJxlVtw1pA0mosU3pbXMEGKCcY.pkg" size="318864" crc="95b1529e" md5="82d23cad42fbfaa0d609e64e0f1eebff" sha1="2ca37ec361fbd563a43f3a9f2b3e3ac1c7ccc005"/>
 		<rom name="UP9000-BCUS98123_00-UNCHARTED2REV001.rap" size="16" crc="059c1594" md5="3a122b02585be295e1f516dbcfa715b8" sha1="cb14339c596a1837f6ab51326fa3702c4cd97dda"/>
 	</game>
-	<game name="Uncharted 2 - Among Thieves - Rika Pinkerton Skins (Asia) (DLC)" id="08435">
+	<game name="Uncharted 2 - Among Thieves - Rika Pinkerton Skins (Europe) (DLC)" id="06064">
 		<category>Add-Ons</category>
-		<description>Uncharted 2 - Among Thieves - Rika Pinkerton Skins (Asia) (DLC)</description>
-		<game_id>HP9000-BCAS20097_00-UNCHARTED2RIKPIN</game_id>
-		<rom name="HP9000-BCAS20097_00-UNCHARTED2RIKPIN.rap" size="16" crc="1d50ec20" md5="aeae4681747ff9cd8eeeaedd2d2cafe5" sha1="0e41f605a1d0e642db47d5bd9aaea0e383dfaed1" sha256="acb7ae2bb634b714bbb8a4df182519b4f7afc1b8f0182b991c2ed545c46ab424"/>
-		<rom name="m12r8Tpl8wSsDxHaVR35UqgLQtI1IMck5Xsf0hvTk2JBfAbqn3yF2HfYA9MFbwJkHImnhuoN2GluKlPoSc97uwXNWyXLhFJfyO1H3.pkg" size="143792" crc="7f4ba06a" md5="da4537696f2feb2772c9fd0b99b0824d" sha1="9f70019253e44eb212dd5c283803ff30542d7e9e" sha256="e115a05755c5b64d599349a4de88b102acf85755b25a0e4a34a70e5b1f823982"/>
+		<description>Uncharted 2 - Among Thieves - Rika Pinkerton Skins (Europe) (DLC)</description>
+		<game_id>EP9000-BCES00757_00-UNCHARTED2RIKPIN</game_id>
+		<rom name="r8QSGibu3Yw114muyk4upIf8Ui0MGaDuuaPDl9vKFaiFL5dFcSVLJPgHRtee2f2EMesOFq7YUqKjbN15lImoaQdKWhNwDO9V2vKGC.pkg" size="143792" crc="82dc7de7" md5="2b2ddc713b7b741812873d3b133b38ec" sha1="e8bb75026e73d4c0db7805aacf7ea583ff1dc393"/>
 	</game>
 	<game name="Uncharted 2 - Among Thieves - Sidekick Skin Pack (USA) (DLC)" id="20883">
 		<category>Add-Ons</category>
