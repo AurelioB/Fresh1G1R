@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Nintendo - Nintendo DS (Encrypted) (Retool)</name>
-		<description>Nintendo - Nintendo DS (Encrypted) (3,940) (-y) [-aAbBcefkmMoprv] (20260619-194010) (Retool)</description>
-		<version>20260619-194010</version>
-		<date>2026-06-21 03-32-59</date>
+		<description>Nintendo - Nintendo DS (Encrypted) (3,939) (-y) [-aAbBcefkmMoprv] (20260620-161901) (Retool)</description>
+		<version>20260620-161901</version>
+		<date>2026-06-22 03-32-06</date>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2956,16 +2956,6 @@
 		<category>Games</category>
 		<description>Code de la Route, Le - Moto et BSR (France)</description>
 		<rom name="Code de la Route, Le - Moto et BSR (France).nds" size="33554432" crc="c8161db2" md5="c6327f0c2697f62f6cfbe28076dc3a1c" sha1="02786007c4d16892cffa7f3a1446218594d2cd2a"/>
-	</game>
-	<game name="CodeFreak DS (Japan) (Unl)" id="z083">
-		<category>Games</category>
-		<description>CodeFreak DS (Japan) (Unl)</description>
-		<rom name="CodeFreak DS (Japan) (Unl).nds" size="2097152" crc="e2ffc362" md5="2ea7a0af30386ead3c47bf4f4aa5db6d" sha1="1d107b6bfc7f4b86a60817128c544e86b7770dd4"/>
-	</game>
-	<game name="CodeFreak DS Type II (Japan) (Unl)" id="z084">
-		<category>Games</category>
-		<description>CodeFreak DS Type II (Japan) (Unl)</description>
-		<rom name="CodeFreak DS Type II (Japan) (Unl).nds" size="2097152" crc="47fc780a" md5="24aa7f5aa353d0d9c4273411858710ea" sha1="6cb105f19a4849322796a16685ea6e55f1805749"/>
 	</game>
 	<game name="Collection (World) (Datel Games n' Music) (Unl)" id="z615">
 		<category>Games</category>
@@ -11823,7 +11813,7 @@
 	<game name="Naruto - Ninja Council 2 - European Version (Europe) (En,Fr,De,Es,It)" id="2736">
 		<category>Games</category>
 		<description>Naruto - Ninja Council 2 - European Version (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Naruto - Ninja Council 2 - European Version (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="3d833903" md5="109e5d6e7fc644f3c5db2f5043059e23" sha1="ca5addb598cb27cb63d746a129670ee20147d255"/>
+		<rom name="Naruto - Ninja Council 2 - European Version (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="3d833903" md5="109e5d6e7fc644f3c5db2f5043059e23" sha1="ca5addb598cb27cb63d746a129670ee20147d255" sha256="a57858993eda2e62cf6aab0b80359b38096816b878717d1b1cf96cf93a2836c9"/>
 	</game>
 	<game name="Naruto - Ninja Council 3 (USA)" id="1096">
 		<category>Games</category>
@@ -19696,6 +19686,11 @@
 		<category>Games</category>
 		<description>futureU - The Prep Game for SAT (USA)</description>
 		<rom name="futureU - The Prep Game for SAT (USA).nds" size="16777216" crc="95ebffb0" md5="96079256014f567e1ccfdbe09713f321" sha1="fc00b5eced22bc52301d9248157be70ae6bd2e87"/>
+	</game>
+	<game name="i-Cheat Games (Germany) (Unl)" id="z669">
+		<category>Add-Ons</category>
+		<description>i-Cheat Games (Germany) (Unl)</description>
+		<rom name="i-Cheat Games (Germany) (Unl).nds" size="2097152" crc="205ba3e2" md5="ed9fddca4245f783685f54d7565ce8a6" sha1="365e4e690a78f4d34a6060061ad23ec4a37b2498" sha256="30d0fd8fd86cd14a92620e36ae02436a70d183d4c2ab05c2595fc062cfecbae3"/>
 	</game>
 	<game name="iCarly (USA) (En,Fr) (NDSi Enhanced)" id="4609">
 		<category>Games</category>

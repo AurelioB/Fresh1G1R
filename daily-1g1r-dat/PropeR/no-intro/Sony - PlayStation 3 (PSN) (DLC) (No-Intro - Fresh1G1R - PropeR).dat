@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<name>Sony - PlayStation 3 (PSN) (DLC) (Retool)</name>
-		<description>Sony - PlayStation 3 (PSN) (DLC) (16,805) (-y) [-aAbBcdkmMpPuv] (20260618-031226) (Retool)</description>
-		<version>20260618-031226</version>
-		<date>2026-06-21 03-45-50</date>
+		<description>Sony - PlayStation 3 (PSN) (DLC) (16,805) (-y) [-aAbBcdkmMpPuv] (20260620-062109) (Retool)</description>
+		<version>20260620-062109</version>
+		<date>2026-06-22 03-44-59</date>
 		<author>bikerspade, buckwheat, C. V. Reynolds, emstan784, FakeShemp, Hiccup, Intothisworld, Landcross, norkmetnoil577, rarenight, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -28780,20 +28780,20 @@
 		<description>Genji - Kamui Souran - Character Costume 03 (Japan) (DLC)</description>
 		<game_id>JP9000-BCJS30002_00-GENJI00000010003</game_id>
 		<rom name="3v5SEFMn6YhRnnTgo4O9x6OS3aCjSCI9AIaR3r3IXGRYUFa5g4GaQX6Fq7CP7yXC4lN29o3dmMqMGvScQPT1liTlL4gUs7LE9nTIt.pkg" size="18794896" crc="591949b9" md5="e4a9ff0b67b0910165f7f89249043583" sha1="af9971cde2a0113e8f871f82c6fd3371affb0fe3"/>
-		<rom name="JP9000-BCJS30002_00-GENJI00000010003.rap" size="16" crc="1ea170e4" md5="7f15f830a8bf957d204faddafe730c63" sha1="79f3f56b219321055d124d023280795c36dd671b"/>
+		<rom name="JP9000-BCJS30002_00-GENJI00000010003.rap" size="16" crc="3fdfdcd8" md5="1d411e79d6d522541eb1dfc4678021f7" sha1="7d06a7ac24c0bfe646312ffc405f8478365bda20" sha256="273c0c25fa5cc346b95005d760a9834b0bda5d62ac3b69a1936de63b16cc5171"/>
 	</game>
 	<game name="Genji - Kamui Souran - Character Costume 04 (Japan) (DLC)" id="11897">
 		<category>Add-Ons</category>
 		<description>Genji - Kamui Souran - Character Costume 04 (Japan) (DLC)</description>
 		<game_id>JP9000-BCJS30002_00-GENJI00000010004</game_id>
-		<rom name="JP9000-BCJS30002_00-GENJI00000010004.rap" size="16" crc="18b81e8c" md5="03e4b99fe22aa6b5886e9a3b5e11a5ab" sha1="c3fa2c76c80c19d36b772019b4666a3909d0aed5"/>
+		<rom name="JP9000-BCJS30002_00-GENJI00000010004.rap" size="16" crc="1a1f261a" md5="a82939b3197ee6e6b3f65ab7185b7739" sha1="702d1c86ca9b495d14e221be0b1f14cd9d98b8e3" sha256="1399a2f035caed4df1b59821933fdf802786e8d5501e1c1193c62b94c309ac65"/>
 		<rom name="JjbNwfYK683pokQ8bncfGIrEFYF9PEByXWbvC2B7OdI5Vv7uQUl6LVIxT3Fnom12WfAH3a2w7r0xwSQh22tNJKR32KqiSXldQgkah.pkg" size="18746688" crc="53bff441" md5="1ba8ff41167ef2ee8d64c3899000ac5d" sha1="5af315e42c09a984c1acf88107b613fd90f2ab8a"/>
 	</game>
 	<game name="Genji - Kamui Souran - Character Costume 05 (Japan) (DLC)" id="11898">
 		<category>Add-Ons</category>
 		<description>Genji - Kamui Souran - Character Costume 05 (Japan) (DLC)</description>
 		<game_id>JP9000-BCJS30002_00-GENJI00000010005</game_id>
-		<rom name="JP9000-BCJS30002_00-GENJI00000010005.rap" size="16" crc="8f4c3e06" md5="2c1956340c0c40c81786edab0e1298a3" sha1="c1f1b7b78273787867e8d5c636ff4c594aaf179a"/>
+		<rom name="JP9000-BCJS30002_00-GENJI00000010005.rap" size="16" crc="25cb1e5f" md5="32f75c3163c77a2192d765d1e8b36816" sha1="fc0a1b09f65ba5e496487c63e1afa213172aaaf4" sha256="0e76621cbc8529fb0f289ede9335166450d0effb5afd238aaef155ccf138f25e"/>
 		<rom name="hWkTlLYJLAlk0jyoLOitOoEHFMErQLaQTd8Ui280wX5xW6cDShV2AW2v8SL44mLObyVddwc41qEQEwJ88yQIRSktS7Vn037hhBIma.pkg" size="19150960" crc="77088130" md5="5bd1545404fec322b58db08c1b493eef" sha1="03225ebfc61d8e2ca49eee2289a8944ea2ed1a43"/>
 	</game>
 	<game name="Genji - Kamui Souran - Character Costume 06 (Japan) (DLC)" id="11899">
